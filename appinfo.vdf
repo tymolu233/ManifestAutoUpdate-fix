@@ -1,0 +1,260 @@
+"appid" "907270"
+"common"
+{
+	"name" "eSports Legend / 电竞传奇"
+	"type" "Game"
+	"clienticon" "07988f8afc8d7c4bb721cc8da6f5d540f7e17066"
+	"clienttga" "516bf259c61be53455bbe704b8bef37c23a7884f"
+	"icon" "624ef4f78b2f08d5e8e6d20e16256929528f14dd"
+	"clienticns" "b8db9cbc63a8e410eba8c7adae80fee9715e96e8"
+	"logo" "9debe6ef4b416b969868ac1caa2935701d8957aa"
+	"logo_small" "9debe6ef4b416b969868ac1caa2935701d8957aa_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "电竞传奇"
+		"tchinese" "電競傳奇"
+		"english" "eSports Legend"
+		"sc_schinese" "电竞传奇"
+	}
+	"steamchinaapproved" "1"
+	"releasestatesteamchina" "released"
+	"metacritic_name" "电竞传奇"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1610784281"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "90Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Coconut Island Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Coconut Island Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1539673200"
+	"steam_release_date" "1539669687"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "907270"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "9"
+		"2" "492"
+		"3" "597"
+		"4" "5055"
+		"5" "12472"
+		"6" "701"
+		"7" "3959"
+	}
+	"review_score" "5"
+	"review_percentage" "62"
+}
+"extended"
+{
+	"developer" "90Games"
+	"publisher" "Coconut Island Games"
+	"homepage" "http://coconut.is/esports-legend/"
+}
+"config"
+{
+	"installdir" "电竞传奇"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "EL_Steam.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"realm" "steamglobal"
+			}
+		}
+		"1"
+		{
+			"executable" "EL_Steam.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"realm" "steamchina"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"907271"
+	{
+		"config"
+		{
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6970567409204107432"
+				"size" "826852405"
+				"download" "87464864"
+			}
+		}
+	}
+	"907272"
+	{
+		"config"
+		{
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5543323776804993990"
+				"size" "830746038"
+				"download" "88750560"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6194506"
+			"timeupdated" "1612521876"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "EL_Steam_Data/StreamingAssets/Save"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "5cb3f1cdd7a1247a7780595193cccb484dd87c9e"
+"_size" "4411"
