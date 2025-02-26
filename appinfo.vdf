@@ -1,0 +1,964 @@
+"appid" "601150"
+"common"
+{
+	"name" "Devil May Cry 5"
+	"type" "Game"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"clienticon" "b90a5a5e6d9794b6379fb43aeb8b484832534e7b"
+	"clienttga" "1cc1e429565e94b20a49f92daf0e152cc4054f6a"
+	"icon" "7ec2f6fb9069c3ae03af7e83610862090cd757bb"
+	"logo" "8f902b40cdb345f6d61c4f11693bb6cf2913b431"
+	"logo_small" "8f902b40cdb345f6d61c4f11693bb6cf2913b431_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1659139200"
+		"tested_build_id" "7654888"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Devil May Cry 5"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "18.990224070619618"
+			"height_pct" "44.26354630371049"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "18.990224070619618"
+				"height_pct" "44.26354630371049"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1671156456"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CAPCOM Co., Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CAPCOM Co., Ltd."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Devil May Cry"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_38" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_61" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1552003200"
+	"metacritic_score" "89"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/devil-may-cry-5\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "601150"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1646"
+		"2" "1756"
+		"3" "3955"
+		"4" "9541"
+		"5" "4777"
+		"6" "1697"
+		"7" "4182"
+		"8" "12095"
+		"9" "4667"
+		"10" "6650"
+		"11" "1742"
+		"12" "4252"
+		"13" "4026"
+		"14" "1693"
+		"15" "4345"
+		"16" "3859"
+		"17" "7481"
+		"18" "21"
+		"19" "4085"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "CAPCOM Co., Ltd."
+	"publisher" "CAPCOM Co., Ltd."
+	"homepage" "http://www.capcom.co.jp/devil5/"
+	"listofdlc" "940500,940501,941950,941951,941952,941953,941954,941955,941956,941957,941958,941959,941960,941961,941962,941963,941964,941965,941966,941967,941968,941969,941970,941971,941972,941973,945600,1432640,1432641,1432642,1432643"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Devil May Cry 5"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DevilMayCry5.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2173676589"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"hasdepotsindlc" "0"
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"601151"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5034340940015103443"
+				"size" "36243803797"
+				"download" "35303050464"
+			}
+		}
+	}
+	"601152"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "37045512487732505"
+				"size" "137749400"
+				"download" "30054448"
+			}
+		}
+	}
+	"940500"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "940500"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7413960716303235231"
+				"size" "91"
+				"download" "128"
+			}
+		}
+	}
+	"940501"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "940501"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5229117904072034661"
+				"size" "91"
+				"download" "128"
+			}
+		}
+	}
+	"945600"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "945600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1049804611294232219"
+				"size" "2010171"
+				"download" "2027584"
+			}
+		}
+	}
+	"941950"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941950"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1733062317174775810"
+				"size" "4728569"
+				"download" "4723360"
+			}
+		}
+	}
+	"941951"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941951"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1793548331382100654"
+				"size" "5941810"
+				"download" "5941440"
+			}
+		}
+	}
+	"941952"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941952"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7836766670222491839"
+				"size" "6498014899"
+				"download" "6535387216"
+			}
+		}
+	}
+	"941953"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941953"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8310295697438327235"
+				"size" "13281298"
+				"download" "13355696"
+			}
+		}
+	}
+	"941954"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941954"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "837912433757808297"
+				"size" "8524698"
+				"download" "8551648"
+			}
+		}
+	}
+	"941955"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941955"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6069115808325012717"
+				"size" "29243864"
+				"download" "29380544"
+			}
+		}
+	}
+	"941956"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941956"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5302859582744244072"
+				"size" "19206265"
+				"download" "19333472"
+			}
+		}
+	}
+	"941957"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941957"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6916454231030537530"
+				"size" "91"
+				"download" "128"
+			}
+		}
+	}
+	"941958"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941958"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8571966787997831230"
+				"size" "91"
+				"download" "128"
+			}
+		}
+	}
+	"941959"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941959"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "356846819042459435"
+				"size" "91"
+				"download" "128"
+			}
+		}
+	}
+	"941960"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941960"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6463853996233742067"
+				"size" "91"
+				"download" "128"
+			}
+		}
+	}
+	"941961"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941961"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8880438414751949738"
+				"size" "91"
+				"download" "128"
+			}
+		}
+	}
+	"941962"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941962"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2042862104026645730"
+				"size" "91"
+				"download" "128"
+			}
+		}
+	}
+	"941964"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941964"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6178417925001500048"
+				"size" "91"
+				"download" "128"
+			}
+		}
+	}
+	"941965"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941965"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4567030356497547206"
+				"size" "91"
+				"download" "128"
+			}
+		}
+	}
+	"941966"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941966"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3894647195957834299"
+				"size" "91"
+				"download" "128"
+			}
+		}
+	}
+	"941967"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941967"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4320090065644073508"
+				"size" "91"
+				"download" "128"
+			}
+		}
+	}
+	"941968"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941968"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7938728316001059583"
+				"size" "91"
+				"download" "128"
+			}
+		}
+	}
+	"941969"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941969"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1975364972596125654"
+				"size" "91"
+				"download" "128"
+			}
+		}
+	}
+	"941970"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941970"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6530594450675633820"
+				"size" "91"
+				"download" "128"
+			}
+		}
+	}
+	"941971"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941971"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3217701174541188638"
+				"size" "91"
+				"download" "128"
+			}
+		}
+	}
+	"941972"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941972"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4382130040615286187"
+				"size" "91"
+				"download" "128"
+			}
+		}
+	}
+	"941973"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941973"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8505788485278530046"
+				"size" "91"
+				"download" "128"
+			}
+		}
+	}
+	"941963"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "941963"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8463787236633176238"
+				"size" "91"
+				"download" "128"
+			}
+		}
+	}
+	"1432640"
+	{
+		"dlcappid" "1432640"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5156559174384676617"
+				"size" "183"
+				"download" "224"
+			}
+		}
+	}
+	"1432641"
+	{
+		"dlcappid" "1432641"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4622666309481266876"
+				"size" "241"
+				"download" "288"
+			}
+		}
+	}
+	"1432642"
+	{
+		"dlcappid" "1432642"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3752668043537101024"
+				"size" "186"
+				"download" "224"
+			}
+		}
+	}
+	"1432643"
+	{
+		"dlcappid" "1432643"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6950015429532708433"
+				"size" "186"
+				"download" "224"
+			}
+		}
+	}
+	"1432644"
+	{
+		"dlcappid" "1432644"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+	}
+	"1432645"
+	{
+		"dlcappid" "1432645"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11025947"
+			"timeupdated" "1682318830"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "64000000"
+	"maxnumfiles" "16"
+}
+"_missing_token" "False"
+"_change_number" "27486457"
+"_sha" "77cc6f042c9e1ed2f81fa5053bff33a2bcafe8d7"
+"_size" "14526"
