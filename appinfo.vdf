@@ -1,0 +1,447 @@
+"appid" "604540"
+"common"
+{
+	"name" "Empire of Sin"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"logo" "3aa7922f8f2ea08d94d61fd5e43255d2f0aa293f"
+	"logo_small" "3aa7922f8f2ea08d94d61fd5e43255d2f0aa293f_thumb"
+	"icon" "5804e4bf8fbc260506404db70313e9d91c577d1d"
+	"clienticon" "90a82936ff33fa597517e49a09c3e66cc108380e"
+	"clienttga" "4f4bae972e6c41ce340bef3623fa56adb47399d3"
+	"osextended" "macos64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "604540_eula_0"
+			"name" "Empire of Sin EULA"
+			"url" "https://store.steampowered.com//eula/604540_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1645228800"
+		"tested_build_id" "7548403"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"koreana" "header_koreana.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "33.31001886299879"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "33.31001886299879"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1631718952"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Romero Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paradox Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Empire of Sin"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "3"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1606838400"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "604540"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "6378"
+		"2" "12472"
+		"3" "122"
+		"4" "14139"
+		"5" "1677"
+		"6" "6052"
+		"7" "4325"
+		"8" "1741"
+		"9" "19"
+		"10" "5851"
+		"11" "4182"
+		"12" "1708"
+		"13" "3987"
+		"14" "599"
+		"15" "3810"
+		"16" "13190"
+		"17" "17305"
+		"18" "4166"
+		"19" "7208"
+	}
+	"review_score" "5"
+	"review_percentage" "47"
+}
+"extended"
+{
+	"developer" "Romero Games"
+	"publisher" "Paradox Interactive"
+	"homepage" "http://empireofsingame.com"
+	"listofdlc" "1303310,1303311,1303312,1303313,1303314"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "EmpireOfSin"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "EmpireOfSin.app/Contents/ParadoxLauncher/dowser"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"1"
+		{
+			"executable" "ParadoxLauncher\\dowser.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"hasdepotsindlc" "1"
+	"workshopdepot" "604540"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"604541"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1621145344061993502"
+				"size" "10083115617"
+				"download" "4911519584"
+			}
+		}
+	}
+	"604543"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "900883316455796188"
+				"size" "10020110196"
+				"download" "4901775808"
+			}
+		}
+	}
+	"1303311"
+	{
+		"dlcappid" "1303311"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5252471648051514011"
+				"size" "383042"
+				"download" "385504"
+			}
+		}
+	}
+	"1303312"
+	{
+		"dlcappid" "1303312"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7054644355146635704"
+				"size" "444318"
+				"download" "446736"
+			}
+		}
+	}
+	"1303310"
+	{
+		"dlcappid" "1303310"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1802411918330481105"
+				"size" "362270"
+				"download" "363936"
+			}
+		}
+	}
+	"1303313"
+	{
+		"dlcappid" "1303313"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6923544181056751226"
+				"size" "324593212"
+				"download" "188544064"
+			}
+		}
+	}
+	"1303315"
+	{
+		"dlcappid" "1303313"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "156459741148196178"
+				"size" "325106643"
+				"download" "188724480"
+			}
+		}
+	}
+	"1303314"
+	{
+		"dlcappid" "1303314"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+		}
+	}
+	"1303316"
+	{
+		"dlcappid" "1303314"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7548403"
+			"timeupdated" "1637247412"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27673058"
+"_sha" "d041e7a15b9de18d40232ded38ab4c2547253b3b"
+"_size" "7204"
