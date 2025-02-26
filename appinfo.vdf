@@ -1,0 +1,291 @@
+"appid" "741260"
+"common"
+{
+	"name" "Mobile Empire"
+	"type" "Game"
+	"logo" "317842b6a5ba38c6313094f3f3f8745659d75457"
+	"logo_small" "317842b6a5ba38c6313094f3f3f8745659d75457_thumb"
+	"clienticon" "caf1b26bbc9bf019dcd323ee85c6c0a2976b734e"
+	"clienttga" "d478298afcb8ec447543e314f08e105bbeb55d37"
+	"icon" "d6476b6322aa6980ff7c97c5dfec3fdb07aaf4c1"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"releasestate" "released"
+	"clienticns" "7cfd6531af33bf18c8b0d32c0b9a17f81ae602b7"
+	"steamchinaapproved" "1"
+	"name_localized"
+	{
+		"sc_schinese" "手机帝国"
+	}
+	"releasestatesteamchina" "released"
+	"metacritic_name" "Mobile Empire"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-xc"
+		"library_hero" "en"
+		"library_logo" "en,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "95.33686140722878"
+			"height_pct" "82.98734237301713"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "95.33686140722878"
+				"height_pct" "82.98734237301713"
+			}
+		}
+	}
+	"store_asset_mtime" "1631851217"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Shanghai huan zhen Info Tech Ltd"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "XD"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1516953600"
+	"steam_release_date" "1516903221"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "741260"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "599"
+		"2" "597"
+		"3" "492"
+	}
+	"review_score" "5"
+	"review_percentage" "54"
+}
+"extended"
+{
+	"developer" "Shanghai huan zhen Info Tech Ltd"
+	"publisher" "XD"
+	"homepage" "http://www.huanzhenkeji.cn"
+}
+"config"
+{
+	"installdir" "Mobile Empire"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Mobile.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Mobile.app/Contents/MacOS/Mobile"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"741261"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5336729244979073953"
+				"size" "926322979"
+				"download" "171038480"
+			}
+		}
+	}
+	"741262"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "176763162723090339"
+				"size" "945031067"
+				"download" "175400160"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7369349"
+			"timeupdated" "1631785839"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10485760"
+	"maxnumfiles" "100"
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "MacAppSupport"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "HuanZhen/MobileEmpire"
+					"replace" "HuanZhen/MobileEmpire"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "HuanZhen/MobileEmpire"
+					"replace" "HuanZhen/MobileEmpire"
+				}
+			}
+		}
+	}
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "HuanZhen/MobileEmpire"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "HuanZhen/MobileEmpire"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "0b262716c1e51424b1300fa09cf154884e2ce7e5"
+"_size" "5010"
