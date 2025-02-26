@@ -1,0 +1,1871 @@
+"appid" "239140"
+"common"
+{
+	"name" "Dying Light"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"logo" "a2656cade3af57d07d0a9622d3b52745b26b2225"
+	"logo_small" "a2656cade3af57d07d0a9622d3b52745b26b2225_thumb"
+	"clienticon" "599c6fcd80e9edefb797519ee4705e595f107d35"
+	"clienttga" "29e4d5b38cb4e11a12a4136e09bdb182ebe19e3a"
+	"icon" "d6eafb4fab916ac475bf67054332dd1c0659f8d6"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "239140_eula_0"
+			"name" "Dying Light EULA"
+			"url" "http://store.steampowered.com//eula/239140_eula_0"
+		}
+	}
+	"linuxclienticon" "4d123bb030950bf0f823a1e6121a5eb3e358cf55"
+	"osarch" "64"
+	"clienticns" "1ec94eb0d802e9b017a71881410bcab6f98d030e"
+	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1666656000"
+		"tested_build_id" "8847175"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Dying Light: The Following - Enhanced Edition"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "04f5f510bda7a47ea9d0ff8b2f3313072035d81b/capsule_231x87.jpg"
+		"schinese" "034d83f36118d362162c6da74ea3f90b9a965d83/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "54.713153549724325"
+			"height_pct" "51.79572680017941"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "b962a5213054357b157b0fe45bf9db41b5739886/library_600x900.jpg"
+				"schinese" "2e792864333d14922fd37240a12308de8a8c47f7/library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "b962a5213054357b157b0fe45bf9db41b5739886/library_600x900_2x.jpg"
+				"schinese" "2e792864333d14922fd37240a12308de8a8c47f7/library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "09cf812a6d655629e3a3b019abc30792a2d70769/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "09cf812a6d655629e3a3b019abc30792a2d70769/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "09cf812a6d655629e3a3b019abc30792a2d70769/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "bea424df55c65fbedefa7866a433f086101519fe/logo.png"
+			}
+			"image2x"
+			{
+				"english" "bea424df55c65fbedefa7866a433f086101519fe/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "54.713153549724325"
+				"height_pct" "51.79572680017941"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "3539bca30b6fd66a8d2bc64578bdb3d52ac8967f/library_header.jpg"
+				"schinese" "9801c01406a3f0bedd161725c237f4508b71eab4/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "3539bca30b6fd66a8d2bc64578bdb3d52ac8967f/library_header_2x.jpg"
+				"schinese" "9801c01406a3f0bedd161725c237f4508b71eab4/library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737992508"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Techland"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Techland"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Dying Light"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_17" "1"
+		"category_8" "1"
+		"category_43" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_42" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "1"
+			"full_audio" "1"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1422259200"
+	"steam_release_date" "1422345480"
+	"metacritic_score" "87"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/dying-light-the-following---enhanced-edition\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "239140"
+	"store_tags"
+	{
+		"0" "1659"
+		"1" "3978"
+		"2" "1667"
+		"3" "3843"
+		"4" "1695"
+		"5" "4036"
+		"6" "3839"
+		"7" "1662"
+		"8" "1100689"
+		"9" "4345"
+		"10" "1663"
+		"11" "19"
+		"12" "6730"
+		"13" "1687"
+		"14" "1775"
+		"15" "3835"
+		"16" "3859"
+		"17" "1742"
+		"18" "4231"
+		"19" "1646"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+	"review_score_bombs" "9"
+	"review_percentage_bombs" "95"
+}
+"extended"
+{
+	"checkpkgstate" "1"
+	"developer" "Techland"
+	"gamedir" "ValveTestApp239140"
+	"homepage" "https://dyinglightgame.com/\?utm_source=Steam&amp;utm_medium=Link&amp;utm_campaign=Dying_Light"
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateComingSoonNoPreload"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Techland"
+	"listofdlc" "302100,302101,302102,302103,325710,325711,325712,325713,325714,325715,325716,325717,325720,325721,325722,325723,325724,335810,347090,412920,415360,415370,435110,435111,436080,436081,436082,436083,675860,748340,748341,798541,798542,798543,1034630,1112520,1112521,1174580,1174581,1177880,1184350,1184351,1241570,1272090,1300710,1336220,1354960,1454750,1468290,1498210,1524890,1543420,1599030,1647900,1702060,1762700,1822810,1935540,2971370,2971380,3454290"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Dying Light"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DyingLightGame.exe"
+			"description" "Launch Dying Light"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "DyingLightGame"
+			"description" "Launch Dying Light"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"4"
+		{
+			"executable" "DyingLightGame.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+			}
+		}
+		"6"
+		{
+			"executable" "DevTools/DyingLightPlayer.exe"
+			"description" "Dying Light Custom Game"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"7"
+		{
+			"executable" "DevTools/DyingLightGame"
+			"workingdir" "DevTools"
+			"description" "Dying Light Custom Game"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2125239382"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollerconfigdetails"
+	{
+		"614869659"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,dutch,czech,turkish,brazilian,latam"
+	"workshopdepot" "239140"
+	"hasdepotsindlc" "1"
+	"239153"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4866477433040702810"
+				"size" "82181232"
+				"download" "23430752"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "1613865078859949519"
+				"size" "62048904"
+				"download" "16174288"
+			}
+		}
+	}
+	"239142"
+	{
+		"config"
+		{
+			"osarch" "32"
+			"language" "hungarian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4909222964749487550"
+				"size" "0"
+				"download" "0"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "4909222964749487550"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"239141"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3800959066932575891"
+				"size" "3847415921"
+				"download" "2762724416"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "1117378193955366437"
+				"size" "3712909547"
+				"download" "2748842496"
+			}
+		}
+	}
+	"239154"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3808170342401978540"
+				"size" "99945061"
+				"download" "95324320"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "3678743963374357478"
+				"size" "99902101"
+				"download" "95288512"
+			}
+		}
+	}
+	"239144"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5423122254042972768"
+				"size" "2483855160"
+				"download" "2032838016"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "2311889837885903376"
+				"size" "2483019192"
+				"download" "2031830784"
+			}
+		}
+	}
+	"239145"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7918912987469932959"
+				"size" "18031598206"
+				"download" "10381507200"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "6627693380392950437"
+				"size" "17748596237"
+				"download" "10284649408"
+			}
+		}
+	}
+	"302100"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"dlcappid" "302100"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5452114988020184633"
+				"size" "45328624"
+				"download" "38418464"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "1965268596278033194"
+				"size" "45327106"
+				"download" "38412080"
+			}
+		}
+	}
+	"239143"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7201484401781787567"
+				"size" "916355365"
+				"download" "742538144"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "7604850011382341094"
+				"size" "916355365"
+				"download" "742537552"
+			}
+		}
+	}
+	"239146"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6977596446358742346"
+				"size" "858077069"
+				"download" "696921200"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "5980842640400673262"
+				"size" "858077069"
+				"download" "696922768"
+			}
+		}
+	}
+	"239147"
+	{
+		"config"
+		{
+			"language" "german"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6818540791695431332"
+				"size" "889699020"
+				"download" "736518704"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "4943397283418519219"
+				"size" "889699020"
+				"download" "736520032"
+			}
+		}
+	}
+	"239148"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "426440171849558497"
+				"size" "905985218"
+				"download" "747020480"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "3658239019185535678"
+				"size" "905985218"
+				"download" "747020176"
+			}
+		}
+	}
+	"335818"
+	{
+		"config"
+		{
+			"language" "latam"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4217550357101797215"
+				"size" "904917814"
+				"download" "687853360"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "15542017763473392"
+				"size" "904917814"
+				"download" "687855104"
+			}
+		}
+	}
+	"239149"
+	{
+		"config"
+		{
+			"language" "french"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6910977096862001324"
+				"size" "828582427"
+				"download" "660082704"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "3036525367116638362"
+				"size" "828582427"
+				"download" "660082672"
+			}
+		}
+	}
+	"239150"
+	{
+		"config"
+		{
+			"language" "italian"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6133466168714389736"
+				"size" "891168408"
+				"download" "730445360"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "9103347457356933835"
+				"size" "891168408"
+				"download" "730445760"
+			}
+		}
+	}
+	"239152"
+	{
+		"config"
+		{
+			"language" "polish"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1116346532221734710"
+				"size" "885358202"
+				"download" "726971392"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "4688188268372020329"
+				"size" "885358202"
+				"download" "726970048"
+			}
+		}
+	}
+	"239151"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4475528256220739883"
+				"size" "22223720916"
+				"download" "12413073344"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "3477273821530497184"
+				"size" "21789285775"
+				"download" "12295988400"
+			}
+		}
+	}
+	"239155"
+	{
+		"dlcappid" "302100"
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3935840819871825650"
+				"size" "45238731"
+				"download" "38478144"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "984631977464535219"
+				"size" "45237224"
+				"download" "38470208"
+			}
+		}
+	}
+	"239157"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2297078124586758174"
+				"size" "25481697742"
+				"download" "15101749648"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "9047522070173986815"
+				"size" "25044467690"
+				"download" "14982422096"
+			}
+		}
+	}
+	"239158"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "182624361123421510"
+				"size" "25679623580"
+				"download" "15113623632"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "4405676030548996896"
+				"size" "25245818581"
+				"download" "14994327232"
+			}
+		}
+	}
+	"239156"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5550976966324161531"
+				"size" "158533484"
+				"download" "23917360"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "5957239156189240635"
+				"size" "154759652"
+				"download" "23541184"
+			}
+		}
+	}
+	"239159"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2822939376127183892"
+				"size" "4454772209"
+				"download" "2404698640"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "1689953112406233955"
+				"size" "2828314136"
+				"download" "1461516592"
+			}
+		}
+	}
+	"325726"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2852561654468516267"
+				"size" "4454771574"
+				"download" "2404508000"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "5787693065249935956"
+				"size" "2828313291"
+				"download" "1461321312"
+			}
+		}
+	}
+	"325727"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "693555123660047091"
+				"size" "783331077"
+				"download" "36682304"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "1554183326016390661"
+				"size" "753940212"
+				"download" "36043696"
+			}
+		}
+	}
+	"325728"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1059079872503087232"
+				"size" "4461744457"
+				"download" "2411187456"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "7601785096564697079"
+				"size" "2833288471"
+				"download" "1466256992"
+			}
+		}
+	}
+	"325729"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3544563061799568236"
+				"size" "4461743762"
+				"download" "2410991376"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "3633846639655408267"
+				"size" "2833287610"
+				"download" "1466061696"
+			}
+		}
+	}
+	"325723"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"dlcappid" "325723"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3339466095511389849"
+				"size" "794553228"
+				"download" "563157408"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "5823104652413195001"
+				"size" "794551767"
+				"download" "563163088"
+			}
+		}
+	}
+	"302105"
+	{
+		"dlcappid" "325723"
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2543981283319843252"
+				"size" "794784544"
+				"download" "563368336"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "3511518919472854089"
+				"size" "794783077"
+				"download" "563370816"
+			}
+		}
+	}
+	"302106"
+	{
+		"dlcappid" "325723"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2799419641144961499"
+				"size" "235989"
+				"download" "69424"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "2799419641144961499"
+				"size" "235989"
+				"download" "69424"
+			}
+		}
+	}
+	"302107"
+	{
+		"dlcappid" "325723"
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"325724"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"dlcappid" "325724"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8908351379908363401"
+				"size" "2630972237"
+				"download" "1334931696"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "851743141866082238"
+				"size" "2571537561"
+				"download" "1339341504"
+			}
+		}
+	}
+	"412921"
+	{
+		"dlcappid" "325724"
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1082419345448739468"
+				"size" "2635717081"
+				"download" "1339449120"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "8464922767216729326"
+				"size" "2576278336"
+				"download" "1343862320"
+			}
+		}
+	}
+	"335813"
+	{
+		"dlcappid" "325724"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4048698748240008215"
+				"size" "2635717081"
+				"download" "1339319024"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "7070478762446433297"
+				"size" "2576278336"
+				"download" "1343738960"
+			}
+		}
+	}
+	"412922"
+	{
+		"dlcappid" "325724"
+		"config"
+		{
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1521769232550749872"
+				"size" "4337794385"
+				"download" "3299853808"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "5222140872452153566"
+				"size" "4374725799"
+				"download" "3336262784"
+			}
+		}
+	}
+	"302108"
+	{
+		"dlcappid" "325724"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3110387403281441706"
+				"size" "4910806004"
+				"download" "3211843056"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "7319088740150947545"
+				"size" "4888302716"
+				"download" "3252707296"
+			}
+		}
+	}
+	"302109"
+	{
+		"dlcappid" "325724"
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4988463919766944033"
+				"size" "4772694888"
+				"download" "3076377440"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "4375265657387804951"
+				"size" "4750187547"
+				"download" "3117168928"
+			}
+		}
+	}
+	"335817"
+	{
+		"dlcappid" "325724"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1591674945448790758"
+				"size" "2141024218"
+				"download" "1742360112"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "6572767121292619238"
+				"size" "2177955632"
+				"download" "1778825952"
+			}
+		}
+	}
+	"412920"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"dlcappid" "412920"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8807521501241174230"
+				"size" "15048472"
+				"download" "14551552"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "2855168760907279600"
+				"size" "15042645"
+				"download" "14545904"
+			}
+		}
+	}
+	"412923"
+	{
+		"dlcappid" "412920"
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2647317666629062026"
+				"size" "15069835"
+				"download" "14571840"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "4184771873160974730"
+				"size" "15064027"
+				"download" "14565840"
+			}
+		}
+	}
+	"415370"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"dlcappid" "415370"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4511002866072215836"
+				"size" "8953506"
+				"download" "8588176"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "4244071834722362958"
+				"size" "8949859"
+				"download" "8586720"
+			}
+		}
+	}
+	"302104"
+	{
+		"dlcappid" "415370"
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4640385175575087114"
+				"size" "8976334"
+				"download" "8611792"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "2466121694452829807"
+				"size" "8972690"
+				"download" "8608896"
+			}
+		}
+	}
+	"325718"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1659792556976512309"
+				"size" "22244091727"
+				"download" "12473154864"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "1161923448300514136"
+				"size" "21787574030"
+				"download" "12350467344"
+			}
+		}
+	}
+	"335811"
+	{
+		"dlcappid" "302100"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6537069570282966581"
+				"size" "45238731"
+				"download" "38486624"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "4166608103434236144"
+				"size" "45237224"
+				"download" "38478560"
+			}
+		}
+	}
+	"335812"
+	{
+		"dlcappid" "325723"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2915832296748550621"
+				"size" "794784544"
+				"download" "563483952"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "2475751491941604222"
+				"size" "794783077"
+				"download" "563476320"
+			}
+		}
+	}
+	"335814"
+	{
+		"dlcappid" "412920"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6401422214768907026"
+				"size" "15069835"
+				"download" "14571840"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "5761946332846099115"
+				"size" "15064027"
+				"download" "14565840"
+			}
+		}
+	}
+	"335815"
+	{
+		"dlcappid" "415370"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5844487825214699343"
+				"size" "8976334"
+				"download" "8611792"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "1793628294556557321"
+				"size" "8972690"
+				"download" "8608896"
+			}
+		}
+	}
+	"325719"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "678955580265175063"
+				"size" "25608622107"
+				"download" "15040489920"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "5363405576619342781"
+				"size" "25152694654"
+				"download" "14917651904"
+			}
+		}
+	}
+	"335816"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"dlcappid" "325723"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2654921391239390103"
+				"size" "235989"
+				"download" "69424"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "2654921391239390103"
+				"size" "235989"
+				"download" "69424"
+			}
+		}
+	}
+	"731060"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"dlcappid" "731060"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5180523938816360791"
+				"size" "13398167533"
+				"download" "8230239808"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "5180523938816360791"
+				"size" "13398167533"
+				"download" "8230239808"
+			}
+		}
+	}
+	"798540"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "122531785649024013"
+				"size" "169159735"
+				"download" "148324848"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "122531785649024013"
+				"size" "169159735"
+				"download" "148324848"
+			}
+		}
+	}
+	"798541"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"language" ""
+		}
+		"dlcappid" "798541"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3431955321588676176"
+				"size" "96361052"
+				"download" "62700480"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "3431955321588676176"
+				"size" "96361052"
+				"download" "62700480"
+			}
+		}
+	}
+	"798542"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"language" ""
+		}
+		"dlcappid" "798542"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8544396478454181413"
+				"size" "16737134"
+				"download" "14168208"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "8544396478454181413"
+				"size" "16737134"
+				"download" "14168208"
+			}
+		}
+	}
+	"798543"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"language" ""
+		}
+		"dlcappid" "798543"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4065307748050454193"
+				"size" "26314125"
+				"download" "26157216"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "4065307748050454193"
+				"size" "26314125"
+				"download" "26157216"
+			}
+		}
+	}
+	"1034630"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"language" ""
+		}
+		"dlcappid" "1034630"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3262027323823027455"
+				"size" "4386573"
+				"download" "4204416"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "3262027323823027455"
+				"size" "4386573"
+				"download" "4204416"
+			}
+		}
+	}
+	"335819"
+	{
+		"dlcappid" "1300710"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "834157821737420630"
+				"size" "2178946368"
+				"download" "1180293872"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "2564223594729626547"
+				"size" "2175322012"
+				"download" "1177474016"
+			}
+		}
+	}
+	"347091"
+	{
+		"dlcappid" "1300710"
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7690895833089336416"
+				"size" "2180942286"
+				"download" "1182047856"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "8751191096990227962"
+				"size" "2177295417"
+				"download" "1179213040"
+			}
+		}
+	}
+	"347092"
+	{
+		"dlcappid" "1300710"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7051742029262005316"
+				"size" "2180942286"
+				"download" "1182047856"
+			}
+			"published_version_1_47_2"
+			{
+				"gid" "7556678017434521673"
+				"size" "2177295417"
+				"download" "1179213040"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17094240"
+			"timeupdated" "1737975829"
+		}
+		"published_version_1_47_2"
+		{
+			"buildid" "8146184"
+			"description" "Patch 1.47.2"
+			"timeupdated" "1646052228"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27284015"
+"_sha" "dcd74f55d19db1ca28587f63b8f532d6c1ee38f7"
+"_size" "31774"
