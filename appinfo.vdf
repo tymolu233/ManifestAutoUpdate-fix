@@ -1,0 +1,600 @@
+"appid" "1061090"
+"common"
+{
+	"name" "Jump King"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "a55d3eacf184ccacebfea90192d11dc2c6fcecfc"
+	"logo" "ba3f0d032b364f5d8f5bc46f86c3daf0b2df6da6"
+	"logo_small" "ba3f0d032b364f5d8f5bc46f86c3daf0b2df6da6_thumb"
+	"clienticon" "2278d0cb4b408a17929d662ca4845c56027d4c44"
+	"clienttga" "268dd58e5043f8061be471b6de830e4b20666fed"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1710201600"
+		"tested_build_id" "13704892"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Jump King"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "45.96969027266235"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "45.96969027266235"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1708096826"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Nexile"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Nexile"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Jump King"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1556902740"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1061090"
+	"store_tags"
+	{
+		"0" "1721"
+		"1" "4026"
+		"2" "3877"
+		"3" "492"
+		"4" "3964"
+		"5" "21"
+		"6" "19"
+		"7" "1625"
+		"8" "3871"
+		"9" "4182"
+		"10" "4004"
+		"11" "4172"
+		"12" "4166"
+		"13" "15277"
+		"14" "4136"
+		"15" "29482"
+		"16" "5923"
+		"17" "1667"
+		"18" "1684"
+		"19" "3798"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Nexile"
+	"publisher" "Nexile"
+	"homepage" "https://nexile.se/jump-king/"
+}
+"config"
+{
+	"installdir" "Jump King"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "JumpKing.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1868235633"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"workshopdepot" "1061090"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1061091"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2039584888228036588"
+				"size" "1691947743"
+				"download" "789094064"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "1655205056957315372"
+				"size" "1673097958"
+				"download" "785215200"
+			}
+		}
+	}
+	"2334961"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1019287047947152447"
+				"size" "1692311775"
+				"download" "789145632"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "4451684538156382093"
+				"size" "1691980099"
+				"download" "789050256"
+			}
+		}
+	}
+	"1061092"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8965942987217952967"
+				"size" "2047699"
+				"download" "173744"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "4252163108649715314"
+				"size" "23811875"
+				"download" "14118608"
+			}
+		}
+	}
+	"1061093"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7765489681002469071"
+				"size" "363722"
+				"download" "78304"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "3384611054220987111"
+				"size" "360138"
+				"download" "77184"
+			}
+		}
+	}
+	"1061094"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5995497554351547469"
+				"size" "375998"
+				"download" "80064"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "5161455332004361421"
+				"size" "372414"
+				"download" "78928"
+			}
+		}
+	}
+	"1061095"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8064132818326528828"
+				"size" "615839"
+				"download" "98320"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "1956340730946248587"
+				"size" "18326762"
+				"download" "13537472"
+			}
+		}
+	}
+	"1061096"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4462489667360521467"
+				"size" "377022"
+				"download" "82384"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "6814055949973951137"
+				"size" "373438"
+				"download" "81264"
+			}
+		}
+	}
+	"1061097"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5213074891135884517"
+				"size" "365759"
+				"download" "79728"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "4553807079660696540"
+				"size" "362175"
+				"download" "78544"
+			}
+		}
+	}
+	"1061098"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3779616896323801422"
+				"size" "2049580"
+				"download" "178464"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "1771852470087369652"
+				"size" "23834844"
+				"download" "14166048"
+			}
+		}
+	}
+	"1061099"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7310317808478170977"
+				"size" "2524603"
+				"download" "201888"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "1104881476613730805"
+				"size" "22936700"
+				"download" "13962320"
+			}
+		}
+	}
+	"2334960"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "70667494849931740"
+				"size" "1642256"
+				"download" "112880"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "70667494849931740"
+				"size" "1642256"
+				"download" "112880"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16910431"
+			"timeupdated" "1736076860"
+		}
+		"jump_king_legacy"
+		{
+			"buildid" "13544216"
+			"description" "The Old Jump King build, before workshop update"
+			"timeupdated" "1708697915"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "50000"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Content/Saves/"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "Content/SavesPerma/"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27338524"
+"_sha" "e7afa956a7e4740f18f25facc63c3c43be39d006"
+"_size" "9777"
