@@ -1,0 +1,2952 @@
+"appid" "392160"
+"common"
+{
+	"name" "X4: Foundations"
+	"type" "Game"
+	"logo" "fa88749b0d10d9ab0485bbee82f997ee90d5b7a7"
+	"logo_small" "fa88749b0d10d9ab0485bbee82f997ee90d5b7a7_thumb"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"clienticon" "f4a8620b493e033e06f5c89dc136626c356a1f72"
+	"clienttga" "b5000e3c85f48b60f83e7713ebf715f90fb90059"
+	"icon" "89022109a84c57ed7e329933e42c1153e06c1096"
+	"releasestate" "released"
+	"sortas" "X4"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1721865600"
+		"tested_build_id" "15137779"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "X4 Foundations"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"koreana" "afd26983a37c1bd3ec40b804a7e6fa2dd26cd3fd/capsule_231x87_koreana.jpg"
+		"schinese" "fa3d33fff9daa2ef26ddca9454dc64f3a6944207/capsule_231x87_schinese.jpg"
+		"tchinese" "fa3d33fff9daa2ef26ddca9454dc64f3a6944207/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"koreana" "header_koreana.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1740082190"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Egosoft"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Egosoft"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "X"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1543587106"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "392160"
+	"store_tags"
+	{
+		"0" "16598"
+		"1" "599"
+		"2" "3810"
+		"3" "4695"
+		"4" "15045"
+		"5" "4202"
+		"6" "1755"
+		"7" "4845"
+		"8" "3834"
+		"9" "7332"
+		"10" "4364"
+		"11" "1695"
+		"12" "9"
+		"13" "4191"
+		"14" "3839"
+		"15" "5125"
+		"16" "4182"
+		"17" "12472"
+		"18" "1643"
+		"19" "3934"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Egosoft"
+	"publisher" "Egosoft"
+	"homepage" "https://www.x4foundations.com"
+	"listofdlc" "942190,986330,1133000,1288460,1701060,1990040,2375830,2700340,3419300"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "X4 Foundations"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "X4.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "testandlaunch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65529"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"392161"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6325737970630880240"
+				"size" "17098161834"
+				"download" "14861072496"
+			}
+			"3.20"
+			{
+				"gid" "732504018695845011"
+				"size" "12410130841"
+				"download" "10675288480"
+			}
+			"3.30"
+			{
+				"gid" "732504018695845011"
+				"size" "12410130841"
+				"download" "10675288480"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "732504018695845011"
+				"size" "12410130841"
+				"download" "10675288480"
+			}
+			"4.00"
+			{
+				"gid" "7749781016097074244"
+				"size" "13484124169"
+				"download" "11648909120"
+			}
+			"4.10"
+			{
+				"gid" "7749781016097074244"
+				"size" "13484124169"
+				"download" "11648909120"
+			}
+			"4.20"
+			{
+				"gid" "7749781016097074244"
+				"size" "13484124169"
+				"download" "11648909120"
+			}
+			"5.00"
+			{
+				"gid" "4548104928650908005"
+				"size" "14431226885"
+				"download" "12500746000"
+			}
+			"5.10"
+			{
+				"gid" "4548104928650908005"
+				"size" "14431226885"
+				"download" "12500746000"
+			}
+			"6.00"
+			{
+				"gid" "782589745216201058"
+				"size" "15727408473"
+				"download" "13665346272"
+			}
+			"6.10"
+			{
+				"gid" "782589745216201058"
+				"size" "15727408473"
+				"download" "13665346272"
+			}
+			"6.20"
+			{
+				"gid" "782589745216201058"
+				"size" "15727408473"
+				"download" "13665346272"
+			}
+			"7.00"
+			{
+				"gid" "1144850726984844505"
+				"size" "16884084091"
+				"download" "14691752960"
+			}
+			"7.10"
+			{
+				"gid" "777884129389209191"
+				"size" "16911992740"
+				"download" "14715876304"
+			}
+		}
+	}
+	"392162"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8910938635091176349"
+				"size" "7788286969"
+				"download" "6153561584"
+			}
+			"3.20"
+			{
+				"gid" "7409557247251569467"
+				"size" "2634876059"
+				"download" "2109098080"
+			}
+			"3.30"
+			{
+				"gid" "2989307095099964585"
+				"size" "2674328465"
+				"download" "2145859568"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "8808259699697271773"
+				"size" "2674543789"
+				"download" "2145995776"
+			}
+			"4.00"
+			{
+				"gid" "8954930995869930133"
+				"size" "2844413608"
+				"download" "2292318432"
+			}
+			"4.10"
+			{
+				"gid" "3214540072332563773"
+				"size" "3452536406"
+				"download" "2853747680"
+			}
+			"4.20"
+			{
+				"gid" "9005421327147843260"
+				"size" "3452644616"
+				"download" "2853820176"
+			}
+			"5.00"
+			{
+				"gid" "4303831949711110603"
+				"size" "3992149235"
+				"download" "3343325984"
+			}
+			"5.10"
+			{
+				"gid" "8407823400278880088"
+				"size" "4014210421"
+				"download" "3362565200"
+			}
+			"6.00"
+			{
+				"gid" "5576034909347403004"
+				"size" "5733461465"
+				"download" "4505372032"
+			}
+			"6.10"
+			{
+				"gid" "6306160191863694185"
+				"size" "5739002533"
+				"download" "4506236784"
+			}
+			"6.20"
+			{
+				"gid" "1495501401436945727"
+				"size" "5771987503"
+				"download" "4514746320"
+			}
+			"7.00"
+			{
+				"gid" "5843962732516495859"
+				"size" "7238552352"
+				"download" "5720886080"
+			}
+			"7.10"
+			{
+				"gid" "8821460777942334509"
+				"size" "7274006677"
+				"download" "5734312208"
+			}
+		}
+	}
+	"392163"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "519142402841788407"
+				"size" "117295919"
+				"download" "51141696"
+			}
+			"3.20"
+			{
+				"gid" "7427314969949163515"
+				"size" "51691783"
+				"download" "15452208"
+			}
+			"3.30"
+			{
+				"gid" "3062541915379702455"
+				"size" "51948807"
+				"download" "15507712"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "3696069945477276001"
+				"size" "51796231"
+				"download" "15478304"
+			}
+			"4.00"
+			{
+				"gid" "3137387331173592085"
+				"size" "46350447"
+				"download" "15041296"
+			}
+			"4.10"
+			{
+				"gid" "5639959482569403363"
+				"size" "49525903"
+				"download" "15562016"
+			}
+			"4.20"
+			{
+				"gid" "1490407767745404000"
+				"size" "49536655"
+				"download" "15576496"
+			}
+			"5.00"
+			{
+				"gid" "2337331935661761526"
+				"size" "52415519"
+				"download" "16369488"
+			}
+			"5.10"
+			{
+				"gid" "4212241281893264961"
+				"size" "52880423"
+				"download" "16590832"
+			}
+			"6.00"
+			{
+				"gid" "2480118633777097048"
+				"size" "56214055"
+				"download" "17566832"
+			}
+			"6.10"
+			{
+				"gid" "4678941283331703497"
+				"size" "56330791"
+				"download" "17605184"
+			}
+			"6.20"
+			{
+				"gid" "852157824919486279"
+				"size" "56389159"
+				"download" "17631472"
+			}
+			"7.00"
+			{
+				"gid" "7863327140261751654"
+				"size" "58223303"
+				"download" "18120944"
+			}
+			"7.10"
+			{
+				"gid" "1936172258047261585"
+				"size" "58396871"
+				"download" "18190144"
+			}
+		}
+	}
+	"392164"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4806899626557315024"
+				"size" "151173783"
+				"download" "52169920"
+			}
+			"3.20"
+			{
+				"gid" "4873650234638816919"
+				"size" "63405758"
+				"download" "18117168"
+			}
+			"3.30"
+			{
+				"gid" "2315706200185636190"
+				"size" "63610558"
+				"download" "18169008"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "4928699691794895433"
+				"size" "63676294"
+				"download" "18200320"
+			}
+			"4.00"
+			{
+				"gid" "3109068069396817762"
+				"size" "66036609"
+				"download" "18777232"
+			}
+			"4.10"
+			{
+				"gid" "3652631806276168943"
+				"size" "67876673"
+				"download" "19034176"
+			}
+			"4.20"
+			{
+				"gid" "2169428814536507996"
+				"size" "67884865"
+				"download" "19033584"
+			}
+			"5.00"
+			{
+				"gid" "2338603116947961146"
+				"size" "68790176"
+				"download" "19253520"
+			}
+			"5.10"
+			{
+				"gid" "4676704564155622122"
+				"size" "69433568"
+				"download" "19487632"
+			}
+			"6.00"
+			{
+				"gid" "4489364134700057720"
+				"size" "91013037"
+				"download" "25362176"
+			}
+			"6.10"
+			{
+				"gid" "1027400761808409080"
+				"size" "91131885"
+				"download" "25412464"
+			}
+			"6.20"
+			{
+				"gid" "4765486513436154900"
+				"size" "91230221"
+				"download" "25439360"
+			}
+			"7.00"
+			{
+				"gid" "8253967152103618919"
+				"size" "98792784"
+				"download" "27093584"
+			}
+			"7.10"
+			{
+				"gid" "4902951168426997225"
+				"size" "99049038"
+				"download" "27164944"
+			}
+		}
+	}
+	"392166"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"3.20"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"3.30"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"4.00"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"4.10"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"4.20"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"5.00"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"5.10"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"6.00"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"6.10"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"6.20"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"7.00"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"7.10"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"392167"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"3.20"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"4.00"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"7.00"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"7.10"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+		}
+	}
+	"392168"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7100047982876926055"
+				"size" "3225564371"
+				"download" "2540275520"
+			}
+			"3.20"
+			{
+				"gid" "3796211445141616673"
+				"size" "1659754242"
+				"download" "1275612240"
+			}
+			"3.30"
+			{
+				"gid" "3796211445141616673"
+				"size" "1659754242"
+				"download" "1275612240"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "3796211445141616673"
+				"size" "1659754242"
+				"download" "1275612240"
+			}
+			"4.00"
+			{
+				"gid" "7876913120168861247"
+				"size" "1957860825"
+				"download" "1524502352"
+			}
+			"4.10"
+			{
+				"gid" "7876913120168861247"
+				"size" "1957860825"
+				"download" "1524502352"
+			}
+			"4.20"
+			{
+				"gid" "7876913120168861247"
+				"size" "1957860825"
+				"download" "1524502352"
+			}
+			"5.00"
+			{
+				"gid" "2501580065090801663"
+				"size" "2260466362"
+				"download" "1770012464"
+			}
+			"5.10"
+			{
+				"gid" "8906367599589024272"
+				"size" "2274993439"
+				"download" "1783019584"
+			}
+			"6.00"
+			{
+				"gid" "3819202370162427197"
+				"size" "2642837200"
+				"download" "2080720576"
+			}
+			"6.10"
+			{
+				"gid" "3819202370162427197"
+				"size" "2642837200"
+				"download" "2080720576"
+			}
+			"6.20"
+			{
+				"gid" "3819202370162427197"
+				"size" "2642837200"
+				"download" "2080720576"
+			}
+			"7.00"
+			{
+				"gid" "8015214713683252468"
+				"size" "3185753657"
+				"download" "2507262864"
+			}
+			"7.10"
+			{
+				"gid" "6718952434426515189"
+				"size" "3198426667"
+				"download" "2518025056"
+			}
+		}
+	}
+	"392169"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"3.20"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"4.00"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"7.00"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"7.10"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+		}
+	}
+	"942191"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2013334833920259014"
+				"size" "3565226908"
+				"download" "2864156576"
+			}
+			"3.20"
+			{
+				"gid" "3726806264768242835"
+				"size" "1889550543"
+				"download" "1491268640"
+			}
+			"3.30"
+			{
+				"gid" "3726806264768242835"
+				"size" "1889550543"
+				"download" "1491268640"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "3726806264768242835"
+				"size" "1889550543"
+				"download" "1491268640"
+			}
+			"4.00"
+			{
+				"gid" "8468677783584286747"
+				"size" "2220994044"
+				"download" "1773314304"
+			}
+			"4.10"
+			{
+				"gid" "8468677783584286747"
+				"size" "2220994044"
+				"download" "1773314304"
+			}
+			"4.20"
+			{
+				"gid" "8468677783584286747"
+				"size" "2220994044"
+				"download" "1773314304"
+			}
+			"5.00"
+			{
+				"gid" "1665581600956610140"
+				"size" "2215964209"
+				"download" "1768545680"
+			}
+			"5.10"
+			{
+				"gid" "1862306509913349339"
+				"size" "2557891794"
+				"download" "2056579216"
+			}
+			"6.00"
+			{
+				"gid" "1862306509913349339"
+				"size" "2557891794"
+				"download" "2056579216"
+			}
+			"6.10"
+			{
+				"gid" "1862306509913349339"
+				"size" "2557891794"
+				"download" "2056579216"
+			}
+			"6.20"
+			{
+				"gid" "3282203846324163468"
+				"size" "2810345789"
+				"download" "2268932304"
+			}
+			"7.00"
+			{
+				"gid" "5400986500388021185"
+				"size" "3226367269"
+				"download" "2615732144"
+			}
+			"7.10"
+			{
+				"gid" "6278284692792317549"
+				"size" "3375381019"
+				"download" "2724528720"
+			}
+		}
+	}
+	"942192"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"3.20"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"4.00"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"7.00"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"7.10"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+		}
+	}
+	"392165"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"3.20"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"4.00"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"7.00"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"7.10"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+		}
+	}
+	"942193"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"3.20"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"4.00"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"7.00"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"7.10"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+		}
+	}
+	"942194"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"3.20"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"4.00"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"7.00"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"7.10"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+		}
+	}
+	"942195"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"3.20"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"4.00"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"7.00"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"7.10"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+		}
+	}
+	"942196"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"3.20"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"4.00"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"7.00"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"7.10"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+		}
+	}
+	"942197"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"3.20"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"4.00"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"7.00"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"7.10"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+		}
+	}
+	"942199"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5844911264921319671"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "5844911264921319671"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "5844911264921319671"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "5844911264921319671"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "5844911264921319671"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "5844911264921319671"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "5844911264921319671"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "5844911264921319671"
+				"size" "4"
+				"download" "48"
+			}
+			"7.00"
+			{
+				"gid" "5844911264921319671"
+				"size" "4"
+				"download" "48"
+			}
+			"7.10"
+			{
+				"gid" "5844911264921319671"
+				"size" "4"
+				"download" "48"
+			}
+		}
+	}
+	"986331"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3187015206047810031"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "3187015206047810031"
+				"size" "4"
+				"download" "48"
+			}
+			"7.00"
+			{
+				"gid" "3187015206047810031"
+				"size" "4"
+				"download" "48"
+			}
+			"7.10"
+			{
+				"gid" "3187015206047810031"
+				"size" "4"
+				"download" "48"
+			}
+		}
+	}
+	"942190"
+	{
+		"dlcappid" "942190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"3.20"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"3.30"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"4.00"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"4.10"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"4.20"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"5.00"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"5.10"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"6.00"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"6.10"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"6.20"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"7.00"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"7.10"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+		}
+	}
+	"2375830"
+	{
+		"dlcappid" "2375830"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"3.20"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"3.30"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"4.00"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"4.10"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"4.20"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"5.00"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"5.10"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"6.00"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"6.10"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"6.20"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"7.00"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"7.10"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+		}
+	}
+	"1133000"
+	{
+		"dlcappid" "1133000"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1447594931249552960"
+				"size" "1157287870"
+				"download" "977340992"
+			}
+			"3.20"
+			{
+				"gid" "4794589127005993189"
+				"size" "1021946298"
+				"download" "925023840"
+			}
+			"3.30"
+			{
+				"gid" "900974133192237455"
+				"size" "1025784788"
+				"download" "926332464"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "3645471190569572638"
+				"size" "1025786478"
+				"download" "926333856"
+			}
+			"4.00"
+			{
+				"gid" "3645653442738721974"
+				"size" "1036023970"
+				"download" "936801696"
+			}
+			"4.10"
+			{
+				"gid" "6248715768029226389"
+				"size" "1039321763"
+				"download" "939195968"
+			}
+			"4.20"
+			{
+				"gid" "1265674919568210855"
+				"size" "1039328227"
+				"download" "939199776"
+			}
+			"5.00"
+			{
+				"gid" "4896817324434259511"
+				"size" "1032263678"
+				"download" "933662736"
+			}
+			"5.10"
+			{
+				"gid" "4240255618866854206"
+				"size" "1032336498"
+				"download" "933724080"
+			}
+			"6.00"
+			{
+				"gid" "472321277787263097"
+				"size" "1174269181"
+				"download" "997648256"
+			}
+			"6.10"
+			{
+				"gid" "5872133100783736829"
+				"size" "1174269181"
+				"download" "997648256"
+			}
+			"6.20"
+			{
+				"gid" "554470210740010562"
+				"size" "1174287683"
+				"download" "997654000"
+			}
+			"7.00"
+			{
+				"gid" "7290896315671937648"
+				"size" "1156372798"
+				"download" "975754928"
+			}
+			"7.10"
+			{
+				"gid" "5942787619589772984"
+				"size" "1157401490"
+				"download" "976371488"
+			}
+		}
+	}
+	"1288460"
+	{
+		"dlcappid" "1288460"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1868238903588867135"
+				"size" "2325708250"
+				"download" "1990334704"
+			}
+			"4.00"
+			{
+				"gid" "6283808386275625781"
+				"size" "2038498192"
+				"download" "1870109504"
+			}
+			"4.10"
+			{
+				"gid" "3017340153034276597"
+				"size" "2003957589"
+				"download" "1848062896"
+			}
+			"4.20"
+			{
+				"gid" "8548562941539841512"
+				"size" "2003972423"
+				"download" "1848069376"
+			}
+			"5.00"
+			{
+				"gid" "50381488715069346"
+				"size" "2039731529"
+				"download" "1872403328"
+			}
+			"5.10"
+			{
+				"gid" "7325640223401037839"
+				"size" "2041980754"
+				"download" "1874569552"
+			}
+			"6.00"
+			{
+				"gid" "451531395759730183"
+				"size" "2276213985"
+				"download" "1977300144"
+			}
+			"6.10"
+			{
+				"gid" "3304332101717601215"
+				"size" "2276213985"
+				"download" "1977300128"
+			}
+			"6.20"
+			{
+				"gid" "6047778819669763938"
+				"size" "2276214637"
+				"download" "1977216704"
+			}
+			"7.00"
+			{
+				"gid" "698760590708173729"
+				"size" "2342391812"
+				"download" "2024902976"
+			}
+			"7.10"
+			{
+				"gid" "8499373996739562927"
+				"size" "2378254969"
+				"download" "2030425280"
+			}
+		}
+	}
+	"1701060"
+	{
+		"dlcappid" "1701060"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1409947786166567178"
+				"size" "1349686908"
+				"download" "1087655088"
+			}
+			"4.20"
+			{
+				"gid" "5588775125384654959"
+				"size" "0"
+				"download" "0"
+			}
+			"5.00"
+			{
+				"gid" "4383813745192012285"
+				"size" "1091146054"
+				"download" "948511120"
+			}
+			"5.10"
+			{
+				"gid" "267142070415913950"
+				"size" "1075807037"
+				"download" "933972752"
+			}
+			"6.00"
+			{
+				"gid" "7881212533147033596"
+				"size" "1291864274"
+				"download" "1033487408"
+			}
+			"6.10"
+			{
+				"gid" "4362664184660220230"
+				"size" "1291864274"
+				"download" "1033487408"
+			}
+			"6.20"
+			{
+				"gid" "4988204702636752409"
+				"size" "1291903131"
+				"download" "1033493840"
+			}
+			"7.00"
+			{
+				"gid" "1720090170788609208"
+				"size" "1349646875"
+				"download" "1087645072"
+			}
+			"7.10"
+			{
+				"gid" "7819367514695301212"
+				"size" "1349665934"
+				"download" "1087653024"
+			}
+		}
+	}
+	"1990040"
+	{
+		"dlcappid" "1990040"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "218627292260766222"
+				"size" "1763552288"
+				"download" "1465420784"
+			}
+			"5.10"
+			{
+				"gid" "6691725268287215270"
+				"size" "0"
+				"download" "0"
+			}
+			"6.00"
+			{
+				"gid" "4296435336825151368"
+				"size" "2120072774"
+				"download" "1782409424"
+			}
+			"6.10"
+			{
+				"gid" "6190667378939684882"
+				"size" "2120072774"
+				"download" "1782409424"
+			}
+			"6.20"
+			{
+				"gid" "772370411167813635"
+				"size" "2120136468"
+				"download" "1782411568"
+			}
+			"7.00"
+			{
+				"gid" "1811893827382632791"
+				"size" "1833982542"
+				"download" "1500958592"
+			}
+			"7.10"
+			{
+				"gid" "1736128015134570398"
+				"size" "1833836042"
+				"download" "1501144624"
+			}
+		}
+	}
+	"2700340"
+	{
+		"dlcappid" "2700340"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "886425617366115402"
+				"size" "1182821565"
+				"download" "942935088"
+			}
+			"7.00"
+			{
+				"gid" "2707640667916001452"
+				"size" "1179234604"
+				"download" "940438832"
+			}
+			"7.10"
+			{
+				"gid" "2292800979625741340"
+				"size" "1180577965"
+				"download" "941249088"
+			}
+		}
+	}
+	"3419300"
+	{
+		"dlcappid" "3419300"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6154835680670866473"
+				"size" "99658312"
+				"download" "91203152"
+			}
+		}
+	}
+	"942198"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"3.20"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"3.30"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"4.00"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"4.10"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"4.20"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"5.00"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"5.10"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"6.00"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"6.10"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"6.20"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"7.00"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"7.10"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17442116"
+			"timeupdated" "1740069162"
+		}
+		"3.20"
+		{
+			"buildid" "10984287"
+			"description" "Version 3.20 (legacy)"
+			"timeupdated" "1681294191"
+		}
+		"3.30"
+		{
+			"buildid" "10984292"
+			"description" "Version 3.30 (legacy)"
+			"timeupdated" "1681294213"
+		}
+		"3.30_hotfix"
+		{
+			"buildid" "10984301"
+			"description" "Version 3.30 Hotfix 2 (legacy)"
+			"timeupdated" "1681294231"
+		}
+		"4.00"
+		{
+			"buildid" "10984305"
+			"description" "Version 4.00 Hotfix 3 (legacy)"
+			"timeupdated" "1681294252"
+		}
+		"4.10"
+		{
+			"buildid" "10984309"
+			"description" "Version 4.10 (legacy)"
+			"timeupdated" "1681294281"
+		}
+		"4.20"
+		{
+			"buildid" "10984312"
+			"description" "Version 4.20 (legacy)"
+			"timeupdated" "1681294311"
+		}
+		"5.00"
+		{
+			"buildid" "10984319"
+			"description" "Version 5.00 Hotfix 4 (legacy)"
+			"timeupdated" "1681294330"
+		}
+		"5.10"
+		{
+			"buildid" "10984321"
+			"description" "Version 5.10 Hotfix 3 (legacy)"
+			"timeupdated" "1681294348"
+		}
+		"6.00"
+		{
+			"buildid" "11235959"
+			"description" "Version 6.00 Hotfix 5 (legacy)"
+			"timeupdated" "1684166336"
+		}
+		"6.10"
+		{
+			"buildid" "11775542"
+			"description" "Version 6.10 Hotfix 1 (legacy)"
+			"timeupdated" "1690296914"
+		}
+		"6.20"
+		{
+			"buildid" "12023373"
+			"description" "Version 6.20 (legacy)"
+			"timeupdated" "1692886928"
+		}
+		"7.00"
+		{
+			"buildid" "14832819"
+			"description" "Version 7.00 Hotfix 1 (legacy)"
+			"timeupdated" "1719326137"
+		}
+		"7.10"
+		{
+			"buildid" "15888363"
+			"description" "Version 7.10 Hotfix 3 (legacy)"
+			"timeupdated" "1727796842"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}"
+			"pattern" "inputmap*.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}"
+			"pattern" "uidata.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}\\save"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"3"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}\\save"
+			"pattern" "*.xml.gz"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"4"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}"
+			"pattern" "constructionplans.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"5"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}"
+			"pattern" "loadouts.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"6"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}"
+			"pattern" "userdata.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"7"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}"
+			"pattern" "inputmap*.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"8"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}"
+			"pattern" "uidata.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"9"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}/save"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"10"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}/save"
+			"pattern" "*.xml.gz"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"11"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}"
+			"pattern" "constructionplans.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"12"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}"
+			"pattern" "loadouts.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"13"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}"
+			"pattern" "userdata.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"14"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}\\constructionplan"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"15"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}\\loadout"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"16"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}/constructionplan"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"17"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}/loadout"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"18"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}"
+			"pattern" "userdata_signed.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"19"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}"
+			"pattern" "userdata_signed.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"20"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}\\customgamestart"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"21"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}/customgamestart"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"22"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}"
+			"pattern" "ventureconfig.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"23"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}"
+			"pattern" "ventureconfig.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"24"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}"
+			"pattern" "colors.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"25"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}"
+			"pattern" "colors.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"26"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}"
+			"pattern" "inputfeedback.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"27"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}"
+			"pattern" "inputfeedback.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"28"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}\\colorprofile"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"29"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}/colorprofile"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "27581933"
+"_sha" "10f534d49afc4f5c595cbe1db07a1112e67763cc"
+"_size" "49793"
