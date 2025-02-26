@@ -1,0 +1,402 @@
+"appid" "1040420"
+"common"
+{
+	"name" "Dreamscaper"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"icon" "a824069ac6ebef131f1e29e7c9a73fbab320548b"
+	"logo" "029fb14cbac811fa01269863e98777857c095a9a"
+	"logo_small" "029fb14cbac811fa01269863e98777857c095a9a_thumb"
+	"clienticon" "20da0a96cd272a7a0f4160d042cdf4b9ee9736e4"
+	"clienttga" "4c65636f5ebd17961e4bee1faafc9d5647ce69c7"
+	"name_localized"
+	{
+		"schinese" "层层梦境"
+		"tchinese" "層層夢境"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1676937600"
+		"tested_build_id" "10509667"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Dreamscaper"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"german" "capsule_231x87_german.jpg"
+		"italian" "capsule_231x87_italian.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"latam" "capsule_231x87_latam.jpg"
+		"spanish" "capsule_231x87_spanish.jpg"
+		"french" "capsule_231x87_french.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"koreana" "header_koreana.jpg"
+		"spanish" "header_spanish.jpg"
+		"german" "header_german.jpg"
+		"italian" "header_italian.jpg"
+		"latam" "header_latam.jpg"
+		"french" "header_french.jpg"
+		"japanese" "header_japanese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en,zh-tw,ja,es,zh-cn,ko,fr,es-419,it,de"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+				"japanese" "library_header_japanese.jpg"
+				"spanish" "library_header_spanish.jpg"
+				"schinese" "library_header_schinese.jpg"
+				"koreana" "library_header_koreana.jpg"
+				"french" "library_header_french.jpg"
+				"latam" "library_header_latam.jpg"
+				"italian" "library_header_italian.jpg"
+				"german" "library_header_german.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1706540484"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Afterburner Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "indie.io"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Maple Whispering Limited"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "indie.io"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1628168020"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/dreamscaper\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1040420"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "3959"
+		"2" "19"
+		"3" "492"
+		"4" "122"
+		"5" "1720"
+		"6" "4182"
+		"7" "7208"
+		"8" "4711"
+		"9" "21"
+		"10" "4231"
+		"11" "1756"
+		"12" "4026"
+		"13" "1646"
+		"14" "1716"
+		"15" "4166"
+		"16" "1684"
+		"17" "1742"
+		"18" "4791"
+		"19" "1710"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "Afterburner Studios"
+	"publisher" "indie.io"
+	"homepage" "http://www.dreamscapergame.com"
+}
+"config"
+{
+	"installdir" "Dreamscaper"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Dreamscaper.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "65533"
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1040421"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5748878255354096862"
+				"size" "4963088543"
+				"download" "1701096096"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10509667"
+			"timeupdated" "1676927757"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1048576"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Dreamscaper/Saved/SaveGames"
+			"pattern" "DreamscaperSaveSlot*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27622290"
+"_sha" "557aa080245d96a739c251e7cc1757f8623892c1"
+"_size" "7472"
