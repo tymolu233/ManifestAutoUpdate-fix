@@ -1,0 +1,613 @@
+"appid" "412020"
+"common"
+{
+	"name" "Metro Exodus"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "e44a659648502b1ae5d8cf15f8609d682ff0d5e0"
+	"logo_small" "e44a659648502b1ae5d8cf15f8609d682ff0d5e0_thumb"
+	"icon" "f9863ed0ffc717b130744488f088ae95fe6e9bd8"
+	"clienttga" "861a0e8297d979df594753986345db15440b4934"
+	"clienticon" "303d3fc6f24fa365b233e60419a7bc82add17271"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "412020_eula_0"
+			"name" "Metro Exodus EULA"
+			"url" "https://store.steampowered.com//eula/412020_eula_0"
+		}
+	}
+	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1678752000"
+		"tested_build_id" "6544595"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DeviceCompatibilityWarningsShown"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Metro Exodus: Complete Edition"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "77.7127371273713"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "77.7127371273713"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1704725181"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "4A Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Deep Silver"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Metro"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_43" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"polish"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"full_audio" "true"
+			"subtitles" "true"
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1550131200"
+	"steam_release_date" "1581742800"
+	"metacritic_score" "85"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/metro-exodus-complete-edition\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "412020"
+	"store_tags"
+	{
+		"0" "3835"
+		"1" "1663"
+		"2" "4182"
+		"3" "1695"
+		"4" "1742"
+		"5" "4166"
+		"6" "19"
+		"7" "3839"
+		"8" "1667"
+		"9" "1662"
+		"10" "1774"
+		"11" "1687"
+		"12" "21"
+		"13" "3834"
+		"14" "3978"
+		"15" "1756"
+		"16" "4667"
+		"17" "4345"
+		"18" "3859"
+		"19" "1721"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "4A Games"
+	"publisher" "Deep Silver"
+	"homepage" "http://metrothegame.com/"
+	"listofdlc" "889920,889921,889922,889923,924220"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Metro Exodus"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "MetroExodus.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "MetroExodus"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "MetroExodus.app"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "SDK/bin_x64/Exodus_SDK.exe"
+			"workingdir" "SDK/"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1952350"
+			}
+			"description_loc"
+			{
+				"english" "Launch Exodus SDK"
+			}
+			"description" "Launch Exodus SDK"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2193678584"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"412021"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8743909117511884672"
+				"size" "75168350582"
+				"download" "61722074640"
+			}
+		}
+	}
+	"412022"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4169096906348758341"
+				"size" "76944296"
+				"download" "26188416"
+			}
+		}
+	}
+	"412028"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+	}
+	"412029"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+	}
+	"889922"
+	{
+		"dlcappid" "889922"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2273948263506713647"
+				"size" "172227586"
+				"download" "169916224"
+			}
+		}
+	}
+	"889923"
+	{
+		"dlcappid" "889923"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1970836693290980708"
+				"size" "54189804"
+				"download" "52665008"
+			}
+		}
+	}
+	"889920"
+	{
+		"dlcappid" "889920"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "361436782434919800"
+				"size" "1294304024"
+				"download" "1195819840"
+			}
+		}
+	}
+	"889921"
+	{
+		"dlcappid" "889921"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "181613428803252911"
+				"size" "6929930285"
+				"download" "6556070928"
+			}
+		}
+	}
+	"412023"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4901698992981806692"
+				"size" "76590606429"
+				"download" "61852751328"
+			}
+		}
+	}
+	"412024"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2770016577399373364"
+				"size" "84180704400"
+				"download" "69515488912"
+			}
+		}
+	}
+	"1952356"
+	{
+		"dlcappid" "1952350"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+		}
+	}
+	"1952353"
+	{
+		"dlcappid" "1952350"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6544595"
+			"timeupdated" "1618473821"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "Metro Exodus"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "MetroExodus"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
+	"appidredirect" "1449560"
+}
+"_missing_token" "False"
+"_change_number" "27103127"
+"_sha" "93a5ff547ec0207022f54cf9c5c47b377f8e0083"
+"_size" "9910"
