@@ -1,0 +1,370 @@
+"appid" "955900"
+"common"
+{
+	"name" "Amazing Cultivation Simulator"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"icon" "560d02f1edb9bf8a40060ff1c8cf818332cc2c9a"
+	"logo" "aaabfde876944210cf0101f2d6614922cba09306"
+	"logo_small" "aaabfde876944210cf0101f2d6614922cba09306_thumb"
+	"clienticon" "045ee91c356ec3439f7594a8693b8f12406f5142"
+	"clienttga" "c8db08b678b7328052053d909fd4f483b75dbcec"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"releasestate" "released"
+	"name_localized"
+	{
+		"english" "Amazing Cultivation Simulator"
+		"schinese" "了不起的修仙模拟器"
+		"tchinese" "了不起的修仙模擬器"
+		"sc_schinese" "了不起的修仙模拟器"
+	}
+	"releasestatesteamchina" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1644278400"
+		"tested_build_id" "7701153"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "了不起的修仙模拟器"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-xc"
+		"library_hero" "en,zh-xc"
+		"library_logo" "en,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "95.88372093023258"
+			"height_pct" "47.701496081690834"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"sc_schinese" "library_hero_sc_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "95.88372093023258"
+				"height_pct" "47.701496081690834"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1643357711"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "GSQ Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "GSQ Games"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1606287660"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "955900"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "6915"
+		"2" "122"
+		"3" "3810"
+		"4" "9"
+		"5" "16094"
+		"6" "220585"
+		"7" "1662"
+		"8" "492"
+		"9" "7332"
+		"10" "1695"
+		"11" "4182"
+		"12" "12472"
+		"13" "1684"
+		"14" "493"
+		"15" "3871"
+		"16" "1643"
+		"17" "4085"
+		"18" "1721"
+		"19" "6650"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "GSQ Games"
+	"publisher" "GSQ Games"
+	"listofdlc" "1446730,1701600"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "AmazingCultivationSimulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Amazing Cultivation Simulator.exe"
+			"arguments" "-st"
+			"type" "default"
+			"description_loc"
+			{
+				"english" "普通模式"
+				"sc_schinese" "普通模式"
+			}
+			"description" "普通模式"
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"workshopdepot" "955900"
+	"hasdepotsindlc" "1"
+	"955901"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1652931289589496880"
+				"size" "2144960727"
+				"download" "895512064"
+			}
+			"oldworld0.94"
+			{
+				"gid" "6885289183300799804"
+				"size" "664713728"
+				"download" "239854864"
+			}
+		}
+	}
+	"955902"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7378292070912114805"
+				"size" "2129834351"
+				"download" "892570112"
+			}
+			"oldworld0.94"
+			{
+				"gid" "5252226379089021706"
+				"size" "655695296"
+				"download" "237278784"
+			}
+		}
+	}
+	"1446730"
+	{
+		"dlcappid" "1446730"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8455975255050325821"
+				"size" "378297"
+				"download" "82128"
+			}
+		}
+	}
+	"1701600"
+	{
+		"dlcappid" "1701600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6746209964332676910"
+				"size" "278595"
+				"download" "63056"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17074448"
+			"timeupdated" "1737449255"
+		}
+		"oldworld0.94"
+		{
+			"buildid" "3780196"
+			"timeupdated" "1561039228"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "saves"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "GSQ/Amazing Cultivation Simulator/saves"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27238163"
+"_sha" "7020511802cbb63a526bcbb2ba77d663edca779b"
+"_size" "7017"
