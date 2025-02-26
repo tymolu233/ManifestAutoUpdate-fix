@@ -1,0 +1,223 @@
+"appid" "2612950"
+"common"
+{
+	"name" "暖雪 Warm Snow - DLC2"
+	"type" "DLC"
+	"parent" "1296830"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"english" "Warm Snow - The End Of Karma"
+		"schinese" "暖雪 Warm Snow - 终业"
+		"sc_schinese" "暖雪 Warm Snow - 终业"
+	}
+	"releasestatesteamchina" "released"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_logo" "en,zh-cn,zh-xc"
+	}
+	"library_assets_full"
+	{
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+		}
+	}
+	"store_screenshot" "ss_ec2a3072d25a208b40f7610d16182f19d578962b.jpg"
+	"store_asset_mtime" "1701778313"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "BadMudStudio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "bilibili"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1701744321"
+	"gameid" "2612950"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "21"
+		"2" "122"
+		"3" "492"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"dlcforappid" "1296830"
+	"mustownapptopurchase" "1296830"
+	"developer" "BadMudStudio"
+	"publisher" "bilibili"
+	"homepage" "https://game.bilibili.com/warmsnow"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "0"
+		"steam_china_duration_control_show_interstitial" "0"
+	}
+}
+"depots"
+{
+	"2612959"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "684027398929943985"
+				"size" "13433245640"
+				"download" "2038993664"
+			}
+		}
+		"dlcappid" "2612950"
+	}
+	"2612950"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"dlcappid" "2612950"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5923179117909807892"
+				"size" "15237671145"
+				"download" "2239792448"
+			}
+		}
+	}
+	"2612951"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1629603847288100961"
+				"size" "15217912557"
+				"download" "2237720656"
+			}
+		}
+		"dlcappid" "2612950"
+	}
+	"2612952"
+	{
+		"config"
+		{
+			"language" "bulgarian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5973679343989166898"
+				"size" "15237663905"
+				"download" "2240354464"
+			}
+		}
+		"dlcappid" "2612950"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17101359"
+			"timeupdated" "1737614174"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27125525"
+"_sha" "0ff0d9fe0c15941387bb7e6a480900bde5f4ca22"
+"_size" "3607"
