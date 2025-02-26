@@ -1,0 +1,89 @@
+"appid" "813000"
+"common"
+{
+	"name" "PUBG: Experimental Server"
+	"section_type" "ownersonly"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "403f0380e233a9ecb7b3716391e73a0e2de69bdd"
+	"clienttga" "30ab448eb04d287cc155a834f89dc7bff46b29d0"
+	"icon" "10d309914cd9f4f82cc69d192a80a2a800dbfbca"
+	"exfgls" "1"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "7dfa3b8dc81d3f42201ce158a619ea434799d410"
+	"logo_small" "7dfa3b8dc81d3f42201ce158a619ea434799d410_thumb"
+	"metacritic_name" "PUBG Experimental Server"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1527725927"
+	"associations"
+	{
+	}
+	"gameid" "813000"
+}
+"config"
+{
+	"installdir" "PUBG_Experimental"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TslGame\\Binaries\\Win64\\TslGame.exe"
+			"arguments" "-LobbyUrl=pc-playtest-broapp.pubg.io -NoVerifyGC -NoEAC -NoBattleEye "
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "valvetest"
+			}
+		}
+	}
+}
+"depots"
+{
+	"depotdeltapatches" "1"
+	"813001"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1607277459557216130"
+				"size" "6862874200"
+				"download" "6376177488"
+			}
+		}
+	}
+	"813002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2848349"
+			"timeupdated" "1528536727"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "a88ee9e9a4f6062461387dbadc6b851da7423d11"
+"_size" "1542"
