@@ -1,0 +1,427 @@
+"appid" "809140"
+"common"
+{
+	"name" "Cliff Empire"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"clienticon" "09b04976b0acc17658b38cbe13a4d48770cc66be"
+	"clienttga" "f40e422432c4fd821f02712edf093c79db37a878"
+	"icon" "0994ef8e34af43d32beef0fd166236b3cdb4e247"
+	"logo" "d21d630283bb9d3844f3afced330a9d5b494d452"
+	"logo_small" "d21d630283bb9d3844f3afced330a9d5b494d452_thumb"
+	"releasestate" "released"
+	"osextended" "macosapplesilicon"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1660348800"
+		"tested_build_id" "8801323"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Cliff Empire"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "45.62427071178529"
+			"height_pct" "45.44051294229401"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "45.62427071178529"
+				"height_pct" "45.44051294229401"
+			}
+		}
+	}
+	"store_asset_mtime" "1667122015"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Lion\'s Shade"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Lion\'s Shade"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1565118276"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "809140"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "9"
+		"2" "599"
+		"3" "4295"
+		"4" "3942"
+		"5" "4695"
+		"6" "4182"
+		"7" "220585"
+		"8" "8945"
+		"9" "12472"
+		"10" "1643"
+		"11" "3810"
+		"12" "1645"
+		"13" "7332"
+		"14" "4026"
+		"15" "16689"
+		"16" "3835"
+		"17" "3834"
+		"18" "4094"
+		"19" "4191"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Lion\'s Shade"
+	"publisher" "Lion\'s Shade"
+	"homepage" "http://www.lionsshade.com/cliff-empire"
+}
+"config"
+{
+	"installdir" "Cliff Empire"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "REMASTER\\Cliff Empire.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Cliff Empire - Remastered"
+			}
+			"description" "Cliff Empire - Remastered"
+		}
+		"1"
+		{
+			"executable" "Cliff Empire.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Cliff Empire - old graphic"
+			}
+			"description" "Cliff Empire - old graphic"
+		}
+		"2"
+		{
+			"executable" "Cliff Empire.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "testing mac integration"
+			}
+			"description" "testing mac integration"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,ukrainian"
+	"hasdepotsindlc" "0"
+	"workshopdepot" "809140"
+	"809142"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6962498646266055645"
+				"size" "1111404880"
+				"download" "405930880"
+			}
+			"betatesting"
+			{
+				"gid" "6962498646266055645"
+				"size" "1111404880"
+				"download" "405930880"
+			}
+		}
+	}
+	"809141"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6637204181063484089"
+				"size" "2134153198"
+				"download" "560175440"
+			}
+			"betatesting"
+			{
+				"gid" "6637204181063484089"
+				"size" "2134153198"
+				"download" "560175440"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17121607"
+			"timeupdated" "1737733389"
+		}
+		"betatesting"
+		{
+			"buildid" "17080509"
+			"description" "Newest builds available here. may have some bugs."
+			"timeupdated" "1737479574"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "250"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "LionsShade/Cliff Empire"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "LionsShade/Cliff Empire"
+			"pattern" "*.bak"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "LionsShade/Cliff Empire"
+			"pattern" "*.jpg"
+		}
+		"6"
+		{
+			"root" "gameinstall"
+			"path" "LionsShade/Cliff Empire"
+			"pattern" "persist.conf"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27152019"
+"_sha" "ebeb4da5cd75eb120e4da8a70f29f4f641b69904"
+"_size" "7311"
