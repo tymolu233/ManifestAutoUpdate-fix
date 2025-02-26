@@ -1,0 +1,701 @@
+"appid" "621060"
+"common"
+{
+	"name" "PC Building Simulator"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "1bc33b78503fc18c09f3fa932dbf87cff0462023"
+	"logo_small" "1bc33b78503fc18c09f3fa932dbf87cff0462023_thumb"
+	"icon" "156646a1e614512ad36c6ff1c698a2f05783c61b"
+	"clienticon" "98fda6b1222277b5e8ccb43c2724d7c124154ef8"
+	"clienttga" "e8619ea422fc3a3f694667cab228311f7cc3711e"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"japanese" "PC Building Simulator"
+		"schinese" "装机模拟器 (PC Building Simulator)"
+		"koreana" "PC 제작 시뮬레이터"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1651190400"
+		"tested_build_id" "8491977"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "PC Building Simulator"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"french" "header_french.jpg"
+		"brazilian" "header_brazilian.jpg"
+		"german" "header_german.jpg"
+		"russian" "header_russian.jpg"
+		"schinese" "header_schinese.jpg"
+		"polish" "header_polish.jpg"
+		"spanish" "header_spanish.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,pt-br,fr,de,ja,ru,pl,zh-cn,es"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"brazilian" "library_600x900_brazilian.jpg"
+				"french" "library_600x900_french.jpg"
+				"german" "library_600x900_german.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"russian" "library_600x900_russian.jpg"
+				"polish" "library_600x900_polish.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"spanish" "library_600x900_spanish.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"brazilian" "library_600x900_brazilian_2x.jpg"
+				"french" "library_600x900_french_2x.jpg"
+				"german" "library_600x900_german_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"russian" "library_600x900_russian_2x.jpg"
+				"polish" "library_600x900_polish_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"spanish" "library_600x900_spanish_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1653555088"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Claudiu Kiss"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "The Irregular Corporation"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "The Irregular Corporation"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "The Irregular Corporation"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_29" "1"
+		"category_22" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_30" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1548781080"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "621060"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "1036"
+		"2" "9204"
+		"3" "1643"
+		"4" "12472"
+		"5" "3810"
+		"6" "3839"
+		"7" "4191"
+		"8" "4175"
+		"9" "10235"
+		"10" "597"
+		"11" "1654"
+		"12" "4182"
+		"13" "603297"
+		"14" "4136"
+		"15" "1664"
+		"16" "5673"
+		"17" "6276"
+		"18" "4166"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Claudiu Kiss"
+	"publisher" "The Irregular Corporation"
+	"homepage" "http://www.pcbuildingsim.com/"
+	"listofdlc" "823720,973910,982590,982600,1067590,1198960,1252990,1295800,1416670,1591920,1642950"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "PC Building Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PCBS.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "PCBS.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1862334182"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default,steam_china_only"
+			"use_action_block" "false"
+			"has_localization_schinese" "1"
+		}
+	}
+	"steamconfigurator3rdpartynative" "65532"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,koreana,spanish,schinese,russian,japanese,polish,brazilian"
+	"workshopdepot" "621060"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"621061"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8059996378040224226"
+				"size" "23950326345"
+				"download" "5501795680"
+			}
+		}
+	}
+	"621062"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5241418081171311864"
+				"size" "23975265925"
+				"download" "5504157104"
+			}
+		}
+	}
+	"621063"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2628311324984603438"
+				"size" "6317268502"
+				"download" "1630506496"
+			}
+		}
+	}
+	"973911"
+	{
+		"dlcappid" "973910"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2685826651630361507"
+				"size" "318104503"
+				"download" "190630128"
+			}
+		}
+	}
+	"973912"
+	{
+		"dlcappid" "973910"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2668699893248425667"
+				"size" "119993275"
+				"download" "107004384"
+			}
+		}
+	}
+	"973913"
+	{
+		"dlcappid" "982590"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5196682258430873488"
+				"size" "1287934612"
+				"download" "523720864"
+			}
+		}
+	}
+	"973914"
+	{
+		"dlcappid" "982590"
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"982601"
+	{
+		"dlcappid" "982600"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5563936077417057939"
+				"size" "87807258"
+				"download" "22521472"
+			}
+		}
+	}
+	"982602"
+	{
+		"dlcappid" "982600"
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"823721"
+	{
+		"dlcappid" "823720"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1129732127197775673"
+				"size" "85253062"
+				"download" "22290160"
+			}
+		}
+	}
+	"823722"
+	{
+		"dlcappid" "823720"
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"1067591"
+	{
+		"dlcappid" "1067590"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4596798953497399210"
+				"size" "1245580957"
+				"download" "517463936"
+			}
+		}
+	}
+	"1067592"
+	{
+		"dlcappid" "1067590"
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"621064"
+	{
+		"dlcappid" "1198960"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7462877534655878177"
+				"size" "1070336258"
+				"download" "498706448"
+			}
+		}
+	}
+	"621065"
+	{
+		"dlcappid" "1198960"
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"1252991"
+	{
+		"dlcappid" "1252990"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5962469216062900967"
+				"size" "4801242285"
+				"download" "1227621024"
+			}
+		}
+	}
+	"1295801"
+	{
+		"dlcappid" "1295800"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1453017817142136898"
+				"size" "1538879796"
+				"download" "655635904"
+			}
+		}
+	}
+	"1295802"
+	{
+		"dlcappid" "1295800"
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"1416671"
+	{
+		"dlcappid" "1416670"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7591920544321803732"
+				"size" "1285857302"
+				"download" "627154112"
+			}
+		}
+	}
+	"1479551"
+	{
+		"dlcappid" "1479550"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+		}
+	}
+	"1591921"
+	{
+		"dlcappid" "1591920"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7737755154255796550"
+				"size" "2004062849"
+				"download" "904600912"
+			}
+		}
+	}
+	"621066"
+	{
+		"dlcappid" "1642950"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2389478938334206964"
+				"size" "1557944285"
+				"download" "743645584"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9958837"
+			"timeupdated" "1673437911"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Saves"
+			"pattern" "*.binary"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "Saves/{64BitSteamID}"
+			"pattern" "*.binary"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26998573"
+"_sha" "abdbe7c1c5ab3281853b0336dbb18368bcdcf9c5"
+"_size" "11696"
