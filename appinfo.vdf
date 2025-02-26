@@ -1,0 +1,234 @@
+"appid" "41080"
+"common"
+{
+	"name" "Serious Sam 3 Dedicated Server"
+	"type" "Tool"
+	"freetodownload" "1"
+	"gameid" "41080"
+}
+"extended"
+{
+	"developer" ""
+	"gamedir" "SeriousSam3"
+	"homepage" ""
+	"icon" ""
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "41081"
+	"primarycache_macos" "41082"
+	"sdk_notownedbydefault" "1"
+	"serverbrowsername" ""
+	"state" "eStateTool"
+	"validoslist" "windows,macos"
+}
+"config"
+{
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Bin\\Sam3_DedicatedServer.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Bin/Sam3_DedicatedServer"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Bin/runSam3_DedicatedServer.sh"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"contenttype" "3"
+	"installdir" "Serious Sam 3"
+}
+"depots"
+{
+	"41079"
+	{
+		"systemdefined" "1"
+		"depotfromapp" "41070"
+		"sharedinstall" "2"
+	}
+	"41075"
+	{
+		"systemdefined" "1"
+		"depotfromapp" "41070"
+		"sharedinstall" "2"
+	}
+	"41076"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"systemdefined" "1"
+		"depotfromapp" "41070"
+		"sharedinstall" "2"
+	}
+	"41077"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"systemdefined" "1"
+		"depotfromapp" "41070"
+		"sharedinstall" "2"
+	}
+	"41078"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"systemdefined" "1"
+		"depotfromapp" "41070"
+		"sharedinstall" "2"
+	}
+	"41081"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5839909026259046758"
+				"size" "22452118"
+				"download" "7462080"
+			}
+			"legacyosx"
+			{
+				"gid" "7220882982092040604"
+				"size" "21557782"
+				"download" "8057920"
+			}
+			"publicbeta"
+			{
+				"gid" "5839909026259046758"
+				"size" "22452118"
+				"download" "7462080"
+			}
+			"safemode"
+			{
+				"gid" "7220882982092040604"
+				"size" "21557782"
+				"download" "8057920"
+			}
+		}
+	}
+	"41082"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1517549851102098716"
+				"size" "20240789"
+				"download" "5338736"
+			}
+			"legacyosx"
+			{
+				"gid" "7457740292106101545"
+				"size" "20035257"
+				"download" "4999808"
+			}
+			"publicbeta"
+			{
+				"gid" "1517549851102098716"
+				"size" "20240789"
+				"download" "5338736"
+			}
+			"safemode"
+			{
+				"gid" "7457740292106101545"
+				"size" "20035257"
+				"download" "4999808"
+			}
+		}
+	}
+	"41083"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6611202159868083272"
+				"size" "45174071"
+				"download" "12104288"
+			}
+			"legacyosx"
+			{
+				"gid" "5010045415239750343"
+				"size" "41454505"
+				"download" "12803792"
+			}
+			"publicbeta"
+			{
+				"gid" "6611202159868083272"
+				"size" "45174071"
+				"download" "12104288"
+			}
+			"safemode"
+			{
+				"gid" "5010045415239750343"
+				"size" "41454505"
+				"download" "12803792"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1094577"
+			"timeupdated" "1462782631"
+		}
+		"legacyosx"
+		{
+			"buildid" "652468"
+			"description" "For Mac OS X 10.5 Leopard and 10.6 Snow Leopard"
+		}
+		"publicbeta"
+		{
+			"buildid" "1094577"
+			"description" "Public testing"
+			"timeupdated" "1461659349"
+		}
+		"safemode"
+		{
+			"buildid" "652468"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27103756"
+"_sha" "447401878fd8ff1d07d480c495994be80e4512a2"
+"_size" "3617"
