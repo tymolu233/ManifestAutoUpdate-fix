@@ -1,0 +1,341 @@
+"appid" "356040"
+"common"
+{
+	"name" "Sheltered"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"logo" "fd64ab7849e806e60a901e2a1d2a691e548b65b9"
+	"logo_small" "fd64ab7849e806e60a901e2a1d2a691e548b65b9_thumb"
+	"icon" "2e1c4674ec7ef073a6941cb95284588c58edbed2"
+	"clienttga" "86cc3d231f500231c5fb7ef1d55f3667eabd9488"
+	"clienticon" "1d5d4f03c134f17abb9af9dea8f67ccd3cb08428"
+	"linuxclienticon" "233efa3a838db0b9a864c07a6b665eb536bc57b2"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"brazilian" "1"
+	}
+	"osarch" ""
+	"osextended" "macos64"
+	"metacritic_name" "Sheltered"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "36.44977690888737"
+			"height_pct" "59.88759259259259"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "36.44977690888737"
+				"height_pct" "59.88759259259259"
+			}
+		}
+	}
+	"store_asset_mtime" "1637071025"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Unicube"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Team 17 Digital Ltd"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Team17 Digital Ltd"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Team17 Digital"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1458066840"
+	"metacritic_score" "62"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/sheltered\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "356040"
+	"store_tags"
+	{
+		"0" "1662"
+		"1" "7332"
+		"2" "3835"
+		"3" "3964"
+		"4" "9"
+		"5" "12472"
+		"6" "8945"
+		"7" "122"
+		"8" "1643"
+		"9" "3871"
+		"10" "492"
+		"11" "4182"
+		"12" "599"
+		"13" "1702"
+		"14" "1695"
+		"15" "21"
+		"16" "3798"
+		"17" "4026"
+		"18" "1667"
+		"19" "1659"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Unicube"
+	"publisher" "Team17 Digital Ltd"
+	"homepage" "http://www.unicube.net/sheltered/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Sheltered"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Sheltered.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Sheltered.x86"
+			"description" "Launch 32bit"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+		"2"
+		{
+			"executable" "Sheltered.x86_64"
+			"description" "Launch 64bit"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "Sheltered.app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"356041"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3427310071695363336"
+				"size" "758905502"
+				"download" "296641232"
+			}
+		}
+	}
+	"356042"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7527966239797981881"
+				"size" "796728946"
+				"download" "307747312"
+			}
+		}
+	}
+	"356043"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9100154536572249429"
+				"size" "801140573"
+				"download" "307803680"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3991669"
+			"timeupdated" "1563267962"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10485760"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "saves"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27114230"
+"_sha" "63732ab82a4583d09d874faa2cfe8df71bcfdfdc"
+"_size" "5364"
