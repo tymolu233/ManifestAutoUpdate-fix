@@ -1,0 +1,682 @@
+"appid" "200260"
+"common"
+{
+	"name" "Batman: Arkham City GOTY"
+	"sortas" "Batman Arkham 4"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+	}
+	"logo" "9b229e12fd5ce27bd101d5862c19b1a6e3d01239"
+	"logo_small" "9b229e12fd5ce27bd101d5862c19b1a6e3d01239_thumb"
+	"icon" "746ecf3ce44b2525eb7ad643e76a3b60913d2662"
+	"clienttga" "4c4cb93810fa7ddc2c736a34873bd925d8ceb346"
+	"clienticon" "6d7b61b99ae64e6b2fd81dcaf88196f6174f7c3e"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "200260_eula_0"
+			"name" "Batman: Arkham City GOTY EULA"
+			"url" "http://store.steampowered.com/eula/200260_eula_0"
+		}
+	}
+	"clienticns" "f5cb9fed20c333764d6986a4a0166ddde1d94c15"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1675814400"
+		"tested_build_id" "3718300"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Batman: Arkham City"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "35"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "35"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1681938688"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Rocksteady Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "WB Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "WB Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Batman: Arkham"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_18" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1347041280"
+	"metacritic_score" "91"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/batman-arkham-city\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "200260"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1695"
+		"2" "1687"
+		"3" "1671"
+		"4" "21"
+		"5" "1697"
+		"6" "4182"
+		"7" "4158"
+		"8" "1751"
+		"9" "5613"
+		"10" "1742"
+		"11" "4166"
+		"12" "1743"
+		"13" "4106"
+		"14" "4145"
+		"15" "7481"
+		"16" "29363"
+		"17" "3810"
+		"18" "1628"
+		"19" "1756"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Rocksteady Studios"
+	"gamedir" "Batman Arkham City GOTY"
+	"homepage" "http://community.batmanarkhamcity.com/"
+	"icon" ""
+	"installscript" "installscript.vdf"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "200261"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"publisher" "WB Games"
+	"gamemanualurl" "https://store.steampowered.com/manual/200260/"
+}
+"config"
+{
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Binaries\\Win32\\BatmanAC.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "RunLauncher.bat"
+			"description" "Configure PC Options"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "Batman Arkham City GOTY.app"
+			"description" "Mac Binary"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"contenttype" "3"
+	"installdir" "Batman Arkham City GOTY"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"200261"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "957853014295671009"
+				"size" "19948606783"
+				"download" "0"
+			}
+			"mac_retail_11"
+			{
+				"gid" "957853014295671009"
+				"size" "19948606783"
+				"download" "0"
+			}
+		}
+	}
+	"200262"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7845728011859274564"
+				"size" "13499201839"
+				"download" "12421752016"
+			}
+			"local"
+			{
+				"gid" "507690614127488494"
+				"size" "12390486781"
+				"download" "0"
+			}
+			"mac_retail_11"
+			{
+				"gid" "9192293636535658257"
+				"size" "12390486781"
+				"download" "0"
+			}
+		}
+	}
+	"200263"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4940815151499122323"
+				"size" "169240109"
+				"download" "86405072"
+			}
+			"local"
+			{
+				"gid" "7739040558565836737"
+				"size" "97798529"
+				"download" "0"
+			}
+			"mac_retail_11"
+			{
+				"gid" "6105674527346163525"
+				"size" "97806440"
+				"download" "0"
+			}
+		}
+	}
+	"200264"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "387377931563640160"
+				"size" "2"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "387377931563640160"
+				"size" "2"
+				"download" "0"
+			}
+			"mac_retail_11"
+			{
+				"gid" "387377931563640160"
+				"size" "2"
+				"download" "0"
+			}
+		}
+	}
+	"200265"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1556860923130685654"
+				"size" "2"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "1556860923130685654"
+				"size" "2"
+				"download" "0"
+			}
+			"mac_retail_11"
+			{
+				"gid" "1556860923130685654"
+				"size" "2"
+				"download" "0"
+			}
+		}
+	}
+	"200266"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "406813562658710105"
+				"size" "2"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "406813562658710105"
+				"size" "2"
+				"download" "0"
+			}
+			"mac_retail_11"
+			{
+				"gid" "406813562658710105"
+				"size" "2"
+				"download" "0"
+			}
+		}
+	}
+	"200267"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1530229855874547766"
+				"size" "2"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "1530229855874547766"
+				"size" "2"
+				"download" "0"
+			}
+			"mac_retail_11"
+			{
+				"gid" "1530229855874547766"
+				"size" "2"
+				"download" "0"
+			}
+		}
+	}
+	"200268"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "425136602149417750"
+				"size" "2"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "425136602149417750"
+				"size" "2"
+				"download" "0"
+			}
+			"mac_retail_11"
+			{
+				"gid" "425136602149417750"
+				"size" "2"
+				"download" "0"
+			}
+		}
+	}
+	"200269"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4553205993270337121"
+				"size" "2"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "648060425159716245"
+				"size" "2"
+				"download" "0"
+			}
+			"mac_retail_11"
+			{
+				"gid" "4553205993270337121"
+				"size" "2"
+				"download" "0"
+			}
+		}
+	}
+	"200270"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "827746602157973325"
+				"size" "5"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "827746602157973325"
+				"size" "5"
+				"download" "0"
+			}
+			"mac_retail_11"
+			{
+				"gid" "827746602157973325"
+				"size" "5"
+				"download" "0"
+			}
+		}
+	}
+	"200271"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "407262115261230492"
+				"size" "2"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "407262115261230492"
+				"size" "2"
+				"download" "0"
+			}
+			"mac_retail_11"
+			{
+				"gid" "407262115261230492"
+				"size" "2"
+				"download" "0"
+			}
+		}
+	}
+	"200272"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2232671537466003555"
+				"size" "2"
+				"download" "0"
+			}
+			"mac_retail_11"
+			{
+				"gid" "2232671537466003555"
+				"size" "2"
+				"download" "0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3718300"
+			"timeupdated" "1554718733"
+		}
+		"local"
+		{
+			"buildid" "150183"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+		}
+		"mac_retail_11"
+		{
+			"buildid" "155343"
+			"description" "macOS 10.13.6 or older only"
+			"timeupdated" "1550741957"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"hidecloudui" "0"
+}
+"_missing_token" "False"
+"_change_number" "27429624"
+"_sha" "1832ff4ee82124879f6eba91ea537f4ead80bb5a"
+"_size" "11152"
