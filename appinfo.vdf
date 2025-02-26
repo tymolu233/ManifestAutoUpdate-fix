@@ -1,0 +1,460 @@
+"appid" "1139900"
+"common"
+{
+	"name" "Ghostrunner"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "23669924dd82c0208eda493bc4eb6c34f0540596"
+	"logo_small" "23669924dd82c0208eda493bc4eb6c34f0540596_thumb"
+	"icon" "ed987f3c8a114549fca26e0c2e9bbc62a9691d57"
+	"clienticon" "b3854181ef463109c6268986469ce9de2af66593"
+	"clienttga" "6176796d6500a427a40102a2838a7d1d6bf7e4bc"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "Ghostrunner - 幽灵行者"
+		"tchinese" "Ghostrunner - 幽影行者"
+		"japanese" "Ghostrunner - ゴーストランナー"
+		"koreana" "Ghostrunner - 고스트러너"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1644969600"
+		"tested_build_id" "7298530"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Ghostrunner"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "928964a6c20e9d889f76bad0508e81d9b6ac4a5a/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "58.950045674030896"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "58.950045674030896"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1727711892"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "One More Level"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "3D Realms"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Slipgate Ironworks™"
+		}
+		"3"
+		{
+			"type" "developer"
+			"name" "All in! Games"
+		}
+		"4"
+		{
+			"type" "publisher"
+			"name" "505 Games"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "505 Games Official"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_45" "1"
+		"category_23" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1603814400"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/ghostrunner\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1139900"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "4115"
+		"2" "1734"
+		"3" "3839"
+		"4" "4026"
+		"5" "4608"
+		"6" "4182"
+		"7" "1646"
+		"8" "4295"
+		"9" "4667"
+		"10" "3942"
+		"11" "1756"
+		"12" "4106"
+		"13" "3993"
+		"14" "21"
+		"15" "1688"
+		"16" "1743"
+		"17" "3835"
+		"18" "9"
+		"19" "1774"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "One More Level"
+	"publisher" "505 Games"
+	"homepage" "https://ghostrunnergame.com"
+	"listofdlc" "1480500,1542040,1647450,1741380,1760130,1760190"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Ghostrunner"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Ghostrunner.exe"
+			"arguments" "-STEAM"
+			"description" "with DirectX 11"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Ghostrunner.exe"
+			"arguments" "-STEAM -dx12"
+			"description" "with DirectX 12"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229000"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1139901"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "732659811379795654"
+				"size" "36627541559"
+				"download" "16471087360"
+			}
+			"killrun"
+			{
+				"gid" "1246752516781224602"
+				"size" "25471205633"
+				"download" "11217945360"
+			}
+		}
+	}
+	"1741380"
+	{
+		"dlcappid" "1741380"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2198570130799634824"
+				"size" "14362459"
+				"download" "14196960"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9002517"
+			"timeupdated" "1656430940"
+		}
+		"killrun"
+		{
+			"buildid" "6504569"
+			"description" "Speedrunners paradise"
+			"timeupdated" "1617868225"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Ghostrunner/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "Ghostrunner/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26900248"
+"_sha" "cdaaa7512a7268c5bac2d318600f0b0abfecba3a"
+"_size" "7795"
