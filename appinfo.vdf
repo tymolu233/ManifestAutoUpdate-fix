@@ -1,0 +1,646 @@
+"appid" "245170"
+"common"
+{
+	"name" "Skullgirls 2nd Encore"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"japanese" "1"
+		"portuguese" "1"
+	}
+	"releasestate" "released"
+	"logo" "ca3f7bd4fbb3cf73855ebce91b6dafc2104d651b"
+	"logo_small" "ca3f7bd4fbb3cf73855ebce91b6dafc2104d651b_thumb"
+	"icon" "0931d59aa0e33244275f4fa6c4409816ccf00296"
+	"clienticon" "a7aade931f7207989b1886a53a07002054135425"
+	"clienttga" "4307ac16e0b8769e1a63a81a080f84a564cdd2c5"
+	"clienticns" "bbdbd63096aa2dc6a6d915b1592b9a9712303663"
+	"linuxclienticon" "ad7ee507a97bc25b308467066658e14e15772542"
+	"osarch" ""
+	"osextended" "macos64,macosnotarized"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1653696000"
+		"tested_build_id" "8737823"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Skullgirls"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "48.37153988788718"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "48.37153988788718"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1625763378"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Hidden Variable Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Autumn Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_37" "1"
+		"category_44" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1377167400"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/skullgirls\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "245170"
+	"store_tags"
+	{
+		"0" "1743"
+		"1" "4736"
+		"2" "492"
+		"3" "6815"
+		"4" "3859"
+		"5" "7208"
+		"6" "3878"
+		"7" "4085"
+		"8" "4252"
+		"9" "7368"
+		"10" "7113"
+		"11" "7481"
+		"12" "4182"
+		"13" "3854"
+		"14" "3871"
+		"15" "6052"
+		"16" "19"
+		"17" "4562"
+		"18" "1773"
+		"19" "1742"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+	"review_score_bombs" "8"
+	"review_percentage_bombs" "88"
+}
+"extended"
+{
+	"vacmacmodulecache" "160"
+	"vacmodulecache" "202"
+	"vacmodulefilename" "sourceinit.dat"
+	"developer" "Hidden Variable Studios"
+	"publisher" "Autumn Games"
+	"homepage" "http://www.skullgirls.com"
+	"listofdlc" "245172,245173,245174,245175,245176,245177,447510,1549100,1557980,1557981,1744550,2086220,2659510"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Skullgirls"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Skullgirls.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Skullgirls"
+			}
+			"description" "Skullgirls"
+		}
+		"1"
+		{
+			"executable" "Skullgirls.app"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Skullgirls"
+			}
+			"description" "Skullgirls"
+		}
+		"3"
+		{
+			"executable" "Skullgirls.x86_64-pc-linux-gnu"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Skullgirls"
+			}
+			"description" "Skullgirls"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2068410507"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"baselanguages" "english"
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"245171"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7674229589914061281"
+				"size" "7607192548"
+				"download" "2597369104"
+			}
+		}
+	}
+	"245172"
+	{
+		"dlcappid" "245172"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4234916077718988265"
+				"size" "622"
+				"download" "288"
+			}
+		}
+	}
+	"245173"
+	{
+		"dlcappid" "245173"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9098211972451137830"
+				"size" "433"
+				"download" "256"
+			}
+		}
+	}
+	"245174"
+	{
+		"dlcappid" "245174"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6047595701248718486"
+				"size" "349"
+				"download" "256"
+			}
+		}
+	}
+	"245175"
+	{
+		"dlcappid" "245175"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2586848906650081175"
+				"size" "349"
+				"download" "256"
+			}
+		}
+	}
+	"245176"
+	{
+		"dlcappid" "245176"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7757926796996542187"
+				"size" "309"
+				"download" "256"
+			}
+		}
+	}
+	"245177"
+	{
+		"dlcappid" "245177"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4059970546666524603"
+				"size" "351"
+				"download" "256"
+			}
+		}
+	}
+	"245178"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3419761312144215843"
+				"size" "7615731808"
+				"download" "2599043232"
+			}
+		}
+	}
+	"245179"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5068278219318766856"
+				"size" "7619843325"
+				"download" "2589466560"
+			}
+		}
+	}
+	"447510"
+	{
+		"dlcappid" "447510"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "214482973284726938"
+				"size" "54"
+				"download" "112"
+			}
+		}
+	}
+	"1549100"
+	{
+		"dlcappid" "1549100"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8133640707689963864"
+				"size" "9252251116"
+				"download" "9061631120"
+			}
+		}
+	}
+	"1557980"
+	{
+		"dlcappid" "1557980"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3428004433720784348"
+				"size" "664"
+				"download" "256"
+			}
+		}
+	}
+	"1557981"
+	{
+		"dlcappid" "1557981"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4034091366760361162"
+				"size" "435"
+				"download" "304"
+			}
+		}
+	}
+	"1744550"
+	{
+		"dlcappid" "1744550"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "670422371761875821"
+				"size" "757"
+				"download" "256"
+			}
+		}
+	}
+	"245180"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8318245595517878491"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"245181"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7030741289285662247"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"245182"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4515492633692693441"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"2086220"
+	{
+		"dlcappid" "2086220"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "705634777621933420"
+				"size" "884"
+				"download" "272"
+			}
+		}
+	}
+	"2659510"
+	{
+		"dlcappid" "2659510"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9067940643988654458"
+				"size" "703"
+				"download" "272"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14696341"
+			"timeupdated" "1718221088"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "27103702"
+"_sha" "7428458f1e02237c95f769bf53224694b7184f9d"
+"_size" "10385"
