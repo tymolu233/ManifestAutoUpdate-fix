@@ -1,0 +1,452 @@
+"appid" "1150080"
+"common"
+{
+	"name" "Azur Lane: Crosswave"
+	"type" "Game"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"icon" "bb9dd938e5785c8a1fa02e5be055d21b05a103b3"
+	"logo" "7c88cea1530c5fea006a9d97fb0e3e3db7b3d32c"
+	"logo_small" "7c88cea1530c5fea006a9d97fb0e3e3db7b3d32c_thumb"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "ea59fea2e842ae62db5f00e837b4ad046bf9622a"
+	"clienticon" "720ac0f55ffd253c31bb71dd91972f073ab1377f"
+	"name_localized"
+	{
+		"japanese" "アズールレーン クロスウェーブ"
+		"tchinese" "碧藍航線 Crosswave"
+		"schinese" "碧蓝航线 交汇的航迹"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1666742400"
+		"tested_build_id" "5668371"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"metacritic_name" "Azur Lane: Crosswave"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "97.2222222222222"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "97.2222222222222"
+			}
+		}
+	}
+	"store_asset_mtime" "1595978128"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "IDEA FACTORY"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "COMPILE HEART"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "FELISTELLA"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Idea Factory International"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Azur Lane"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1581617220"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1150080"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "19"
+		"2" "4085"
+		"3" "21"
+		"4" "12095"
+		"5" "3799"
+		"6" "7208"
+		"7" "4726"
+		"8" "6650"
+		"9" "4434"
+		"10" "4182"
+		"11" "6910"
+		"12" "4150"
+		"13" "3814"
+		"14" "4168"
+		"15" "1663"
+		"16" "1774"
+		"17" "4994"
+		"18" "5611"
+		"19" "9130"
+	}
+	"review_score" "5"
+	"review_percentage" "68"
+}
+"extended"
+{
+	"developer" "IDEA FACTORY"
+	"publisher" "Idea Factory International"
+	"homepage" "http://ideafintl.com/azurlane-crosswave"
+	"listofdlc" "1162340,1162341,1162342,1215110,1336480,1336481,1336482,1336483,1336484"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Azur Lane Crosswave"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Azurlane.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2071686040"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese,tchinese,japanese"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1150081"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "701085278361040819"
+				"size" "4036574136"
+				"download" "3730187440"
+			}
+		}
+	}
+	"1150082"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6480302632684339960"
+				"size" "4098835608"
+				"download" "3766271248"
+			}
+		}
+	}
+	"1150083"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1531081274212312614"
+				"size" "4053062571"
+				"download" "3741822352"
+			}
+		}
+	}
+	"1162340"
+	{
+		"dlcappid" "1162340"
+		"config"
+		{
+			"language" ""
+		}
+	}
+	"1162341"
+	{
+		"dlcappid" "1162341"
+		"config"
+		{
+			"language" ""
+		}
+	}
+	"1162342"
+	{
+		"dlcappid" "1162342"
+		"config"
+		{
+			"language" ""
+		}
+	}
+	"1215110"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"dlcappid" "1215110"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2443161277944410628"
+				"size" "182392808"
+				"download" "152143680"
+			}
+		}
+	}
+	"1150084"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8879873435650180242"
+				"size" "4069564579"
+				"download" "3741853424"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5668371"
+			"timeupdated" "1602615661"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "200"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Azurlane/Saved/SaveData"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27565869"
+"_sha" "96011e0e11096ae170ecaa3d155c8a38b51c1012"
+"_size" "7675"
