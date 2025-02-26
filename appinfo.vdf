@@ -1,0 +1,479 @@
+"appid" "526870"
+"common"
+{
+	"name" "Satisfactory"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienticon" "b830a7fe1880ee85614322be91d9903078708945"
+	"clienttga" "241bffea0b057c62689441b289bb6fd3a960823d"
+	"icon" "ee3406fe5ec813b1987ad67e37e5cd6fb4f620e6"
+	"logo" "e1ea012cc760443f3458c21549b254da1cc71f64"
+	"logo_small" "e1ea012cc760443f3458c21549b254da1cc71f64_thumb"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "幸福工厂"
+		"tchinese" "滿意工廠"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1644969600"
+		"tested_build_id" "8118673"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Satisfactory"
+	"small_capsule"
+	{
+		"english" "fe7cbb345c177f83f829a61f0e0ab951b42c7ab1/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "67.09451575262543"
+			"height_pct" "77.96247922108762"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "67.09451575262543"
+				"height_pct" "77.96247922108762"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733846604"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Coffee Stain Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Coffee Stain Publishing"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Coffee Stain Publishing"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_27" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_42" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1725980340"
+	"metacritic_score" "91"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/satisfactory\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "526870"
+	"store_tags"
+	{
+		"0" "7332"
+		"1" "255534"
+		"2" "1695"
+		"3" "3859"
+		"4" "1702"
+		"5" "1685"
+		"6" "8945"
+		"7" "1643"
+		"8" "3810"
+		"9" "3834"
+		"10" "21"
+		"11" "1100689"
+		"12" "1662"
+		"13" "599"
+		"14" "3839"
+		"15" "9"
+		"16" "3942"
+		"17" "4182"
+		"18" "493"
+		"19" "492"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "Coffee Stain Studios"
+	"publisher" "Coffee Stain Publishing"
+	"homepage" "https://www.coffeestainstudios.com/"
+	"listofdlc" "3170070"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Satisfactory"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FactoryGameSteam.exe"
+			"arguments" "-NO_EOS_OVERLAY"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "FactoryGameSteam.sh"
+			"arguments" "-NO_EOS_OVERLAY"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "FactoryGame.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "default-cheats experimental-cheats"
+			}
+			"description_loc"
+			{
+				"english" "Legacy"
+			}
+			"description" "Legacy"
+		}
+		"3"
+		{
+			"executable" "FactoryGame.sh"
+			"arguments" "-NO_EOS_OVERLAY"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+				"betakey" "default-cheats experimental-cheats"
+			}
+			"description_loc"
+			{
+				"english" "Legacy"
+			}
+			"description" "Legacy"
+		}
+		"4"
+		{
+			"executable" "FactoryCookedEditor.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "internal-tools"
+			}
+			"description_loc"
+			{
+				"english" "Internal Tools"
+			}
+			"description" "Internal Tools"
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2188499079"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "526870"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"526871"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3007809920758804289"
+				"size" "27241375972"
+				"download" "12401173984"
+			}
+			"experimental"
+			{
+				"gid" "5994376272661849185"
+				"size" "27248720516"
+				"download" "12420576672"
+			}
+		}
+	}
+	"526872"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3030040503447356851"
+				"size" "14980465068"
+				"download" "9806602096"
+			}
+			"experimental"
+			{
+				"gid" "6326555319558333936"
+				"size" "14965275430"
+				"download" "9804086336"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16775602"
+			"timeupdated" "1734694774"
+		}
+		"experimental"
+		{
+			"buildid" "17396234"
+			"timeupdated" "1739898510"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "FactoryGame/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27667169"
+"_sha" "23f59afe98b2f9b96c527f0baf0feb94ece0e2d5"
+"_size" "8403"
