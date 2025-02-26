@@ -1,0 +1,507 @@
+"appid" "607080"
+"common"
+{
+	"name" "Psychonauts 2"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "ac07e34abbee5e3bc4a3b50877effe61ee76b0d9"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"logo" "2211c41c845731af9d77fdaa477d97979cf2e8b2"
+	"logo_small" "2211c41c845731af9d77fdaa477d97979cf2e8b2_thumb"
+	"clienticon" "c1bd5b8390550ccd847db6481b471a54fc52aa81"
+	"clienttga" "cf04663345e195c7e47ca59c8c25fde21223a2c3"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"osextended" "macos64,macosnotarized"
+	"linuxclienticon" "a27569df4aa771659fb3fb1a7b992588da9fa1fc"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1646438400"
+		"tested_build_id" "7724447"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Psychonauts 2"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.72093023255814"
+			"height_pct" "39.36119686535265"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "38.72093023255814"
+				"height_pct" "39.36119686535265"
+			}
+		}
+	}
+	"store_asset_mtime" "1732551717"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Double Fine Productions"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Xbox Game Studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Psychonauts"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1629849480"
+	"metacritic_score" "89"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/psychonauts-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "607080"
+	"store_tags"
+	{
+		"0" "5395"
+		"1" "1742"
+		"2" "4182"
+		"3" "5186"
+		"4" "1719"
+		"5" "21"
+		"6" "4136"
+		"7" "1625"
+		"8" "1714"
+		"9" "4195"
+		"10" "4305"
+		"11" "19"
+		"12" "5230"
+		"13" "1710"
+		"14" "1697"
+		"15" "4106"
+		"16" "1756"
+		"17" "7782"
+		"18" "7481"
+		"19" "1773"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Double Fine Productions"
+	"publisher" "Xbox Game Studios"
+	"homepage" "https://www.doublefine.com/games/psychonauts-2"
+	"listofdlc" "3245600"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Psychonauts 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Psychonauts2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Psychonauts2\\Binaries\\Win64\\Psychonauts2-Win64-Test.exe"
+			"arguments" "Psychonauts2\\Binaries\\Win64"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "dubbadubba"
+			}
+			"description_loc"
+			{
+				"english" "Test Build"
+			}
+			"description" "Test Build"
+		}
+		"2"
+		{
+			"executable" "Psychonauts2\\Binaries\\Win64\\Psychonauts2-Win64-Test.exe"
+			"arguments" "Psychonauts2\\Binaries\\Win64"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "compatibility"
+			}
+			"description_loc"
+			{
+				"english" "Test Build"
+			}
+			"description" "Test Build"
+		}
+		"3"
+		{
+			"executable" "Psychonauts2\\Binaries\\Win64\\Psychonauts2-Win64-Test.exe"
+			"arguments" "Psychonauts2\\Binaries\\Win64"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "nvidia"
+			}
+			"description_loc"
+			{
+				"english" "Test Build"
+			}
+			"description" "Test Build"
+		}
+		"5"
+		{
+			"executable" "Psychonauts2.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+				"betakey" "osx_linux_test"
+			}
+		}
+		"6"
+		{
+			"executable" "Psychonauts2-Mac-Shipping.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"7"
+		{
+			"executable" "Psychonauts2.sh"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamconfigurator3rdpartynative" "8"
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "english"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"607081"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2013362132789734298"
+				"size" "32480997511"
+				"download" "31469501024"
+			}
+			"experimental"
+			{
+				"gid" "2013362132789734298"
+				"size" "32480997511"
+				"download" "31469501024"
+			}
+		}
+	}
+	"607082"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5241082906083670911"
+				"size" "33700978771"
+				"download" "31437125360"
+			}
+			"experimental"
+			{
+				"gid" "5241082906083670911"
+				"size" "33700978771"
+				"download" "31437125360"
+			}
+		}
+	}
+	"607083"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7511870219219421642"
+				"size" "32068988966"
+				"download" "31475695968"
+			}
+			"experimental"
+			{
+				"gid" "7511870219219421642"
+				"size" "32068988966"
+				"download" "31475695968"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9282837"
+			"timeupdated" "1660777035"
+		}
+		"experimental"
+		{
+			"buildid" "9282837"
+			"description" "Public beta branch"
+			"timeupdated" "1660776999"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "5242880"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Psychonauts2/Saved/SaveGames"
+			"pattern" "Psychonauts2Save*.sav"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Psychonauts2/Saved/SaveGames"
+			"pattern" "P2ConfigSaveSlot.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" "Epic/"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".config/Epic/"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27056979"
+"_sha" "f6d0c3339f284bc1dc01c90557fb4d22fe3ed608"
+"_size" "8994"
