@@ -1,0 +1,126 @@
+"appid" "232150"
+"common"
+{
+	"name" "Killing Floor 2 - SDK"
+	"type" "Tool"
+	"releasestate" "released"
+	"oslist" "windows"
+	"parent" "232090"
+	"logo" "b341754b0ca9192271226eb60c4e2a70b5b66ebe"
+	"logo_small" "b341754b0ca9192271226eb60c4e2a70b5b66ebe_thumb"
+	"icon" "2f0e11b75760cd65922d4c0e06cf41735fe3ff89"
+	"clienticon" "c06af195676543e6ec591c3df820563eb0aae901"
+	"clienttga" "2f53de6caba3e6d85eadee064ff78e18823f27bb"
+	"associations"
+	{
+	}
+	"community_hub_visible" "1"
+	"gameid" "232150"
+}
+"extended"
+{
+	"checkpkgstate" "1"
+	"developer" ""
+	"gamedir" "ValveTestApp232150"
+	"homepage" ""
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateComingSoonNoPreload"
+	"visibleonlywhensubscribed" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "killingfloor2"
+	"launch"
+	{
+		"2"
+		{
+			"executable" "Binaries/Win64/KFEditor.exe"
+			"arguments" "editor -useunpublished"
+			"description" "Killing Floor 2 Editor"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "Binaries/SDKFrontend.exe"
+			"workingdir" "Binaries"
+			"description" "Workshop Upload Tool"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "232150"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229003"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"232151"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2233094162038886739"
+				"size" "100899634"
+				"download" "28663648"
+			}
+		}
+	}
+	"232152"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8490316940429982849"
+				"size" "1101478"
+				"download" "485008"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13316905"
+			"timeupdated" "1708012599"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "e6337b5360958bd11d77f9cae334ab0bfd811e7e"
+"_size" "2077"
