@@ -1,0 +1,619 @@
+"appid" "352720"
+"common"
+{
+	"name" "The Universim"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"logo" "12defa20833d4fabb78b8e28e3d36d329c41cd13"
+	"logo_small" "12defa20833d4fabb78b8e28e3d36d329c41cd13_thumb"
+	"icon" "eaa8b85f7f7f5549e45607f48178164906db73de"
+	"clienttga" "90f69e55206f35b7b3d1c9811cbe5cef3ac3b7e7"
+	"clienticns" "a11d2e76dbae9c5e0bcb70637373a071110e2016"
+	"linuxclienticon" "ab9878a84d2d91e15a8bfff29b3f84051c76090c"
+	"clienticon" "164b0c32c83ae1f6aaf9c2ca4e37e56c420b9258"
+	"releasestate" "released"
+	"osarch" ""
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1647993600"
+		"tested_build_id" "8297011"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "The Universim"
+	"small_capsule"
+	{
+		"english" "6aeed411328b716143397c67b9316c8cbfa13278/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "57.7361083563201"
+			"height_pct" "91.46341463414635"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "0cc34648950e98258d14aaaa05c7f0fd84d8ac09/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "0cc34648950e98258d14aaaa05c7f0fd84d8ac09/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "57.7361083563201"
+				"height_pct" "91.46341463414635"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "bd61bac5e4288c1a606d6929fb4552a8e9e9bcce/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731528782"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Crytivo"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Crytivo"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Crytivo"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1705946483"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "352720"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "5300"
+		"2" "220585"
+		"3" "3810"
+		"4" "1643"
+		"5" "597"
+		"6" "1662"
+		"7" "12472"
+		"8" "9"
+		"9" "1755"
+		"10" "599"
+		"11" "5125"
+		"12" "4305"
+		"13" "3942"
+		"14" "8945"
+		"15" "4182"
+		"16" "1673"
+		"17" "1695"
+		"18" "7107"
+		"19" "3834"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Crytivo"
+	"publisher" "Crytivo"
+	"homepage" "https://crytivo.com/the-universim"
+	"listofdlc" "396940"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "The Universim"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "The Universim.exe"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "The Universim.app"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "The Universim.x86_64"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"352721"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8075038928788057442"
+				"size" "6746505109"
+				"download" "2706322000"
+			}
+			"linux_test"
+			{
+				"gid" "7871771213743086639"
+				"size" "6596141129"
+				"download" "2667309200"
+			}
+			"mac_test"
+			{
+				"gid" "7871771213743086639"
+				"size" "6596141129"
+				"download" "2667309200"
+			}
+			"v49version"
+			{
+				"gid" "7975853401347458092"
+				"size" "4850195416"
+				"download" "1624862608"
+			}
+			"v54_version"
+			{
+				"gid" "3852624278669856297"
+				"size" "4657722660"
+				"download" "1665935360"
+			}
+			"v55_version"
+			{
+				"gid" "6499876348122122080"
+				"size" "4797189590"
+				"download" "1705878224"
+			}
+			"v56_version"
+			{
+				"gid" "5985639792144869330"
+				"size" "4810496182"
+				"download" "1700878224"
+			}
+			"v57_version"
+			{
+				"gid" "5943001065773943339"
+				"size" "4957897071"
+				"download" "1716718032"
+			}
+			"v58_version"
+			{
+				"gid" "3823874378784547571"
+				"size" "4999577123"
+				"download" "1725747104"
+			}
+		}
+	}
+	"352722"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1533985721561587233"
+				"size" "6745026519"
+				"download" "2706061952"
+			}
+			"linux_test"
+			{
+				"gid" "4921148789097102567"
+				"size" "6572013619"
+				"download" "2660617152"
+			}
+			"mac_test"
+			{
+				"gid" "4921148789097102567"
+				"size" "6572013619"
+				"download" "2660617152"
+			}
+			"v49version"
+			{
+				"gid" "1865804847355259867"
+				"size" "4847901627"
+				"download" "1624976160"
+			}
+			"v54_version"
+			{
+				"gid" "9059737268303638029"
+				"size" "4655512809"
+				"download" "1665550848"
+			}
+			"v55_version"
+			{
+				"gid" "8764412223888430918"
+				"size" "4794980323"
+				"download" "1705266912"
+			}
+			"v56_version"
+			{
+				"gid" "6491526474882961827"
+				"size" "4247340615"
+				"download" "1264066944"
+			}
+			"v57_version"
+			{
+				"gid" "6936949537981036946"
+				"size" "4955740764"
+				"download" "1716159184"
+			}
+			"v58_version"
+			{
+				"gid" "6786494613177446309"
+				"size" "4997446520"
+				"download" "1725240592"
+			}
+		}
+	}
+	"352723"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7735376732564940401"
+				"size" "6738849833"
+				"download" "2703694576"
+			}
+			"linux_test"
+			{
+				"gid" "7020498045116088737"
+				"size" "6604927621"
+				"download" "2675641248"
+			}
+			"mac_test"
+			{
+				"gid" "7020498045116088737"
+				"size" "6604927621"
+				"download" "2675641248"
+			}
+			"v49version"
+			{
+				"gid" "8760068870415077812"
+				"size" "4843524956"
+				"download" "1621723664"
+			}
+			"v54_version"
+			{
+				"gid" "900266753443614049"
+				"size" "4091160250"
+				"download" "1227827264"
+			}
+			"v55_version"
+			{
+				"gid" "7046882472388599229"
+				"size" "4791060482"
+				"download" "1703641136"
+			}
+			"v56_version"
+			{
+				"gid" "8538781805818925414"
+				"size" "4243433214"
+				"download" "1262468048"
+			}
+			"v57_version"
+			{
+				"gid" "5287741826477314707"
+				"size" "4951661755"
+				"download" "1714523104"
+			}
+			"v58_version"
+			{
+				"gid" "2230319427648193762"
+				"size" "4993319703"
+				"download" "1723538400"
+			}
+		}
+	}
+	"396940"
+	{
+		"dlcappid" "396940"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2653376198978059566"
+				"size" "2380822118"
+				"download" "2199748048"
+			}
+			"linux_test"
+			{
+				"gid" "2653376198978059566"
+				"size" "2380822118"
+				"download" "2199748048"
+			}
+			"mac_test"
+			{
+				"gid" "2653376198978059566"
+				"size" "2380822118"
+				"download" "2199748048"
+			}
+			"v49version"
+			{
+				"gid" "2653376198978059566"
+				"size" "2380822118"
+				"download" "2199748048"
+			}
+			"v54_version"
+			{
+				"gid" "2653376198978059566"
+				"size" "2380822118"
+				"download" "2199748048"
+			}
+			"v55_version"
+			{
+				"gid" "2653376198978059566"
+				"size" "2380822118"
+				"download" "2199748048"
+			}
+			"v56_version"
+			{
+				"gid" "2653376198978059566"
+				"size" "2380822118"
+				"download" "2199748048"
+			}
+			"v57_version"
+			{
+				"gid" "2653376198978059566"
+				"size" "2380822118"
+				"download" "2199748048"
+			}
+			"v58_version"
+			{
+				"gid" "2653376198978059566"
+				"size" "2380822118"
+				"download" "2199748048"
+			}
+		}
+	}
+	"2801020"
+	{
+		"dlcappid" "2801020"
+	}
+	"workshopdepot" "352720"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16850856"
+			"timeupdated" "1735163874"
+		}
+		"linux_test"
+		{
+			"buildid" "13253201"
+			"description" "Testing Linux"
+			"timeupdated" "1706047000"
+		}
+		"mac_test"
+		{
+			"buildid" "13253201"
+			"description" "Mac Testing"
+			"timeupdated" "1706046991"
+		}
+		"v49version"
+		{
+			"buildid" "6816302"
+			"description" "Previous version"
+			"timeupdated" "1626893659"
+		}
+		"v54_version"
+		{
+			"buildid" "8413093"
+			"description" "Previous version"
+			"timeupdated" "1650914554"
+		}
+		"v55_version"
+		{
+			"buildid" "8714116"
+			"description" "Previous patch"
+			"timeupdated" "1654196730"
+		}
+		"v56_version"
+		{
+			"buildid" "8928786"
+			"description" "Previous Patch"
+			"timeupdated" "1662225634"
+		}
+		"v57_version"
+		{
+			"buildid" "9446796"
+			"description" "Previous Patch"
+			"timeupdated" "1666717000"
+		}
+		"v58_version"
+		{
+			"buildid" "9920867"
+			"description" "Previous patch"
+			"timeupdated" "1671731711"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "200000000"
+	"maxnumfiles" "300"
+}
+"_missing_token" "False"
+"_change_number" "27380028"
+"_sha" "a094d362e2e66b783ef4c49edcbb2e4449d5c810"
+"_size" "11357"
