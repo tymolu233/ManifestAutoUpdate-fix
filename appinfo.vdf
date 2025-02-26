@@ -1,0 +1,164 @@
+"appid" "1690800"
+"common"
+{
+	"name" "Satisfactory Dedicated Server"
+	"type" "Tool"
+	"parent" "526870"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "b830a7fe1880ee85614322be91d9903078708945"
+	"clienttga" "241bffea0b057c62689441b289bb6fd3a960823d"
+	"icon" "ff894b01499d6f8cfb53bba894b6624bc22cefbb"
+	"logo" "d051096ae8bc6094e4c6e05ecb345a536871563c"
+	"logo_small" "d051096ae8bc6094e4c6e05ecb345a536871563c_thumb"
+	"releasestate" "released"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "1690800"
+}
+"config"
+{
+	"installdir" "SatisfactoryDedicatedServer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FactoryServer.exe"
+			"arguments" "-log -unattended"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "FactoryServer.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1690801"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6717473099110440489"
+				"size" "13137314697"
+				"download" "2654820800"
+			}
+			"experimental"
+			{
+				"gid" "4365295921881966788"
+				"size" "13146263099"
+				"download" "2667498256"
+			}
+		}
+	}
+	"1690802"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6204133154971956314"
+				"size" "4232957825"
+				"download" "1189969616"
+			}
+			"experimental"
+			{
+				"gid" "4368997029488394567"
+				"size" "4218063954"
+				"download" "1187561424"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16775547"
+			"timeupdated" "1734694759"
+		}
+		"experimental"
+		{
+			"buildid" "17396237"
+			"timeupdated" "1739898493"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27667176"
+"_sha" "ac2d79842c67e50a6616aa3135f2be3fb0b882dc"
+"_size" "2510"
