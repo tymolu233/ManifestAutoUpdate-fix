@@ -1,0 +1,644 @@
+"appid" "214340"
+"common"
+{
+	"name" "Deponia"
+	"type" "Game"
+	"clienticon" "d677cd3a006cf8c04b5d81d54be3f46d1ddb8aaf"
+	"clienttga" "d5cc4cdcecca96c58afd773720564b488e5b4ba3"
+	"icon" "48a94d33cae6065b0bedf7eefd01bd5321c7c729"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"czech" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"bulgarian" "1"
+		"greek" "1"
+	}
+	"logo" "12ea414ebaaed18950a4454fd770065bc1cef38e"
+	"logo_small" "12ea414ebaaed18950a4454fd770065bc1cef38e_thumb"
+	"clienticns" "cb88b44da35e6f0264a377aaadddf9c55a311c4a"
+	"oslist" "windows,macos,linux"
+	"linuxclienticon" "c1f82754eb75dee560386299058c22a8e93f3890"
+	"osarch" ""
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1650672000"
+		"tested_build_id" "4643528"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Deponia"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "47.66621229196049"
+			"height_pct" "93.43865940993012"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "47.66621229196049"
+				"height_pct" "93.43865940993012"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1705678261"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Daedalic Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Daedalic Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Deponia"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "1"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "1"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "1"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1344294000"
+	"metacritic_score" "74"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/deponia\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "214340"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "1698"
+		"2" "1719"
+		"3" "1664"
+		"4" "4182"
+		"5" "4136"
+		"6" "492"
+		"7" "1742"
+		"8" "3871"
+		"9" "5923"
+		"10" "1756"
+		"11" "6815"
+		"12" "769306"
+		"13" "1777"
+		"14" "1693"
+		"15" "4004"
+		"16" "3942"
+		"17" "5030"
+		"18" "1738"
+		"19" "7782"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Daedalic Entertainment"
+	"gamedir" ""
+	"homepage" "http://www.deponia.de"
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"validoslist" "macos,windows"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Daedalic Entertainment"
+	"listofdlc" "566450,829510"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Deponia"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "deponia.exe"
+			"description" "Launch "
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Deponia.app"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "start"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"4"
+		{
+			"executable" "VisionaireConfigurationTool.bat"
+			"type" "config"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"5"
+		{
+			"executable" "Deponia.app/Contents/Applications/visconfig.app"
+			"type" "config"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"6"
+		{
+			"executable" "configure"
+			"type" "config"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"7"
+		{
+			"executable" "open_bonus_win.bat"
+			"description" "Bonus Content"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "566450"
+			}
+		}
+		"8"
+		{
+			"executable" "open_bonus_osx.sh"
+			"description" "Bonus Content"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+				"ownsdlc" "566450"
+			}
+		}
+		"9"
+		{
+			"executable" "open_bonus_lin.sh"
+			"description" "Bonus Content"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"ownsdlc" "566450"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1862264671"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"baselanguages" "english"
+	"hasdepotsindlc" "1"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"214341"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1513161371746619904"
+				"size" "1628747765"
+				"download" "1587367584"
+			}
+		}
+	}
+	"214342"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4188655557544101362"
+				"size" "76780295"
+				"download" "31050800"
+			}
+		}
+	}
+	"214351"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5358278303196839561"
+				"size" "1628747765"
+				"download" "1587367584"
+			}
+		}
+	}
+	"214352"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8220986949405824825"
+				"size" "54673185"
+				"download" "20206320"
+			}
+		}
+	}
+	"214358"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7521999985859552131"
+				"size" "1628747765"
+				"download" "1586679472"
+			}
+		}
+	}
+	"214359"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7775506818306419328"
+				"size" "36302070"
+				"download" "11246512"
+			}
+		}
+	}
+	"566450"
+	{
+		"dlcappid" "566450"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6320753314510200304"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"557471"
+	{
+		"dlcappid" "566450"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3385415732974488971"
+				"size" "175430307"
+				"download" "133140240"
+			}
+		}
+	}
+	"829510"
+	{
+		"dlcappid" "829510"
+		"config"
+		{
+			"language" ""
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4643528"
+			"timeupdated" "1580900737"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "350"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Daedalic Entertainment/Deponia/Savegames/"
+			"pattern" "*.dat"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgDataHome"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27105673"
+"_sha" "56eb1243591343b101d39416649fbd6b0bd483a2"
+"_size" "10464"
