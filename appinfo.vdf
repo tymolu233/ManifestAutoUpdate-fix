@@ -1,0 +1,559 @@
+"appid" "263280"
+"common"
+{
+	"name" "Spintires®"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"logo" "11f8517ec3b2e1d870f22e5b6f2e13f7eda72bce"
+	"logo_small" "11f8517ec3b2e1d870f22e5b6f2e13f7eda72bce_thumb"
+	"icon" "6fb95ad2bbca0c7e3dd2d5b4257d5afb8bec341a"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "263280_eula_0"
+			"name" "Spintires EULA"
+			"url" "http://store.steampowered.com/eula/263280_eula_0"
+		}
+	}
+	"clienticon" "0e636fe2315cbccf16db5d72070e3e8a263f16fc"
+	"clienttga" "b10f88ed78ac52dddd1a3fb0fbc3807f57900ae9"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"russian" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"hungarian" "1"
+		"czech" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1661212800"
+		"tested_build_id" "8904972"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "SpinTires"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.90592096663113"
+			"height_pct" "92.36111111111111"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "38.90592096663113"
+				"height_pct" "92.36111111111111"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1609412705"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Oovee® Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Oovee® Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "9"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_30" "1"
+		"category_17" "1"
+		"category_29" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1402613940"
+	"metacritic_score" "67"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/spintires\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "263280"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "7622"
+		"2" "1100687"
+		"3" "3968"
+		"4" "3859"
+		"5" "1644"
+		"6" "4175"
+		"7" "1685"
+		"8" "1669"
+		"9" "1697"
+		"10" "3834"
+		"11" "3843"
+		"12" "4166"
+		"13" "3810"
+		"14" "4182"
+		"15" "4026"
+		"16" "21"
+		"17" "1775"
+		"18" "9204"
+		"19" "4305"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Oovee® Games"
+	"publisher" "Oovee® Games"
+	"homepage" "http://www.spintires.com"
+	"gamemanualurl" "https://store.steampowered.com/manual/263280/"
+	"listofdlc" "1148580,1151110,1151111,1346080,1346090,1472710"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Spintires"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SpinTires.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"baselanguages" "english,german,french,spanish,portuguese,polish,hungarian,czech,brazilian"
+	"workshopdepot" "263280"
+	"hasdepotsindlc" "1"
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"263281"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4994964581084626803"
+				"size" "1753767483"
+				"download" "672138976"
+			}
+			"legacy"
+			{
+				"gid" "5578402128519831749"
+				"size" "595052748"
+				"download" "538638624"
+			}
+			"public_beta"
+			{
+				"gid" "3382401642916453227"
+				"size" "1757511021"
+				"download" "674501280"
+			}
+		}
+	}
+	"1148580"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "1148580"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7116017437797865332"
+				"size" "189001086"
+				"download" "66577792"
+			}
+			"public_beta"
+			{
+				"gid" "7116017437797865332"
+				"size" "189001086"
+				"download" "66577792"
+			}
+		}
+	}
+	"1151110"
+	{
+		"dlcappid" "1151110"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2947097711852861656"
+				"size" "204394059"
+				"download" "72283472"
+			}
+			"public_beta"
+			{
+				"gid" "2947097711852861656"
+				"size" "204394059"
+				"download" "72283472"
+			}
+		}
+	}
+	"1151111"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"dlcappid" "1151111"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1247302366997519337"
+				"size" "1066579302"
+				"download" "477881840"
+			}
+			"public_beta"
+			{
+				"gid" "1247302366997519337"
+				"size" "1066579302"
+				"download" "477881840"
+			}
+		}
+	}
+	"1346080"
+	{
+		"dlcappid" "1346080"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3573886823066846954"
+				"size" "227693363"
+				"download" "80781296"
+			}
+			"public_beta"
+			{
+				"gid" "3573886823066846954"
+				"size" "227693363"
+				"download" "80781296"
+			}
+		}
+	}
+	"1346090"
+	{
+		"dlcappid" "1346090"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "425605214127844158"
+				"size" "839318396"
+				"download" "315188480"
+			}
+			"public_beta"
+			{
+				"gid" "425605214127844158"
+				"size" "839318396"
+				"download" "315188480"
+			}
+		}
+	}
+	"1472710"
+	{
+		"dlcappid" "1472710"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5013112805163449905"
+				"size" "1640827531"
+				"download" "703585392"
+			}
+			"public_beta"
+			{
+				"gid" "3567087774425320183"
+				"size" "1640827663"
+				"download" "703585760"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8904972"
+			"timeupdated" "1654788523"
+		}
+		"legacy"
+		{
+			"buildid" "4156429"
+			"description" "Build 2015-01-02"
+			"timeupdated" "1567268096"
+		}
+		"public_beta"
+		{
+			"buildid" "6045253"
+			"timeupdated" "1609935070"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "5368709120"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "SpinTires/UserSaves/"
+			"pattern" "*.sts"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27122887"
+"_sha" "ee3103b07cce140cffd05ea856d775f73d435497"
+"_size" "9297"
