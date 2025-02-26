@@ -1,0 +1,1388 @@
+"appid" "493900"
+"common"
+{
+	"name" "Dungeons 3"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"czech" "1"
+	}
+	"logo" "4f9fdbd01fcc6fae3f6b1290ff336bddc385d3fe"
+	"logo_small" "4f9fdbd01fcc6fae3f6b1290ff336bddc385d3fe_thumb"
+	"icon" "bae87fcbf25bab5bcd214f8b96ac14b781e3b4e9"
+	"clienticon" "648b58f657b8aee9c9c6cdb339401e52d788380e"
+	"clienttga" "ad2fc9fda34ab44fa99f8c48ac9344bf42205387"
+	"linuxclienticon" "33f9115720fc5db3b565e63ff2086ccbdb17fb3c"
+	"clienticns" "02e0c348cb918c86221a7d4efcfabff778224dc4"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "493900_eula_0"
+			"name" "Dungeons 3 EULA"
+			"url" "http://store.steampowered.com//eula/493900_eula_0"
+		}
+	}
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1671235200"
+		"tested_build_id" "7363028"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Dungeons 3"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "45.60919540229887"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "45.60919540229887"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1693898976"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Realmforge Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kalypso Media"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Dungeons"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_9" "1"
+		"category_27" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_38" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1507914068"
+	"metacritic_score" "75"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/dungeons-3\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "493900"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "11333"
+		"2" "7332"
+		"3" "599"
+		"4" "1676"
+		"5" "5300"
+		"6" "12472"
+		"7" "7208"
+		"8" "1719"
+		"9" "3859"
+		"10" "4695"
+		"11" "4136"
+		"12" "4182"
+		"13" "4604"
+		"14" "5923"
+		"15" "3843"
+		"16" "4508"
+		"17" "1667"
+		"18" "3813"
+		"19" "5851"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Realmforge Studios"
+	"publisher" "Kalypso Media"
+	"gamemanualurl" "https://store.steampowered.com/manual/493900/"
+	"listofdlc" "630090,630091,630092,711170,711171,711172,711680,711681,824610,975330,975360,1023950,1049940,1198940"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Dungeons 3"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Dungeons3.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Dungeons3.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Dungeons3"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"hasdepotsindlc" "1"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"493901"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2775552542639382064"
+				"size" "1035495712"
+				"download" "945229024"
+			}
+		}
+	}
+	"493902"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "939440225510644531"
+				"size" "5389969743"
+				"download" "1640780400"
+			}
+		}
+	}
+	"493903"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7685672873360296073"
+				"size" "5230521725"
+				"download" "1607252800"
+			}
+		}
+	}
+	"493904"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3190433396352764059"
+				"size" "5232700563"
+				"download" "1612896256"
+			}
+		}
+	}
+	"493905"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "69194741727597605"
+				"size" "57971463"
+				"download" "57512336"
+			}
+		}
+	}
+	"630099"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5166559558394442309"
+				"size" "346705851"
+				"download" "345888176"
+			}
+		}
+	}
+	"630098"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8257181552979181607"
+				"size" "450270271"
+				"download" "449312944"
+			}
+		}
+	}
+	"630097"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3925560497192100164"
+				"size" "366880939"
+				"download" "366076464"
+			}
+		}
+	}
+	"630095"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3829487861480892519"
+				"size" "416737115"
+				"download" "416156288"
+			}
+		}
+	}
+	"630096"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8122392579335576184"
+				"size" "390985799"
+				"download" "390492304"
+			}
+		}
+	}
+	"630094"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7748160672160024775"
+				"size" "386380623"
+				"download" "384943888"
+			}
+		}
+	}
+	"630093"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1609205731082324659"
+				"size" "346557539"
+				"download" "345859952"
+			}
+		}
+	}
+	"711173"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1697567128491993564"
+				"size" "346866031"
+				"download" "345906976"
+			}
+		}
+	}
+	"493906"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5469672841208890142"
+				"size" "346701819"
+				"download" "345901152"
+			}
+		}
+	}
+	"493907"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8044520254740145778"
+				"size" "346905943"
+				"download" "345904736"
+			}
+		}
+	}
+	"711174"
+	{
+		"dlcappid" "711170"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2685240387369957167"
+				"size" "1034474"
+				"download" "222640"
+			}
+		}
+	}
+	"711175"
+	{
+		"dlcappid" "711170"
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8431729652115591299"
+				"size" "1034474"
+				"download" "222368"
+			}
+		}
+	}
+	"711176"
+	{
+		"dlcappid" "711170"
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3249584465115270379"
+				"size" "1034474"
+				"download" "221840"
+			}
+		}
+	}
+	"711177"
+	{
+		"dlcappid" "711171"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1483424363995958111"
+				"size" "1320462"
+				"download" "328816"
+			}
+		}
+	}
+	"711178"
+	{
+		"dlcappid" "711171"
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9087154153454105935"
+				"size" "1320462"
+				"download" "329088"
+			}
+		}
+	}
+	"711179"
+	{
+		"dlcappid" "711171"
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7098362530139807282"
+				"size" "1320462"
+				"download" "329088"
+			}
+		}
+	}
+	"711682"
+	{
+		"dlcappid" "630090"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5112760202501054068"
+				"size" "14"
+				"download" "64"
+			}
+		}
+	}
+	"711683"
+	{
+		"dlcappid" "630090"
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5508118338173642702"
+				"size" "14"
+				"download" "64"
+			}
+		}
+	}
+	"711684"
+	{
+		"dlcappid" "630090"
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "763263295188253299"
+				"size" "14"
+				"download" "64"
+			}
+		}
+	}
+	"711685"
+	{
+		"dlcappid" "630091"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8028467847671402178"
+				"size" "14"
+				"download" "64"
+			}
+		}
+	}
+	"711686"
+	{
+		"dlcappid" "630091"
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "418080747894322703"
+				"size" "14"
+				"download" "64"
+			}
+		}
+	}
+	"711687"
+	{
+		"dlcappid" "630091"
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7422613405638393561"
+				"size" "14"
+				"download" "64"
+			}
+		}
+	}
+	"711688"
+	{
+		"dlcappid" "630092"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6421062162663487459"
+				"size" "15"
+				"download" "64"
+			}
+		}
+	}
+	"711689"
+	{
+		"dlcappid" "630092"
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2299439018262204205"
+				"size" "15"
+				"download" "64"
+			}
+		}
+	}
+	"724160"
+	{
+		"dlcappid" "630092"
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3486832356997282679"
+				"size" "15"
+				"download" "64"
+			}
+		}
+	}
+	"724161"
+	{
+		"dlcappid" "711172"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3678833174644234453"
+				"size" "2138336"
+				"download" "248304"
+			}
+		}
+	}
+	"724162"
+	{
+		"dlcappid" "711172"
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7187363388675523114"
+				"size" "2138336"
+				"download" "248304"
+			}
+		}
+	}
+	"724163"
+	{
+		"dlcappid" "711172"
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5351587958090427787"
+				"size" "2138336"
+				"download" "248304"
+			}
+		}
+	}
+	"724164"
+	{
+		"dlcappid" "711680"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9145586336952054638"
+				"size" "1566179"
+				"download" "184816"
+			}
+		}
+	}
+	"724165"
+	{
+		"dlcappid" "711680"
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4519720030200692681"
+				"size" "1566179"
+				"download" "184816"
+			}
+		}
+	}
+	"724166"
+	{
+		"dlcappid" "711680"
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2341825319447214587"
+				"size" "1566179"
+				"download" "184816"
+			}
+		}
+	}
+	"724167"
+	{
+		"dlcappid" "711681"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4601001480219346549"
+				"size" "2229569"
+				"download" "248544"
+			}
+		}
+	}
+	"724168"
+	{
+		"dlcappid" "711681"
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1440741728372950411"
+				"size" "2229569"
+				"download" "248544"
+			}
+		}
+	}
+	"724169"
+	{
+		"dlcappid" "711681"
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2409509269956414170"
+				"size" "2229569"
+				"download" "248544"
+			}
+		}
+	}
+	"824611"
+	{
+		"dlcappid" "824610"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7815349823550083216"
+				"size" "5599067"
+				"download" "624736"
+			}
+		}
+	}
+	"824612"
+	{
+		"dlcappid" "824610"
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6840427282119688656"
+				"size" "5599067"
+				"download" "624736"
+			}
+		}
+	}
+	"824613"
+	{
+		"dlcappid" "824610"
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5960947599195789187"
+				"size" "5599067"
+				"download" "624736"
+			}
+		}
+	}
+	"824614"
+	{
+		"dlcappid" "975330"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1455656009896730477"
+				"size" "965901"
+				"download" "263408"
+			}
+		}
+	}
+	"824615"
+	{
+		"dlcappid" "975330"
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2367396990468038496"
+				"size" "965901"
+				"download" "263408"
+			}
+		}
+	}
+	"824616"
+	{
+		"dlcappid" "975330"
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8702714712945404538"
+				"size" "965901"
+				"download" "263408"
+			}
+		}
+	}
+	"824617"
+	{
+		"dlcappid" "975360"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7713150565719865021"
+				"size" "2071733"
+				"download" "224832"
+			}
+		}
+	}
+	"824618"
+	{
+		"dlcappid" "975360"
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7377545132797474729"
+				"size" "2071733"
+				"download" "224832"
+			}
+		}
+	}
+	"824619"
+	{
+		"dlcappid" "975360"
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "445341766642944383"
+				"size" "2071733"
+				"download" "224832"
+			}
+		}
+	}
+	"975331"
+	{
+		"dlcappid" "1023950"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4718988624969077080"
+				"size" "722445"
+				"download" "195632"
+			}
+		}
+	}
+	"975332"
+	{
+		"dlcappid" "1023950"
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7965240410468835850"
+				"size" "722445"
+				"download" "195632"
+			}
+		}
+	}
+	"975333"
+	{
+		"dlcappid" "1023950"
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6960493500828815674"
+				"size" "722445"
+				"download" "196160"
+			}
+		}
+	}
+	"975334"
+	{
+		"dlcappid" "1049940"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "727480190278895948"
+				"size" "2261668"
+				"download" "234096"
+			}
+		}
+	}
+	"975335"
+	{
+		"dlcappid" "1049940"
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "457652418997633435"
+				"size" "2261668"
+				"download" "234096"
+			}
+		}
+	}
+	"975336"
+	{
+		"dlcappid" "1049940"
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1773249835665003367"
+				"size" "2261668"
+				"download" "234096"
+			}
+		}
+	}
+	"975337"
+	{
+		"dlcappid" "1198940"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2072019601914885356"
+				"size" "1774420"
+				"download" "193488"
+			}
+		}
+	}
+	"975338"
+	{
+		"dlcappid" "1198940"
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1931166270802767363"
+				"size" "1774420"
+				"download" "193488"
+			}
+		}
+	}
+	"975339"
+	{
+		"dlcappid" "1198940"
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1512009281723732771"
+				"size" "1774420"
+				"download" "193488"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7363028"
+			"timeupdated" "1631793431"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "200000000"
+	"maxnumfiles" "200"
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".config/"
+		}
+	}
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Kalypso Media/Dungeons 3/savegames"
+			"pattern" "*.d3z"
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Kalypso Media/Dungeons 3"
+			"pattern" "config-cloud.cfg"
+		}
+		"2"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Kalypso Media/Dungeons 3"
+			"pattern" "keybindings-*.txt"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27103127"
+"_sha" "1b282648ae7a9c9ec4b62e2135e86aa1c7c77eaf"
+"_size" "20143"
