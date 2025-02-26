@@ -1,0 +1,434 @@
+"appid" "573100"
+"common"
+{
+	"name" "Battlefleet Gothic: Armada 2"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"releasestate" "released"
+	"clienticon" "faf7ac23d098b0bf1735d2ad3da1012dc3c4384c"
+	"clienttga" "be545285b59252b2172f252e46edda98afac2788"
+	"icon" "081ca037fb5e0e2c2838e3bc0e4b30ab36b89c75"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+	}
+	"logo" "ef28306d4487a077d2d5546bc9c71be461710a8b"
+	"logo_small" "ef28306d4487a077d2d5546bc9c71be461710a8b_thumb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "573100_eula_0"
+			"name" "Battlefleet Gothic: Armada II EULA"
+			"url" "https://store.steampowered.com//eula/573100_eula_0"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "5593717"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Battlefleet Gothic: Armada 2"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "51"
+			"height_pct" "53"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "51"
+				"height_pct" "53"
+			}
+		}
+	}
+	"store_asset_mtime" "1689850794"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tindalos Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Focus Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Warhammer"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_27" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1548349200"
+	"metacritic_score" "77"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/battlefleet-gothic-armada-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "573100"
+	"store_tags"
+	{
+		"0" "1755"
+		"1" "9"
+		"2" "12286"
+		"3" "1676"
+		"4" "3813"
+		"5" "3942"
+		"6" "4182"
+		"7" "5310"
+		"8" "3859"
+		"9" "1685"
+		"10" "4667"
+		"11" "6910"
+		"12" "1678"
+		"13" "4994"
+		"14" "4166"
+		"15" "1708"
+		"16" "4508"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"anti_cheat_support_url" "https://www.easy.ac/r/steam/gamebans/\?steamAppId=573100"
+	"onquitdemomsg" "https://steamstore-a.akamaihd.net/message/5311495569966431707/"
+	"developer" "Tindalos Interactive"
+	"publisher" "Focus Entertainment"
+	"homepage" "https://www.focus-home.com/games/battlefleet-gothic-armada-2"
+	"listofdlc" "1032370"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Battlefleet Gothic Armada II"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BattlefleetGothic2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "BattlefleetGothic2/Binaries/Win64/BattlefleetGothic2-Win64-Shipping.exe"
+			"arguments" "-NoEAC"
+			"workingdir" "BattlefleetGothic2/Binaries/Win64/"
+			"description" "Shipping No EAC"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "qa_test,qa_test_2,autoupload,bfgtest,fhi_testlab,hw_test,forlive_notestexe"
+			}
+		}
+		"2"
+		{
+			"executable" "BattlefleetGothic2/Binaries/Win64/BattlefleetGothic2-Win64-Test.exe"
+			"workingdir" "BattlefleetGothic2/Binaries/Win64/"
+			"description" "Test"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "qa_test,qa_test_2,autoupload,bfgtest,fhi_testlab,hw_test,forlive_notestexe"
+			}
+		}
+		"3"
+		{
+			"executable" "BattlefleetGothic2/Binaries/Win64/BattlefleetGothic2-Win64-Test.exe"
+			"arguments" "-NoEAC"
+			"workingdir" "BattlefleetGothic2/Binaries/Win64/"
+			"description" "Test No EAC"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "qa_test,qa_test_2,autoupload,bfgtest,fhi_testlab,hw_test,forlive_notestexe"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" ""
+	"573101"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7435580317119742848"
+				"size" "46172881724"
+				"download" "14823341216"
+			}
+			"fhi_latestpatch_restore"
+			{
+				"gid" "157463103182759324"
+				"size" "46165980428"
+				"download" "14816628464"
+			}
+		}
+	}
+	"573102"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+	}
+	"573103"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+	}
+	"573104"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+	}
+	"573105"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+	}
+	"573106"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+	}
+	"573107"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15810022"
+			"timeupdated" "1727189292"
+		}
+		"fhi_latestpatch_restore"
+		{
+			"buildid" "5078975"
+			"description" "Restore_LIVE_NoXplaySupport"
+			"timeupdated" "1599483150"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "BattlefleetGothic2\\Saved\\SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27062136"
+"_sha" "f3a7390e703a0d3d2e126c26f9cd6f2a30b4bdb5"
+"_size" "7964"
