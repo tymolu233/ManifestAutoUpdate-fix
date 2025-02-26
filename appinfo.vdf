@@ -1,0 +1,591 @@
+"appid" "641320"
+"common"
+{
+	"name" "Cooking Simulator"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "935157cb15a96271153ca111223d82cb3aaf909f"
+	"logo_small" "935157cb15a96271153ca111223d82cb3aaf909f_thumb"
+	"icon" "85e75f4415fdd402cf01ce20672cac5256bed5d7"
+	"clienticon" "092e817967a65c6fe0d8e95c6eeed5518c824f4d"
+	"clienttga" "7f1b5b1f739642db01c3f1554b9f01559d1b76b4"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"sc_schinese" "1"
+	}
+	"name_localized"
+	{
+		"sc_schinese" "烹饪模拟器"
+	}
+	"releasestatesteamchina" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1673654400"
+		"tested_build_id" "10191236"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Cooking Simulator"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-xc"
+		"library_hero" "en,zh-xc"
+		"library_logo" "en,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "51.571594877764795"
+			"height_pct" "98.10370370370373"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"sc_schinese" "library_hero_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"sc_schinese" "library_hero_sc_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "51.571594877764795"
+				"height_pct" "98.10370370370373"
+			}
+		}
+	}
+	"store_asset_mtime" "1718888866"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Big Cheese Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Big Cheese Studio"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "PlayWay S.A."
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Cooking Simulator"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Big Cheese Studio"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "PlayWay S.A."
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1559833200"
+	"metacritic_score" "64"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/cooking-simulator\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "641320"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "3920"
+		"2" "4182"
+		"3" "4175"
+		"4" "3810"
+		"5" "4136"
+		"6" "3968"
+		"7" "3839"
+		"8" "5350"
+		"9" "12472"
+		"10" "1685"
+		"11" "1654"
+		"12" "1702"
+		"13" "1719"
+		"14" "8945"
+		"15" "4711"
+		"16" "4695"
+		"17" "19"
+		"18" "10397"
+		"19" "7208"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "Big Cheese Studio"
+	"publisher" "Big Cheese Studio"
+	"listofdlc" "1168680,1227350,1357180,1400460,1575660,2655000"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "CookingSimulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CookingSim.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"realm" "steamglobal"
+			}
+		}
+		"1"
+		{
+			"executable" "烹饪模拟器.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"realm" "steamchina"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229000"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"641321"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8986327706593501554"
+				"size" "7682824700"
+				"download" "5923244608"
+			}
+			"poltergeist"
+			{
+				"gid" "972027167869808479"
+				"size" "4559781982"
+				"download" "3329049200"
+			}
+		}
+	}
+	"1139960"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"dlcappid" "1139960"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8738189176505780735"
+				"size" "689737424"
+				"download" "593096752"
+			}
+			"poltergeist"
+			{
+				"gid" "8738189176505780735"
+				"size" "689737424"
+				"download" "593096752"
+			}
+		}
+	}
+	"1168680"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"dlcappid" "1168680"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4100398676306529269"
+				"size" "236978899"
+				"download" "200996256"
+			}
+			"poltergeist"
+			{
+				"gid" "3863902362290471050"
+				"size" "232899055"
+				"download" "197592048"
+			}
+		}
+	}
+	"1227350"
+	{
+		"dlcappid" "1227350"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7258685893207089970"
+				"size" "1969425133"
+				"download" "1784758896"
+			}
+			"poltergeist"
+			{
+				"gid" "8407915883947809875"
+				"size" "1960299494"
+				"download" "1776045552"
+			}
+		}
+	}
+	"1357180"
+	{
+		"dlcappid" "1357180"
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+	}
+	"1400460"
+	{
+		"dlcappid" "1400460"
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4167706705931327122"
+				"size" "1701919007"
+				"download" "1489616032"
+			}
+			"poltergeist"
+			{
+				"gid" "1980294947058981427"
+				"size" "1646155496"
+				"download" "1439334320"
+			}
+		}
+	}
+	"1575660"
+	{
+		"dlcappid" "1575660"
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1844975187349358022"
+				"size" "2313560657"
+				"download" "2095415632"
+			}
+			"poltergeist"
+			{
+				"gid" "6715647609153354260"
+				"size" "2587535068"
+				"download" "2345549280"
+			}
+		}
+	}
+	"641322"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1461777323593563761"
+				"size" "4408337740"
+				"download" "3214918352"
+			}
+		}
+	}
+	"2655000"
+	{
+		"dlcappid" "2655000"
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3849598937508099899"
+				"size" "2714791914"
+				"download" "2257511264"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16835357"
+			"timeupdated" "1734959356"
+		}
+		"poltergeist"
+		{
+			"buildid" "7921875"
+			"description" "Poltergeist"
+			"timeupdated" "1640105257"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10485760"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Wastelands-Interactive/CookingSim/Saves"
+			"pattern" "*.cssave"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26998573"
+"_sha" "3a35eb3ae72b80be328f8d7c3cdab7b9ee502a43"
+"_size" "10095"
