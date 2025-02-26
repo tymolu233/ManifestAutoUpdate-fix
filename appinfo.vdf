@@ -1,0 +1,362 @@
+"appid" "857980"
+"common"
+{
+	"name" "Void Bastards"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"clienticon" "2d7ce23923a988a47592e3ada0d5076773cd1d25"
+	"clienttga" "a2d3b1cbf530171d6b2c7171e76380d947aef54a"
+	"icon" "4f6082aade16c5dfe9e420d6d45cb59a0125c009"
+	"logo" "02d18587d5b9d100f4f9b61c42ddecf0442ce4af"
+	"logo_small" "02d18587d5b9d100f4f9b61c42ddecf0442ce4af_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"clienticns" "d7e497dcec1c3c8b2aee23460b1f85b2673fcdf3"
+	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1653004800"
+		"tested_build_id" "4269398"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Void Bastards"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "27"
+			"height_pct" "58"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "27"
+				"height_pct" "58"
+			}
+		}
+	}
+	"store_asset_mtime" "1600039780"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Blue Manchu"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Humble Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Humble Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_43" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1559102340"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/void-bastards\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "857980"
+	"store_tags"
+	{
+		"0" "1663"
+		"1" "42804"
+		"2" "4182"
+		"3" "1774"
+		"4" "1716"
+		"5" "9204"
+		"6" "1687"
+		"7" "1751"
+		"8" "3839"
+		"9" "9"
+		"10" "5125"
+		"11" "1755"
+		"12" "4252"
+		"13" "3942"
+		"14" "19"
+		"15" "1702"
+		"16" "492"
+		"17" "3959"
+		"18" "4345"
+		"19" "4667"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Blue Manchu"
+	"publisher" "Humble Games"
+	"homepage" "http://www.voidbastards.com"
+	"listofdlc" "1091680"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Void Bastards"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Void Bastards.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Void Bastards.app/Contents/MacOS/Void Bastards"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "3"
+}
+"depots"
+{
+	"857981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4107124353291605178"
+				"size" "6161547164"
+				"download" "901217584"
+			}
+		}
+	}
+	"857982"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8760403324903625200"
+				"size" "6192635917"
+				"download" "902820736"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4269398"
+			"timeupdated" "1571005855"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10485760"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "BlueManchu/VoidBastards/Steam/{64BitSteamID}"
+			"pattern" "VB.xml"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "BlueManchu/VoidBastards/Steam/{64BitSteamID}"
+			"pattern" "VB_Persist.xml"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27007721"
+"_sha" "35e101642095c111adaf7d1a910ddb8a56a2aaac"
+"_size" "6213"
