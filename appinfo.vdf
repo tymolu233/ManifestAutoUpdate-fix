@@ -1,0 +1,347 @@
+"appid" "789760"
+"common"
+{
+	"name" "Dead or School"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"japanese" "1"
+	}
+	"clienticon" "0cf8a257632f57df98e7ecfca39d3c22ce0492ea"
+	"clienttga" "ebb52ae870e2f3b6e3581d9d9819ce974cf729ab"
+	"icon" "9053134345ec909fb0dad79636716a060694cf46"
+	"logo" "f9fc23ff50f2f501f4d38a8546ee38252978ccb7"
+	"logo_small" "f9fc23ff50f2f501f4d38a8546ee38252978ccb7_thumb"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1677801600"
+		"tested_build_id" "4310539"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DisplayOutputNotCorrectlyScaled"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ResumeFromSleepNotFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Dead or School"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1571265855"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Studio Nanafushi"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Studio Nanafushi"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1559597501"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "789760"
+	"store_tags"
+	{
+		"0" "7208"
+		"1" "4085"
+		"2" "19"
+		"3" "5611"
+		"4" "12095"
+		"5" "122"
+		"6" "1659"
+		"7" "6650"
+		"8" "3798"
+		"9" "492"
+		"10" "1646"
+		"11" "1628"
+		"12" "3871"
+		"13" "4434"
+		"14" "4182"
+		"15" "4726"
+		"16" "1667"
+		"17" "3799"
+		"18" "4026"
+		"19" "9130"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "Studio Nanafushi"
+	"publisher" "Studio Nanafushi"
+}
+"config"
+{
+	"installdir" "Dead or School"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DeadOrSchool.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"789761"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2688346031078106016"
+				"size" "2831239379"
+				"download" "2424116880"
+			}
+			"controllertest"
+			{
+				"gid" "2709575662157594495"
+				"size" "56276520"
+				"download" "15182240"
+			}
+			"v7.00.26"
+			{
+				"gid" "1857808161161187294"
+				"size" "2818917167"
+				"download" "2415513744"
+			}
+			"v7.00.32"
+			{
+				"gid" "3304206203235990608"
+				"size" "2819398545"
+				"download" "2415660096"
+			}
+			"v7.01"
+			{
+				"gid" "2205476174111856823"
+				"size" "2818832293"
+				"download" "2414947040"
+			}
+			"v7.02"
+			{
+				"gid" "1756833249810848885"
+				"size" "2833044516"
+				"download" "2423540544"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4310539"
+			"timeupdated" "1571726853"
+		}
+		"controllertest"
+		{
+			"buildid" "4278476"
+			"timeupdated" "1570792707"
+		}
+		"v7.00.26"
+		{
+			"buildid" "3881577"
+			"timeupdated" "1559585773"
+		}
+		"v7.00.32"
+		{
+			"buildid" "3884039"
+			"timeupdated" "1559743409"
+		}
+		"v7.01"
+		{
+			"buildid" "3890530"
+			"timeupdated" "1560584655"
+		}
+		"v7.02"
+		{
+			"buildid" "3921238"
+			"timeupdated" "1568563435"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "2097152"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "StudioNanafushi/DEADORSCHOOL/savefile"
+			"pattern" "auto"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "StudioNanafushi/DEADORSCHOOL/savefile"
+			"pattern" "user*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27655200"
+"_sha" "aeff4897378439b61fd56ecfcd4b490d1017b9d4"
+"_size" "5998"
