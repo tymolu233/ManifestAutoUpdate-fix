@@ -1,0 +1,2041 @@
+"appid" "255710"
+"common"
+{
+	"name" "Cities: Skylines"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"logo" "1b90f32be112870a4fa22c819a358d047b38d97f"
+	"logo_small" "1b90f32be112870a4fa22c819a358d047b38d97f_thumb"
+	"clienttga" "ab640349dee50b2cbdb93b98a8bb2fab74475245"
+	"clienticon" "3f2b22c6d7bca4d39f06c203d16facb50014bbbb"
+	"icon" "6cf7b10dd29db28448ef79698ed2118a03617d63"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"clienticns" "a983189e4a7b09bbc7f302623f751a609dfbab4b"
+	"linuxclienticon" "0e8d8013ce4fdb4e3d3295804d9a4284f476b5b5"
+	"osarch" "64"
+	"osextended" "macos64,macosnotarized"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "255710_eula_0"
+			"name" "Cities: Skylines EULA"
+			"url" "https://store.steampowered.com//eula/255710_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1675123200"
+		"tested_build_id" "9870300"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Cities: Skylines"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "4cf458b43b41e4f86d3e4e604e7a7577c7926b01/capsule_231x87.jpg"
+		"schinese" "d737f3022e1c3add984f53d907e7c1822cc3a541/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "34.48704869141823"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "34.48704869141823"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1733997705"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Colossal Order Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paradox Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Cities: Skylines"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_17" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1426003140"
+	"metacritic_score" "85"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/cities-skylines\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "255710"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "599"
+		"2" "1643"
+		"3" "12472"
+		"4" "9"
+		"5" "3810"
+		"6" "4182"
+		"7" "1669"
+		"8" "4695"
+		"9" "8945"
+		"10" "5348"
+		"11" "4175"
+		"12" "4711"
+		"13" "597"
+		"14" "5673"
+		"15" "7107"
+		"16" "5350"
+		"17" "1756"
+		"18" "4136"
+		"19" "19"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"foo" "bar"
+	"developer" "Colossal Order Ltd."
+	"publisher" "Paradox Interactive"
+	"gamemanualurl" "https://store.steampowered.com/manual/255710/"
+	"listofdlc" "340160,346791,352510,352511,352512,355600,365040,369150,420610,456200,515190,515191,525940,526610,526611,526612,536610,547500,547501,547502,563850,614580,614581,614582,715190,715191,715192,715193,715194,815380,944070,944071,1059820,1065490,1065491,1146930,1148020,1148021,1148022,1196100,1531470,1531471,1531472,1531473,1726380,1726381,1726382,1726383,1726384,1992290,1992291,1992292,1992293,2008400,2144480,2144481,2144482,2144483,2148900,2148901,2148902,2148903,2148904,2224690"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Cities_Skylines"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "dowser.exe"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Cities.app/Contents/Launcher/dowser"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "dowser"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "Cities.exe"
+			"description" "baseline launch"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "baseline"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2036494119"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"workshopdepot" "255710"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"255711"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5710104015581629842"
+				"size" "16018528934"
+				"download" "6034257056"
+			}
+		}
+	}
+	"255712"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7649965132016191889"
+				"size" "16050579274"
+				"download" "6139299776"
+			}
+		}
+	}
+	"255713"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8782891173037276007"
+				"size" "16009693141"
+				"download" "5863096160"
+			}
+		}
+	}
+	"340160"
+	{
+		"dlcappid" "340160"
+	}
+	"346790"
+	{
+		"dlcappid" "346790"
+	}
+	"346791"
+	{
+		"dlcappid" "346791"
+	}
+	"352510"
+	{
+		"dlcappid" "352510"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7123489600763198871"
+				"size" "296695160"
+				"download" "277873520"
+			}
+		}
+	}
+	"352511"
+	{
+		"dlcappid" "352511"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5414751412616420673"
+				"size" "8114536"
+				"download" "7412752"
+			}
+		}
+	}
+	"352512"
+	{
+		"dlcappid" "352512"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3674897373088926940"
+				"size" "4167171"
+				"download" "2742176"
+			}
+		}
+	}
+	"355600"
+	{
+		"dlcappid" "355600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1631829400747429551"
+				"size" "85982781"
+				"download" "55095664"
+			}
+		}
+	}
+	"365040"
+	{
+		"dlcappid" "365040"
+	}
+	"369150"
+	{
+		"dlcappid" "369150"
+	}
+	"420610"
+	{
+		"dlcappid" "420610"
+	}
+	"456200"
+	{
+		"dlcappid" "456200"
+	}
+	"515191"
+	{
+		"dlcappid" "515191"
+	}
+	"515190"
+	{
+		"dlcappid" "515190"
+	}
+	"525940"
+	{
+		"dlcappid" "525940"
+	}
+	"526610"
+	{
+		"dlcappid" "526610"
+	}
+	"526611"
+	{
+		"dlcappid" "526611"
+	}
+	"526612"
+	{
+		"dlcappid" "526612"
+	}
+	"536610"
+	{
+		"dlcappid" "536610"
+	}
+	"547500"
+	{
+		"dlcappid" "547500"
+	}
+	"547502"
+	{
+		"dlcappid" "547502"
+	}
+	"563850"
+	{
+		"dlcappid" "563850"
+	}
+	"614580"
+	{
+		"dlcappid" "614580"
+	}
+	"614581"
+	{
+		"dlcappid" "614581"
+	}
+	"255720"
+	{
+		"dlcappid" "614581"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "852385160178766697"
+				"size" "190220952"
+				"download" "190783584"
+			}
+		}
+	}
+	"255721"
+	{
+		"dlcappid" "614581"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1625223192604467070"
+				"size" "190220952"
+				"download" "190783584"
+			}
+		}
+	}
+	"255722"
+	{
+		"dlcappid" "614581"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6633545179875120363"
+				"size" "190220952"
+				"download" "190783584"
+			}
+		}
+	}
+	"715190"
+	{
+		"dlcappid" "715190"
+	}
+	"715191"
+	{
+		"dlcappid" "715191"
+	}
+	"715192"
+	{
+		"dlcappid" "715192"
+	}
+	"255723"
+	{
+		"dlcappid" "715192"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8856600409965711738"
+				"size" "72834749"
+				"download" "73024256"
+			}
+		}
+	}
+	"255724"
+	{
+		"dlcappid" "715192"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9049674155703089828"
+				"size" "72834749"
+				"download" "73024256"
+			}
+		}
+	}
+	"255725"
+	{
+		"dlcappid" "715192"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1466405059764001106"
+				"size" "72834749"
+				"download" "73024256"
+			}
+		}
+	}
+	"944070"
+	{
+		"dlcappid" "944070"
+	}
+	"944072"
+	{
+		"dlcappid" "944070"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3712078253560121570"
+				"size" "210627595"
+				"download" "210504816"
+			}
+		}
+	}
+	"944073"
+	{
+		"dlcappid" "944070"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "289915600672015817"
+				"size" "210627595"
+				"download" "210504816"
+			}
+		}
+	}
+	"944074"
+	{
+		"dlcappid" "944070"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7722967552608028136"
+				"size" "210627595"
+				"download" "210504816"
+			}
+		}
+	}
+	"715194"
+	{
+		"dlcappid" "715194"
+	}
+	"944071"
+	{
+		"dlcappid" "944071"
+	}
+	"1059820"
+	{
+		"dlcappid" "1059820"
+	}
+	"1065490"
+	{
+		"dlcappid" "1065490"
+	}
+	"1065491"
+	{
+		"dlcappid" "1065491"
+	}
+	"1065492"
+	{
+		"dlcappid" "1065490"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7466621565301344156"
+				"size" "81524223"
+				"download" "81408400"
+			}
+		}
+	}
+	"1065493"
+	{
+		"dlcappid" "1065490"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2381763253807829369"
+				"size" "81524223"
+				"download" "81408400"
+			}
+		}
+	}
+	"1065494"
+	{
+		"dlcappid" "1065490"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5004619621585266912"
+				"size" "81524223"
+				"download" "81408400"
+			}
+		}
+	}
+	"1065495"
+	{
+		"dlcappid" "1065491"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8050933269028306268"
+				"size" "66986440"
+				"download" "66870048"
+			}
+		}
+	}
+	"1065496"
+	{
+		"dlcappid" "1065491"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "977353470357514182"
+				"size" "66986440"
+				"download" "66870048"
+			}
+		}
+	}
+	"1065497"
+	{
+		"dlcappid" "1065491"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "429213752068640145"
+				"size" "66986440"
+				"download" "66870048"
+			}
+		}
+	}
+	"1146930"
+	{
+		"dlcappid" "1146930"
+	}
+	"1148020"
+	{
+		"dlcappid" "1148020"
+	}
+	"1148021"
+	{
+		"dlcappid" "1148021"
+	}
+	"1148022"
+	{
+		"dlcappid" "1148022"
+	}
+	"1148023"
+	{
+		"dlcappid" "1148021"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1922603953388439803"
+				"size" "69344015"
+				"download" "69066848"
+			}
+		}
+	}
+	"1148024"
+	{
+		"dlcappid" "1148021"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5250545151175553704"
+				"size" "69344015"
+				"download" "69066848"
+			}
+		}
+	}
+	"1148025"
+	{
+		"dlcappid" "1148021"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8763813454172900471"
+				"size" "69344015"
+				"download" "69066848"
+			}
+		}
+	}
+	"1196100"
+	{
+		"dlcappid" "1196100"
+	}
+	"1196101"
+	{
+		"dlcappid" "1196100"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1533764397998152295"
+				"size" "88120692"
+				"download" "87127632"
+			}
+		}
+	}
+	"1196102"
+	{
+		"dlcappid" "1196100"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "252638573530759748"
+				"size" "88120692"
+				"download" "87127632"
+			}
+		}
+	}
+	"1196103"
+	{
+		"dlcappid" "1196100"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8513732796251257640"
+				"size" "88120692"
+				"download" "87127632"
+			}
+		}
+	}
+	"815380"
+	{
+		"dlcappid" "815380"
+	}
+	"815381"
+	{
+		"dlcappid" "815380"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8853720379753105222"
+				"size" "201798429"
+				"download" "201700976"
+			}
+		}
+	}
+	"815382"
+	{
+		"dlcappid" "815380"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5377846149254053641"
+				"size" "201798429"
+				"download" "201700976"
+			}
+		}
+	}
+	"815383"
+	{
+		"dlcappid" "815380"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8287929360916114055"
+				"size" "201798429"
+				"download" "201700976"
+			}
+		}
+	}
+	"715193"
+	{
+		"dlcappid" "715193"
+	}
+	"255726"
+	{
+		"dlcappid" "715193"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7459269725805026117"
+				"size" "223923386"
+				"download" "224129664"
+			}
+		}
+	}
+	"255727"
+	{
+		"dlcappid" "715193"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1570965744844427562"
+				"size" "223923386"
+				"download" "224129664"
+			}
+		}
+	}
+	"255728"
+	{
+		"dlcappid" "715193"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2844814335444210186"
+				"size" "223923386"
+				"download" "224129664"
+			}
+		}
+	}
+	"614582"
+	{
+		"dlcappid" "614582"
+	}
+	"255717"
+	{
+		"dlcappid" "614582"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "457366953280935037"
+				"size" "221183059"
+				"download" "221626832"
+			}
+		}
+	}
+	"255718"
+	{
+		"dlcappid" "614582"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1681679388249594316"
+				"size" "221183059"
+				"download" "221626832"
+			}
+		}
+	}
+	"255719"
+	{
+		"dlcappid" "614582"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1293376866617077330"
+				"size" "221183059"
+				"download" "221626832"
+			}
+		}
+	}
+	"547501"
+	{
+		"dlcappid" "547501"
+	}
+	"255714"
+	{
+		"dlcappid" "547501"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1134142675767592641"
+				"size" "249941202"
+				"download" "250218064"
+			}
+		}
+	}
+	"255715"
+	{
+		"dlcappid" "547501"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5730005230499338630"
+				"size" "249941202"
+				"download" "250218064"
+			}
+		}
+	}
+	"255716"
+	{
+		"dlcappid" "547501"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3369737925930638570"
+				"size" "249941202"
+				"download" "250218064"
+			}
+		}
+	}
+	"1531472"
+	{
+		"dlcappid" "1531472"
+	}
+	"1531474"
+	{
+		"dlcappid" "1531472"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5572428835740911639"
+				"size" "73587269"
+				"download" "73031728"
+			}
+		}
+	}
+	"1531475"
+	{
+		"dlcappid" "1531472"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8768455533806446348"
+				"size" "73587269"
+				"download" "73031728"
+			}
+		}
+	}
+	"1531476"
+	{
+		"dlcappid" "1531472"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8463337664244095814"
+				"size" "73587269"
+				"download" "73031728"
+			}
+		}
+	}
+	"1531473"
+	{
+		"dlcappid" "1531473"
+	}
+	"1531477"
+	{
+		"dlcappid" "1531473"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7467492160282037449"
+				"size" "71403780"
+				"download" "70824816"
+			}
+		}
+	}
+	"1531478"
+	{
+		"dlcappid" "1531473"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2785578080942865062"
+				"size" "71403780"
+				"download" "70824816"
+			}
+		}
+	}
+	"1531479"
+	{
+		"dlcappid" "1531473"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8201500015210171955"
+				"size" "71403780"
+				"download" "70824816"
+			}
+		}
+	}
+	"1726383"
+	{
+		"dlcappid" "1726383"
+	}
+	"340161"
+	{
+		"dlcappid" "1726383"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5520484552045864175"
+				"size" "77547215"
+				"download" "76936736"
+			}
+		}
+	}
+	"340162"
+	{
+		"dlcappid" "1726383"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3206627690239484311"
+				"size" "77547215"
+				"download" "76936736"
+			}
+		}
+	}
+	"340163"
+	{
+		"dlcappid" "1726383"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4848260941466591819"
+				"size" "77547215"
+				"download" "76936736"
+			}
+		}
+	}
+	"1726384"
+	{
+		"dlcappid" "1726384"
+	}
+	"340164"
+	{
+		"dlcappid" "1726384"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6466629528687169258"
+				"size" "68230885"
+				"download" "67831280"
+			}
+		}
+	}
+	"340165"
+	{
+		"dlcappid" "1726384"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2872744250934900778"
+				"size" "68230885"
+				"download" "67831280"
+			}
+		}
+	}
+	"340166"
+	{
+		"dlcappid" "1726384"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4673355229412027265"
+				"size" "68230885"
+				"download" "67831280"
+			}
+		}
+	}
+	"1992292"
+	{
+		"dlcappid" "1992292"
+	}
+	"2008401"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "1992292"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1998533869551272137"
+				"size" "71499256"
+				"download" "71134176"
+			}
+		}
+	}
+	"2008402"
+	{
+		"dlcappid" "1992292"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1567045058205849095"
+				"size" "71499256"
+				"download" "71134176"
+			}
+		}
+	}
+	"2008403"
+	{
+		"dlcappid" "1992292"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9154534354189384600"
+				"size" "71499256"
+				"download" "71134176"
+			}
+		}
+	}
+	"1992293"
+	{
+		"dlcappid" "1992293"
+	}
+	"2008404"
+	{
+		"dlcappid" "1992293"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "86736102625976399"
+				"size" "79413682"
+				"download" "78792848"
+			}
+		}
+	}
+	"2008405"
+	{
+		"dlcappid" "1992293"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2932537948125357453"
+				"size" "79413682"
+				"download" "78792848"
+			}
+		}
+	}
+	"2008406"
+	{
+		"dlcappid" "1992293"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3361079888336932391"
+				"size" "79413682"
+				"download" "78792848"
+			}
+		}
+	}
+	"2144483"
+	{
+		"dlcappid" "2144483"
+	}
+	"2144485"
+	{
+		"dlcappid" "2144483"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8513252047756060296"
+				"size" "83401121"
+				"download" "82905376"
+			}
+		}
+	}
+	"2144486"
+	{
+		"dlcappid" "2144483"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2469817934690770627"
+				"size" "83401121"
+				"download" "82905376"
+			}
+		}
+	}
+	"2144487"
+	{
+		"dlcappid" "2144483"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4680798037346379050"
+				"size" "83401121"
+				"download" "82905376"
+			}
+		}
+	}
+	"2144482"
+	{
+		"dlcappid" "2144482"
+	}
+	"2148907"
+	{
+		"dlcappid" "2144482"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8120470507175934519"
+				"size" "65739628"
+				"download" "65287184"
+			}
+		}
+	}
+	"2148908"
+	{
+		"dlcappid" "2144482"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7783001386352587933"
+				"size" "65739628"
+				"download" "65287184"
+			}
+		}
+	}
+	"2148909"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"dlcappid" "2144482"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6630697275597168439"
+				"size" "65739628"
+				"download" "65287184"
+			}
+		}
+	}
+	"2148904"
+	{
+		"dlcappid" "2148904"
+	}
+	"2202577"
+	{
+		"dlcappid" "2148904"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4144655263445449597"
+				"size" "82328895"
+				"download" "81872736"
+			}
+		}
+	}
+	"2202578"
+	{
+		"dlcappid" "2148904"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6208940419707708490"
+				"size" "82328895"
+				"download" "81872736"
+			}
+		}
+	}
+	"2202579"
+	{
+		"dlcappid" "2148904"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3641560502914519644"
+				"size" "82328895"
+				"download" "81872736"
+			}
+		}
+	}
+	"2148902"
+	{
+		"dlcappid" "2148902"
+	}
+	"2246687"
+	{
+		"dlcappid" "2148902"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1373411172301195856"
+				"size" "75598963"
+				"download" "75024176"
+			}
+		}
+	}
+	"2246688"
+	{
+		"dlcappid" "2148902"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6645197653114281669"
+				"size" "75598963"
+				"download" "75024176"
+			}
+		}
+	}
+	"2246689"
+	{
+		"dlcappid" "2148902"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2444029409538258608"
+				"size" "75598963"
+				"download" "75024176"
+			}
+		}
+	}
+	"2225940"
+	{
+		"dlcappid" "2225940"
+	}
+	"2246684"
+	{
+		"dlcappid" "2225940"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1732877566211567483"
+				"size" "77083033"
+				"download" "76721968"
+			}
+		}
+	}
+	"2246685"
+	{
+		"dlcappid" "2225940"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3407214347726100319"
+				"size" "77083033"
+				"download" "76721968"
+			}
+		}
+	}
+	"2246686"
+	{
+		"dlcappid" "2225940"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7837292275432688062"
+				"size" "77083033"
+				"download" "76721968"
+			}
+		}
+	}
+	"2225941"
+	{
+		"dlcappid" "2225941"
+	}
+	"2225947"
+	{
+		"dlcappid" "2225941"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3619214019239292892"
+				"size" "67399769"
+				"download" "67203440"
+			}
+		}
+	}
+	"2225948"
+	{
+		"dlcappid" "2225941"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3416241063231335401"
+				"size" "67399769"
+				"download" "67203440"
+			}
+		}
+	}
+	"2225949"
+	{
+		"dlcappid" "2225941"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "638136854516622778"
+				"size" "67399769"
+				"download" "67203440"
+			}
+		}
+	}
+	"2313324"
+	{
+		"dlcappid" "2313324"
+	}
+	"340167"
+	{
+		"dlcappid" "2313324"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "975431156377932985"
+				"size" "72785968"
+				"download" "71917152"
+			}
+		}
+	}
+	"340168"
+	{
+		"dlcappid" "2313324"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2157956232779948619"
+				"size" "72785968"
+				"download" "71917152"
+			}
+		}
+	}
+	"340169"
+	{
+		"dlcappid" "2313324"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5561310247596373893"
+				"size" "72785968"
+				"download" "71917152"
+			}
+		}
+	}
+	"2313323"
+	{
+		"dlcappid" "2313323"
+	}
+	"346793"
+	{
+		"dlcappid" "2313323"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3684945901358027266"
+				"size" "72800546"
+				"download" "72107808"
+			}
+		}
+	}
+	"346794"
+	{
+		"dlcappid" "2313323"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6565051707236200585"
+				"size" "72800546"
+				"download" "72107808"
+			}
+		}
+	}
+	"346795"
+	{
+		"dlcappid" "2313323"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5026599379075052060"
+				"size" "72800546"
+				"download" "72107808"
+			}
+		}
+	}
+	"2955890"
+	{
+		"dlcappid" "2955890"
+	}
+	"761947"
+	{
+		"dlcappid" "2955890"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1664303724625109494"
+				"size" "194968578"
+				"download" "195958880"
+			}
+		}
+	}
+	"761948"
+	{
+		"dlcappid" "2955890"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6018410841992666675"
+				"size" "194968578"
+				"download" "195958880"
+			}
+		}
+	}
+	"761949"
+	{
+		"dlcappid" "2955890"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9127907975010876990"
+				"size" "194968578"
+				"download" "195958880"
+			}
+		}
+	}
+	"2955920"
+	{
+		"dlcappid" "2955920"
+	}
+	"346796"
+	{
+		"dlcappid" "2955920"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+		}
+	}
+	"346797"
+	{
+		"dlcappid" "2955920"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+		}
+	}
+	"346798"
+	{
+		"dlcappid" "2955920"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15573808"
+			"timeupdated" "1729756963"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27656407"
+"_sha" "fa1f95bafdbcbe66368fe783bbbbc7ebe6b131b8"
+"_size" "28913"
