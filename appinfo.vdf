@@ -1,0 +1,132 @@
+"appid" "638380"
+"common"
+{
+	"name" "Serious Sam 4 Editor"
+	"type" "Tool"
+	"parent" "257420"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "3f6448b9177841462a9b44082e961f33d4742060"
+	"logo_small" "3f6448b9177841462a9b44082e961f33d4742060_thumb"
+	"icon" "3f9e66277464a7145cbfe504acbad29477956d69"
+	"clienticon" "14428e3e3f1c822aa7bcdb6c1903bea97752a41b"
+	"clienttga" "b7f059e98b7960780636f3a94525281c8f27709e"
+	"associations"
+	{
+	}
+	"gameid" "638380"
+}
+"extended"
+{
+	"disableoverlay" "1"
+}
+"config"
+{
+	"installdir" "Serious Sam 4"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Bin\\x64\\Sam4_SeriousEditor.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"638381"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2284483548383045477"
+				"size" "79083056"
+				"download" "24491472"
+			}
+		}
+	}
+	"638382"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "127015720693302529"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"638384"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3518607521274357690"
+				"size" "8872534075"
+				"download" "8418274288"
+			}
+		}
+	}
+	"638385"
+	{
+	}
+	"257426"
+	{
+		"depotfromapp" "257420"
+		"sharedinstall" "2"
+	}
+	"257427"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"depotfromapp" "257420"
+		"sharedinstall" "2"
+	}
+	"257432"
+	{
+		"depotfromapp" "257420"
+		"sharedinstall" "2"
+	}
+	"638383"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5536710855918859200"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8705720"
+			"timeupdated" "1653052265"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "d1260d66ab681fa6071b8c92bc7aab9eff61b59a"
+"_size" "1892"
