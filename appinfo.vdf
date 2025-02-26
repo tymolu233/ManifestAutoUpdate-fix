@@ -1,0 +1,918 @@
+"appid" "289130"
+"common"
+{
+	"name" "ENDLESS™ Legend"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "9ddc876eb0a7b54fad82adaab5a7a8e3869b9c29"
+	"logo_small" "9ddc876eb0a7b54fad82adaab5a7a8e3869b9c29_thumb"
+	"clienticon" "250cef43925a424d3e9e458b7d93c95e4d4c3afc"
+	"clienttga" "1b707689c40c4dd080598f2689ca5e9e01a857fd"
+	"icon" "02277be6b9b09671b857948006316057974d7036"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "289130_eula_0"
+			"name" "Endless Legend EULA"
+			"url" "http://store.steampowered.com/eula/289130_eula_0"
+		}
+	}
+	"oslist" "windows,macos"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"polish" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "无尽帝国"
+		"tchinese" "無盡帝國"
+	}
+	"osarch" ""
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "7021068"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "cmdlineappend:-useembedded,"
+		}
+	}
+	"metacritic_name" "Endless Legend"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "22.054731774417363"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "22.054731774417363"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1705416826"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "AMPLITUDE Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "SEGA"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "AmplitudeStudios"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "3"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_18" "1"
+		"category_36" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1411055820"
+	"metacritic_score" "82"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/endless-legend\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "289130"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1670"
+		"2" "1677"
+		"3" "1741"
+		"4" "1684"
+		"5" "1717"
+		"6" "3859"
+		"7" "122"
+		"8" "4182"
+		"9" "1756"
+		"10" "3942"
+		"11" "492"
+		"12" "1708"
+		"13" "4364"
+		"14" "21"
+		"15" "4172"
+		"16" "4166"
+		"17" "3834"
+		"18" "1695"
+		"19" "3810"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"onquitdemomsg" "https://steamstore-a.akamaihd.net/message/5417902792155066888/"
+	"developer" "AMPLITUDE Studios"
+	"publisher" "SEGA"
+	"homepage" "http://www.amplitude-studios.com/endless-legend"
+	"gamemanualurl" "https://store.steampowered.com/manual/289130/"
+	"listofdlc" "297650,297651,297652,297800,357360,374500,415700,415710,415720,451050,521220,600560,718570,854750,988450,1523740"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Endless Legend"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "EndlessLegend.exe"
+			"arguments" "-single-instance"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+		"1"
+		{
+			"executable" "EndlessLegend.app"
+			"arguments" "-single-instance -useembedded"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "EndlessLegend.cmd"
+			"arguments" "-single-instance"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "EndlessLegend.exe"
+			"arguments" "-single-instance"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"4"
+		{
+			"executable" "EndlessLegend.exe"
+			"arguments" "-single-instance"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "rollback"
+			}
+			"description_loc"
+			{
+				"english" "Rollback branch users"
+			}
+			"description" "Rollback branch users"
+		}
+		"5"
+		{
+			"executable" "EndlessLegend.exe"
+			"arguments" "-single-instance"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "SteamDeck compatibility"
+			}
+			"description" "SteamDeck compatibility"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1977179784"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollerconfigdetails"
+	{
+		"780645693"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,spanish,schinese,tchinese,russian,polish"
+	"workshopdepot" "289130"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"289131"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6759952763814930164"
+				"size" "826776408"
+				"download" "774163056"
+			}
+			"32-bit"
+			{
+				"gid" "6759952763814930164"
+				"size" "826776408"
+				"download" "774163056"
+			}
+			"rollback"
+			{
+				"gid" "4509499269643625295"
+				"size" "826763892"
+				"download" "774163424"
+			}
+		}
+	}
+	"289132"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6354550935373175009"
+				"size" "5151955005"
+				"download" "3170387472"
+			}
+			"32-bit"
+			{
+				"gid" "1179880966377978352"
+				"size" "5147031832"
+				"download" "3168806960"
+			}
+			"rollback"
+			{
+				"gid" "4995904918643146317"
+				"size" "5151951476"
+				"download" "3170380096"
+			}
+		}
+	}
+	"289133"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3315325429947465372"
+				"size" "5147031832"
+				"download" "3168806960"
+			}
+			"32-bit"
+			{
+				"gid" "3315325429947465372"
+				"size" "5147031832"
+				"download" "3168806960"
+			}
+			"rollback"
+			{
+				"gid" "5412968561837001611"
+				"size" "5147028364"
+				"download" "3168798832"
+			}
+		}
+	}
+	"289134"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3511958925568487731"
+				"size" "6385414844"
+				"download" "4319298336"
+			}
+			"32-bit"
+			{
+				"gid" "3511958925568487731"
+				"size" "6385414844"
+				"download" "4319298336"
+			}
+			"rollback"
+			{
+				"gid" "3511958925568487731"
+				"size" "6385414844"
+				"download" "4319298336"
+			}
+		}
+	}
+	"289135"
+	{
+		"dlcappid" "374500"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2188446991262909441"
+				"size" "13889408"
+				"download" "13403184"
+			}
+			"32-bit"
+			{
+				"gid" "2188446991262909441"
+				"size" "13889408"
+				"download" "13403184"
+			}
+			"rollback"
+			{
+				"gid" "2188446991262909441"
+				"size" "13889408"
+				"download" "13403184"
+			}
+		}
+	}
+	"289136"
+	{
+		"dlcappid" "415700"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1755125378218841850"
+				"size" "80129044"
+				"download" "77591920"
+			}
+			"32-bit"
+			{
+				"gid" "1755125378218841850"
+				"size" "80129044"
+				"download" "77591920"
+			}
+			"rollback"
+			{
+				"gid" "1755125378218841850"
+				"size" "80129044"
+				"download" "77591920"
+			}
+		}
+	}
+	"289137"
+	{
+		"dlcappid" "451050"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5873689241955678928"
+				"size" "12341342"
+				"download" "11875952"
+			}
+			"32-bit"
+			{
+				"gid" "5873689241955678928"
+				"size" "12341342"
+				"download" "11875952"
+			}
+			"rollback"
+			{
+				"gid" "5873689241955678928"
+				"size" "12341342"
+				"download" "11875952"
+			}
+		}
+	}
+	"289138"
+	{
+		"dlcappid" "521220"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9175355536573387321"
+				"size" "35750014"
+				"download" "28762960"
+			}
+			"32-bit"
+			{
+				"gid" "9175355536573387321"
+				"size" "35750014"
+				"download" "28762960"
+			}
+			"rollback"
+			{
+				"gid" "9175355536573387321"
+				"size" "35750014"
+				"download" "28762960"
+			}
+		}
+	}
+	"289139"
+	{
+		"dlcappid" "718570"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1311955743301705221"
+				"size" "124878688"
+				"download" "118044800"
+			}
+			"32-bit"
+			{
+				"gid" "1311955743301705221"
+				"size" "124878688"
+				"download" "118044800"
+			}
+			"rollback"
+			{
+				"gid" "1311955743301705221"
+				"size" "124878688"
+				"download" "118044800"
+			}
+		}
+	}
+	"289140"
+	{
+		"dlcappid" "854750"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4574713177181477272"
+				"size" "14463104"
+				"download" "12385616"
+			}
+			"32-bit"
+			{
+				"gid" "4574713177181477272"
+				"size" "14463104"
+				"download" "12385616"
+			}
+			"rollback"
+			{
+				"gid" "4574713177181477272"
+				"size" "14463104"
+				"download" "12385616"
+			}
+		}
+	}
+	"289141"
+	{
+		"dlcappid" "988450"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8228161066901763195"
+				"size" "12660928"
+				"download" "9169232"
+			}
+			"32-bit"
+			{
+				"gid" "8228161066901763195"
+				"size" "12660928"
+				"download" "9169232"
+			}
+			"rollback"
+			{
+				"gid" "8228161066901763195"
+				"size" "12660928"
+				"download" "9169232"
+			}
+		}
+	}
+	"289142"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1968158330165673207"
+				"size" "2838575398"
+				"download" "2588519584"
+			}
+			"rollback"
+			{
+				"gid" "1968158330165673207"
+				"size" "2838575398"
+				"download" "2588519584"
+			}
+		}
+	}
+	"289143"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8949746954913841986"
+				"size" "2838575398"
+				"download" "2588519584"
+			}
+			"rollback"
+			{
+				"gid" "8949746954913841986"
+				"size" "2838575398"
+				"download" "2588519584"
+			}
+		}
+	}
+	"289144"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1139769393094304103"
+				"size" "2838575398"
+				"download" "2588519584"
+			}
+			"rollback"
+			{
+				"gid" "1139769393094304103"
+				"size" "2838575398"
+				"download" "2588519584"
+			}
+		}
+	}
+	"289145"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6455013385668985573"
+				"size" "2838575398"
+				"download" "2588519584"
+			}
+			"rollback"
+			{
+				"gid" "6455013385668985573"
+				"size" "2838575398"
+				"download" "2588519584"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12542457"
+			"timeupdated" "1699959543"
+		}
+		"32-bit"
+		{
+			"buildid" "7021069"
+			"description" "32-bit content for 64-bit users"
+			"timeupdated" "1626167956"
+		}
+		"rollback"
+		{
+			"buildid" "6676612"
+			"description" "Rollback (1.8.45)"
+			"timeupdated" "1626167918"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "400"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Endless Legend/Save Files/Cloud"
+			"pattern" "*.zip"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "Endless Legend/Save Files/Cloud"
+			"pattern" "*.zip"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+		"2"
+		{
+			"root" "WinMyDocuments"
+			"path" "Endless Legend/Save Files/Cloud"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"3"
+		{
+			"root" "MacAppSupport"
+			"path" "Endless Legend/Save Files/Cloud"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27355814"
+"_sha" "3b0afcac14591a69e323a0718ec4ffdd5f0c0659"
+"_size" "15662"
