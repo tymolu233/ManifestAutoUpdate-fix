@@ -1,0 +1,106 @@
+"appid" "404350"
+"common"
+{
+	"name" "Sid Meier\'s Civilization VI Development Tools"
+	"type" "Tool"
+	"parent" "289070"
+	"oslist" "windows"
+	"osarch" "64"
+	"icon" "9dc914132fec244adcede62fb8e7524a72a7398c"
+	"logo" "67f4a844cf73781abf287c6be7deabdd697d52bc"
+	"logo_small" "67f4a844cf73781abf287c6be7deabdd697d52bc_thumb"
+	"clienticon" "c142bb71440effac911eb3c18e4ba775c9c8e7ef"
+	"clienttga" "cb765ca7f9f9c58d986a4e670fb106418f9d783b"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "404350"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Sid Meier\'s Civilization VI SDK"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Launcher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"404351"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6465329330895815283"
+				"size" "858547232"
+				"download" "349442432"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4892607"
+			"timeupdated" "1590036314"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "d5e3da2a6afb130d9caa04577bd67c2a1845f5b4"
+"_size" "1623"
