@@ -1,0 +1,3477 @@
+"appid" "231430"
+"common"
+{
+	"name" "Company of Heroes 2"
+	"releasestate" "released"
+	"clienticon" "968fccff026d43345945dad955fdec994cb584bc"
+	"clienttga" "76379c79e9437d3993a5aff309a674df3a2f519b"
+	"icon" "5e7e1866fb4f33a17393b0441cd1c750dbd91c5f"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"polish" "1"
+		"czech" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "231430_eula_0"
+			"name" "Company of Heroes 2 EULA"
+			"url" "http://store.steampowered.com/eula/231430_eula_0"
+		}
+	}
+	"logo" "1be017e709b9b0638e82b399cc97de4667f44a1e"
+	"logo_small" "1be017e709b9b0638e82b399cc97de4667f44a1e_thumb"
+	"clienticns" "d5b9de2ad26558cabf94b943b8467ad69c3ab8f6"
+	"linuxclienticon" "45aa79ff393ba39f1f509848ed15660396dd2ad3"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosnotarized"
+	"type" "game"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1667606400"
+		"tested_build_id" "8972565"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"metacritic_name" "Company of Heroes 2"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "50.51162790697674"
+			"height_pct" "53.75517164041265"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "50.51162790697674"
+				"height_pct" "53.75517164041265"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1661158769"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Relic Entertainment"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Feral Interactive (Mac)"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Feral Interactive (Linux)"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "SEGA"
+		}
+		"4"
+		{
+			"type" "publisher"
+			"name" "Feral Interactive (Mac)"
+		}
+		"5"
+		{
+			"type" "publisher"
+			"name" "Feral Interactive (Linux)"
+		}
+		"6"
+		{
+			"type" "franchise"
+			"name" "Company of Heroes"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_15" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_9" "1"
+		"category_30" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1372179600"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/company-of-heroes-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "231430"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "4150"
+		"2" "1676"
+		"3" "3859"
+		"4" "1708"
+		"5" "1678"
+		"6" "3987"
+		"7" "4168"
+		"8" "4182"
+		"9" "1685"
+		"10" "3843"
+		"11" "7332"
+		"12" "13276"
+		"13" "4161"
+		"14" "19"
+		"15" "7107"
+		"16" "4166"
+		"17" "599"
+		"18" "1756"
+		"19" "21"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"checkpkgstate" "1"
+	"developer" "Relic Entertainment"
+	"gamedir" "ValveTestApp231430"
+	"homepage" "http://www.companyofheroes.com/"
+	"icon" ""
+	"launcheula" "http://store.steampowered.com/eula/231430_eula_0"
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateComingSoonNoPreload"
+	"visibleonlywhensubscribed" "1"
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "RU,BY"
+	"publisher" "SEGA"
+	"gamemanualurl" "https://store.steampowered.com/manual/231430/"
+	"listofdlc" "231451,231453,231454,231455,231456,231457,231458,231459,231460,231461,231462,231463,231464,231465,231466,231467,231468,231469,231470,231471,231472,231473,231474,231475,231476,231477,231478,231479,231480,231481,231482,231483,231484,231485,231486,231487,231488,231489,231490,231491,231492,231494,231504,231505,231506,231507,231512,249081,249082,249083,249085,249086,249087,249088,249090,249092,249094,249100,249101,249102,249103,249104,249105,249106"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Company of Heroes 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RelicCoH2.exe"
+			"description" "Standard"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Company Of Heroes 2.app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "CompanyOfHeroes2.sh"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"cegpublickey" "30819D300D06092A864886F70D010101050003818B0030818702818100D7F9EA4871FFA471DCCA8915F038DF378E1A47CCF9224E4CB66A9088FD8155475B28D0D8CEF5759424180F7697B8463AF0010423ED02CC481D3A4D4A1ADB782B43CD9DAB73FAE57BB44BCF7382244A29EC2F4C31482B9972F8485B57A4067A3EDF8DE38927B694E05B773B0F55F304ED2C47D2E2900B522B6AEF6799D98D8375020111"
+	"checkguid" "RelicCoH2.exe"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"231447"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6697523075240533043"
+				"size" "3892235522"
+				"download" "3794223168"
+			}
+			"beta"
+			{
+				"gid" "6252948947428170245"
+				"size" "3892235518"
+				"download" "3794223248"
+			}
+			"communitytest3"
+			{
+				"gid" "6697523075240533043"
+				"size" "3892235522"
+				"download" "3794223168"
+			}
+			"legacy_32bit"
+			{
+				"gid" "8501848367509767404"
+				"size" "3856904793"
+				"download" "3765501472"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "3389123846674493089"
+				"size" "3590002225"
+				"download" "3502698048"
+			}
+		}
+	}
+	"231431"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8741640619455108217"
+				"size" "26577851594"
+				"download" "20934077216"
+			}
+			"beta"
+			{
+				"gid" "153463147888323796"
+				"size" "26573411634"
+				"download" "20928900144"
+			}
+			"communitytest3"
+			{
+				"gid" "804009308894958970"
+				"size" "26579688689"
+				"download" "20935471120"
+			}
+			"legacy_32bit"
+			{
+				"gid" "9060126388942135353"
+				"size" "26397836838"
+				"download" "20808364928"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "2628145081178075195"
+				"size" "26130024746"
+				"download" "20557705984"
+			}
+		}
+	}
+	"231432"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5019658887857002473"
+				"size" "1463199231"
+				"download" "1205374496"
+			}
+			"beta"
+			{
+				"gid" "8366230063416804394"
+				"size" "1463079267"
+				"download" "1205334448"
+			}
+			"communitytest3"
+			{
+				"gid" "1740799449608618381"
+				"size" "1463199231"
+				"download" "1205374672"
+			}
+			"legacy_32bit"
+			{
+				"gid" "9126580947448242044"
+				"size" "1463070565"
+				"download" "1205333792"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "77086167175431106"
+				"size" "1462920279"
+				"download" "1205316000"
+			}
+		}
+	}
+	"231433"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3179671774019521227"
+				"size" "1453598877"
+				"download" "1203595712"
+			}
+			"beta"
+			{
+				"gid" "4963362839752199108"
+				"size" "1453494741"
+				"download" "1203583856"
+			}
+			"communitytest3"
+			{
+				"gid" "3179671774019521227"
+				"size" "1453598877"
+				"download" "1203595712"
+			}
+			"legacy_32bit"
+			{
+				"gid" "122884715885064395"
+				"size" "1453485751"
+				"download" "1203583680"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "5023843007763096918"
+				"size" "1453303825"
+				"download" "1203565488"
+			}
+		}
+	}
+	"231434"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7231953433516233045"
+				"size" "6440952"
+				"download" "608800"
+			}
+			"beta"
+			{
+				"gid" "639840372772296050"
+				"size" "6340238"
+				"download" "596624"
+			}
+			"communitytest3"
+			{
+				"gid" "7231953433516233045"
+				"size" "6440952"
+				"download" "608800"
+			}
+			"legacy_32bit"
+			{
+				"gid" "1585000336583058153"
+				"size" "6331516"
+				"download" "595184"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "4180948286793224108"
+				"size" "6155476"
+				"download" "578592"
+			}
+		}
+	}
+	"231435"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5650000307948778017"
+				"size" "1523880970"
+				"download" "1276493024"
+			}
+			"beta"
+			{
+				"gid" "5658396055210375272"
+				"size" "1523781840"
+				"download" "1276480448"
+			}
+			"communitytest3"
+			{
+				"gid" "5650000307948778017"
+				"size" "1523880970"
+				"download" "1276493024"
+			}
+			"legacy_32bit"
+			{
+				"gid" "4610109511110118457"
+				"size" "1523773394"
+				"download" "1276478816"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "5363666364605679172"
+				"size" "1523605480"
+				"download" "1276463232"
+			}
+		}
+	}
+	"231436"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4252596086575879306"
+				"size" "1656337323"
+				"download" "1401828624"
+			}
+			"beta"
+			{
+				"gid" "5475143503979625247"
+				"size" "1656234055"
+				"download" "1401813440"
+			}
+			"communitytest3"
+			{
+				"gid" "4252596086575879306"
+				"size" "1656337323"
+				"download" "1401828624"
+			}
+			"legacy_32bit"
+			{
+				"gid" "6281838953870487046"
+				"size" "1656225185"
+				"download" "1401815472"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "8002208989639191711"
+				"size" "1656046597"
+				"download" "1401798000"
+			}
+		}
+	}
+	"231437"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2521660887150067732"
+				"size" "1462448307"
+				"download" "1218970032"
+			}
+			"beta"
+			{
+				"gid" "79528704520398754"
+				"size" "1462353579"
+				"download" "1218959312"
+			}
+			"communitytest3"
+			{
+				"gid" "2521660887150067732"
+				"size" "1462448307"
+				"download" "1218970032"
+			}
+			"legacy_32bit"
+			{
+				"gid" "5360297333921196812"
+				"size" "1462344861"
+				"download" "1218958384"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "6587585951137596634"
+				"size" "1462178101"
+				"download" "1218941888"
+			}
+		}
+	}
+	"231438"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2466820434614789632"
+				"size" "1380691839"
+				"download" "1138685184"
+			}
+			"beta"
+			{
+				"gid" "2788164145381722838"
+				"size" "1380600179"
+				"download" "1138674272"
+			}
+			"communitytest3"
+			{
+				"gid" "2466820434614789632"
+				"size" "1380691839"
+				"download" "1138685184"
+			}
+			"legacy_32bit"
+			{
+				"gid" "6046068732156070809"
+				"size" "1380591827"
+				"download" "1138673968"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "1452905478980401344"
+				"size" "1380433327"
+				"download" "1138658752"
+			}
+		}
+	}
+	"231439"
+	{
+		"config"
+		{
+			"language" "czech"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6292255100494849796"
+				"size" "5928836"
+				"download" "655696"
+			}
+			"beta"
+			{
+				"gid" "2134652513690017480"
+				"size" "5838612"
+				"download" "644720"
+			}
+			"communitytest3"
+			{
+				"gid" "6292255100494849796"
+				"size" "5928836"
+				"download" "655696"
+			}
+			"legacy_32bit"
+			{
+				"gid" "2858838379945825806"
+				"size" "5831688"
+				"download" "643744"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "6127266862884306939"
+				"size" "5678422"
+				"download" "627136"
+			}
+		}
+	}
+	"231440"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2312806561886337710"
+				"size" "8223658703"
+				"download" "8119995600"
+			}
+			"beta"
+			{
+				"gid" "2790554989070489224"
+				"size" "8223658699"
+				"download" "8119995728"
+			}
+			"communitytest3"
+			{
+				"gid" "2312806561886337710"
+				"size" "8223658703"
+				"download" "8119995600"
+			}
+			"legacy_32bit"
+			{
+				"gid" "8923911567846693143"
+				"size" "8188327974"
+				"download" "8091274000"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "3732888223364026173"
+				"size" "7921425394"
+				"download" "7829454432"
+			}
+		}
+	}
+	"231441"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7691072594576207274"
+				"size" "156636969"
+				"download" "154375488"
+			}
+			"beta"
+			{
+				"gid" "8832918069164534855"
+				"size" "156636969"
+				"download" "154375376"
+			}
+			"communitytest3"
+			{
+				"gid" "7691072594576207274"
+				"size" "156636969"
+				"download" "154375488"
+			}
+			"legacy_32bit"
+			{
+				"gid" "7691072594576207274"
+				"size" "156636969"
+				"download" "154375488"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "7691072594576207274"
+				"size" "156636969"
+				"download" "154375488"
+			}
+		}
+	}
+	"231442"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1536201260471962147"
+				"size" "144848990"
+				"download" "142160912"
+			}
+			"beta"
+			{
+				"gid" "9060237745704889908"
+				"size" "144848990"
+				"download" "142160944"
+			}
+			"communitytest3"
+			{
+				"gid" "1536201260471962147"
+				"size" "144848990"
+				"download" "142160912"
+			}
+			"legacy_32bit"
+			{
+				"gid" "1536201260471962147"
+				"size" "144848990"
+				"download" "142160912"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "1536201260471962147"
+				"size" "144848990"
+				"download" "142160912"
+			}
+		}
+	}
+	"231443"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4217823074376348015"
+				"size" "144506934"
+				"download" "142237504"
+			}
+			"beta"
+			{
+				"gid" "3724557462073047559"
+				"size" "144506934"
+				"download" "142237504"
+			}
+			"communitytest3"
+			{
+				"gid" "4217823074376348015"
+				"size" "144506934"
+				"download" "142237504"
+			}
+			"legacy_32bit"
+			{
+				"gid" "4217823074376348015"
+				"size" "144506934"
+				"download" "142237504"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "4217823074376348015"
+				"size" "144506934"
+				"download" "142237504"
+			}
+		}
+	}
+	"231444"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1058166320799047860"
+				"size" "158613130"
+				"download" "155854816"
+			}
+			"beta"
+			{
+				"gid" "7435456697688520681"
+				"size" "158613130"
+				"download" "155854816"
+			}
+			"communitytest3"
+			{
+				"gid" "1058166320799047860"
+				"size" "158613130"
+				"download" "155854816"
+			}
+			"legacy_32bit"
+			{
+				"gid" "1058166320799047860"
+				"size" "158613130"
+				"download" "155854816"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "1058166320799047860"
+				"size" "158613130"
+				"download" "155854816"
+			}
+		}
+	}
+	"231445"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6232259886571915561"
+				"size" "143959498"
+				"download" "141695136"
+			}
+			"beta"
+			{
+				"gid" "7327008698089961735"
+				"size" "143959498"
+				"download" "141695120"
+			}
+			"communitytest3"
+			{
+				"gid" "6232259886571915561"
+				"size" "143959498"
+				"download" "141695136"
+			}
+			"legacy_32bit"
+			{
+				"gid" "6232259886571915561"
+				"size" "143959498"
+				"download" "141695136"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "6232259886571915561"
+				"size" "143959498"
+				"download" "141695136"
+			}
+		}
+	}
+	"231446"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2044883682820209223"
+				"size" "142265167"
+				"download" "139286800"
+			}
+			"beta"
+			{
+				"gid" "8696446074360359451"
+				"size" "142265167"
+				"download" "139286784"
+			}
+			"communitytest3"
+			{
+				"gid" "2044883682820209223"
+				"size" "142265167"
+				"download" "139286800"
+			}
+			"legacy_32bit"
+			{
+				"gid" "2044883682820209223"
+				"size" "142265167"
+				"download" "139286800"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "2044883682820209223"
+				"size" "142265167"
+				"download" "139286800"
+			}
+		}
+	}
+	"231448"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5466691802857192112"
+				"size" "27295304080"
+				"download" "21654270288"
+			}
+			"beta"
+			{
+				"gid" "8150556485116642566"
+				"size" "18020659963"
+				"download" "14973964864"
+			}
+			"communitytest3"
+			{
+				"gid" "5114150545194689249"
+				"size" "27177210620"
+				"download" "21591818144"
+			}
+			"legacy_32bit"
+			{
+				"gid" "5114150545194689249"
+				"size" "27177210620"
+				"download" "21591818144"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "2403197061280514557"
+				"size" "26348031230"
+				"download" "20792170656"
+			}
+		}
+	}
+	"231449"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2954655457837923500"
+				"size" "100955499"
+				"download" "36190464"
+			}
+			"beta"
+			{
+				"gid" "1433197618334032749"
+				"size" "457011966"
+				"download" "367349136"
+			}
+			"communitytest3"
+			{
+				"gid" "3578367010738955012"
+				"size" "100657993"
+				"download" "36127056"
+			}
+			"legacy_32bit"
+			{
+				"gid" "3578367010738955012"
+				"size" "100657993"
+				"download" "36127056"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "2073090299384397882"
+				"size" "450691853"
+				"download" "363149280"
+			}
+		}
+	}
+	"249095"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1482811871700069296"
+				"size" "1463198697"
+				"download" "1181059920"
+			}
+			"beta"
+			{
+				"gid" "7861382214332451380"
+				"size" "1460131955"
+				"download" "1180669728"
+			}
+			"communitytest3"
+			{
+				"gid" "4806482184318110884"
+				"size" "1463070565"
+				"download" "1181016720"
+			}
+			"legacy_32bit"
+			{
+				"gid" "4806482184318110884"
+				"size" "1463070565"
+				"download" "1181016720"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "147220005910213655"
+				"size" "1462854729"
+				"download" "1180991712"
+			}
+		}
+	}
+	"249096"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "832314926440604840"
+				"size" "8438070768"
+				"download" "8399388208"
+			}
+			"beta"
+			{
+				"gid" "2090266669112064199"
+				"size" "7761201534"
+				"download" "7776581056"
+			}
+			"communitytest3"
+			{
+				"gid" "8895657091319741303"
+				"size" "8400969850"
+				"download" "8375459072"
+			}
+			"legacy_32bit"
+			{
+				"gid" "8895657091319741303"
+				"size" "8400969850"
+				"download" "8375459072"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "7735231847606656960"
+				"size" "7916578920"
+				"download" "7922331584"
+			}
+		}
+	}
+	"249097"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3782733415553498945"
+				"size" "156636969"
+				"download" "151321168"
+			}
+			"beta"
+			{
+				"gid" "883273387724053794"
+				"size" "156636969"
+				"download" "151321056"
+			}
+			"communitytest3"
+			{
+				"gid" "3782733415553498945"
+				"size" "156636969"
+				"download" "151321168"
+			}
+			"legacy_32bit"
+			{
+				"gid" "3782733415553498945"
+				"size" "156636969"
+				"download" "151321168"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "417147127408515126"
+				"size" "156636969"
+				"download" "151321168"
+			}
+		}
+	}
+	"249098"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4385011003760855667"
+				"size" "27295397996"
+				"download" "21654307296"
+			}
+			"beta"
+			{
+				"gid" "7864800427997692406"
+				"size" "18020713835"
+				"download" "14973987120"
+			}
+			"communitytest3"
+			{
+				"gid" "2846040278872194926"
+				"size" "27177304536"
+				"download" "21591855152"
+			}
+			"legacy_32bit"
+			{
+				"gid" "2846040278872194926"
+				"size" "27177304536"
+				"download" "21591855152"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "5843612053030991576"
+				"size" "26348080958"
+				"download" "20795339360"
+			}
+		}
+	}
+	"249099"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2587339750325794059"
+				"size" "694689260"
+				"download" "427507008"
+			}
+			"beta"
+			{
+				"gid" "4564616817345273343"
+				"size" "281952576"
+				"download" "67193776"
+			}
+			"communitytest3"
+			{
+				"gid" "1593700265347469264"
+				"size" "694475747"
+				"download" "427491728"
+			}
+			"legacy_32bit"
+			{
+				"gid" "1593700265347469264"
+				"size" "694475747"
+				"download" "427491728"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "2468480712798510236"
+				"size" "680041552"
+				"download" "416460992"
+			}
+		}
+	}
+	"249118"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9045198813159533741"
+				"size" "1463198697"
+				"download" "1181059920"
+			}
+			"beta"
+			{
+				"gid" "2855111152774041743"
+				"size" "1460131955"
+				"download" "1180669728"
+			}
+			"communitytest3"
+			{
+				"gid" "5846555770567529480"
+				"size" "1463070565"
+				"download" "1181016720"
+			}
+			"legacy_32bit"
+			{
+				"gid" "5846555770567529480"
+				"size" "1463070565"
+				"download" "1181016720"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "359101158524067223"
+				"size" "1462854729"
+				"download" "1180991712"
+			}
+		}
+	}
+	"249119"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5650306614312749582"
+				"size" "8438070768"
+				"download" "8399388208"
+			}
+			"beta"
+			{
+				"gid" "1882888237095174779"
+				"size" "7761201534"
+				"download" "7776581056"
+			}
+			"communitytest3"
+			{
+				"gid" "2882272641920419968"
+				"size" "8400969850"
+				"download" "8375459072"
+			}
+			"legacy_32bit"
+			{
+				"gid" "2882272641920419968"
+				"size" "8400969850"
+				"download" "8375459072"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "579351094930027886"
+				"size" "7916578920"
+				"download" "7922331584"
+			}
+		}
+	}
+	"260295"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5745158845803345788"
+				"size" "156636969"
+				"download" "151321168"
+			}
+			"beta"
+			{
+				"gid" "2769228449802942101"
+				"size" "156636969"
+				"download" "151321056"
+			}
+			"communitytest3"
+			{
+				"gid" "5745158845803345788"
+				"size" "156636969"
+				"download" "151321168"
+			}
+			"legacy_32bit"
+			{
+				"gid" "5745158845803345788"
+				"size" "156636969"
+				"download" "151321168"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "6387579492801226980"
+				"size" "156636969"
+				"download" "151321168"
+			}
+		}
+	}
+	"260296"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7318340483215847434"
+				"size" "1453598495"
+				"download" "1167747616"
+			}
+			"beta"
+			{
+				"gid" "2375232231690573438"
+				"size" "1451238081"
+				"download" "1167543536"
+			}
+			"communitytest3"
+			{
+				"gid" "5479676490153758191"
+				"size" "1453485751"
+				"download" "1167735664"
+			}
+			"legacy_32bit"
+			{
+				"gid" "5479676490153758191"
+				"size" "1453485751"
+				"download" "1167735664"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "4373722901942386773"
+				"size" "1453220197"
+				"download" "1167709168"
+			}
+		}
+	}
+	"260297"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7360371194723565523"
+				"size" "6440604"
+				"download" "608720"
+			}
+			"beta"
+			{
+				"gid" "2546378832299850707"
+				"size" "4976874"
+				"download" "527632"
+			}
+			"communitytest3"
+			{
+				"gid" "5184903114641034046"
+				"size" "6331516"
+				"download" "595184"
+			}
+			"legacy_32bit"
+			{
+				"gid" "5184903114641034046"
+				"size" "6331516"
+				"download" "595184"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "1812594115440237761"
+				"size" "6072090"
+				"download" "570624"
+			}
+		}
+	}
+	"260298"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8275495102182435470"
+				"size" "1523880604"
+				"download" "1235878960"
+			}
+			"beta"
+			{
+				"gid" "3765330711995433499"
+				"size" "1521503178"
+				"download" "1235670032"
+			}
+			"communitytest3"
+			{
+				"gid" "3656443966371543793"
+				"size" "1523773394"
+				"download" "1235864832"
+			}
+			"legacy_32bit"
+			{
+				"gid" "3656443966371543793"
+				"size" "1523773394"
+				"download" "1235864832"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "1977288634905744605"
+				"size" "1523528520"
+				"download" "1235841616"
+			}
+		}
+	}
+	"260299"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5906943912161062341"
+				"size" "1656337001"
+				"download" "1355154848"
+			}
+			"beta"
+			{
+				"gid" "1248054691577877473"
+				"size" "1654865025"
+				"download" "1355071408"
+			}
+			"communitytest3"
+			{
+				"gid" "5357186353626742787"
+				"size" "1656225185"
+				"download" "1355141760"
+			}
+			"legacy_32bit"
+			{
+				"gid" "5357186353626742787"
+				"size" "1656225185"
+				"download" "1355141760"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "1354492203130661397"
+				"size" "1655966715"
+				"download" "1355116432"
+			}
+		}
+	}
+	"287372"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7014240372643026565"
+				"size" "1462447981"
+				"download" "1180880496"
+			}
+			"beta"
+			{
+				"gid" "3190574521943492186"
+				"size" "1460927807"
+				"download" "1180782064"
+			}
+			"communitytest3"
+			{
+				"gid" "728327948357526215"
+				"size" "1462344861"
+				"download" "1180868928"
+			}
+			"legacy_32bit"
+			{
+				"gid" "728327948357526215"
+				"size" "1462344861"
+				"download" "1180868928"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "3191546355754669721"
+				"size" "1462103279"
+				"download" "1180843776"
+			}
+		}
+	}
+	"287373"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3011311655439513040"
+				"size" "1380691553"
+				"download" "1105743536"
+			}
+			"beta"
+			{
+				"gid" "395894360500119833"
+				"size" "1379220761"
+				"download" "1105651248"
+			}
+			"communitytest3"
+			{
+				"gid" "1228818957874917924"
+				"size" "1380591827"
+				"download" "1105732400"
+			}
+			"legacy_32bit"
+			{
+				"gid" "1228818957874917924"
+				"size" "1380591827"
+				"download" "1105732400"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "5127648334538953602"
+				"size" "1380361897"
+				"download" "1105708352"
+			}
+		}
+	}
+	"287374"
+	{
+		"config"
+		{
+			"language" "czech"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3095526753742535955"
+				"size" "5928534"
+				"download" "655296"
+			}
+			"beta"
+			{
+				"gid" "533842005187465235"
+				"size" "4478068"
+				"download" "562032"
+			}
+			"communitytest3"
+			{
+				"gid" "5225587595348729460"
+				"size" "5831688"
+				"download" "643744"
+			}
+			"legacy_32bit"
+			{
+				"gid" "5225587595348729460"
+				"size" "5831688"
+				"download" "643744"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "8928907062995819891"
+				"size" "5610992"
+				"download" "618800"
+			}
+		}
+	}
+	"287375"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4189002293823642513"
+				"size" "144848990"
+				"download" "139052016"
+			}
+			"beta"
+			{
+				"gid" "4005672022495694368"
+				"size" "144848990"
+				"download" "139052064"
+			}
+			"communitytest3"
+			{
+				"gid" "4189002293823642513"
+				"size" "144848990"
+				"download" "139052016"
+			}
+			"legacy_32bit"
+			{
+				"gid" "4189002293823642513"
+				"size" "144848990"
+				"download" "139052016"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "43667014892280851"
+				"size" "144848990"
+				"download" "139052016"
+			}
+		}
+	}
+	"287376"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "63192925181818470"
+				"size" "144506934"
+				"download" "139071616"
+			}
+			"beta"
+			{
+				"gid" "893509443537685759"
+				"size" "144506934"
+				"download" "139071344"
+			}
+			"communitytest3"
+			{
+				"gid" "63192925181818470"
+				"size" "144506934"
+				"download" "139071616"
+			}
+			"legacy_32bit"
+			{
+				"gid" "63192925181818470"
+				"size" "144506934"
+				"download" "139071616"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "185573481592133062"
+				"size" "144506934"
+				"download" "139071616"
+			}
+		}
+	}
+	"287377"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "772110558442842658"
+				"size" "158613130"
+				"download" "152651504"
+			}
+			"beta"
+			{
+				"gid" "6904305225673821757"
+				"size" "158613130"
+				"download" "152651504"
+			}
+			"communitytest3"
+			{
+				"gid" "772110558442842658"
+				"size" "158613130"
+				"download" "152651504"
+			}
+			"legacy_32bit"
+			{
+				"gid" "772110558442842658"
+				"size" "158613130"
+				"download" "152651504"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "48379608180730903"
+				"size" "158613130"
+				"download" "152651504"
+			}
+		}
+	}
+	"287378"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6407232489600135954"
+				"size" "143959498"
+				"download" "138546880"
+			}
+			"beta"
+			{
+				"gid" "2011724752027665778"
+				"size" "143959498"
+				"download" "138546928"
+			}
+			"communitytest3"
+			{
+				"gid" "6407232489600135954"
+				"size" "143959498"
+				"download" "138546880"
+			}
+			"legacy_32bit"
+			{
+				"gid" "6407232489600135954"
+				"size" "143959498"
+				"download" "138546880"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "405692495773095990"
+				"size" "143959498"
+				"download" "138546880"
+			}
+		}
+	}
+	"287379"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1647427615643075481"
+				"size" "142265167"
+				"download" "136118112"
+			}
+			"beta"
+			{
+				"gid" "287914616161588882"
+				"size" "142265167"
+				"download" "136118144"
+			}
+			"communitytest3"
+			{
+				"gid" "1647427615643075481"
+				"size" "142265167"
+				"download" "136118112"
+			}
+			"legacy_32bit"
+			{
+				"gid" "1647427615643075481"
+				"size" "142265167"
+				"download" "136118112"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "406975635271373481"
+				"size" "142265167"
+				"download" "136118112"
+			}
+		}
+	}
+	"297528"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8272750681505302026"
+				"size" "1453598495"
+				"download" "1167747616"
+			}
+			"beta"
+			{
+				"gid" "2372751363987443504"
+				"size" "1451238081"
+				"download" "1167543536"
+			}
+			"communitytest3"
+			{
+				"gid" "1820870851268706901"
+				"size" "1453485751"
+				"download" "1167735664"
+			}
+			"legacy_32bit"
+			{
+				"gid" "1820870851268706901"
+				"size" "1453485751"
+				"download" "1167735664"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "3018970158846079755"
+				"size" "1453220197"
+				"download" "1167709168"
+			}
+		}
+	}
+	"319600"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8396237154919544411"
+				"size" "2849902828"
+				"download" "2838147616"
+			}
+			"beta"
+			{
+				"gid" "8483981449620761761"
+				"size" "2849902822"
+				"download" "2838147648"
+			}
+			"communitytest3"
+			{
+				"gid" "2631753736991489247"
+				"size" "2849902828"
+				"download" "2838147616"
+			}
+			"legacy_32bit"
+			{
+				"gid" "9130879197586385636"
+				"size" "2899607393"
+				"download" "2894472928"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "2929450838836732489"
+				"size" "2899606802"
+				"download" "2894472528"
+			}
+		}
+	}
+	"319601"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2775732798062837531"
+				"size" "286114351"
+				"download" "281005792"
+			}
+			"beta"
+			{
+				"gid" "6934139039077930416"
+				"size" "286114351"
+				"download" "281005808"
+			}
+			"communitytest3"
+			{
+				"gid" "2775732798062837531"
+				"size" "286114351"
+				"download" "281005792"
+			}
+			"legacy_32bit"
+			{
+				"gid" "2775732798062837531"
+				"size" "286114351"
+				"download" "281005792"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "2775732798062837531"
+				"size" "286114351"
+				"download" "281005792"
+			}
+		}
+	}
+	"319602"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2132325941425839173"
+				"size" "269371455"
+				"download" "265929536"
+			}
+			"beta"
+			{
+				"gid" "3442953598392653268"
+				"size" "269371455"
+				"download" "265929696"
+			}
+			"communitytest3"
+			{
+				"gid" "2132325941425839173"
+				"size" "269371455"
+				"download" "265929536"
+			}
+			"legacy_32bit"
+			{
+				"gid" "2132325941425839173"
+				"size" "269371455"
+				"download" "265929536"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "2132325941425839173"
+				"size" "269371455"
+				"download" "265929536"
+			}
+		}
+	}
+	"319603"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4391703216476581531"
+				"size" "271913659"
+				"download" "268563936"
+			}
+			"beta"
+			{
+				"gid" "8449097296685441531"
+				"size" "271913659"
+				"download" "268605664"
+			}
+			"communitytest3"
+			{
+				"gid" "4391703216476581531"
+				"size" "271913659"
+				"download" "268563936"
+			}
+			"legacy_32bit"
+			{
+				"gid" "4391703216476581531"
+				"size" "271913659"
+				"download" "268563936"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "4391703216476581531"
+				"size" "271913659"
+				"download" "268563936"
+			}
+		}
+	}
+	"319604"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "316835511213856142"
+				"size" "285254298"
+				"download" "281871536"
+			}
+			"beta"
+			{
+				"gid" "1480408807090665740"
+				"size" "285254298"
+				"download" "281911024"
+			}
+			"communitytest3"
+			{
+				"gid" "316835511213856142"
+				"size" "285254298"
+				"download" "281871536"
+			}
+			"legacy_32bit"
+			{
+				"gid" "316835511213856142"
+				"size" "285254298"
+				"download" "281871536"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "316835511213856142"
+				"size" "285254298"
+				"download" "281871536"
+			}
+		}
+	}
+	"319605"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6049459304364210629"
+				"size" "288991377"
+				"download" "285428064"
+			}
+			"beta"
+			{
+				"gid" "908564467833641554"
+				"size" "288991377"
+				"download" "285427792"
+			}
+			"communitytest3"
+			{
+				"gid" "6049459304364210629"
+				"size" "288991377"
+				"download" "285428064"
+			}
+			"legacy_32bit"
+			{
+				"gid" "6049459304364210629"
+				"size" "288991377"
+				"download" "285428064"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "6049459304364210629"
+				"size" "288991377"
+				"download" "285428064"
+			}
+		}
+	}
+	"319606"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5593000356241197441"
+				"size" "272320118"
+				"download" "268849424"
+			}
+			"beta"
+			{
+				"gid" "5229251836279558559"
+				"size" "272320118"
+				"download" "268891760"
+			}
+			"communitytest3"
+			{
+				"gid" "5593000356241197441"
+				"size" "272320118"
+				"download" "268849424"
+			}
+			"legacy_32bit"
+			{
+				"gid" "5593000356241197441"
+				"size" "272320118"
+				"download" "268849424"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "5593000356241197441"
+				"size" "272320118"
+				"download" "268849424"
+			}
+		}
+	}
+	"317851"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6039351015381439908"
+				"size" "1442210870"
+				"download" "1445163088"
+			}
+			"beta"
+			{
+				"gid" "7689743064604123610"
+				"size" "1420567283"
+				"download" "1424583744"
+			}
+			"communitytest3"
+			{
+				"gid" "8726605221639638214"
+				"size" "1440440657"
+				"download" "1443395072"
+			}
+			"legacy_32bit"
+			{
+				"gid" "8726605221639638214"
+				"size" "1440440657"
+				"download" "1443395072"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "3376295406589753436"
+				"size" "1433230491"
+				"download" "1436121648"
+			}
+		}
+	}
+	"317852"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6334242277894919354"
+				"size" "286114351"
+				"download" "276825744"
+			}
+			"beta"
+			{
+				"gid" "5050741001561618340"
+				"size" "286114351"
+				"download" "276825760"
+			}
+			"communitytest3"
+			{
+				"gid" "6334242277894919354"
+				"size" "286114351"
+				"download" "276825744"
+			}
+			"legacy_32bit"
+			{
+				"gid" "6334242277894919354"
+				"size" "286114351"
+				"download" "276825744"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "5092552665121898609"
+				"size" "286114351"
+				"download" "276825744"
+			}
+		}
+	}
+	"317853"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5661992087902857238"
+				"size" "269371455"
+				"download" "262200656"
+			}
+			"beta"
+			{
+				"gid" "2785973042802772357"
+				"size" "269371455"
+				"download" "262200816"
+			}
+			"communitytest3"
+			{
+				"gid" "5661992087902857238"
+				"size" "269371455"
+				"download" "262200656"
+			}
+			"legacy_32bit"
+			{
+				"gid" "5661992087902857238"
+				"size" "269371455"
+				"download" "262200656"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "6724107489643912652"
+				"size" "269371455"
+				"download" "262200656"
+			}
+		}
+	}
+	"317854"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2250300428128787911"
+				"size" "271913659"
+				"download" "265079584"
+			}
+			"beta"
+			{
+				"gid" "198762576660996696"
+				"size" "271913659"
+				"download" "265079504"
+			}
+			"communitytest3"
+			{
+				"gid" "2250300428128787911"
+				"size" "271913659"
+				"download" "265079584"
+			}
+			"legacy_32bit"
+			{
+				"gid" "2250300428128787911"
+				"size" "271913659"
+				"download" "265079584"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "150340848664265273"
+				"size" "271913659"
+				"download" "265079584"
+			}
+		}
+	}
+	"317855"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1107788777719830343"
+				"size" "285254298"
+				"download" "278133728"
+			}
+			"beta"
+			{
+				"gid" "1817718716838954075"
+				"size" "285254298"
+				"download" "278133664"
+			}
+			"communitytest3"
+			{
+				"gid" "1107788777719830343"
+				"size" "285254298"
+				"download" "278133728"
+			}
+			"legacy_32bit"
+			{
+				"gid" "1107788777719830343"
+				"size" "285254298"
+				"download" "278133728"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "14856455619789742"
+				"size" "285254298"
+				"download" "278133728"
+			}
+		}
+	}
+	"317856"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6243674026782761223"
+				"size" "288991377"
+				"download" "281611952"
+			}
+			"beta"
+			{
+				"gid" "1494489389104010474"
+				"size" "288991377"
+				"download" "281611680"
+			}
+			"communitytest3"
+			{
+				"gid" "6243674026782761223"
+				"size" "288991377"
+				"download" "281611952"
+			}
+			"legacy_32bit"
+			{
+				"gid" "6243674026782761223"
+				"size" "288991377"
+				"download" "281611952"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "4494056558483765651"
+				"size" "288991377"
+				"download" "281611952"
+			}
+		}
+	}
+	"317857"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "189914477902114787"
+				"size" "272320118"
+				"download" "264937152"
+			}
+			"beta"
+			{
+				"gid" "5192452640345254480"
+				"size" "272320118"
+				"download" "264937216"
+			}
+			"communitytest3"
+			{
+				"gid" "189914477902114787"
+				"size" "272320118"
+				"download" "264937152"
+			}
+			"legacy_32bit"
+			{
+				"gid" "189914477902114787"
+				"size" "272320118"
+				"download" "264937152"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "112784633920112578"
+				"size" "272320118"
+				"download" "264937152"
+			}
+		}
+	}
+	"317858"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5000963213105349618"
+				"size" "6440604"
+				"download" "608720"
+			}
+			"beta"
+			{
+				"gid" "4658182883408807502"
+				"size" "4976874"
+				"download" "527632"
+			}
+			"communitytest3"
+			{
+				"gid" "2793180562495693032"
+				"size" "6331516"
+				"download" "595184"
+			}
+			"legacy_32bit"
+			{
+				"gid" "2793180562495693032"
+				"size" "6331516"
+				"download" "595184"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "4084333215198189820"
+				"size" "6072090"
+				"download" "570624"
+			}
+		}
+	}
+	"317859"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7464273777798156842"
+				"size" "1523880604"
+				"download" "1235878960"
+			}
+			"beta"
+			{
+				"gid" "4620813224494808513"
+				"size" "1521503178"
+				"download" "1235670032"
+			}
+			"communitytest3"
+			{
+				"gid" "6708342808790599637"
+				"size" "1523773394"
+				"download" "1235864832"
+			}
+			"legacy_32bit"
+			{
+				"gid" "6708342808790599637"
+				"size" "1523773394"
+				"download" "1235864832"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "4985374720179599239"
+				"size" "1523528520"
+				"download" "1235841616"
+			}
+		}
+	}
+	"319607"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "638329630907223551"
+				"size" "1656337001"
+				"download" "1355154848"
+			}
+			"beta"
+			{
+				"gid" "600937189802677157"
+				"size" "1654865025"
+				"download" "1355071408"
+			}
+			"communitytest3"
+			{
+				"gid" "427011209874632256"
+				"size" "1656225185"
+				"download" "1355141760"
+			}
+			"legacy_32bit"
+			{
+				"gid" "427011209874632256"
+				"size" "1656225185"
+				"download" "1355141760"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "6921886362013686232"
+				"size" "1655966715"
+				"download" "1355116432"
+			}
+		}
+	}
+	"319608"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6803040299018183723"
+				"size" "1462447981"
+				"download" "1180880496"
+			}
+			"beta"
+			{
+				"gid" "7043170585908268444"
+				"size" "1460927807"
+				"download" "1180782064"
+			}
+			"communitytest3"
+			{
+				"gid" "9184776706216625104"
+				"size" "1462344861"
+				"download" "1180868928"
+			}
+			"legacy_32bit"
+			{
+				"gid" "9184776706216625104"
+				"size" "1462344861"
+				"download" "1180868928"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "2930752326151405925"
+				"size" "1462103279"
+				"download" "1180843776"
+			}
+		}
+	}
+	"319609"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6220324423697880336"
+				"size" "1380691553"
+				"download" "1105743536"
+			}
+			"beta"
+			{
+				"gid" "2507718016739391415"
+				"size" "1379220761"
+				"download" "1105651248"
+			}
+			"communitytest3"
+			{
+				"gid" "4746671962842553121"
+				"size" "1380591827"
+				"download" "1105732400"
+			}
+			"legacy_32bit"
+			{
+				"gid" "4746671962842553121"
+				"size" "1380591827"
+				"download" "1105732400"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "4536155099604307162"
+				"size" "1380361897"
+				"download" "1105708352"
+			}
+		}
+	}
+	"319610"
+	{
+		"config"
+		{
+			"language" "czech"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4490627408313547509"
+				"size" "5928534"
+				"download" "655296"
+			}
+			"beta"
+			{
+				"gid" "5534669777698678125"
+				"size" "4478068"
+				"download" "562032"
+			}
+			"communitytest3"
+			{
+				"gid" "9147762972386885285"
+				"size" "5831688"
+				"download" "643744"
+			}
+			"legacy_32bit"
+			{
+				"gid" "9147762972386885285"
+				"size" "5831688"
+				"download" "643744"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "7341292748903263513"
+				"size" "5610992"
+				"download" "618800"
+			}
+		}
+	}
+	"319611"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5428591234539126628"
+				"size" "144848990"
+				"download" "139052016"
+			}
+			"beta"
+			{
+				"gid" "864664303576385675"
+				"size" "144848990"
+				"download" "139052064"
+			}
+			"communitytest3"
+			{
+				"gid" "5428591234539126628"
+				"size" "144848990"
+				"download" "139052016"
+			}
+			"legacy_32bit"
+			{
+				"gid" "5428591234539126628"
+				"size" "144848990"
+				"download" "139052016"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "118197703517286379"
+				"size" "144848990"
+				"download" "139052016"
+			}
+		}
+	}
+	"319612"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9177831894938033924"
+				"size" "144506934"
+				"download" "139071616"
+			}
+			"beta"
+			{
+				"gid" "2368623684371850807"
+				"size" "144506934"
+				"download" "139071344"
+			}
+			"communitytest3"
+			{
+				"gid" "9177831894938033924"
+				"size" "144506934"
+				"download" "139071616"
+			}
+			"legacy_32bit"
+			{
+				"gid" "9177831894938033924"
+				"size" "144506934"
+				"download" "139071616"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "104839247325603555"
+				"size" "144506934"
+				"download" "139071616"
+			}
+		}
+	}
+	"319613"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8190721072602956915"
+				"size" "158613130"
+				"download" "152651504"
+			}
+			"beta"
+			{
+				"gid" "5021069603912131085"
+				"size" "158613130"
+				"download" "152651504"
+			}
+			"communitytest3"
+			{
+				"gid" "8190721072602956915"
+				"size" "158613130"
+				"download" "152651504"
+			}
+			"legacy_32bit"
+			{
+				"gid" "8190721072602956915"
+				"size" "158613130"
+				"download" "152651504"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "330393415593833750"
+				"size" "158613130"
+				"download" "152651504"
+			}
+		}
+	}
+	"319614"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8503404105909224649"
+				"size" "143959498"
+				"download" "138546880"
+			}
+			"beta"
+			{
+				"gid" "6092145442018440091"
+				"size" "143959498"
+				"download" "138546928"
+			}
+			"communitytest3"
+			{
+				"gid" "8503404105909224649"
+				"size" "143959498"
+				"download" "138546880"
+			}
+			"legacy_32bit"
+			{
+				"gid" "8503404105909224649"
+				"size" "143959498"
+				"download" "138546880"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "31904915614703435"
+				"size" "143959498"
+				"download" "138546880"
+			}
+		}
+	}
+	"319615"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4755459077191693129"
+				"size" "142265167"
+				"download" "136118112"
+			}
+			"beta"
+			{
+				"gid" "1285270843669402929"
+				"size" "142265167"
+				"download" "136118144"
+			}
+			"communitytest3"
+			{
+				"gid" "4755459077191693129"
+				"size" "142265167"
+				"download" "136118112"
+			}
+			"legacy_32bit"
+			{
+				"gid" "4755459077191693129"
+				"size" "142265167"
+				"download" "136118112"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "655847615354980421"
+				"size" "142265167"
+				"download" "136118112"
+			}
+		}
+	}
+	"319616"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "983517441026794958"
+				"size" "1442210870"
+				"download" "1445163088"
+			}
+			"beta"
+			{
+				"gid" "2214117430698245251"
+				"size" "1420567283"
+				"download" "1424583744"
+			}
+			"communitytest3"
+			{
+				"gid" "8075592950278528172"
+				"size" "1440440657"
+				"download" "1443395072"
+			}
+			"legacy_32bit"
+			{
+				"gid" "8075592950278528172"
+				"size" "1440440657"
+				"download" "1443395072"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "1882283132056154575"
+				"size" "1433230491"
+				"download" "1436121648"
+			}
+		}
+	}
+	"319617"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8774567918694677739"
+				"size" "286114351"
+				"download" "276825744"
+			}
+			"beta"
+			{
+				"gid" "6648091635422964911"
+				"size" "286114351"
+				"download" "276825760"
+			}
+			"communitytest3"
+			{
+				"gid" "8774567918694677739"
+				"size" "286114351"
+				"download" "276825744"
+			}
+			"legacy_32bit"
+			{
+				"gid" "8774567918694677739"
+				"size" "286114351"
+				"download" "276825744"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "844463338057929798"
+				"size" "286114351"
+				"download" "276825744"
+			}
+		}
+	}
+	"319618"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "444946186181836063"
+				"size" "558362832"
+				"download" "535612400"
+			}
+			"beta"
+			{
+				"gid" "1493110052535193290"
+				"size" "269371455"
+				"download" "262200816"
+			}
+			"communitytest3"
+			{
+				"gid" "444946186181836063"
+				"size" "558362832"
+				"download" "535612400"
+			}
+			"legacy_32bit"
+			{
+				"gid" "444946186181836063"
+				"size" "558362832"
+				"download" "535612400"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "4840089797794673506"
+				"size" "269371455"
+				"download" "262200656"
+			}
+		}
+	}
+	"319619"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5781735798427959557"
+				"size" "271913659"
+				"download" "265079584"
+			}
+			"beta"
+			{
+				"gid" "2332853233550791056"
+				"size" "271913659"
+				"download" "265079504"
+			}
+			"communitytest3"
+			{
+				"gid" "5781735798427959557"
+				"size" "271913659"
+				"download" "265079584"
+			}
+			"legacy_32bit"
+			{
+				"gid" "5781735798427959557"
+				"size" "271913659"
+				"download" "265079584"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "136633344256762022"
+				"size" "271913659"
+				"download" "265079584"
+			}
+		}
+	}
+	"323231"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2185843156147239406"
+				"size" "285254298"
+				"download" "278133728"
+			}
+			"beta"
+			{
+				"gid" "1224813940071998713"
+				"size" "285254298"
+				"download" "278133664"
+			}
+			"communitytest3"
+			{
+				"gid" "2185843156147239406"
+				"size" "285254298"
+				"download" "278133728"
+			}
+			"legacy_32bit"
+			{
+				"gid" "2185843156147239406"
+				"size" "285254298"
+				"download" "278133728"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "534438241714155662"
+				"size" "285254298"
+				"download" "278133728"
+			}
+		}
+	}
+	"323232"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2216944565851138145"
+				"size" "288991377"
+				"download" "281611952"
+			}
+			"beta"
+			{
+				"gid" "2670090430845562313"
+				"size" "288991377"
+				"download" "281611680"
+			}
+			"communitytest3"
+			{
+				"gid" "2670090430845562313"
+				"size" "288991377"
+				"download" "281611680"
+			}
+			"legacy_32bit"
+			{
+				"gid" "2216944565851138145"
+				"size" "288991377"
+				"download" "281611952"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "2216944565851138145"
+				"size" "288991377"
+				"download" "281611952"
+			}
+		}
+	}
+	"323233"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2980646045865790183"
+				"size" "272320118"
+				"download" "264937152"
+			}
+			"beta"
+			{
+				"gid" "5833414543322581111"
+				"size" "272320118"
+				"download" "264937216"
+			}
+			"communitytest3"
+			{
+				"gid" "2980646045865790183"
+				"size" "272320118"
+				"download" "264937152"
+			}
+			"legacy_32bit"
+			{
+				"gid" "2980646045865790183"
+				"size" "272320118"
+				"download" "264937152"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "111390569586355413"
+				"size" "272320118"
+				"download" "264937152"
+			}
+		}
+	}
+	"323234"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1875151220888740212"
+				"size" "4106647587"
+				"download" "4023666400"
+			}
+			"beta"
+			{
+				"gid" "6616644858352116856"
+				"size" "3429778365"
+				"download" "3400859296"
+			}
+			"communitytest3"
+			{
+				"gid" "208765440514354596"
+				"size" "4069546669"
+				"download" "3999737264"
+			}
+			"legacy_32bit"
+			{
+				"gid" "208765440514354596"
+				"size" "4069546669"
+				"download" "3999737264"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "8879609806257847457"
+				"size" "3585155751"
+				"download" "3546609840"
+			}
+		}
+	}
+	"323235"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4398282446236566224"
+				"size" "4106647587"
+				"download" "4023666400"
+			}
+			"beta"
+			{
+				"gid" "8634067477612850419"
+				"size" "3429778365"
+				"download" "3400859296"
+			}
+			"communitytest3"
+			{
+				"gid" "4360029176019025324"
+				"size" "4069546669"
+				"download" "3999737264"
+			}
+			"legacy_32bit"
+			{
+				"gid" "4360029176019025324"
+				"size" "4069546669"
+				"download" "3999737264"
+			}
+			"mac-linux-1.2.8"
+			{
+				"gid" "4743827192101433975"
+				"size" "3585155751"
+				"download" "3546609840"
+			}
+		}
+	}
+	"323236"
+	{
+		"config"
+		{
+			"language" ""
+		}
+	}
+	"323237"
+	{
+		"config"
+		{
+			"language" ""
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8972565"
+			"timeupdated" "1655741860"
+		}
+		"beta"
+		{
+			"buildid" "6046991"
+			"description" "64Bit beta test"
+			"timeupdated" "1609965793"
+		}
+		"communitytest3"
+		{
+			"buildid" "7332574"
+			"description" "Builds for community testing"
+			"timeupdated" "1631206047"
+		}
+		"legacy_32bit"
+		{
+			"buildid" "5340602"
+			"description" "Old Windows 32bit version of COH2"
+			"timeupdated" "1603909882"
+		}
+		"mac-linux-1.2.8"
+		{
+			"buildid" "2816044"
+			"description" "Old Mac 32bit version of COH2"
+			"timeupdated" "1530806462"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games\\Company of Heroes 2"
+			"pattern" "configuration_user.lua"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27103115"
+"_sha" "b71f231839c9f61d48d1881867e8b79b5b14985b"
+"_size" "60679"
