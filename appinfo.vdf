@@ -1,0 +1,496 @@
+"appid" "493490"
+"common"
+{
+	"name" "City Car Driving"
+	"type" "Game"
+	"oslist" "windows"
+	"clienticon" "aad4fa16cfed821131ce70cf507c6c1f3131f66a"
+	"clienttga" "07a61ce143a80e212c4d2408be5b7907815954d5"
+	"icon" "4c1b4eee0e6fd92810d01106a2efec8a3f60d6c0"
+	"logo" "8d9e136eb9e8f005495ae5c94a6fabd25aa5971b"
+	"logo_small" "8d9e136eb9e8f005495ae5c94a6fabd25aa5971b_thumb"
+	"controllervr"
+	{
+		"kbm" "1"
+		"xinput" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+	}
+	"releasestate" "released"
+	"othervrsupport" "1"
+	"othervrsupport_rift_13" "1"
+	"openvrsupport" "1"
+	"languages"
+	{
+		"english" "1"
+		"russian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "4586703"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"metacritic_name" "City Car Driving"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "28.40982546864899"
+			"height_pct" "74.65277777777777"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "28.40982546864899"
+				"height_pct" "74.65277777777777"
+			}
+		}
+	}
+	"store_asset_mtime" "1681879263"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Forward Development, Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Forward Global Group, Ltd."
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "9"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1478199480"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "493490"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "1644"
+		"2" "1100687"
+		"3" "1695"
+		"4" "3978"
+		"5" "4175"
+		"6" "3859"
+		"7" "4182"
+		"8" "699"
+		"9" "21978"
+		"10" "3839"
+		"11" "1669"
+		"12" "3968"
+		"13" "492"
+		"14" "5350"
+		"15" "1721"
+		"16" "1036"
+		"17" "21"
+		"18" "597"
+		"19" "1667"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Forward Development, Ltd."
+	"publisher" "Forward Global Group, Ltd."
+	"homepage" "http://citycardriving.com"
+	"gamemanualurl" "https://store.steampowered.com/manual/493490/"
+	"listofdlc" "967230"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "City Car Driving"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin\\win32\\Starter.exe"
+			"workingdir" "bin\\win32"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"workshopdepot" "493490"
+	"228981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"493491"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4705343172144059293"
+				"size" "8834857175"
+				"download" "2408967936"
+			}
+		}
+	}
+	"967230"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "967230"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3769054687993125810"
+				"size" "99046199"
+				"download" "21140144"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4586703"
+			"timeupdated" "1579591793"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "forward development/city car driving steam"
+			"pattern" "profiles.db3"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "forward development/city car driving steam/config"
+			"pattern" "game.ini"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "WinMyDocuments"
+			"path" "Forward Development/City Car Driving Steam/config"
+			"pattern" "traffic.ini"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"3"
+		{
+			"root" "WinMyDocuments"
+			"path" "Forward Development/City Car Driving Steam/config"
+			"pattern" "navigation.ini"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"4"
+		{
+			"root" "WinMyDocuments"
+			"path" "Forward Development/City Car Driving Steam/config"
+			"pattern" "ingame_missions.ini"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"5"
+		{
+			"root" "WinMyDocuments"
+			"path" "Forward Development/City Car Driving Steam/config"
+			"pattern" "influence.ini"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"6"
+		{
+			"root" "WinMyDocuments"
+			"path" "Forward Development/City Car Driving Steam/config"
+			"pattern" "radio.ini"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27618668"
+"_sha" "27efa89c8f3bd4c878abb000225ecba790285475"
+"_size" "8417"
