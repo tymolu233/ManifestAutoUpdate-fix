@@ -1,0 +1,808 @@
+"appid" "703860"
+"common"
+{
+	"name" "GRID (2019)"
+	"type" "Game"
+	"logo" "289554df254ff22fca3aa28bb6c8ff3a5656133d"
+	"logo_small" "289554df254ff22fca3aa28bb6c8ff3a5656133d_thumb"
+	"icon" "775c50af13e877cf43c311ce1e5b6f7ffa199f09"
+	"clienticon" "0302dab2be7dfd038bcd73a6f8351ab99bd97e8b"
+	"clienttga" "e72139c701d27539e9df2cc344eac58c01fddc25"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "703860_eula_0"
+			"name" "GRID (2019) EULA"
+			"url" "https://store.steampowered.com//eula/703860_eula_0"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"app_retired_publisher_request" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "5760143"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"metacritic_name" "--"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "55.54050547193415"
+			"height_pct" "94.07692297263964"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "55.54050547193415"
+				"height_pct" "94.07692297263964"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1587487971"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Codemasters"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Codemasters"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Electronic Arts"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Codemasters"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "GRID"
+		}
+	}
+	"primary_genre" "9"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "9"
+		"3" "28"
+		"4" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_36" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1570719600"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "703860"
+	"store_tags"
+	{
+		"0" "699"
+		"1" "701"
+		"2" "599"
+		"3" "19"
+		"4" "597"
+		"5" "3859"
+		"6" "1773"
+		"7" "1100687"
+		"8" "1644"
+		"9" "10816"
+		"10" "4182"
+		"11" "1695"
+		"12" "21978"
+		"13" "7481"
+	}
+	"review_score" "5"
+	"review_percentage" "69"
+	"mastersubs_granting_app" "1289670"
+}
+"extended"
+{
+	"developer" "Codemasters"
+	"publisher" "Codemasters"
+	"homepage" "https://www.gridgame.com/"
+	"gamemanualurl" "https://store.steampowered.com/manual/703860/"
+	"listofdlc" "1085440,1085450,1085460,1085470,1085480,1085490,1085500,1146320"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "GRID (2019)"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Grid_dx12.exe"
+			"description" "DirectX 12"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Grid.exe"
+			"description" "Grid DX11 QA"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "internal_qa"
+			}
+		}
+		"2"
+		{
+			"executable" "Grid_dx12_win64_do.exe"
+			"description" "Grid DX12 Debug"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "internal_qa"
+			}
+		}
+		"3"
+		{
+			"executable" "Grid_win64_do.exe"
+			"description" "Grid DX11 Debug"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "internal_qa"
+			}
+		}
+		"4"
+		{
+			"executable" "Grid_dx12.exe"
+			"description" "Grid DX12 QA"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "internal_qa"
+			}
+		}
+		"5"
+		{
+			"executable" "Grid.exe"
+			"description" "DirectX 11"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "event"
+			}
+		}
+		"6"
+		{
+			"executable" "Grid.exe"
+			"description" "DirectX 11"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "internal_rating"
+			}
+		}
+		"7"
+		{
+			"executable" "Grid_dx12_win64_do.exe"
+			"description" "Grid DX12 Debug"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "internal_qa_dlc"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2160474051"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,polish,brazilian"
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"703861"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5408537259377810354"
+				"size" "27341644847"
+				"download" "16210669328"
+			}
+		}
+	}
+	"703862"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2975515034690974686"
+				"size" "53938390726"
+				"download" "40838550528"
+			}
+		}
+	}
+	"703863"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3942710146477144638"
+				"size" "24942592"
+				"download" "9625568"
+			}
+		}
+	}
+	"703864"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4798683789086277093"
+				"size" "197086057"
+				"download" "67337200"
+			}
+		}
+	}
+	"703865"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "310862829620181075"
+				"size" "186893611"
+				"download" "185808112"
+			}
+		}
+	}
+	"703866"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3655578998099695180"
+				"size" "168550127"
+				"download" "165930288"
+			}
+		}
+	}
+	"703867"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2327208646048113276"
+				"size" "193606328"
+				"download" "190874176"
+			}
+		}
+	}
+	"703868"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "33138267795336499"
+				"size" "181277054"
+				"download" "178650272"
+			}
+		}
+	}
+	"703869"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5634976635826689331"
+				"size" "205132727"
+				"download" "199007472"
+			}
+		}
+	}
+	"1059131"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1965091168660098214"
+				"size" "193899960"
+				"download" "189584784"
+			}
+		}
+	}
+	"1059132"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "324840033531078032"
+				"size" "193966211"
+				"download" "188939312"
+			}
+		}
+	}
+	"1059133"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2034693758572690991"
+				"size" "223112288"
+				"download" "132728928"
+			}
+		}
+	}
+	"1283731"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1283732"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1283733"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1283734"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1283735"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1283736"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1283737"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1283738"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1283739"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1286850"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1286851"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1286852"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1286853"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1286854"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1286855"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1286856"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1286857"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1286858"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1286859"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1288750"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1288751"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1288752"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1288753"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"1288754"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5760143"
+			"timeupdated" "1606384850"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "3221225472"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "3d462f343eee09a4f0a3370b6c702c56b099c686"
+"_size" "11864"
