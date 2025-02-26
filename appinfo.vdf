@@ -1,0 +1,510 @@
+"appid" "449960"
+"common"
+{
+	"name" "Book of Demons"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"clienttga" "3296a13c89bb0d64aab09fdd286219d5abba86e1"
+	"clienticon" "fefb077920394ca90aacf3b74a350185bbe0098c"
+	"icon" "d1984fec656bac08a20b4fdd9d6c9e272295c5d7"
+	"logo" "294a5680fee15c234e24c676148cb35b08975b11"
+	"logo_small" "294a5680fee15c234e24c676148cb35b08975b11_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+	}
+	"osarch" ""
+	"osextended" "macos64,macosnotarized"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1670284800"
+		"tested_build_id" "8639986"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Book of Demons"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1687772929"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Thing Trunk"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Thing Trunk"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Return 2 Games"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_33" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_13" "1"
+		"category_25" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1544806800"
+	"metacritic_score" "72"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/book-of-demons\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "449960"
+	"store_tags"
+	{
+		"0" "1720"
+		"1" "1091588"
+		"2" "1646"
+		"3" "122"
+		"4" "32322"
+		"5" "4182"
+		"6" "5851"
+		"7" "4231"
+		"8" "4604"
+		"9" "1684"
+		"10" "9541"
+		"11" "1666"
+		"12" "19"
+		"13" "21"
+		"14" "4106"
+		"15" "1716"
+		"16" "1659"
+		"17" "7481"
+		"18" "4166"
+		"19" "3959"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+	"review_score_bombs" "8"
+	"review_percentage_bombs" "90"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "rptest"
+	"developer" "Thing Trunk"
+	"publisher" "Thing Trunk"
+	"homepage" "http://www.return2games.com"
+	"listofdlc" "449970,706770,968890,991890"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Return 2 Games"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "r2g_launcher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Return 2 Games.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"1363756138"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,development,local,microsoft,public_test,showcase,special"
+		}
+		"1364386811"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default,development,local,microsoft,public_test,showcase,special"
+		}
+		"1364385388"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,development,local,microsoft,public_test,showcase,special"
+		}
+		"1364386235"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,development,local,microsoft,public_test,showcase,special"
+		}
+	}
+	"steamconfigurator3rdpartynative" "73"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"449961"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7612820234764631283"
+				"size" "715025318"
+				"download" "564114032"
+			}
+		}
+	}
+	"449962"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "510365158858247380"
+				"size" "223217779"
+				"download" "208776064"
+			}
+		}
+	}
+	"449963"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "232132595985028990"
+				"size" "11267584"
+				"download" "4029504"
+			}
+		}
+	}
+	"449965"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1539169703380940064"
+				"size" "11267584"
+				"download" "4029504"
+			}
+		}
+	}
+	"449966"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8867370621665799853"
+				"size" "925058932"
+				"download" "734364464"
+			}
+		}
+	}
+	"449964"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8612869221512902806"
+				"size" "925086260"
+				"download" "733654528"
+			}
+		}
+	}
+	"991890"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8925794009554676835"
+				"size" "1481332721"
+				"download" "1484272592"
+			}
+		}
+		"dlcappid" "991890"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13176744"
+			"timeupdated" "1705403210"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "200"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Return2Games_WIP21"
+			"pattern" "*.*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Return2Games_WIP21"
+					"replace" "Return2Games_WIP21"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27108209"
+"_sha" "80bd83ba589fbeb94a8e0e9eada7a4a53d4ccfe6"
+"_size" "8726"
