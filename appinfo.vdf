@@ -1,0 +1,278 @@
+"appid" "1608290"
+"common"
+{
+	"name" "GNOSIA"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "40f990a09edb831b7dfe5355c7addc9dceba7859"
+	"clienttga" "afdd14f1fef8d7f7ee59636b607d4d4a03a5d898"
+	"icon" "ee860e3b13de021ea0df02ac759a0403b1c54904"
+	"logo" "cf2f395cf74ddb20e75a03e338b606f2f4d871e7"
+	"logo_small" "cf2f395cf74ddb20e75a03e338b606f2f4d871e7_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"japanese" "1"
+	}
+	"name_localized"
+	{
+		"japanese" "グノーシア"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1658275200"
+		"tested_build_id" "8298880"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1656419248"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Petit Depotto"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PLAYISM"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "PLAYISM"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1642927671"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1608290"
+	"store_tags"
+	{
+		"0" "3799"
+		"1" "1742"
+		"2" "4085"
+		"3" "10679"
+		"4" "3942"
+		"5" "4182"
+		"6" "21"
+		"7" "1721"
+		"8" "5716"
+		"9" "5186"
+		"10" "4166"
+		"11" "3959"
+		"12" "599"
+		"13" "1755"
+		"14" "4155"
+		"15" "5613"
+		"16" "44868"
+		"17" "745697"
+		"18" "492"
+		"19" "122"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Petit Depotto"
+	"publisher" "PLAYISM"
+	"homepage" "https://playism.com/game/gnosia/"
+}
+"config"
+{
+	"installdir" "GNOSIA"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Gnosia.exe"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"1608291"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4465776011688534955"
+				"size" "827983087"
+				"download" "586194608"
+			}
+		}
+	}
+	"baselanguages" "english,schinese,japanese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8298880"
+			"timeupdated" "1646280424"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "27176963"
+"_sha" "b8df3ef77af565f0f844c7e6c847f37442122369"
+"_size" "4865"
