@@ -1,0 +1,678 @@
+"appid" "500"
+"common"
+{
+	"icon" "428df26bc35b09319e31b1ffb712487b20b3245c"
+	"logo" "0f67ee504d8f04ecd83986dd7855821dc21f7a78"
+	"logo_small" "0f67ee504d8f04ecd83986dd7855821dc21f7a78_thumb"
+	"name" "Left 4 Dead"
+	"clienttga" "e0e62581f75fc35153cf4b144fe6e75610373ef3"
+	"clienticon" "dea36504f7c4dac7c657e77a0fac8a274e2af2d3"
+	"metacritic_url" "pc/left4dead"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"bulgarian" "1"
+		"greek" "1"
+		"ukrainian" "1"
+		"vietnamese" "1"
+		"latam" "1"
+	}
+	"clienticns" "364d978c07872082ca329ab240dba825628d61b8"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" ""
+	"type" "game"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1647993600"
+		"tested_build_id" "8119716"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Left 4 Dead"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "50"
+			"height_pct" "48"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "50"
+				"height_pct" "48"
+			}
+		}
+	}
+	"store_asset_mtime" "1682697353"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Valve"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Valve"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_2" "1"
+		"category_8" "1"
+		"category_9" "1"
+		"category_12" "1"
+		"category_13" "1"
+		"category_14" "1"
+		"category_15" "1"
+		"category_16" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_28" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1226908800"
+	"steam_release_date" "1226908800"
+	"metacritic_score" "89"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/left-4-dead\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "500"
+	"store_tags"
+	{
+		"0" "1659"
+		"1" "1685"
+		"2" "3859"
+		"3" "1663"
+		"4" "19"
+		"5" "1667"
+		"6" "1774"
+		"7" "3843"
+		"8" "1662"
+		"9" "5711"
+		"10" "3839"
+		"11" "3835"
+		"12" "4182"
+		"13" "4166"
+		"14" "21"
+		"15" "1669"
+		"16" "1708"
+		"17" "4711"
+		"18" "3878"
+		"19" "7208"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Valve"
+	"gamedir" "left4dead"
+	"homepage" "http://www.l4d.com/"
+	"icon" ""
+	"installscript" "installscript.vdf"
+	"languages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish"
+	"languages_macos" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish"
+	"noservers" "1"
+	"onquitdemomsg" "http://cdn.store.steampowered.com/message/19283435294945210/"
+	"order" "1"
+	"primarycache" "502"
+	"serverbrowsername" "Left 4 Dead"
+	"state" "eStateAvailable"
+	"vacmacmodulecache" "160"
+	"vacmodulecache" "202"
+	"vacmodulefilename" "sourceinit.dat"
+	"validoslist" "windows,macos"
+	"deckresolutionoverride" "Native"
+	"publisher" "Valve"
+	"listofdlc" "1660740"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"usemms" "1"
+	"contenttype" "3"
+	"installdir" "left 4 dead"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "left4dead.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "hl2_osx"
+			"arguments" "-game left4dead"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"systemprofile" "1"
+}
+"depots"
+{
+	"501"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1033288231699696627"
+				"size" "317874215"
+				"download" "108213312"
+			}
+			"steampipe"
+			{
+				"gid" "1033288231699696627"
+				"size" "317874215"
+				"download" "108213312"
+			}
+		}
+	}
+	"502"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7950154663745719820"
+				"size" "3975125103"
+				"download" "2044522048"
+			}
+			"steampipe"
+			{
+				"gid" "7950154663745719820"
+				"size" "3975125103"
+				"download" "2044522048"
+			}
+		}
+	}
+	"503"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "552987824516701103"
+				"size" "6634592"
+				"download" "2163328"
+			}
+			"steampipe"
+			{
+				"gid" "552987824516701103"
+				"size" "6634592"
+				"download" "2163328"
+			}
+		}
+	}
+	"504"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8212197441078172924"
+				"size" "2190485123"
+				"download" "1851249808"
+			}
+			"steampipe"
+			{
+				"gid" "8212197441078172924"
+				"size" "2190485123"
+				"download" "1851249808"
+			}
+		}
+	}
+	"515"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3278262610261574277"
+				"size" "648928349"
+				"download" "574378960"
+			}
+			"steampipe"
+			{
+				"gid" "3278262610261574277"
+				"size" "648928349"
+				"download" "574378960"
+			}
+		}
+	}
+	"509"
+	{
+		"lvcache" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4309044654752076632"
+				"size" "672482163"
+				"download" "645961040"
+			}
+			"steampipe"
+			{
+				"gid" "4309044654752076632"
+				"size" "672482163"
+				"download" "645961040"
+			}
+		}
+	}
+	"505"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5045000053553889222"
+				"size" "1428902685"
+				"download" "995611984"
+			}
+			"steampipe"
+			{
+				"gid" "5045000053553889222"
+				"size" "1428902685"
+				"download" "995611984"
+			}
+		}
+	}
+	"506"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3612476309264296188"
+				"size" "1427836411"
+				"download" "972623088"
+			}
+			"steampipe"
+			{
+				"gid" "3612476309264296188"
+				"size" "1427836411"
+				"download" "972623088"
+			}
+		}
+	}
+	"507"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3651932563014144986"
+				"size" "1622547072"
+				"download" "1162486576"
+			}
+			"steampipe"
+			{
+				"gid" "3651932563014144986"
+				"size" "1622547072"
+				"download" "1162486576"
+			}
+		}
+	}
+	"508"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3774429000353462406"
+				"size" "1422581523"
+				"download" "943738160"
+			}
+			"steampipe"
+			{
+				"gid" "3774429000353462406"
+				"size" "1422581523"
+				"download" "943738160"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17033350"
+			"timeupdated" "1737147723"
+		}
+		"steampipe"
+		{
+			"buildid" "17033350"
+			"timeupdated" "1737147931"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "131072"
+	"maxnumfiles" "20"
+}
+"_missing_token" "False"
+"_change_number" "27334821"
+"_sha" "6c6a7a2aa14c4193fa64f470d53f1cd2c26effc0"
+"_size" "11870"
