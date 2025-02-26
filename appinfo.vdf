@@ -1,0 +1,161 @@
+"appid" "1963720"
+"common"
+{
+	"name" "Core Keeper Dedicated Server"
+	"type" "Tool"
+	"parent" "1621690"
+	"icon" "5ac0dd5629c376aac018bce19309de956750f60a"
+	"clienttga" "06b1a17e606075f789d5be82da4f2f1383ce8c0b"
+	"clienticon" "61ad6cf2936a000a8f004cef2d4b790e76407538"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "1963720"
+}
+"config"
+{
+	"installdir" "Core Keeper Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Launch.bat"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "launch.sh"
+			"type" "server"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "README.txt"
+			"type" "manual"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"3"
+		{
+			"executable" "_readme.sh"
+			"type" "manual"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1963721"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5834914772807539442"
+				"size" "398199809"
+				"download" "116636288"
+			}
+		}
+	}
+	"1963722"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4937650717700202723"
+				"size" "462375678"
+				"download" "117065632"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17107253"
+			"timeupdated" "1738318738"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27671693"
+"_sha" "16a04f07f4dea319e5da932a9c166e1ec48e0c0b"
+"_size" "2223"
