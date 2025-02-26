@@ -1,0 +1,436 @@
+"appid" "761010"
+"common"
+{
+	"name" "Wave Break"
+	"type" "Game"
+	"oslist" "windows,linux"
+	"osarch" ""
+	"logo" "a22401cbb7f6906666d1d0bc969da3bff3053c77"
+	"logo_small" "a22401cbb7f6906666d1d0bc969da3bff3053c77_thumb"
+	"icon" "12101ac78e2003d21e64c1c6d7054d288b64247e"
+	"clienticon" "aeae32ed7aab247a2ae07c3c76c4a2d2d46d3d79"
+	"clienttga" "a5b8eaa5f2f55afb93df7f591a8f6919464ef86d"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1651795200"
+		"tested_build_id" "8426645"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Wave Break"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "57.973743435858964"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "57.973743435858964"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1657047945"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Funktronic Labs"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Funktronic Labs"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_30" "1"
+		"category_17" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1623416491"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "761010"
+	"store_tags"
+	{
+		"0" "96359"
+		"1" "1753"
+		"2" "4106"
+		"3" "4747"
+		"4" "4191"
+		"5" "4195"
+		"6" "1719"
+		"7" "7743"
+		"8" "7948"
+		"9" "3859"
+		"10" "4182"
+		"11" "5228"
+		"12" "4305"
+		"13" "8122"
+		"14" "11104"
+		"15" "10816"
+		"16" "5796"
+		"17" "1773"
+		"18" "1697"
+		"19" "5154"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,demotest,devbuild,events,mono,staging"
+	"developer" "Funktronic Labs"
+	"publisher" "Funktronic Labs"
+	"homepage" "https://wavebreakgame.com/"
+}
+"config"
+{
+	"installdir" "WaveBreak"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WaveBreak.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Windows"
+			}
+			"description" "Windows"
+		}
+		"1"
+		{
+			"executable" "WaveBreak.x86_64"
+			"arguments" "-force-vulkan"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Linux"
+			}
+			"description" "Linux"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+}
+"depots"
+{
+	"workshopdepot" "761010"
+	"hasdepotsindlc" "0"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229000"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"761011"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3113389852585803529"
+				"size" "6830197981"
+				"download" "1761639824"
+			}
+			"events"
+			{
+				"gid" "5597893887154171894"
+				"size" "6254074816"
+				"download" "1683879552"
+			}
+		}
+	}
+	"761012"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5399202784002453269"
+				"size" "7358632257"
+				"download" "1857866608"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9300181"
+			"timeupdated" "1660265215"
+		}
+		"events"
+		{
+			"buildid" "6796042"
+			"timeupdated" "1622592091"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "WaveBreak_Data/SaveData/{64BitSteamID}"
+			"pattern" "*.json"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "WaveBreak_Data/SaveData/{64BitSteamID}"
+			"pattern" "*.backup"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "WaveBreak_Data/SaveData/{64BitSteamID}"
+			"pattern" "*.txt"
+		}
+		"4"
+		{
+			"root" "gameinstall"
+			"path" "WaveBreak_Data/SaveData/DynamicStages/{64BitSteamID}"
+			"pattern" "*.zip"
+		}
+		"5"
+		{
+			"root" "gameinstall"
+			"path" "WaveBreak_Data/SaveData/"
+			"pattern" "SaveData.{64BitSteamID}.json"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27273792"
+"_sha" "2cce9dbb6bb3edda6c15f47051de24f2616c695a"
+"_size" "7446"
