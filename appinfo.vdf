@@ -1,0 +1,138 @@
+"appid" "636750"
+"common"
+{
+	"name" "Oxygen Not Included Uploader"
+	"section_type" "ownersonly"
+	"type" "Tool"
+	"parent" "457140"
+	"releasestate" "unavailable"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"logo" "2d0f2f2392fcce7a53feaf4cfc4b108cae674638"
+	"logo_small" "2d0f2f2392fcce7a53feaf4cfc4b108cae674638_thumb"
+	"icon" "6611975327298e2b9c470552da3f9a0762ecf1c9"
+	"linuxclienticon" "483c30e9ae284dae0cbc7ffb3923fe98fdd4426c"
+	"clienticon" "6eee326146aeb4186df713437b89ee4334a983b7"
+	"clienttga" "bebc8054ae2a84f4da8d7d9406bac07601e994a3"
+	"clienticns" "a550c358b2d466fb2120a5784dac96b418e8cf86"
+	"osextended" "macos64,macosnotarized"
+	"associations"
+	{
+	}
+	"gameid" "636750"
+	"exfgls" "8"
+}
+"config"
+{
+	"installdir" "OxygenNotIncludedUploader"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "OniUploader32.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"1"
+		{
+			"executable" "OniUploader64.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "OniUploader64.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "OniUploader64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"636751"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9177295896340822426"
+				"size" "24756800"
+				"download" "7007600"
+			}
+		}
+	}
+	"636752"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5093985611011931141"
+				"size" "7584964"
+				"download" "2028000"
+			}
+		}
+	}
+	"636753"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6609714419984626367"
+				"size" "5613543"
+				"download" "1609040"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16572897"
+			"timeupdated" "1732846197"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "d559b226e0fb993cefdaa00402cd94b699e8329a"
+"_size" "2174"
