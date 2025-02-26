@@ -1,0 +1,902 @@
+"appid" "218620"
+"common"
+{
+	"name" "PAYDAY 2"
+	"type" "Game"
+	"logo" "4467a70648f49a6b309b41b81b4531f9a20ed99d"
+	"logo_small" "4467a70648f49a6b309b41b81b4531f9a20ed99d_thumb"
+	"icon" "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414"
+	"clienttga" "1ea16c4546fa3a6bdc15481c88d7d82677ee0ad2"
+	"oslist" "windows,linux"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "218620_eula_0"
+			"name" "PAYDAY 2 EULA"
+			"url" "http://store.steampowered.com/eula/218620_eula_0"
+		}
+	}
+	"clienticon" "5b04ab787b900ca6b8dc005b686ef9ed237cd945"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"dutch" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+	}
+	"openvr_controller_bindings"
+	{
+		"0"
+		{
+			"controller_type" "knuckles"
+			"url" "vr-input-workshop://1791692921"
+		}
+	}
+	"openvrsupport" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "7609534"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"market_presence" "1"
+	"metacritic_name" "PAYDAY 2"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "68.07674319568069"
+			"height_pct" "75.34802972294946"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "68.07674319568069"
+				"height_pct" "75.34802972294946"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1726490088"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "OVERKILL - a Starbreeze Studio."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Starbreeze Publishing AB"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "PAYDAY"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_1" "1"
+		"category_35" "1"
+		"category_38" "1"
+		"category_43" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_52" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "1"
+			"full_audio" "1"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "1"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "1"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "1"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "1"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1376392500"
+	"metacritic_score" "79"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/payday-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "218620"
+	"store_tags"
+	{
+		"0" "1685"
+		"1" "19"
+		"2" "1663"
+		"3" "1680"
+		"4" "3859"
+		"5" "353880"
+		"6" "3843"
+		"7" "1687"
+		"8" "6378"
+		"9" "1774"
+		"10" "5711"
+		"11" "3839"
+		"12" "1756"
+		"13" "5765"
+		"14" "1708"
+		"15" "6730"
+		"16" "9"
+		"17" "4182"
+		"18" "4136"
+		"19" "599"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "OVERKILL - a Starbreeze Studio."
+	"gamedir" ""
+	"homepage" "https://www.paydaythegame.com/payday2/"
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"thirdpartycdkey" "1"
+	"visibleonlywhensubscribed" "1"
+	"vrheadsetstreaming" "1"
+	"publisher" "Starbreeze Publishing AB"
+	"listofdlc" "218630,247450,254260,259380,259381,264610,267380,267381,267382,271110,274160,274161,275590,284430,288900,306110,306690,311050,318720,320030,323500,328860,328861,330010,330490,330491,331040,331900,337660,337661,338950,338951,339480,344140,348090,348091,349830,351890,358150,366660,368870,374300,374301,375380,375381,375382,375383,375384,375385,384020,384021,401650,422400,433730,441600,450660,468410,486610,487210,518760,532810,545100,548420,548421"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "PAYDAY 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "payday2_win32_release.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "payday2.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "payday2_release"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "payday2_win32_release_vr.exe"
+			"description" "PAYDAY 2 VR"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "826090"
+			}
+		}
+		"4"
+		{
+			"executable" "payday2_win32_release_vr.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "qa"
+			}
+		}
+		"5"
+		{
+			"executable" "payday2_win32_release.exe"
+			"arguments" "-NewCPU"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "PAYDAY 2 with Modern CPU Support (2021+)"
+			}
+			"description" "PAYDAY 2 with Modern CPU Support (2021+)"
+		}
+	}
+	"usemms" "1"
+	"steamcontrollertemplateindex" "2"
+	"steamcontrollerconfigfileids" "631575961"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2125284196"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"depotdeltapatches" "1"
+	"preloadonly" "1"
+	"markdlcdepots" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,dutch,brazilian,latam"
+	"workshopdepot" "218620"
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229031"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"218621"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5646129736559894459"
+				"size" "88618350278"
+				"download" "35742625360"
+			}
+			"local"
+			{
+				"gid" "4225381265546991631"
+				"size" "56667973382"
+				"download" "24160485344"
+			}
+			"tournament"
+			{
+				"gid" "8800565436597462908"
+				"size" "31033626070"
+				"download" "14795266240"
+			}
+		}
+	}
+	"218623"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7700458186423454139"
+				"size" "0"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "8744533892273923189"
+				"size" "806"
+				"download" "496"
+			}
+			"tournament"
+			{
+				"gid" "8744533892273923189"
+				"size" "806"
+				"download" "496"
+			}
+		}
+	}
+	"218624"
+	{
+		"config"
+		{
+			"language" "dutch"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6736605256120450039"
+				"size" "0"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "715437093760289904"
+				"size" "804"
+				"download" "496"
+			}
+			"tournament"
+			{
+				"gid" "715437093760289904"
+				"size" "804"
+				"download" "496"
+			}
+		}
+	}
+	"218625"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3325538660884987003"
+				"size" "0"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "4027802341854177595"
+				"size" "805"
+				"download" "496"
+			}
+			"tournament"
+			{
+				"gid" "4027802341854177595"
+				"size" "805"
+				"download" "496"
+			}
+		}
+	}
+	"218626"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8111024477834407195"
+				"size" "0"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "8206359729537046208"
+				"size" "805"
+				"download" "496"
+			}
+			"tournament"
+			{
+				"gid" "8206359729537046208"
+				"size" "805"
+				"download" "496"
+			}
+		}
+	}
+	"218627"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5146760485964231618"
+				"size" "0"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "5715404209949621073"
+				"size" "806"
+				"download" "496"
+			}
+			"tournament"
+			{
+				"gid" "5715404209949621073"
+				"size" "806"
+				"download" "496"
+			}
+		}
+	}
+	"218628"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2507768204192281825"
+				"size" "0"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "4132281142213196581"
+				"size" "806"
+				"download" "496"
+			}
+			"tournament"
+			{
+				"gid" "4132281142213196581"
+				"size" "806"
+				"download" "496"
+			}
+		}
+	}
+	"218629"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6307434253818453593"
+				"size" "1352"
+				"download" "656"
+			}
+		}
+	}
+	"218631"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2916203722723946867"
+				"size" "1352"
+				"download" "672"
+			}
+		}
+	}
+	"218633"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+	}
+	"218634"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+	}
+	"218630"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "218630"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5536271309787494781"
+				"size" "0"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "5223593335870345039"
+				"size" "2478715769"
+				"download" "2380851360"
+			}
+			"tournament"
+			{
+				"gid" "5223593335870345039"
+				"size" "2478715769"
+				"download" "2380851360"
+			}
+		}
+	}
+	"254260"
+	{
+		"dlcappid" "254260"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7885621803433237728"
+				"size" "2405537411"
+				"download" "2309672112"
+			}
+			"local"
+			{
+				"gid" "7885621803433237728"
+				"size" "2405537411"
+				"download" "2309672112"
+			}
+			"tournament"
+			{
+				"gid" "7885621803433237728"
+				"size" "2405537411"
+				"download" "2309672112"
+			}
+		}
+	}
+	"368870"
+	{
+		"dlcappid" "368870"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1337488452970909033"
+				"size" "305404591"
+				"download" "296481488"
+			}
+			"local"
+			{
+				"gid" "1337488452970909033"
+				"size" "305404591"
+				"download" "296481488"
+			}
+			"tournament"
+			{
+				"gid" "618964729498860388"
+				"size" "309058853"
+				"download" "293048768"
+			}
+		}
+	}
+	"267381"
+	{
+		"dlcappid" "267381"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8983085739249833412"
+				"size" "412155423"
+				"download" "407782656"
+			}
+			"local"
+			{
+				"gid" "8983085739249833412"
+				"size" "412155423"
+				"download" "407782656"
+			}
+			"tournament"
+			{
+				"gid" "8983085739249833412"
+				"size" "412155423"
+				"download" "407782656"
+			}
+		}
+	}
+	"2076560"
+	{
+		"dlcappid" "2076560"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5245040824892464413"
+				"size" "525357826"
+				"download" "528609888"
+			}
+		}
+	}
+	"218622"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"218632"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7553784073178780379"
+				"size" "88322044800"
+				"download" "35559685168"
+			}
+			"local"
+			{
+				"gid" "6409147770300315496"
+				"size" "57572906710"
+				"download" "24248676896"
+			}
+			"tournament"
+			{
+				"gid" "5203706519506176265"
+				"size" "31102649059"
+				"download" "14650684704"
+			}
+		}
+	}
+	"974460"
+	{
+		"dlcappid" "974460"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7712954533225333834"
+				"size" "1038200271"
+				"download" "1029587920"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15688972"
+			"timeupdated" "1726233659"
+		}
+		"local"
+		{
+			"buildid" "3444511"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1546655246"
+		}
+		"tournament"
+		{
+			"buildid" "1348895"
+			"description" "tournament"
+			"timeupdated" "1503323639"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27668247"
+"_sha" "5d053d2cb2a49bd8571a16b92141245f33d93923"
+"_size" "15008"
