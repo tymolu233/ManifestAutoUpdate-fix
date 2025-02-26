@@ -1,0 +1,717 @@
+"appid" "1294810"
+"common"
+{
+	"name" "Redfall"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"clienticon" "6f63d9fdc2d456f3a30c42bdb05d7219e915d2ab"
+	"clienttga" "4601a3861694d57e8dc09c23a0d2190fb2bfedd2"
+	"icon" "443a0002d184cb5a7f6eff19ce6a66697e49923c"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1294810_eula_0"
+			"name" "Redfall EULA"
+			"url" "https://store.steampowered.com//eula/1294810_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1682640000"
+		"tested_build_id" "10971097"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-1"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "54.5507584597433"
+			"height_pct" "62.53858940869153"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "54.5507584597433"
+				"height_pct" "62.53858940869153"
+			}
+		}
+	}
+	"store_asset_mtime" "1683660085"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Arkane Austin"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bethesda Softworks"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Redfall"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_27" "1"
+		"category_18" "1"
+		"category_61" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1682985751"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1294810"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "1685"
+		"2" "1663"
+		"3" "19"
+		"4" "4106"
+		"5" "21"
+		"6" "1774"
+		"7" "3839"
+		"8" "4018"
+		"9" "3859"
+		"10" "1687"
+		"11" "4182"
+		"12" "9204"
+		"13" "3993"
+		"14" "10808"
+		"15" "1684"
+		"16" "4747"
+		"17" "1742"
+		"18" "7208"
+		"19" "3843"
+	}
+	"review_score" "4"
+	"review_percentage" "36"
+}
+"extended"
+{
+	"developer" "Arkane Austin"
+	"publisher" "Bethesda Softworks"
+	"homepage" "https://bethesda.net/en/game/redfall"
+	"listofdlc" "2253140,2253141"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Redfall"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Redfall\\Binaries\\Win64\\Redfall.exe"
+			"type" "default"
+		}
+		"1"
+		{
+			"executable" "Redfall\\Binaries\\Win64\\Redfall.exe"
+			"arguments" "-messaging -SessionName=\"SteamQA\" -tracefile=C:\\temp\\OmenClientCapture_All.utrace -statnamedevents -trace=log,bookmark,frame,cpu,gpu,loadtime,file,net -noverifygc"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "main"
+			}
+			"description_loc"
+			{
+				"english" "With Insights: All Channels"
+			}
+			"description" "With Insights: All Channels"
+		}
+		"2"
+		{
+			"executable" "Redfall\\Binaries\\Win64\\Redfall.exe"
+			"arguments" "-messaging -SessionName=\"SteamQA\" -tracefile=C:\\temp\\OmenClientCapture_Minimal.utrace -statnamedevents -trace=log,frame,cpu,loadtime,net -noverifygc"
+			"type" "option2"
+			"config"
+			{
+				"betakey" "main"
+			}
+			"description_loc"
+			{
+				"english" "With Insights: Minimal Channels"
+			}
+			"description" "With Insights: Minimal Channels"
+		}
+		"3"
+		{
+			"executable" "Redfall\\Binaries\\Win64\\Redfall.exe"
+			"arguments" "-messaging -SessionName=\"SteamQA\" -tracefile=C:\\temp\\OmenClientCapture_Network.utrace -trace=bookmark,frame,cpu,net -NetTrace=1 -noverifygc"
+			"type" "option3"
+			"config"
+			{
+				"betakey" "main"
+			}
+			"description_loc"
+			{
+				"english" "With Insights: Network Channels"
+			}
+			"description" "With Insights: Network Channels"
+		}
+		"4"
+		{
+			"executable" "Redfall\\Binaries\\Win64\\Redfall.exe"
+			"arguments" "-logPSO"
+			"type" "none"
+			"config"
+			{
+				"betakey" "staging"
+			}
+			"description_loc"
+			{
+				"english" "Collect PSO data"
+			}
+			"description" "Collect PSO data"
+		}
+		"5"
+		{
+			"executable" "Redfall\\Binaries\\Win64\\Redfall.exe"
+			"arguments" "District_01_Adventure_Mode\?ActivateIntroMission=0 -disable_arknet"
+			"config"
+			{
+				"betakey" "buildsystem"
+			}
+			"description_loc"
+			{
+				"english" "Adventure Mode"
+			}
+			"description" "Adventure Mode"
+		}
+		"6"
+		{
+			"executable" "Redfall\\Binaries\\Win64\\Redfall.exe"
+			"arguments" "-logPSO"
+			"config"
+			{
+				"betakey" "main"
+			}
+			"description_loc"
+			{
+				"english" "Collect PSO data"
+			}
+			"description" "Collect PSO data"
+		}
+		"7"
+		{
+			"executable" "Redfall\\Binaries\\Win64\\Redfall-DevelopmentHack.exe"
+			"config"
+			{
+				"betakey" "main"
+			}
+			"description_loc"
+			{
+				"english" "Launch Development Build Hack"
+			}
+			"description" "Launch Development Build Hack"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian"
+	"1294811"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "611111288055243803"
+				"size" "75981862001"
+				"download" "74360505344"
+			}
+		}
+	}
+	"2000870"
+	{
+		"config"
+		{
+			"language" "arabic"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4244481980666485580"
+				"size" "920877"
+				"download" "860704"
+			}
+		}
+	}
+	"1294817"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4130228988908839533"
+				"size" "1158971554"
+				"download" "1088427920"
+			}
+		}
+	}
+	"1294812"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1640595668742610422"
+				"size" "1097800055"
+				"download" "1029840144"
+			}
+		}
+	}
+	"1294818"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6233099047359172688"
+				"size" "1180940681"
+				"download" "1107410128"
+			}
+		}
+	}
+	"2000874"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9101120549688897048"
+				"size" "1169441184"
+				"download" "1097719744"
+			}
+		}
+	}
+	"1294813"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3461496486903081591"
+				"size" "1144387956"
+				"download" "1071595088"
+			}
+		}
+	}
+	"1294814"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8281350851121514675"
+				"size" "1170401218"
+				"download" "1101086000"
+			}
+		}
+	}
+	"1294819"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "428257800804386093"
+				"size" "1199934106"
+				"download" "1127656192"
+			}
+		}
+	}
+	"1294815"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "570605504155453928"
+				"size" "1151626628"
+				"download" "1077714496"
+			}
+		}
+	}
+	"2000871"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2815980388306074581"
+				"size" "887338"
+				"download" "828880"
+			}
+		}
+	}
+	"2000876"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5697908186383491277"
+				"size" "1122622003"
+				"download" "1052743584"
+			}
+		}
+	}
+	"2000875"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+	}
+	"2000873"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1580532080423904695"
+				"size" "1154118828"
+				"download" "1082491232"
+			}
+		}
+	}
+	"1294816"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6429625680295234084"
+				"size" "859060"
+				"download" "802112"
+			}
+		}
+	}
+	"2000872"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7382770052877129767"
+				"size" "854526"
+				"download" "797520"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14381250"
+			"timeupdated" "1717081234"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "Arkane Studios/Redfall/Steam/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26915211"
+"_sha" "8969631d40bd86f34222899e6bc9df7ba749e63a"
+"_size" "12073"
