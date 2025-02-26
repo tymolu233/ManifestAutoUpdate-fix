@@ -1,0 +1,285 @@
+"appid" "617160"
+"common"
+{
+	"name" "Home Sweet Home"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"controllervr"
+	{
+		"xinput" "1"
+		"kbm" "1"
+	}
+	"clienttga" "c7b11691897a56f933f806285415f310e9defc9b"
+	"clienticon" "84909752f972af6ebf659a3408d949bf2253198c"
+	"icon" "4323df2234558938dbcf55f74a4a0414a25b0bf9"
+	"logo" "3ca661bced3041b9ca30feaa3addd8ab6babf647"
+	"logo_small" "3ca661bced3041b9ca30feaa3addd8ab6babf647_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"thai" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"restricted_countries" "DE"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1650499200"
+		"tested_build_id" "2722539"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Home Sweet Home"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_50f13e66ebd4efa88e9fca0496344a894bd4cd88.jpg"
+	"store_asset_mtime" "1515655229"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "YGGDRAZIL GROUP CO.,LTD"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "YGGDRAZIL GROUP CO.,LTD"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_43" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1506495600"
+	"steam_release_date" "1506478179"
+	"community_hub_visible" "1"
+	"gameid" "617160"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "21"
+		"2" "492"
+		"3" "3978"
+		"4" "3859"
+		"5" "4182"
+		"6" "1721"
+		"7" "3839"
+		"8" "4345"
+		"9" "21978"
+		"10" "4166"
+		"11" "1664"
+		"12" "1742"
+		"13" "5900"
+		"14" "4342"
+		"15" "19"
+		"16" "9551"
+		"17" "4242"
+		"18" "6650"
+		"19" "1687"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "YGGDRAZIL GROUP CO.,LTD"
+	"publisher" "YGGDRAZIL GROUP CO.,LTD"
+	"homepage" "https://www.homesweethomegame.com/"
+}
+"config"
+{
+	"installdir" "Home Sweet Home"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HomeSweetHome.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "1"
+	"baselanguages" "english"
+	"617161"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "129600654875059209"
+				"size" "11404972331"
+				"download" "4613033040"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2722539"
+			"timeupdated" "1524722691"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10485760"
+	"maxnumfiles" "30"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "HomeSweetHome/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27427750"
+"_sha" "f889ef2f1e5a332af082d52a57a4276cb7e49c2c"
+"_size" "4932"
