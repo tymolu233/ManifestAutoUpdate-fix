@@ -1,0 +1,707 @@
+"appid" "1176470"
+"common"
+{
+	"name" "Terra Invicta"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "5cbac5d7c1df8492afaa83546a176a73e8328e44"
+	"logo_small" "5cbac5d7c1df8492afaa83546a176a73e8328e44_thumb"
+	"icon" "8c5e5f5252c5fd85b3327c4faca2d30832ecdeb1"
+	"clienticon" "8e155a9a0d50a1b6782d32d23122b8f23479f273"
+	"clienttga" "78ad4829e0794bbd1bfdc68e7f8410879a84b9a6"
+	"linuxclienticon" "8e155a9a0d50a1b6782d32d23122b8f23479f273"
+	"name_localized"
+	{
+		"schinese" "地球不屈 Terra Invicta"
+		"tchinese" "地球不屈 Terra Invicta"
+		"koreana" "Terra Invicta 테라 인빅타  "
+		"japanese" "Terra Invicta テラ・インヴィクタ  "
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1665705600"
+		"tested_build_id" "9593678"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "fce27a17721e0d8f2fff4ee712a497ed66bb1432/capsule_231x87.jpg"
+		"schinese" "78c1533ad343df3ce6867d23a770c3dfad7e653d/capsule_231x87_schinese.jpg"
+		"tchinese" "78c1533ad343df3ce6867d23a770c3dfad7e653d/capsule_231x87_tchinese.jpg"
+		"japanese" "e7ff83e2276723358c1ef8154d43a4d75139cd3a/capsule_231x87_japanese.jpg"
+		"koreana" "c5876e4158d21bc4f416db16625efc1fcf9b56d7/capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw,ja,ko"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "ja,zh-cn,en,zh-tw,ko"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "22.36097396655134"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "89b1d70fa23a270b6b038d256a70508f264b1583/library_600x900.jpg"
+				"schinese" "b27bf62a9f81691d0e2a2766b23799936f68c55a/library_600x900_schinese.jpg"
+				"tchinese" "b27bf62a9f81691d0e2a2766b23799936f68c55a/library_600x900_tchinese.jpg"
+				"japanese" "a7fd0f410f69c270ecb2b69d58bff23ab9acd84a/library_600x900_japanese.jpg"
+				"koreana" "547035d133c333c4c419d9485569d0f9a406fe0b/library_600x900_koreana.jpg"
+			}
+			"image2x"
+			{
+				"english" "89b1d70fa23a270b6b038d256a70508f264b1583/library_600x900_2x.jpg"
+				"schinese" "b27bf62a9f81691d0e2a2766b23799936f68c55a/library_600x900_schinese_2x.jpg"
+				"tchinese" "b27bf62a9f81691d0e2a2766b23799936f68c55a/library_600x900_tchinese_2x.jpg"
+				"japanese" "a7fd0f410f69c270ecb2b69d58bff23ab9acd84a/library_600x900_japanese_2x.jpg"
+				"koreana" "547035d133c333c4c419d9485569d0f9a406fe0b/library_600x900_koreana_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "042a544173a5c1b0c46a13d1e7c0392f87cfcd5a/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "042a544173a5c1b0c46a13d1e7c0392f87cfcd5a/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "042a544173a5c1b0c46a13d1e7c0392f87cfcd5a/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "22.36097396655134"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"japanese" "021349b3100a986b77864bbd3a03c316eb7b81c8/library_header_japanese.jpg"
+				"schinese" "28b5b192460eec04c1921e70187445d0ff5d074b/library_header_schinese.jpg"
+				"english" "9423aad2c3bea9a6a0d135e85140ca7e0a2dd804/library_header.jpg"
+				"tchinese" "78626bcfaa5cc3e6334a01233e7197f1a0e8fe3d/library_header_tchinese.jpg"
+				"koreana" "b6b872e2b4487549d8a32f62c813dd7e90483e99/library_header_koreana.jpg"
+			}
+			"image2x"
+			{
+				"english" "9423aad2c3bea9a6a0d135e85140ca7e0a2dd804/library_header_2x.jpg"
+				"tchinese" "78626bcfaa5cc3e6334a01233e7197f1a0e8fe3d/library_header_tchinese_2x.jpg"
+				"koreana" "b6b872e2b4487549d8a32f62c813dd7e90483e99/library_header_koreana_2x.jpg"
+				"japanese" "021349b3100a986b77864bbd3a03c316eb7b81c8/library_header_japanese_2x.jpg"
+				"schinese" "28b5b192460eec04c1921e70187445d0ff5d074b/library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734828278"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pavonis Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Hooded Horse"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Hooded Horse"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_30" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1664204353"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1176470"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "599"
+		"2" "4364"
+		"3" "1670"
+		"4" "3987"
+		"5" "3810"
+		"6" "4168"
+		"7" "12472"
+		"8" "1678"
+		"9" "6310"
+		"10" "1669"
+		"11" "7107"
+		"12" "1676"
+		"13" "4598"
+		"14" "4182"
+		"15" "4695"
+		"16" "4711"
+		"17" "1708"
+		"18" "4853"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"developer" "Pavonis Interactive"
+	"publisher" "Hooded Horse"
+	"homepage" "https://www.pavonisinteractive.com/"
+}
+"config"
+{
+	"installdir" "Terra Invicta"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TerraInvicta.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "beta"
+			}
+		}
+		"8"
+		{
+			"executable" "TerraInvicta.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "validation"
+			}
+		}
+		"9"
+		{
+			"executable" "TerraInvicta.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "experimental"
+			}
+		}
+		"10"
+		{
+			"executable" "TerraInvicta.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "release"
+			}
+		}
+		"11"
+		{
+			"executable" "Terra-Invicta.app/Contents/MacOS/TerraInvicta"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "mac-validation"
+			}
+		}
+		"12"
+		{
+			"executable" "Terra-Invicta.app/Contents/MacOS/TerraInvicta"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "mac-release"
+			}
+		}
+		"13"
+		{
+			"executable" "TerraInvicta.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "english"
+	"workshopdepot" "1176470"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1176471"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8041600014467518075"
+				"size" "25933484692"
+				"download" "21291163280"
+			}
+			"beta-release"
+			{
+				"gid" "7441997022808018464"
+				"size" "26057314177"
+				"download" "21382086080"
+			}
+			"validation-release"
+			{
+				"gid" "5061173430644027233"
+				"size" "26086219833"
+				"download" "21405214752"
+			}
+			"experimental"
+			{
+				"gid" "7497745970726055345"
+				"size" "26086151656"
+				"download" "21405222224"
+			}
+			"rollback-0-3-107"
+			{
+				"gid" "4660062986234302257"
+				"size" "20812993638"
+				"download" "16296375008"
+			}
+			"rollback-0-3-118"
+			{
+				"gid" "2556949239215933393"
+				"size" "25150367735"
+				"download" "20605652256"
+			}
+			"rollback-0-3-138"
+			{
+				"gid" "538399558052361150"
+				"size" "25188528951"
+				"download" "20637638368"
+			}
+			"rollback-0-3-35"
+			{
+				"gid" "79848757807937725"
+				"size" "20401158955"
+				"download" "15989601344"
+			}
+			"rollback-0-3-49"
+			{
+				"gid" "5404439927330286970"
+				"size" "20408636753"
+				"download" "15993607216"
+			}
+			"rollback-0-3-59"
+			{
+				"gid" "4154699954280865202"
+				"size" "20413670719"
+				"download" "16001640944"
+			}
+			"rollback-0-3-76"
+			{
+				"gid" "8444455761495563168"
+				"size" "20419639193"
+				"download" "16007006208"
+			}
+			"rollback-0-3-99"
+			{
+				"gid" "2431545909369954194"
+				"size" "20600874075"
+				"download" "16113655456"
+			}
+			"rollback-0-4-18"
+			{
+				"gid" "7784002322535845678"
+				"size" "25345611274"
+				"download" "20770322400"
+			}
+			"rollback-0-4-26"
+			{
+				"gid" "2645230615506934570"
+				"size" "25346973197"
+				"download" "20770516192"
+			}
+		}
+	}
+	"1176472"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+		}
+	}
+	"2939040"
+	{
+		"dlcappid" "2939040"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2471507827232603259"
+				"size" "2280670951"
+				"download" "2022149792"
+			}
+			"beta-release"
+			{
+				"gid" "2471507827232603259"
+				"size" "2280670951"
+				"download" "2022149792"
+			}
+			"validation-release"
+			{
+				"gid" "2471507827232603259"
+				"size" "2280670951"
+				"download" "2022149792"
+			}
+			"experimental"
+			{
+				"gid" "2471507827232603259"
+				"size" "2280670951"
+				"download" "2022149792"
+			}
+			"rollback-0-3-107"
+			{
+				"gid" "2471507827232603259"
+				"size" "2280670951"
+				"download" "2022149792"
+			}
+			"rollback-0-3-118"
+			{
+				"gid" "2471507827232603259"
+				"size" "2280670951"
+				"download" "2022149792"
+			}
+			"rollback-0-3-138"
+			{
+				"gid" "2471507827232603259"
+				"size" "2280670951"
+				"download" "2022149792"
+			}
+			"rollback-0-3-35"
+			{
+				"gid" "2471507827232603259"
+				"size" "2280670951"
+				"download" "2022149792"
+			}
+			"rollback-0-3-49"
+			{
+				"gid" "2471507827232603259"
+				"size" "2280670951"
+				"download" "2022149792"
+			}
+			"rollback-0-3-59"
+			{
+				"gid" "2471507827232603259"
+				"size" "2280670951"
+				"download" "2022149792"
+			}
+			"rollback-0-3-76"
+			{
+				"gid" "2471507827232603259"
+				"size" "2280670951"
+				"download" "2022149792"
+			}
+			"rollback-0-3-99"
+			{
+				"gid" "2471507827232603259"
+				"size" "2280670951"
+				"download" "2022149792"
+			}
+			"rollback-0-4-18"
+			{
+				"gid" "2471507827232603259"
+				"size" "2280670951"
+				"download" "2022149792"
+			}
+			"rollback-0-4-26"
+			{
+				"gid" "2471507827232603259"
+				"size" "2280670951"
+				"download" "2022149792"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15747128"
+			"timeupdated" "1726689582"
+		}
+		"beta-release"
+		{
+			"buildid" "17098650"
+			"description" "0.4.52"
+			"timeupdated" "1740536330"
+		}
+		"validation-release"
+		{
+			"buildid" "17372615"
+			"description" "0.4.58"
+			"timeupdated" "1740536366"
+		}
+		"experimental"
+		{
+			"buildid" "17506799"
+			"description" "0.4.59"
+			"timeupdated" "1740533807"
+		}
+		"rollback-0-3-107"
+		{
+			"buildid" "15747238"
+			"description" "0.3.107"
+			"timeupdated" "1726690176"
+		}
+		"rollback-0-3-118"
+		{
+			"buildid" "15747246"
+			"description" "0.3.118"
+			"timeupdated" "1726690241"
+		}
+		"rollback-0-3-138"
+		{
+			"buildid" "15747249"
+			"description" "0.3.138"
+			"timeupdated" "1726690256"
+		}
+		"rollback-0-3-35"
+		{
+			"buildid" "15747255"
+			"description" "0.3.35"
+			"timeupdated" "1726690279"
+		}
+		"rollback-0-3-49"
+		{
+			"buildid" "15747263"
+			"description" "0.3.49"
+			"timeupdated" "1726690317"
+		}
+		"rollback-0-3-59"
+		{
+			"buildid" "15747284"
+			"description" "0.3.59"
+			"timeupdated" "1726690443"
+		}
+		"rollback-0-3-76"
+		{
+			"buildid" "15747295"
+			"description" "0.3.76"
+			"timeupdated" "1726690524"
+		}
+		"rollback-0-3-99"
+		{
+			"buildid" "15747298"
+			"description" "0.3.99"
+			"timeupdated" "1726690541"
+		}
+		"rollback-0-4-18"
+		{
+			"buildid" "15747304"
+			"description" "0.4.18"
+			"timeupdated" "1726690563"
+		}
+		"rollback-0-4-26"
+		{
+			"buildid" "15747316"
+			"description" "0.4.26"
+			"timeupdated" "1726690605"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "8388608000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/TerraInvicta/Saves/"
+			"pattern" "*.json"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/TerraInvicta/Saves/"
+			"pattern" "*.gz"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27667376"
+"_sha" "4cdc29b07ff276d00f7648278f523adf16defac2"
+"_size" "14627"
