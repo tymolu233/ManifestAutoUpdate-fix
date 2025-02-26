@@ -1,0 +1,274 @@
+"appid" "1296970"
+"common"
+{
+	"name" "Zombieland VR: Headshot Fever"
+	"type" "Game"
+	"releasestate" "released"
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "2d279564ddb21e547c69040eee3579ff5f3ec0f2"
+	"logo_small" "2d279564ddb21e547c69040eee3579ff5f3ec0f2_thumb"
+	"icon" "8bbe2d3b00ba2ca5729c97bfbed4fe50b843fc00"
+	"clienttga" "b33d2c9a8f536a386a2a9f10ebb74bf2ce34675c"
+	"clienticon" "8d13eb3188a3fb2633f45578704c7d352c257766"
+	"clienticns" "7fb8b34c51a16663397441b1753ed5ed1f572e6e"
+	"linuxclienticon" "ca125a1cb72ad8c37b94c19e8d551c74422bedb9"
+	"openvrsupport" "1"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "79.06976744186048"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "79.06976744186048"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1667209602"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "XR Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "XR Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Sony Pictures Virtual Reality (SPVR)"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Zombieland"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_25" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_52" "1"
+		"category_54" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1627577940"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1296970"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "21978"
+		"1" "56690"
+		"2" "1773"
+		"3" "5154"
+		"4" "5796"
+		"5" "19"
+		"6" "1659"
+		"7" "1774"
+		"8" "17770"
+		"9" "13190"
+		"10" "3839"
+		"11" "4252"
+		"12" "6625"
+		"13" "4835"
+		"14" "6730"
+		"15" "4182"
+		"16" "699"
+		"17" "1663"
+		"18" "5765"
+		"19" "3835"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "XR Games"
+	"publisher" "XR Games"
+	"homepage" "https://www.zombielandvrgame.com"
+}
+"config"
+{
+	"installdir" "Zombieland VR Headshot Fever"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ZombielandVR.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Zombieland"
+			}
+			"description" "Zombieland"
+		}
+		"1"
+		{
+			"executable" "ZombielandVR.exe"
+			"arguments" "-graphics-safe-mode"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Zombieland -- Graphics Safe Mode"
+			}
+			"description" "Zombieland -- Graphics Safe Mode"
+		}
+	}
+}
+"depots"
+{
+	"1296971"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5902019715534820874"
+				"size" "8855345819"
+				"download" "2148179040"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9459570"
+			"timeupdated" "1662563693"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "XR Games/zombieland_vr_headshot_fever"
+			"pattern" "*.json"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26954642"
+"_sha" "92575b28c574960bc3a0edffafa58d6d5e82e7dc"
+"_size" "4463"
