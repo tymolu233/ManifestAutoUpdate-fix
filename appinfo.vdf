@@ -1,0 +1,544 @@
+"appid" "967050"
+"common"
+{
+	"name" "Pacify"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"logo" "c5198416b722fafd379a416606ecdd44334fb0f5"
+	"logo_small" "c5198416b722fafd379a416606ecdd44334fb0f5_thumb"
+	"icon" "58100bbcafa4244c8ea086d8de1208787c44c7e0"
+	"clienticon" "65dcfab692d1ebf0a7f9e2463c1448ffa3a19d40"
+	"clienttga" "fc37a75faf204ce213d9e6a93a93443f97e6be70"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1645747200"
+		"tested_build_id" "8189285"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "33.59952903778063"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "33.59952903778063"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1708618658"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Shawn Hitchcock"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Hitchcock Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_27" "1"
+		"category_25" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_49" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1550865725"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "967050"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "3843"
+		"2" "3859"
+		"3" "1721"
+		"4" "1685"
+		"5" "3978"
+		"6" "3834"
+		"7" "3839"
+		"8" "10808"
+		"9" "3942"
+		"10" "4342"
+		"11" "5125"
+		"12" "9541"
+		"13" "5716"
+		"14" "4106"
+		"15" "6730"
+		"16" "4064"
+		"17" "4166"
+		"18" "21"
+		"19" "16689"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Shawn Hitchcock"
+	"publisher" "Hitchcock Games"
+}
+"config"
+{
+	"installdir" "Pacify"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Pacify.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Pacify.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"967051"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2767967813248720154"
+				"size" "2738336479"
+				"download" "2539575408"
+			}
+			"beforevoicechat"
+			{
+				"gid" "2596031047179860178"
+				"size" "4581281767"
+				"download" "2188568320"
+			}
+			"beforewoodsupdate"
+			{
+				"gid" "956979588960452256"
+				"size" "4882500210"
+				"download" "2327941024"
+			}
+			"beforelastupdate"
+			{
+				"gid" "8776328153087146076"
+				"size" "2737935755"
+				"download" "2539204704"
+			}
+		}
+	}
+	"967052"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4289640111343383449"
+				"size" "2547913174"
+				"download" "2372346112"
+			}
+			"beforevoicechat"
+			{
+				"gid" "2775818209891412246"
+				"size" "4727333909"
+				"download" "2288219248"
+			}
+			"beforewoodsupdate"
+			{
+				"gid" "7320454687369854624"
+				"size" "4896127290"
+				"download" "2391476608"
+			}
+			"beforelastupdate"
+			{
+				"gid" "7446047750781643410"
+				"size" "2547528243"
+				"download" "2371983072"
+			}
+		}
+	}
+	"967053"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"steamdeck" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7360878306830354340"
+				"size" "2738336516"
+				"download" "2542041632"
+			}
+			"beforelastupdate"
+			{
+				"gid" "6587702386118890818"
+				"size" "2737935792"
+				"download" "2541672800"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15498557"
+			"timeupdated" "1724711833"
+		}
+		"beforevoicechat"
+		{
+			"buildid" "5697819"
+			"description" "Pre voice chat build"
+			"timeupdated" "1602983341"
+		}
+		"beforewoodsupdate"
+		{
+			"buildid" "5856843"
+			"description" "PACIFY before the woods update"
+			"timeupdated" "1644266792"
+		}
+		"beforelastupdate"
+		{
+			"buildid" "13990405"
+			"description" "This is the game before the most recent update"
+			"timeupdated" "1724711854"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Pacify/Saved/SaveGames"
+			"pattern" "pacify*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26998583"
+"_sha" "592914b4981a85882c130a91c018b63f3d6872f6"
+"_size" "9060"
