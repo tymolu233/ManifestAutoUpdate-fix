@@ -1,0 +1,5863 @@
+"appid" "337000"
+"common"
+{
+	"name" "Deus Ex: Mankind Divided™"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"icon" "90a596fcc9934c7fe20d1202bca2c6fc80375d54"
+	"logo" "092d516fd9e9abd05ed0182a9d57695d9b9b1285"
+	"logo_small" "092d516fd9e9abd05ed0182a9d57695d9b9b1285_thumb"
+	"clienticon" "3a8f466c197558e03ce430ce1657b23fb87eec4e"
+	"clienttga" "8951ec13267acba4cd6a40a24519d6549599f1e8"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "337000_eula_0"
+			"name" "Deus Ex: Mankind Divided™ EULA"
+			"url" "http://store.steampowered.com//eula/337000_eula_0"
+			"version" "4"
+		}
+	}
+	"osarch" ""
+	"linuxclienticon" "6cade7fb1c0aa3fe1a95da7d0b47a7d6b8f94fbd"
+	"sortas" "Deus Ex 5: Mankind Divided™"
+	"clienticns" "455763a95751eff962927c9041a3b7a6318b5d09"
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1666742400"
+		"tested_build_id" "3355064"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"metacritic_name" "Deus Ex: Mankind Divided"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "45"
+			"height_pct" "44"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "45"
+				"height_pct" "44"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1660684121"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Eidos Montreal"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Feral Interactive (Linux)"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Feral Interactive (Mac)"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Eidos Interactive Corp."
+		}
+		"4"
+		{
+			"type" "publisher"
+			"name" "Feral Interactive (Linux)"
+		}
+		"5"
+		{
+			"type" "publisher"
+			"name" "Feral Interactive (Mac)"
+		}
+		"6"
+		{
+			"type" "franchise"
+			"name" "Deus Ex"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1471935600"
+	"steam_release_date" "1471968000"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/deus-ex-mankind-divided\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "337000"
+	"store_tags"
+	{
+		"0" "4115"
+		"1" "1687"
+		"2" "122"
+		"3" "3942"
+		"4" "1742"
+		"5" "19"
+		"6" "4166"
+		"7" "4182"
+		"8" "4295"
+		"9" "3839"
+		"10" "7478"
+		"11" "9204"
+		"12" "1663"
+		"13" "1756"
+		"14" "1695"
+		"15" "1774"
+		"16" "5372"
+		"17" "5030"
+		"18" "4137"
+		"19" "21"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "Eidos Montreal"
+	"publisher" "Eidos Interactive Corp."
+	"gamemanualurl" "https://store.steampowered.com/manual/337000/"
+	"listofdlc" "366150,413360,413370,413380,413390,442900,442990,470070,476950,476951,476952,477150,477151,609220"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Deus Ex Mankind Divided"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "retail\\DXMD.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "release\\engine.exe"
+			"arguments" "-launcher"
+			"description" "Release"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "amd1, amd_master, denuvo, dxmd_playtest, eidosmontreal_devteam, latest, microsoft1, nvidia, nvidia_fixed, qa1, qa2, qa3_localization, qa4_compat, razer, tobii, master, nixxes_dev, nixxes_qa, qa5_localization, qa6_patch,nixxes_dev2"
+				"ownsdlc" "443870"
+			}
+		}
+		"2"
+		{
+			"executable" "gamerelease\\engine.exe"
+			"description" "GameRelease"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "amd1, amd_master, denuvo, dxmd_playtest, eidosmontreal_devteam, latest, microsoft1, nvidia, nvidia_fixed, qa1, qa2, qa3_localization, qa4_compat, razer, tobii, master, nixxes_dev, nixxes_qa, qa5_localization, qa6_patch,nixxes_dev2"
+				"ownsdlc" "443870"
+			}
+		}
+		"5"
+		{
+			"executable" "gamerelease\\engine.exe"
+			"arguments" "-nolauncher"
+			"description" "E3 Demo"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "e3_demo, e3_microsoft"
+			}
+		}
+		"6"
+		{
+			"executable" "gamerelease\\engine.exe"
+			"arguments" "-vrdemo -nolauncher"
+			"description" "E3 Demo VR"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "e3_demo, e3_demo_breach, vr_experience"
+			}
+		}
+		"7"
+		{
+			"executable" "gamerelease\\engine.exe"
+			"arguments" "-nolauncher -ao ShowBreachDemo true"
+			"description" "E3 Demo"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "e3_demo_breach"
+			}
+		}
+		"8"
+		{
+			"executable" "Deus Ex Mankind Divided.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"9"
+		{
+			"executable" "DeusExMD.sh"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigfileids" "733217241"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"337001"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6668233308299956634"
+				"size" "36510175586"
+				"download" "20217353344"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "6668233308299956634"
+				"size" "36510175586"
+				"download" "20217353344"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "3694391535649821896"
+				"size" "40505540549"
+				"download" "19653683568"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "3694391535649821896"
+				"size" "40505540549"
+				"download" "19653683568"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "3694391535649821896"
+				"size" "40505540549"
+				"download" "19653683568"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "4128687234461013178"
+				"size" "51233225609"
+				"download" "20840705680"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "5592190463653995037"
+				"size" "52535981296"
+				"download" "20739668560"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "5648436750848125505"
+				"size" "52536012240"
+				"download" "20739685632"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "1831043181991934940"
+				"size" "36592925872"
+				"download" "20258350112"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "5574224607450511236"
+				"size" "36493188130"
+				"download" "20214092176"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "5574224607450511236"
+				"size" "36493188130"
+				"download" "20214092176"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "8823853192916884802"
+				"size" "36493188609"
+				"download" "20214089328"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "6065508706846200226"
+				"size" "36509718238"
+				"download" "20217267200"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "6668233308299956634"
+				"size" "36510175586"
+				"download" "20217353344"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "3694391535649821896"
+				"size" "40505540549"
+				"download" "19653683568"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "3694391535649821896"
+				"size" "40505540549"
+				"download" "19653683568"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "8141044001489174203"
+				"size" "41355026676"
+				"download" "19703526224"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "8141044001489174203"
+				"size" "41355026676"
+				"download" "19703526224"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "1655052028077037758"
+				"size" "45160581469"
+				"download" "20311343664"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "1893631020943657323"
+				"size" "50670170592"
+				"download" "20824758288"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "8514729606804366265"
+				"size" "51232866057"
+				"download" "20840391264"
+			}
+		}
+	}
+	"337002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8765950038138732330"
+				"size" "213240880"
+				"download" "90503760"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "8765950038138732330"
+				"size" "213240880"
+				"download" "90503760"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "8512444044074338455"
+				"size" "128678640"
+				"download" "81456656"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "7987334934732575104"
+				"size" "133851888"
+				"download" "87164704"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "199083822304283611"
+				"size" "135995120"
+				"download" "89232448"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "1725082836307968552"
+				"size" "203151012"
+				"download" "94199296"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "8085874360460203708"
+				"size" "199638180"
+				"download" "90068448"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "1146418691871311128"
+				"size" "199548068"
+				"download" "89864832"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "2556020050020349273"
+				"size" "200046244"
+				"download" "91261424"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "7496352326348083370"
+				"size" "208485028"
+				"download" "97983184"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "4764685206411334132"
+				"size" "204560548"
+				"download" "94896736"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "5587420855170552126"
+				"size" "215668784"
+				"download" "92127584"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "6960137171122617916"
+				"size" "220342320"
+				"download" "97019520"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "502305031837333094"
+				"size" "216432176"
+				"download" "93945120"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "4797047945980616687"
+				"size" "132381328"
+				"download" "84251888"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "8230251307937179564"
+				"size" "132545680"
+				"download" "84507120"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "7576526974798015994"
+				"size" "193650588"
+				"download" "90688608"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "7401862005467338544"
+				"size" "201078388"
+				"download" "93771792"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "5465869479940994826"
+				"size" "194224244"
+				"download" "87217776"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "8966188378234793227"
+				"size" "198667428"
+				"download" "88862336"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "6329425508115567978"
+				"size" "198519044"
+				"download" "90710832"
+			}
+		}
+	}
+	"337003"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "443870"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8597102239001072091"
+				"size" "5348000451"
+				"download" "766565456"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "8597102239001072091"
+				"size" "5348000451"
+				"download" "766565456"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "2393216403004262147"
+				"size" "4927373773"
+				"download" "735344048"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "5581164961562988028"
+				"size" "4928432647"
+				"download" "735822848"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "1436471554134235975"
+				"size" "4932394607"
+				"download" "736300016"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "9151654620030154584"
+				"size" "5178839105"
+				"download" "754623648"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "3430755908921882805"
+				"size" "5280994325"
+				"download" "766486400"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "7245831762222577191"
+				"size" "5398122579"
+				"download" "776314032"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "4203773255100891700"
+				"size" "5232192013"
+				"download" "755840640"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "480476963719976319"
+				"size" "5298174353"
+				"download" "762238832"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "6959224459384428382"
+				"size" "4857146818"
+				"download" "711599072"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "3517320627824010795"
+				"size" "5339093622"
+				"download" "766040496"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "8871155652869126135"
+				"size" "5348971410"
+				"download" "767296128"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "677404169618710135"
+				"size" "5347998945"
+				"download" "766857328"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "1502288666057984148"
+				"size" "4934875197"
+				"download" "736988768"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "2986178179703648550"
+				"size" "4934981640"
+				"download" "737670304"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "5373586979641019429"
+				"size" "5130661177"
+				"download" "751039760"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "5644616488804673796"
+				"size" "5139219404"
+				"download" "751256272"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "8307143969079746555"
+				"size" "5143055362"
+				"download" "752425952"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "3228332364882546202"
+				"size" "5156257203"
+				"download" "753500800"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "8827615327761925883"
+				"size" "5176018458"
+				"download" "754246048"
+			}
+		}
+	}
+	"366150"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "366150"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9048829369121758221"
+				"size" "5417596149"
+				"download" "2599231632"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "9048829369121758221"
+				"size" "5417596149"
+				"download" "2599231632"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "2258402909723627355"
+				"size" "5417283043"
+				"download" "2598488432"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "2258402909723627355"
+				"size" "5417283043"
+				"download" "2598488432"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "2258402909723627355"
+				"size" "5417283043"
+				"download" "2598488432"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "7335457725465802667"
+				"size" "5417330309"
+				"download" "2599088448"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "7094133695108234869"
+				"size" "5417330309"
+				"download" "2599088288"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "4428551143176732629"
+				"size" "5417330309"
+				"download" "2599088336"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "4428551143176732629"
+				"size" "5417330309"
+				"download" "2599088336"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "4428551143176732629"
+				"size" "5417330309"
+				"download" "2599088336"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "4428551143176732629"
+				"size" "5417330309"
+				"download" "2599088336"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "9048829369121758221"
+				"size" "5417596149"
+				"download" "2599231632"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "9048829369121758221"
+				"size" "5417596149"
+				"download" "2599231632"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "9048829369121758221"
+				"size" "5417596149"
+				"download" "2599231632"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "2258402909723627355"
+				"size" "5417283043"
+				"download" "2598488432"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "2258402909723627355"
+				"size" "5417283043"
+				"download" "2598488432"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "2258402909723627355"
+				"size" "5417283043"
+				"download" "2598488432"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "2258402909723627355"
+				"size" "5417283043"
+				"download" "2598488432"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "1717065265701541414"
+				"size" "5417335621"
+				"download" "2599093808"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "5381247680175528193"
+				"size" "5417330309"
+				"download" "2599088336"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "6051944724327478918"
+				"size" "5417330309"
+				"download" "2599088288"
+			}
+		}
+	}
+	"413384"
+	{
+		"dlcappid" "609220"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7918328844330443191"
+				"size" "2747319620"
+				"download" "1403644080"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "7918328844330443191"
+				"size" "2747319620"
+				"download" "1403644080"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "6459967006873810966"
+				"size" "4977635119"
+				"download" "2234492528"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "6459967006873810966"
+				"size" "4977635119"
+				"download" "2234492528"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "7566492555123907669"
+				"size" "4978976572"
+				"download" "2236953776"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "7918328844330443191"
+				"size" "2747319620"
+				"download" "1403644080"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "7918328844330443191"
+				"size" "2747319620"
+				"download" "1403644080"
+			}
+		}
+	}
+	"413360"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "413360"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2352448240913664637"
+				"size" "9633805534"
+				"download" "5450332384"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "2352448240913664637"
+				"size" "9633805534"
+				"download" "5450332384"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "631023561970236121"
+				"size" "9482836245"
+				"download" "5294437520"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "631023561970236121"
+				"size" "9482836245"
+				"download" "5294437520"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "631023561970236121"
+				"size" "9482836245"
+				"download" "5294437520"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "6928792518082603235"
+				"size" "9633538610"
+				"download" "5450227616"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "4557157260864004761"
+				"size" "9633538610"
+				"download" "5450227648"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "5209118326397534287"
+				"size" "9633538610"
+				"download" "5450227632"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "5209118326397534287"
+				"size" "9633538610"
+				"download" "5450227632"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "5209118326397534287"
+				"size" "9633538610"
+				"download" "5450227632"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "5209118326397534287"
+				"size" "9633538610"
+				"download" "5450227632"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "2352448240913664637"
+				"size" "9633805534"
+				"download" "5450332384"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "2352448240913664637"
+				"size" "9633805534"
+				"download" "5450332384"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "2352448240913664637"
+				"size" "9633805534"
+				"download" "5450332384"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "631023561970236121"
+				"size" "9482836245"
+				"download" "5294437520"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "631023561970236121"
+				"size" "9482836245"
+				"download" "5294437520"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "631023561970236121"
+				"size" "9482836245"
+				"download" "5294437520"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "631023561970236121"
+				"size" "9482836245"
+				"download" "5294437520"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "5402271874974472142"
+				"size" "9647368475"
+				"download" "5450562256"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "328131377315559146"
+				"size" "9633538610"
+				"download" "5450227744"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "2589681213893107551"
+				"size" "9633538610"
+				"download" "5450227632"
+			}
+		}
+	}
+	"413385"
+	{
+		"dlcappid" "609220"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7006059857888007637"
+				"size" "856448098"
+				"download" "742117712"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "7006059857888007637"
+				"size" "856448098"
+				"download" "742117712"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "5908851988286365324"
+				"size" "7776857536"
+				"download" "3837396448"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "5908851988286365324"
+				"size" "7776857536"
+				"download" "3837396448"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "7969190387707404686"
+				"size" "7798385714"
+				"download" "3883465168"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "1146312900393166609"
+				"size" "0"
+				"download" "0"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "7006059857888007637"
+				"size" "856448098"
+				"download" "742117712"
+			}
+		}
+	}
+	"413370"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "413370"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1755777515047647009"
+				"size" "8565157625"
+				"download" "4477754464"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "1755777515047647009"
+				"size" "8565157625"
+				"download" "4477754464"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "8617637927251024911"
+				"size" "333399290"
+				"download" "129437872"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "8617637927251024911"
+				"size" "333399290"
+				"download" "129437872"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "8617637927251024911"
+				"size" "333399290"
+				"download" "129437872"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "9004868773689938077"
+				"size" "437599670"
+				"download" "176062544"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "5896892730834660638"
+				"size" "437599670"
+				"download" "176062688"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "7059813996475119062"
+				"size" "437599670"
+				"download" "176062800"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "6694185081774555868"
+				"size" "8517781080"
+				"download" "4441172512"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "7940546395528774322"
+				"size" "8564746240"
+				"download" "4477650240"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "7940546395528774322"
+				"size" "8564746240"
+				"download" "4477650240"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "4984970539555665266"
+				"size" "8565157625"
+				"download" "4477755008"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "1755777515047647009"
+				"size" "8565157625"
+				"download" "4477754464"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "1755777515047647009"
+				"size" "8565157625"
+				"download" "4477754464"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "8617637927251024911"
+				"size" "333399290"
+				"download" "129437872"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "8617637927251024911"
+				"size" "333399290"
+				"download" "129437872"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "8617637927251024911"
+				"size" "333399290"
+				"download" "129437872"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "8617637927251024911"
+				"size" "333399290"
+				"download" "129437872"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "2773472240599972815"
+				"size" "351744842"
+				"download" "146986672"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "5181001190030332490"
+				"size" "437599670"
+				"download" "176062432"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "1610084747242858617"
+				"size" "437599670"
+				"download" "176062800"
+			}
+		}
+	}
+	"413386"
+	{
+		"dlcappid" "609220"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6901912452772955517"
+				"size" "926458515"
+				"download" "747942992"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "6901912452772955517"
+				"size" "926458515"
+				"download" "747942992"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "7511079661939729561"
+				"size" "7123206672"
+				"download" "3279968896"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "7511079661939729561"
+				"size" "7123206672"
+				"download" "3279968896"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "4014292147399461855"
+				"size" "7353848039"
+				"download" "3389741440"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "2034116495888734117"
+				"size" "0"
+				"download" "0"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "2034116495888734117"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"476950"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "476950"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8778308140915500539"
+				"size" "169335001"
+				"download" "57579392"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "8778308140915500539"
+				"size" "169335001"
+				"download" "57579392"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "7911821769047311707"
+				"size" "169335001"
+				"download" "57579376"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "7911821769047311707"
+				"size" "169335001"
+				"download" "57579376"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "7911821769047311707"
+				"size" "169335001"
+				"download" "57579376"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "7360596209640078376"
+				"size" "169335001"
+				"download" "57579328"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "4775719020231145716"
+				"size" "169335001"
+				"download" "57579328"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "5073425221578040955"
+				"size" "169335001"
+				"download" "57579328"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "5073425221578040955"
+				"size" "169335001"
+				"download" "57579328"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "5073425221578040955"
+				"size" "169335001"
+				"download" "57579328"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "5073425221578040955"
+				"size" "169335001"
+				"download" "57579328"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "8778308140915500539"
+				"size" "169335001"
+				"download" "57579392"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "8778308140915500539"
+				"size" "169335001"
+				"download" "57579392"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "8778308140915500539"
+				"size" "169335001"
+				"download" "57579392"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "7911821769047311707"
+				"size" "169335001"
+				"download" "57579376"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "7911821769047311707"
+				"size" "169335001"
+				"download" "57579376"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "7911821769047311707"
+				"size" "169335001"
+				"download" "57579376"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "7911821769047311707"
+				"size" "169335001"
+				"download" "57579376"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "3231921128842707934"
+				"size" "169335001"
+				"download" "57579328"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "7577544079295072343"
+				"size" "169335001"
+				"download" "57579360"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "674100104034410965"
+				"size" "169335001"
+				"download" "57579344"
+			}
+		}
+	}
+	"476951"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "476951"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1116062803971033812"
+				"size" "43953416"
+				"download" "14009872"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "1116062803971033812"
+				"size" "43953416"
+				"download" "14009872"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "7739964895565076343"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "7739964895565076343"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "7739964895565076343"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "4800690094171414023"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "8674474065576854509"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "7134405918531571433"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "7134405918531571433"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "7134405918531571433"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "7134405918531571433"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "1116062803971033812"
+				"size" "43953416"
+				"download" "14009872"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "1116062803971033812"
+				"size" "43953416"
+				"download" "14009872"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "1116062803971033812"
+				"size" "43953416"
+				"download" "14009872"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "7739964895565076343"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "7739964895565076343"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "7739964895565076343"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "7739964895565076343"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "7412244006480612961"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "2566197951973946175"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "7054226941238650227"
+				"size" "43953416"
+				"download" "14009888"
+			}
+		}
+	}
+	"476952"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "476952"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "630947030089599915"
+				"size" "63973731"
+				"download" "18594416"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "630947030089599915"
+				"size" "63973731"
+				"download" "18594416"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "814582958628963462"
+				"size" "63973731"
+				"download" "18594400"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "814582958628963462"
+				"size" "63973731"
+				"download" "18594400"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "814582958628963462"
+				"size" "63973731"
+				"download" "18594400"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "6528052906753309718"
+				"size" "63973731"
+				"download" "18594416"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "7355426804062600838"
+				"size" "63973731"
+				"download" "18594448"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "6109772264925855677"
+				"size" "63973731"
+				"download" "18594400"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "6109772264925855677"
+				"size" "63973731"
+				"download" "18594400"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "6109772264925855677"
+				"size" "63973731"
+				"download" "18594400"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "6109772264925855677"
+				"size" "63973731"
+				"download" "18594400"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "630947030089599915"
+				"size" "63973731"
+				"download" "18594416"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "630947030089599915"
+				"size" "63973731"
+				"download" "18594416"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "630947030089599915"
+				"size" "63973731"
+				"download" "18594416"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "814582958628963462"
+				"size" "63973731"
+				"download" "18594400"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "814582958628963462"
+				"size" "63973731"
+				"download" "18594400"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "814582958628963462"
+				"size" "63973731"
+				"download" "18594400"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "814582958628963462"
+				"size" "63973731"
+				"download" "18594400"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "7655749786917613113"
+				"size" "63973731"
+				"download" "18594432"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "6443569731575197412"
+				"size" "63973731"
+				"download" "18594432"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "1977416855807488379"
+				"size" "63973731"
+				"download" "18594432"
+			}
+		}
+	}
+	"477150"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "477150"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1101235673317407690"
+				"size" "5998681"
+				"download" "4789488"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "1101235673317407690"
+				"size" "5998681"
+				"download" "4789488"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "4354647802809464971"
+				"size" "5998537"
+				"download" "4789440"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "4354647802809464971"
+				"size" "5998537"
+				"download" "4789440"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "4354647802809464971"
+				"size" "5998537"
+				"download" "4789440"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "3645004293457545795"
+				"size" "5998537"
+				"download" "4789408"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "3608249882935318283"
+				"size" "5998537"
+				"download" "4789376"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "6531285477332205027"
+				"size" "5998537"
+				"download" "4789424"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "6531285477332205027"
+				"size" "5998537"
+				"download" "4789424"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "6531285477332205027"
+				"size" "5998537"
+				"download" "4789424"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "6531285477332205027"
+				"size" "5998537"
+				"download" "4789424"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "1101235673317407690"
+				"size" "5998681"
+				"download" "4789488"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "1101235673317407690"
+				"size" "5998681"
+				"download" "4789488"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "1101235673317407690"
+				"size" "5998681"
+				"download" "4789488"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "4354647802809464971"
+				"size" "5998537"
+				"download" "4789440"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "4354647802809464971"
+				"size" "5998537"
+				"download" "4789440"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "4354647802809464971"
+				"size" "5998537"
+				"download" "4789440"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "4354647802809464971"
+				"size" "5998537"
+				"download" "4789440"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "5654843146451327351"
+				"size" "5998537"
+				"download" "4789376"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "1536619801350414402"
+				"size" "5998537"
+				"download" "4789424"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "2219432811878300078"
+				"size" "5998537"
+				"download" "4789424"
+			}
+		}
+	}
+	"413389"
+	{
+		"dlcappid" "609220"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7364281999334094693"
+				"size" "5974532"
+				"download" "4783152"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "7364281999334094693"
+				"size" "5974532"
+				"download" "4783152"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "4510091847144594895"
+				"size" "5974532"
+				"download" "4783216"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "7364281999334094693"
+				"size" "5974532"
+				"download" "4783152"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "7364281999334094693"
+				"size" "5974532"
+				"download" "4783152"
+			}
+		}
+	}
+	"477151"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "477151"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3777241133537679067"
+				"size" "2517730"
+				"download" "1823568"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "3777241133537679067"
+				"size" "2517730"
+				"download" "1823568"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "6472139765602839900"
+				"size" "2517586"
+				"download" "1823536"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "6472139765602839900"
+				"size" "2517586"
+				"download" "1823536"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "6472139765602839900"
+				"size" "2517586"
+				"download" "1823536"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "6054319797773104293"
+				"size" "2517586"
+				"download" "1823472"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "5078846746211809788"
+				"size" "2517586"
+				"download" "1823584"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "7584921856011185651"
+				"size" "2517586"
+				"download" "1823472"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "7584921856011185651"
+				"size" "2517586"
+				"download" "1823472"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "7584921856011185651"
+				"size" "2517586"
+				"download" "1823472"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "7584921856011185651"
+				"size" "2517586"
+				"download" "1823472"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "3777241133537679067"
+				"size" "2517730"
+				"download" "1823568"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "3777241133537679067"
+				"size" "2517730"
+				"download" "1823568"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "3777241133537679067"
+				"size" "2517730"
+				"download" "1823568"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "6472139765602839900"
+				"size" "2517586"
+				"download" "1823536"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "6472139765602839900"
+				"size" "2517586"
+				"download" "1823536"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "6472139765602839900"
+				"size" "2517586"
+				"download" "1823536"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "6472139765602839900"
+				"size" "2517586"
+				"download" "1823536"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "8571395099432623126"
+				"size" "2517586"
+				"download" "1823552"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "590562688233747548"
+				"size" "2517586"
+				"download" "1823472"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "1065518255469416707"
+				"size" "2517586"
+				"download" "1823552"
+			}
+		}
+	}
+	"413388"
+	{
+		"dlcappid" "609220"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8601669071484218190"
+				"size" "2507408"
+				"download" "1820832"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "8601669071484218190"
+				"size" "2507408"
+				"download" "1820832"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "6322378278552336399"
+				"size" "2507408"
+				"download" "1820896"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "8601669071484218190"
+				"size" "2507408"
+				"download" "1820832"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "8601669071484218190"
+				"size" "2507408"
+				"download" "1820832"
+			}
+		}
+	}
+	"442900"
+	{
+		"dlcappid" "442900"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5531191860350022579"
+				"size" "331934672"
+				"download" "294610144"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "5531191860350022579"
+				"size" "331934672"
+				"download" "294610144"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "2643634000743676755"
+				"size" "331961296"
+				"download" "294633024"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "2643634000743676755"
+				"size" "331961296"
+				"download" "294633024"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "2643634000743676755"
+				"size" "331961296"
+				"download" "294633024"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "5531191860350022579"
+				"size" "331934672"
+				"download" "294610144"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "5531191860350022579"
+				"size" "331934672"
+				"download" "294610144"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "5531191860350022579"
+				"size" "331934672"
+				"download" "294610144"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "5531191860350022579"
+				"size" "331934672"
+				"download" "294610144"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "5531191860350022579"
+				"size" "331934672"
+				"download" "294610144"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "5531191860350022579"
+				"size" "331934672"
+				"download" "294610144"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "5531191860350022579"
+				"size" "331934672"
+				"download" "294610144"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "5531191860350022579"
+				"size" "331934672"
+				"download" "294610144"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "5531191860350022579"
+				"size" "331934672"
+				"download" "294610144"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "2643634000743676755"
+				"size" "331961296"
+				"download" "294633024"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "2643634000743676755"
+				"size" "331961296"
+				"download" "294633024"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "5531191860350022579"
+				"size" "331934672"
+				"download" "294610144"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "5531191860350022579"
+				"size" "331934672"
+				"download" "294610144"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "5531191860350022579"
+				"size" "331934672"
+				"download" "294610144"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "5531191860350022579"
+				"size" "331934672"
+				"download" "294610144"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "5531191860350022579"
+				"size" "331934672"
+				"download" "294610144"
+			}
+		}
+	}
+	"337004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "354702960842082285"
+				"size" "1610691852"
+				"download" "1429743968"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "354702960842082285"
+				"size" "1610691852"
+				"download" "1429743968"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "2754868180993010963"
+				"size" "1750848440"
+				"download" "1475843776"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "2754868180993010963"
+				"size" "1750848440"
+				"download" "1475843776"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "2754868180993010963"
+				"size" "1750848440"
+				"download" "1475843776"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "2190090211061660036"
+				"size" "1785789053"
+				"download" "1482211600"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "1192136881005402412"
+				"size" "1785727997"
+				"download" "1483126848"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "8899955915876873145"
+				"size" "1785727997"
+				"download" "1483126848"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "3568182811123415733"
+				"size" "1593718840"
+				"download" "1413567408"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "1418337486979845303"
+				"size" "1610348124"
+				"download" "1429643936"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "1418337486979845303"
+				"size" "1610348124"
+				"download" "1429643936"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "2755068722841641878"
+				"size" "1610348124"
+				"download" "1429644016"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "4652097457976588913"
+				"size" "1610691852"
+				"download" "1429743968"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "354702960842082285"
+				"size" "1610691852"
+				"download" "1429743968"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "2754868180993010963"
+				"size" "1750848440"
+				"download" "1475843776"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "2754868180993010963"
+				"size" "1750848440"
+				"download" "1475843776"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "7960268924888781496"
+				"size" "1750848440"
+				"download" "1475843776"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "7960268924888781496"
+				"size" "1750848440"
+				"download" "1475843776"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "1027317485969628820"
+				"size" "1750863828"
+				"download" "1475844544"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "8760345197703169319"
+				"size" "1785789053"
+				"download" "1482211600"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "8578906617663979971"
+				"size" "1785789053"
+				"download" "1482211600"
+			}
+		}
+	}
+	"337005"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8762475669553822527"
+				"size" "1535218300"
+				"download" "1361281968"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "8762475669553822527"
+				"size" "1535218300"
+				"download" "1361281968"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "6073889676088576805"
+				"size" "1669021320"
+				"download" "1407949856"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "6073889676088576805"
+				"size" "1669021320"
+				"download" "1407949856"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "6073889676088576805"
+				"size" "1669021320"
+				"download" "1407949856"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "5293005628527271382"
+				"size" "1697003533"
+				"download" "1413252112"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "7576838485096219527"
+				"size" "1697003533"
+				"download" "1413252112"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "8539413268075794707"
+				"size" "1697003533"
+				"download" "1413252112"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "5624887941371181100"
+				"size" "1518415208"
+				"download" "1345421184"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "6001543985974865154"
+				"size" "1534870684"
+				"download" "1361180608"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "6001543985974865154"
+				"size" "1534870684"
+				"download" "1361180608"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "6723929381076966515"
+				"size" "1534874572"
+				"download" "1361182272"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "6109332194368862668"
+				"size" "1535218300"
+				"download" "1361281968"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "8762475669553822527"
+				"size" "1535218300"
+				"download" "1361281968"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "6073889676088576805"
+				"size" "1669021320"
+				"download" "1407949856"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "6073889676088576805"
+				"size" "1669021320"
+				"download" "1407949856"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "1813224295823230522"
+				"size" "1669021320"
+				"download" "1407949856"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "1813224295823230522"
+				"size" "1669021320"
+				"download" "1407949856"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "7722446694399778270"
+				"size" "1669036600"
+				"download" "1407950848"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "2058119358882711064"
+				"size" "1697003533"
+				"download" "1413252064"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "5356236660741146650"
+				"size" "1697003533"
+				"download" "1413252096"
+			}
+		}
+	}
+	"337006"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7171976716772974234"
+				"size" "1627348796"
+				"download" "1439770816"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "7171976716772974234"
+				"size" "1627348796"
+				"download" "1439770816"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "2276590708391151865"
+				"size" "1773221336"
+				"download" "1487545184"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "2276590708391151865"
+				"size" "1773221336"
+				"download" "1487545184"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "2276590708391151865"
+				"size" "1773221336"
+				"download" "1487545184"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "8801990882074090444"
+				"size" "1800926061"
+				"download" "1492297632"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "8692109465602436213"
+				"size" "1800926061"
+				"download" "1492297600"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "6790455937315288039"
+				"size" "1800926061"
+				"download" "1492297600"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "1851830038664152573"
+				"size" "1610104936"
+				"download" "1423480288"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "3069685796782340364"
+				"size" "1627005084"
+				"download" "1439671056"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "3069685796782340364"
+				"size" "1627005084"
+				"download" "1439671056"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "7671759259321017905"
+				"size" "1627005068"
+				"download" "1439671200"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "1858094952928977230"
+				"size" "1627348796"
+				"download" "1439770816"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "7171976716772974234"
+				"size" "1627348796"
+				"download" "1439770816"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "2276590708391151865"
+				"size" "1773221336"
+				"download" "1487545184"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "2276590708391151865"
+				"size" "1773221336"
+				"download" "1487545184"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "5771960679478085331"
+				"size" "1773221336"
+				"download" "1487545184"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "5771960679478085331"
+				"size" "1773221336"
+				"download" "1487545184"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "4633995352880572629"
+				"size" "1773236616"
+				"download" "1487546800"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "6532515069054916199"
+				"size" "1800926061"
+				"download" "1492297600"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "5084291910996413359"
+				"size" "1800926061"
+				"download" "1492297616"
+			}
+		}
+	}
+	"337007"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1119656480693718472"
+				"size" "3038217560"
+				"download" "2660090448"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "1119656480693718472"
+				"size" "3038217560"
+				"download" "2660090448"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "871682812832837387"
+				"size" "3297326945"
+				"download" "2747595808"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "871682812832837387"
+				"size" "3297326945"
+				"download" "2747595808"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "871682812832837387"
+				"size" "3297326945"
+				"download" "2747595808"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "1400785099617217987"
+				"size" "3367539578"
+				"download" "2760354016"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "3072964997017978355"
+				"size" "3367539578"
+				"download" "2760353968"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "6293806957629012068"
+				"size" "3367539578"
+				"download" "2760353968"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "1320884601193482492"
+				"size" "3003966096"
+				"download" "2627756032"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "2373671382008069486"
+				"size" "3037530344"
+				"download" "2659890656"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "2373671382008069486"
+				"size" "3037530344"
+				"download" "2659890656"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "6277374534691456982"
+				"size" "3037530104"
+				"download" "2659891088"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "8112681887544416445"
+				"size" "3038217560"
+				"download" "2660090448"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "1119656480693718472"
+				"size" "3038217560"
+				"download" "2660090448"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "871682812832837387"
+				"size" "3297326945"
+				"download" "2747595808"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "871682812832837387"
+				"size" "3297326945"
+				"download" "2747595808"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "8146342614689400270"
+				"size" "3297326945"
+				"download" "2747595792"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "8146342614689400270"
+				"size" "3297326945"
+				"download" "2747595792"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "7816061693154884949"
+				"size" "3297357505"
+				"download" "2747598304"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "6899058200623526203"
+				"size" "3367539578"
+				"download" "2760353968"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "2456798098525653511"
+				"size" "3367539578"
+				"download" "2760354000"
+			}
+		}
+	}
+	"337008"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4341191837595763577"
+				"size" "1715986172"
+				"download" "1524796704"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "4341191837595763577"
+				"size" "1715986172"
+				"download" "1524796704"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "7433810379154224337"
+				"size" "1868996264"
+				"download" "1571472992"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "7433810379154224337"
+				"size" "1868996264"
+				"download" "1571472992"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "7433810379154224337"
+				"size" "1868996264"
+				"download" "1571472992"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "301637576527740235"
+				"size" "1898662845"
+				"download" "1577327136"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "8753115287535342309"
+				"size" "1898662845"
+				"download" "1577327104"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "7780866629993624538"
+				"size" "1898662845"
+				"download" "1577327072"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "1722111876755472590"
+				"size" "1699642456"
+				"download" "1509398448"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "2536895038799983902"
+				"size" "1715642524"
+				"download" "1524696976"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "2536895038799983902"
+				"size" "1715642524"
+				"download" "1524696976"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "881488513114489641"
+				"size" "1715642444"
+				"download" "1524696688"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "2745444354499193339"
+				"size" "1715986172"
+				"download" "1524796704"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "4341191837595763577"
+				"size" "1715986172"
+				"download" "1524796704"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "7433810379154224337"
+				"size" "1868996264"
+				"download" "1571472992"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "7433810379154224337"
+				"size" "1868996264"
+				"download" "1571472992"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "6955434674845233030"
+				"size" "1868996264"
+				"download" "1571472992"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "6955434674845233030"
+				"size" "1868996264"
+				"download" "1571472992"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "5470953992383457004"
+				"size" "1869011544"
+				"download" "1571473712"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "1312334989436283586"
+				"size" "1898662845"
+				"download" "1577327120"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "90873046574961869"
+				"size" "1898662845"
+				"download" "1577327120"
+			}
+		}
+	}
+	"337009"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9150461269455315618"
+				"size" "1667844204"
+				"download" "1476316304"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "9150461269455315618"
+				"size" "1667844204"
+				"download" "1476316304"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "3072504412224211772"
+				"size" "1813506056"
+				"download" "1525958480"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "3072504412224211772"
+				"size" "1813506056"
+				"download" "1525958480"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "3072504412224211772"
+				"size" "1813506056"
+				"download" "1525958480"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "1953283229722034678"
+				"size" "1842806493"
+				"download" "1531348336"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "4497917245606574859"
+				"size" "1842806493"
+				"download" "1531348304"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "6188051809107063312"
+				"size" "1842806493"
+				"download" "1531348336"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "5135818902104989892"
+				"size" "1650290744"
+				"download" "1459754320"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "6182523512868337993"
+				"size" "1667501660"
+				"download" "1476216496"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "6182523512868337993"
+				"size" "1667501660"
+				"download" "1476216496"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "4813798207130943139"
+				"size" "1667500476"
+				"download" "1476216256"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "3906889962765019055"
+				"size" "1667844204"
+				"download" "1476316304"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "9150461269455315618"
+				"size" "1667844204"
+				"download" "1476316304"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "3072504412224211772"
+				"size" "1813506056"
+				"download" "1525958480"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "3072504412224211772"
+				"size" "1813506056"
+				"download" "1525958480"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "897461941159533514"
+				"size" "1813506056"
+				"download" "1525958480"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "897461941159533514"
+				"size" "1813506056"
+				"download" "1525958480"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "8321432131212861792"
+				"size" "1813521336"
+				"download" "1525960432"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "8203192792796954074"
+				"size" "1842806493"
+				"download" "1531348320"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "2061639123831681475"
+				"size" "1842806493"
+				"download" "1531348320"
+			}
+		}
+	}
+	"609220"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "609220"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "307236511594510994"
+				"size" "0"
+				"download" "0"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "307236511594510994"
+				"size" "0"
+				"download" "0"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "307236511594510994"
+				"size" "0"
+				"download" "0"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "307236511594510994"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"337010"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "609220"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8294845441434438108"
+				"size" "10049624039"
+				"download" "8839182320"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "8294845441434438108"
+				"size" "10049624039"
+				"download" "8839182320"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "652682633793341871"
+				"size" "1751178936"
+				"download" "1475941392"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "652682633793341871"
+				"size" "1751178936"
+				"download" "1475941392"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "652682633793341871"
+				"size" "1751178936"
+				"download" "1475941392"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "3763266765120228030"
+				"size" "1786117869"
+				"download" "1482308448"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "1868868197261580898"
+				"size" "1786056813"
+				"download" "1483226096"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "6393872406219665631"
+				"size" "1786056813"
+				"download" "1483226096"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "6393872406219665631"
+				"size" "1786056813"
+				"download" "1483226096"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "6393872406219665631"
+				"size" "1786056813"
+				"download" "1483226096"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "6393872406219665631"
+				"size" "1786056813"
+				"download" "1483226096"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "5567564356738394964"
+				"size" "38915900056"
+				"download" "23063787936"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "4819953098051505236"
+				"size" "9547723275"
+				"download" "8343661424"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "4819953098051505236"
+				"size" "9547723275"
+				"download" "8343661424"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "652682633793341871"
+				"size" "1751178936"
+				"download" "1475941392"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "652682633793341871"
+				"size" "1751178936"
+				"download" "1475941392"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "7673704081209829648"
+				"size" "1751178936"
+				"download" "1475941392"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "7673704081209829648"
+				"size" "1751178936"
+				"download" "1475941392"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "269771715469042661"
+				"size" "1751194216"
+				"download" "1475942096"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "3184114022541075539"
+				"size" "1786117869"
+				"download" "1482308416"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "7230072768790006858"
+				"size" "1786117869"
+				"download" "1482308432"
+			}
+		}
+	}
+	"337011"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6872230212013764914"
+				"size" "1544510748"
+				"download" "1352366272"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "6872230212013764914"
+				"size" "1544510748"
+				"download" "1352366272"
+			}
+			"v1.0_build524.6"
+			{
+				"gid" "1333903177592287234"
+				"size" "1678520424"
+				"download" "1393625104"
+			}
+			"v1.0_build524.7"
+			{
+				"gid" "1333903177592287234"
+				"size" "1678520424"
+				"download" "1393625104"
+			}
+			"v1.1_build524.10"
+			{
+				"gid" "1333903177592287234"
+				"size" "1678520424"
+				"download" "1393625104"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "2444020841938610484"
+				"size" "1705331205"
+				"download" "1396749792"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "179418239137198060"
+				"size" "1705331205"
+				"download" "1396749808"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "3396508548693889528"
+				"size" "1705331205"
+				"download" "1396749824"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "5702658390159229892"
+				"size" "1527022344"
+				"download" "1335839600"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "3135607536587237211"
+				"size" "1544169308"
+				"download" "1352267760"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "3135607536587237211"
+				"size" "1544169308"
+				"download" "1352267760"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "2173484327935762076"
+				"size" "1544167020"
+				"download" "1352266448"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "982118658473119534"
+				"size" "1544510748"
+				"download" "1352366272"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "6872230212013764914"
+				"size" "1544510748"
+				"download" "1352366272"
+			}
+			"v1.2_build524.15"
+			{
+				"gid" "1333903177592287234"
+				"size" "1678520424"
+				"download" "1393625104"
+			}
+			"v1.3_build524.17"
+			{
+				"gid" "1333903177592287234"
+				"size" "1678520424"
+				"download" "1393625104"
+			}
+			"v1.4_build545.4"
+			{
+				"gid" "3030800650559923292"
+				"size" "1678520424"
+				"download" "1393625104"
+			}
+			"v1.4_build545.5"
+			{
+				"gid" "3030800650559923292"
+				"size" "1678520424"
+				"download" "1393625104"
+			}
+			"v1.7_build551.7"
+			{
+				"gid" "7179737082016090138"
+				"size" "1678535704"
+				"download" "1393625808"
+			}
+			"v1.8_build565.4"
+			{
+				"gid" "4213535659184276104"
+				"size" "1705331205"
+				"download" "1396749744"
+			}
+			"v1.9_build582.1"
+			{
+				"gid" "9098732413628146370"
+				"size" "1705331205"
+				"download" "1396749792"
+			}
+		}
+	}
+	"337012"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "914916679015199477"
+				"size" "38333870845"
+				"download" "22318607600"
+			}
+			"local"
+			{
+				"gid" "850388468053413467"
+				"size" "68412054479"
+				"download" "27328409552"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "914916679015199477"
+				"size" "38333870845"
+				"download" "22318607600"
+			}
+		}
+	}
+	"337013"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8539090845409719100"
+				"size" "322769355"
+				"download" "69897712"
+			}
+			"local"
+			{
+				"gid" "5348531537588119210"
+				"size" "290918808"
+				"download" "50411680"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "8539090845409719100"
+				"size" "322769355"
+				"download" "69897712"
+			}
+		}
+	}
+	"337014"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5819265329724322730"
+				"size" "38333870845"
+				"download" "22307740928"
+			}
+			"local"
+			{
+				"gid" "6152522744134174523"
+				"size" "37618029980"
+				"download" "21286919856"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "6615441044717416805"
+				"size" "39574470722"
+				"download" "23189933344"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "7884944166002833608"
+				"size" "52855086732"
+				"download" "22287896480"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "4624561165293038642"
+				"size" "54168651486"
+				"download" "22179717968"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "4624561165293038642"
+				"size" "54168651486"
+				"download" "22179717968"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "4624561165293038642"
+				"size" "54168651486"
+				"download" "22179717968"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "4624561165293038642"
+				"size" "54168651486"
+				"download" "22179717968"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "4624561165293038642"
+				"size" "54168651486"
+				"download" "22179717968"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "6615441044717416805"
+				"size" "39574470722"
+				"download" "23189933344"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "6615441044717416805"
+				"size" "39574470722"
+				"download" "23189933344"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "6615441044717416805"
+				"size" "39574470722"
+				"download" "23189933344"
+			}
+		}
+	}
+	"337015"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7368727735777442190"
+				"size" "472284008"
+				"download" "109043904"
+			}
+			"local"
+			{
+				"gid" "7105933128841738127"
+				"size" "452449010"
+				"download" "101216880"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "8154044859999507066"
+				"size" "462921193"
+				"download" "101756752"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "4014970001289968128"
+				"size" "461472466"
+				"download" "103185104"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "328488999740266784"
+				"size" "461582656"
+				"download" "103236608"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "328488999740266784"
+				"size" "461582656"
+				"download" "103236608"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "328488999740266784"
+				"size" "461582656"
+				"download" "103236608"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "328488999740266784"
+				"size" "461582656"
+				"download" "103236608"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "328488999740266784"
+				"size" "461582656"
+				"download" "103236608"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "8154044859999507066"
+				"size" "462921193"
+				"download" "101756752"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "8154044859999507066"
+				"size" "462921193"
+				"download" "101756752"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "8154044859999507066"
+				"size" "462921193"
+				"download" "101756752"
+			}
+		}
+	}
+	"337016"
+	{
+		"dlcappid" "366150"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "535717798446318762"
+				"size" "5401959332"
+				"download" "2588367152"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "535717798446318762"
+				"size" "5401959332"
+				"download" "2588367152"
+			}
+		}
+	}
+	"337017"
+	{
+		"dlcappid" "413360"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "633152576771456940"
+				"size" "9605605835"
+				"download" "5438434688"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "633152576771456940"
+				"size" "9605605835"
+				"download" "5438434688"
+			}
+		}
+	}
+	"337018"
+	{
+		"dlcappid" "413370"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "614952605973483148"
+				"size" "8633579967"
+				"download" "4561341408"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "614952605973483148"
+				"size" "8633579967"
+				"download" "4561341408"
+			}
+		}
+	}
+	"337019"
+	{
+		"dlcappid" "476950"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "592050554649584691"
+				"size" "169335001"
+				"download" "57579392"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "592050554649584691"
+				"size" "169335001"
+				"download" "57579392"
+			}
+		}
+	}
+	"366151"
+	{
+		"dlcappid" "476951"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "568468963200407662"
+				"size" "43953416"
+				"download" "14009872"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "568468963200407662"
+				"size" "43953416"
+				"download" "14009872"
+			}
+		}
+	}
+	"366152"
+	{
+		"dlcappid" "476952"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "431494794578118728"
+				"size" "63973731"
+				"download" "18594416"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "431494794578118728"
+				"size" "63973731"
+				"download" "18594416"
+			}
+		}
+	}
+	"366153"
+	{
+		"dlcappid" "477150"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "186316879254759898"
+				"size" "2433511"
+				"download" "1450784"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "186316879254759898"
+				"size" "2433511"
+				"download" "1450784"
+			}
+		}
+	}
+	"366154"
+	{
+		"dlcappid" "477151"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1240653560535310690"
+				"size" "2421235"
+				"download" "1736672"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "1240653560535310690"
+				"size" "2421235"
+				"download" "1736672"
+			}
+		}
+	}
+	"366155"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "148643767293024074"
+				"size" "1610691852"
+				"download" "1429682048"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "148643767293024074"
+				"size" "1610691852"
+				"download" "1429682048"
+			}
+		}
+	}
+	"366156"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "461625044730152973"
+				"size" "1535218300"
+				"download" "1361223680"
+			}
+			"local"
+			{
+				"gid" "4713934401401894369"
+				"size" "1697003533"
+				"download" "1411451120"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "461625044730152973"
+				"size" "1535218300"
+				"download" "1361223680"
+			}
+		}
+	}
+	"366157"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "572710362350748799"
+				"size" "1627348796"
+				"download" "1439712976"
+			}
+			"local"
+			{
+				"gid" "703462496392360812"
+				"size" "1800926061"
+				"download" "1494085440"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "572710362350748799"
+				"size" "1627348796"
+				"download" "1439712976"
+			}
+		}
+	}
+	"366158"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "95744788353280589"
+				"size" "3038217560"
+				"download" "2660133008"
+			}
+			"local"
+			{
+				"gid" "4324139016906640939"
+				"size" "3367539578"
+				"download" "2762534256"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "95744788353280589"
+				"size" "3038217560"
+				"download" "2660133008"
+			}
+		}
+	}
+	"366159"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "38096570567282695"
+				"size" "1715986172"
+				"download" "1524794400"
+			}
+			"local"
+			{
+				"gid" "6959346440231102720"
+				"size" "1898662845"
+				"download" "1582682080"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "38096570567282695"
+				"size" "1715986172"
+				"download" "1524794400"
+			}
+		}
+	}
+	"413361"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "833871986961553789"
+				"size" "1667844204"
+				"download" "1476271664"
+			}
+			"local"
+			{
+				"gid" "3968928693178015883"
+				"size" "1842806493"
+				"download" "1531394128"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "833871986961553789"
+				"size" "1667844204"
+				"download" "1476271664"
+			}
+		}
+	}
+	"413362"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "609220"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "445291091895937501"
+				"size" "11056514009"
+				"download" "10060218368"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "445291091895937501"
+				"size" "11056514009"
+				"download" "10060218368"
+			}
+		}
+	}
+	"413363"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "441164942654164665"
+				"size" "1544510748"
+				"download" "1352345408"
+			}
+			"local"
+			{
+				"gid" "5513509943030346918"
+				"size" "1705331205"
+				"download" "1395830784"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "441164942654164665"
+				"size" "1544510748"
+				"download" "1352345408"
+			}
+		}
+	}
+	"413364"
+	{
+		"dlcappid" "366150"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5297375217695668346"
+				"size" "5401959332"
+				"download" "2587170464"
+			}
+			"local"
+			{
+				"gid" "6285072623480519291"
+				"size" "5417330309"
+				"download" "2601193216"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "5954555683579327634"
+				"size" "5417596149"
+				"download" "2601340272"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "60309159824514026"
+				"size" "5417330309"
+				"download" "2601193328"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "1549613444066805400"
+				"size" "5417330309"
+				"download" "2601193168"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "1549613444066805400"
+				"size" "5417330309"
+				"download" "2601193168"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "1549613444066805400"
+				"size" "5417330309"
+				"download" "2601193168"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "1549613444066805400"
+				"size" "5417330309"
+				"download" "2601193168"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "1549613444066805400"
+				"size" "5417330309"
+				"download" "2601193168"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "5954555683579327634"
+				"size" "5417596149"
+				"download" "2601340272"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "5954555683579327634"
+				"size" "5417596149"
+				"download" "2601340272"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "5954555683579327634"
+				"size" "5417596149"
+				"download" "2601340272"
+			}
+		}
+	}
+	"413365"
+	{
+		"dlcappid" "413360"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6355311110811931493"
+				"size" "9605605835"
+				"download" "5433646816"
+			}
+			"local"
+			{
+				"gid" "1801807377707056157"
+				"size" "9194130942"
+				"download" "5020961008"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "8690430138673807260"
+				"size" "9194397866"
+				"download" "5021084112"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "4232251691994121947"
+				"size" "9194130942"
+				"download" "5020960976"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "2738595577414367362"
+				"size" "9194130942"
+				"download" "5020961008"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "2738595577414367362"
+				"size" "9194130942"
+				"download" "5020961008"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "2738595577414367362"
+				"size" "9194130942"
+				"download" "5020961008"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "2738595577414367362"
+				"size" "9194130942"
+				"download" "5020961008"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "2738595577414367362"
+				"size" "9194130942"
+				"download" "5020961008"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "8690430138673807260"
+				"size" "9194397866"
+				"download" "5021084112"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "8690430138673807260"
+				"size" "9194397866"
+				"download" "5021084112"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "8690430138673807260"
+				"size" "9194397866"
+				"download" "5021084112"
+			}
+		}
+	}
+	"413366"
+	{
+		"dlcappid" "413370"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7534836122494475028"
+				"size" "8633579967"
+				"download" "4557410208"
+			}
+			"local"
+			{
+				"gid" "4033980068145155308"
+				"size" "437402654"
+				"download" "177974944"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "2472639173827383791"
+				"size" "7856884472"
+				"download" "3906348416"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "8510299750037568223"
+				"size" "437402654"
+				"download" "177974736"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "7676101876606424149"
+				"size" "437402654"
+				"download" "177974880"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "7676101876606424149"
+				"size" "437402654"
+				"download" "177974880"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "7676101876606424149"
+				"size" "437402654"
+				"download" "177974880"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "7676101876606424149"
+				"size" "437402654"
+				"download" "177974880"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "7676101876606424149"
+				"size" "437402654"
+				"download" "177974880"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "2472639173827383791"
+				"size" "7856884472"
+				"download" "3906348416"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "2472639173827383791"
+				"size" "7856884472"
+				"download" "3906348416"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "2472639173827383791"
+				"size" "7856884472"
+				"download" "3906348416"
+			}
+		}
+	}
+	"413367"
+	{
+		"dlcappid" "476950"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3953180847140378756"
+				"size" "169335001"
+				"download" "57579392"
+			}
+			"local"
+			{
+				"gid" "1874052602688218907"
+				"size" "169335001"
+				"download" "57579248"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "3953180847140378756"
+				"size" "169335001"
+				"download" "57579392"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "5574036447224198458"
+				"size" "169335001"
+				"download" "57579328"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "6650344432145004029"
+				"size" "169335001"
+				"download" "57579328"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "6650344432145004029"
+				"size" "169335001"
+				"download" "57579328"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "6650344432145004029"
+				"size" "169335001"
+				"download" "57579328"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "6650344432145004029"
+				"size" "169335001"
+				"download" "57579328"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "6650344432145004029"
+				"size" "169335001"
+				"download" "57579328"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "3953180847140378756"
+				"size" "169335001"
+				"download" "57579392"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "3953180847140378756"
+				"size" "169335001"
+				"download" "57579392"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "3953180847140378756"
+				"size" "169335001"
+				"download" "57579392"
+			}
+		}
+	}
+	"413368"
+	{
+		"dlcappid" "476951"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2344336898133778977"
+				"size" "43953416"
+				"download" "14009872"
+			}
+			"local"
+			{
+				"gid" "2129878602356636586"
+				"size" "43953416"
+				"download" "14009904"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "2344336898133778977"
+				"size" "43953416"
+				"download" "14009872"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "197812147464235697"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "5353283961898471565"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "5353283961898471565"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "5353283961898471565"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "5353283961898471565"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "5353283961898471565"
+				"size" "43953416"
+				"download" "14009888"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "2344336898133778977"
+				"size" "43953416"
+				"download" "14009872"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "2344336898133778977"
+				"size" "43953416"
+				"download" "14009872"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "2344336898133778977"
+				"size" "43953416"
+				"download" "14009872"
+			}
+		}
+	}
+	"413369"
+	{
+		"dlcappid" "476952"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2615968351428632537"
+				"size" "63973731"
+				"download" "18594416"
+			}
+			"local"
+			{
+				"gid" "3329850474978579179"
+				"size" "63973731"
+				"download" "18594432"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "2615968351428632537"
+				"size" "63973731"
+				"download" "18594416"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "2502404694271890996"
+				"size" "63973731"
+				"download" "18594416"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "3538583650966291444"
+				"size" "63973731"
+				"download" "18594448"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "3538583650966291444"
+				"size" "63973731"
+				"download" "18594448"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "3538583650966291444"
+				"size" "63973731"
+				"download" "18594448"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "3538583650966291444"
+				"size" "63973731"
+				"download" "18594448"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "3538583650966291444"
+				"size" "63973731"
+				"download" "18594448"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "2615968351428632537"
+				"size" "63973731"
+				"download" "18594416"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "2615968351428632537"
+				"size" "63973731"
+				"download" "18594416"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "2615968351428632537"
+				"size" "63973731"
+				"download" "18594416"
+			}
+		}
+	}
+	"413371"
+	{
+		"dlcappid" "477150"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4272475740160653796"
+				"size" "2433511"
+				"download" "1450784"
+			}
+			"local"
+			{
+				"gid" "7325682864756120555"
+				"size" "1183489"
+				"download" "192400"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "2645092136506595527"
+				"size" "1183633"
+				"download" "192464"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "6306622044724984796"
+				"size" "1183489"
+				"download" "192384"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "5920602896851029259"
+				"size" "1183489"
+				"download" "192352"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "5920602896851029259"
+				"size" "1183489"
+				"download" "192352"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "5920602896851029259"
+				"size" "1183489"
+				"download" "192352"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "5920602896851029259"
+				"size" "1183489"
+				"download" "192352"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "5920602896851029259"
+				"size" "1183489"
+				"download" "192352"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "2645092136506595527"
+				"size" "1183633"
+				"download" "192464"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "2645092136506595527"
+				"size" "1183633"
+				"download" "192464"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "2645092136506595527"
+				"size" "1183633"
+				"download" "192464"
+			}
+		}
+	}
+	"413372"
+	{
+		"dlcappid" "477151"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5686780864705588856"
+				"size" "2421235"
+				"download" "1736672"
+			}
+			"local"
+			{
+				"gid" "4427356068866942877"
+				"size" "980850"
+				"download" "278000"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "3313733724850964513"
+				"size" "980994"
+				"download" "277984"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "3453317164803037598"
+				"size" "980850"
+				"download" "277888"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "5544329683347626767"
+				"size" "980850"
+				"download" "278000"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "5544329683347626767"
+				"size" "980850"
+				"download" "278000"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "5544329683347626767"
+				"size" "980850"
+				"download" "278000"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "5544329683347626767"
+				"size" "980850"
+				"download" "278000"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "5544329683347626767"
+				"size" "980850"
+				"download" "278000"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "3313733724850964513"
+				"size" "980994"
+				"download" "277984"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "3313733724850964513"
+				"size" "980994"
+				"download" "277984"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "3313733724850964513"
+				"size" "980994"
+				"download" "277984"
+			}
+		}
+	}
+	"413373"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5855745802359110480"
+				"size" "1610691852"
+				"download" "1429682048"
+			}
+			"local"
+			{
+				"gid" "546719334321251146"
+				"size" "1593618544"
+				"download" "1413157536"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "6914285302026272886"
+				"size" "0"
+				"download" "0"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "2120443391835209302"
+				"size" "1785789053"
+				"download" "1480945648"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "4891802393719895582"
+				"size" "1785727997"
+				"download" "1480884992"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "4891802393719895582"
+				"size" "1785727997"
+				"download" "1480884992"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "4891802393719895582"
+				"size" "1785727997"
+				"download" "1480884992"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "4891802393719895582"
+				"size" "1785727997"
+				"download" "1480884992"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "4891802393719895582"
+				"size" "1785727997"
+				"download" "1480884992"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "6914285302026272886"
+				"size" "0"
+				"download" "0"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "6914285302026272886"
+				"size" "0"
+				"download" "0"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "6914285302026272886"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"413374"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2405975237064436895"
+				"size" "1535218300"
+				"download" "1361230416"
+			}
+			"local"
+			{
+				"gid" "2683638130616590911"
+				"size" "1518343008"
+				"download" "1345288576"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "1938856686111371580"
+				"size" "1534874572"
+				"download" "1361130720"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "7550182365099713652"
+				"size" "1697003533"
+				"download" "1411634960"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "1067491529226583310"
+				"size" "1697003533"
+				"download" "1411634976"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "1067491529226583310"
+				"size" "1697003533"
+				"download" "1411634976"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "1067491529226583310"
+				"size" "1697003533"
+				"download" "1411634976"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "1067491529226583310"
+				"size" "1697003533"
+				"download" "1411634976"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "1067491529226583310"
+				"size" "1697003533"
+				"download" "1411634976"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "1938856686111371580"
+				"size" "1534874572"
+				"download" "1361130720"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "1938856686111371580"
+				"size" "1534874572"
+				"download" "1361130720"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "1938856686111371580"
+				"size" "1534874572"
+				"download" "1361130720"
+			}
+		}
+	}
+	"413375"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7885630216087753356"
+				"size" "1627348796"
+				"download" "1439767536"
+			}
+			"local"
+			{
+				"gid" "9078991107921037794"
+				"size" "1610034528"
+				"download" "1423411440"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "7704085887962161756"
+				"size" "1627005068"
+				"download" "1439667920"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "7264177954301602787"
+				"size" "1800926061"
+				"download" "1494071520"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "6550260283510271274"
+				"size" "1800926061"
+				"download" "1494071504"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "6550260283510271274"
+				"size" "1800926061"
+				"download" "1494071504"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "6550260283510271274"
+				"size" "1800926061"
+				"download" "1494071504"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "6550260283510271274"
+				"size" "1800926061"
+				"download" "1494071504"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "6550260283510271274"
+				"size" "1800926061"
+				"download" "1494071504"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "7704085887962161756"
+				"size" "1627005068"
+				"download" "1439667920"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "7704085887962161756"
+				"size" "1627005068"
+				"download" "1439667920"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "7704085887962161756"
+				"size" "1627005068"
+				"download" "1439667920"
+			}
+		}
+	}
+	"413376"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3789758934595068209"
+				"size" "3038217560"
+				"download" "2660147200"
+			}
+			"local"
+			{
+				"gid" "7426138989585467756"
+				"size" "3003814720"
+				"download" "2627638560"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "7484563590619306078"
+				"size" "3037530104"
+				"download" "2659947840"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "6785861175850083662"
+				"size" "3367539578"
+				"download" "2764685712"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "4862915848290725056"
+				"size" "3367539578"
+				"download" "2762972224"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "4862915848290725056"
+				"size" "3367539578"
+				"download" "2762972224"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "4862915848290725056"
+				"size" "3367539578"
+				"download" "2762972224"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "4862915848290725056"
+				"size" "3367539578"
+				"download" "2762972224"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "4862915848290725056"
+				"size" "3367539578"
+				"download" "2762972224"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "7484563590619306078"
+				"size" "3037530104"
+				"download" "2659947840"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "7484563590619306078"
+				"size" "3037530104"
+				"download" "2659947840"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "7484563590619306078"
+				"size" "3037530104"
+				"download" "2659947840"
+			}
+		}
+	}
+	"413377"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1739344438365763132"
+				"size" "1715986172"
+				"download" "1524776096"
+			}
+			"local"
+			{
+				"gid" "1132904124110811111"
+				"size" "1699595440"
+				"download" "1509313856"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "8402658739054093219"
+				"size" "1715642444"
+				"download" "1524676080"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "8634173554147288049"
+				"size" "1898662845"
+				"download" "1582711392"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "460292733721760939"
+				"size" "1898662845"
+				"download" "1582711376"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "460292733721760939"
+				"size" "1898662845"
+				"download" "1582711376"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "460292733721760939"
+				"size" "1898662845"
+				"download" "1582711376"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "460292733721760939"
+				"size" "1898662845"
+				"download" "1582711376"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "460292733721760939"
+				"size" "1898662845"
+				"download" "1582711376"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "8402658739054093219"
+				"size" "1715642444"
+				"download" "1524676080"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "8402658739054093219"
+				"size" "1715642444"
+				"download" "1524676080"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "8402658739054093219"
+				"size" "1715642444"
+				"download" "1524676080"
+			}
+		}
+	}
+	"413378"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "442814853493409031"
+				"size" "1667844204"
+				"download" "1476248576"
+			}
+			"local"
+			{
+				"gid" "7854909794297137324"
+				"size" "1650218560"
+				"download" "1459623424"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "2359358122463879710"
+				"size" "1667500476"
+				"download" "1476148528"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "2736740935398062198"
+				"size" "1842806493"
+				"download" "1530631168"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "6925272054680054721"
+				"size" "1842806493"
+				"download" "1530631136"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "6925272054680054721"
+				"size" "1842806493"
+				"download" "1530631136"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "6925272054680054721"
+				"size" "1842806493"
+				"download" "1530631136"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "6925272054680054721"
+				"size" "1842806493"
+				"download" "1530631136"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "6925272054680054721"
+				"size" "1842806493"
+				"download" "1530631136"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "2359358122463879710"
+				"size" "1667500476"
+				"download" "1476148528"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "2359358122463879710"
+				"size" "1667500476"
+				"download" "1476148528"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "2359358122463879710"
+				"size" "1667500476"
+				"download" "1476148528"
+			}
+		}
+	}
+	"413379"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" "japanese"
+		}
+		"dlcappid" "609220"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2811046696649675270"
+				"size" "11056514009"
+				"download" "10060218368"
+			}
+			"local"
+			{
+				"gid" "9108124950340060016"
+				"size" "1572435468"
+				"download" "1392520624"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "5465383898086047878"
+				"size" "1786056813"
+				"download" "1480985824"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "3210889913836342114"
+				"size" "1786117869"
+				"download" "1481046576"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "5465383898086047878"
+				"size" "1786056813"
+				"download" "1480985824"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "5465383898086047878"
+				"size" "1786056813"
+				"download" "1480985824"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "5465383898086047878"
+				"size" "1786056813"
+				"download" "1480985824"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "5465383898086047878"
+				"size" "1786056813"
+				"download" "1480985824"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "5465383898086047878"
+				"size" "1786056813"
+				"download" "1480985824"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "5465383898086047878"
+				"size" "1786056813"
+				"download" "1480985824"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "5465383898086047878"
+				"size" "1786056813"
+				"download" "1480985824"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "5465383898086047878"
+				"size" "1786056813"
+				"download" "1480985824"
+			}
+		}
+	}
+	"413381"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3154585754687505594"
+				"size" "1544510748"
+				"download" "1352373072"
+			}
+			"local"
+			{
+				"gid" "4189289012962072031"
+				"size" "1526943888"
+				"download" "1335794912"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "6165242306679989959"
+				"size" "1544167020"
+				"download" "1352273248"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "4073206773623067502"
+				"size" "1705331205"
+				"download" "1395830784"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "5294767520249970495"
+				"size" "1705331205"
+				"download" "1395830800"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "5294767520249970495"
+				"size" "1705331205"
+				"download" "1395830800"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "5294767520249970495"
+				"size" "1705331205"
+				"download" "1395830800"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "5294767520249970495"
+				"size" "1705331205"
+				"download" "1395830800"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "5294767520249970495"
+				"size" "1705331205"
+				"download" "1395830800"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "6165242306679989959"
+				"size" "1544167020"
+				"download" "1352273248"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "6165242306679989959"
+				"size" "1544167020"
+				"download" "1352273248"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "6165242306679989959"
+				"size" "1544167020"
+				"download" "1352273248"
+			}
+		}
+	}
+	"413382"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "29096089046661071"
+				"size" "331934672"
+				"download" "294611520"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "29096089046661071"
+				"size" "331934672"
+				"download" "294611520"
+			}
+		}
+	}
+	"413383"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "199139900084624997"
+				"size" "331934672"
+				"download" "294611520"
+			}
+			"local"
+			{
+				"gid" "199139900084624997"
+				"size" "331934672"
+				"download" "294611520"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "199139900084624997"
+				"size" "331934672"
+				"download" "294611520"
+			}
+			"v1.10_build592.1"
+			{
+				"gid" "592132367690445111"
+				"size" "331934672"
+				"download" "294611520"
+			}
+			"v1.11_build616.0"
+			{
+				"gid" "199139900084624997"
+				"size" "331934672"
+				"download" "294611520"
+			}
+			"v1.12_build667.0"
+			{
+				"gid" "199139900084624997"
+				"size" "331934672"
+				"download" "294611520"
+			}
+			"v1.13_build724.2"
+			{
+				"gid" "199139900084624997"
+				"size" "331934672"
+				"download" "294611520"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "199139900084624997"
+				"size" "331934672"
+				"download" "294611520"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "199139900084624997"
+				"size" "331934672"
+				"download" "294611520"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "199139900084624997"
+				"size" "331934672"
+				"download" "294611520"
+			}
+			"v1.17_build795.0"
+			{
+				"gid" "199139900084624997"
+				"size" "331934672"
+				"download" "294611520"
+			}
+			"v1.18_build798.0"
+			{
+				"gid" "199139900084624997"
+				"size" "331934672"
+				"download" "294611520"
+			}
+		}
+	}
+	"413387"
+	{
+		"dlcappid" "609220"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "364123730994474055"
+				"size" "2730956034"
+				"download" "1394744864"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "364123730994474055"
+				"size" "2730956034"
+				"download" "1394744864"
+			}
+			"v1.14_build751.0"
+			{
+				"gid" "1839634472987886287"
+				"size" "16240"
+				"download" "3328"
+			}
+			"v1.15_build757.0"
+			{
+				"gid" "1839634472987886287"
+				"size" "16240"
+				"download" "3328"
+			}
+			"v1.16_build761.0"
+			{
+				"gid" "2259211686594149151"
+				"size" "16252"
+				"download" "3328"
+			}
+		}
+	}
+	"413391"
+	{
+		"dlcappid" "609220"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1326792912793407195"
+				"size" "821918384"
+				"download" "721603472"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "1326792912793407195"
+				"size" "821918384"
+				"download" "721603472"
+			}
+		}
+	}
+	"413392"
+	{
+		"dlcappid" "609220"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "569611887393747428"
+				"size" "985808422"
+				"download" "820032928"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "569611887393747428"
+				"size" "985808422"
+				"download" "820032928"
+			}
+		}
+	}
+	"413393"
+	{
+		"dlcappid" "609220"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2441993056955120836"
+				"size" "2412328"
+				"download" "1735616"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "2441993056955120836"
+				"size" "2412328"
+				"download" "1735616"
+			}
+		}
+	}
+	"413394"
+	{
+		"dlcappid" "609220"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1596994450531878827"
+				"size" "2402367"
+				"download" "1437424"
+			}
+			"mac_v1.1.2_linux_v1.0.3"
+			{
+				"gid" "1596994450531878827"
+				"size" "2402367"
+				"download" "1437424"
+			}
+		}
+	}
+	"413395"
+	{
+		"dlcappid" "609220"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1049391682374011066"
+				"size" "2730956034"
+				"download" "1392656624"
+			}
+		}
+	}
+	"413396"
+	{
+		"dlcappid" "609220"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5149145625940042142"
+				"size" "821918384"
+				"download" "721603472"
+			}
+		}
+	}
+	"413397"
+	{
+		"dlcappid" "609220"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6956862079246282629"
+				"size" "985808422"
+				"download" "820032928"
+			}
+		}
+	}
+	"413398"
+	{
+		"dlcappid" "609220"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7200670798973689552"
+				"size" "2412328"
+				"download" "1735616"
+			}
+		}
+	}
+	"413399"
+	{
+		"dlcappid" "609220"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3987775264302057360"
+				"size" "2402367"
+				"download" "1437424"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3355064"
+			"timeupdated" "1543591248"
+		}
+		"local"
+		{
+			"buildid" "1518655"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1481722077"
+		}
+		"mac_v1.1.2_linux_v1.0.3"
+		{
+			"buildid" "3203897"
+			"timeupdated" "1543590926"
+		}
+		"v1.0_build524.6"
+		{
+			"buildid" "1292720"
+			"description" "v1.0 Build 524.6"
+			"timeupdated" "1472032572"
+		}
+		"v1.0_build524.7"
+		{
+			"buildid" "1295771"
+			"description" "v1.0 Build 524.7"
+			"timeupdated" "1472573657"
+		}
+		"v1.1_build524.10"
+		{
+			"buildid" "1301462"
+			"description" "v1.1 Build 524.10"
+			"timeupdated" "1472573730"
+		}
+		"v1.10_build592.1"
+		{
+			"buildid" "1438200"
+			"description" "v1.10 Build 592.1"
+			"timeupdated" "1478193835"
+		}
+		"v1.11_build616.0"
+		{
+			"buildid" "1464559"
+			"description" "v1.11 Build 616.0"
+			"timeupdated" "1481036631"
+		}
+		"v1.12_build667.0"
+		{
+			"buildid" "1501354"
+			"description" "v1.12 Build 667.0"
+			"timeupdated" "1485185697"
+		}
+		"v1.13_build724.2"
+		{
+			"buildid" "1581803"
+			"description" "v1.13 Build 724.2"
+			"timeupdated" "1487081743"
+		}
+		"v1.14_build751.0"
+		{
+			"buildid" "1627932"
+			"description" "v1.14 Build 751.0"
+			"timeupdated" "1487347970"
+		}
+		"v1.15_build757.0"
+		{
+			"buildid" "1638173"
+			"description" "v1.15 Build 757.0"
+			"timeupdated" "1487868851"
+		}
+		"v1.16_build761.0"
+		{
+			"buildid" "1695364"
+			"description" "v1.16 Build 761.0"
+			"timeupdated" "1490193696"
+		}
+		"v1.17_build795.0"
+		{
+			"buildid" "1707747"
+			"description" "v1.17 Build 795.0"
+			"timeupdated" "1493218647"
+		}
+		"v1.18_build798.0"
+		{
+			"buildid" "1782160"
+			"description" "v1.18 Build 798.0"
+			"timeupdated" "1496156014"
+		}
+		"v1.2_build524.15"
+		{
+			"buildid" "1307549"
+			"description" "v1.2 Build 524.15"
+			"timeupdated" "1472834499"
+		}
+		"v1.3_build524.17"
+		{
+			"buildid" "1312369"
+			"description" "v1.3 Build 524.17"
+			"timeupdated" "1473329635"
+		}
+		"v1.4_build545.4"
+		{
+			"buildid" "1322467"
+			"description" "v1.4 Build 545.4"
+			"timeupdated" "1473950824"
+		}
+		"v1.4_build545.5"
+		{
+			"buildid" "1332511"
+			"description" "v1.4 Build 545.5"
+			"timeupdated" "1474614122"
+		}
+		"v1.7_build551.7"
+		{
+			"buildid" "1350362"
+			"description" "v1.7 Build 551.7"
+			"timeupdated" "1475503105"
+		}
+		"v1.8_build565.4"
+		{
+			"buildid" "1364066"
+			"description" "v1.8 Build 565.4"
+			"timeupdated" "1475832231"
+		}
+		"v1.9_build582.1"
+		{
+			"buildid" "1377859"
+			"description" "v1.9 Build 582.1"
+			"timeupdated" "1476799475"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27424525"
+"_sha" "e13054ea38f08e594ebfbe1a4357772b3fc2e534"
+"_size" "110817"
