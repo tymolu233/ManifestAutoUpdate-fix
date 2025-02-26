@@ -1,0 +1,515 @@
+"appid" "290340"
+"common"
+{
+	"name" "Armello"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "2d50d5f6e52913bc23926ebbb661c64d641e24cd"
+	"logo_small" "2d50d5f6e52913bc23926ebbb661c64d641e24cd_thumb"
+	"clienticon" "b4088e54fe69ee1e8e511ace4bee60ba4ad156f4"
+	"clienttga" "7cea1fd9a8fb566b2413bccdfe04a53edcbe9872"
+	"icon" "1eb84eb6e2f5e611c16e13b380b38d15cbfcabd1"
+	"clienticns" "a8c0658471d7bc58ec4be6b6c330cc1b0e9fef8c"
+	"oslist" "windows,macos,linux"
+	"linuxclienticon" "4237a7cf1fc96965e63013fa497ece496440faa9"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"brazilian" "1"
+	}
+	"osarch" ""
+	"eulas"
+	{
+		"1"
+		{
+			"id" "290340_eula_1"
+			"name" "Armello EULA"
+			"url" "http://store.steampowered.com//eula/290340_eula_1"
+		}
+	}
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1670284800"
+		"tested_build_id" "9988056"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"market_presence" "1"
+	"metacritic_name" "Armello"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"koreana" "header_koreana.jpg"
+		"russian" "header_russian.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,ru,ko,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,ru,zh-tw,ko"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "44"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"russian" "library_600x900_russian.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"russian" "library_600x900_russian_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"russian" "logo_russian.png"
+				"tchinese" "logo_tchinese.png"
+				"koreana" "logo_koreana.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"russian" "logo_russian_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"koreana" "logo_koreana_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "44"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1662520752"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "League of Geeks"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "League of Geeks"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "League of Geeks"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_8" "1"
+		"category_36" "1"
+		"category_35" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_27" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1441123560"
+	"metacritic_score" "75"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/armello\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "290340"
+	"store_tags"
+	{
+		"0" "1770"
+		"1" "1775"
+		"2" "1741"
+		"3" "1666"
+		"4" "1677"
+		"5" "9"
+		"6" "122"
+		"7" "4604"
+		"8" "4191"
+		"9" "4166"
+		"10" "6815"
+		"11" "3871"
+		"12" "17389"
+		"13" "6971"
+		"14" "1684"
+		"15" "1717"
+		"16" "3854"
+		"17" "21"
+		"18" "21725"
+		"19" "4364"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "League of Geeks"
+	"publisher" "League of Geeks"
+	"homepage" "http://www.armello.com"
+	"listofdlc" "386790,386791,386792,386793,386794,386795,386796,386797,386798,389600,392980,398910,398912,398913,398915,398916,398917,1130630"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Armello"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "armello.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "armello.app"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "armello.x86"
+			"arguments" "LANG=\"\" %command%"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+		"3"
+		{
+			"executable" "armello.x86_64"
+			"arguments" "LANG=\"\" %command%"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,brazilian"
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"290343"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7327272348430464012"
+				"size" "2398266162"
+				"download" "901575968"
+			}
+		}
+	}
+	"290342"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2137196331846110203"
+				"size" "2409894093"
+				"download" "914971536"
+			}
+		}
+	}
+	"290346"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1851675539283727340"
+				"size" "1579784678"
+				"download" "1137525392"
+			}
+		}
+	}
+	"290345"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3726043958249178108"
+				"size" "2430016183"
+				"download" "920678992"
+			}
+		}
+	}
+	"290341"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1998375574523292459"
+				"size" "1547224706"
+				"download" "1152853296"
+			}
+		}
+	}
+	"290344"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5437122656265313177"
+				"size" "1503963518"
+				"download" "1123762848"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10109492"
+			"timeupdated" "1671142405"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "33554432"
+	"maxnumfiles" "512"
+}
+"_missing_token" "False"
+"_change_number" "27622290"
+"_sha" "9d76fc0ca9c9559e762209cc6e19f7bb1ee6ab5d"
+"_size" "9314"
