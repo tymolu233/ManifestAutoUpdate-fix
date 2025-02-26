@@ -1,0 +1,287 @@
+"appid" "995070"
+"common"
+{
+	"name" "Rise Eterna"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "f519594ab812e22b59558d37a3dc15db7852e551"
+	"clienttga" "4873ae920d1d237aaf4a3714eb0c6f3761f5a725"
+	"icon" "a84191723ea9b8261aeece9a0f10457906d10712"
+	"logo" "cf6792c4d0c8f00a68133cba559944e4e3c4330e"
+	"logo_small" "cf6792c4d0c8f00a68133cba559944e4e3c4330e_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1660348800"
+		"tested_build_id" "6904633"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Rise Eterna"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "83.4967325033796"
+			"height_pct" "96.57924711701074"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "83.4967325033796"
+				"height_pct" "96.57924711701074"
+			}
+		}
+	}
+	"store_asset_mtime" "1686663912"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Makee"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Forever Entertainment S. A."
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Forever Entertainment S. A."
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1623257260"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "995070"
+	"store_tags"
+	{
+		"0" "21725"
+		"1" "4434"
+		"2" "9"
+		"3" "14139"
+		"4" "492"
+		"5" "4325"
+		"6" "597"
+		"7" "122"
+		"8" "4085"
+		"9" "17305"
+		"10" "10695"
+		"11" "1741"
+		"12" "3964"
+		"13" "1684"
+		"14" "4182"
+		"15" "21"
+		"16" "3871"
+		"17" "4252"
+		"18" "6815"
+		"19" "599"
+	}
+	"review_score" "5"
+	"review_percentage" "41"
+}
+"extended"
+{
+	"developer" "Makee"
+	"publisher" "Forever Entertainment S. A."
+	"homepage" "https://www.facebook.com/Rise-Eterna-684739405197256/"
+}
+"config"
+{
+	"installdir" "RiseEterna"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RiseEterna.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamconfigurator3rdpartynative" "2"
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"995071"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3611212152440676693"
+				"size" "2911777592"
+				"download" "2225463824"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16963037"
+			"timeupdated" "1736512327"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "5242880"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "be7818111bd62ddd43263dfa6f2c9fad085fc325"
+"_size" "4819"
