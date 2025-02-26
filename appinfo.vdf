@@ -1,0 +1,905 @@
+"appid" "1240440"
+"common"
+{
+	"name" "Halo Infinite"
+	"type" "Game"
+	"icon" "ec684b943169d675439f6cdf64fa2f2aa90d9821"
+	"logo" "8af1b72ec4407ec71ff241ec610e87d3df263488"
+	"logo_small" "8af1b72ec4407ec71ff241ec610e87d3df263488_thumb"
+	"clienticon" "f02816fc405709ccfa88ba3afa0943a190554486"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"clienttga" "a097c86b874d4b31b0d74ff76eae3d3144798585"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1717632000"
+		"tested_build_id" "14401010"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "50e9fcb12ec8781b582b4cda786035d569a7b6a9/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "b1a575550a47ee4f8f282ecdaac1f09857378f59/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "b1a575550a47ee4f8f282ecdaac1f09857378f59/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "a895c3f2f8e59a2eccdfb17f755d01fb89f87189/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "a895c3f2f8e59a2eccdfb17f755d01fb89f87189/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "a895c3f2f8e59a2eccdfb17f755d01fb89f87189/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "cc8c6df0b859786e6e6e7f5bd298f8e057be58a7/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "cc8c6df0b859786e6e6e7f5bd298f8e057be58a7/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1738694963"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "343 Industries"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Xbox Game Studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Halo"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "37"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_47" "1"
+		"category_43" "1"
+		"category_23" "1"
+		"category_17" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1636999200"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1240440"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "1663"
+		"2" "3859"
+		"3" "4182"
+		"4" "1774"
+		"5" "19"
+		"6" "3839"
+		"7" "1695"
+		"8" "3942"
+		"9" "1685"
+		"10" "1775"
+		"11" "3878"
+		"12" "1742"
+		"13" "1755"
+		"14" "21"
+		"15" "1673"
+		"16" "3854"
+		"17" "4145"
+		"18" "4166"
+		"19" "7948"
+	}
+	"review_score" "5"
+	"review_percentage" "69"
+	"review_score_bombs" "6"
+	"review_percentage_bombs" "70"
+}
+"extended"
+{
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "RU,BY"
+	"additional_dependencies"
+	{
+		"0"
+		{
+			"src_os" "windows"
+			"dest_os" "linux"
+			"h264" "1"
+		}
+	}
+	"developer" "343 Industries"
+	"publisher" "Xbox Game Studios"
+	"homepage" "https://www.halowaypoint.com/halo-infinite"
+	"isfreeapp" "1"
+	"listofdlc" "1708090,1708091,1708092"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Halo Infinite"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HaloInfinite.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "game_Profile.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "p4main-nightly"
+			}
+			"description_loc"
+			{
+				"english" "Profile binaries"
+			}
+			"description" "Profile binaries"
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamcontrollertemplateindex" "2"
+	"steamconfigurator3rdpartynative" "65533"
+	"app_mappings"
+	{
+		"1"
+		{
+			"platform" "linux"
+			"tool" "proton_experimental"
+			"comment" "experimental needed"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,brazilian,latam"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1240441"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7823888047213094751"
+				"size" "51257567037"
+				"download" "42524710576"
+			}
+		}
+	}
+	"1240442"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3310217600695701879"
+				"size" "1067511801"
+				"download" "981965024"
+			}
+		}
+	}
+	"1240443"
+	{
+		"config"
+		{
+			"language" "latam"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1961174997092173120"
+				"size" "1078305253"
+				"download" "991546080"
+			}
+		}
+	}
+	"1240444"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2127237357151868035"
+				"size" "973178497"
+				"download" "886993584"
+			}
+		}
+	}
+	"1240445"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6212087839736214815"
+				"size" "1083182767"
+				"download" "996665024"
+			}
+		}
+	}
+	"1240446"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5961114131542256223"
+				"size" "974356912"
+				"download" "887485664"
+			}
+		}
+	}
+	"1240447"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8536732866283005504"
+				"size" "965697022"
+				"download" "878285856"
+			}
+		}
+	}
+	"1240448"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7099774409191523370"
+				"size" "1028898631"
+				"download" "942152496"
+			}
+		}
+	}
+	"1240449"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "363057356585956965"
+				"size" "1011724806"
+				"download" "924224752"
+			}
+		}
+	}
+	"1521610"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6475830760600214425"
+				"size" "1097170807"
+				"download" "1011058528"
+			}
+		}
+	}
+	"1521611"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7393915373152469083"
+				"size" "963555085"
+				"download" "877454848"
+			}
+		}
+	}
+	"1521622"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3939133919175594196"
+				"size" "1116289359"
+				"download" "1029513968"
+			}
+		}
+	}
+	"1708090"
+	{
+		"dlcappid" "1708090"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4957827144726417804"
+				"size" "19856845140"
+				"download" "19705960512"
+			}
+		}
+	}
+	"1708091"
+	{
+		"dlcappid" "1708091"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5702600933048366206"
+				"size" "26871738537"
+				"download" "24379831488"
+			}
+		}
+	}
+	"1521612"
+	{
+		"dlcappid" "1708091"
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6226236412227213094"
+				"size" "1453039076"
+				"download" "1375880224"
+			}
+		}
+	}
+	"1521613"
+	{
+		"dlcappid" "1708091"
+		"config"
+		{
+			"language" "latam"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2932603352733819859"
+				"size" "1492868157"
+				"download" "1414341184"
+			}
+		}
+	}
+	"1521614"
+	{
+		"dlcappid" "1708091"
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1484258721365003910"
+				"size" "1387562896"
+				"download" "1309661120"
+			}
+		}
+	}
+	"1521615"
+	{
+		"dlcappid" "1708091"
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5651415488847273110"
+				"size" "1462024841"
+				"download" "1384185824"
+			}
+		}
+	}
+	"1521616"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"dlcappid" "1708091"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5104787929641177582"
+				"size" "1394512270"
+				"download" "1315799728"
+			}
+		}
+	}
+	"1521617"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "windows"
+		}
+		"dlcappid" "1708091"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "443174564544235007"
+				"size" "1389454986"
+				"download" "1310450656"
+			}
+		}
+	}
+	"1521618"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+		}
+		"dlcappid" "1708091"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7907859300157572659"
+				"size" "1413869868"
+				"download" "1335399936"
+			}
+		}
+	}
+	"1521619"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+		}
+		"dlcappid" "1708091"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5318554684921636580"
+				"size" "1414803938"
+				"download" "1335438464"
+			}
+		}
+	}
+	"1521620"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"dlcappid" "1708091"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2496236242817095130"
+				"size" "1486244199"
+				"download" "1408913888"
+			}
+		}
+	}
+	"1521621"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"dlcappid" "1708091"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4425839573476823251"
+				"size" "1377006917"
+				"download" "1298714128"
+			}
+		}
+	}
+	"1521623"
+	{
+		"dlcappid" "1708091"
+		"config"
+		{
+			"oslist" "windows"
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3647146900337896843"
+				"size" "1437262805"
+				"download" "1360523008"
+			}
+		}
+	}
+	"1708092"
+	{
+		"dlcappid" "1708092"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5287485894114941187"
+				"size" "6933384297"
+				"download" "6883325520"
+			}
+		}
+	}
+	"1708120"
+	{
+		"dlcappid" "1708120"
+		"config"
+		{
+			"oslist" "windows"
+			"optionaldlc" "1708120"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16963989"
+			"timeupdated" "1738692324"
+		}
+	}
+	"privatebranches" "1"
+	"appmanagesdlc" "1"
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "27676002"
+"_sha" "e0ba826044cc3532fec5a0a170d7211556f2590d"
+"_size" "14626"
