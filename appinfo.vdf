@@ -1,0 +1,676 @@
+"appid" "360430"
+"common"
+{
+	"name" "Mafia III: Definitive Edition"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "acae5fc45bdb39d6193c1e8918bbfdc50e10f28c"
+	"clienttga" "54b154fe3d4ddf10248b5a16e3ba51c4efd49750"
+	"icon" "3df3ee0dfcb254bedbf15822c93a6983f67b0822"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+	}
+	"logo" "d54aa6212dc7b1d3ac4e35f9697d03ce09fca9ec"
+	"logo_small" "d54aa6212dc7b1d3ac4e35f9697d03ce09fca9ec_thumb"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"clienticns" "5e5b1e4072f0518f459e2ccb28604bf44d45902c"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "360430_eula_0"
+			"name" "Mafia III EULA"
+			"url" "https://store.steampowered.com//eula/360430_eula_0"
+		}
+	}
+	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1645747200"
+		"tested_build_id" "5121098"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "48"
+			"height_pct" "19"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "48"
+				"height_pct" "19"
+			}
+		}
+	}
+	"store_asset_mtime" "1733871558"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Hangar 13"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Aspyr (Mac)"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "2K"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Aspyr (Mac)"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Mafia"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_33" "1"
+		"category_43" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1477501200"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "360430"
+	"store_tags"
+	{
+		"0" "6378"
+		"1" "1695"
+		"2" "19"
+		"3" "1742"
+		"4" "4182"
+		"5" "1697"
+		"6" "4667"
+		"7" "1774"
+		"8" "4166"
+		"9" "1756"
+		"10" "3814"
+		"11" "21"
+		"12" "6650"
+		"13" "1687"
+		"14" "3859"
+		"15" "1693"
+		"16" "5611"
+		"17" "3810"
+		"18" "4345"
+		"19" "1663"
+	}
+	"review_score" "5"
+	"review_percentage" "57"
+}
+"extended"
+{
+	"developer" "Hangar 13"
+	"publisher" "2K"
+	"homepage" "https://mafia.2k.com/"
+	"listofdlc" "511890,511891,511892,598020,598021,598022"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Mafia III"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "mafia3definitiveedition.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Mafia3.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "launcher.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Mafia III Definitive Edition Launcher"
+			}
+			"description" "Mafia III Definitive Edition Launcher"
+		}
+		"3"
+		{
+			"executable" "\\2KLauncher\\LauncherPatcher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "newtest"
+			}
+			"description_loc"
+			{
+				"english" "2K Launcher"
+			}
+			"description" "2K Launcher"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"957521943"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,sanitycheck,sanitycheck2"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2258359167"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,czech,brazilian"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"360431"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3532314879832368080"
+				"size" "52354034025"
+				"download" "49408644624"
+			}
+		}
+	}
+	"360432"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8773375485519535397"
+				"size" "993902828"
+				"download" "843354736"
+			}
+		}
+	}
+	"511890"
+	{
+		"dlcappid" "511890"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "454834834847228076"
+				"size" "4285"
+				"download" "1072"
+			}
+		}
+	}
+	"511892"
+	{
+		"dlcappid" "511892"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "992891886538164515"
+				"size" "6352"
+				"download" "1216"
+			}
+		}
+	}
+	"598020"
+	{
+		"dlcappid" "598020"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8199463638102391193"
+				"size" "2911824009"
+				"download" "2745655024"
+			}
+		}
+	}
+	"598021"
+	{
+		"dlcappid" "598021"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5920706206030683877"
+				"size" "1792825557"
+				"download" "1766903216"
+			}
+		}
+	}
+	"360438"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2467089648767970112"
+				"size" "47180472108"
+				"download" "44613355168"
+			}
+		}
+	}
+	"360439"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2746032780764026926"
+				"size" "384297511"
+				"download" "58594992"
+			}
+		}
+	}
+	"511898"
+	{
+		"dlcappid" "511890"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5304880233194808812"
+				"size" "4285"
+				"download" "1072"
+			}
+		}
+	}
+	"511899"
+	{
+		"dlcappid" "511892"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9009976994094612939"
+				"size" "6352"
+				"download" "1216"
+			}
+		}
+	}
+	"598029"
+	{
+		"dlcappid" "598020"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4685441623310950674"
+				"size" "2741756974"
+				"download" "2574361920"
+			}
+		}
+	}
+	"598022"
+	{
+		"dlcappid" "598022"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4632933338714674769"
+				"size" "1061594276"
+				"download" "1046332048"
+			}
+		}
+	}
+	"1523211"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5488617169383930545"
+				"size" "80"
+				"download" "128"
+			}
+		}
+		"depotfromapp" "1523210"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5121098"
+			"timeupdated" "1592496404"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "2K Games/Mafia III/Data/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "2K Games/Mafia III/Data/{64BitSteamID}"
+			"pattern" "*.pf"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "MacAppSupport"
+			"path" "Mafia III/Data/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "MacAppSupport"
+			"path" "Mafia III/Data/{64BitSteamID}"
+			"pattern" "*.pf"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27103127"
+"_sha" "bea444cc5f3fec5cb26f4d092d25140a62a50e1a"
+"_size" "10649"
