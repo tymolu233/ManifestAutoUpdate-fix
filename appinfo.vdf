@@ -1,0 +1,536 @@
+"appid" "411300"
+"common"
+{
+	"name" "ELEX"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"logo" "150e18124d7b28493019dc3e14983aea6d731b59"
+	"logo_small" "150e18124d7b28493019dc3e14983aea6d731b59_thumb"
+	"clienticon" "8b3f16d47bbd145d6f03536a47b9953166ddc7ae"
+	"clienttga" "c54577737003e38ce26d42fe9c4f6f51194e332d"
+	"icon" "695b3033fd72bcc3d85d02da2dbe719bd9856fc3"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"polish" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1644883200"
+		"tested_build_id" "2617898"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "ELEX"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "30"
+			"height_pct" "47"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "30"
+				"height_pct" "47"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1523615204"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Piranha Bytes"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "THQ Nordic"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "ELEX"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "THQ Nordic"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1508259399"
+	"metacritic_score" "67"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/elex\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "411300"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "1695"
+		"2" "4182"
+		"3" "3835"
+		"4" "3942"
+		"5" "1684"
+		"6" "21"
+		"7" "19"
+		"8" "1697"
+		"9" "3952"
+		"10" "1742"
+		"11" "4166"
+		"12" "6426"
+		"13" "4026"
+		"14" "1678"
+		"15" "4295"
+		"16" "4667"
+		"17" "4604"
+		"18" "7332"
+		"19" "3814"
+	}
+	"review_score" "6"
+	"review_percentage" "74"
+}
+"extended"
+{
+	"developer" "Piranha Bytes"
+	"publisher" "THQ Nordic"
+	"homepage" "http://elexgame.com/"
+	"listofdlc" "732860"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "ELEX"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "system/ELEX.exe"
+			"description" "Launch ELEX"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229033"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"411301"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2156199376835060556"
+				"size" "25272150050"
+				"download" "20600666848"
+			}
+		}
+	}
+	"411302"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5544794952319600062"
+				"size" "40819816"
+				"download" "14823648"
+			}
+		}
+	}
+	"411303"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1244676938092271510"
+				"size" "3136563203"
+				"download" "2361476144"
+			}
+		}
+	}
+	"411304"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7402692842390371462"
+				"size" "3096704010"
+				"download" "2329072640"
+			}
+		}
+	}
+	"411305"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "477653036117772684"
+				"size" "3098391020"
+				"download" "2330092208"
+			}
+		}
+	}
+	"411306"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2620057621942902682"
+				"size" "3098324581"
+				"download" "2330036736"
+			}
+		}
+	}
+	"411307"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5338730269295706625"
+				"size" "3212377054"
+				"download" "2507683104"
+			}
+		}
+	}
+	"411308"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5679303575205211189"
+				"size" "3098333833"
+				"download" "2330042672"
+			}
+		}
+	}
+	"411309"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "271861195147260898"
+				"size" "3098305757"
+				"download" "2330018160"
+			}
+		}
+	}
+	"732860"
+	{
+		"dlcappid" "732860"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3194459848999673844"
+				"size" "2735822480"
+				"download" "2610065488"
+			}
+		}
+	}
+	"732861"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "758161969838584916"
+				"size" "3098339247"
+				"download" "2330055984"
+			}
+		}
+	}
+	"732862"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4875616476600744773"
+				"size" "3097691922"
+				"download" "2330052800"
+			}
+		}
+	}
+	"732863"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3014469476330263887"
+				"size" "3097663653"
+				"download" "2330021744"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2617898"
+			"timeupdated" "1521734943"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "2180000000"
+	"maxnumfiles" "109"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "ELEX/SaveGames"
+			"pattern" "*.save"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27109910"
+"_sha" "618341e942db18784a685ce797ac2ac3aeb287fb"
+"_size" "8204"
