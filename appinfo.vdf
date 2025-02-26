@@ -1,0 +1,394 @@
+"appid" "1454400"
+"common"
+{
+	"name" "Cookie Clicker"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "15bf5464984b81f8ff6b79ee2a7c7449e4ca5811"
+	"logo_small" "15bf5464984b81f8ff6b79ee2a7c7449e4ca5811_thumb"
+	"icon" "e0c68bbdb2813528f0802ef6751655e33a42c9bb"
+	"clienttga" "6b6fa2f72a519ee03ca057da7a19606d6dd4bb72"
+	"clienticon" "12a1a828d94bcbc5a5390cfcfe04c3d0815b01a9"
+	"linuxclienticon" "6fc7a4054abb85a73b4eb5a8374d0a3f0053842e"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1690934400"
+		"tested_build_id" "11182022"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "30.161780939383448"
+			"height_pct" "41.06587237518852"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "30.161780939383448"
+				"height_pct" "41.06587237518852"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1738799327"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Orteil"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "DashNet"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Playsaurus"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Playsaurus"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1630523048"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1454400"
+	"store_tags"
+	{
+		"0" "379975"
+		"1" "615955"
+		"2" "597"
+		"3" "492"
+		"4" "3964"
+		"5" "12472"
+		"6" "5652"
+		"7" "1667"
+		"8" "4695"
+		"9" "4136"
+		"10" "3871"
+		"11" "10397"
+		"12" "8945"
+		"13" "9"
+		"14" "1643"
+		"15" "1719"
+		"16" "599"
+		"17" "4305"
+		"18" "25085"
+		"19" "4182"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Orteil"
+	"publisher" "Playsaurus"
+	"homepage" "https://orteil.dashnet.org/cookieclicker/"
+}
+"config"
+{
+	"installdir" "Cookie Clicker"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Cookie Clicker.exe"
+			"arguments" "--in-process-gpu --process-start-args \"-disable-features=HardwareMediaKeyHandling\""
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Cookie Clicker.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,schinese,russian,japanese,polish,dutch,czech,brazilian"
+	"workshopdepot" "1454400"
+	"1454401"
+	{
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5817090063491018460"
+				"size" "226758747"
+				"download" "100900736"
+			}
+			"publictest"
+			{
+				"gid" "322102161863656309"
+				"size" "226099336"
+				"download" "100702976"
+			}
+		}
+	}
+	"1454402"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1124352571317316090"
+				"size" "426446670"
+				"download" "156932720"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17243728"
+			"timeupdated" "1738706677"
+		}
+		"publictest"
+		{
+			"buildid" "10885600"
+			"description" "Public test branch"
+			"timeupdated" "1680112184"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "27633200"
+"_sha" "728b4c495733ccf6a6c516932b3a945b3692d218"
+"_size" "6910"
