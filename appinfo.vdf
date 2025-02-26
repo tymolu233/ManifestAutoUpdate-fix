@@ -1,0 +1,332 @@
+"appid" "1020820"
+"common"
+{
+	"name" "KumaKuma Manga Editor"
+	"type" "Application"
+	"languages"
+	{
+		"english" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"latam" "1"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "364afdd9df7f21faa1e2dca74ae4dcddb2ff1e96"
+	"clienttga" "5e78ee62a13898bb057b7c49043fbe356fc97068"
+	"icon" "ffbbda9c64194a22ec3175275a10d2ffd6ee438a"
+	"logo" "3fe6f00b4b8abdee87fbdddc678bfd002ffcf2b1"
+	"logo_small" "3fe6f00b4b8abdee87fbdddc678bfd002ffcf2b1_thumb"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1669852800"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "KumaKuma Manga Editor"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"store_screenshot" "ss_730cf29019c1500a4985613aa2f700b840a0c4ad.jpg"
+	"store_asset_mtime" "1555399324"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "KumaKumaManga"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "SakuraGame"
+		}
+	}
+	"primary_genre" "51"
+	"genres"
+	{
+		"0" "51"
+		"1" "53"
+		"2" "59"
+	}
+	"category"
+	{
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1551322771"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1020820"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "84"
+		"1" "872"
+		"2" "1038"
+		"3" "4085"
+		"4" "8013"
+	}
+	"review_score" "6"
+	"review_percentage" "76"
+}
+"extended"
+{
+	"developer" "KumaKumaManga"
+	"publisher" "SakuraGame"
+	"listofdlc" "1069450,1116160,1123950"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "KumaKuma Manga Editor"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "KumaKumaEditor.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,italian,spanish,schinese,tchinese,latam"
+	"workshopdepot" "1020820"
+	"1020821"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5175938565828090851"
+				"size" "627600031"
+				"download" "180958048"
+			}
+		}
+	}
+	"1020822"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7046905269117845214"
+				"size" "627602567"
+				"download" "180881408"
+			}
+		}
+	}
+	"1020823"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9188251760641385568"
+				"size" "627606887"
+				"download" "181041456"
+			}
+		}
+	}
+	"1020824"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1265265468143353031"
+				"size" "627607687"
+				"download" "181024896"
+			}
+		}
+	}
+	"1020825"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9078092715151453254"
+				"size" "627607703"
+				"download" "181025088"
+			}
+		}
+	}
+	"1020826"
+	{
+		"config"
+		{
+			"language" "latam"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1763914818112506077"
+				"size" "627607703"
+				"download" "181025088"
+			}
+		}
+	}
+	"1116160"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "1116160"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2226554950688906192"
+				"size" "158135079"
+				"download" "159789264"
+			}
+		}
+	}
+	"1123950"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3665489713298391416"
+				"size" "51754891"
+				"download" "52350592"
+			}
+		}
+		"dlcappid" "1123950"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4022422"
+			"timeupdated" "1563440869"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"appidredirect" "1020820"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "26919662"
+"_sha" "d46b845ce1ceed735824b241d112bf1458ed279e"
+"_size" "5504"
