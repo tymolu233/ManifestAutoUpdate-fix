@@ -1,0 +1,503 @@
+"appid" "752590"
+"common"
+{
+	"name" "A Plague Tale: Innocence"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"icon" "25e8278800f59f82e0fc2d8a61fb17ec1468a500"
+	"logo" "d36520e97f0dc495be7c95b0284aaa29bf4c4584"
+	"logo_small" "d36520e97f0dc495be7c95b0284aaa29bf4c4584_thumb"
+	"releasestate" "released"
+	"clienticon" "bab21736ef7062ba1994970853d2ce60ab315b5b"
+	"clienttga" "e65329af66d1f07b636bc5688a76d16dfdfc5d78"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "752590_eula_0"
+			"name" "A Plague Tale: Innocence EULA"
+			"url" "https://store.steampowered.com//eula/752590_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1681862400"
+		"tested_build_id" "4336652"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-1"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "A Plague Tale: Innocence"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "41"
+			"height_pct" "33"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "41"
+				"height_pct" "33"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1668532861"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Asobo Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Focus Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Focus Entertainment"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1557784800"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/a-plague-tale-innocence\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "752590"
+	"store_tags"
+	{
+		"0" "1742"
+		"1" "21"
+		"2" "1687"
+		"3" "7208"
+		"4" "4172"
+		"5" "4166"
+		"6" "4182"
+		"7" "1697"
+		"8" "19"
+		"9" "4342"
+		"10" "1667"
+		"11" "1756"
+		"12" "3987"
+		"13" "5608"
+		"14" "4667"
+		"15" "1662"
+		"16" "1664"
+		"17" "4604"
+		"18" "3835"
+		"19" "5900"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Asobo Studio"
+	"publisher" "Focus Entertainment"
+	"homepage" "https://www.focus-home.com/games/a-plague-tale-innocence"
+	"listofdlc" "967380"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "A Plague Tale Innocence"
+	"launch"
+	{
+		"2"
+		{
+			"executable" "APlagueTaleInnocence_x64.exe"
+			"description" "Launch APlagueTaleInnocence_x64.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "APlagueTaleInnocence_DEV_x64.exe"
+			"description" "Launch APlagueTaleInnocence_DEV_x64.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "asobo_bckp,asobo_hw,asobo_interne_test,asobo_pkg_test,asobo_qa_test,asobo_qa_test_demo_steam,asobo_sound,auto_perf,focus_hw,focus_internal,focus_lp,focus_qa_test_last_update,localization_test,milestone,test_signature,testlab,whats_next_2019,patch1"
+			}
+		}
+	}
+	"steamconfigurator3rdpartynative" "77"
+}
+"depots"
+{
+	"baselanguages" ""
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"752591"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "476939438164423828"
+				"size" "44611560254"
+				"download" "20960952368"
+			}
+		}
+	}
+	"752592"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "50628017369485911"
+				"size" "40616140"
+				"download" "12347824"
+			}
+		}
+	}
+	"752593"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+	}
+	"752594"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+	}
+	"752595"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+	}
+	"752596"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+	}
+	"752597"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+	}
+	"752598"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+	}
+	"752599"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+	}
+	"967381"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+	}
+	"967382"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+	}
+	"967383"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+	}
+	"967384"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+	}
+	"967385"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+	}
+	"967386"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+	}
+	"967387"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4336652"
+			"timeupdated" "1573724478"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "20"
+}
+"_missing_token" "False"
+"_change_number" "26999873"
+"_sha" "fe5241dfc697cea4b9b35fe25b4ee00c0a29028b"
+"_size" "8246"
