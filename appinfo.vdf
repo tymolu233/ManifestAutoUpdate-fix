@@ -1,0 +1,401 @@
+"appid" "1210320"
+"common"
+{
+	"name" "Potion Craft: Alchemist Simulator"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "485552b37bfd2357e0c051c7238d0ba525b8b905"
+	"logo_small" "485552b37bfd2357e0c051c7238d0ba525b8b905_thumb"
+	"icon" "e0a089daf3bfb668d42375e2e3d1f9c1184bb80f"
+	"clienttga" "c2c5fdd67aaf82df225dd6d8046ca1e084e28c9d"
+	"clienticon" "5a8e583438b7b1d3c2ac4854ae856cd03e796f26"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "药剂工艺：炼金模拟器"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "7490008"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"3"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "1b291d48a900cb7f50ac96ac7c30f11fb3195c7f/library_header.jpg"
+				"schinese" "939abdfef930dbd1a319d68b422ee40c2010b448/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "1b291d48a900cb7f50ac96ac7c30f11fb3195c7f/library_header_2x.jpg"
+				"schinese" "939abdfef930dbd1a319d68b422ee40c2010b448/library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733854869"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "niceplay games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "tinyBuild"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "tinyBuild"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_56" "1"
+		"category_58" "1"
+		"category_18" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1670950807"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1210320"
+	"store_tags"
+	{
+		"0" "1702"
+		"1" "4182"
+		"2" "1654"
+		"3" "599"
+		"4" "4172"
+		"5" "12472"
+		"6" "492"
+		"7" "3871"
+		"8" "122"
+		"9" "10235"
+		"10" "3810"
+		"11" "597"
+		"12" "6815"
+		"13" "8945"
+		"14" "87918"
+		"15" "4202"
+		"16" "6426"
+		"17" "1698"
+		"18" "3987"
+		"19" "4845"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "niceplay games"
+	"publisher" "tinyBuild"
+	"homepage" "https://www.potioncraft.com/"
+}
+"config"
+{
+	"installdir" "Potion Craft"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Potion Craft.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1210321"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5622286217395840893"
+				"size" "2189962726"
+				"download" "1177973536"
+			}
+			"0.4.7"
+			{
+				"gid" "7809428672321799106"
+				"size" "3485633131"
+				"download" "561383360"
+			}
+			"0.5.0"
+			{
+				"gid" "7196959832307679335"
+				"size" "5868168513"
+				"download" "703574240"
+			}
+			"1.0.5"
+			{
+				"gid" "3684150586328548215"
+				"size" "1205708477"
+				"download" "728678128"
+			}
+			"1.1.0"
+			{
+				"gid" "1610030769643194993"
+				"size" "1692538316"
+				"download" "894005632"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16659612"
+			"timeupdated" "1733507158"
+		}
+		"0.4.7"
+		{
+			"buildid" "10051258"
+			"description" "Early Access, Stable (0.4.7)"
+			"timeupdated" "1669845598"
+		}
+		"0.5.0"
+		{
+			"buildid" "10051647"
+			"description" "Early Access, Public Beta (0.5.0)"
+			"timeupdated" "1669849898"
+		}
+		"1.0.5"
+		{
+			"buildid" "10207970"
+			"description" "Full Release, Stable (1.0.5)"
+			"timeupdated" "1702410384"
+		}
+		"1.1.0"
+		{
+			"buildid" "12813362"
+			"description" "Full Release, Stable (1.1.0)"
+			"timeupdated" "1729119505"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "2000000000"
+	"maxnumfiles" "1000"
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "niceplay games/Potion Craft/SavesSteam"
+			"pattern" "*.pcsave"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27462890"
+"_sha" "2f6b4043dc93f6576005ec0d2c6ee49d8f89f3f1"
+"_size" "7159"
