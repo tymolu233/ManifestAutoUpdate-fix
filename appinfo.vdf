@@ -1,0 +1,356 @@
+"appid" "987720"
+"common"
+{
+	"name" "ONINAKI"
+	"type" "Game"
+	"clienticon" "f6ba1a175cd32d3e7a6fd0b64d3825530209c6e2"
+	"clienttga" "aac67bd881016c588d00bdd2f3a93829c3447423"
+	"icon" "52eac9f94f7cce8e3cbc85f3068a79d723038274"
+	"logo" "40ed6a80e59060e7910bd2ab4e55efab0d18f3e5"
+	"logo_small" "40ed6a80e59060e7910bd2ab4e55efab0d18f3e5_thumb"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"japanese" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "987720_eula_0"
+			"name" "ONINAKI EULA"
+			"url" "https://store.steampowered.com//eula/987720_eula_0"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1650672000"
+		"tested_build_id" "4132722"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "RINNE"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "58.667179869797636"
+			"height_pct" "79.42123968678325"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "58.667179869797636"
+				"height_pct" "79.42123968678325"
+			}
+		}
+	}
+	"store_asset_mtime" "1588326258"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tokyo RPG Factory"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Square Enix"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1566489671"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "987720"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "19"
+		"2" "4434"
+		"3" "4085"
+		"4" "1646"
+		"5" "4231"
+		"6" "4667"
+		"7" "1742"
+	}
+	"review_score" "5"
+	"review_percentage" "66"
+}
+"extended"
+{
+	"developer" "Tokyo RPG Factory"
+	"publisher" "Square Enix"
+	"homepage" "https://www.oninaki.com"
+	"listofdlc" "1038700,1120610"
+}
+"config"
+{
+	"installdir" "ONINAKI"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ONINAKI.exe"
+			"arguments" "-nolog"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,japanese"
+	"987721"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4430205499507881944"
+				"size" "4413443275"
+				"download" "3732021840"
+			}
+		}
+	}
+	"987722"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+		}
+	}
+	"987723"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+		}
+	}
+	"987724"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+		}
+	}
+	"1038700"
+	{
+		"dlcappid" "1038700"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1120611"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+		}
+	}
+	"1120610"
+	{
+		"dlcappid" "1120610"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1917096253136732349"
+				"size" "23000230"
+				"download" "22858480"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4132722"
+			"timeupdated" "1566562415"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "9961472"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/ONINAKI/Steam/{Steam3AccountID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "810fbc73c723b32379c8d2f6661fc231e0693464"
+"_size" "5733"
