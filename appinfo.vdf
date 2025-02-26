@@ -1,0 +1,250 @@
+"appid" "950670"
+"common"
+{
+	"name" "Gothic Playable Teaser"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"spanish" "1"
+		"russian" "1"
+		"polish" "1"
+	}
+	"clienticon" "dc0edff1afd658f7bb21937954710141c158779a"
+	"clienttga" "45df157c72c5f5275e021037b16455dc0c60c1db"
+	"icon" "28c88dae098c9fa8efbdad3cff05bb3dd8652cc4"
+	"logo" "e2b7ff1569060530329163eb4c6e3903f970e46c"
+	"logo_small" "e2b7ff1569060530329163eb4c6e3903f970e46c_thumb"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"metacritic_name" "THQBCNP1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "60.268378063010495"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "60.268378063010495"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1575568397"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "THQ Nordic Barcelona"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "THQ Nordic"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Gothic"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "THQ Nordic"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1576260000"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "950670"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "4182"
+		"2" "3952"
+		"3" "4166"
+		"4" "1697"
+		"5" "3834"
+		"6" "4172"
+		"7" "4345"
+		"8" "1684"
+		"9" "1695"
+		"10" "19"
+		"11" "4231"
+		"12" "4604"
+	}
+	"review_score" "6"
+	"review_percentage" "70"
+}
+"extended"
+{
+	"developer" "THQ Nordic Barcelona"
+	"publisher" "THQ Nordic"
+}
+"config"
+{
+	"installdir" "THQBCNP1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GothicRemake.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "internal"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "65535"
+}
+"depots"
+{
+	"950671"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8072027559756437331"
+				"size" "10346296739"
+				"download" "4920759888"
+			}
+		}
+	}
+	"baselanguages" "english,german,spanish,russian,polish"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4493932"
+			"timeupdated" "1576365162"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "GothicRemake/Saved/SaveGames"
+			"pattern" "*.*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27008609"
+"_sha" "18fd8ef10e24187f5560b2780ab9703b3592bf0b"
+"_size" "3957"
