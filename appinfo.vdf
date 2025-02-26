@@ -1,0 +1,207 @@
+"appid" "1420710"
+"common"
+{
+	"name" "Night of the Dead Dedicated Server"
+	"type" "Tool"
+	"parent" "1377380"
+	"logo" "6fc7c46d355e2467f3256b9cfcf7668e2269f21d"
+	"logo_small" "6fc7c46d355e2467f3256b9cfcf7668e2269f21d_thumb"
+	"icon" "eabc19352fa06b87cef3e75245114cf8e3363503"
+	"clienticon" "c750f8c6ab4b905b051da9388e837511ecb08873"
+	"clienttga" "750e8ccbffb50e1a25ed9ecdf95d6826bce6099a"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "1420710"
+}
+"extended"
+{
+	"gamedir" "NightOfTheDead"
+	"serverbrowsername" "Night of the Dead"
+}
+"config"
+{
+	"installdir" "Night of the Dead Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "StartServer.bat"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1420711"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7774147511743080290"
+				"size" "7183262691"
+				"download" "1916161824"
+			}
+			"1.2.4"
+			{
+				"gid" "3771050463460587124"
+				"size" "2028989861"
+				"download" "701229248"
+			}
+			"2.0.10"
+			{
+				"gid" "3610364227942991657"
+				"size" "5668925141"
+				"download" "1786019056"
+			}
+			"2.1.4"
+			{
+				"gid" "2480757649215252282"
+				"size" "4607917652"
+				"download" "1521391104"
+			}
+			"2.4.1"
+			{
+				"gid" "4151443525812262793"
+				"size" "4760259691"
+				"download" "1565833808"
+			}
+			"3.3.2"
+			{
+				"gid" "3806228305611966486"
+				"size" "7296242588"
+				"download" "1941342032"
+			}
+			"3.4.4"
+			{
+				"gid" "3046959854243198542"
+				"size" "7242507810"
+				"download" "1928532704"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15044501"
+			"timeupdated" "1721106101"
+		}
+		"1.2.4"
+		{
+			"buildid" "8257638"
+			"description" "Stable version of 1.2.x"
+			"timeupdated" "1649984548"
+		}
+		"2.0.10"
+		{
+			"buildid" "10915984"
+			"description" "Stable version of 2.0.x"
+			"timeupdated" "1683538845"
+		}
+		"2.1.4"
+		{
+			"buildid" "11889066"
+			"description" "Stable version of 2.1.x"
+			"timeupdated" "1695376674"
+		}
+		"2.4.1"
+		{
+			"buildid" "12611209"
+			"description" "Stable version of 2.4.x"
+			"timeupdated" "1701164576"
+		}
+		"3.3.2"
+		{
+			"buildid" "14105857"
+			"description" "Stable version of 3.3.x"
+			"timeupdated" "1716167586"
+		}
+		"3.4.4"
+		{
+			"buildid" "14517466"
+			"description" "\tStable version of 3.4.x"
+			"timeupdated" "1717144257"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26997904"
+"_sha" "70f40e19de461bfa5e21eb95680b3bbef141048a"
+"_size" "3456"
