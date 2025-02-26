@@ -1,0 +1,453 @@
+"appid" "719040"
+"common"
+{
+	"name" "Wasteland 3"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"icon" "86c0cf36d11ec827c0d4b6a64a6d70781d8c1184"
+	"logo" "da6bf9db6ec0ba4f5b24626be7d1490d7870a189"
+	"logo_small" "da6bf9db6ec0ba4f5b24626be7d1490d7870a189_thumb"
+	"clienticon" "c05c1a2ebaef1b04e68f1f2c6629bda1e7b7a053"
+	"clienttga" "f58facd31b409a1fb8c4ce47667fc13bc5508e28"
+	"osextended" "macos64,macosnotarized"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"clienticns" "630ce5a0ab5c0f7131c1bedffdbe2d87f1c26d9a"
+	"linuxclienticon" "d21e8ebc8595f8ba9e09a724fba548d7006cde55"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "7598125"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+		}
+	}
+	"metacritic_name" "Wasteland 3"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "61.63509425758704"
+			"height_pct" "40.60285444250448"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "61.63509425758704"
+				"height_pct" "40.60285444250448"
+			}
+		}
+	}
+	"store_asset_mtime" "1684433785"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "inXile Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "inXile Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Wasteland"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_27" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1598630400"
+	"metacritic_score" "85"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/wasteland-3\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "719040"
+	"store_tags"
+	{
+		"0" "4474"
+		"1" "4747"
+		"2" "6426"
+		"3" "1742"
+		"4" "12095"
+		"5" "4667"
+		"6" "3835"
+		"7" "122"
+		"8" "21725"
+		"9" "10695"
+		"10" "14139"
+		"11" "5851"
+		"12" "1677"
+		"13" "9"
+		"14" "4325"
+		"15" "1695"
+		"16" "3942"
+		"17" "1708"
+		"18" "1685"
+		"19" "3843"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "inXile Entertainment"
+	"publisher" "inXile Entertainment"
+	"homepage" "https://www.inxile-entertainment.com/wasteland3"
+	"listofdlc" "1191060,1382210,1522650,1593330,1642320"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Wasteland 3"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WL3.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "WL3.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Wasteland 3.x86_64"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2360973065"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,russian,polish,brazilian"
+	"hasdepotsindlc" "1"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"719041"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1443191567923058464"
+				"size" "22121681482"
+				"download" "14374423120"
+			}
+		}
+	}
+	"1191060"
+	{
+		"dlcappid" "1191060"
+		"config"
+		{
+			"language" ""
+		}
+	}
+	"1382210"
+	{
+		"dlcappid" "1382210"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1948959394658305946"
+				"size" "3723864805"
+				"download" "3194625056"
+			}
+		}
+	}
+	"719042"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7211657214671521575"
+				"size" "22065400202"
+				"download" "14346298320"
+			}
+		}
+	}
+	"719043"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8841407621984020750"
+				"size" "19959669524"
+				"download" "12285843504"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10163930"
+			"timeupdated" "1671207655"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "200000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Wasteland3/Save Games"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "Wasteland3/Save Games"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "LinuxXdgConfigHome"
+			"path" "Wasteland3/Save Games"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27544319"
+"_sha" "de526d4e92894ef65b5f6dfeecc4ce4dd3f80165"
+"_size" "7687"
