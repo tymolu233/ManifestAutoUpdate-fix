@@ -1,0 +1,869 @@
+"appid" "564310"
+"common"
+{
+	"name" "Serious Sam Fusion 2017 (beta)"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"clienticon" "a010c09f3d2bf89b76f12b372dcfcc1ce7e77757"
+	"clienttga" "580a0bf75d70723ddc4fb6a5e755393c09fd1544"
+	"icon" "d0bd5715f05deeb32f030a5d5e06073870b7daf8"
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+		"xinput" "1"
+		"kbm" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+	}
+	"logo" "b4babc53b42275d5ca120909c04ae77f5724b29b"
+	"logo_small" "b4babc53b42275d5ca120909c04ae77f5724b29b_thumb"
+	"releasestate" "released"
+	"openvrsupport" "1"
+	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1645056000"
+		"tested_build_id" "3897313"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Serious Sam Fusion 2017 (beta)"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "28.276956303313597"
+			"height_pct" "27.15026694687991"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "28.276956303313597"
+				"height_pct" "27.15026694687991"
+			}
+		}
+	}
+	"store_asset_mtime" "1577970531"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Croteam"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Devolver Digital"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Croteam"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Serious Sam"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Croteam"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_37" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_27" "1"
+		"category_30" "1"
+		"category_25" "1"
+		"category_17" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_52" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+	}
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "564310"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "4345"
+		"2" "1663"
+		"3" "4667"
+		"4" "492"
+		"5" "1685"
+		"6" "3859"
+		"7" "21978"
+		"8" "3839"
+		"9" "1774"
+		"10" "1719"
+		"11" "4182"
+		"12" "4136"
+		"13" "1756"
+		"14" "3843"
+		"15" "1693"
+		"16" "4026"
+		"17" "5547"
+		"18" "3841"
+		"19" "1023537"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"gamedir" "serioussam2017"
+	"serverbrowsername" "Serious Sam Fusion 2017"
+	"vrheadsetstreaming" "0"
+	"developer" "Croteam"
+	"publisher" "Devolver Digital"
+	"homepage" "http://www.croteam.com"
+	"listofdlc" "564320,564321,564322,564323,564324,588580,612560"
+}
+"config"
+{
+	"installdir" "Serious Sam Fusion 2017"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Bin/x64/Sam2017.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "612560"
+			}
+		}
+		"2"
+		{
+			"executable" "Bin/x64/Sam2017_Unrestricted.exe"
+			"description" "Moddable"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "612560"
+			}
+		}
+		"3"
+		{
+			"executable" "Bin/x64/Sam2017"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+				"ownsdlc" "612560"
+			}
+		}
+		"4"
+		{
+			"executable" "Bin/x64/Sam2017_Unrestricted"
+			"description" "Moddable"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+				"ownsdlc" "612560"
+			}
+		}
+		"5"
+		{
+			"executable" "Bin/x64/Sam2017"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+				"ownsdlc" "612560"
+			}
+		}
+		"6"
+		{
+			"executable" "Bin/x64/Sam2017_Unrestricted"
+			"description" "Moddable"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+				"ownsdlc" "612560"
+			}
+		}
+		"7"
+		{
+			"executable" "Bin/x64/Sam2017_VR.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "588580"
+			}
+		}
+		"8"
+		{
+			"executable" "Bin/x64/Sam2017_Unrestricted_VR.exe"
+			"description" "Moddable"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "588580"
+			}
+		}
+		"9"
+		{
+			"executable" "Bin/x64/Sam2017_VR"
+			"arguments" "+gfxapi VLK"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+				"ownsdlc" "588580"
+			}
+		}
+		"10"
+		{
+			"executable" "Bin/x64/Sam2017_Unrestricted_VR"
+			"arguments" "+gfxapi VLK"
+			"description" "Moddable"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+				"ownsdlc" "588580"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "564310"
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"564311"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3058252765057505623"
+				"size" "66108128"
+				"download" "20244064"
+			}
+			"legacy"
+			{
+				"gid" "9058243098217933705"
+				"size" "62947312"
+				"download" "19373088"
+			}
+			"previousversion"
+			{
+				"gid" "1936603727155572452"
+				"size" "66090720"
+				"download" "20239056"
+			}
+		}
+	}
+	"564314"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4683445791326265486"
+				"size" "66247904"
+				"download" "20249456"
+			}
+			"legacy"
+			{
+				"gid" "4687582756902538751"
+				"size" "63083504"
+				"download" "19365584"
+			}
+			"previousversion"
+			{
+				"gid" "8770062874984073308"
+				"size" "66222816"
+				"download" "20239440"
+			}
+		}
+	}
+	"564312"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6108047268479187561"
+				"size" "107885968"
+				"download" "28597424"
+			}
+			"legacy"
+			{
+				"gid" "5809512319168401136"
+				"size" "95852368"
+				"download" "26908752"
+			}
+			"previousversion"
+			{
+				"gid" "2726339213033459727"
+				"size" "107910544"
+				"download" "28590544"
+			}
+		}
+	}
+	"564325"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1690814696529534054"
+				"size" "108013008"
+				"download" "28632528"
+			}
+			"legacy"
+			{
+				"gid" "4209005672278008047"
+				"size" "95958928"
+				"download" "26953968"
+			}
+			"previousversion"
+			{
+				"gid" "5839313958464259711"
+				"size" "108017104"
+				"download" "28635840"
+			}
+		}
+	}
+	"564313"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1969001389676046677"
+				"size" "82015000"
+				"download" "22210240"
+			}
+			"legacy"
+			{
+				"gid" "2162808859534152337"
+				"size" "78920656"
+				"download" "20264368"
+			}
+			"previousversion"
+			{
+				"gid" "8146657715243797485"
+				"size" "82035672"
+				"download" "22206000"
+			}
+		}
+	}
+	"564315"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1966032884042260137"
+				"size" "622695576"
+				"download" "613119840"
+			}
+			"legacy"
+			{
+				"gid" "9137594745096579019"
+				"size" "86612519"
+				"download" "74202256"
+			}
+			"previousversion"
+			{
+				"gid" "7106299970430450088"
+				"size" "622695420"
+				"download" "613119648"
+			}
+		}
+	}
+	"564316"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5232176505417580032"
+				"size" "33548240"
+				"download" "9758208"
+			}
+			"legacy"
+			{
+				"gid" "6742612899315318754"
+				"size" "31639504"
+				"download" "9293520"
+			}
+			"previousversion"
+			{
+				"gid" "5425495788287283538"
+				"size" "33548240"
+				"download" "9758208"
+			}
+		}
+	}
+	"564319"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4854554277166262788"
+				"size" "597792"
+				"download" "253856"
+			}
+			"legacy"
+			{
+				"gid" "2304304720782806380"
+				"size" "522528"
+				"download" "221856"
+			}
+			"previousversion"
+			{
+				"gid" "2304304720782806380"
+				"size" "522528"
+				"download" "221856"
+			}
+		}
+	}
+	"564317"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5021062460492838655"
+				"size" "197498"
+				"download" "41776"
+			}
+			"legacy"
+			{
+				"gid" "5021062460492838655"
+				"size" "197498"
+				"download" "41776"
+			}
+			"previousversion"
+			{
+				"gid" "5021062460492838655"
+				"size" "197498"
+				"download" "41776"
+			}
+		}
+	}
+	"564326"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "413132308725781144"
+				"size" "2665637"
+				"download" "621584"
+			}
+			"legacy"
+			{
+				"gid" "5057996120446468363"
+				"size" "2399222"
+				"download" "547264"
+			}
+			"previousversion"
+			{
+				"gid" "5057996120446468363"
+				"size" "2399222"
+				"download" "547264"
+			}
+		}
+	}
+	"564318"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "238730480241967812"
+				"size" "457332"
+				"download" "60384"
+			}
+			"legacy"
+			{
+				"gid" "238730480241967812"
+				"size" "457332"
+				"download" "60384"
+			}
+			"previousversion"
+			{
+				"gid" "238730480241967812"
+				"size" "457332"
+				"download" "60384"
+			}
+		}
+	}
+	"564320"
+	{
+		"dlcappid" "564320"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5899514796160105973"
+				"size" "1442210298"
+				"download" "1436905328"
+			}
+			"legacy"
+			{
+				"gid" "6991559737281757267"
+				"size" "1430268547"
+				"download" "1421901328"
+			}
+			"previousversion"
+			{
+				"gid" "6622626104931470860"
+				"size" "1442210446"
+				"download" "1437025280"
+			}
+		}
+	}
+	"564321"
+	{
+		"dlcappid" "564321"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6349163924485856788"
+				"size" "2403116601"
+				"download" "2402660480"
+			}
+			"legacy"
+			{
+				"gid" "5288554770967904946"
+				"size" "2443411138"
+				"download" "2434548128"
+			}
+			"previousversion"
+			{
+				"gid" "4860266325391278512"
+				"size" "2403116620"
+				"download" "2402659920"
+			}
+		}
+	}
+	"564322"
+	{
+		"dlcappid" "564322"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2559615367601422249"
+				"size" "355176765"
+				"download" "353670464"
+			}
+			"legacy"
+			{
+				"gid" "1438512198882106793"
+				"size" "333908007"
+				"download" "331941632"
+			}
+			"previousversion"
+			{
+				"gid" "6551501518308442918"
+				"size" "355177490"
+				"download" "353668224"
+			}
+		}
+	}
+	"564323"
+	{
+		"dlcappid" "564323"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "653112230861218257"
+				"size" "3158088020"
+				"download" "3156349168"
+			}
+			"legacy"
+			{
+				"gid" "9003143719797568924"
+				"size" "3677768100"
+				"download" "3642040320"
+			}
+			"previousversion"
+			{
+				"gid" "1826897529183025716"
+				"size" "3158087831"
+				"download" "3156327136"
+			}
+		}
+	}
+	"564324"
+	{
+		"dlcappid" "564324"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5050547960255135881"
+				"size" "411864172"
+				"download" "413304304"
+			}
+			"legacy"
+			{
+				"gid" "115674237898852645"
+				"size" "403587002"
+				"download" "397431072"
+			}
+			"previousversion"
+			{
+				"gid" "6857423107190057687"
+				"size" "411864345"
+				"download" "413304096"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3897313"
+			"timeupdated" "1559913942"
+		}
+		"legacy"
+		{
+			"buildid" "2501981"
+			"timeupdated" "1558528252"
+		}
+		"previousversion"
+		{
+			"buildid" "3801124"
+			"description" "Use this to back out if you find problems with the latest update."
+			"timeupdated" "1559913955"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27014150"
+"_sha" "887fb7b6abcc131b93a29022490fb23cd87e8817"
+"_size" "14426"
