@@ -1,0 +1,378 @@
+"appid" "1651560"
+"common"
+{
+	"name" "Fabledom"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "2cb1d506b82a9b23f10371a03a0df72178f271f2"
+	"clienttga" "d52da6331a696f07d8b45354f88e087f90985b48"
+	"clienticon" "91a9d8e9dc4b94a47a8bed3a5392bbd576f2f7b8"
+	"name_localized"
+	{
+		"schinese" "寓言之地 (Fabledom)"
+		"sc_schinese" "寓言之地(Fabledom)"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestatesteamchina" "prerelease"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"sc_schinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1681948800"
+		"tested_build_id" "11022875"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-1"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Fabledom"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-xc"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-xc"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "54.99232125396378"
+			"height_pct" "43.93515642457738"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "54.99232125396378"
+				"height_pct" "43.93515642457738"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1718635641"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Grenaa Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Dear Villagers"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Doyoyo Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Dear Villagers"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1715605117"
+	"metacritic_score" "77"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/fabledom\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1651560"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "1654"
+		"2" "220585"
+		"3" "3810"
+		"4" "4695"
+		"5" "6310"
+		"6" "599"
+		"7" "1684"
+		"8" "4947"
+		"9" "4195"
+		"10" "8945"
+		"11" "597"
+		"12" "5125"
+		"13" "7332"
+		"14" "4726"
+		"15" "9"
+		"16" "22602"
+		"17" "4136"
+		"18" "4305"
+		"19" "12472"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Grenaa Games"
+	"publisher" "Dear Villagers"
+	"homepage" "https://grenaagames.com/"
+}
+"config"
+{
+	"installdir" "Fabledom"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Fabledom.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"1651561"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8577913072958540630"
+				"size" "3974980648"
+				"download" "1438980704"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15133234"
+			"timeupdated" "1721826223"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Grenaa Games/Fabledom/SaveData"
+			"pattern" "*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Grenaa Games/Fabledom/SaveData"
+					"replace" "unty.Grenaa Games.Fabledom.SaveData"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Grenaa Games/Fabledom/SaveData"
+					"replace" ".config/unity3d/Grenaa Games/Fabledom/SaveData"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27670657"
+"_sha" "4564c9a1bd9e0a58bcc20ce4c89f0f7c0cab5bf4"
+"_size" "6802"
