@@ -1,0 +1,821 @@
+"appid" "570"
+"common"
+{
+	"name" "Dota 2"
+	"logo" "d4f836839254be08d8e9dd333ecc9a01782c26d2"
+	"logo_small" "d4f836839254be08d8e9dd333ecc9a01782c26d2_thumb"
+	"icon" "0bbb630d63262dd66d2fdd0f7d37e8661a410075"
+	"clienttga" "5ca2b133f8fdf56c3d81dd73d1254f95f0614265"
+	"clienticon" "c0d15684e6c186289b50dfe083f5c562c57e8fb6"
+	"oslist" "windows,macos,linux"
+	"linuxclienticon" "e1c520b6a98b1fed674a117e9356cdb9ddc6d40c"
+	"controllervr"
+	{
+		"steamvr" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+		}
+	}
+	"osarch" ""
+	"osextended" "macos64"
+	"steamchinaapproved" "1"
+	"name_localized"
+	{
+		"sc_schinese" "Dota 2 刀塔"
+	}
+	"releasestatesteamchina" "released"
+	"timeline_marker_updated" "1739484324"
+	"timeline_marker_svg" "c9e9902151b7e9049145921c09a1aa4e6744530b/markers.svg"
+	"type" "game"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1665619200"
+		"tested_build_id" "8226293"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"market_presence" "1"
+	"metacritic_name" "Dota 2"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,zh-xc"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "39.44811856227203"
+			"height_pct" "35.194257661904885"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "6843027380c3bfd0952449fd9174f492ef2e7b40/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "6843027380c3bfd0952449fd9174f492ef2e7b40/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "06918d1009cc79ffdee853f1ef789cddf8014226/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "06918d1009cc79ffdee853f1ef789cddf8014226/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "06918d1009cc79ffdee853f1ef789cddf8014226/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "39.44811856227203"
+				"height_pct" "35.194257661904885"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "4f0854d4f0b7f620515e390628427f9f37335ffd/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "4f0854d4f0b7f620515e390628427f9f37335ffd/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1739210288"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Valve"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Valve"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Dota"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "37"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_9" "1"
+		"category_29" "1"
+		"category_8" "1"
+		"category_30" "1"
+		"category_35" "1"
+		"category_40" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_63" "1"
+	}
+	"supported_languages"
+	{
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1373389200"
+	"metacritic_score" "90"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/dota-2\?ftag=MCD-06-10aaa1f"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "570"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "1718"
+		"2" "3859"
+		"3" "9"
+		"4" "5055"
+		"5" "5711"
+		"6" "3878"
+		"7" "19"
+		"8" "3843"
+		"9" "1775"
+		"10" "4026"
+		"11" "1685"
+		"12" "1676"
+		"13" "122"
+		"14" "1645"
+		"15" "1684"
+		"16" "4747"
+		"17" "4711"
+		"18" "4231"
+		"19" "599"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "Valve"
+	"dlcavailableonstore" "1"
+	"gamedir" "dota"
+	"homepage" "http://www.dota2.com/"
+	"icon" ""
+	"isfreeapp" "1"
+	"noservers" "0"
+	"primarycache" "571"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"minclientversion" "1738026274"
+	"publisher" "Valve"
+	"listofdlc" "576,581,582,583,584,585,586,218571,218572,218573,218574,218575,218576,218577,218578,218579,218582,313250,318940,373300,401530,476580,480610,539760,633890,635080,665530,859040,859041,1082350,1082351,1082352,1082353,1082354,1082355,1082356,1082357,1082358,1082359,1126980,1126981,1838090,1838091,1838092"
+}
+"config"
+{
+	"app_mappings"
+	{
+		"1"
+		{
+			"platform" "linux"
+			"tool" "SteamLinuxRuntime_sniper"
+			"comment" "sniper SLR"
+		}
+	}
+	"systemprofile" "1"
+	"shortname" "Dota2Beta"
+	"installdir" "dota 2 beta"
+	"contenttype" "3"
+	"verifyupdates" "0"
+	"checkforupdatesbeforelaunch" "1"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "game\\bin\\win64\\dota2.exe"
+			"arguments" "-steam +voice_fadeouttime 0 -prewarm_panorama +r_legacy_vsync 1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Play Dota 2"
+				"sc_schinese" "Play Dota 2"
+			}
+			"description" "Play Dota 2"
+		}
+		"2"
+		{
+			"executable" "game/dota.sh"
+			"arguments" "+@panorama_min_comp_layer_dimension 0 -prewarm_panorama"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Play Dota 2"
+				"sc_schinese" "Play Dota 2"
+			}
+			"description" "Play Dota 2"
+		}
+		"3"
+		{
+			"executable" "game/dota.sh"
+			"arguments" "+@panorama_min_comp_layer_dimension 0 -prewarm_panorama"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Play Dota 2"
+				"sc_schinese" "Play Dota 2"
+			}
+			"description" "Play Dota 2"
+		}
+		"4"
+		{
+			"executable" "game\\bin\\win64\\dota2cfg.exe"
+			"arguments" "-steam -dx11"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "313250"
+			}
+			"description_loc"
+			{
+				"english" "Launch Dota 2 - Tools"
+				"sc_schinese" "Launch Dota 2 - Tools"
+			}
+			"description" "Launch Dota 2 - Tools"
+		}
+	}
+	"launchwithoutworkshopupdates" "1"
+	"enable_duration_control" "1"
+	"duration_control_show_interstitial" "0"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+	"sdr-groups-global" "steam-global,mplay-dota"
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "65535"
+	"cegpublickey" "30819D300D06092A864886F70D010101050003818B003081870281810088E3D4C8D5B4123219EF624EAE9D20A654B877E362A74F299DA57C8FF50B2352F909218EF814377CD004AE679183721AD2D28D1A2A3D9794221F83E791F1BE8809ABF655B807C265CEB213D581CA54A3D00D2DEB50DEE43657D16F8BE040723720131A28042AC4AF5BDD9C3B51072F4675A5C7E761FDA2A7FADA810CEBD5CC0F020111"
+	"checkguid" "client.dll"
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"workshopdepot" "570"
+	"373301"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1747140897741035566"
+				"size" "4063722319"
+				"download" "2284544944"
+			}
+		}
+	}
+	"381451"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1242350594374880984"
+				"size" "2109313162"
+				"download" "945038496"
+			}
+		}
+	}
+	"381452"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5559429930528020871"
+				"size" "2141629979"
+				"download" "1290906528"
+			}
+		}
+	}
+	"381453"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6188924590361252019"
+				"size" "2070640453"
+				"download" "1140713536"
+			}
+		}
+	}
+	"381454"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8788483403344922626"
+				"size" "2136224575"
+				"download" "861154160"
+			}
+		}
+	}
+	"381455"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8623284038136692814"
+				"size" "44819669355"
+				"download" "20878954672"
+			}
+		}
+	}
+	"373302"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3685891750004739876"
+				"size" "804424574"
+				"download" "475597152"
+			}
+		}
+	}
+	"373303"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "236197553661319575"
+				"size" "531612384"
+				"download" "135011344"
+			}
+		}
+	}
+	"373304"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8976184990873086642"
+				"size" "1161576858"
+				"download" "528470304"
+			}
+		}
+	}
+	"373305"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8903775600571334631"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"373306"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2317415197976627688"
+				"size" "1228559304"
+				"download" "528337744"
+			}
+		}
+	}
+	"373307"
+	{
+		"config"
+		{
+			"lowviolence" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2636379485241555173"
+				"size" "202664228"
+				"download" "98317456"
+			}
+		}
+	}
+	"373308"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8126429463115692983"
+				"size" "797728138"
+				"download" "727964672"
+			}
+		}
+	}
+	"373309"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1150888734203855493"
+				"size" "4131181127"
+				"download" "2890579328"
+			}
+		}
+	}
+	"381456"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8954184990626614529"
+				"size" "580546525"
+				"download" "531016032"
+			}
+		}
+	}
+	"381450"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"optionaldlc" "313250"
+		}
+		"dlcappid" "313250"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2595274664290507702"
+				"size" "5665338716"
+				"download" "1572577488"
+			}
+		}
+	}
+	"401531"
+	{
+		"dlcappid" "401530"
+		"config"
+		{
+			"oslist" "windows"
+			"optionaldlc" "401530"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3442758096700779883"
+				"size" "23"
+				"download" "80"
+			}
+		}
+	}
+	"401535"
+	{
+		"dlcappid" "476580"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2416379260168270382"
+				"size" "803269466"
+				"download" "440027776"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "476580"
+		}
+	}
+	"401536"
+	{
+		"dlcappid" "476580"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"optionaldlc" "476580"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8626830787987928686"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17508113"
+			"timeupdated" "1740534236"
+		}
+	}
+	"privatebranches" "1"
+	"appmanagesdlc" "1"
+}
+"ufs"
+{
+	"quota" "2147483647"
+	"maxnumfiles" "2000"
+}
+"_missing_token" "False"
+"_change_number" "27666943"
+"_sha" "8d1dd3ea0f781ebea6f5dbb8c486342a0ff03d23"
+"_size" "14039"
