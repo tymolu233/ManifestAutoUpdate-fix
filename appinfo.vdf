@@ -1,0 +1,1394 @@
+"appid" "245620"
+"common"
+{
+	"name" "Tropico 5"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"logo" "d121d7d94f29984cae3f322b2925cee5b05f5ca2"
+	"logo_small" "d121d7d94f29984cae3f322b2925cee5b05f5ca2_thumb"
+	"icon" "2eeb96375072ce1d25254514f299181956f1513e"
+	"clienttga" "eee3dbafbc8cf9d98a29c473eb51f48059a17408"
+	"clienticon" "95eb89c27c013cbf3cd0422428e16631ebe872a8"
+	"clienticns" "8799970cd5a773de94c0255599fbeebd6eced745"
+	"linuxclienticon" "5a0dd762b270b6d96f86e347766b9d8b341d3fe9"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"russian" "1"
+	}
+	"osarch" ""
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1680307200"
+		"tested_build_id" "5820970"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_AuxFunctionalityNotAccessible_MapEditor"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Tropico 5"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "32"
+			"height_pct" "30"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "32"
+				"height_pct" "30"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1630479287"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Haemimont Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kalypso Media Digital"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Tropico"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "3"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_27" "1"
+		"category_30" "1"
+		"category_17" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1400858400"
+	"metacritic_score" "75"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/tropico-5\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "245620"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "4328"
+		"2" "599"
+		"3" "3810"
+		"4" "3859"
+		"5" "4695"
+		"6" "4754"
+		"7" "12472"
+		"8" "8945"
+		"9" "4182"
+		"10" "1719"
+		"11" "1685"
+		"12" "122"
+		"13" "3987"
+		"14" "1756"
+		"15" "1676"
+		"16" "4136"
+		"17" "4166"
+		"18" "1695"
+		"19" "21"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "Haemimont Games"
+	"publisher" "Kalypso Media Digital"
+	"gamemanualurl" "https://store.steampowered.com/manual/245620/"
+	"listofdlc" "284440,284441,284442,284443,306390,306391,306392,306393,306394,306395,306396,306397,306398,306399,306401"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Tropico 5"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Tropico5Steam.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Tropico5Steam.app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Tropico5"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"nativesteamcontroller" "1"
+	"steamcontrollertemplateindex" "2"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"baselanguages" "english"
+	"workshopdepot" "245620"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"245621"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1567376625565429968"
+				"size" "2234935478"
+				"download" "2151849008"
+			}
+			"1.06"
+			{
+				"gid" "3941026623118256115"
+				"size" "2138641794"
+				"download" "4692807974585"
+			}
+			"1.10_legacy"
+			{
+				"gid" "2937701496497078676"
+				"size" "1964737738"
+				"download" "1891639280"
+			}
+			"1.11_win_only"
+			{
+				"gid" "1601729833740227763"
+				"size" "2234936643"
+				"download" "2151892096"
+			}
+		}
+	}
+	"245622"
+	{
+		"shareddepottype" "0"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7893752326340298922"
+				"size" "16188210"
+				"download" "11135424"
+			}
+			"1.06"
+			{
+				"gid" "4627819554736311103"
+				"size" "7966288"
+				"download" "286553445"
+			}
+			"1.10_legacy"
+			{
+				"gid" "4354243605927080136"
+				"size" "15743698"
+				"download" "11094400"
+			}
+			"1.11_win_only"
+			{
+				"gid" "4951020383538147139"
+				"size" "15494482"
+				"download" "10828608"
+			}
+		}
+	}
+	"245623"
+	{
+		"shareddepottype" "0"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1861159873105320112"
+				"size" "10417246"
+				"download" "4353520"
+			}
+			"1.06"
+			{
+				"gid" "6143036634210582724"
+				"size" "9865055"
+				"download" "4177024326"
+			}
+			"1.10_legacy"
+			{
+				"gid" "8057774726643652231"
+				"size" "10417246"
+				"download" "4353520"
+			}
+			"1.11_win_only"
+			{
+				"gid" "8993212944248204403"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"245624"
+	{
+		"shareddepottype" "0"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7227072470969084566"
+				"size" "11596443"
+				"download" "3641520"
+			}
+			"1.06"
+			{
+				"gid" "4708175076700001599"
+				"size" "9353265"
+				"download" "124364432"
+			}
+			"1.10_legacy"
+			{
+				"gid" "7227072470969084566"
+				"size" "11596443"
+				"download" "3641520"
+			}
+			"1.11_win_only"
+			{
+				"gid" "7288147591876360313"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"245625"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2668377718908871117"
+				"size" "149570621"
+				"download" "149607728"
+			}
+			"1.06"
+			{
+				"gid" "2734689836711024465"
+				"size" "106958984"
+				"download" "188503484820"
+			}
+			"1.10_legacy"
+			{
+				"gid" "3239885665388841341"
+				"size" "149570886"
+				"download" "149608256"
+			}
+			"1.11_win_only"
+			{
+				"gid" "2668377718908871117"
+				"size" "149570621"
+				"download" "149607728"
+			}
+		}
+	}
+	"245626"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3719182068513939783"
+				"size" "155674141"
+				"download" "152287280"
+			}
+			"1.06"
+			{
+				"gid" "5977698865338693033"
+				"size" "112030487"
+				"download" "190509285750"
+			}
+			"1.10_legacy"
+			{
+				"gid" "5616160528288399138"
+				"size" "155673183"
+				"download" "152286384"
+			}
+			"1.11_win_only"
+			{
+				"gid" "3719182068513939783"
+				"size" "155674141"
+				"download" "152287280"
+			}
+		}
+	}
+	"245627"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2744934609506120162"
+				"size" "154442078"
+				"download" "154305904"
+			}
+			"1.06"
+			{
+				"gid" "1840425008085999585"
+				"size" "110558620"
+				"download" "5892053896"
+			}
+			"1.10_legacy"
+			{
+				"gid" "120407535402425651"
+				"size" "154441610"
+				"download" "154305408"
+			}
+			"1.11_win_only"
+			{
+				"gid" "2744934609506120162"
+				"size" "154442078"
+				"download" "154305904"
+			}
+		}
+	}
+	"245628"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7058645992126842533"
+				"size" "159230727"
+				"download" "159045632"
+			}
+			"1.06"
+			{
+				"gid" "1973334114139377270"
+				"size" "111451952"
+				"download" "5948174080"
+			}
+			"1.10_legacy"
+			{
+				"gid" "5784848813069877615"
+				"size" "159230680"
+				"download" "159045568"
+			}
+			"1.11_win_only"
+			{
+				"gid" "7058645992126842533"
+				"size" "159230727"
+				"download" "159045632"
+			}
+		}
+	}
+	"245629"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8181631601722493609"
+				"size" "145305912"
+				"download" "145063504"
+			}
+			"1.06"
+			{
+				"gid" "799414397456618886"
+				"size" "106463948"
+				"download" "5667636056"
+			}
+			"1.10_legacy"
+			{
+				"gid" "9182272371899220136"
+				"size" "145305108"
+				"download" "145062736"
+			}
+			"1.11_win_only"
+			{
+				"gid" "8181631601722493609"
+				"size" "145305912"
+				"download" "145063504"
+			}
+		}
+	}
+	"245630"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2870677668750364814"
+				"size" "100278770"
+				"download" "100353536"
+			}
+			"1.06"
+			{
+				"gid" "5262641424359059338"
+				"size" "100216709"
+				"download" "5331201312"
+			}
+			"1.10_legacy"
+			{
+				"gid" "7568871452013011777"
+				"size" "100277894"
+				"download" "100352544"
+			}
+			"1.11_win_only"
+			{
+				"gid" "2870677668750364814"
+				"size" "100278770"
+				"download" "100353536"
+			}
+		}
+	}
+	"245631"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3396887328161017122"
+				"size" "3721043"
+				"download" "3738864"
+			}
+			"1.06"
+			{
+				"gid" "8827564814482569594"
+				"size" "3651342"
+				"download" "62955688"
+			}
+			"1.10_legacy"
+			{
+				"gid" "4367234487887109410"
+				"size" "3721187"
+				"download" "3739104"
+			}
+			"1.11_win_only"
+			{
+				"gid" "3396887328161017122"
+				"size" "3721043"
+				"download" "3738864"
+			}
+		}
+	}
+	"245632"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3883481006768541929"
+				"size" "24811148"
+				"download" "24717712"
+			}
+			"1.06"
+			{
+				"gid" "5629503788117931227"
+				"size" "24582337"
+				"download" "1180728464"
+			}
+			"1.10_legacy"
+			{
+				"gid" "5174963002030451755"
+				"size" "24805696"
+				"download" "24712192"
+			}
+			"1.11_win_only"
+			{
+				"gid" "3883481006768541929"
+				"size" "24811148"
+				"download" "24717712"
+			}
+		}
+	}
+	"245633"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7267719611518301745"
+				"size" "161161072"
+				"download" "161266640"
+			}
+			"1.06"
+			{
+				"gid" "346476101617189150"
+				"size" "159576318"
+				"download" "234445842834"
+			}
+			"1.10_legacy"
+			{
+				"gid" "430129789218358245"
+				"size" "161160535"
+				"download" "161266816"
+			}
+			"1.11_win_only"
+			{
+				"gid" "7267719611518301745"
+				"size" "161161072"
+				"download" "161266640"
+			}
+		}
+	}
+	"245634"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8605820867900581191"
+				"size" "1146949"
+				"download" "1158672"
+			}
+			"1.10_legacy"
+			{
+				"gid" "5260587948692192653"
+				"size" "1146842"
+				"download" "1158640"
+			}
+			"1.11_win_only"
+			{
+				"gid" "8605820867900581191"
+				"size" "1146949"
+				"download" "1158672"
+			}
+		}
+	}
+	"284442"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1888771577249181526"
+				"size" "27103630"
+				"download" "26378464"
+			}
+			"1.06"
+			{
+				"gid" "6774404449515792103"
+				"size" "27103632"
+				"download" "1458973136"
+			}
+			"1.10_legacy"
+			{
+				"gid" "3180647180300712593"
+				"size" "27103632"
+				"download" "26378432"
+			}
+			"1.11_win_only"
+			{
+				"gid" "1564592690822180126"
+				"size" "27103643"
+				"download" "26378464"
+			}
+		}
+		"dlcappid" "284442"
+	}
+	"284443"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8446242189556702839"
+				"size" "197136"
+				"download" "194704"
+			}
+			"1.06"
+			{
+				"gid" "4104690178025176362"
+				"size" "197136"
+				"download" "197296"
+			}
+			"1.10_legacy"
+			{
+				"gid" "7425137202747716872"
+				"size" "197123"
+				"download" "191440"
+			}
+			"1.11_win_only"
+			{
+				"gid" "6943147567785322939"
+				"size" "197127"
+				"download" "191616"
+			}
+		}
+		"dlcappid" "284443"
+	}
+	"306390"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "748875246840928526"
+				"size" "27669435"
+				"download" "27872288"
+			}
+			"1.06"
+			{
+				"gid" "228643297588183742"
+				"size" "5551132"
+				"download" "2406191"
+			}
+			"1.10_legacy"
+			{
+				"gid" "7105017743239027234"
+				"size" "27663853"
+				"download" "27878592"
+			}
+			"1.11_win_only"
+			{
+				"gid" "44073895132683674"
+				"size" "27669534"
+				"download" "27874432"
+			}
+		}
+		"dlcappid" "306390"
+	}
+	"306391"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1721736325688159246"
+				"size" "12187530"
+				"download" "12298496"
+			}
+			"1.06"
+			{
+				"gid" "1443117130099724553"
+				"size" "23651047"
+				"download" "21394693"
+			}
+			"1.10_legacy"
+			{
+				"gid" "4452229662902773599"
+				"size" "12187605"
+				"download" "12301648"
+			}
+			"1.11_win_only"
+			{
+				"gid" "6872388173492971491"
+				"size" "12187533"
+				"download" "12295392"
+			}
+		}
+		"dlcappid" "306391"
+	}
+	"306392"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5890004809881832425"
+				"size" "31558452"
+				"download" "31896416"
+			}
+			"1.06"
+			{
+				"gid" "7985872925134154458"
+				"size" "11388189"
+				"download" "4019889572"
+			}
+			"1.10_legacy"
+			{
+				"gid" "1612834159887442040"
+				"size" "31552748"
+				"download" "31891552"
+			}
+			"1.11_win_only"
+			{
+				"gid" "3350394945545537935"
+				"size" "31558395"
+				"download" "31898288"
+			}
+		}
+		"dlcappid" "306392"
+	}
+	"306393"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4460929725135031907"
+				"size" "18540401"
+				"download" "18742336"
+			}
+			"1.06"
+			{
+				"gid" "4007302820058564554"
+				"size" "19521793"
+				"download" "76729576"
+			}
+			"1.10_legacy"
+			{
+				"gid" "9209310063964002578"
+				"size" "18534653"
+				"download" "18736752"
+			}
+			"1.11_win_only"
+			{
+				"gid" "6893727125414523856"
+				"size" "18540338"
+				"download" "18742192"
+			}
+		}
+		"dlcappid" "306393"
+	}
+	"306394"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5555473963640845646"
+				"size" "31263621"
+				"download" "31603456"
+			}
+			"1.06"
+			{
+				"gid" "3459477607830433920"
+				"size" "5069046"
+				"download" "5063504"
+			}
+			"1.10_legacy"
+			{
+				"gid" "1157654742647053825"
+				"size" "31258120"
+				"download" "31595504"
+			}
+			"1.11_win_only"
+			{
+				"gid" "3604819308201818318"
+				"size" "31263772"
+				"download" "31601376"
+			}
+		}
+		"dlcappid" "306394"
+	}
+	"306395"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4178786594430472446"
+				"size" "12711968"
+				"download" "12842496"
+			}
+			"1.06"
+			{
+				"gid" "6596136707022989566"
+				"size" "22969218"
+				"download" "80107696"
+			}
+			"1.10_legacy"
+			{
+				"gid" "1519335084330180625"
+				"size" "12711885"
+				"download" "12842304"
+			}
+			"1.11_win_only"
+			{
+				"gid" "1186040229635667825"
+				"size" "12711963"
+				"download" "12842416"
+			}
+		}
+		"dlcappid" "306395"
+	}
+	"306396"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8894429325608657879"
+				"size" "7357901"
+				"download" "7404912"
+			}
+			"1.06"
+			{
+				"gid" "4294935596605608125"
+				"size" "19046169"
+				"download" "16936336"
+			}
+			"1.10_legacy"
+			{
+				"gid" "5585535186992500106"
+				"size" "7357901"
+				"download" "7404880"
+			}
+			"1.11_win_only"
+			{
+				"gid" "869390567077083260"
+				"size" "7357902"
+				"download" "7404896"
+			}
+		}
+		"dlcappid" "306396"
+	}
+	"306397"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6217066128049704089"
+				"size" "35824683"
+				"download" "36220288"
+			}
+			"1.06"
+			{
+				"gid" "6101526622733537101"
+				"size" "8955864"
+				"download" "8849920"
+			}
+			"1.10_legacy"
+			{
+				"gid" "8786231714545742405"
+				"size" "35818960"
+				"download" "36216096"
+			}
+			"1.11_win_only"
+			{
+				"gid" "6120771338736225589"
+				"size" "35824666"
+				"download" "36221680"
+			}
+		}
+		"dlcappid" "306397"
+	}
+	"306398"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8417156979229263904"
+				"size" "8601291"
+				"download" "8668960"
+			}
+			"1.06"
+			{
+				"gid" "2653550103670308059"
+				"size" "20206486"
+				"download" "13917968"
+			}
+			"1.10_legacy"
+			{
+				"gid" "5945324427744979199"
+				"size" "8601291"
+				"download" "8669072"
+			}
+			"1.11_win_only"
+			{
+				"gid" "232066581846166316"
+				"size" "8601352"
+				"download" "8669152"
+			}
+		}
+		"dlcappid" "306398"
+	}
+	"306399"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3858730656354745941"
+				"size" "40264869"
+				"download" "40720240"
+			}
+			"1.06"
+			{
+				"gid" "4267739049920837701"
+				"size" "12942921"
+				"download" "1408926"
+			}
+			"1.10_legacy"
+			{
+				"gid" "2839210844224610769"
+				"size" "40259286"
+				"download" "40703824"
+			}
+			"1.11_win_only"
+			{
+				"gid" "3171979380610692120"
+				"size" "40264954"
+				"download" "40720112"
+			}
+		}
+		"dlcappid" "306399"
+	}
+	"306400"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6906665788270132973"
+				"size" "0"
+				"download" "0"
+			}
+			"1.06"
+			{
+				"gid" "6906665788270132973"
+				"size" "0"
+				"download" "0"
+			}
+			"1.10_legacy"
+			{
+				"gid" "6906665788270132973"
+				"size" "0"
+				"download" "0"
+			}
+			"1.11_win_only"
+			{
+				"gid" "6906665788270132973"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"dlcappid" "306400"
+	}
+	"284440"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9009783785157524027"
+				"size" "119263963"
+				"download" "120517136"
+			}
+			"1.06"
+			{
+				"gid" "2856051874821674600"
+				"size" "27436478"
+				"download" "1404783976"
+			}
+			"1.10_legacy"
+			{
+				"gid" "4083261528264885347"
+				"size" "113813536"
+				"download" "114994960"
+			}
+			"1.11_win_only"
+			{
+				"gid" "3651910856606431884"
+				"size" "119262627"
+				"download" "120511328"
+			}
+		}
+		"dlcappid" "284440"
+	}
+	"284441"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5991065312434943780"
+				"size" "135269504"
+				"download" "136644288"
+			}
+			"1.06"
+			{
+				"gid" "8034970332546529871"
+				"size" "101915038"
+				"download" "178338506960"
+			}
+			"1.10_legacy"
+			{
+				"gid" "4959894472424183716"
+				"size" "135265441"
+				"download" "136649760"
+			}
+			"1.11_win_only"
+			{
+				"gid" "973893545484594173"
+				"size" "135269395"
+				"download" "136645216"
+			}
+		}
+		"dlcappid" "284441"
+	}
+	"306401"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6251590328878828055"
+				"size" "38534240"
+				"download" "38937968"
+			}
+			"1.10_legacy"
+			{
+				"gid" "7462466238698830839"
+				"size" "38534240"
+				"download" "38938032"
+			}
+			"1.11_win_only"
+			{
+				"gid" "7683979184202039963"
+				"size" "38534240"
+				"download" "38937920"
+			}
+		}
+		"dlcappid" "306401"
+	}
+	"306402"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8487748089405776852"
+				"size" "27842489"
+				"download" "28122000"
+			}
+			"1.10_legacy"
+			{
+				"gid" "2788320190134360741"
+				"size" "27843045"
+				"download" "28122416"
+			}
+			"1.11_win_only"
+			{
+				"gid" "8640952250455687217"
+				"size" "27842489"
+				"download" "28121696"
+			}
+		}
+		"dlcappid" "306402"
+	}
+	"306403"
+	{
+		"dlcappid" "306403"
+	}
+	"306404"
+	{
+		"dlcappid" "306404"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5820970"
+			"timeupdated" "1605191011"
+		}
+		"1.06"
+		{
+			"buildid" "475623"
+			"description" "1.06 for OSX 10.7 and 10.8 only"
+		}
+		"1.10_legacy"
+		{
+			"buildid" "769271"
+			"description" "1.10 Win/Linux/Mac Legacy"
+			"timeupdated" "1601452417"
+		}
+		"1.11_win_only"
+		{
+			"buildid" "5426052"
+			"description" "V1.11 Win only test"
+			"timeupdated" "1605103199"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Tropico 5/{64BitSteamID}"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "game/{64BitSteamID}"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"2"
+		{
+			"root" "MacAppSupport"
+			"path" "com.kalypsomedia.tropico5.steam/{64BitSteamID}"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27151772"
+"_sha" "b707923f403eef0c9a5366fb949362b2cf17a318"
+"_size" "23591"
