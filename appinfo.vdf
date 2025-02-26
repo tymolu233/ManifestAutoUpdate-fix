@@ -1,0 +1,487 @@
+"appid" "1942280"
+"common"
+{
+	"name" "Brotato"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "cf95923a6a3ae16d8b8c89d1092b28ff2e084db7"
+	"clienttga" "00841b11ba7339dbbb57c4c157391f2bbbefda53"
+	"icon" "256b74e935280a11e9cfdfc03e02137bbf0c9a7a"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "土豆兄弟(Brotato)"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1665187200"
+		"tested_build_id" "9618908"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"3"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "28.35472578763128"
+			"height_pct" "84.04255393158452"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "28.35472578763128"
+				"height_pct" "84.04255393158452"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729866057"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Blobfish"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Blobfish"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Blobfish"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_30" "1"
+		"category_43" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_1" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1687514375"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1942280"
+	"store_tags"
+	{
+		"0" "1716"
+		"1" "4182"
+		"2" "42804"
+		"3" "4885"
+		"4" "3942"
+		"5" "1662"
+		"6" "5547"
+		"7" "3959"
+		"8" "3841"
+		"9" "1646"
+		"10" "4711"
+		"11" "3859"
+		"12" "1773"
+		"13" "597"
+		"14" "4637"
+		"15" "19"
+		"16" "7481"
+		"17" "122"
+		"18" "3871"
+		"19" "1685"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,beta,dlc_beta,testing,testing-dlc-seaven,testing-seaven,v1.1.0.0-compat"
+	"developer" "Blobfish"
+	"publisher" "Blobfish"
+	"homepage" "https://blobfishgames.com/press/brotato/"
+	"listofdlc" "2868390"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Brotato"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Brotato.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "GodotWorkshopUtility.exe"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "modding"
+			}
+		}
+		"2"
+		{
+			"executable" "GodotWorkshopUtility.exe"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "testing"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65528"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"workshopdepot" "1942280"
+	"1942281"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1647749636684772628"
+				"size" "207449959"
+				"download" "136524752"
+			}
+			"modding"
+			{
+				"gid" "1686462306304678426"
+				"size" "173921619"
+				"download" "88343152"
+			}
+			"v1.0.0.3"
+			{
+				"gid" "2496830421398627117"
+				"size" "178258188"
+				"download" "88781184"
+			}
+			"beta"
+			{
+				"gid" "3733297323835781086"
+				"size" "207444533"
+				"download" "136524400"
+			}
+			"reset"
+			{
+				"gid" "8348398703013273744"
+				"size" "214264315"
+				"download" "138370736"
+			}
+			"v1.1.0.0-compat"
+			{
+				"gid" "6354450228736146326"
+				"size" "214264123"
+				"download" "138370976"
+			}
+			"v1.1.7.1-godot-353"
+			{
+				"gid" "4648537647290923888"
+				"size" "214427329"
+				"download" "138410928"
+			}
+		}
+	}
+	"2868390"
+	{
+		"dlcappid" "2868390"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6561388553751889722"
+				"size" "55322304"
+				"download" "52502928"
+			}
+			"beta"
+			{
+				"gid" "2172352482602970124"
+				"size" "55315008"
+				"download" "52502896"
+			}
+			"v1.1.0.0-compat"
+			{
+				"gid" "8743804879875762247"
+				"size" "55316928"
+				"download" "52500512"
+			}
+			"v1.1.7.1-godot-353"
+			{
+				"gid" "5196353711354815765"
+				"size" "55325860"
+				"download" "52502480"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17337505"
+			"timeupdated" "1739369999"
+		}
+		"modding"
+		{
+			"buildid" "12879113"
+			"description" "Upload mods to the Steam Workshop"
+			"timeupdated" "1701778669"
+		}
+		"v1.0.0.3"
+		{
+			"buildid" "11535613"
+			"description" "Play using this previous version of the game"
+			"timeupdated" "1701779214"
+		}
+		"beta"
+		{
+			"buildid" "17454424"
+			"description" "Test new updates before they go public, may be unstable"
+			"timeupdated" "1740138921"
+		}
+		"reset"
+		{
+			"buildid" "16182449"
+			"description" "(!) THIS BRANCH WILL RESET YOUR SAVE. Includes button to reset achievements"
+			"timeupdated" "1729870746"
+		}
+		"v1.1.0.0-compat"
+		{
+			"buildid" "16171207"
+			"description" " Play using this previous version of the game"
+			"timeupdated" "1734532162"
+		}
+		"v1.1.7.1-godot-353"
+		{
+			"buildid" "16485193"
+			"description" "Old version of Godot if you encounter issues with Godot 3.6"
+			"timeupdated" "1734432501"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Brotato/{64BitSteamID}"
+			"pattern" "*.json"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27613398"
+"_sha" "cf17995e289a4999df2e256ce4c43a33316fc412"
+"_size" "8893"
