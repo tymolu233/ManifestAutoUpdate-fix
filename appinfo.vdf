@@ -1,0 +1,384 @@
+"appid" "291860"
+"common"
+{
+	"name" "Pit People"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"logo" "f0524d036801b1e3cbc5519954f2fc188d96d3be"
+	"logo_small" "f0524d036801b1e3cbc5519954f2fc188d96d3be_thumb"
+	"icon" "6805486828108ae601889aa8c82b4ed1781790f2"
+	"clienttga" "68dd057f029d7a5a460bf4afa6c28ff2a79caa2b"
+	"clienticon" "e839396793b87405ffb8bc9482cb49ee5fe6d31c"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "3938722"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"metacritic_name" "Pit People"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "27.63413057530704"
+			"height_pct" "93.75"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "27.63413057530704"
+				"height_pct" "93.75"
+			}
+		}
+	}
+	"store_asset_mtime" "1721669395"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "The Behemoth"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "The Behemoth"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "The Behemoth"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_29" "1"
+		"category_44" "1"
+		"category_43" "1"
+		"category_24" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1519977600"
+	"steam_release_date" "1520010180"
+	"metacritic_score" "78"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/pit-people\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "291860"
+	"store_tags"
+	{
+		"0" "4325"
+		"1" "3843"
+		"2" "3871"
+		"3" "4136"
+		"4" "9"
+		"5" "10397"
+		"6" "1719"
+		"7" "1685"
+		"8" "492"
+		"9" "1677"
+		"10" "3841"
+		"11" "3859"
+		"12" "4182"
+		"13" "597"
+		"14" "122"
+		"15" "19"
+		"16" "14139"
+		"17" "1741"
+		"18" "1695"
+		"19" "1717"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "The Behemoth"
+	"publisher" "The Behemoth"
+	"homepage" "https://www.pitpeople.com"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Pit People"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "pitpeople.exe"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Pit People.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"1263946689"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,preview,proto,proto_osx"
+		}
+		"1263951709"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,preview,proto,proto_osx"
+		}
+		"1263955090"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,preview,proto,proto_osx"
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian"
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"291861"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6199561155099015973"
+				"size" "2078102841"
+				"download" "1980118720"
+			}
+		}
+	}
+	"291865"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"291862"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3938722"
+			"timeupdated" "1561396434"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "128"
+}
+"_missing_token" "False"
+"_change_number" "27114216"
+"_sha" "b3100b78d9b1ad82c48197828172a104651ebdf8"
+"_size" "6614"
