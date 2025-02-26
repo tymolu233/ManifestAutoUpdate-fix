@@ -1,0 +1,660 @@
+"appid" "312670"
+"common"
+{
+	"name" "Strange Brigade"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "6fc0370734c31cb077e4a003e066763597c90dd7"
+	"clienttga" "40ebb463851142cd97398ff2ed22bdf0cf97dbac"
+	"icon" "328f1ee6525320b82ad06033da1e0194a9ae0436"
+	"logo" "b5183c78c710a6325647c8687637939d2ae34d36"
+	"logo_small" "b5183c78c710a6325647c8687637939d2ae34d36_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "312670_eula_0"
+			"name" "Strange Brigade EULA"
+			"url" "https://store.steampowered.com//eula/312670_eula_0"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "3331739"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Strange Brigade"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "60.73512252042008"
+			"height_pct" "61.39871764426501"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "60.73512252042008"
+				"height_pct" "61.39871764426501"
+			}
+		}
+	}
+	"store_asset_mtime" "1561128296"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Rebellion"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Rebellion"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_29" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1535418000"
+	"metacritic_score" "68"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/strange-brigade\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "312670"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "21"
+		"2" "1685"
+		"3" "1659"
+		"4" "3859"
+		"5" "1697"
+		"6" "1774"
+		"7" "3843"
+		"8" "4182"
+		"9" "4667"
+		"10" "3814"
+		"11" "6730"
+		"12" "1664"
+		"13" "1667"
+		"14" "1695"
+		"15" "4136"
+		"16" "1719"
+		"17" "1662"
+		"18" "4508"
+		"19" "16094"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "Rebellion"
+	"publisher" "Rebellion"
+	"homepage" "https://strangebrigade.com/"
+	"listofdlc" "826080,826081,826082,826083,826084,826085,826086,826087,826088,910560,920960"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "StrangeBrigade"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin\\StrangeBrigade.exe"
+			"description" "Launch"
+			"type" "none"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"1568980370"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,agerating,branch1,compatibility,controllerreview,devbeta,e3demo,externalqa,externalqa2,lookback,nightly,nvbranch,partnerdemo,partnerdemo2,playthrough_unstable,review,soldout,stable,submissionreview"
+		}
+	}
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"312671"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6384116069032795441"
+				"size" "505414432"
+				"download" "288172032"
+			}
+		}
+	}
+	"312672"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5179276132694182298"
+				"size" "830225775"
+				"download" "631743552"
+			}
+		}
+	}
+	"312673"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5175632726159802832"
+				"size" "88070569"
+				"download" "71294192"
+			}
+		}
+	}
+	"312674"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1045730485590701379"
+				"size" "20838297728"
+				"download" "13716645568"
+			}
+		}
+	}
+	"312675"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6434654279715062752"
+				"size" "3048284813"
+				"download" "1747184448"
+			}
+		}
+	}
+	"312676"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8664982138400399131"
+				"size" "8609231291"
+				"download" "6413907200"
+			}
+		}
+	}
+	"312677"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2511699933593818932"
+				"size" "2208438885"
+				"download" "1605406640"
+			}
+		}
+	}
+	"312678"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7239270272355280159"
+				"size" "459255"
+				"download" "111248"
+			}
+		}
+	}
+	"312679"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4498634764385291286"
+				"size" "476398"
+				"download" "112832"
+			}
+		}
+	}
+	"826089"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "458616485806171809"
+				"size" "257968"
+				"download" "102848"
+			}
+		}
+	}
+	"903890"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4192292735721304608"
+				"size" "494404"
+				"download" "114352"
+			}
+		}
+	}
+	"903891"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4817289828532266177"
+				"size" "490010"
+				"download" "114496"
+			}
+		}
+	}
+	"903892"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6594183272760221033"
+				"size" "481208"
+				"download" "110960"
+			}
+		}
+	}
+	"903893"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3330333222147203167"
+				"size" "299482"
+				"download" "109056"
+			}
+		}
+	}
+	"903894"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4006597583536618838"
+				"size" "315180"
+				"download" "106640"
+			}
+		}
+	}
+	"903895"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7771789655402343549"
+				"size" "462422"
+				"download" "115424"
+			}
+		}
+	}
+	"903896"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5779103003841739764"
+				"size" "469212"
+				"download" "117552"
+			}
+		}
+	}
+	"903897"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5900821032968014150"
+				"size" "487480"
+				"download" "113184"
+			}
+		}
+	}
+	"826083"
+	{
+		"dlcappid" "826083"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4034826216629893668"
+				"size" "904454510"
+				"download" "704877456"
+			}
+		}
+	}
+	"826085"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5909233017413341135"
+				"size" "818951106"
+				"download" "672359552"
+			}
+		}
+		"dlcappid" "826085"
+	}
+	"826087"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1276871526972175210"
+				"size" "1907337503"
+				"download" "1355983920"
+			}
+		}
+		"dlcappid" "826087"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3331739"
+			"timeupdated" "1543241645"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "134217728"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Strange Brigade/PC_ProfileSaves/{64BitSteamID}/"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27138190"
+"_sha" "e005119c843d379a3747fe1e443e607bd464403f"
+"_size" "10445"
