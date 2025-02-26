@@ -1,0 +1,493 @@
+"appid" "470310"
+"common"
+{
+	"name" "TROUBLESHOOTER: Abandoned Children"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "470310_eula_0"
+			"name" "Troubleshooter EULA"
+			"url" "http://store.steampowered.com//eula/470310_eula_0"
+		}
+	}
+	"clienttga" "708c49a70d36449c8a3f6a455b558641aae21c5b"
+	"clienticon" "efa1220b653e762fc070eff989eea50ec9d4f9d6"
+	"icon" "3bf82fbc61ee907323fb8d7cfd4b1b568a81219e"
+	"logo" "d16a3f49d6ff427df4664234f1eb57ff9d824c92"
+	"logo_small" "d16a3f49d6ff427df4664234f1eb57ff9d824c92_thumb"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"japanese" "1"
+	}
+	"releasestate" "released"
+	"name_localized"
+	{
+		"koreana" "트러블슈터: 버려진 아이들"
+		"schinese" "纷争终结者: 被遗弃的孩子们"
+		"japanese" "トラブルシューター: 捨てられた子供たち"
+		"tchinese" "紛爭終結者: 被遺棄的孩子們"
+	}
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1667952000"
+		"tested_build_id" "9521289"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "53.485929825513566"
+			"height_pct" "23.782949418190398"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "53.485929825513566"
+				"height_pct" "23.782949418190398"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1650008944"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Dandylion"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Dandylion"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "TROUBLESHOOTER"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_29" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1587649484"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "470310"
+	"store_tags"
+	{
+		"0" "4474"
+		"1" "21725"
+		"2" "14139"
+		"3" "1677"
+		"4" "17305"
+		"5" "1741"
+		"6" "4684"
+		"7" "10695"
+		"8" "4434"
+		"9" "7208"
+		"10" "122"
+		"11" "9"
+		"12" "7481"
+		"13" "3854"
+		"14" "4305"
+		"15" "4325"
+		"16" "1742"
+		"17" "4166"
+		"18" "3871"
+		"19" "4085"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Dandylion"
+	"publisher" "Dandylion"
+	"homepage" "http://www.dandylion.co.kr"
+	"listofdlc" "1345800,1466120,1856370,2168550,2168560,2168561,2168562,2168563,2168564,2168565,2168566,2168567,2168568,2168580,2168581,2168582,2670390"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Troubleshooter"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Release/bin/ProtoLion.exe"
+			"arguments" "--pack --usedic --steam main"
+			"workingdir" "Release/bin/"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "65533"
+}
+"depots"
+{
+	"baselanguages" "english,koreana,schinese,tchinese,russian,japanese"
+	"hasdepotsindlc" "0"
+	"workshopdepot" "470310"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"470311"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7889871588892160777"
+				"size" "9288150746"
+				"download" "8983397056"
+			}
+		}
+	}
+	"470312"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3471236626838120580"
+				"size" "488"
+				"download" "480"
+			}
+		}
+	}
+	"470313"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1120484937661759009"
+				"size" "488"
+				"download" "480"
+			}
+		}
+	}
+	"470315"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1520036192520024541"
+				"size" "488"
+				"download" "480"
+			}
+		}
+	}
+	"1345800"
+	{
+		"dlcappid" "1345800"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5504059710883603641"
+				"size" "2476323609"
+				"download" "2040477232"
+			}
+		}
+	}
+	"1466120"
+	{
+		"dlcappid" "1466120"
+	}
+	"1856370"
+	{
+		"dlcappid" "1856370"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4143785560662856301"
+				"size" "2116171869"
+				"download" "2075348800"
+			}
+		}
+	}
+	"2670390"
+	{
+		"dlcappid" "2670390"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8539359198381256130"
+				"size" "1921256578"
+				"download" "1853698240"
+			}
+		}
+	}
+	"470316"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4529807692992495605"
+				"size" "490"
+				"download" "480"
+			}
+		}
+	}
+	"470317"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1221415272628232678"
+				"size" "488"
+				"download" "480"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17452378"
+			"timeupdated" "1740130019"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "30"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Release/bin/saves"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "TroubleShooter"
+			"pattern" "key_binding.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27665934"
+"_sha" "b79b8bd124672d60de23696965438bbe36eb1e8e"
+"_size" "8343"
