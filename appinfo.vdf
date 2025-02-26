@@ -1,0 +1,342 @@
+"appid" "1087760"
+"common"
+{
+	"name" "The Gunk"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "2a3deb0e9251f0f6a893f060dde83fed90ea8680"
+	"logo_small" "2a3deb0e9251f0f6a893f060dde83fed90ea8680_thumb"
+	"icon" "049bdf3e32632a92e31da4357a053e4b839b8ae8"
+	"clienticon" "7fd26daa42546ce195cf37e3fd258ce5a5354139"
+	"clienttga" "578ad7e1d0cb343c47a3b86f655375f2ef32aecd"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1673395200"
+		"tested_build_id" "8792270"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "54.534883720930225"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "54.534883720930225"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1651422128"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Image &amp; Form Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Thunderful Publishing"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Thunderful Publishing"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1651244398"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1087760"
+	"store_tags"
+	{
+		"0" "4106"
+		"1" "4166"
+		"2" "3942"
+		"3" "5350"
+		"4" "5395"
+		"5" "1654"
+		"6" "1755"
+		"7" "7208"
+		"8" "1697"
+		"9" "3834"
+		"10" "4305"
+		"11" "21"
+		"12" "7481"
+		"13" "7250"
+		"14" "1628"
+		"15" "1742"
+		"16" "4182"
+		"17" "30358"
+		"18" "7702"
+		"19" "19"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Image &amp; Form Games"
+	"publisher" "Thunderful Publishing"
+	"homepage" "https://thunderfulgames.com/games/the-gunk/"
+}
+"config"
+{
+	"installdir" "The Gunk"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Dust.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1087761"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "883226923566714580"
+				"size" "11174528199"
+				"download" "5305520112"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8792270"
+			"timeupdated" "1653483151"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Dust/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Dust/Saved/Config/WindowsNoEditor"
+			"pattern" "GameUserSettings.ini"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27613673"
+"_sha" "1f152dfe5a2dbdd6a3fce56bff10aa0579736aff"
+"_size" "5851"
