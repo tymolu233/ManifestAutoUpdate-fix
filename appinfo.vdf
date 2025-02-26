@@ -1,0 +1,477 @@
+"appid" "798490"
+"common"
+{
+	"name" "Othercide"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "eaf4c9d8c5f8551ecd4bac32a9a3d8c280af18ea"
+	"logo_small" "eaf4c9d8c5f8551ecd4bac32a9a3d8c280af18ea_thumb"
+	"icon" "6fcb8e2aa8917e6a26029f1c5f14e3948e3c12a4"
+	"clienttga" "c7eed7700a038ba040b653e4a79b94b8312b4cb9"
+	"clienticon" "fa0cc16f4d8bad3bbd4ebe3451ff2c614118b024"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+	}
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1668124800"
+		"tested_build_id" "7883621"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Othercide"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "41.69582562402924"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "41.69582562402924"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1668533383"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Lightbulb Crew"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Focus Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Focus Entertainment"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Lightbulb Crew"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1595887200"
+	"metacritic_score" "78"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/othercide\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "798490"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "492"
+		"2" "14139"
+		"3" "7208"
+		"4" "4325"
+		"5" "3959"
+		"6" "4604"
+		"7" "1677"
+		"8" "4342"
+		"9" "1708"
+		"10" "1667"
+		"11" "1741"
+		"12" "1716"
+		"13" "3952"
+		"14" "4026"
+		"15" "4182"
+		"16" "4166"
+		"17" "1733"
+		"18" "1756"
+		"19" "1759"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "focus_playtest"
+	"developer" "Lightbulb Crew"
+	"publisher" "Focus Entertainment"
+	"homepage" "https://www.focus-home.com/games/othercide"
+	"listofdlc" "1347640,1751540"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Othercide"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Othercide.exe"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "artbook.bat"
+			"description" "Artbook"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "1347640"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish"
+	"798491"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1940293320721961721"
+				"size" "6488299599"
+				"download" "4862630560"
+			}
+		}
+	}
+	"798492"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+	}
+	"798493"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+	}
+	"798494"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+	}
+	"798495"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+	}
+	"798496"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+	}
+	"798497"
+	{
+		"config"
+		{
+			"language" "portuguese"
+		}
+	}
+	"798498"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+	}
+	"798499"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+	}
+	"1267820"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+	}
+	"1267821"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+	}
+	"1267822"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+	}
+	"1267823"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+	}
+	"1347640"
+	{
+		"dlcappid" "1347640"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1351273822905948026"
+				"size" "273594552"
+				"download" "63820544"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7883621"
+			"timeupdated" "1639666005"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "_saves_/u{64BitSteamID}/_save_0"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "_saves_/u{64BitSteamID}/_save_1"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "_saves_/u{64BitSteamID}/_save_2"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27442628"
+"_sha" "77a544d8dd8ea86afbb6ef89add52fdd5e9edd61"
+"_size" "7567"
