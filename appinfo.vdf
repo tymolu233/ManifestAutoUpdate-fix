@@ -1,0 +1,1001 @@
+"appid" "872410"
+"common"
+{
+	"name" "ROMANCE OF THE THREE KINGDOMS XIV"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"name_localized"
+	{
+		"japanese" "三國志14"
+		"tchinese" "三國志14"
+		"schinese" "三国志14"
+		"koreana" "삼국지14"
+	}
+	"logo" "4810f826bf3087d3f41699cfd94f6b7d7b55f1c7"
+	"logo_small" "4810f826bf3087d3f41699cfd94f6b7d7b55f1c7_thumb"
+	"clienticon" "b5d2debd1d1ac2260c8aa64fc8343828dd4d945b"
+	"clienttga" "220cb258b08ff2ff7a638478e3c6c85730269db0"
+	"icon" "ef73f6d524eba7579eff0941b15214d7bd6bb3f4"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "872410_eula_0"
+			"name" "ROMANCE OF THE THREE KINGDOMS XIV EULA"
+			"url" "https://store.steampowered.com//eula/872410_eula_0"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1688688000"
+		"tested_build_id" "6931310"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,ko,zh-tw,zh-cn"
+		"library_hero" "en,ja,ko,zh-tw,zh-cn"
+		"library_logo" "en,ja,ko,zh-tw,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"japanese" "library_hero_japanese.jpg"
+				"koreana" "library_hero_koreana.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"japanese" "library_hero_japanese_2x.jpg"
+				"english" "library_hero_2x.jpg"
+				"tchinese" "library_hero_tchinese_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+				"koreana" "library_hero_koreana_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"japanese" "logo_japanese.png"
+				"koreana" "logo_koreana.png"
+				"tchinese" "logo_tchinese.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"japanese" "logo_japanese_2x.png"
+				"koreana" "logo_koreana_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1671677435"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "KOEI TECMO GAMES CO., LTD."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "KOEI TECMO GAMES CO., LTD."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "KOEI TECMO GAMES CO., LTD."
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1579136460"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "872410"
+	"store_tags"
+	{
+		"0" "14139"
+		"1" "4684"
+		"2" "4168"
+		"3" "9204"
+		"4" "6310"
+		"5" "1678"
+		"6" "4747"
+		"7" "4364"
+		"8" "1741"
+		"9" "9"
+		"10" "3987"
+		"11" "4191"
+		"12" "4598"
+		"13" "599"
+		"14" "1708"
+		"15" "8945"
+		"16" "4182"
+		"17" "4711"
+		"18" "122"
+		"19" "1677"
+	}
+	"review_score" "5"
+	"review_percentage" "62"
+}
+"extended"
+{
+	"developer" "KOEI TECMO GAMES CO., LTD."
+	"publisher" "KOEI TECMO GAMES CO., LTD."
+	"homepage" "https://www.gamecity.com.tw/sangokushi14/"
+	"listofdlc" "1198830,1198831,1198832,1198833,1198834,1198835,1198836,1198837,1198839,1198840,1198841,1198843,1198844,1198845,1198846,1198847,1198848,1198849,1213610,1213611,1213612,1213613,1258150,1258151,1258152,1258153,1258154,1258155,1293030,1427650,1431480,1431481,1431482,1431483,1431484,1431485,1431486,1431487,1431488,1431489,1431490,1431491,1431492,1431493,1431494,1431495,1431496,1431497,1431498,1543950,1638310,1638311"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Romance_of_the_Three_Kingdoms_14"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SAN14_Launcher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"872411"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1378810394919498307"
+				"size" "196257325"
+				"download" "105781936"
+			}
+		}
+	}
+	"872412"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1528977842142593956"
+				"size" "14959093534"
+				"download" "11315166768"
+			}
+		}
+	}
+	"872413"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3655786411132837816"
+				"size" "1656627200"
+				"download" "240985872"
+			}
+		}
+	}
+	"1198830"
+	{
+		"dlcappid" "1198830"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1479619141040874788"
+				"size" "1208812"
+				"download" "1226192"
+			}
+		}
+	}
+	"1198831"
+	{
+		"dlcappid" "1198831"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5059966276374216302"
+				"size" "1197475"
+				"download" "1214656"
+			}
+		}
+	}
+	"1198832"
+	{
+		"dlcappid" "1198832"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4729672140666924474"
+				"size" "1193457"
+				"download" "1210624"
+			}
+		}
+	}
+	"1198834"
+	{
+		"dlcappid" "1198834"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "284739369370437606"
+				"size" "1000"
+				"download" "1072"
+			}
+		}
+	}
+	"1213610"
+	{
+		"dlcappid" "1213610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1734402276456805801"
+				"size" "10"
+				"download" "64"
+			}
+		}
+	}
+	"1213613"
+	{
+		"dlcappid" "1213613"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2578841551393829853"
+				"size" "290"
+				"download" "352"
+			}
+		}
+	}
+	"872414"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1399687150143705444"
+				"size" "567725915"
+				"download" "557789408"
+			}
+		}
+	}
+	"1213611"
+	{
+		"dlcappid" "1213611"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7696882174603873275"
+				"size" "3464"
+				"download" "3792"
+			}
+		}
+	}
+	"1213612"
+	{
+		"dlcappid" "1213612"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8905828104802641966"
+				"size" "3464"
+				"download" "3792"
+			}
+		}
+	}
+	"1198835"
+	{
+		"dlcappid" "1198835"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4073196032626802279"
+				"size" "5196"
+				"download" "5648"
+			}
+		}
+	}
+	"1198836"
+	{
+		"dlcappid" "1198836"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5276450411441047934"
+				"size" "227915345"
+				"download" "226542176"
+			}
+		}
+	}
+	"1198837"
+	{
+		"dlcappid" "1198837"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5549346714551848346"
+				"size" "7"
+				"download" "64"
+			}
+		}
+	}
+	"1258150"
+	{
+		"dlcappid" "1258150"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8411790377032961673"
+				"size" "3464"
+				"download" "3792"
+			}
+		}
+	}
+	"1258151"
+	{
+		"dlcappid" "1258151"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1486913277627246249"
+				"size" "3464"
+				"download" "3792"
+			}
+		}
+	}
+	"1258155"
+	{
+		"dlcappid" "1258155"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3090505027647891977"
+				"size" "866"
+				"download" "992"
+			}
+		}
+	}
+	"1198839"
+	{
+		"dlcappid" "1198839"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9106118020399216637"
+				"size" "234404761"
+				"download" "233952816"
+			}
+		}
+	}
+	"1198840"
+	{
+		"dlcappid" "1198840"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "331001168375833756"
+				"size" "734"
+				"download" "800"
+			}
+		}
+	}
+	"1198841"
+	{
+		"dlcappid" "1198841"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "64168457231799406"
+				"size" "7"
+				"download" "64"
+			}
+		}
+	}
+	"1293030"
+	{
+		"dlcappid" "1293030"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "191930888255281751"
+				"size" "27"
+				"download" "80"
+			}
+		}
+	}
+	"1198843"
+	{
+		"dlcappid" "1198843"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5967214586019959915"
+				"size" "233450529"
+				"download" "230690576"
+			}
+		}
+	}
+	"1198844"
+	{
+		"dlcappid" "1198844"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5929110711180847402"
+				"size" "243294745"
+				"download" "238825440"
+			}
+		}
+	}
+	"1198845"
+	{
+		"dlcappid" "1198845"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4581622230471314387"
+				"size" "7"
+				"download" "64"
+			}
+		}
+	}
+	"1258152"
+	{
+		"dlcappid" "1258152"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1609349454990144848"
+				"size" "6928"
+				"download" "7520"
+			}
+		}
+	}
+	"1258154"
+	{
+		"dlcappid" "1258154"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8141287289904832505"
+				"size" "1193372"
+				"download" "1210448"
+			}
+		}
+	}
+	"1198846"
+	{
+		"dlcappid" "1198846"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "995050871963497002"
+				"size" "1191569"
+				"download" "1208704"
+			}
+		}
+	}
+	"1198847"
+	{
+		"dlcappid" "1198847"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1175004702111808016"
+				"size" "1199025"
+				"download" "1216336"
+			}
+		}
+	}
+	"1198848"
+	{
+		"dlcappid" "1198848"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "196977068528133134"
+				"size" "1207085"
+				"download" "1224336"
+			}
+		}
+	}
+	"1198849"
+	{
+		"dlcappid" "1198849"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4982612301308515857"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"1431480"
+	{
+		"dlcappid" "1431480"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6056871502545457176"
+				"size" "1169203"
+				"download" "1076144"
+			}
+		}
+	}
+	"1431481"
+	{
+		"dlcappid" "1431481"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "807548417110382181"
+				"size" "110"
+				"download" "176"
+			}
+		}
+	}
+	"1431483"
+	{
+		"dlcappid" "1431483"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "218718109270039859"
+				"size" "222524528"
+				"download" "222238880"
+			}
+		}
+	}
+	"1427650"
+	{
+		"dlcappid" "1427650"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "591405054147669595"
+				"size" "5112402525"
+				"download" "4905640128"
+			}
+		}
+	}
+	"1431484"
+	{
+		"dlcappid" "1431484"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "620280450951883738"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"1431485"
+	{
+		"dlcappid" "1431485"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1404895364427829799"
+				"size" "625133"
+				"download" "634080"
+			}
+		}
+	}
+	"1431487"
+	{
+		"dlcappid" "1431487"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1380717195442474747"
+				"size" "227346569"
+				"download" "214997792"
+			}
+		}
+	}
+	"1431488"
+	{
+		"dlcappid" "1431488"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "794422081024784071"
+				"size" "617359"
+				"download" "626192"
+			}
+		}
+	}
+	"1431489"
+	{
+		"dlcappid" "1431489"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "271170853773519042"
+				"size" "116954544"
+				"download" "115331232"
+			}
+		}
+	}
+	"1543950"
+	{
+		"dlcappid" "1543950"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "19626315043741332"
+				"size" "6076"
+				"download" "6592"
+			}
+		}
+	}
+	"1431490"
+	{
+		"dlcappid" "1431490"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "235836961760836053"
+				"size" "620321"
+				"download" "629296"
+			}
+		}
+	}
+	"1431491"
+	{
+		"dlcappid" "1431491"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "44813549098126493"
+				"size" "50"
+				"download" "112"
+			}
+		}
+	}
+	"1431492"
+	{
+		"dlcappid" "1431492"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "22324681767602561"
+				"size" "21635729"
+				"download" "21538000"
+			}
+		}
+	}
+	"1431493"
+	{
+		"dlcappid" "1431493"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5005967991735548235"
+				"size" "238810687"
+				"download" "226408976"
+			}
+		}
+	}
+	"1431494"
+	{
+		"dlcappid" "1431494"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2677268141824279676"
+				"size" "619294"
+				"download" "628144"
+			}
+		}
+	}
+	"1431495"
+	{
+		"dlcappid" "1431495"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1361539902163404737"
+				"size" "50"
+				"download" "112"
+			}
+		}
+	}
+	"1431496"
+	{
+		"dlcappid" "1431496"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1064672174913104408"
+				"size" "127135664"
+				"download" "125758768"
+			}
+		}
+	}
+	"1431497"
+	{
+		"dlcappid" "1431497"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8423485004548809111"
+				"size" "624466"
+				"download" "633440"
+			}
+		}
+	}
+	"1431498"
+	{
+		"dlcappid" "1431498"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2718963880318041512"
+				"size" "50"
+				"download" "112"
+			}
+		}
+	}
+	"1431486"
+	{
+		"dlcappid" "1431486"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7336033176794171761"
+				"size" "3472"
+				"download" "3792"
+			}
+		}
+	}
+	"1638310"
+	{
+		"dlcappid" "1638310"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4429274097555991755"
+				"size" "2604"
+				"download" "2864"
+			}
+		}
+	}
+	"1638311"
+	{
+		"dlcappid" "1638311"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3224423964158670877"
+				"size" "35067806"
+				"download" "34612416"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6931310"
+			"timeupdated" "1631667566"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "300000000"
+	"maxnumfiles" "1100"
+}
+"_missing_token" "False"
+"_change_number" "27541691"
+"_sha" "7f150974fa6be62f06b3f879c7d771b5b5f3a2f4"
+"_size" "15956"
