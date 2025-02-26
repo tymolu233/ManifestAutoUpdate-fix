@@ -1,0 +1,1864 @@
+"appid" "289070"
+"common"
+{
+	"name" "Sid Meier\'s Civilization VI"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"logo" "356443a094f8e20ce21293039d7226eac3d3b4d9"
+	"logo_small" "356443a094f8e20ce21293039d7226eac3d3b4d9_thumb"
+	"icon" "9dc914132fec244adcede62fb8e7524a72a7398c"
+	"clienticon" "c142bb71440effac911eb3c18e4ba775c9c8e7ef"
+	"clienttga" "184febd3fc1163f7a12dce770fb9da65775feb7f"
+	"clienticns" "3366ec8498fdc0dfc2058fff019d366d3f1244da"
+	"osarch" "64"
+	"linuxclienticon" "f8d41bcb584d207f5f8f5f340d33696a90b8020b"
+	"osextended" "macos64,macosnotarized"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "289070_eula_0"
+			"name" "Sid Meier\'s Civilization VI EULA"
+			"url" "https://store.steampowered.com//eula/289070_eula_0"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1733184000"
+		"tested_build_id" "15296837"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Sid Meier\'s Civilization VI"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50.29171528588097"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50.29171528588097"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1736297651"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Firaxis Games"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Aspyr (Mac)"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Aspyr (Linux)"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "2K"
+		}
+		"4"
+		{
+			"type" "publisher"
+			"name" "Aspyr (Mac)"
+		}
+		"5"
+		{
+			"type" "publisher"
+			"name" "Aspyr (Linux)"
+		}
+		"6"
+		{
+			"type" "franchise"
+			"name" "Sid Meier\'s Civilization"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_33" "1"
+		"category_30" "1"
+		"category_42" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_47" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_32" "1"
+		"category_44" "1"
+		"category_27" "1"
+		"category_35" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1477022400"
+	"metacritic_score" "88"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/sid-meiers-civilization-vi\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "289070"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1741"
+		"2" "3859"
+		"3" "3987"
+		"4" "4364"
+		"5" "4182"
+		"6" "1677"
+		"7" "1670"
+		"8" "1678"
+		"9" "4328"
+		"10" "599"
+		"11" "1708"
+		"12" "12472"
+		"13" "1643"
+		"14" "1756"
+		"15" "3843"
+		"16" "1669"
+		"17" "1685"
+		"18" "1717"
+		"19" "4166"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Firaxis Games"
+	"publisher" "2K"
+	"homepage" "http://www.civilization.com/"
+	"gamemanualurl" "https://store.steampowered.com/manual/289070/"
+	"listofdlc" "512030,512031,512032,512033,512034,512035,521770,645400,645401,645402,947510,1253990,1270540,1281820,1284470,1308090,1342010,1388850,1436950,1478300,2158250,2173131,2222600,2222601,2222602,2222603,2222604,2297840"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Sid Meier\'s Civilization VI"
+	"launch"
+	{
+		"2"
+		{
+			"executable" "Civ6.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "2KLauncher\\LauncherPatcher.exe"
+			"arguments" "-steam_auto_login"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "old"
+			}
+			"description_loc"
+			{
+				"english" "2K Launcher"
+			}
+			"description" "2K Launcher"
+		}
+		"9"
+		{
+			"executable" "LaunchPad/LaunchPad.exe"
+			"arguments" "-steam_auto_login"
+			"workingdir" "LaunchPad"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "old"
+			}
+			"description_loc"
+			{
+				"english" "Sid Meier\'s Civilization VI - Launcher"
+			}
+			"description" "Sid Meier\'s Civilization VI - Launcher"
+		}
+		"10"
+		{
+			"executable" "./Civ6"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"13"
+		{
+			"executable" "Base/Binaries/Win64Portcullis/CivilizationVI.exe"
+			"description" "Sid Meier\'s Civilization VI Portcullis"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "usk_review"
+			}
+		}
+		"20"
+		{
+			"executable" "Base/Binaries/Win64Portcullis/CivilizationVI.exe"
+			"description" "Sid Meier\'s Civilization VI Portcullis"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "Marketing"
+			}
+		}
+		"21"
+		{
+			"executable" "Base/Binaries/Win64Portcullis/CivilizationVI_DX12.exe"
+			"description" "Sid Meier\'s Civilization VI Portcullis (DX12)"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "Marketing"
+			}
+		}
+		"22"
+		{
+			"executable" "Base/Binaries/Win64Portcullis/CivilizationVI_DX12.exe"
+			"description" "Sid Meier\'s Civilization VI Portcullis (DX12)"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "usk_review"
+			}
+		}
+		"23"
+		{
+			"executable" "LaunchPad/LaunchPad.exe"
+			"arguments" "--launchConfig Config/Civ6/config.bin"
+			"workingdir" "LaunchPad"
+			"description" "LaunchConfig"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "ltest"
+			}
+		}
+		"26"
+		{
+			"executable" "Base/Binaries/Win64Portcullis/CivilizationVI.exe"
+			"description" "Sid Meier\'s Civilization VI Age Rating DX11"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "agerating3"
+			}
+		}
+		"28"
+		{
+			"executable" "Base/Binaries/Win64Portcullis/CivilizationVI.exe"
+			"description" "Sid Meier\'s Civilization VI Preview (DX11)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "preview"
+			}
+		}
+		"29"
+		{
+			"executable" "Base/Binaries/Win64Portcullis/CivilizationVI_DX12.exe"
+			"description" "Sid Meier\'s Civilization VI Preview (DX12)"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "preview"
+			}
+		}
+		"30"
+		{
+			"executable" "Base/Binaries/Win64Portcullis/CivilizationVI.exe"
+			"description" "Sid Meier\'s Civilization VI Age Rating DX11"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "agerating2"
+			}
+		}
+		"31"
+		{
+			"executable" "Sid Meier\'s Civilization VI Age Rating DX11"
+			"description" "Sid Meier\'s Civilization VI Age Rating DX11"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "agerating1"
+			}
+		}
+		"32"
+		{
+			"executable" "Base/Binaries/Win64Portcullis/CivilizationVI.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "frankenstein"
+			}
+			"description_loc"
+			{
+				"english" "Frankenstein"
+			}
+			"description" "Frankenstein"
+		}
+		"33"
+		{
+			"executable" "Base/Binaries/Win64Steam/CivilizationVI_DX12.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Sid Meier\'s Civilization VI (DX12)"
+			}
+			"description" "Sid Meier\'s Civilization VI (DX12)"
+		}
+		"34"
+		{
+			"executable" "Base/Binaries/Win64Steam/CivilizationVI.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Sid Meier\'s Civilization VI (DX11)"
+			}
+			"description" "Sid Meier\'s Civilization VI (DX11)"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1862329329"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollerconfigdetails"
+	{
+		"770509247"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"workshopdepot" "289070"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"289071"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8544233926751202622"
+				"size" "19546482152"
+				"download" "7701245600"
+			}
+		}
+	}
+	"289072"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6099197820122050814"
+				"size" "98798209"
+				"download" "28217936"
+			}
+		}
+	}
+	"289073"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"osarch" "64"
+			"oslist" "windows"
+		}
+	}
+	"289074"
+	{
+		"config"
+		{
+			"language" "german"
+			"osarch" "64"
+			"oslist" "windows"
+		}
+	}
+	"289075"
+	{
+		"config"
+		{
+			"language" "french"
+			"osarch" "64"
+			"oslist" "windows"
+		}
+	}
+	"289076"
+	{
+		"config"
+		{
+			"language" "italian"
+			"osarch" "64"
+			"oslist" "windows"
+		}
+	}
+	"289077"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"osarch" "64"
+			"oslist" "windows"
+		}
+	}
+	"289078"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"osarch" "64"
+			"oslist" "windows"
+		}
+	}
+	"289079"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"osarch" "64"
+			"oslist" "windows"
+		}
+	}
+	"289080"
+	{
+		"config"
+		{
+			"language" "russian"
+			"osarch" "64"
+			"oslist" "windows"
+		}
+	}
+	"289081"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"osarch" "64"
+			"oslist" "windows"
+		}
+	}
+	"289082"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"osarch" "64"
+			"oslist" "windows"
+		}
+	}
+	"289083"
+	{
+		"config"
+		{
+			"language" "polish"
+			"osarch" "64"
+			"oslist" "windows"
+		}
+	}
+	"512030"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "512030"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1307444271017398491"
+				"size" "28158"
+				"download" "5136"
+			}
+		}
+	}
+	"512032"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "512032"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "289731471744368186"
+				"size" "81929888"
+				"download" "31473168"
+			}
+		}
+	}
+	"512033"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "512033"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6543787341305416944"
+				"size" "45853102"
+				"download" "14062336"
+			}
+		}
+	}
+	"512034"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "512034"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2152869585815545599"
+				"size" "44107502"
+				"download" "13877104"
+			}
+		}
+	}
+	"512035"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "512035"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1790067132481013428"
+				"size" "2796839"
+				"download" "668976"
+			}
+		}
+	}
+	"645400"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "645400"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6669591788022875766"
+				"size" "56176084"
+				"download" "27814992"
+			}
+		}
+	}
+	"645401"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "645401"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1323691328654612056"
+				"size" "174820405"
+				"download" "124965312"
+			}
+		}
+	}
+	"645402"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "645402"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1533123057189778450"
+				"size" "3568116542"
+				"download" "1670472112"
+			}
+		}
+	}
+	"947510"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "947510"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "63266334988112509"
+				"size" "4220893753"
+				"download" "2085783568"
+			}
+		}
+	}
+	"512031"
+	{
+		"dlcappid" "512031"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "935919882264911440"
+				"size" "1086447819"
+				"download" "1091683616"
+			}
+		}
+	}
+	"533500"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3582333838161073165"
+				"size" "221162985"
+				"download" "58138304"
+			}
+		}
+	}
+	"533501"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747155898342983879"
+				"size" "18228862594"
+				"download" "7807337104"
+			}
+		}
+	}
+	"533513"
+	{
+		"dlcappid" "512030"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4883015003824094634"
+				"size" "30356"
+				"download" "5920"
+			}
+		}
+	}
+	"533514"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "512032"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7612473275221842603"
+				"size" "76741773"
+				"download" "27298160"
+			}
+		}
+	}
+	"533515"
+	{
+		"dlcappid" "512033"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3777915635781502631"
+				"size" "45836367"
+				"download" "14062048"
+			}
+		}
+	}
+	"533516"
+	{
+		"dlcappid" "512034"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7646238166100862470"
+				"size" "44081073"
+				"download" "13876368"
+			}
+		}
+	}
+	"533517"
+	{
+		"dlcappid" "512035"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1796892286900093121"
+				"size" "2788825"
+				"download" "668816"
+			}
+		}
+	}
+	"533518"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "645400"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4753960813384213451"
+				"size" "56153678"
+				"download" "27814016"
+			}
+		}
+	}
+	"533519"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "645401"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6954487309733964639"
+				"size" "174795113"
+				"download" "124964032"
+			}
+		}
+	}
+	"533512"
+	{
+		"dlcappid" "645402"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1157918082164175537"
+				"size" "2969011061"
+				"download" "1525713632"
+			}
+		}
+	}
+	"947518"
+	{
+		"dlcappid" "947510"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8161718464020064952"
+				"size" "3629239862"
+				"download" "1970813104"
+			}
+		}
+	}
+	"533502"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "731801825977417543"
+				"size" "1753887374"
+				"download" "265068240"
+			}
+		}
+	}
+	"533503"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4174395120133247913"
+				"size" "23564078716"
+				"download" "10400273456"
+			}
+		}
+	}
+	"533504"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"dlcappid" "512030"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4730013291139588863"
+				"size" "30356"
+				"download" "5920"
+			}
+		}
+	}
+	"533505"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"dlcappid" "512032"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7075230729490869604"
+				"size" "76741773"
+				"download" "27299504"
+			}
+		}
+	}
+	"533506"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"dlcappid" "512033"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4883125394190134028"
+				"size" "45836367"
+				"download" "14062048"
+			}
+		}
+	}
+	"533507"
+	{
+		"dlcappid" "512034"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6138702642890809933"
+				"size" "44081073"
+				"download" "13876368"
+			}
+		}
+	}
+	"533508"
+	{
+		"dlcappid" "512035"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6046355588939991635"
+				"size" "2788825"
+				"download" "668816"
+			}
+		}
+	}
+	"533509"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"dlcappid" "645400"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6788302695122360131"
+				"size" "56153678"
+				"download" "27815728"
+			}
+		}
+	}
+	"533510"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"dlcappid" "645401"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6004862015692629805"
+				"size" "174795113"
+				"download" "124964048"
+			}
+		}
+	}
+	"533511"
+	{
+		"dlcappid" "645402"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4086532032936568200"
+				"size" "4052860926"
+				"download" "2180269760"
+			}
+		}
+	}
+	"947519"
+	{
+		"dlcappid" "947510"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5584778302079664846"
+				"size" "4690345634"
+				"download" "2622812560"
+			}
+		}
+	}
+	"289084"
+	{
+	}
+	"289089"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2262196785766153034"
+				"size" "209057168"
+				"download" "88729696"
+			}
+		}
+	}
+	"1253990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "1253990"
+	}
+	"1270540"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "1270540"
+	}
+	"1281820"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "1281820"
+	}
+	"1284470"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "1284470"
+	}
+	"1253991"
+	{
+		"dlcappid" "1253990"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "69626392930517475"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1253992"
+	{
+		"dlcappid" "1253990"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "190753679128426469"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1270541"
+	{
+		"dlcappid" "1270540"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4965920854392412262"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1270542"
+	{
+		"dlcappid" "1270540"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "740044253414621401"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1281821"
+	{
+		"dlcappid" "1281820"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2667616415541059397"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1281822"
+	{
+		"dlcappid" "1281820"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "294718810747213782"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1342011"
+	{
+		"dlcappid" "1342010"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1414305630544405034"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1342012"
+	{
+		"dlcappid" "1342010"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "822199356429897707"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1284471"
+	{
+		"dlcappid" "1284470"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7896478682364606"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1284472"
+	{
+		"dlcappid" "1284470"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3367499075511523244"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1388850"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "1388850"
+	}
+	"1436950"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "1436950"
+	}
+	"1388851"
+	{
+		"dlcappid" "1388850"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2127854356908969923"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1388852"
+	{
+		"dlcappid" "1388850"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "308938244455417956"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1478300"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "1478300"
+	}
+	"1436951"
+	{
+		"dlcappid" "1436950"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1600972111400550396"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1436952"
+	{
+		"dlcappid" "1436950"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3599798167341808173"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1478301"
+	{
+		"dlcappid" "1478300"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3042920571069713939"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1478302"
+	{
+		"dlcappid" "1478300"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "601989005490512875"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1523211"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5488617169383930545"
+				"size" "80"
+				"download" "128"
+			}
+		}
+		"depotfromapp" "1523210"
+	}
+	"2173130"
+	{
+		"dlcappid" "2173130"
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"2173131"
+	{
+		"dlcappid" "2173131"
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"2173132"
+	{
+		"dlcappid" "2173130"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2629535923656469683"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"2173133"
+	{
+		"dlcappid" "2173131"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "186484919774529386"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"2222600"
+	{
+		"dlcappid" "2222600"
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"2222603"
+	{
+		"dlcappid" "2222603"
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"2222602"
+	{
+		"dlcappid" "2222602"
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"2222601"
+	{
+		"dlcappid" "2222601"
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"2222604"
+	{
+		"dlcappid" "2222604"
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"2222605"
+	{
+		"dlcappid" "2222600"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1123507097971278864"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"2222608"
+	{
+		"dlcappid" "2222603"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2315839665544527598"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"2222607"
+	{
+		"dlcappid" "2222602"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3509975586696906669"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"2222606"
+	{
+		"dlcappid" "2222601"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8991379052256751445"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"2297840"
+	{
+		"dlcappid" "2297840"
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"289085"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3736787343973544061"
+				"size" "7680890414"
+				"download" "3196588304"
+			}
+		}
+	}
+	"289086"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4181354221225583522"
+				"size" "6598250923"
+				"download" "3124692160"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15296837"
+			"timeupdated" "1723072054"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" ""
+	"maxnumfiles" ""
+}
+"_missing_token" "False"
+"_change_number" "27597735"
+"_sha" "ff6b2b67a103bbbf3b86aad6d948e6aa23a29425"
+"_size" "27941"
