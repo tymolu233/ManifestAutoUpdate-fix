@@ -1,0 +1,85 @@
+"appid" "321900"
+"common"
+{
+	"name" "Stronghold Crusader 2 Map Editor"
+	"type" "Tool"
+	"releasestate" "released"
+	"oslist" "windows"
+	"clienticon" "1c63a3b27d63843113b94bfcf2882d3ac1f19842"
+	"clienttga" "8e5e01d67030c27bbbba35d3593d63a0252308c2"
+	"icon" "c981c288b7cdd81ec9591439d6418ac80c6cc973"
+	"logo" "f9e1a82112e9e83beffcce47adf110b500962659"
+	"logo_small" "f9e1a82112e9e83beffcce47adf110b500962659_thumb"
+	"osarch" ""
+	"osextended" ""
+	"associations"
+	{
+	}
+	"gameid" "321900"
+}
+"extended"
+{
+	"disableoverlay" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Stronghold Crusader 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin\\win32_release\\MapEditor.exe"
+			"description" "Stronghold Crusader 2 Map Editor"
+			"workingdir" "bin\\win32_release"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"232891"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "232890"
+		"sharedinstall" "2"
+	}
+	"321901"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3359303624531240928"
+				"size" "54315974"
+				"download" "53471760"
+			}
+		}
+	}
+	"workshopdepot" "321900"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3062015"
+			"timeupdated" "1535131778"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27103115"
+"_sha" "8576e4e8adeb0dfb6c2f2f5688a66136a0b810f7"
+"_size" "1409"
