@@ -1,0 +1,399 @@
+"appid" "585420"
+"common"
+{
+	"name" "Trailmakers"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "f26132cb8c1be4b5b7c8fd514b3fc9bd9feb192a"
+	"logo_small" "f26132cb8c1be4b5b7c8fd514b3fc9bd9feb192a_thumb"
+	"icon" "343fef058327a2fe514cac2e270fbdc581b05786"
+	"clienticon" "b7e148d3e268b19040f5b4ffb2b54c46ff159495"
+	"clienttga" "a46c2d7a7393553186f540168db5e792749a63bd"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "585420_eula_0"
+			"name" "Trailmakers EULA"
+			"url" "http://store.steampowered.com//eula/585420_eula_0"
+			"version" "1"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"danish" "1"
+		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "机械制造者 Trailmakers"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1653436800"
+		"tested_build_id" "8262638"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "nomfdxgiman,"
+		}
+	}
+	"metacritic_name" "Trailmakers"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "502001a3ee443d75cfa97ac6365dd4060d87fdd6/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_hero_blur" "zh-cn"
+		"library_logo" "en,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.075462256998264"
+			"height_pct" "40.277777777777764"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "df5b5775d374102d02ec9c7e5f3f0d4771c81236/library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "df5b5775d374102d02ec9c7e5f3f0d4771c81236/library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "32db099043bebfd14802df2c2d72cef56cb141df/library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "32db099043bebfd14802df2c2d72cef56cb141df/library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"schinese" "32db099043bebfd14802df2c2d72cef56cb141df/library_hero_blur_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "d6b999e694cc5f3d36e19a9b1df8fe39fba1f885/logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "d6b999e694cc5f3d36e19a9b1df8fe39fba1f885/logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "38.075462256998264"
+				"height_pct" "40.277777777777764"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737117637"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Flashbulb"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Flashbulb"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "9"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_30" "1"
+		"category_25" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_49" "1"
+		"category_43" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1568790480"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "585420"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "1664"
+		"2" "3859"
+		"3" "11104"
+		"4" "92092"
+		"5" "13276"
+		"6" "1669"
+		"7" "3810"
+		"8" "1643"
+		"9" "3968"
+		"10" "5363"
+		"11" "599"
+		"12" "1644"
+		"13" "3834"
+		"14" "15045"
+		"15" "1685"
+		"16" "699"
+		"17" "1755"
+		"18" "5752"
+		"19" "19780"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "manualtest,starburst"
+	"developer" "Flashbulb"
+	"publisher" "Flashbulb"
+	"homepage" "http://www.playtrailmakers.com"
+	"listofdlc" "1171470,1183540,1333570,1607390,2054110,2054120,2285970,2579530,2863610,3009870,3323320"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Trailmakers"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Trailmakers.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"585421"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3088992314067472200"
+				"size" "6822884047"
+				"download" "5631062480"
+			}
+			"expedition"
+			{
+				"gid" "1401415892018513847"
+				"size" "4821358676"
+				"download" "1564907632"
+			}
+			"previous"
+			{
+				"gid" "1370239770719553922"
+				"size" "6823542266"
+				"download" "5631174512"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,danish,brazilian"
+	"workshopdepot" "585420"
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16763135"
+			"timeupdated" "1734530342"
+		}
+		"expedition"
+		{
+			"buildid" "3350872"
+			"description" "Permanent Expedition"
+			"timeupdated" "1553591392"
+		}
+		"previous"
+		{
+			"buildid" "16539098"
+			"description" "Previous build"
+			"timeupdated" "1734530284"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "27670875"
+"_sha" "9a435488d772af2f9ac5ed91587a963361679cd1"
+"_size" "7677"
