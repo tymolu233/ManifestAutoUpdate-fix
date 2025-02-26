@@ -1,0 +1,594 @@
+"appid" "527230"
+"common"
+{
+	"name" "For The King"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"eulas"
+	{
+		"1"
+		{
+			"id" "527230_eula_1"
+			"name" "For The King EULA"
+			"url" "https://store.steampowered.com//eula/527230_eula_1"
+		}
+	}
+	"logo" "dd607b466d6e62303aa1dce9ee5fe9a445ab40f2"
+	"logo_small" "dd607b466d6e62303aa1dce9ee5fe9a445ab40f2_thumb"
+	"clienticon" "ab3e878c342fb316af64fc7b151243d015645154"
+	"clienttga" "10becaeac5ad2c39dc12cac5071c471d72de1c33"
+	"icon" "790411a4c44e243fa19fe8b3b6a8ca15679c7fbf"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"linuxclienticon" "7bb110eec76f252fb26a8337c5f78b805e172af9"
+	"clienticns" "9b266a8ced2d65592ad77de6ed7b71354c3a6e9b"
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"schinese" "为了吾王 / For The King"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1659571200"
+		"tested_build_id" "8024379"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "For The King"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "57.407882408283534"
+			"height_pct" "59.55415438049049"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "57.407882408283534"
+				"height_pct" "59.55415438049049"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1706285817"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "IronOak Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Curve Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Curve Games"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_49" "1"
+		"category_43" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_44" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1524150060"
+	"metacritic_score" "79"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/for-the-king\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "527230"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "3843"
+		"2" "9"
+		"3" "1695"
+		"4" "1716"
+		"5" "1677"
+		"6" "3859"
+		"7" "4325"
+		"8" "1685"
+		"9" "21"
+		"10" "17389"
+		"11" "3959"
+		"12" "1741"
+		"13" "10695"
+		"14" "1770"
+		"15" "3841"
+		"16" "492"
+		"17" "1684"
+		"18" "1717"
+		"19" "17305"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "IronOak Games"
+	"publisher" "Curve Games"
+	"homepage" "https://www.ironoakgames.com"
+	"listofdlc" "1433560,1630170,1709620,1768601,1768602"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "For The King"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FTK.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "FTK.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "FTK.exe"
+			"arguments" "-force-d3d9"
+			"description" "FTK in DirectX 9"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"3"
+		{
+			"executable" "FTK.exe"
+			"arguments" "-show-screen-selector"
+			"description" "Configure For The King"
+			"type" "config"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"4"
+		{
+			"executable" "FTK.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1912904572"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "527230"
+	"527231"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1463647292645742568"
+				"size" "2481581267"
+				"download" "1033156992"
+			}
+			"32-bit"
+			{
+				"gid" "7759747440207356443"
+				"size" "2361545527"
+				"download" "891639392"
+			}
+			"xbranch"
+			{
+				"gid" "9004550955505965389"
+				"size" "2463960778"
+				"download" "1029212272"
+			}
+		}
+	}
+	"527232"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "440082665561302314"
+				"size" "2572522565"
+				"download" "1038862048"
+			}
+			"32-bit"
+			{
+				"gid" "3786103032275947454"
+				"size" "2433972542"
+				"download" "899808384"
+			}
+			"xbranch"
+			{
+				"gid" "3862269687951240876"
+				"size" "2555567698"
+				"download" "1029629904"
+			}
+		}
+	}
+	"527233"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7474691633817358391"
+				"size" "2442729868"
+				"download" "1050940432"
+			}
+			"32-bit"
+			{
+				"gid" "8855626648131447684"
+				"size" "2326024852"
+				"download" "887868368"
+			}
+			"xbranch"
+			{
+				"gid" "3264562553902510668"
+				"size" "2424542923"
+				"download" "1046959744"
+			}
+		}
+	}
+	"844340"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1417378849348383676"
+				"size" "164679321"
+				"download" "164076272"
+			}
+			"xbranch"
+			{
+				"gid" "1417378849348383676"
+				"size" "164679321"
+				"download" "164076272"
+			}
+		}
+	}
+	"527234"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2335259621619585822"
+				"size" "157203188"
+				"download" "158939568"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12395049"
+			"timeupdated" "1696867047"
+		}
+		"32-bit"
+		{
+			"buildid" "2708659"
+			"timeupdated" "1524266583"
+		}
+		"xbranch"
+		{
+			"buildid" "6267703"
+			"description" "Experimental"
+			"timeupdated" "1613785938"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10485760"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "save"
+			"pattern" "*.bin"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "save"
+			"pattern" "*.run"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "save"
+			"pattern" "*.jpg"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "save"
+			"pattern" "*.bin"
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "save"
+			"pattern" "*.db"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"addpath" "IronOak Games/FTK"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" "IronOak Games/FTK"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "save"
+					"replace" ".config/unity3d/IronOak Games/FTK/save"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27002103"
+"_sha" "e13018baac95aa9829e5af8b9c147c6f3046803e"
+"_size" "10315"
