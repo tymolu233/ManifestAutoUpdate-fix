@@ -1,0 +1,429 @@
+"appid" "1172450"
+"common"
+{
+	"name" "Carto"
+	"type" "Game"
+	"icon" "d0778570ee1b9bfd4c6984c4c4c9ca00ed05de6a"
+	"logo" "f2feb95a580d872723fcc7cbc5483184c8d874d4"
+	"logo_small" "f2feb95a580d872723fcc7cbc5483184c8d874d4_thumb"
+	"clienttga" "c356384700f98e57bf3c0f203256e5610a24b0d9"
+	"clienticon" "7eb152496e9c7d82e9cc1b84154d76f9dcd2b03b"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"latam" "1"
+	}
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"sc_schinese" "无尽旅图"
+	}
+	"releasestatesteamchina" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "7660491"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-xc"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "80.75470959912533"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "80.75470959912533"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1638197387"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Sunhead Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Humble Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "XD"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Humble Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "X.D. Network Inc."
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "XD International"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1603782000"
+	"steam_release_date" "1603818000"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1172450"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "4726"
+		"2" "1664"
+		"3" "3834"
+		"4" "6815"
+		"5" "1654"
+		"6" "21"
+		"7" "1742"
+		"8" "4182"
+		"9" "7208"
+		"10" "4305"
+		"11" "4166"
+		"12" "5350"
+		"13" "30358"
+		"14" "3871"
+		"15" "4252"
+		"16" "4136"
+		"17" "4791"
+		"18" "4562"
+		"19" "1695"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Sunhead Games"
+	"publisher" "Humble Games"
+	"homepage" "http://www.sunheadgames.com/"
+}
+"config"
+{
+	"installdir" "Carto"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Carto.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "Carto.app/Contents/MacOS/Carto"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"1172451"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5311595976204785998"
+				"size" "2028117177"
+				"download" "359099760"
+			}
+		}
+	}
+	"1172452"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7658718617452178665"
+				"size" "2031205430"
+				"download" "359383792"
+			}
+		}
+	}
+	"1172453"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8164394383228866790"
+				"size" "2028117177"
+				"download" "359099072"
+			}
+		}
+	}
+	"1172454"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5798381592067269121"
+				"size" "2031205430"
+				"download" "359383920"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,koreana,tchinese,russian,japanese,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7660491"
+			"timeupdated" "1636120885"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "SunheadGames\\Carto\\Saves"
+			"pattern" "*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "SunheadGames\\Carto\\Saves"
+					"replace" "SunheadGames/Carto/Saves"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26900250"
+"_sha" "9079e6727b531ef58e00a30228b8345c024699d6"
+"_size" "7336"
