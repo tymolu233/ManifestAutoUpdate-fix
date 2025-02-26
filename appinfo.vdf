@@ -1,0 +1,469 @@
+"appid" "895870"
+"common"
+{
+	"name" "Project Wingman"
+	"type" "Game"
+	"controllervr"
+	{
+		"xinput" "1"
+		"kbm" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "01fc2ab980b0f18d53eebc3fd6435dc5b5f7d82a"
+	"logo_small" "01fc2ab980b0f18d53eebc3fd6435dc5b5f7d82a_thumb"
+	"icon" "cac32e8d11e46c215685f7a736c662009fb69f93"
+	"clienticon" "39c195c9e8bc1e55dafd276714c6433ba7defd54"
+	"clienttga" "2def5251c4c1a88f93dcc6d6fc98764000aa41ef"
+	"releasestate" "released"
+	"openvrsupport" "1"
+	"othervrsupport" "1"
+	"othervrsupport_rift_13" "1"
+	"openxrsupport" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1664841600"
+		"tested_build_id" "5965936"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Project Wingman"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "52.87612947408053"
+			"height_pct" "71.52918493424181"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "52.87612947408053"
+				"height_pct" "71.52918493424181"
+			}
+		}
+	}
+	"store_asset_mtime" "1616533945"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Sector D2"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Sector D2"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Humble Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Humble Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1606845572"
+	"metacritic_score" "75"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/project-wingman\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "895870"
+	"store_tags"
+	{
+		"0" "15045"
+		"1" "19"
+		"2" "92092"
+		"3" "1678"
+		"4" "4168"
+		"5" "492"
+		"6" "1773"
+		"7" "4182"
+		"8" "599"
+		"9" "1756"
+		"10" "21978"
+		"11" "7481"
+		"12" "1774"
+		"13" "1742"
+		"14" "3942"
+		"15" "3839"
+		"16" "1697"
+		"17" "3965"
+		"18" "4175"
+		"19" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Sector D2"
+	"publisher" "Sector D2"
+	"homepage" "https://www.humblegames.com/games/projectwingman/"
+	"listofdlc" "2536180"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Project Wingman"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ProjectWingman.exe"
+			"arguments" "-nohmd"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch Project Wingman (Non-VR)"
+			}
+			"description" "Launch Project Wingman (Non-VR)"
+		}
+		"1"
+		{
+			"executable" "ProjectWingman.exe"
+			"arguments" "-vr -hmd=SteamVR"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Project Wingman"
+			}
+			"description" "Project Wingman"
+		}
+		"2"
+		{
+			"executable" "ProjectWingman.exe"
+			"arguments" "-vr -hmd=Oculus"
+			"description" "Project Wingman"
+			"type" "othervr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "ProjectWingman.exe"
+			"arguments" "-vr -hmd=OpenXR"
+			"type" "openxr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev-internal-qa"
+			}
+			"description_loc"
+			{
+				"english" "Project Wingman"
+			}
+			"description" "Project Wingman"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamconfigurator3rdpartynative" "9"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"895871"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2208154344462263035"
+				"size" "17847353077"
+				"download" "6388559328"
+			}
+			"beta-branch"
+			{
+				"gid" "2208154344462263035"
+				"size" "17847353077"
+				"download" "6388559328"
+			}
+			"fallback"
+			{
+				"gid" "1672280992675864586"
+				"size" "14200613368"
+				"download" "5104761920"
+			}
+		}
+	}
+	"2536180"
+	{
+		"dlcappid" "2536180"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8519105561406181350"
+				"size" "13"
+				"download" "64"
+			}
+			"beta-branch"
+			{
+				"gid" "8519105561406181350"
+				"size" "13"
+				"download" "64"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16671873"
+			"timeupdated" "1733817107"
+		}
+		"beta-branch"
+		{
+			"buildid" "16671873"
+			"description" "Public Beta Branch For Testing"
+			"timeupdated" "1733654803"
+		}
+		"fallback"
+		{
+			"buildid" "5965936"
+			"description" "Legacy Build [1.0.4D] [NO DLC SUPPORT]"
+			"timeupdated" "1733550216"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "600"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ProjectWingman/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27000963"
+"_sha" "d6a896bb22546dd0fe924985e231123f0733c622"
+"_size" "8186"
