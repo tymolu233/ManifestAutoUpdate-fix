@@ -1,0 +1,358 @@
+"appid" "1245430"
+"common"
+{
+	"name" "Golden Light"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"tchinese" "金色的光芒"
+		"schinese" "金色的光芒"
+		"koreana" "골든 라이트"
+		"japanese" "煌き"
+	}
+	"logo" "a593daa0cf096c14b791f730e0fb19864e404b55"
+	"logo_small" "a593daa0cf096c14b791f730e0fb19864e404b55_thumb"
+	"icon" "4e672c5a15172ee4fb9cb344f927f28a229208c0"
+	"clienttga" "7416f49b7d34cfe82f203f8fa2dcf88cec6484f9"
+	"clienticon" "d17447fe1baf57346d618aa5da09b785a8232d33"
+	"languages"
+	{
+		"english" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1679011200"
+		"tested_build_id" "10117210"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Golden Light"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "40.43544273210006"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "40.43544273210006"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1740124529"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mr. Pink"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "HypeTrain Digital"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "HypeTrain Digital"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_25" "1"
+		"category_18" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1647021550"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1245430"
+	"store_tags"
+	{
+		"0" "4191"
+		"1" "19"
+		"2" "4182"
+		"3" "1687"
+		"4" "21"
+		"5" "5125"
+		"6" "3916"
+		"7" "1667"
+		"8" "1774"
+		"9" "1663"
+		"10" "3839"
+		"11" "1714"
+		"12" "1710"
+		"13" "1716"
+		"14" "4252"
+		"15" "4004"
+		"16" "492"
+		"17" "1775"
+		"18" "3959"
+		"19" "1721"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Mr. Pink"
+	"publisher" "HypeTrain Digital"
+	"homepage" "http://www.mrpinkfreak.com/"
+	"listofdlc" "1915480"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Golden Light"
+	"steamcontrollertemplateindex" "6"
+	"steamcontrollertouchtemplateindex" "8"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Golden Light.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "english"
+	"1245431"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4640469874342868889"
+				"size" "4593273439"
+				"download" "3327904928"
+			}
+			"goldenlightdev"
+			{
+				"gid" "8356223895649325595"
+				"size" "4533801940"
+				"download" "3282006416"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17484493"
+			"timeupdated" "1740406257"
+		}
+		"goldenlightdev"
+		{
+			"buildid" "10117210"
+			"description" "Golden Light Dev Branch"
+			"timeupdated" "1697553332"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "64"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "MrPink/Golden Light"
+			"pattern" "*.spook"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27635065"
+"_sha" "0c663efc3475367bf94a89490b12da978c8a8be1"
+"_size" "6416"
