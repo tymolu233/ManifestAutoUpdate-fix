@@ -1,0 +1,289 @@
+"appid" "242700"
+"common"
+{
+	"name" "Injustice: Gods Among Us Ultimate Edition"
+	"type" "Game"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"oslist" "windows"
+	"clienticon" "88e58a04f494a4927bfa3c4b8cc6e99a67c8bca6"
+	"clienttga" "428ec4a673ba4cdfe5b8150b26f19409a15ea337"
+	"icon" "4ea9f28360ca77b2ced5c8ac5545fcfc6ea8ef15"
+	"logo" "405bc57977d5e6fb112765e63fffcb110dbcd751"
+	"logo_small" "405bc57977d5e6fb112765e63fffcb110dbcd751_thumb"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1675296000"
+		"tested_build_id" "388796"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Injustice: Gods Among Us - Ultimate Edition"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_7384337f4885916ed88f4260ca259fdd0718e72c.jpg"
+	"store_asset_mtime" "1681921481"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "NetherRealm Studios"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "High Voltage Software"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Warner Bros. Interactive Entertainment"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "WB Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_25" "1"
+		"category_23" "1"
+		"category_43" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+	}
+	"metacritic_score" "79"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/injustice-gods-among-us---ultimate-edition\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "242700"
+	"store_tags"
+	{
+		"0" "1743"
+		"1" "1671"
+		"2" "19"
+		"3" "3859"
+		"4" "1751"
+		"5" "7368"
+		"6" "4182"
+		"7" "7481"
+		"8" "4736"
+		"9" "1773"
+		"10" "4158"
+		"11" "3878"
+		"12" "4975"
+		"13" "1742"
+		"14" "4166"
+		"15" "3871"
+		"16" "29363"
+		"17" "1756"
+		"18" "4345"
+		"19" "1685"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"checkpkgstate" "1"
+	"developer" "NetherRealm Studios"
+	"gamedir" "ValveTestApp242700"
+	"homepage" "http://www.injustice.com"
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateComingSoonNoPreload"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Warner Bros. Interactive Entertainment"
+	"gamemanualurl" "https://store.steampowered.com/manual/242700/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "InjusticeGodsAmongUs_UltimateEdition"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DiscContentPCG\\Injustice.exe"
+			"description" "Launch"
+			"workingdir" "DiscContentPCG"
+		}
+		"1"
+		{
+			"executable" "DiscContentPCG\\InjusticeLauncher.exe"
+			"description" "Launcher"
+			"workingdir" "DiscContentPCG"
+		}
+	}
+	"usemms" "1"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,spanish,russian,japanese,polish,brazilian"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229003"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"242701"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4325036726652909396"
+				"size" "21454831690"
+				"download" "16866253485025"
+			}
+		}
+	}
+	"markdlcdepots" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "388796"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "28969600"
+	"maxnumfiles" "3"
+}
+"_missing_token" "False"
+"_change_number" "27103115"
+"_sha" "5bfabbe3c5f6726128dda897b609adb8cc81a9e5"
+"_size" "5358"
