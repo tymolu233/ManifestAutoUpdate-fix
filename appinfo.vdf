@@ -1,0 +1,409 @@
+"appid" "424840"
+"common"
+{
+	"name" "Little Nightmares"
+	"type" "Game"
+	"logo" "2681ea83b77b831431b95ad69a8ad6036d1ab981"
+	"logo_small" "2681ea83b77b831431b95ad69a8ad6036d1ab981_thumb"
+	"icon" "1904c041f963b5e2cb22b56c370444517cc4e288"
+	"clienttga" "7f0f9e57f93be243fac0065bf9d2c0d3d78d359c"
+	"clienticon" "65700c89a4b15eebdda18eafa5e92bac152f6373"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"swedish" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "424840_eula_0"
+			"name" "Little Nightmares EULA"
+			"url" "http://store.steampowered.com//eula/424840_eula_0"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1651104000"
+		"tested_build_id" "2508960"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Little Nightmares"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "29.645199761478835"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "29.645199761478835"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1730127663"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tarsier Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "BANDAI NAMCO Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Little Nightmares"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1493330400"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/little-nightmares\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "424840"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "4166"
+		"2" "21"
+		"3" "4182"
+		"4" "5537"
+		"5" "4342"
+		"6" "1664"
+		"7" "492"
+		"8" "1742"
+		"9" "1687"
+		"10" "1625"
+		"11" "1721"
+		"12" "1756"
+		"13" "4975"
+		"14" "3978"
+		"15" "1697"
+		"16" "7208"
+		"17" "4234"
+		"18" "19"
+		"19" "9"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Tarsier Studios"
+	"publisher" "BANDAI NAMCO Entertainment"
+	"homepage" "http://www.little-nightmares.com"
+	"listofdlc" "584090,584091,584092,584093,584094,584095,584096,584097,601710,640920"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Little Nightmares"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Atlas\\Binaries\\Win64\\LittleNightmares.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "game.exe"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "576557651485745"
+				"ownsdlc" "2095790"
+			}
+			"description_loc"
+			{
+				"english" "Enhanced Edition"
+			}
+			"description" "Enhanced Edition"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamcontrollerconfigfileids" "123"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,polish,swedish,brazilian"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"424841"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4926539991083375660"
+				"size" "9651035051"
+				"download" "2642631472"
+			}
+		}
+	}
+	"601710"
+	{
+		"dlcappid" "601710"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3933483467920670021"
+				"size" "116101371"
+				"download" "111876096"
+			}
+		}
+	}
+	"584093"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8020948827316081497"
+				"size" "3206906"
+				"download" "3118176"
+			}
+		}
+		"dlcappid" "584093"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2508960"
+			"timeupdated" "1519340259"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Atlas/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27566055"
+"_sha" "e4f99118ea49713e7f703ac520a7917e6e3a1fc8"
+"_size" "7213"
