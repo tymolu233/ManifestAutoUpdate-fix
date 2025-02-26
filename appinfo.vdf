@@ -1,0 +1,493 @@
+"appid" "238460"
+"common"
+{
+	"name" "BattleBlock Theater"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"logo" "13380473acaa95f843301b8a21a383790ae384de"
+	"logo_small" "13380473acaa95f843301b8a21a383790ae384de_thumb"
+	"icon" "2f258aaff583d797812cdcf24830d5992f48733b"
+	"clienticon" "f1e4fa88188fe97c8292b27ff1359e61fdc4bcd7"
+	"clienttga" "73cdc06adb3ee3795ffa921b6ef3f7fa0df186b2"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"linuxclienticon" "407189fb810e1844220ba2c1dff8caa76fed5bb6"
+	"clienticns" "c0897f44c190145cf45f1a11a567408b6bfdc68b"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644969600"
+		"tested_build_id" "842731"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SimultaneousInputGyroTrackpadFriendly"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "simultaneous_gamepad_mouse"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"market_presence" "1"
+	"metacritic_name" "BattleBlock Theater"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "28.157216494845358"
+			"height_pct" "79.16666666666666"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "28.157216494845358"
+				"height_pct" "79.16666666666666"
+			}
+		}
+	}
+	"store_asset_mtime" "1721669442"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "The Behemoth"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "The Behemoth"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "The Behemoth"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_17" "1"
+		"category_30" "1"
+		"category_15" "1"
+		"category_29" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1400173260"
+	"metacritic_score" "85"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/battleblock-theater\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "238460"
+	"store_tags"
+	{
+		"0" "1685"
+		"1" "1625"
+		"2" "4136"
+		"3" "1719"
+		"4" "8122"
+		"5" "3859"
+		"6" "3841"
+		"7" "3843"
+		"8" "3871"
+		"9" "17894"
+		"10" "19"
+		"11" "5379"
+		"12" "3798"
+		"13" "7368"
+		"14" "597"
+		"15" "4182"
+		"16" "5537"
+		"17" "492"
+		"18" "1664"
+		"19" "5094"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"checkpkgstate" "1"
+	"developer" "The Behemoth"
+	"gamedir" "ValveTestApp238460"
+	"homepage" "https://www.battleblocktheater.com"
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateComingSoonNoPreload"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "The Behemoth"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "BattleBlock Theater"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BattleBlockTheater.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "BattleBlockTheater.sh"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "BattleBlockTheater.app/Contents/MacOS/BattleBlockTheater"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "BeGame.exe"
+			"arguments" "-beta"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "behemothtest"
+			}
+			"description_loc"
+			{
+				"english" "New Launch"
+			}
+			"description" "New Launch"
+		}
+		"4"
+		{
+			"executable" "BeGame.exe"
+			"arguments" "-beta"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "kog_test"
+			}
+			"description_loc"
+			{
+				"english" "New Launch"
+			}
+			"description" "New Launch"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1865293841"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,brazilian"
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"238461"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2995166449017897930"
+				"size" "1969751191"
+				"download" "4963106728592"
+			}
+		}
+	}
+	"238462"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6839054927369099844"
+				"size" "2182547879"
+				"download" "3284378855982"
+			}
+		}
+	}
+	"238463"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "156190530300576376"
+				"size" "2182547879"
+				"download" "4607058306432"
+			}
+		}
+	}
+	"238464"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7163514618431725242"
+				"size" "1969751191"
+				"download" "204132011464"
+			}
+		}
+	}
+	"238465"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "189207269743567510"
+				"size" "2181293008"
+				"download" "2101549072"
+			}
+		}
+	}
+	"workshopdepot" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "842731"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "2000000"
+	"maxnumfiles" "51"
+}
+"_missing_token" "False"
+"_change_number" "27637304"
+"_sha" "2d643e9c245a95775a4c27d48841147b06f627b7"
+"_size" "8671"
