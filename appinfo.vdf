@@ -1,0 +1,329 @@
+"appid" "471550"
+"common"
+{
+	"name" "Nine Parchments"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"logo" "dbbdb8f64ce5661974e80b3e806ffbcd11aa3a53"
+	"logo_small" "dbbdb8f64ce5661974e80b3e806ffbcd11aa3a53_thumb"
+	"clienticon" "2b0409169e158e6afe56147fde5b191a97f11f90"
+	"clienttga" "3992e64f834da0a404422b3e6efe1007a7d2bc61"
+	"icon" "0b634db73b3ad763a837ae9fbee2038bb4a08919"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1644883200"
+		"tested_build_id" "2854480"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"market_presence" "1"
+	"metacritic_name" "Nine Parchments"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "a937dff4eb808bafb2c2844e3f612378870b7a8e/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "55.989110707804"
+			"height_pct" "80.55555555555554"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "55.989110707804"
+				"height_pct" "80.55555555555554"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1724765886"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Frozenbyte"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Frozenbyte"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Trine"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1512489051"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "471550"
+	"store_tags"
+	{
+		"0" "4231"
+		"1" "4758"
+		"2" "4840"
+		"3" "4057"
+		"4" "5851"
+		"5" "3841"
+		"6" "19"
+		"7" "1684"
+		"8" "1685"
+		"9" "3843"
+		"10" "4305"
+		"11" "492"
+		"12" "122"
+		"13" "3859"
+		"14" "4791"
+		"15" "1756"
+		"16" "4166"
+		"17" "4182"
+		"18" "1774"
+		"19" "4136"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "Frozenbyte"
+	"publisher" "Frozenbyte"
+	"homepage" "http://www.nineparchments.com"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Nine Parchments"
+	"steamcontrollertemplateindex" "4"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "nineparchments_64bit.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"471551"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7161929253245172379"
+				"size" "6202561745"
+				"download" "5355033280"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2854480"
+			"timeupdated" "1528892643"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27108209"
+"_sha" "3b03f1e77f7d86ed0c51b67729da277eae5b6ccc"
+"_size" "5638"
