@@ -1,0 +1,255 @@
+"appid" "638650"
+"common"
+{
+	"name" "Sword Art Online Re: Hollow Fragment"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "79a0a663381d41b6130f32dd9c8a2eb4228bf9a1"
+	"clienttga" "d5560b81e5eaf5759785bc146a6b794690900d97"
+	"icon" "f9fb589875dd327dc12c667d01e2a4916ab8137f"
+	"oslist" "windows"
+	"osarch" "64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "638650_eula_0"
+			"name" "Sword Art Online Re: Hollow Fragment EULA"
+			"url" "http://store.steampowered.com//eula/638650_eula_0"
+		}
+	}
+	"logo" "a78c2cbb4e9104b344a9effd7f3de0e7c6ffe7f9"
+	"logo_small" "a78c2cbb4e9104b344a9effd7f3de0e7c6ffe7f9_thumb"
+	"languages"
+	{
+		"english" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1648684800"
+		"tested_build_id" "3037448"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Sword Art Online Re: Hollow Fragment"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_9ba6e12ccbf07f34aee0bf5131f47f9452ab4d5b.jpg"
+	"store_asset_mtime" "1533759584"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "AQURIA Co., Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "BANDAI NAMCO Entertainment"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_56" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "638650"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "4085"
+		"2" "4434"
+		"3" "3859"
+		"4" "1646"
+		"5" "4182"
+		"6" "21"
+		"7" "1695"
+		"8" "3843"
+		"9" "19"
+		"10" "4747"
+		"11" "12095"
+		"12" "4231"
+		"13" "3799"
+		"14" "9551"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "AQURIA Co., Ltd."
+	"publisher" "BANDAI NAMCO Entertainment"
+}
+"config"
+{
+	"installdir" "SAOHF"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SAOHF.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"1167241674"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,development,milestone,qa-debug,qa-release"
+		}
+	}
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,tchinese,japanese"
+	"638651"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8848565819977086569"
+				"size" "29430135992"
+				"download" "9151537584"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3037448"
+			"timeupdated" "1536858072"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "7999488"
+	"maxnumfiles" "48"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "97f915b5a2363068af67083f2ca2cb93c3f7d7c8"
+"_size" "4738"
