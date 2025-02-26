@@ -1,0 +1,284 @@
+"appid" "1015500"
+"common"
+{
+	"name" "WWE 2K20"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienttga" "29617b20966cb62407ad5363e72f38119f958fbe"
+	"clienticon" "f72dccee2e72267d5a3fceabff86f78447f46493"
+	"icon" "95e6c4f7f18e22e7094e76a9b6e018a399811466"
+	"osextended" ""
+	"logo" "587538d5d1411fa3ad188961075217266397499e"
+	"logo_small" "587538d5d1411fa3ad188961075217266397499e_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"arabic" "1"
+	}
+	"app_retired_publisher_request" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1655424000"
+		"tested_build_id" "4724861"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "simultaneous_gamepad_mouse"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"metacritic_name" "WWE 2K20"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "57.81796966161026"
+			"height_pct" "96.73474234148658"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "57.81796966161026"
+				"height_pct" "96.73474234148658"
+			}
+		}
+	}
+	"store_asset_mtime" "1571692320"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Visual Concepts"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "2K"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "WWE 2K"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+		"1" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_44" "1"
+		"category_43" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1571698800"
+	"metacritic_score" "43"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/wwe-2k20\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1015500"
+	"store_tags"
+	{
+		"0" "701"
+		"1" "599"
+		"2" "1743"
+		"3" "3859"
+		"4" "47827"
+		"5" "4747"
+	}
+	"review_score" "5"
+	"review_percentage" "42"
+}
+"extended"
+{
+	"developer" "Visual Concepts"
+	"publisher" "2K"
+	"homepage" "https://wwe.2k.com"
+	"listofdlc" "1132780,1133550,1133551,1146520,1146521,1146522,1146523,1152560"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "WWE2K20"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WWE2K20_x64.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1913564790"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,spanish,arabic"
+	"1015501"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6798643016666386517"
+				"size" "54443609918"
+				"download" "51860263888"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4724861"
+			"timeupdated" "1583997716"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "4000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "26997904"
+"_sha" "267a48acabdcdcb3a3680546aa61666e10e1b479"
+"_size" "5053"
