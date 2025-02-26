@@ -1,0 +1,390 @@
+"appid" "493540"
+"common"
+{
+	"name" "Figment"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"logo" "5acee99f454107f81723085f61d137312d1c8a1e"
+	"logo_small" "5acee99f454107f81723085f61d137312d1c8a1e_thumb"
+	"icon" "2715c4d5cba6b7f5a3a4b403a9723d86d8c68ea4"
+	"clienticon" "8d4770539e676f4a1e67d6411f1cbad0ff37db2c"
+	"clienttga" "59bb1cff9ecaf9ed4614009a85ad3c1d3c2e36fb"
+	"releasestate" "released"
+	"linuxclienticon" "fb10d8f46430c37ac285585c767a2b628de61998"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1670025600"
+		"tested_build_id" "4865414"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Figment"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "54.20070011668611"
+			"height_pct" "73.55734979814773"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "54.20070011668611"
+				"height_pct" "73.55734979814773"
+			}
+		}
+	}
+	"store_asset_mtime" "1683192036"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bedtime Digital Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bedtime Digital Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Bedtime Digital Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1506063600"
+	"steam_release_date" "1506097730"
+	"metacritic_score" "77"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/figment\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "493540"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "492"
+		"2" "19"
+		"3" "1664"
+		"4" "6815"
+		"5" "4182"
+		"6" "1756"
+		"7" "1710"
+		"8" "5851"
+		"9" "4166"
+		"10" "4305"
+		"11" "4726"
+		"12" "4136"
+		"13" "7481"
+		"14" "1742"
+		"15" "1621"
+		"16" "597"
+		"17" "3834"
+		"18" "4106"
+		"19" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Bedtime Digital Games"
+	"publisher" "Bedtime Digital Games"
+	"homepage" "https://www.figmentgame.com/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Figment"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Figment.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Figment.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"5"
+		{
+			"executable" "Figment.x86"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+		"6"
+		{
+			"executable" "Figment.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"493543"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7504121857261169552"
+				"size" "1055892828"
+				"download" "875545504"
+			}
+		}
+	}
+	"493544"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1588094459774875758"
+				"size" "1089499994"
+				"download" "894917696"
+			}
+		}
+	}
+	"493541"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8512833146118452089"
+				"size" "814944797"
+				"download" "684417344"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10863708"
+			"timeupdated" "1679918545"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "20971520"
+	"maxnumfiles" "20"
+}
+"_missing_token" "False"
+"_change_number" "27340838"
+"_sha" "598e26791323ce6b12d63681afbceed4a14c3bb8"
+"_size" "6561"
