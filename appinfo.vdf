@@ -1,0 +1,586 @@
+"appid" "640820"
+"common"
+{
+	"name" "Pathfinder: Kingmaker"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"clienticon" "1e46a786d1090476199aa5fb7abc7a29970f7f78"
+	"clienttga" "e51c576438c77142a3522620e6dde5608697175d"
+	"icon" "119b8c4e09d4b8f38c3b9c1a8370ac1993b6b40a"
+	"logo" "c11e1ed0c464900db15682ddcdccf5ad3016dd0e"
+	"logo_small" "c11e1ed0c464900db15682ddcdccf5ad3016dd0e_thumb"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "640820_eula_0"
+			"name" "Pathfinder: Kingmaker EULA"
+			"url" "https://store.steampowered.com//eula/640820_eula_0"
+			"version" "2"
+		}
+	}
+	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "6757524"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"metacritic_name" "Pathfinder: Kingmaker"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "57"
+			"height_pct" "52"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "57"
+				"height_pct" "52"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1704727369"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Owlcat Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Knights Peak"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Knights Peak"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Pathfinder"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "MY.GAMES"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1537884060"
+	"metacritic_score" "73"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/pathfinder-kingmaker\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "640820"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "10695"
+		"2" "1684"
+		"3" "4474"
+		"4" "5851"
+		"5" "4747"
+		"6" "17305"
+		"7" "6426"
+		"8" "1742"
+		"9" "4182"
+		"10" "7107"
+		"11" "14153"
+		"12" "21"
+		"13" "9"
+		"14" "1677"
+		"15" "12095"
+		"16" "4172"
+		"17" "1695"
+		"18" "1741"
+		"19" "7208"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "Owlcat Games"
+	"publisher" "Knights Peak"
+	"homepage" "https://kingmaker.owlcat.games/"
+	"listofdlc" "900440,900441,900442,900443,900444,900445,900446,900447,900448,900449,937800,945270,945271,945272,947090,951520,965950,1041820"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Pathfinder Kingmaker"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Kingmaker.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Kingmaker.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2077601969"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"640821"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4002653326100613789"
+				"size" "40290991243"
+				"download" "26310085424"
+			}
+			"2.1.5d"
+			{
+				"gid" "6172639546650717324"
+				"size" "40186242635"
+				"download" "26282659712"
+			}
+		}
+	}
+	"640822"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6104123763976478393"
+				"size" "37114652424"
+				"download" "22525115568"
+			}
+			"2.1.5d"
+			{
+				"gid" "6104123763976478393"
+				"size" "37114652424"
+				"download" "22525115568"
+			}
+		}
+	}
+	"640823"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3826450071988126848"
+				"size" "42707940710"
+				"download" "23448937136"
+			}
+			"2.1.5d"
+			{
+				"gid" "3826450071988126848"
+				"size" "42707940710"
+				"download" "23448937136"
+			}
+		}
+	}
+	"640824"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "441256236817873647"
+				"size" "42177335793"
+				"download" "23325849904"
+			}
+			"2.1.5d"
+			{
+				"gid" "441256236817873647"
+				"size" "42177335793"
+				"download" "23325849904"
+			}
+		}
+	}
+	"640825"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8559315925465966341"
+				"size" "40853832701"
+				"download" "26530022400"
+			}
+			"2.1.5d"
+			{
+				"gid" "5308634740022738363"
+				"size" "39277780403"
+				"download" "26343965488"
+			}
+		}
+	}
+	"640826"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3990212324550990946"
+				"size" "40324919577"
+				"download" "26388706848"
+			}
+			"2.1.5d"
+			{
+				"gid" "5055326073386695303"
+				"size" "40217370986"
+				"download" "26361544736"
+			}
+		}
+	}
+	"900442"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2386739298174406219"
+				"size" "620346512"
+				"download" "595184320"
+			}
+			"2.1.5d"
+			{
+				"gid" "2386739298174406219"
+				"size" "620346512"
+				"download" "595184320"
+			}
+		}
+		"dlcappid" "900442"
+	}
+	"947090"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4868584100441901644"
+				"size" "1420729239"
+				"download" "1438254288"
+			}
+			"2.1.5d"
+			{
+				"gid" "4868584100441901644"
+				"size" "1420729239"
+				"download" "1438254288"
+			}
+		}
+		"dlcappid" "947090"
+	}
+	"900444"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4766805638436027409"
+				"size" "3038640"
+				"download" "2377712"
+			}
+			"2.1.5d"
+			{
+				"gid" "4766805638436027409"
+				"size" "3038640"
+				"download" "2377712"
+			}
+		}
+		"dlcappid" "900444"
+	}
+	"900445"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "725381715987522174"
+				"size" "12811569"
+				"download" "12880432"
+			}
+			"2.1.5d"
+			{
+				"gid" "725381715987522174"
+				"size" "12811569"
+				"download" "12880432"
+			}
+		}
+		"dlcappid" "900445"
+	}
+	"951520"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3040840446696158009"
+				"size" "25512938"
+				"download" "23377904"
+			}
+			"2.1.5d"
+			{
+				"gid" "3040840446696158009"
+				"size" "25512938"
+				"download" "23377904"
+			}
+		}
+		"dlcappid" "951520"
+	}
+	"945272"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "980315553502018082"
+				"size" "95854417"
+				"download" "92403056"
+			}
+			"2.1.5d"
+			{
+				"gid" "980315553502018082"
+				"size" "95854417"
+				"download" "92403056"
+			}
+		}
+		"dlcappid" "945272"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6757524"
+			"timeupdated" "1622124210"
+		}
+		"2.1.5d"
+		{
+			"buildid" "6749067"
+			"description" "2.1.5d"
+			"timeupdated" "1621863782"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "500"
+}
+"_missing_token" "False"
+"_change_number" "27001591"
+"_sha" "041a1c00814023aa66643f722b8a0d162e1e0919"
+"_size" "9885"
