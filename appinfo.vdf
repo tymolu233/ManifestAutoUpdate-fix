@@ -1,0 +1,521 @@
+"appid" "35140"
+"common"
+{
+	"name" "Batman: Arkham Asylum GOTY Edition"
+	"sortas" "Batman Arkham 2"
+	"clienticon" "4369809f0185411ac5a71049b65bf28591b784d1"
+	"clienttga" "af4accadf95a1d1655d39bcbad60542ceacb9b10"
+	"icon" "e52f91ecb0d3f20263e96fe188de1bcc8c91643e"
+	"logo" "172e0928b845c18491f1a8fee0dafe7a146ac129"
+	"logo_small" "172e0928b845c18491f1a8fee0dafe7a146ac129_thumb"
+	"metacritic_url" "pc/batmanarkhamasylum"
+	"type" "Game"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "35140_eula_0"
+			"name" "Batman: Arkham Asylum GOTY Edition EULA"
+			"url" "http://store.steampowered.com/eula/35140_eula_0"
+		}
+	}
+	"clienticns" "bd52b441e0991b862f0ccaebf54f8775325624fb"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1645747200"
+		"tested_build_id" "597963"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Batman: Arkham Asylum"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "39"
+			"height_pct" "49"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "39"
+				"height_pct" "49"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1681938564"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Rocksteady Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "WB Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "WB Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Batman: Arkham"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_18" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1269637200"
+	"metacritic_score" "91"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/batman-arkham-asylum\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "35140"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1687"
+		"2" "1697"
+		"3" "1671"
+		"4" "21"
+		"5" "4182"
+		"6" "1695"
+		"7" "4158"
+		"8" "1751"
+		"9" "5613"
+		"10" "4166"
+		"11" "1742"
+		"12" "4106"
+		"13" "1743"
+		"14" "7481"
+		"15" "1628"
+		"16" "1664"
+		"17" "29363"
+		"18" "1667"
+		"19" "4342"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"cwdoverride" "Binaries"
+	"developer" "Rocksteady Studios"
+	"gamedir" "Batman Arkham Asylum GOTY"
+	"homepage" "http://rocksteadyltd.com/#arkham-asylum"
+	"icon" ""
+	"installscript" "installscript.vdf"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "35141"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"publisher" "WB Games"
+	"gamemanualurl" "https://store.steampowered.com/manual/35140/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Batman Arkham Asylum GOTY"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Binaries\\BmLauncher.exe"
+			"workingdir" "Binaries"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Batman Arkham Asylum GOTY.app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"35141"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "873843482869406112"
+				"size" "8471095333"
+				"download" "0"
+			}
+		}
+	}
+	"35142"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4911371076158573761"
+				"size" "26"
+				"download" "0"
+			}
+		}
+	}
+	"35143"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5744972823522856010"
+				"size" "26"
+				"download" "0"
+			}
+		}
+	}
+	"35144"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "89354243401534757"
+				"size" "26"
+				"download" "0"
+			}
+		}
+	}
+	"35145"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "362455222359995561"
+				"size" "26"
+				"download" "0"
+			}
+		}
+	}
+	"35146"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4235863132682389776"
+				"size" "9904956159"
+				"download" "8597124608"
+			}
+			"local"
+			{
+				"gid" "356128573149577559"
+				"size" "9904956159"
+				"download" "8596485440"
+			}
+		}
+	}
+	"35147"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4513721724160477233"
+				"size" "147813872"
+				"download" "89799072"
+			}
+			"local"
+			{
+				"gid" "5562351452639561813"
+				"size" "101514747"
+				"download" "42614528"
+			}
+		}
+	}
+	"35148"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5644989832991465893"
+				"size" "2"
+				"download" "48"
+			}
+			"local"
+			{
+				"gid" "506027633177950563"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"35149"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6473125455391125482"
+				"size" "2"
+				"download" "48"
+			}
+			"local"
+			{
+				"gid" "144523277320536137"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"342720"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "711200135367581059"
+				"size" "2"
+				"download" "48"
+			}
+			"local"
+			{
+				"gid" "38786469926175632"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"342721"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2931604661506951695"
+				"size" "2"
+				"download" "48"
+			}
+			"local"
+			{
+				"gid" "37762263407104572"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"342722"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4439952150676537934"
+				"size" "2"
+				"download" "48"
+			}
+			"local"
+			{
+				"gid" "113647625197078176"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "597963"
+		}
+		"local"
+		{
+			"buildid" "802907"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27648868"
+"_sha" "ef50735e1036f99a7ac59eb844848a81839232d0"
+"_size" "8205"
