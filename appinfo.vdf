@@ -1,0 +1,141 @@
+"appid" "1880380"
+"common"
+{
+	"name" "Total War: WARHAMMER III - Assembly Kit BETA"
+	"type" "Tool"
+	"clienticon" "4073fc72f7d6714d1487e74277e0cdda33a2e4a1"
+	"clienttga" "f6db08231a6dbf535f90b63bb4e7ab23f7bbc44e"
+	"icon" "d047a562d5011d2712fbcba2bca617080eeac99a"
+	"parent" "1142710"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"steam_release_date" "1662458340"
+	"community_hub_visible" "1"
+	"gameid" "1880380"
+}
+"config"
+{
+	"installdir" "Total War WARHAMMER III"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "assembly_kit\\binaries\\bob.modder.x64.exe"
+			"arguments" "-no_console"
+			"workingdir" "assembly_kit\\binaries"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Exporter: BOB"
+			}
+			"description" "Exporter: BOB"
+		}
+		"1"
+		{
+			"executable" "assembly_kit\\dave\\DaVE.retail.x64.exe"
+			"workingdir" "assembly_kit\\dave"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Database Editor: Dave"
+			}
+			"description" "Database Editor: Dave"
+		}
+		"2"
+		{
+			"executable" "assembly_kit\\binaries\\tweak.modder.x64.exe"
+			"arguments" "/standalone TerrainMetadataEditor"
+			"workingdir" "assembly_kit\\binaries"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Battle Map Editor: Terry"
+			}
+			"description" "Battle Map Editor: Terry"
+		}
+		"3"
+		{
+			"executable" "assembly_kit\\binaries\\browse.bat"
+			"arguments" "http://wiki.totalwar.com/w/Total_War_WARHAMMER_Assembly_Kit_Manual"
+			"workingdir" "assembly_kit\\binaries"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Show Assembly Kit Manual"
+			}
+			"description" "Show Assembly Kit Manual"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1880381"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4135752176821371806"
+				"size" "4025873029"
+				"download" "452010736"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17358739"
+			"timeupdated" "1739876310"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27666568"
+"_sha" "431c1563a89cc8e1f0d55a65a52fd614809542ec"
+"_size" "2597"
