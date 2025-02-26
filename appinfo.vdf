@@ -1,0 +1,199 @@
+"appid" "41090"
+"common"
+{
+	"name" "Serious Sam 3 Editor"
+	"type" "Tool"
+	"clienticon" "0996b693710b88619a4cfae46ea71bd636f92442"
+	"clienttga" "32fe9122064890b547f692cc13f7e9cb035b2250"
+	"icon" "4b9331953198d697d94ce32d3b6dbccbe66fd63f"
+	"gameid" "41090"
+}
+"extended"
+{
+	"developer" ""
+	"disableoverlay" "1"
+	"gamedir" "SeriousSam3"
+	"homepage" ""
+	"icon" ""
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "41091"
+	"sdk_notownedbydefault" "1"
+	"serverbrowsername" ""
+	"state" "eStateTool"
+}
+"config"
+{
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Bin\\Sam3_SeriousEditor.exe"
+		}
+	}
+	"contenttype" "3"
+	"installdir" "Serious Sam 3"
+	"cegpublickey" "30819D300D06092A864886F70D010101050003818B00308187028181008F16737D035BE49811C6A0FC158CD5FFA30E872CA09E0FFF7962263F25F7E780D062560F023CD474E9A1EC0A765DD9CD59C8A03D356EB59F20905B6211BFB43C9A1BD2CFFDBDAC57884320F7A5506C6FDB9315AB352EBE2D0F28FB03A36669DEF3FA2FC95A6DDBE3FF14A5DB8025915CD946256FBD7122CCF3B4298DF0C46FDD020111"
+	"checkguid" "Sam3_SeriousEditor.exe"
+}
+"depots"
+{
+	"41092"
+	{
+		"optional" "1"
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7945047161417276626"
+				"size" "56"
+				"download" "0"
+			}
+			"legacyosx"
+			{
+				"gid" "7945047161417276626"
+				"size" "56"
+				"download" "0"
+			}
+			"publicbeta"
+			{
+				"gid" "7945047161417276626"
+				"size" "56"
+				"download" "0"
+			}
+			"safemode"
+			{
+				"gid" "7945047161417276626"
+				"size" "56"
+				"download" "0"
+			}
+		}
+	}
+	"41091"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1304112706367128380"
+				"size" "29453008"
+				"download" "9852000"
+			}
+			"legacyosx"
+			{
+				"gid" "2059985038064902228"
+				"size" "29361872"
+				"download" "9835856"
+			}
+			"publicbeta"
+			{
+				"gid" "1304112706367128380"
+				"size" "29453008"
+				"download" "9852000"
+			}
+			"safemode"
+			{
+				"gid" "2059985038064902228"
+				"size" "29361872"
+				"download" "9835856"
+			}
+		}
+	}
+	"41095"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7220061367125134955"
+				"size" "700500928"
+				"download" "660123840"
+			}
+			"legacyosx"
+			{
+				"gid" "7554697166977860936"
+				"size" "700500928"
+				"download" "660123840"
+			}
+			"publicbeta"
+			{
+				"gid" "7220061367125134955"
+				"size" "700500928"
+				"download" "660123840"
+			}
+			"safemode"
+			{
+				"gid" "7554697166977860936"
+				"size" "700500928"
+				"download" "660123840"
+			}
+		}
+	}
+	"41096"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "261302187167565971"
+				"size" "287975172"
+				"download" "265401424"
+			}
+			"legacyosx"
+			{
+				"gid" "7308971759973959"
+				"size" "287975172"
+				"download" "265401424"
+			}
+			"publicbeta"
+			{
+				"gid" "261302187167565971"
+				"size" "287975172"
+				"download" "265401424"
+			}
+			"safemode"
+			{
+				"gid" "7308971759973959"
+				"size" "287975172"
+				"download" "265401424"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1094575"
+			"timeupdated" "1462782611"
+		}
+		"legacyosx"
+		{
+			"buildid" "652467"
+			"description" "For Mac OS X 10.5 Leopard and 10.6 Snow Leopard"
+		}
+		"publicbeta"
+		{
+			"buildid" "1094575"
+			"description" "Public testing"
+			"timeupdated" "1461659341"
+		}
+		"safemode"
+		{
+			"buildid" "652467"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "ad5a81dd235cf3e6663a76193fead919b74374f0"
+"_size" "3617"
