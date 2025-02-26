@@ -1,0 +1,458 @@
+"appid" "204240"
+"common"
+{
+	"name" "The Bridge"
+	"type" "Game"
+	"icon" "d3136c9de88992d2a97b8baf876097427a6c071f"
+	"clienttga" "21ff4d516a98816f44302b9454e838864e1551ed"
+	"clienticon" "63f7a4314287c86b70c3b6eccc08c34153f2e822"
+	"logo" "112da2a1e4e4e7e86f07f6aafc7d5866edb55871"
+	"logo_small" "112da2a1e4e4e7e86f07f6aafc7d5866edb55871_thumb"
+	"linuxclienticon" "278b989f3bcb98688d08cfea1e30f6944cce7c9e"
+	"oslist" "windows,macos,linux"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"clienticns" "29c215b43eea949e4e9bf168b230b2c74b173dd9"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1660694400"
+		"tested_build_id" "1610479"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "The Bridge (2013)"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "37.26567550096963"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "37.26567550096963"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1572387703"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ty Taylor and Vega Castañeda"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "The Quantum Astrophysicists Guild"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "The Quantum Astrophysicists Guild"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "The Quantum Astrophysicists Guild"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_43" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "1"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1361556000"
+	"metacritic_score" "74"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/the-bridge-2013\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "204240"
+	"store_tags"
+	{
+		"0" "5537"
+		"1" "6815"
+		"2" "1710"
+		"3" "3968"
+		"4" "3871"
+		"5" "1664"
+		"6" "4182"
+		"7" "5608"
+		"8" "6129"
+		"9" "492"
+		"10" "9"
+		"11" "1625"
+		"12" "4026"
+		"13" "4166"
+		"14" "597"
+		"15" "21"
+		"16" "4252"
+		"17" "4400"
+		"18" "15277"
+		"19" "4342"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Ty Taylor and Vega Castañeda"
+	"gamedir" "ValveTestApp204240"
+	"homepage" "http://TheBridgeIsBlackAndWhite.com"
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "The Quantum Astrophysicists Guild"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "TheBridge"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "The Bridge.exe"
+			"description" "Runs The Bridge."
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "run.sh"
+			"description" "Runs The Bridge."
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "TheBridge.app/Contents/MacOS/The Bridge"
+			"description" "Runs The Bridge."
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"preloadonly" "1"
+	"baselanguages" "english,german,french,italian,spanish,russian,portuguese,dutch,hungarian,romanian,turkish"
+	"markdlcdepots" "1"
+	"229003"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229012"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"204241"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1138430510974131349"
+				"size" "324875943"
+				"download" "307720544"
+			}
+		}
+	}
+	"204242"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3517241559116303004"
+				"size" "312234322"
+				"download" "11553092624"
+			}
+		}
+	}
+	"204243"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6700133908359058769"
+				"size" "314263191"
+				"download" "10952409725"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1610479"
+			"timeupdated" "1486233947"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "20"
+}
+"_missing_token" "False"
+"_change_number" "27132057"
+"_sha" "72242a73fef0d01b8e65925a04bc802b556ff442"
+"_size" "7687"
