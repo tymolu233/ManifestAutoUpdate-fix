@@ -1,0 +1,407 @@
+"appid" "596970"
+"common"
+{
+	"name" "Sunless Skies"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"logo" "a90426c5bd9325bd8c61d581c8559b8bdb3540fb"
+	"logo_small" "a90426c5bd9325bd8c61d581c8559b8bdb3540fb_thumb"
+	"icon" "959d17866ffcadd88c9b2629961588088f0d0126"
+	"clienticon" "cdfdae275376cc2ee3dc3fc229cff81aeaa3f776"
+	"clienttga" "562d5e774ce667e0aa29e35acbd6b3b3d4566135"
+	"osextended" "macos64"
+	"clienticns" "a3db9ddf25d5bb1b85722b9ebf9edc305010b9e3"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1663804800"
+		"tested_build_id" "7888392"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Sunless Skies"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "81.62193698949824"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "81.62193698949824"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1661865768"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Failbetter Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Failbetter Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Fallen London Universe"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1548957576"
+	"metacritic_score" "87"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/sunless-skies\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "596970"
+	"store_tags"
+	{
+		"0" "1777"
+		"1" "7432"
+		"2" "3834"
+		"3" "122"
+		"4" "1742"
+		"5" "4182"
+		"6" "4791"
+		"7" "4166"
+		"8" "492"
+		"9" "1662"
+		"10" "21"
+		"11" "1716"
+		"12" "1616"
+		"13" "4342"
+		"14" "5153"
+		"15" "5230"
+		"16" "1755"
+		"17" "7113"
+		"18" "4598"
+		"19" "6426"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "Failbetter Games"
+	"publisher" "Failbetter Games"
+	"homepage" "http://www.failbettergames.com"
+	"listofdlc" "598920,598921"
+}
+"config"
+{
+	"installdir" "Sunless Skies"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Sunless Skies.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Sunless Skies.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Sunless Skies.x86_64"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "Sunless Skies.x86"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"596971"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4491196240018738638"
+				"size" "3373276767"
+				"download" "964248208"
+			}
+		}
+	}
+	"596972"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2265459415668249602"
+				"size" "3344736084"
+				"download" "951110320"
+			}
+		}
+	}
+	"596973"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3683617863295281168"
+				"size" "3361098793"
+				"download" "959454832"
+			}
+		}
+	}
+	"598920"
+	{
+		"dlcappid" "598920"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1359840957912133754"
+				"size" "126"
+				"download" "144"
+			}
+		}
+	}
+	"598921"
+	{
+		"dlcappid" "598921"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3176034861701629476"
+				"size" "122"
+				"download" "144"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13520123"
+			"timeupdated" "1719502918"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Failbetter Games/Sunless Skies/storage/characterrepository"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Failbetter Games/Sunless Skies/storage/characterrepository"
+					"replace" "unity.Failbetter Games.Sunless Skies/storage/characterrepository"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Failbetter Games/Sunless Skies/storage/characterrepository"
+					"replace" "/Library/Caches/unity.Failbetter Games.Sunless Skies/storage/characterrepository"
+				}
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Failbetter Games/Sunless Skies/storage/characterrepository"
+					"replace" ".config/unity3d/Failbetter Games/Sunless Skies/storage/characterrepository"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "41c78759a6cbb1fae6321c05508f42fb7f76bd10"
+"_size" "7187"
