@@ -1,0 +1,295 @@
+"appid" "622590"
+"common"
+{
+	"name" "PUBG: Test Server"
+	"section_type" "ownersonly"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienticon" "950f5a597a83368f0eebe83dcf7730847f846c26"
+	"clienttga" "f86ecb39cfd5f7bf1c17013ea3bb2e8953ece40d"
+	"icon" "5851057f8af88c65e4acb29d0c51efb62c08145d"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+	}
+	"logo" "e141245fe47ac79325882259efeac929583ea181"
+	"logo_small" "e141245fe47ac79325882259efeac929583ea181_thumb"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1660694400"
+		"tested_build_id" "9277841"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-4"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "31.232558139534888"
+			"height_pct" "40.50106862977915"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "31.232558139534888"
+				"height_pct" "40.50106862977915"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1631065916"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "KRAFTON, Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "KRAFTON, Inc."
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "29"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+	}
+	"community_visible_stats" "1"
+	"gameid" "622590"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1774"
+		"2" "4305"
+		"3" "1775"
+		"4" "3859"
+	}
+}
+"extended"
+{
+	"developer" "KRAFTON, Inc."
+	"publisher" "KRAFTON, Inc."
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "PUBG_Test"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TslGame\\Binaries\\Win64\\ExecPubg.exe"
+			"arguments" "-LobbyUrl=https://pctest-live-front.playbattlegrounds.com\?provider=steam -CrashDisableFiltering -EnableScreenshotWhenCrash -CrashSendLog -HitchFpsPercentage=20 -EnableSSLCertCheck -gpudebug -NoAce -EnableIntegrityCheck -CohDiskCache"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "default"
+			}
+		}
+	}
+}
+"depots"
+{
+	"depotdeltapatches" "1"
+	"622591"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4480565605534716819"
+				"size" "36142364808"
+				"download" "35224250976"
+			}
+		}
+	}
+	"622592"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1105177748038512491"
+				"size" "629563391"
+				"download" "315118656"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12626103"
+			"timeupdated" "1699246530"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "1d1dcd0c4a7ce8edbc651f741636c5c52ce8f945"
+"_size" "4879"
