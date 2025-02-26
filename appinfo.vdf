@@ -1,0 +1,544 @@
+"appid" "339400"
+"common"
+{
+	"name" "Runestone Keeper"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"clienttga" "e6a94edf9ea294dc1e4b273ac2809c996c984db1"
+	"clienticon" "9871e78d19dcf2b2df5a200644e92d4a1d287249"
+	"icon" "3a5fc33a81a77a9031b3ed8ab2fb6fcacc7843fe"
+	"clienticns" "28a844317d08e68f0964fb1f72199587b76a4c0f"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"logo" "95e1e1c02f5f681c9263c491002b5bc22feae42c"
+	"logo_small" "95e1e1c02f5f681c9263c491002b5bc22feae42c_thumb"
+	"releasestate" "released"
+	"restricted_countries" "DE"
+	"metacritic_name" "Runestone Keeper"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.10730280554216"
+			"height_pct" "30.64790627721048"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "38.10730280554216"
+				"height_pct" "30.64790627721048"
+			}
+		}
+	}
+	"store_asset_mtime" "1583574319"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Blackfire"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Cimugames"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_25" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1427094525"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "339400"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "122"
+		"2" "1716"
+		"3" "492"
+		"4" "597"
+		"5" "3959"
+		"6" "1677"
+		"7" "1720"
+		"8" "3964"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "Blackfire"
+	"publisher" "Cimugames"
+	"homepage" "http://www.runestonekeeper.com/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Runestone Keeper"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RuneStoneKeeper.exe"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "RuneStoneKeeper.app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,spanish,schinese,russian,japanese,portuguese"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"339401"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4377620771391289303"
+				"size" "227208092"
+				"download" "76291680"
+			}
+		}
+	}
+	"339402"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1042131045349726018"
+				"size" "227208092"
+				"download" "76291728"
+			}
+		}
+	}
+	"339403"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8761633106558329927"
+				"size" "237585116"
+				"download" "74123824"
+			}
+		}
+	}
+	"339404"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5888398349152076776"
+				"size" "237585116"
+				"download" "74123808"
+			}
+		}
+	}
+	"339405"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1717754102078517902"
+				"size" "227208092"
+				"download" "76292704"
+			}
+		}
+	}
+	"339406"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2659184372843843270"
+				"size" "237585116"
+				"download" "74124848"
+			}
+		}
+	}
+	"339407"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3182522884607173348"
+				"size" "227208092"
+				"download" "76292736"
+			}
+		}
+	}
+	"339408"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6097419064347944729"
+				"size" "237585116"
+				"download" "74124848"
+			}
+		}
+	}
+	"339409"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8240132732349579982"
+				"size" "227208092"
+				"download" "76292672"
+			}
+		}
+	}
+	"389760"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3096231791541213644"
+				"size" "237585116"
+				"download" "74124848"
+			}
+		}
+	}
+	"389761"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5213757542442863496"
+				"size" "227208092"
+				"download" "76292640"
+			}
+		}
+	}
+	"389762"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5803975617242705003"
+				"size" "237585116"
+				"download" "74124848"
+			}
+		}
+	}
+	"389763"
+	{
+		"config"
+		{
+			"language" "portuguese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3358018558695587491"
+				"size" "227208092"
+				"download" "76292720"
+			}
+		}
+	}
+	"389764"
+	{
+		"config"
+		{
+			"language" "portuguese"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7037009907230675875"
+				"size" "237585116"
+				"download" "74124848"
+			}
+		}
+	}
+	"415320"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1753128356397341885"
+				"size" "75776933"
+				"download" "75230768"
+			}
+		}
+	}
+	"389765"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3450282830886745744"
+				"size" "227208092"
+				"download" "76294688"
+			}
+		}
+	}
+	"389766"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2712568892418879610"
+				"size" "237585116"
+				"download" "74124720"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1951577"
+			"timeupdated" "1499756840"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10240000"
+	"maxnumfiles" "8"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "cimu/RuneStoneKeeper"
+			"pattern" "rsk.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "unity.cimu.RuneStoneKeeper"
+			"pattern" "rsk.sav"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27165728"
+"_sha" "64cd6677ff9de3aeb5bee18e863c71fcc6151c33"
+"_size" "7979"
