@@ -1,0 +1,430 @@
+"appid" "656350"
+"common"
+{
+	"name" "UnderMine"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"clienttga" "152903a08f509d7cfaf0819f7e529f727db874b3"
+	"clienticon" "754f5bbe3f5cdffa6480c40ea8f76c553b37e571"
+	"icon" "e80bd473b8ab8d8e261c6300d98cfdd47e06f726"
+	"logo" "6a9843ed5ece7a21c085b486b9fff615fd2fd984"
+	"logo_small" "6a9843ed5ece7a21c085b486b9fff615fd2fd984_thumb"
+	"osextended" "macos64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644969600"
+		"tested_build_id" "7744829"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "UnderMine"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.71537355045285"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "38.71537355045285"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1641501859"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Thorium"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Thorium"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_29" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1596722382"
+	"metacritic_score" "79"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/undermine\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "656350"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "3959"
+		"2" "3964"
+		"3" "1720"
+		"4" "122"
+		"5" "19"
+		"6" "492"
+		"7" "21"
+		"8" "4182"
+		"9" "4791"
+		"10" "3871"
+		"11" "5125"
+		"12" "1684"
+		"13" "6426"
+		"14" "4136"
+		"15" "5981"
+		"16" "1716"
+		"17" "4004"
+		"18" "1742"
+		"19" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Thorium"
+	"publisher" "Thorium"
+	"homepage" "https://www.undermine.game"
+}
+"config"
+{
+	"installdir" "UnderMine"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "UnderMine.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "UnderMine.app/Contents/MacOS/UnderMine"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "UnderMine"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"656351"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7238439495857429713"
+				"size" "666147260"
+				"download" "149574208"
+			}
+			"beta"
+			{
+				"gid" "3778451142228889678"
+				"size" "666141344"
+				"download" "149566640"
+			}
+		}
+	}
+	"656352"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4867980915170124847"
+				"size" "666583770"
+				"download" "148927056"
+			}
+			"beta"
+			{
+				"gid" "8672812119240730452"
+				"size" "666577855"
+				"download" "148927200"
+			}
+		}
+	}
+	"656353"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4479234699175456279"
+				"size" "672106842"
+				"download" "149381872"
+			}
+			"beta"
+			{
+				"gid" "1729091798093211494"
+				"size" "672100926"
+				"download" "149380160"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,schinese,russian,japanese,portuguese,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7744829"
+			"timeupdated" "1637447829"
+		}
+		"beta"
+		{
+			"buildid" "7144745"
+			"description" "Public beta branch"
+			"timeupdated" "1628263947"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Thorium Entertainment/UnderMine/Saves"
+			"pattern" "*.json"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Thorium Entertainment/UnderMine"
+					"replace" "unity.Thorium Entertainment.UnderMine"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Thorium Entertainment/UnderMine"
+					"replace" ".config/unity3d/Thorium Entertainment/UnderMine"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27005282"
+"_sha" "f2f5122c6038668c7295b619ab43506435025fcc"
+"_size" "7304"
