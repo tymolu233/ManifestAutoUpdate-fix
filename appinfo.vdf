@@ -1,0 +1,549 @@
+"appid" "282140"
+"common"
+{
+	"name" "SOMA"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"brazilian" "1"
+	}
+	"logo" "ae099d49d4353982e81043704ef239d1074cc67d"
+	"logo_small" "ae099d49d4353982e81043704ef239d1074cc67d_thumb"
+	"clienticon" "94f04de3b091cf0139b38648f81cfd6c9f05e06a"
+	"clienttga" "763b1a547eede7c10ef8a494b83a1dbfcdef7b86"
+	"icon" "018a23ae2cd618b302731b91fcef5954c22d615c"
+	"clienticns" "a0a8cd9dc2e0a014c98d6fec86ad8295162610c5"
+	"linuxclienticon" "df566656eebe14a3459f5f8a2e4d84a02f53eca6"
+	"eulas"
+	{
+		"1"
+		{
+			"id" "282140_eula_1"
+			"name" "SOMA EULA 1"
+			"url" "http://store.steampowered.com//eula/282140_eula_1"
+		}
+	}
+	"osarch" ""
+	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1646956800"
+		"tested_build_id" "7755316"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "SOMA"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "c0bc2d011b98cdcd7c4c57f140a604da13014932/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "93.99066511085184"
+			"height_pct" "47.5658988363809"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "93.99066511085184"
+				"height_pct" "47.5658988363809"
+			}
+		}
+	}
+	"store_asset_mtime" "1724418808"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Frictional Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Frictional Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Frictional Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_29" "1"
+		"category_43" "1"
+		"category_44" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1442904320"
+	"metacritic_score" "84"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/soma\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "282140"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "1721"
+		"2" "4166"
+		"3" "4342"
+		"4" "3978"
+		"5" "3834"
+		"6" "1742"
+		"7" "3942"
+		"8" "4345"
+		"9" "3839"
+		"10" "7432"
+		"11" "4182"
+		"12" "1664"
+		"13" "21"
+		"14" "5900"
+		"15" "492"
+		"16" "19"
+		"17" "15277"
+		"18" "5716"
+		"19" "5984"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Frictional Games"
+	"publisher" "Frictional Games"
+	"homepage" "http://www.somagame.com"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "SOMA"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Soma.exe"
+			"description" "Launch Game"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Soma.bin.x86_64"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "Soma.app"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "ModLauncher.exe"
+			"description" "Mod"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"4"
+		{
+			"executable" "ModLauncher.bin.x86_64"
+			"description" "Mod"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"5"
+		{
+			"executable" "ModLauncher.app"
+			"description" "Mod"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "3"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"workshopdepot" "282140"
+	"baselanguages" "english,german,french,italian,spanish,russian,brazilian"
+	"228981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"282141"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3666498807047125533"
+				"size" "22019798078"
+				"download" "11055023920"
+			}
+			"public_beta"
+			{
+				"gid" "2639859656482757497"
+				"size" "21997443372"
+				"download" "11054126608"
+			}
+			"speedrun_branch"
+			{
+				"gid" "4862882137820268252"
+				"size" "21991201041"
+				"download" "11053756704"
+			}
+		}
+	}
+	"282142"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3897554041147389420"
+				"size" "66679586"
+				"download" "19440160"
+			}
+			"public_beta"
+			{
+				"gid" "9102206903181229758"
+				"size" "66627874"
+				"download" "19426400"
+			}
+			"speedrun_branch"
+			{
+				"gid" "3181316389281522359"
+				"size" "102467336"
+				"download" "30951760"
+			}
+		}
+	}
+	"282143"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3396268995337114396"
+				"size" "110153877"
+				"download" "27402240"
+			}
+			"public_beta"
+			{
+				"gid" "7592807406957657420"
+				"size" "110049325"
+				"download" "27390688"
+			}
+			"speedrun_branch"
+			{
+				"gid" "2651917857346406450"
+				"size" "88251607"
+				"download" "17333456"
+			}
+		}
+	}
+	"282144"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4928290671935000917"
+				"size" "102635662"
+				"download" "19319584"
+			}
+			"public_beta"
+			{
+				"gid" "6275904847785757988"
+				"size" "98048133"
+				"download" "18233056"
+			}
+			"speedrun_branch"
+			{
+				"gid" "233957763663071353"
+				"size" "48153460"
+				"download" "12514288"
+			}
+		}
+	}
+	"282145"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2504139449170107851"
+				"size" "66495858"
+				"download" "20052944"
+			}
+			"public_beta"
+			{
+				"gid" "2504139449170107851"
+				"size" "66495858"
+				"download" "20052944"
+			}
+			"speedrun_branch"
+			{
+				"gid" "2504139449170107851"
+				"size" "66495858"
+				"download" "20052944"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7755316"
+			"timeupdated" "1637587107"
+		}
+		"public_beta"
+		{
+			"buildid" "2975335"
+			"timeupdated" "1632208220"
+		}
+		"speedrun_branch"
+		{
+			"buildid" "5044166"
+			"timeupdated" "1589811092"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27252596"
+"_sha" "f3cb126bc71d7e22f31f5776e11c387aebd45d41"
+"_size" "9395"
