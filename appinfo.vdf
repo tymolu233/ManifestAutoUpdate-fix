@@ -1,0 +1,579 @@
+"appid" "351710"
+"common"
+{
+	"name" "Hyperdimension Neptunia Re;Birth2 Sisters Generation"
+	"type" "Game"
+	"oslist" "windows"
+	"clienticon" "f01469db76b0bf5655f508a8203dba366331ee37"
+	"clienttga" "fcc53a18452b3c1e46b6e81c6e718e4b6eed1fd8"
+	"icon" "4408956509788bec91f53e3cd7bdc0f8bdc3bfcf"
+	"logo" "f6f3b34fca9d67f8309afae55bce8fe0fad4a3d0"
+	"logo_small" "f6f3b34fca9d67f8309afae55bce8fe0fad4a3d0_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"name_localized"
+	{
+		"japanese" "超次次元ゲイム ネプテューヌRe;Birth2"
+		"tchinese" "超次次元遊戲 戰機少女 重生2"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1656633600"
+		"tested_build_id" "4848573"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Hyperdimension Neptunia Re;Birth2"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "ja,en,zh-tw"
+		"library_hero" "en"
+		"library_logo" "ja,zh-tw,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "86.39094115910805"
+			"height_pct" "92.23028800585651"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"japanese" "library_600x900_japanese.jpg"
+				"english" "library_600x900.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"japanese" "logo_japanese.png"
+				"tchinese" "logo_tchinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"japanese" "logo_japanese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "86.39094115910805"
+				"height_pct" "92.23028800585651"
+			}
+		}
+	}
+	"store_asset_mtime" "1568312179"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Idea Factory"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Compile Heart"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Felistella"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Idea Factory"
+		}
+		"4"
+		{
+			"type" "publisher"
+			"name" "Idea Factory International"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "Official Neptunia"
+		}
+		"6"
+		{
+			"type" "franchise"
+			"name" "Official Idea Factory Intl."
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"full_audio" "true"
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1432909380"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "351710"
+	"store_tags"
+	{
+		"0" "4085"
+		"1" "4434"
+		"2" "7208"
+		"3" "122"
+		"4" "4726"
+		"5" "1677"
+		"6" "9"
+		"7" "1719"
+		"8" "4182"
+		"9" "4136"
+		"10" "4325"
+		"11" "1756"
+		"12" "1742"
+		"13" "3799"
+		"14" "21"
+		"15" "6650"
+		"16" "6971"
+		"17" "10397"
+		"18" "1684"
+		"19" "19"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Idea Factory"
+	"publisher" "Idea Factory"
+	"homepage" "http://www.compileheart.com/neptune/re-birth2/steam/"
+	"gamemanualurl" "https://store.steampowered.com/manual/351710/"
+	"listofdlc" "354461,354462,354463,354464,354465,354466,354467,354468,354469,532720,1042040,1051780,1051781"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Neptunia Rebirth2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "NeptuniaReBirth2.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,tchinese,japanese"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"351711"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4144975702752815075"
+				"size" "8788107457"
+				"download" "5796148448"
+			}
+		}
+	}
+	"351712"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2831759572017351978"
+				"size" "8881471442"
+				"download" "5808304336"
+			}
+		}
+	}
+	"351713"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1959824897584433628"
+				"size" "9117102190"
+				"download" "6024693008"
+			}
+		}
+	}
+	"354464"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "354464"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5159686624647117821"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"354465"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "354465"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8846122901924709703"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"354466"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "354466"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4270831906556700197"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"354467"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "354467"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5295639939441705184"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"354468"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "354468"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1241636114031765533"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"354460"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "354460"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "44295668811056201"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"532720"
+	{
+		"dlcappid" "532720"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5712165029634786626"
+				"size" "202209077"
+				"download" "191083488"
+			}
+		}
+	}
+	"354469"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "354469"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3589238068018390682"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"354463"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "354463"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8305569028226753668"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"354462"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "354462"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5663723739056606386"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"354461"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "354461"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "867615061304180120"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1042040"
+	{
+		"dlcappid" "1042040"
+	}
+	"1051780"
+	{
+		"dlcappid" "1051780"
+	}
+	"1051781"
+	{
+		"dlcappid" "1051781"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4848573"
+			"timeupdated" "1585936629"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "200"
+}
+"_missing_token" "False"
+"_change_number" "27138190"
+"_sha" "dd0d0771aabe6dad484a5330746cba66fd4be465"
+"_size" "9432"
