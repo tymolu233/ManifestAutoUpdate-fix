@@ -1,0 +1,661 @@
+"appid" "287980"
+"common"
+{
+	"name" "Mini Metro"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"clienticns" "d709a2a2d422787257d96a9d3251c0ab460d203f"
+	"linuxclienticon" "07ed896877f15dc0ad81bab6c5886df7796ebb40"
+	"clienticon" "b85210884537e5c4f71479c5d06f4c30e0a061fc"
+	"clienttga" "fc6e978099ef21f3549fbc2eb8590facf675efba"
+	"icon" "1b389229474bb7112d0f0b8189b1cbe4ff8f14b5"
+	"logo" "a4766ad359eef7ffb3817c362abb08f3e9551d4a"
+	"logo_small" "a4766ad359eef7ffb3817c362abb08f3e9551d4a_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"osarch" ""
+	"osextended" "macos64,macosnotarized"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "7758304"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Mini Metro"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"danish" "header_danish.jpg"
+		"german" "header_german.jpg"
+		"spanish" "header_spanish.jpg"
+		"finnish" "header_finnish.jpg"
+		"french" "header_french.jpg"
+		"italian" "header_italian.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+		"dutch" "header_dutch.jpg"
+		"norwegian" "header_norwegian.jpg"
+		"brazilian" "header_brazilian.jpg"
+		"portuguese" "header_portuguese.jpg"
+		"russian" "header_russian.jpg"
+		"swedish" "header_swedish.jpg"
+		"thai" "header_thai.jpg"
+		"turkish" "header_turkish.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+		"latam" "header_latam.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "63.75636973623438"
+			"height_pct" "78.88728342072952"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "63.75636973623438"
+				"height_pct" "78.88728342072952"
+			}
+		}
+	}
+	"store_asset_mtime" "1689886810"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Dinosaur Polo Club"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Dinosaur Polo Club"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_25" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1446830160"
+	"metacritic_score" "77"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/mini-metro\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "287980"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1664"
+		"2" "4094"
+		"3" "599"
+		"4" "1616"
+		"5" "492"
+		"6" "597"
+		"7" "4182"
+		"8" "12472"
+		"9" "3871"
+		"10" "1654"
+		"11" "10383"
+		"12" "1643"
+		"13" "25085"
+		"14" "11123"
+		"15" "4026"
+		"16" "1756"
+		"17" "4190"
+		"18" "4711"
+		"19" "4791"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Dinosaur Polo Club"
+	"publisher" "Dinosaur Polo Club"
+	"homepage" "https://dinopoloclub.com/minimetro"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "MiniMetro"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "MiniMetro.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "MiniMetro.app/Contents/MacOS/MiniMetro"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "launchscript"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1862286334"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"overridescddb" "1"
+	"287981"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "73399575197372033"
+				"size" "327270011"
+				"download" "196413520"
+			}
+			"directx9"
+			{
+				"gid" "3520111610508047059"
+				"size" "268334672"
+				"download" "183982208"
+			}
+			"opengl2"
+			{
+				"gid" "4619645992206745302"
+				"size" "248006231"
+				"download" "175941264"
+			}
+			"openglcore"
+			{
+				"gid" "3520111610508047059"
+				"size" "268334672"
+				"download" "183982208"
+			}
+			"sierra"
+			{
+				"gid" "3838564163617456738"
+				"size" "297117643"
+				"download" "192195312"
+			}
+			"snowleopard"
+			{
+				"gid" "6951075965195957171"
+				"size" "272078202"
+				"download" "185647952"
+			}
+			"ubuntu-i386"
+			{
+				"gid" "8125580839138625652"
+				"size" "270177913"
+				"download" "184417216"
+			}
+			"highsierra"
+			{
+				"gid" "1440361019875206995"
+				"size" "318616140"
+				"download" "196197744"
+			}
+			"test"
+			{
+				"gid" "73399575197372033"
+				"size" "327270011"
+				"download" "196413520"
+			}
+		}
+	}
+	"287982"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8509695798856765273"
+				"size" "357430472"
+				"download" "203228784"
+			}
+			"directx9"
+			{
+				"gid" "2330512203374274571"
+				"size" "287385364"
+				"download" "188058224"
+			}
+			"opengl2"
+			{
+				"gid" "8387992221060847963"
+				"size" "300657741"
+				"download" "189454752"
+			}
+			"openglcore"
+			{
+				"gid" "2330512203374274571"
+				"size" "287385364"
+				"download" "188058224"
+			}
+			"sierra"
+			{
+				"gid" "8071048893099705856"
+				"size" "305330064"
+				"download" "194808800"
+			}
+			"snowleopard"
+			{
+				"gid" "4677321404536848742"
+				"size" "299085770"
+				"download" "193009904"
+			}
+			"ubuntu-i386"
+			{
+				"gid" "8974348323788590243"
+				"size" "278171154"
+				"download" "187122672"
+			}
+			"highsierra"
+			{
+				"gid" "112335282647695683"
+				"size" "348640016"
+				"download" "202961968"
+			}
+			"test"
+			{
+				"gid" "8509695798856765273"
+				"size" "357430472"
+				"download" "203228784"
+			}
+		}
+	}
+	"287983"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2350152476726264446"
+				"size" "341443825"
+				"download" "199615328"
+			}
+			"directx9"
+			{
+				"gid" "2522873167460005506"
+				"size" "319861021"
+				"download" "199693792"
+			}
+			"opengl2"
+			{
+				"gid" "8506582656247843666"
+				"size" "285561264"
+				"download" "186759504"
+			}
+			"openglcore"
+			{
+				"gid" "2522873167460005506"
+				"size" "319861021"
+				"download" "199693792"
+			}
+			"sierra"
+			{
+				"gid" "6406647985639425875"
+				"size" "306761473"
+				"download" "194274544"
+			}
+			"snowleopard"
+			{
+				"gid" "4983007697808217409"
+				"size" "301473209"
+				"download" "194418544"
+			}
+			"ubuntu-i386"
+			{
+				"gid" "1541524010484141310"
+				"size" "310953555"
+				"download" "197392208"
+			}
+			"highsierra"
+			{
+				"gid" "4640416979686227375"
+				"size" "332384889"
+				"download" "199370208"
+			}
+			"test"
+			{
+				"gid" "2350152476726264446"
+				"size" "341443825"
+				"download" "199615328"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,greek,ukrainian"
+	"workshopdepot" "287980"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15988500"
+			"timeupdated" "1732061825"
+		}
+		"directx9"
+		{
+			"buildid" "4252960"
+			"description" "DirectX 9 compatibility branch"
+			"timeupdated" "1575938521"
+		}
+		"opengl2"
+		{
+			"buildid" "2117938"
+			"description" "OpenGL 2.x compatibility branch"
+			"timeupdated" "1505424699"
+		}
+		"openglcore"
+		{
+			"buildid" "4252960"
+			"description" "OpenGL Core macOS compatibility branch"
+			"timeupdated" "1575938653"
+		}
+		"sierra"
+		{
+			"buildid" "6084903"
+			"description" "macOS 10.12 compatibility branch"
+			"timeupdated" "1625103969"
+		}
+		"snowleopard"
+		{
+			"buildid" "1445188"
+			"description" "macOS 10.6 and 10.7 compatibility branch"
+			"timeupdated" "1482441861"
+		}
+		"ubuntu-i386"
+		{
+			"buildid" "4543337"
+			"description" "Ubuntu 32-bit compatibility branch"
+			"timeupdated" "1603576448"
+		}
+		"highsierra"
+		{
+			"buildid" "12967854"
+			"description" "macOS 10.13 compatibility branch"
+			"timeupdated" "1717123807"
+		}
+		"test"
+		{
+			"buildid" "15988500"
+			"description" "Public test branch"
+			"timeupdated" "1732062445"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10485760"
+	"maxnumfiles" "1024"
+}
+"_missing_token" "False"
+"_change_number" "27104397"
+"_sha" "e6bb2a34ee0288689cdaf123fee50f16d5f3cdfe"
+"_size" "12111"
