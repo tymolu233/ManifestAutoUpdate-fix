@@ -1,0 +1,460 @@
+"appid" "380870"
+"common"
+{
+	"name" "Project Zomboid Dedicated Server"
+	"type" "Tool"
+	"oslist" "windows,macos,linux"
+	"clienticon" "16d32dd6f2f86e87bebb2058801f982d41ac5f33"
+	"clienttga" "6ae5286457ca5dfb0be124376edf0d4164c2c67a"
+	"icon" "c390a67905ef5aac5b43caf5a1147c8b34bad4d5"
+	"logo" "346421b034310b16b40eaf1186c17eda256c2977"
+	"logo_small" "346421b034310b16b40eaf1186c17eda256c2977_thumb"
+	"releasestate" "released"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "380870"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Project Zomboid Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "StartServer64.bat"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Start Server"
+			}
+			"description" "Start Server"
+		}
+		"1"
+		{
+			"executable" "StartServer32.bat"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+			"description_loc"
+			{
+				"english" "Start Server"
+			}
+			"description" "Start Server"
+		}
+		"2"
+		{
+			"executable" "start-server.sh"
+			"description" "Start Server"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"380871"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7269353596609305518"
+				"size" "5063436837"
+				"download" "714247568"
+			}
+			"38.30(pre-vehicles)"
+			{
+				"gid" "1314661948465480787"
+				"size" "2110805596"
+				"download" "552982576"
+			}
+			"build-39-vehicles"
+			{
+				"gid" "4557016858431897813"
+				"size" "1468533137"
+				"download" "116978560"
+			}
+			"legacy_41_71"
+			{
+				"gid" "1614407068870651732"
+				"size" "2808356983"
+				"download" "590134576"
+			}
+			"legacy_41_78_7"
+			{
+				"gid" "7385220759110612375"
+				"size" "5062710200"
+				"download" "713976720"
+			}
+			"legacy40"
+			{
+				"gid" "4879049375964553949"
+				"size" "1753253467"
+				"download" "359848416"
+			}
+			"legacy41_68"
+			{
+				"gid" "1190365649106181689"
+				"size" "2805978695"
+				"download" "589546224"
+			}
+			"legacy41_73"
+			{
+				"gid" "1601847154932045465"
+				"size" "5057914333"
+				"download" "712611552"
+			}
+			"legacy41_77"
+			{
+				"gid" "4504381409279146576"
+				"size" "5057918709"
+				"download" "712627984"
+			}
+			"unstable"
+			{
+				"gid" "7269353596609305518"
+				"size" "5063436837"
+				"download" "714247568"
+			}
+		}
+	}
+	"380872"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9212075869369912514"
+				"size" "5628380"
+				"download" "1760624"
+			}
+			"38.30(pre-vehicles)"
+			{
+				"gid" "3742207984481428291"
+				"size" "5014015"
+				"download" "2849024"
+			}
+			"build-39-vehicles"
+			{
+				"gid" "3419580041715757234"
+				"size" "3457504"
+				"download" "1001120"
+			}
+			"legacy_41_71"
+			{
+				"gid" "627846493336286392"
+				"size" "5605632"
+				"download" "1757184"
+			}
+			"legacy_41_78_7"
+			{
+				"gid" "9212075869369912514"
+				"size" "5628380"
+				"download" "1760624"
+			}
+			"legacy40"
+			{
+				"gid" "7702687677144645565"
+				"size" "11032836"
+				"download" "3073440"
+			}
+			"legacy41_68"
+			{
+				"gid" "8603738259623980903"
+				"size" "5658504"
+				"download" "1760320"
+			}
+			"legacy41_73"
+			{
+				"gid" "1073777544852424327"
+				"size" "5605752"
+				"download" "1757520"
+			}
+			"legacy41_77"
+			{
+				"gid" "5943381563732693623"
+				"size" "5628380"
+				"download" "1760544"
+			}
+			"unstable"
+			{
+				"gid" "9212075869369912514"
+				"size" "5628380"
+				"download" "1760624"
+			}
+		}
+	}
+	"380873"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4853909597474362594"
+				"size" "166065715"
+				"download" "38313344"
+			}
+			"38.30(pre-vehicles)"
+			{
+				"gid" "7764939330283345377"
+				"size" "214148740"
+				"download" "54200064"
+			}
+			"build-39-vehicles"
+			{
+				"gid" "473197432180922744"
+				"size" "209420280"
+				"download" "53027440"
+			}
+			"legacy_41_71"
+			{
+				"gid" "8525043193392955143"
+				"size" "165818631"
+				"download" "38225968"
+			}
+			"legacy_41_78_7"
+			{
+				"gid" "4853909597474362594"
+				"size" "166065715"
+				"download" "38313344"
+			}
+			"legacy40"
+			{
+				"gid" "2425453283190627002"
+				"size" "462298704"
+				"download" "122653904"
+			}
+			"legacy41_68"
+			{
+				"gid" "5893344410337227009"
+				"size" "165942295"
+				"download" "38249536"
+			}
+			"legacy41_73"
+			{
+				"gid" "6515890696670366536"
+				"size" "166048923"
+				"download" "38307920"
+			}
+			"legacy41_77"
+			{
+				"gid" "7727196856027579429"
+				"size" "166061619"
+				"download" "38313504"
+			}
+			"unstable"
+			{
+				"gid" "4853909597474362594"
+				"size" "166065715"
+				"download" "38313344"
+			}
+		}
+	}
+	"380874"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "597900166880863308"
+				"size" "257368703"
+				"download" "48791648"
+			}
+			"38.30(pre-vehicles)"
+			{
+				"gid" "4010782348349300607"
+				"size" "394168805"
+				"download" "103252208"
+			}
+			"build-39-vehicles"
+			{
+				"gid" "3890263964001122591"
+				"size" "401826346"
+				"download" "105170176"
+			}
+			"legacy_41_71"
+			{
+				"gid" "1098003122659209809"
+				"size" "257244799"
+				"download" "48723792"
+			}
+			"legacy_41_78_7"
+			{
+				"gid" "597900166880863308"
+				"size" "257368703"
+				"download" "48791648"
+			}
+			"legacy40"
+			{
+				"gid" "7935078198231092458"
+				"size" "415830722"
+				"download" "109911424"
+			}
+			"legacy41_68"
+			{
+				"gid" "7604645416871853321"
+				"size" "257225343"
+				"download" "48718192"
+			}
+			"legacy41_73"
+			{
+				"gid" "5366331882606236957"
+				"size" "257330303"
+				"download" "48765344"
+			}
+			"legacy41_77"
+			{
+				"gid" "4112524476417804654"
+				"size" "257368191"
+				"download" "48791712"
+			}
+			"unstable"
+			{
+				"gid" "597900166880863308"
+				"size" "257368703"
+				"download" "48791648"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10105838"
+			"timeupdated" "1670843290"
+		}
+		"38.30(pre-vehicles)"
+		{
+			"buildid" "2308099"
+			"description" "Build 38.30 (Final pre-vehicles version)"
+			"timeupdated" "1524048817"
+		}
+		"build-39-vehicles"
+		{
+			"buildid" "2857998"
+			"description" "legacy b39 build"
+			"timeupdated" "1540896944"
+		}
+		"legacy_41_71"
+		{
+			"buildid" "8781046"
+			"description" "legacy_41_71"
+			"timeupdated" "1659030435"
+		}
+		"legacy_41_78_7"
+		{
+			"buildid" "9905471"
+			"description" "legacy_41_78_7"
+			"timeupdated" "1669222763"
+		}
+		"legacy40"
+		{
+			"buildid" "3417034"
+			"description" "Classic Zomboid"
+			"timeupdated" "1639990983"
+		}
+		"legacy41_68"
+		{
+			"buildid" "8385016"
+			"description" "legacy41_68"
+			"timeupdated" "1652979297"
+		}
+		"legacy41_73"
+		{
+			"buildid" "9303593"
+			"description" "legacy41_73"
+			"timeupdated" "1664902760"
+		}
+		"legacy41_77"
+		{
+			"buildid" "9763112"
+			"description" "legacy41_77"
+			"timeupdated" "1668099796"
+		}
+		"unstable"
+		{
+			"buildid" "10105838"
+			"description" "unstable"
+			"timeupdated" "1670506872"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27678272"
+"_sha" "7ac0d9d815d2bd61c14f0b86f8e1cb66bc389b30"
+"_size" "8135"
