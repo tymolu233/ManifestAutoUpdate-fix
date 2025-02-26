@@ -1,0 +1,603 @@
+"appid" "1669000"
+"common"
+{
+	"name" "Age of Wonders 4"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "14427bfe04185417a03d94d48d621ea7ce486b16"
+	"clienticon" "dde8cae64a2836fdc6ba8c9a3d33f18ece202ab3"
+	"clienttga" "b71d5b98d20cb7fc3ac4088511bb0c80f27bcd0c"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1669000_eula_0"
+			"name" "Age of Wonders 4 EULA"
+			"url" "https://store.steampowered.com//eula/1669000_eula_0"
+			"version" "1"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1682985600"
+		"tested_build_id" "11061524"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-1"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734525651"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Triumph Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paradox Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Age of Wonders"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_46" "1"
+		"category_30" "1"
+		"category_44" "1"
+		"category_18" "1"
+		"category_27" "1"
+		"category_38" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1683043200"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1669000"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1670"
+		"2" "4747"
+		"3" "1684"
+		"4" "122"
+		"5" "17305"
+		"6" "6426"
+		"7" "1741"
+		"8" "1669"
+		"9" "7918"
+		"10" "3854"
+		"11" "3993"
+		"12" "4364"
+		"13" "4057"
+		"14" "1685"
+		"15" "3834"
+		"16" "4182"
+		"17" "21725"
+		"18" "3859"
+		"19" "4791"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "Triumph Studios"
+	"publisher" "Paradox Interactive"
+	"homepage" "https://www.paradoxinteractive.com/games/age-of-wonders-4"
+	"listofdlc" "2257970,2257990,2260160,2330150,2367860,2401830,2401850,2401860,2914280,3119880,3181480,3181500,3181540"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Age of Wonders 4"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "launcher-se\\Paradox Launcher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "dowser.exe"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "staging"
+			}
+			"description_loc"
+			{
+				"english" "non-SE launcher"
+			}
+			"description" "non-SE launcher"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"workshopdepot" "1669000"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1669001"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2905216876039285653"
+				"size" "21083206686"
+				"download" "11799568208"
+			}
+			"open_beta"
+			{
+				"gid" "2905216876039285653"
+				"size" "21083206686"
+				"download" "11799568208"
+			}
+		}
+	}
+	"1669002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1238965807205551613"
+				"size" "361044230"
+				"download" "116443840"
+			}
+			"open_beta"
+			{
+				"gid" "1238965807205551613"
+				"size" "361044230"
+				"download" "116443840"
+			}
+		}
+	}
+	"1669003"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"steamdeck" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7902137162789066396"
+				"size" "265079343"
+				"download" "93406720"
+			}
+			"open_beta"
+			{
+				"gid" "7902137162789066396"
+				"size" "265079343"
+				"download" "93406720"
+			}
+		}
+	}
+	"2257970"
+	{
+		"dlcappid" "2257970"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2865807012584769022"
+				"size" "163176"
+				"download" "164768"
+			}
+			"open_beta"
+			{
+				"gid" "2865807012584769022"
+				"size" "163176"
+				"download" "164768"
+			}
+		}
+	}
+	"2257990"
+	{
+		"dlcappid" "2257990"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3586028993103183297"
+				"size" "161493"
+				"download" "163056"
+			}
+			"open_beta"
+			{
+				"gid" "3586028993103183297"
+				"size" "161493"
+				"download" "163056"
+			}
+		}
+	}
+	"2330150"
+	{
+		"dlcappid" "2330150"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1952808027203437358"
+				"size" "145854"
+				"download" "147392"
+			}
+			"open_beta"
+			{
+				"gid" "1952808027203437358"
+				"size" "145854"
+				"download" "147392"
+			}
+		}
+	}
+	"2367860"
+	{
+		"dlcappid" "2367860"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7815419419515787571"
+				"size" "184113"
+				"download" "186208"
+			}
+			"open_beta"
+			{
+				"gid" "7815419419515787571"
+				"size" "184113"
+				"download" "186208"
+			}
+		}
+	}
+	"2401830"
+	{
+		"dlcappid" "2401830"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3447008450579376002"
+				"size" "177441"
+				"download" "179296"
+			}
+			"open_beta"
+			{
+				"gid" "3447008450579376002"
+				"size" "177441"
+				"download" "179296"
+			}
+		}
+	}
+	"2401850"
+	{
+		"dlcappid" "2401850"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4962773803312409013"
+				"size" "174865"
+				"download" "176720"
+			}
+			"open_beta"
+			{
+				"gid" "4962773803312409013"
+				"size" "174865"
+				"download" "176720"
+			}
+		}
+	}
+	"2401860"
+	{
+		"dlcappid" "2401860"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7513830674370079236"
+				"size" "169789"
+				"download" "171696"
+			}
+			"open_beta"
+			{
+				"gid" "7513830674370079236"
+				"size" "169789"
+				"download" "171696"
+			}
+		}
+	}
+	"3119880"
+	{
+		"dlcappid" "3119880"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5200052240744467692"
+				"size" "152039"
+				"download" "153488"
+			}
+			"open_beta"
+			{
+				"gid" "5200052240744467692"
+				"size" "152039"
+				"download" "153488"
+			}
+		}
+	}
+	"2914280"
+	{
+		"dlcappid" "2914280"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8430218516059799238"
+				"size" "171549"
+				"download" "173328"
+			}
+			"open_beta"
+			{
+				"gid" "8430218516059799238"
+				"size" "171549"
+				"download" "173328"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16937090"
+			"timeupdated" "1736776691"
+		}
+		"open_beta"
+		{
+			"buildid" "16937090"
+			"description" "Branch for pre-release Testing"
+			"timeupdated" "1736776967"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "27677070"
+"_sha" "ba48301d9b550db95c1dc39810e257f41df71281"
+"_size" "9933"
