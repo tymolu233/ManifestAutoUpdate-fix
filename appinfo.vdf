@@ -1,0 +1,830 @@
+"appid" "232890"
+"common"
+{
+	"name" "Stronghold Crusader 2"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "1e94888e7ac06dc974f4767db2a520c090fa6dbd"
+	"logo" "938239398dafb14588dc4c5c17fbe13606f7206a"
+	"logo_small" "938239398dafb14588dc4c5c17fbe13606f7206a_thumb"
+	"clienticon" "0f76d51806079eff9a2722e45d7cfc207f58cd92"
+	"clienttga" "6680dcafa0a8bb775312d6d445abebb8b35ef57a"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"oslist" "windows"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1645488000"
+		"tested_build_id" "7882850"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "1"
+			"height_pct" "2"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "1"
+				"height_pct" "2"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1683908738"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "FireFly Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "FireFly Studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Firefly Studios\' Stronghold"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_17" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1411419840"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "232890"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "4172"
+		"2" "4328"
+		"3" "1676"
+		"4" "3859"
+		"5" "599"
+		"6" "3987"
+		"7" "1685"
+		"8" "1643"
+		"9" "1693"
+		"10" "4182"
+		"11" "8945"
+		"12" "4166"
+		"13" "3810"
+		"14" "1708"
+		"15" "19"
+		"16" "1695"
+		"17" "21"
+		"18" "1662"
+		"19" "7332"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"gamedir" "Stronghold Crusader 2"
+	"noservers" "0"
+	"developer" "FireFly Studios"
+	"publisher" "FireFly Studios"
+	"homepage" "http://www.strongholdcrusader2.com"
+	"gamemanualurl" "https://store.steampowered.com/manual/232890/"
+	"listofdlc" "316470,317590,317591,317592,319790,319800,348990,349000,349230,349231,412590"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Stronghold Crusader 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin\\win32_release\\Crusader2.exe"
+			"description" "Stronghold Crusader 2"
+			"workingdir" "bin\\win32_release"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigfileids" "572670530,572672007"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"baselanguages" ""
+	"workshopdepot" "232890"
+	"232891"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "146227928487958466"
+				"size" "3524753321"
+				"download" "2566065712"
+			}
+		}
+	}
+	"232892"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2179502518079728309"
+				"size" "163832727"
+				"download" "162779632"
+			}
+		}
+	}
+	"232893"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8772548753764253200"
+				"size" "146717943"
+				"download" "145335312"
+			}
+		}
+	}
+	"232894"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5595792804425142782"
+				"size" "151641853"
+				"download" "150610256"
+			}
+		}
+	}
+	"232895"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7277493748551652089"
+				"size" "147432444"
+				"download" "146414720"
+			}
+		}
+	}
+	"232896"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8202788161670852765"
+				"size" "154966715"
+				"download" "153938800"
+			}
+		}
+	}
+	"232897"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1868152961141877718"
+				"size" "154029899"
+				"download" "153104992"
+			}
+		}
+	}
+	"232898"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3941541175555031056"
+				"size" "147227552"
+				"download" "146189664"
+			}
+		}
+	}
+	"232899"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6129293473077875159"
+				"size" "161882554"
+				"download" "160873712"
+			}
+		}
+	}
+	"232909"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "448902471441250152"
+				"size" "16794932"
+				"download" "16518464"
+			}
+		}
+	}
+	"232900"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1466235298709577515"
+				"size" "163955877"
+				"download" "163788992"
+			}
+		}
+	}
+	"317590"
+	{
+		"dlcappid" "317590"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1951794772085475968"
+				"size" "3500926"
+				"download" "3273216"
+			}
+		}
+	}
+	"317591"
+	{
+		"dlcappid" "317591"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "836288305194955287"
+				"size" "5193367"
+				"download" "4848736"
+			}
+		}
+	}
+	"317592"
+	{
+		"dlcappid" "317592"
+	}
+	"317593"
+	{
+		"dlcappid" "317593"
+	}
+	"317594"
+	{
+		"dlcappid" "317594"
+	}
+	"319790"
+	{
+		"dlcappid" "319790"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2972188062330845029"
+				"size" "204686871"
+				"download" "165819824"
+			}
+		}
+	}
+	"319800"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"dlcappid" "319800"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1710504930767756683"
+				"size" "218179205"
+				"download" "217405712"
+			}
+		}
+	}
+	"319801"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"dlcappid" "319800"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "966594649947872662"
+				"size" "218187629"
+				"download" "217414400"
+			}
+		}
+	}
+	"319802"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"dlcappid" "319800"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1360799941782512746"
+				"size" "218022618"
+				"download" "217205024"
+			}
+		}
+	}
+	"319803"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"dlcappid" "319800"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2280169271085485294"
+				"size" "218029478"
+				"download" "217210896"
+			}
+		}
+	}
+	"319804"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"dlcappid" "319800"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5884248621686496835"
+				"size" "218034759"
+				"download" "217217328"
+			}
+		}
+	}
+	"319805"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"dlcappid" "319800"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1021702783831850310"
+				"size" "218116497"
+				"download" "217297856"
+			}
+		}
+	}
+	"319806"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"dlcappid" "319800"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "204399767611202319"
+				"size" "217365470"
+				"download" "216529632"
+			}
+		}
+	}
+	"319807"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"dlcappid" "319800"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1619979517702073925"
+				"size" "218034390"
+				"download" "217216320"
+			}
+		}
+	}
+	"319808"
+	{
+		"dlcappid" "319800"
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7554906042638265050"
+				"size" "218179205"
+				"download" "218437648"
+			}
+		}
+	}
+	"348990"
+	{
+		"dlcappid" "348990"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1351527982347206757"
+				"size" "1343"
+				"download" "1296"
+			}
+		}
+	}
+	"349000"
+	{
+		"dlcappid" "349000"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5754754060163105652"
+				"size" "1418"
+				"download" "1360"
+			}
+		}
+	}
+	"349230"
+	{
+		"dlcappid" "349230"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "491908686729935777"
+				"size" "1365"
+				"download" "1312"
+			}
+		}
+	}
+	"349231"
+	{
+		"dlcappid" "349231"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2960604363957901686"
+				"size" "1651"
+				"download" "1600"
+			}
+		}
+	}
+	"412590"
+	{
+		"dlcappid" "412590"
+	}
+	"232901"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "619433027914766565"
+				"size" "162483700"
+				"download" "159882000"
+			}
+		}
+	}
+	"232902"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1692413985560829508"
+				"size" "23968056"
+				"download" "23380800"
+			}
+		}
+	}
+	"1802280"
+	{
+		"dlcappid" "1802280"
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17043689"
+			"timeupdated" "1737385811"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Stronghold Crusader 2/Saved Games"
+			"pattern" "*.sgd"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "Stronghold Crusader 2/Profiles"
+			"pattern" "campaign_manager_state.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27117121"
+"_sha" "998d1ccff2677bf2ecf6c7c8d727ad4ee06152a5"
+"_size" "12795"
