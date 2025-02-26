@@ -1,0 +1,428 @@
+"appid" "1291340"
+"common"
+{
+	"name" "Townscaper"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "9ccc53a18581311326b6a521ae64f0aa25f3b35b"
+	"clienttga" "79c576463a65257bec33afa4d420fec0707a3ab8"
+	"icon" "bec1b2f145c6c11bb4e26aa61ff980f46100df41"
+	"logo" "be3725b0d8460989b9c3608579c87d44c44a4b7d"
+	"logo_small" "be3725b0d8460989b9c3608579c87d44c44a4b7d_thumb"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosnotarized"
+	"name_localized"
+	{
+		"schinese" "城镇叠叠乐"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1645056000"
+		"tested_build_id" "7248348"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "100"
+			"height_pct" "80.06337568273571"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "100"
+				"height_pct" "80.06337568273571"
+			}
+		}
+	}
+	"store_asset_mtime" "1692102820"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Oskar Stålberg"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Raw Fury"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Raw Fury Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1630004565"
+	"community_hub_visible" "1"
+	"gameid" "1291340"
+	"store_tags"
+	{
+		"0" "13782"
+		"1" "1654"
+		"2" "1643"
+		"3" "3810"
+		"4" "597"
+		"5" "4328"
+		"6" "4234"
+		"7" "599"
+		"8" "4182"
+		"9" "492"
+		"10" "4252"
+		"11" "5350"
+		"12" "4166"
+		"13" "4726"
+		"14" "4305"
+		"15" "5125"
+		"16" "4094"
+		"17" "1695"
+		"18" "7481"
+		"19" "30358"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Oskar Stålberg"
+	"publisher" "Raw Fury"
+	"homepage" "https://www.townscapergame.com/"
+}
+"config"
+{
+	"installdir" "Townscaper"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Townscaper.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Townscaper.app/Contents/MacOS/Townscaper"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1291341"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3218368929862251450"
+				"size" "352402846"
+				"download" "75194032"
+			}
+			"0.14"
+			{
+				"gid" "5912210771168311544"
+				"size" "65272487"
+				"download" "18170480"
+			}
+			"beta"
+			{
+				"gid" "3218368929862251450"
+				"size" "352402846"
+				"download" "75194032"
+			}
+		}
+	}
+	"1291342"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4105552185008896131"
+				"size" "278423174"
+				"download" "59523408"
+			}
+			"0.14"
+			{
+				"gid" "2171239653642571494"
+				"size" "67480698"
+				"download" "18751776"
+			}
+			"beta"
+			{
+				"gid" "4105552185008896131"
+				"size" "278423174"
+				"download" "59523408"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7248348"
+			"timeupdated" "1689365939"
+		}
+		"0.14"
+		{
+			"buildid" "5441317"
+			"description" "Legacy version"
+			"timeupdated" "1602076621"
+		}
+		"beta"
+		{
+			"buildid" "7248348"
+			"description" "Public beta branch"
+			"timeupdated" "1629899209"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Oskar Stalberg/Townscaper/Saves/"
+			"pattern" "*.scape"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27092636"
+"_sha" "98b5672279310cad06ecf05fd966809a2e8e6668"
+"_size" "6881"
