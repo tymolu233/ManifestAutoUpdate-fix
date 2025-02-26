@@ -1,0 +1,632 @@
+"appid" "475150"
+"common"
+{
+	"name" "Titan Quest Anniversary Edition"
+	"type" "Game"
+	"oslist" "windows"
+	"clienticon" "b108aac82663a01d99a5da1c058d54aed0c57590"
+	"clienttga" "2fb6c090d62758a45d0ebf5a129434c1a5c4df2f"
+	"icon" "be3384e7936f548303c77ee2abc4c9026285f554"
+	"logo" "0d487100eb46ae08f9be7a8e2e09486511819bdd"
+	"logo_small" "0d487100eb46ae08f9be7a8e2e09486511819bdd_thumb"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "475150_eula_0"
+			"name" "Titan Quest Anniversary Edition EULA"
+			"url" "http://store.steampowered.com//eula/475150_eula_0"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1674691200"
+		"tested_build_id" "9739432"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Titan Quest Anniversary Edition"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "41.365227537922976"
+			"height_pct" "72.03752077891238"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "41.365227537922976"
+				"height_pct" "72.03752077891238"
+			}
+		}
+	}
+	"store_asset_mtime" "1589796956"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Iron Lore Entertainment"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "THQ Nordic"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "THQ Nordic"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Titan Quest"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "THQ Nordic"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_17" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1472661840"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "475150"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "1646"
+		"2" "4231"
+		"3" "4236"
+		"4" "16094"
+		"5" "3859"
+		"6" "1685"
+		"7" "4182"
+		"8" "1693"
+		"9" "5851"
+		"10" "21"
+		"11" "19"
+		"12" "1684"
+		"13" "4791"
+		"14" "1695"
+		"15" "4166"
+		"16" "1756"
+		"17" "1742"
+		"18" "1720"
+		"19" "8122"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Iron Lore Entertainment"
+	"publisher" "THQ Nordic"
+	"homepage" "https://www.thqnordic.com/games/titan-quest-anniversary-edition"
+	"listofdlc" "741350,760270,1071200,1804460"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Titan Quest Anniversary Edition"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TQ.exe"
+			"arguments" "/dx11"
+			"description" "Launch Titan Quest Anniversary Edition (DirectX 11)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "TQ.exe"
+			"arguments" "/dx11 thqnocfg=thqnocfg_epic"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch Titan Quest Anniversary Edition with Epic Crossplay Support"
+			}
+			"description" "Launch Titan Quest Anniversary Edition with Epic Crossplay Support"
+		}
+		"2"
+		{
+			"executable" "TQ.exe"
+			"arguments" "/dx9"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch Titan Quest Anniversary Edition (DirectX 9)"
+			}
+			"description" "Launch Titan Quest Anniversary Edition (DirectX 9)"
+		}
+		"3"
+		{
+			"executable" "WorkshopTool\\TQWorkshopTool.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch Titan Quest Mod Tools Launcher & Workshop Tool"
+			}
+			"description" "Launch Titan Quest Mod Tools Launcher & Workshop Tool"
+		}
+		"4"
+		{
+			"executable" "TQ.exe"
+			"arguments" "-nohwcursor"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch Titan Quest Anniversary Edition Win10 Safe Mode"
+			}
+			"description" "Launch Titan Quest Anniversary Edition Win10 Safe Mode"
+		}
+		"5"
+		{
+			"executable" "TQ.exe"
+			"arguments" "thqno_overlay_disabled"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch Titan Quest Anniversary Edition Fallback"
+			}
+			"description" "Launch Titan Quest Anniversary Edition Fallback"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "475150"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,czech,ukrainian"
+	"228981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"475152"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6427448782216844262"
+				"size" "84903849"
+				"download" "27324720"
+			}
+			"publicbeta"
+			{
+				"gid" "690755830458149562"
+				"size" "84861229"
+				"download" "27289008"
+			}
+		}
+	}
+	"475151"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5684991738681127654"
+				"size" "13823253657"
+				"download" "13499713344"
+			}
+			"anniversary_ragnarok"
+			{
+				"gid" "8759092643098093031"
+				"size" "6503043483"
+				"download" "6152281120"
+			}
+			"publicbeta"
+			{
+				"gid" "5684991738681127654"
+				"size" "13823253657"
+				"download" "13499713344"
+			}
+		}
+	}
+	"741350"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "741350"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1505176620565420855"
+				"size" "2603441913"
+				"download" "2571227344"
+			}
+			"anniversary_ragnarok"
+			{
+				"gid" "7599395983399292209"
+				"size" "2593645263"
+				"download" "2561522816"
+			}
+			"publicbeta"
+			{
+				"gid" "1505176620565420855"
+				"size" "2603441913"
+				"download" "2571227344"
+			}
+		}
+	}
+	"760270"
+	{
+		"dlcappid" "760270"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2843544694026273287"
+				"size" "305075378"
+				"download" "299182928"
+			}
+			"anniversary_ragnarok"
+			{
+				"gid" "2843544694026273287"
+				"size" "305075378"
+				"download" "299182928"
+			}
+			"publicbeta"
+			{
+				"gid" "2843544694026273287"
+				"size" "305075378"
+				"download" "299182928"
+			}
+		}
+	}
+	"1071200"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "1071200"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4240267134625557697"
+				"size" "2308278070"
+				"download" "2236882528"
+			}
+			"anniversary_ragnarok"
+			{
+				"gid" "6904548344115809607"
+				"size" "2334180531"
+				"download" "2219724240"
+			}
+			"publicbeta"
+			{
+				"gid" "4240267134625557697"
+				"size" "2308278070"
+				"download" "2236882528"
+			}
+		}
+	}
+	"1804460"
+	{
+		"dlcappid" "1804460"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3938875257587627587"
+				"size" "2825001258"
+				"download" "2474743776"
+			}
+			"publicbeta"
+			{
+				"gid" "3938875257587627587"
+				"size" "2825001258"
+				"download" "2474743776"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16405061"
+			"timeupdated" "1731582502"
+		}
+		"anniversary_ragnarok"
+		{
+			"buildid" "3809349"
+			"timeupdated" "1557434372"
+		}
+		"publicbeta"
+		{
+			"buildid" "9739432"
+			"timeupdated" "1731775133"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Titan Quest - Immortal Throne/SaveData/Main"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Titan Quest - Immortal Throne/SaveData/User"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Titan Quest - Immortal Throne/SaveData/Sys"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27316620"
+"_sha" "93e9da5f66f553c0b6864a50e9ea1afe369b8db9"
+"_size" "11151"
