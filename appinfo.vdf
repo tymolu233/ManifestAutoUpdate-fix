@@ -1,0 +1,104 @@
+"appid" "2069150"
+"common"
+{
+	"name" "Exodus SDK"
+	"type" "Tool"
+	"parent" "412020"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticns" "47c84e9447e6305806ac63f2f89c5b4eea10603e"
+	"clienticon" "bcaa87ac0812c9be39e9d7f3609ed389463eb52d"
+	"clienttga" "97fc8dbb633fcf757b8f86e178ef413b6e497d4b"
+	"icon" "5b6b1e92d6edf3424c037aec12a140e0dad7c8ee"
+	"linuxclienticon" "065f7c37b2848b854c00041b94dc221fdef86f7d"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2069150_eula_0"
+			"name" "Exodus  SDK EULA"
+			"url" "https://store.steampowered.com//eula/2069150_eula_0"
+			"version" "1"
+		}
+	}
+	"associations"
+	{
+	}
+	"gameid" "2069150"
+}
+"config"
+{
+	"installdir" "Exodus SDK"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin_x64/Exodus_SDK.exe"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch Exodus SDK"
+			}
+			"description" "Launch Exodus SDK"
+		}
+	}
+}
+"depots"
+{
+	"2069151"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3726106143813133486"
+				"size" "31400832329"
+				"download" "27909938368"
+			}
+		}
+	}
+	"2069152"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1103422427379286599"
+				"size" "1251412381"
+				"download" "121177776"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10516378"
+			"timeupdated" "1677678894"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26602770"
+"_sha" "43733a442ca2d24d66565ae70a53ec60c12f995f"
+"_size" "1685"
