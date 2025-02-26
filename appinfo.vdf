@@ -1,0 +1,933 @@
+"appid" "262060"
+"common"
+{
+	"name" "Darkest Dungeon®"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "22ec3716f853524c8367d7463fc102d18dd514fe"
+	"logo_small" "22ec3716f853524c8367d7463fc102d18dd514fe_thumb"
+	"clienticon" "394ca7c20fc9d944d31be8dd36f7108fd3d8f64f"
+	"clienttga" "d6672a1fde34f4d1d79e0b7aeac3b99eb7253c9a"
+	"icon" "af219e7f9ed0506cb0954aabb7f24a45e38d28e4"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "262060_eula_0"
+			"name" "Darkest Dungeon EULA"
+			"url" "http://store.steampowered.com//eula/262060_eula_0"
+		}
+	}
+	"oslist" "windows,macos,linux"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+	}
+	"clienticns" "3336f5c266c6606537e2f15486c67fea6a7c78ea"
+	"linuxclienticon" "0616d44b606568d8487f6f10d7b8ccd8875674d7"
+	"osarch" ""
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1676419200"
+		"tested_build_id" "9545898"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Darkest Dungeon"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1580160352"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Red Hook Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Red Hook Studios"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1453190400"
+	"steam_release_date" "1453226340"
+	"metacritic_score" "84"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/darkest-dungeon\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "262060"
+	"store_tags"
+	{
+		"0" "4325"
+		"1" "4604"
+		"2" "1720"
+		"3" "1716"
+		"4" "122"
+		"5" "7432"
+		"6" "4026"
+		"7" "1677"
+		"8" "4182"
+		"9" "1759"
+		"10" "9"
+		"11" "4166"
+		"12" "4342"
+		"13" "492"
+		"14" "3871"
+		"15" "3959"
+		"16" "1667"
+		"17" "3952"
+		"18" "1684"
+		"19" "5153"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Red Hook Studios"
+	"publisher" "Red Hook Studios"
+	"homepage" "http://www.darkestdungeon.com"
+	"listofdlc" "445700,580100,702540,735730,1117860"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "DarkestDungeon"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "_windows/darkest.exe"
+			"arguments" "-skipvalidation"
+			"workingdir" "_windows"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "_osx/darkest.app"
+			"arguments" "-skipvalidation"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "_linux/darkest.bin.x86"
+			"arguments" "-skipvalidation"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+		"3"
+		{
+			"executable" "_linux/darkest.bin.x86_64"
+			"arguments" "-skipvalidation"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"4"
+		{
+			"executable" "_windows/win64/Darkest.exe"
+			"arguments" "-skipvalidation"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "ratdungeon3 branch ratdungeon2 coming_in_hot internal"
+			}
+			"description_loc"
+			{
+				"english" "New Win 64-bit"
+			}
+			"description" "New Win 64-bit"
+		}
+		"5"
+		{
+			"executable" "_windows/win32/Darkest.exe"
+			"arguments" "-skipvalidation"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+				"betakey" "ratdungeon3 branch ratdungeon2 coming_in_hot internal"
+			}
+			"description_loc"
+			{
+				"english" "New Win 32-bit"
+			}
+			"description" "New Win 32-bit"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2054661503"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"app_mappings"
+	{
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,czech,brazilian"
+	"workshopdepot" "262060"
+	"hasdepotsindlc" "0"
+	"262061"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5542773349944116172"
+				"size" "2257137012"
+				"download" "1612845888"
+			}
+			"coming_in_hot"
+			{
+				"gid" "6842308595278070218"
+				"size" "2258491513"
+				"download" "1613050624"
+			}
+		}
+	}
+	"262062"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4622584022444491877"
+				"size" "127457222"
+				"download" "18491184"
+			}
+			"coming_in_hot"
+			{
+				"gid" "3897521684529718447"
+				"size" "133381520"
+				"download" "25934848"
+			}
+		}
+	}
+	"262063"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "745786012896253624"
+				"size" "166250155"
+				"download" "21159840"
+			}
+			"coming_in_hot"
+			{
+				"gid" "745786012896253624"
+				"size" "166250155"
+				"download" "21159840"
+			}
+		}
+	}
+	"262064"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3070764910115374949"
+				"size" "2257137012"
+				"download" "1612789712"
+			}
+			"coming_in_hot"
+			{
+				"gid" "3070764910115374949"
+				"size" "2257137012"
+				"download" "1612789712"
+			}
+		}
+	}
+	"262065"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5367126151802721517"
+				"size" "196102366"
+				"download" "34755904"
+			}
+			"coming_in_hot"
+			{
+				"gid" "5367126151802721517"
+				"size" "196102366"
+				"download" "34755904"
+			}
+		}
+	}
+	"262066"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6507332537529280139"
+				"size" "2258472691"
+				"download" "1612983424"
+			}
+			"coming_in_hot"
+			{
+				"gid" "6507332537529280139"
+				"size" "2258472691"
+				"download" "1612983424"
+			}
+		}
+	}
+	"445700"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "445700"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "560769545274183569"
+				"size" "19939212"
+				"download" "13541216"
+			}
+			"coming_in_hot"
+			{
+				"gid" "560769545274183569"
+				"size" "19939212"
+				"download" "13541216"
+			}
+		}
+	}
+	"445701"
+	{
+		"dlcappid" "445700"
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1365831417421820010"
+				"size" "19939212"
+				"download" "13541216"
+			}
+			"coming_in_hot"
+			{
+				"gid" "1365831417421820010"
+				"size" "19939212"
+				"download" "13541216"
+			}
+		}
+	}
+	"445702"
+	{
+		"dlcappid" "445700"
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5301635625866171440"
+				"size" "19939212"
+				"download" "13541216"
+			}
+			"coming_in_hot"
+			{
+				"gid" "5301635625866171440"
+				"size" "19939212"
+				"download" "13541216"
+			}
+		}
+	}
+	"580100"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "580100"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6222557203718607465"
+				"size" "350230829"
+				"download" "314504528"
+			}
+			"coming_in_hot"
+			{
+				"gid" "6222557203718607465"
+				"size" "350230829"
+				"download" "314504528"
+			}
+		}
+	}
+	"580101"
+	{
+		"dlcappid" "580100"
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1565657565947939877"
+				"size" "350230829"
+				"download" "314504528"
+			}
+			"coming_in_hot"
+			{
+				"gid" "1565657565947939877"
+				"size" "350230829"
+				"download" "314504528"
+			}
+		}
+	}
+	"580102"
+	{
+		"dlcappid" "580100"
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3978850777272547237"
+				"size" "350230829"
+				"download" "314504528"
+			}
+			"coming_in_hot"
+			{
+				"gid" "3978850777272547237"
+				"size" "350230829"
+				"download" "314504528"
+			}
+		}
+	}
+	"702540"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "702540"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5141506331153784611"
+				"size" "40087340"
+				"download" "29840976"
+			}
+			"coming_in_hot"
+			{
+				"gid" "5141506331153784611"
+				"size" "40087340"
+				"download" "29840976"
+			}
+		}
+	}
+	"702541"
+	{
+		"dlcappid" "702540"
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2273224435470672990"
+				"size" "40087340"
+				"download" "29840976"
+			}
+			"coming_in_hot"
+			{
+				"gid" "2273224435470672990"
+				"size" "40087340"
+				"download" "29840976"
+			}
+		}
+	}
+	"702542"
+	{
+		"dlcappid" "702540"
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6448535821289548124"
+				"size" "40087340"
+				"download" "29840976"
+			}
+			"coming_in_hot"
+			{
+				"gid" "6448535821289548124"
+				"size" "40087340"
+				"download" "29840976"
+			}
+		}
+	}
+	"735730"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "735730"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "621686432886124292"
+				"size" "643757447"
+				"download" "497221072"
+			}
+			"coming_in_hot"
+			{
+				"gid" "621686432886124292"
+				"size" "643757447"
+				"download" "497221072"
+			}
+		}
+	}
+	"735731"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"dlcappid" "735730"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4790693839981705963"
+				"size" "643757447"
+				"download" "497221072"
+			}
+			"coming_in_hot"
+			{
+				"gid" "4790693839981705963"
+				"size" "643757447"
+				"download" "497221072"
+			}
+		}
+	}
+	"735732"
+	{
+		"dlcappid" "735730"
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6684691611074244159"
+				"size" "643757447"
+				"download" "497221072"
+			}
+			"coming_in_hot"
+			{
+				"gid" "6684691611074244159"
+				"size" "643757447"
+				"download" "497221072"
+			}
+		}
+	}
+	"1117860"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "1117860"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3265268534229067774"
+				"size" "545430020"
+				"download" "379669184"
+			}
+			"coming_in_hot"
+			{
+				"gid" "3265268534229067774"
+				"size" "545430020"
+				"download" "379669184"
+			}
+		}
+	}
+	"1117861"
+	{
+		"dlcappid" "1117860"
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7933257625620854203"
+				"size" "545430020"
+				"download" "379665216"
+			}
+			"coming_in_hot"
+			{
+				"gid" "7933257625620854203"
+				"size" "545430020"
+				"download" "379665216"
+			}
+		}
+	}
+	"1117862"
+	{
+		"dlcappid" "1117860"
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5402419707475563686"
+				"size" "545430020"
+				"download" "379665216"
+			}
+			"coming_in_hot"
+			{
+				"gid" "5402419707475563686"
+				"size" "545430020"
+				"download" "379665216"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9545898"
+			"timeupdated" "1665073496"
+		}
+		"coming_in_hot"
+		{
+			"buildid" "17338441"
+			"description" "Pre public release branch"
+			"timeupdated" "1739992892"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "500"
+}
+"_missing_token" "False"
+"_change_number" "27658310"
+"_sha" "fad1a4a48416429df4fec5cee379b0d7aeeb191b"
+"_size" "15538"
