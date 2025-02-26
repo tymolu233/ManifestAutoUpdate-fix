@@ -1,0 +1,408 @@
+"appid" "21690"
+"common"
+{
+	"name" "Resident Evil 5"
+	"logo" "e277ab70fff98bb2300a39bf8e2371a746fe50b1"
+	"logo_small" "e277ab70fff98bb2300a39bf8e2371a746fe50b1_thumb"
+	"clienticon" "7a854cdf0c43c792e9640fd26e7f40d520031d75"
+	"clienttga" "a7ce687a51363e7fd3e96fd352570488f1b0bbdd"
+	"icon" "26108f5caff3638c9f522dd79ee84a12761f373a"
+	"metacritic_url" "pc/residentevil5"
+	"oslist" "windows"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+	}
+	"type" "Game"
+	"name_localized"
+	{
+		"japanese" "BIOHAZARD 5"
+		"koreana" "BIOHAZARD 5"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "21690_eula_1"
+			"name" "Resident Evil 5 EULA"
+			"url" "https://store.steampowered.com//eula/21690_eula_1"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1678233600"
+		"tested_build_id" "10544787"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Resident Evil 5"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,ko"
+		"library_hero" "en"
+		"library_logo" "en,ja,ko"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "16.385672980239775"
+			"height_pct" "49.07046901738583"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "16.385672980239775"
+				"height_pct" "49.07046901738583"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"japanese" "logo_japanese.png"
+				"koreana" "logo_koreana.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"japanese" "logo_japanese_2x.png"
+				"koreana" "logo_koreana_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1677549529"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Capcom"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Capcom"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Resident Evil"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_9" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1252998000"
+	"steam_release_date" "1252998000"
+	"metacritic_score" "86"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/resident-evil-5\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "21690"
+	"store_tags"
+	{
+		"0" "1685"
+		"1" "19"
+		"2" "1659"
+		"3" "4508"
+		"4" "3814"
+		"5" "3843"
+		"6" "1667"
+		"7" "3859"
+		"8" "21"
+		"9" "1697"
+		"10" "3978"
+		"11" "1774"
+		"12" "3841"
+		"13" "4182"
+		"14" "7208"
+		"15" "4559"
+		"16" "1662"
+		"17" "4345"
+		"18" "10816"
+		"19" "4166"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Capcom"
+	"gamedir" "Resident Evil 5"
+	"homepage" "http://www.residentevil.com/5/"
+	"icon" ""
+	"installscript" "installscript.vdf"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "21691"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"legacykeylinkedexternally" "1"
+	"hadthirdpartycdkey" "1"
+	"publisher" "Capcom"
+	"gamemanualurl" "https://store.steampowered.com/manual/21690/"
+	"listofdlc" "352000"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Resident Evil 5"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Launcher.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,czech"
+	"228981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"21692"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8019335905957731486"
+				"size" "9039902756"
+				"download" "7703584752"
+			}
+		}
+	}
+	"352000"
+	{
+		"dlcappid" "352000"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "455789278129163691"
+				"size" "5384"
+				"download" "928"
+			}
+		}
+	}
+	"352001"
+	{
+		"dlcappid" "352001"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "157854607758045553"
+				"size" "5384"
+				"download" "928"
+			}
+		}
+	}
+	"21691"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2911490666295175655"
+				"size" "5384"
+				"download" "1616"
+			}
+		}
+	}
+	"21693"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3603548504038570692"
+				"size" "112321519"
+				"download" "88546480"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11465250"
+			"timeupdated" "1691384947"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "3"
+}
+"_missing_token" "False"
+"_change_number" "27565855"
+"_sha" "ad1f6163b0405f0985ee27a1050e6c0085df7abb"
+"_size" "7219"
