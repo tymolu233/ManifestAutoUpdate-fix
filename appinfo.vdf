@@ -1,0 +1,520 @@
+"appid" "860510"
+"common"
+{
+	"name" "Little Nightmares II"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"clienticon" "d088c44f26cea361433d82d954e54d0b5c4793fd"
+	"clienttga" "42a4492723f9c029d90dd2f4a4b6b11d003096b1"
+	"icon" "8875efb23a0fc1f079f227508d981f2cba82d735"
+	"logo" "19b6e7fc830b2a752891a9a23afdc3fe94dc5d6b"
+	"logo_small" "19b6e7fc830b2a752891a9a23afdc3fe94dc5d6b_thumb"
+	"name_localized"
+	{
+		"tchinese" "小小夢魘2"
+		"schinese" "小小梦魇2"
+		"japanese" "Little Nightmares II -リトルナイトメア２-"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "860510_eula_0"
+			"name" "Little Nightmares II EULA"
+			"url" "https://store.steampowered.com//eula/860510_eula_0"
+			"version" "4"
+		}
+	}
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1651104000"
+		"tested_build_id" "7836543"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Little Nightmares II"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "56.59685842793702"
+			"height_pct" "63.54166666666666"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "56.59685842793702"
+				"height_pct" "63.54166666666666"
+			}
+		}
+	}
+	"store_asset_mtime" "1730127679"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tarsier Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "BANDAI NAMCO Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Little Nightmares"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1612998000"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/little-nightmares-ii\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "860510"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "21"
+		"2" "4182"
+		"3" "1664"
+		"4" "4342"
+		"5" "4166"
+		"6" "1721"
+		"7" "1742"
+		"8" "1687"
+		"9" "4106"
+		"10" "5537"
+		"11" "3859"
+		"12" "492"
+		"13" "1625"
+		"14" "1756"
+		"15" "4975"
+		"16" "4064"
+		"17" "19"
+		"18" "1685"
+		"19" "4667"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Tarsier Studios"
+	"publisher" "BANDAI NAMCO Entertainment"
+	"homepage" "https://little-nightmares.com"
+	"listofdlc" "1282530,1282531,1282532,1413420"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Little Nightmares II"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Helios\\Binaries\\Win64\\Little Nightmares II.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "EnhancedEdition\\Little_Nightmares_II_Enhanced.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1413420"
+			}
+			"description_loc"
+			{
+				"english" "Enhanced Edition"
+				"german" "Enhanced Edition"
+				"french" "Enhanced Edition"
+				"italian" "Enhanced Edition"
+				"koreana" "리틀 나이트메어 2 Enhanced Edition"
+				"spanish" "Enhanced Edition"
+				"schinese" "小小梦魇2 强化版"
+				"tchinese" "小小夢魘2 強化版"
+				"russian" "Enhanced Edition"
+				"japanese" "リトルナイトメア2 Enhanced Edition "
+				"portuguese" "Enhanced Edition"
+				"polish" "Enhanced Edition"
+				"brazilian" "Enhanced Edition"
+				"arabic" "Enhanced Edition"
+				"latam" "Edición mejorada"
+			}
+			"description" "Enhanced Edition"
+		}
+		"2"
+		{
+			"executable" "Helios\\Binaries\\Win64\\Helios.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "casestudy"
+			}
+			"description_loc"
+			{
+				"english" "casestudy"
+			}
+			"description" "casestudy"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2448150018"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam"
+	"hasdepotsindlc" "0"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"860511"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1340413818607528556"
+				"size" "9395386926"
+				"download" "3328244800"
+			}
+		}
+	}
+	"860512"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "340267365084699033"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1282531"
+	{
+		"dlcappid" "1282531"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4972151890057558212"
+				"size" "1032157288"
+				"download" "1025101920"
+			}
+		}
+	}
+	"1413420"
+	{
+		"dlcappid" "1413420"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2584754337176686908"
+				"size" "12969523279"
+				"download" "4632045296"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7836543"
+			"timeupdated" "1639493130"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Helios/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "EnhancedEdition/Helios/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "Helios/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27555746"
+"_sha" "9dd3414fdf3b2dbcba4027526e89494b64054e18"
+"_size" "9457"
