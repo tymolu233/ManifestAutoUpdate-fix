@@ -1,0 +1,542 @@
+"appid" "361280"
+"common"
+{
+	"name" "Turmoil"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"logo" "874a9b6f7e241d345c55c9986e69fe20dc15cd2b"
+	"logo_small" "874a9b6f7e241d345c55c9986e69fe20dc15cd2b_thumb"
+	"icon" "37bfa1637243c416174c039a23ebe370a3c04e78"
+	"clienttga" "823e00e47f2fb59e57c4de91f4f020a64657bf3f"
+	"clienticon" "97214f794fc21ec61bc5b151711cffc45091b9c4"
+	"releasestate" "released"
+	"eulas"
+	{
+	}
+	"osarch" "64"
+	"linuxclienticon" "a492c73fe8ab24c9c756dff1633614dc91452e01"
+	"clienticns" "9d12a8373647c170e534d5dfbf9b465af07766a9"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"dutch" "1"
+		"brazilian" "1"
+	}
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1650326400"
+		"tested_build_id" "7755606"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Turmoil"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "55"
+			"height_pct" "37"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "55"
+				"height_pct" "37"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1671023236"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Gamious"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Gamious"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1464856316"
+	"metacritic_score" "73"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/turmoil\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "361280"
+	"store_tags"
+	{
+		"0" "5981"
+		"1" "12472"
+		"2" "9"
+		"3" "16689"
+		"4" "8945"
+		"5" "1741"
+		"6" "3859"
+		"7" "17770"
+		"8" "4182"
+		"9" "1654"
+		"10" "3871"
+		"11" "4845"
+		"12" "4695"
+		"13" "14139"
+		"14" "599"
+		"15" "492"
+		"16" "3813"
+		"17" "3987"
+		"18" "6730"
+		"19" "1775"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Gamious"
+	"publisher" "Gamious"
+	"homepage" "https://gamious.com/portfolio/turmoil/"
+	"listofdlc" "539310,804760,3106610"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Turmoil"
+	"launch"
+	{
+		"3"
+		{
+			"executable" "Turmoil.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"5"
+		{
+			"executable" "Turmoil.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"6"
+		{
+			"executable" "Turmoil.app/Contents/MacOS/Turmoil"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"7"
+		{
+			"executable" "Turmoil_PC_Full.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "old_campaign_compatible"
+			}
+		}
+		"8"
+		{
+			"executable" "TurmoilSteam.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "old_campaign_compatible"
+			}
+		}
+		"9"
+		{
+			"executable" "run.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "old_campaign_compatible"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigfileids" "735646498"
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"361281"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8360851581581202786"
+				"size" "0"
+				"download" "0"
+			}
+			"old_campaign_compatible"
+			{
+				"gid" "8360851581581202786"
+				"size" "0"
+				"download" "0"
+			}
+			"v1.2.15"
+			{
+				"gid" "8360851581581202786"
+				"size" "0"
+				"download" "0"
+			}
+			"v3.1.3"
+			{
+				"gid" "8360851581581202786"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"361282"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3487005447028648861"
+				"size" "1849192411"
+				"download" "171857216"
+			}
+			"old_campaign_compatible"
+			{
+				"gid" "2930759533100733229"
+				"size" "143148036"
+				"download" "98347488"
+			}
+			"v1.2.15"
+			{
+				"gid" "4812950060037730441"
+				"size" "73569139"
+				"download" "45503984"
+			}
+			"v3.1.3"
+			{
+				"gid" "5025718385280183945"
+				"size" "1465618480"
+				"download" "120779552"
+			}
+		}
+	}
+	"361283"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4508072189152184844"
+				"size" "1950117793"
+				"download" "183502784"
+			}
+			"old_campaign_compatible"
+			{
+				"gid" "6133352096809706594"
+				"size" "142112037"
+				"download" "97785344"
+			}
+			"v1.2.15"
+			{
+				"gid" "5315962998392064541"
+				"size" "72557292"
+				"download" "44984464"
+			}
+			"v3.1.3"
+			{
+				"gid" "5728676121391766318"
+				"size" "1452911571"
+				"download" "122469536"
+			}
+		}
+	}
+	"361284"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2947060921186777871"
+				"size" "1987440126"
+				"download" "187343104"
+			}
+			"old_campaign_compatible"
+			{
+				"gid" "8771767955149127286"
+				"size" "146932370"
+				"download" "99094112"
+			}
+			"v1.2.15"
+			{
+				"gid" "7697410065097173707"
+				"size" "78396416"
+				"download" "47263184"
+			}
+			"v3.1.3"
+			{
+				"gid" "295727136047553428"
+				"size" "1445584849"
+				"download" "116104960"
+			}
+		}
+	}
+	"539310"
+	{
+		"dlcappid" "539310"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9081265976220666080"
+				"size" "37960661"
+				"download" "37448448"
+			}
+			"old_campaign_compatible"
+			{
+				"gid" "9081265976220666080"
+				"size" "37960661"
+				"download" "37448448"
+			}
+			"v1.2.15"
+			{
+				"gid" "4591206660277054159"
+				"size" "25255120"
+				"download" "24850784"
+			}
+			"v3.1.3"
+			{
+				"gid" "9081265976220666080"
+				"size" "37960661"
+				"download" "37448448"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17014328"
+			"timeupdated" "1736952916"
+		}
+		"old_campaign_compatible"
+		{
+			"buildid" "5090105"
+			"description" "Disable this beta after finishing your old campaign!"
+			"timeupdated" "1629204949"
+		}
+		"v1.2.15"
+		{
+			"buildid" "2599966"
+			"description" "Last version before the The Heat is On DLC"
+			"timeupdated" "1522312952"
+		}
+		"v3.1.3"
+		{
+			"buildid" "15187278"
+			"description" "Last version before the Underground DLC"
+			"timeupdated" "1725547773"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "20"
+}
+"_missing_token" "False"
+"_change_number" "27106307"
+"_sha" "33f60d56883f5006dd5c3c795b3da9d63023603e"
+"_size" "9223"
