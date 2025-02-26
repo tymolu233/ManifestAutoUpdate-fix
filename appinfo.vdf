@@ -1,0 +1,532 @@
+"appid" "607050"
+"common"
+{
+	"name" "Wargroove"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "5a8080eb668a49cab131881d6baa5200d84f399e"
+	"clienttga" "3db15ab73dec123b8260f5ec3397d443ca8727d0"
+	"icon" "5d9f9be7eea6816578e46f07629a4dae8cec3b59"
+	"logo" "2cb0e85f4c3bc23197c91e7e8540e29bd9312d45"
+	"logo_small" "2cb0e85f4c3bc23197c91e7e8540e29bd9312d45_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"linuxclienticon" "06c5bf68dee6a9d2b64ae44838599647f16ad361"
+	"clienticns" "039e3ea61ecaa1b8d8a88c9623a4245f5c6b2a19"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "607050_eula_0"
+			"name" "Wargroove EULA"
+			"url" "https://store.steampowered.com//eula/607050_eula_0"
+		}
+	}
+	"name_localized"
+	{
+		"japanese" "ウォーグルーヴ"
+		"koreana" "워그루브"
+		"schinese" "战律"
+		"tchinese" "戰律"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1654041600"
+		"tested_build_id" "5374517"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DisplayOutputHasNonblockingIssues"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Wargroove"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "53"
+			"height_pct" "54"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "53"
+				"height_pct" "54"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1730825610"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Chucklefish"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Chucklefish"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Chucklefish"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Wargroove"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_27" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_32" "1"
+		"category_17" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_44" "1"
+		"category_49" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1549022354"
+	"metacritic_score" "82"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/wargroove\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "607050"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "14139"
+		"2" "3964"
+		"3" "1741"
+		"4" "21725"
+		"5" "492"
+		"6" "17305"
+		"7" "1677"
+		"8" "1708"
+		"9" "3859"
+		"10" "4182"
+		"11" "3841"
+		"12" "3843"
+		"13" "7368"
+		"14" "4840"
+		"15" "4508"
+		"16" "1775"
+		"17" "5350"
+		"18" "7481"
+		"19" "1685"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Chucklefish"
+	"publisher" "Chucklefish"
+	"homepage" "https://wargroove.com"
+	"listofdlc" "1061140"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Wargroove"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "win32_bin\\wargroove32.exe"
+			"arguments" "--dx11"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"1"
+		{
+			"executable" "win64_bin\\wargroove64.exe"
+			"arguments" "--dx11"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "win32_bin\\wargroove32.exe"
+			"arguments" "--opengl"
+			"description" "Wargroove (OpenGL)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"4"
+		{
+			"executable" "win64_bin\\wargroove64.exe"
+			"arguments" "--opengl"
+			"description" "Wargroove (OpenGL)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"5"
+		{
+			"executable" "wargroove.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"6"
+		{
+			"executable" "win64_bin\\wargroove64.exe"
+			"arguments" "--skip-intro"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Wargroove (No Intro)"
+			}
+			"description" "Wargroove (No Intro)"
+		}
+		"7"
+		{
+			"executable" "win32_bin\\wargroove32.exe"
+			"arguments" "--skip-intro"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+			"description_loc"
+			{
+				"english" "Wargroove (No Intro)"
+			}
+			"description" "Wargroove (No Intro)"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,brazilian"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"607051"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7071124816779123252"
+				"size" "333970028"
+				"download" "321246576"
+			}
+		}
+	}
+	"607052"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8220361524159760239"
+				"size" "18235312"
+				"download" "4288192"
+			}
+		}
+	}
+	"607053"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7564822593432117800"
+				"size" "30454257"
+				"download" "8503344"
+			}
+		}
+	}
+	"607054"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3742102536967398452"
+				"size" "353969938"
+				"download" "325670736"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5374517"
+			"timeupdated" "1596632542"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Chucklefish/Wargroove/save"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacHome"
+			"addpath" "/Library/"
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgDataHome"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27530043"
+"_sha" "a0e7781fa5ee70098ce5c523be1b696bce05d167"
+"_size" "9149"
