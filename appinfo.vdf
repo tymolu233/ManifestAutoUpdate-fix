@@ -1,0 +1,309 @@
+"appid" "1010750"
+"common"
+{
+	"name" "Blood: Fresh Supply"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"icon" "0bef18eecebed30f5adf1a40adb5465de2703990"
+	"logo" "ab1dd69d87abd33f1484438cdf43a5b2dab44e33"
+	"logo_small" "ab1dd69d87abd33f1484438cdf43a5b2dab44e33_thumb"
+	"clienticon" "4317b210162315f3f34bcf42f015bfc505bae365"
+	"clienttga" "d6f3e19a92e8035e87b7f291ab9ea5004b28594e"
+	"linuxclienticon" "b3bfa62b98471c90163c7151cf3600b1a8fe7d85"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1656028800"
+		"tested_build_id" "4076831"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Blood: Fresh Supply"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1568751440"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Nightdive Studios"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Monolith Productions"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Atari"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Blood"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1557421155"
+	"metacritic_score" "77"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/blood-fresh-supply\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1010750"
+	"store_tags"
+	{
+		"0" "1663"
+		"1" "1774"
+		"2" "4975"
+		"3" "1667"
+		"4" "3839"
+		"5" "19"
+		"6" "3916"
+		"7" "3964"
+		"8" "4004"
+		"9" "4166"
+		"10" "6691"
+		"11" "4342"
+		"12" "4840"
+		"13" "1685"
+		"14" "4508"
+		"15" "3841"
+		"16" "3859"
+		"17" "7368"
+		"18" "4182"
+		"19" "3843"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Nightdive Studios"
+	"publisher" "Atari"
+	"homepage" "https://www.nightdivestudios.com"
+}
+"config"
+{
+	"installdir" "Blood"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "anuket_x64.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "anuket_x64.exe"
+			"arguments" "-addon \"addons\\Cryptic Passage\\\""
+			"description" "Play Cryptic Passage"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "DOS\\DOSBox.exe"
+			"arguments" "-conf .\\dosbox_blood.conf"
+			"workingdir" "DOS"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch DOS Blood: One Unit Whole"
+			}
+			"description" "Launch DOS Blood: One Unit Whole"
+		}
+	}
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1010751"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2769166224076846660"
+				"size" "162208981"
+				"download" "114432736"
+			}
+		}
+	}
+	"1010752"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "459099542391407503"
+				"size" "11134425"
+				"download" "5887472"
+			}
+		}
+	}
+	"1010753"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2868605239778221313"
+				"size" "640267978"
+				"download" "456300448"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12755459"
+			"timeupdated" "1700529518"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "209715200"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Nightdive Studios\\Blood EX\\saves\\"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27622285"
+"_sha" "5eeb6874855c11b318313a408e583f1303c1ee46"
+"_size" "5176"
