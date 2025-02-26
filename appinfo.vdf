@@ -1,0 +1,356 @@
+"appid" "1451090"
+"common"
+{
+	"name" "Tactics Ogre: Reborn"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"clienticon" "6bb72c32bbcd241405b016110f33a8b54f40ecc8"
+	"clienttga" "f71c850f8bb98529ba0db7f8d8e09ea49a8b0d26"
+	"icon" "30a81e16011c5e640270582c03d74a83f3882dd9"
+	"name_localized"
+	{
+		"japanese" "タクティクスオウガ リボーン"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1451090_eula_0"
+			"name" "Tactics Ogre: Reborn EULA"
+			"url" "https://store.steampowered.com//eula/1451090_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1668729600"
+		"tested_build_id" "9414523"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Tactics Ogre: Reborn"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja"
+		"library_hero" "en"
+		"library_logo" "en,ja"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.33965374650175"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "38.33965374650175"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"japanese" "logo_japanese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"japanese" "logo_japanese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1680169545"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Square Enix"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Square Enix"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1668189422"
+	"metacritic_score" "84"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/tactics-ogre-reborn\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1451090"
+	"store_tags"
+	{
+		"0" "21725"
+		"1" "14139"
+		"2" "122"
+		"3" "17305"
+		"4" "599"
+		"5" "4975"
+		"6" "1684"
+		"7" "4434"
+		"8" "1677"
+		"9" "4182"
+		"10" "4325"
+		"11" "3964"
+		"12" "1741"
+		"13" "5851"
+		"14" "10695"
+		"15" "1742"
+		"16" "1756"
+		"17" "5708"
+		"18" "4004"
+		"19" "4085"
+	}
+	"review_score" "6"
+	"review_percentage" "74"
+}
+"extended"
+{
+	"developer" "Square Enix"
+	"publisher" "Square Enix"
+	"homepage" "https://tactics-ogre.square-enix-games.com/"
+	"listofdlc" "2087040,2087050,2087060"
+}
+"config"
+{
+	"installdir" "Tactics Ogre Reborn"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Tactics Ogre Reborn.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"steamcontrollertouchconfigdetails" ""
+}
+"depots"
+{
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,japanese"
+	"hasdepotsindlc" "1"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1451091"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4303847580532694722"
+				"size" "12207344370"
+				"download" "11731088544"
+			}
+			"local"
+			{
+				"gid" "1778581734381811451"
+				"size" "12211006720"
+				"download" "11733539808"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15883459"
+			"timeupdated" "1730973524"
+		}
+		"local"
+		{
+			"buildid" "15766740"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1726813842"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "134217728"
+	"maxnumfiles" "256"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Tactics Ogre Reborn/Steam/{64BitSteamID}"
+			"pattern" "*.SAV"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27478854"
+"_sha" "4f10e76b41634e7f8f47f00df84f9c588f341ce4"
+"_size" "6559"
