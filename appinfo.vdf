@@ -1,0 +1,371 @@
+"appid" "997010"
+"common"
+{
+	"name" "Police Simulator: Patrol Officers"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "9dd4503b39eaa4f7edd4e0e40428f198c2e8ed79"
+	"logo_small" "9dd4503b39eaa4f7edd4e0e40428f198c2e8ed79_thumb"
+	"icon" "c70e222d018ee6aa2571d1c41b7c928f20dfc00f"
+	"clienticon" "51eb2a9d34699586790c95d9236a0bde6d9afae7"
+	"clienttga" "c36e19d9d5f2bf862a2e6c1bf1db14db130e2ae5"
+	"releasestate" "released"
+	"name_localized"
+	{
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "997010_eula_0"
+			"name" "Police Simulator: Patrol Officers EULA"
+			"url" "https://store.steampowered.com//eula/997010_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1697673600"
+		"tested_build_id" "12407000"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "59.794267469447746"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "59.794267469447746"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1732875020"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Aesir Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "astragon Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "astragon Entertainment"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1668095460"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "997010"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "6378"
+		"2" "1695"
+		"3" "3859"
+		"4" "4175"
+		"5" "8369"
+		"6" "3843"
+		"7" "9204"
+		"8" "4182"
+		"9" "13190"
+		"10" "1685"
+		"11" "1697"
+		"12" "4191"
+		"13" "3834"
+		"14" "1100687"
+		"15" "4747"
+		"16" "6426"
+		"17" "1036"
+		"18" "493"
+		"19" "7208"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "Aesir Interactive"
+	"publisher" "astragon Entertainment"
+	"homepage" "https://patrol-officers.com/"
+	"listofdlc" "2009550,2199030,2210960,2350410,2513250,2527820,2527830,2893870,2893880,3048950,3167630"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Police Simulator Patrol Officers"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Boston.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"997011"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4047140644961127472"
+				"size" "13258177167"
+				"download" "4047880896"
+			}
+		}
+	}
+	"workshopdepot" "997010"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15851450"
+			"timeupdated" "1727863071"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "2000000"
+	"maxnumfiles" "15"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Boston/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27664440"
+"_sha" "30a90c8fa0a3fcc71cafbc6112816d644be8bdeb"
+"_size" "6422"
