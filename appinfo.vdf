@@ -1,0 +1,398 @@
+"appid" "204450"
+"common"
+{
+	"name" "Call of Juarez Gunslinger"
+	"type" "Game"
+	"logo" "949bcc5d330433a4e99efc8a25025aeee9bfa294"
+	"logo_small" "949bcc5d330433a4e99efc8a25025aeee9bfa294_thumb"
+	"icon" "b9a00d132852719cd6e6c2be3f3d0fdf669ed7ce"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"oslist" "windows"
+	"clienticon" "d3c0e9407277ad22a4eae21f8579bf7d68c5f2e8"
+	"clienttga" "e38a2d4f70cdd5ea745241beed8206cc6c11a23e"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"url" "http://store.steampowered.com/eula/204450_eula"
+			"id" "204450_eula"
+			"name" "204450_eula"
+		}
+	}
+	"sortas" "Call of Juarez 4"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1643932800"
+		"tested_build_id" "168269"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"metacritic_name" "Call of Juarez: Gunslinger"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "44.05125361059555"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "44.05125361059555"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1685458952"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Techland"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Techland Publishing"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Call of Juarez"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_25" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "1"
+			"full_audio" "1"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "1"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "1"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "1"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "1"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "1"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "1"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "1"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "1"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1369242000"
+	"metacritic_score" "79"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/call-of-juarez-gunslinger\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "204450"
+	"store_tags"
+	{
+		"0" "1647"
+		"1" "1663"
+		"2" "19"
+		"3" "1774"
+		"4" "4182"
+		"5" "1742"
+		"6" "5796"
+		"7" "1719"
+		"8" "3839"
+		"9" "5094"
+		"10" "21"
+		"11" "9592"
+		"12" "4136"
+		"13" "4667"
+		"14" "4166"
+		"15" "1773"
+		"16" "4345"
+		"17" "13190"
+		"18" "3987"
+		"19" "4598"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Techland"
+	"gamedir" "ValveTestApp204450"
+	"homepage" "https://techland.net"
+	"icon" ""
+	"launcheula" "http://store.steampowered.com/eula/204450_eula"
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Techland Publishing"
+}
+"config"
+{
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CoJGunslinger.exe"
+			"description" "Launch the game."
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"contenttype" "3"
+	"installdir" "CoJ Gunslinger"
+}
+"depots"
+{
+	"preloadonly" "1"
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,spanish,russian,japanese,polish,brazilian"
+	"204451"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6466535045316228659"
+				"size" "23199330"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "3161314524815309339"
+				"size" "22137658"
+				"download" "0"
+			}
+		}
+	}
+	"204452"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "779876568638164487"
+				"size" "2205953421"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "4624582375157383887"
+				"size" "2187980907"
+				"download" "0"
+			}
+		}
+	}
+	"204453"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6249518467060031795"
+				"size" "2762578409"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "6218887709383843534"
+				"size" "2762582505"
+				"download" "0"
+			}
+		}
+	}
+	"204454"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "611700607188462372"
+				"size" "1787680"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "3207903339622869232"
+				"size" "1787680"
+				"download" "0"
+			}
+		}
+	}
+	"markdlcdepots" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "168269"
+		}
+		"local"
+		{
+			"buildid" "66638"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "1000"
+	"hidecloudui" "0"
+}
+"_missing_token" "False"
+"_change_number" "27105101"
+"_sha" "500bc4bd9cdd978be968e69811b703ab882b2bb0"
+"_size" "6940"
