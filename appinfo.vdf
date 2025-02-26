@@ -1,0 +1,727 @@
+"appid" "644830"
+"common"
+{
+	"name" "The Surge 2"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "b0c566305cdadfc8a7d75a5fbcfb7cf7403c4766"
+	"logo" "6a721135e3046bcb76f552eda4bbd664a0feba37"
+	"logo_small" "6a721135e3046bcb76f552eda4bbd664a0feba37_thumb"
+	"oslist" "windows"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "644830_eula_0"
+			"name" "The Surge 2 EULA"
+			"url" "https://store.steampowered.com//eula/644830_eula_0"
+		}
+	}
+	"osextended" ""
+	"clienttga" "1d9959e7b8c765f25f8640a00c06021ea828978a"
+	"clienticon" "8c8e5255a01498d5637833d0305d7640c1afafa8"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "4835537"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "The Surge 2"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "56.84933160051561"
+			"height_pct" "62.51286313623051"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "56.84933160051561"
+				"height_pct" "62.51286313623051"
+			}
+		}
+	}
+	"store_asset_mtime" "1663148715"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Deck13"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Focus Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Focus Entertainment"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1569275940"
+	"metacritic_score" "76"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/the-surge-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "644830"
+	"store_tags"
+	{
+		"0" "29482"
+		"1" "122"
+		"2" "19"
+		"3" "1695"
+		"4" "3942"
+		"5" "4667"
+		"6" "4026"
+		"7" "1697"
+		"8" "4182"
+		"9" "4115"
+		"10" "3859"
+		"11" "4747"
+		"12" "4345"
+		"13" "4821"
+		"14" "1646"
+		"15" "4231"
+		"16" "5752"
+		"17" "7208"
+		"18" "1742"
+		"19" "6650"
+	}
+	"review_score" "6"
+	"review_percentage" "76"
+}
+"extended"
+{
+	"developer" "Deck13"
+	"publisher" "Focus Entertainment"
+	"homepage" "https://www.focus-home.com/games/the-surge-2"
+	"listofdlc" "1068260,1135970,1135971,1135972,1137640,1137641,1162230"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "The Surge 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin\\TheSurge2.exe"
+			"workingdir" "\\bin"
+			"type" "none"
+		}
+		"1"
+		{
+			"executable" "launcher\\surge2-launcher.exe"
+			"workingdir" "\\bin"
+			"description" "Driver Checker (Beta)"
+			"type" "none"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1896830059"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"644831"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3191620500871439918"
+				"size" "14451413787"
+				"download" "10158296400"
+			}
+			"troubleshooting"
+			{
+				"gid" "3191620500871439918"
+				"size" "14451413787"
+				"download" "10158296400"
+			}
+		}
+	}
+	"644836"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4084818526915859018"
+				"size" "160620344"
+				"download" "41056912"
+			}
+			"troubleshooting"
+			{
+				"gid" "6915643269552235115"
+				"size" "159267816"
+				"download" "40698400"
+			}
+		}
+	}
+	"644832"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4451458172733501493"
+				"size" "21099258"
+				"download" "6062448"
+			}
+			"troubleshooting"
+			{
+				"gid" "3895879220004142024"
+				"size" "19871701"
+				"download" "5723760"
+			}
+		}
+	}
+	"644833"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8163400162859938542"
+				"size" "3556757248"
+				"download" "2466974336"
+			}
+			"troubleshooting"
+			{
+				"gid" "970950777133622350"
+				"size" "2241884157"
+				"download" "1685431136"
+			}
+		}
+	}
+	"644834"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4332506889156647888"
+				"size" "1577255431"
+				"download" "1538818336"
+			}
+			"troubleshooting"
+			{
+				"gid" "5444221259758639864"
+				"size" "1503416416"
+				"download" "1466260784"
+			}
+		}
+	}
+	"644835"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2041984520297196038"
+				"size" "47144429"
+				"download" "30151536"
+			}
+			"troubleshooting"
+			{
+				"gid" "5586620884211626879"
+				"size" "44496271"
+				"download" "28416256"
+			}
+		}
+	}
+	"644837"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6300986339426965562"
+				"size" "451"
+				"download" "432"
+			}
+			"troubleshooting"
+			{
+				"gid" "1165061076427430552"
+				"size" "451"
+				"download" "432"
+			}
+		}
+	}
+	"644838"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1041803459927629548"
+				"size" "72507823"
+				"download" "16939184"
+			}
+			"troubleshooting"
+			{
+				"gid" "3743334758695054708"
+				"size" "72263613"
+				"download" "16931744"
+			}
+		}
+	}
+	"644839"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1068261"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1068262"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1068263"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1068264"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1068265"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1068266"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1068267"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1068268"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1068269"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1102331"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1102332"
+	{
+		"config"
+		{
+			"language" "czech"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1102333"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1102334"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7116448327281246369"
+				"size" "578110"
+				"download" "203776"
+			}
+			"troubleshooting"
+			{
+				"gid" "6322935121513049924"
+				"size" "638"
+				"download" "480"
+			}
+		}
+	}
+	"1102335"
+	{
+		"dlcappid" "1137641"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9197997188770382412"
+				"size" "10316350486"
+				"download" "6754635376"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4835537"
+			"timeupdated" "1585557906"
+		}
+		"troubleshooting"
+		{
+			"buildid" "4223989"
+			"timeupdated" "1570024245"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "500"
+}
+"_missing_token" "False"
+"_change_number" "27005282"
+"_sha" "7f32b3dea13e901235f73bd491eecaaf6c372bef"
+"_size" "11624"
