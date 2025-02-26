@@ -1,0 +1,579 @@
+"appid" "892970"
+"common"
+{
+	"name" "Valheim"
+	"type" "Game"
+	"icon" "2f64c9a826e2c6cf3253fea4834c2e612db09143"
+	"logo" "c00dcd0a5ae87638755e2d68b9c2731d2091770f"
+	"logo_small" "c00dcd0a5ae87638755e2d68b9c2731d2091770f_thumb"
+	"clienticon" "e63a5c06f103cef62c44a492c48af7d0118c9421"
+	"clienttga" "0c5b7c649bd576bf3f311566d36ef533b63a4742"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"releasestate" "released"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"name_localized"
+	{
+		"schinese" "Valheim: 英灵神殿"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1647043200"
+		"tested_build_id" "7879449"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Valheim"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_hero_blur" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "20.35246194994994"
+			"height_pct" "92.01388888888889"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "915b83d539d8db9c7f0077b02237232212cb8097/library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "915b83d539d8db9c7f0077b02237232212cb8097/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "f4bb0a8d0681622f515108863531671f06065521/library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "f4bb0a8d0681622f515108863531671f06065521/library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "f4bb0a8d0681622f515108863531671f06065521/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "2a4146490bee9f60decde4802b9fd4933ecebd26/logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "20.35246194994994"
+				"height_pct" "92.01388888888889"
+			}
+			"image2x"
+			{
+				"english" "2a4146490bee9f60decde4802b9fd4933ecebd26/logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "254bbfe7ead8ac313e5e1f95439e1bf0f3014996/library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "254bbfe7ead8ac313e5e1f95439e1bf0f3014996/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730188576"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Iron Gate AB"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Coffee Stain Publishing"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Coffee Stain Publishing"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_42" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1612252800"
+	"steam_release_date" "1612277700"
+	"community_hub_visible" "1"
+	"gameid" "892970"
+	"store_tags"
+	{
+		"0" "1100689"
+		"1" "1662"
+		"2" "3843"
+		"3" "1695"
+		"4" "3859"
+		"5" "1643"
+		"6" "1702"
+		"7" "7332"
+		"8" "3834"
+		"9" "1685"
+		"10" "4026"
+		"11" "21"
+		"12" "16094"
+		"13" "3810"
+		"14" "6730"
+		"15" "1697"
+		"16" "19"
+		"17" "4182"
+		"18" "493"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"gamedir" "valheim"
+	"serverbrowsername" "Valheim"
+	"developer" "Iron Gate AB"
+	"publisher" "Coffee Stain Publishing"
+	"homepage" "http://www.valheim.com"
+}
+"config"
+{
+	"installdir" "Valheim"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "valheim.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "valheim.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "Valheim.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "valheim.x86_64"
+			"arguments" "-force-glcore"
+			"description" "Valheim using OpenGL"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"4"
+		{
+			"executable" "valheim.exe"
+			"arguments" "-force-vulkan"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Valheim using Vulkan"
+			}
+			"description" "Valheim using Vulkan"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2442408209"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"892971"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7815399956763978340"
+				"size" "2340691335"
+				"download" "1238623424"
+			}
+			"default_preml"
+			{
+				"gid" "963707693317638395"
+				"size" "1355466664"
+				"download" "681296624"
+			}
+			"default_old"
+			{
+				"gid" "7890609055808802603"
+				"size" "2340674812"
+				"download" "1238609856"
+			}
+			"default_preal"
+			{
+				"gid" "1036124488433202120"
+				"size" "1784120099"
+				"download" "920812672"
+			}
+			"default_prebw"
+			{
+				"gid" "3817460037362211056"
+				"size" "2270649772"
+				"download" "1207319216"
+			}
+		}
+	}
+	"892972"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "342753060102212408"
+				"size" "2291051126"
+				"download" "1229740864"
+			}
+			"default_preml"
+			{
+				"gid" "794277100532230917"
+				"size" "1270124674"
+				"download" "673396176"
+			}
+			"default_old"
+			{
+				"gid" "3208396899566460743"
+				"size" "2291035643"
+				"download" "1229731824"
+			}
+			"default_preal"
+			{
+				"gid" "3694758505878885183"
+				"size" "1735173811"
+				"download" "913967600"
+			}
+			"default_prebw"
+			{
+				"gid" "1718101728181327859"
+				"size" "2221131715"
+				"download" "1199531872"
+			}
+		}
+	}
+	"892973"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4112571468963837565"
+				"size" "2348753744"
+				"download" "1233691968"
+			}
+			"default_preml"
+			{
+				"gid" "8337097991963315265"
+				"size" "653675777"
+				"download" "296580720"
+			}
+			"default_old"
+			{
+				"gid" "7132605340801306785"
+				"size" "2350558964"
+				"download" "1233964880"
+			}
+			"default_preal"
+			{
+				"gid" "3993289007053751724"
+				"size" "1476978926"
+				"download" "828996240"
+			}
+			"default_prebw"
+			{
+				"gid" "3540458686177232597"
+				"size" "2280336222"
+				"download" "1203178976"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16375457"
+			"timeupdated" "1732006974"
+		}
+		"default_preml"
+		{
+			"buildid" "9792150"
+			"description" "Last stable build before Mistlands"
+			"timeupdated" "1671524474"
+		}
+		"default_old"
+		{
+			"buildid" "16223075"
+			"description" "Previous stable"
+			"timeupdated" "1732006883"
+		}
+		"default_preal"
+		{
+			"buildid" "13920841"
+			"description" "Last stable build before Ashlands"
+			"timeupdated" "1715683785"
+		}
+		"default_prebw"
+		{
+			"buildid" "15676521"
+			"description" "\tLast stable build before Bog Witch"
+			"timeupdated" "1730189215"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "2000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "IronGate/Valheim/characters"
+			"pattern" "*"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "IronGate/Valheim/worlds"
+			"pattern" "*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".config/unity3d/"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27653367"
+"_sha" "b1be5f5fb87a219cf345abc78e4a7a0aa3546e13"
+"_size" "10702"
