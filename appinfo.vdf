@@ -1,0 +1,445 @@
+"appid" "1374930"
+"common"
+{
+	"name" "Black Geyser: Couriers of Darkness"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosnotarized"
+	"clienttga" "1fd0ad3554f583e9cf2eff7abc30375fb357da0a"
+	"linuxclienticon" "dab2e599c2843e1b875c5c05db1c1aafc5f619c7"
+	"clienticon" "2eab0b7a5fc48478d399b9c6b89881693505c9b5"
+	"icon" "453b7d3b640b70df5f0aafbf53be7307494d1f37"
+	"clienticns" "a8666ddd6b4f702e7d5cf9a581d26f249a3fe839"
+	"logo" "d67c022a3236b163e27eac5e20c9b75b8cb1f1a6"
+	"logo_small" "d67c022a3236b163e27eac5e20c9b75b8cb1f1a6_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"hungarian" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1652227200"
+		"tested_build_id" "8390704"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "81.16279069767441"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "81.16279069767441"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1689661320"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "GrapeOcean Technologies"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "V Publishing"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "GrapeOcean Technologies"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1647536886"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1374930"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "4474"
+		"2" "7107"
+		"3" "10695"
+		"4" "5851"
+		"5" "4747"
+		"6" "21725"
+		"7" "492"
+		"8" "6426"
+		"9" "1695"
+		"10" "6971"
+		"11" "7113"
+		"12" "1742"
+		"13" "3834"
+		"14" "1684"
+		"15" "4486"
+		"16" "4172"
+		"17" "3916"
+		"18" "4182"
+		"19" "17389"
+	}
+	"review_score" "6"
+	"review_percentage" "74"
+}
+"extended"
+{
+	"developer" "GrapeOcean Technologies"
+	"publisher" "V Publishing"
+	"homepage" "https://www.blackgeyser.com"
+}
+"config"
+{
+	"installdir" "Black Geyser Couriers of Darkness"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BlackGeyser.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "BlackGeyser.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "BlackGeyser.app/Contents/MacOS/BlackGeyser"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "BlackGeyser.exe"
+			"arguments" "-nolauncher"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Play Black Geyser: Couriers of Darkness (skip launcher)"
+				"german" "Black Geyser: Couriers of Darkness spielen (Launcher überspringen)"
+				"french" "Jouer à Black Geyser: Couriers of Darkness (passer le lanceur)"
+				"italian" "Gioca a Black Geyser: Couriers of Darkness (ignora programma di avvio)"
+				"spanish" "Jugar a Black Geyser: Couriers of Darkness (saltar launcher)"
+				"schinese" "玩 Black Geyser: Couriers of Darkness（跳过启动器）"
+				"russian" "Играть в Black Geyser: Couriers of Darkness (без лаунчера)"
+				"polish" "Graj w Black Geyser: Couriers of Darkness (pomiń program uruchamiający)"
+				"hungarian" "Black Geyser: Couriers of Darkness indítása (launcher nélkül)"
+				"turkish" "Black Geyser: Couriers of Darkness oyna (başlatıcıyı atla)"
+				"brazilian" "Jogar Black Geyser: Couriers of Darkness (pular inicializador)"
+				"latam" "Jugar Black Geyser: Couriers of Darkness (saltar launcher)"
+			}
+			"description" "Play Black Geyser: Couriers of Darkness (skip launcher)"
+		}
+	}
+}
+"depots"
+{
+	"1374931"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1347365551729594387"
+				"size" "38540416596"
+				"download" "18321419264"
+			}
+		}
+	}
+	"1374932"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4019835945299880077"
+				"size" "37631517219"
+				"download" "18217609952"
+			}
+		}
+	}
+	"1374933"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5276523148152045843"
+				"size" "37618418383"
+				"download" "18056217120"
+			}
+		}
+	}
+	"workshopdepot" "1374930"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16872008"
+			"timeupdated" "1735515359"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "300"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "GrapeOcean/BlackGeyser/data/saves"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "GrapeOcean/BlackGeyser/data/saves"
+					"replace" "GrapeOcean/BlackGeyser/data/saves"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".config/unity3d/GrapeOcean/BlackGeyser/data/saves"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27091398"
+"_sha" "d6ff94212824c1c057847a0f0f8675d04c049b86"
+"_size" "8384"
