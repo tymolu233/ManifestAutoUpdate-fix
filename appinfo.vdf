@@ -1,0 +1,363 @@
+"appid" "777770"
+"common"
+{
+	"name" "Warparty"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"logo" "778791c7302fdb2963d69426e7ae36f907fe24c5"
+	"logo_small" "778791c7302fdb2963d69426e7ae36f907fe24c5_thumb"
+	"icon" "457a2523006f45c7ebb68448b44f6e1acced9b81"
+	"clienticon" "78d0b19feff38e8d8641421049a0fa5c1da8f58c"
+	"clienttga" "c7e4dfcab642418a679d70ca37ee5102eb2ca489"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"dutch" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"metacritic_name" "WAR PARTY"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "28.296194051551893"
+			"height_pct" "53.78429517502365"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "28.296194051551893"
+				"height_pct" "53.78429517502365"
+			}
+		}
+	}
+	"store_asset_mtime" "1632295904"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Rogueside"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Rogueside"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Rogueside"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_29" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1553767523"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "777770"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1676"
+		"2" "7332"
+		"3" "4161"
+		"4" "8945"
+		"5" "1678"
+		"6" "3987"
+		"7" "5160"
+		"8" "4328"
+		"9" "1708"
+		"10" "12472"
+		"11" "4364"
+		"12" "4711"
+		"13" "4791"
+		"14" "4182"
+		"15" "3859"
+		"16" "1684"
+		"17" "1775"
+		"18" "3878"
+		"19" "1693"
+	}
+	"review_score" "5"
+	"review_percentage" "68"
+}
+"extended"
+{
+	"developer" "Rogueside"
+	"publisher" "Rogueside"
+	"homepage" "http://warpartygame.com"
+}
+"config"
+{
+	"installdir" "Warparty"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "warparty.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "warparty.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"777771"
+	{
+	}
+	"777772"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5091847500325512461"
+				"size" "4842165422"
+				"download" "2066866512"
+			}
+		}
+	}
+	"777773"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8782021049951468137"
+				"size" "4862238237"
+				"download" "2077633840"
+			}
+		}
+	}
+	"777778"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2711442393102888171"
+				"size" "4842165422"
+				"download" "2066410896"
+			}
+		}
+	}
+	"777779"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7547108401760896072"
+				"size" "4862238237"
+				"download" "2077732512"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4047877"
+			"timeupdated" "1564151216"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Warparty/SaveFiles"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "Warparty/Settings"
+			"pattern" "*.txt"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "eac7542faacffb43a9a7fbc8abeeb8fc134a6329"
+"_size" "5437"
