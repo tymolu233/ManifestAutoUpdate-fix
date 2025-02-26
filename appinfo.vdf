@@ -1,0 +1,422 @@
+"appid" "815370"
+"common"
+{
+	"name" "Green Hell"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "44eb291160a32099bb51a22847ffd18a009df0eb"
+	"logo_small" "44eb291160a32099bb51a22847ffd18a009df0eb_thumb"
+	"icon" "d118d766ef0107189e71b1410bebe13831b70d7b"
+	"clienticon" "e50aa533b96df94eb279dcb5eec2040c845dd7e6"
+	"clienttga" "ac686a2dda995d717e0181f84b4e425812fb8d43"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "815370_eula_0"
+			"name" "Green Hell EULA"
+			"url" "https://store.steampowered.com//eula/815370_eula_0"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"polish" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1735862400"
+		"tested_build_id" "16815101"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Green Hell"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "11b2c1dd531149d24a276ea0abae5f05b966f781/capsule_231x87.jpg"
+		"schinese" "6cd4d1f20d34cd1346e0fc93ee354f8f9ac7bcf8/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "25.29180384092463"
+			"height_pct" "29.990539262062356"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "25.29180384092463"
+				"height_pct" "29.990539262062356"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+				"schinese" "library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1739213556"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Creepy Jar"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Creepy Jar"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Creepy Jar"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_42" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1567687980"
+	"metacritic_score" "78"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/green-hell\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "815370"
+	"store_tags"
+	{
+		"0" "1100689"
+		"1" "1662"
+		"2" "3859"
+		"3" "3843"
+		"4" "1695"
+		"5" "1702"
+		"6" "19"
+		"7" "7332"
+		"8" "4182"
+		"9" "21"
+		"10" "1685"
+		"11" "3834"
+		"12" "3839"
+		"13" "3810"
+		"14" "599"
+		"15" "3978"
+		"16" "4166"
+		"17" "1643"
+		"18" "4175"
+		"19" "4106"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Creepy Jar"
+	"publisher" "Creepy Jar"
+	"homepage" "https://greenhell-game.com/"
+	"listofdlc" "2990430"
+}
+"config"
+{
+	"installdir" "Green Hell"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GH.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2188505980"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"815371"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3938349524363268753"
+				"size" "855760"
+				"download" "360848"
+			}
+			"public_test"
+			{
+				"gid" "3938349524363268753"
+				"size" "855760"
+				"download" "360848"
+			}
+		}
+	}
+	"815372"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "21894754054490575"
+				"size" "8504732342"
+				"download" "5762729728"
+			}
+			"public_test"
+			{
+				"gid" "7103309609447664054"
+				"size" "6201975230"
+				"download" "4053961088"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17225899"
+			"timeupdated" "1738672016"
+		}
+		"public_test"
+		{
+			"buildid" "7223899"
+			"description" "Hotfix 2.1.4 RC1"
+			"timeupdated" "1630314920"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "240"
+}
+"_missing_token" "False"
+"_change_number" "27651790"
+"_sha" "aeb4a866fdf4363d1ad356c9ce4b2647b1c0c3ca"
+"_size" "7385"
