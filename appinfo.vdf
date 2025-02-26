@@ -1,0 +1,483 @@
+"appid" "429620"
+"common"
+{
+	"name" "Dungeon Rushers"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"icon" "131c3c7f528501fa5e4f45e9194a6487ef490ad6"
+	"clienttga" "d6234ff8644b38c3e1656c11b1c20cd4e133c5cf"
+	"logo" "494b793c64506a2f404b4818e1535f5ecd10530b"
+	"logo_small" "494b793c64506a2f404b4818e1535f5ecd10530b_thumb"
+	"clienticon" "7f5a057164c8de0ad39e994c7c98bf40ff9d1b8f"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"french" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "地城进击者"
+	}
+	"osarch" ""
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1676332800"
+		"tested_build_id" "3003466"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"metacritic_name" "Dungeon Rushers"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "72.05367561260212"
+			"height_pct" "72.79743528853004"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "72.05367561260212"
+				"height_pct" "72.79743528853004"
+			}
+		}
+	}
+	"store_asset_mtime" "1567670906"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Goblinz Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Goblinz Publishing"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "WhisperGames"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Goblinz Publishing"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_17" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_30" "1"
+		"category_29" "1"
+		"category_36" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_25" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1473176391"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "429620"
+	"store_tags"
+	{
+		"0" "1720"
+		"1" "3959"
+		"2" "4325"
+		"3" "4026"
+		"4" "1716"
+		"5" "1741"
+		"6" "9"
+		"7" "122"
+		"8" "3871"
+		"9" "4434"
+		"10" "1677"
+		"11" "14139"
+		"12" "1684"
+		"13" "1708"
+		"14" "1770"
+		"15" "1742"
+		"16" "4182"
+		"17" "4711"
+		"18" "492"
+		"19" "4195"
+	}
+	"review_score" "5"
+	"review_percentage" "62"
+}
+"extended"
+{
+	"developer" "Goblinz Studio"
+	"publisher" "Goblinz Publishing"
+	"homepage" "https://www.dungeon-rushers.com"
+	"listofdlc" "577630,581950,581951,582230,804980"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Dungeon_Rushers"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Dungeon Rushers.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Dungeon Rushers.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Dungeon Rushers.x86"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"baselanguages" ""
+	"workshopdepot" "429620"
+	"429622"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "12444298044855925"
+				"size" "322016765"
+				"download" "91927024"
+			}
+			"endlessdungeon_debug"
+			{
+				"gid" "470923232109769220"
+				"size" "322016765"
+				"download" "91928176"
+			}
+			"test"
+			{
+				"gid" "12444298044855925"
+				"size" "322016765"
+				"download" "91927024"
+			}
+		}
+	}
+	"429621"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7560416166923458469"
+				"size" "310318100"
+				"download" "89272144"
+			}
+			"endlessdungeon_debug"
+			{
+				"gid" "4924358415413235271"
+				"size" "310318100"
+				"download" "89271744"
+			}
+			"test"
+			{
+				"gid" "7560416166923458469"
+				"size" "310318100"
+				"download" "89272144"
+			}
+		}
+	}
+	"429623"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "888069726160885787"
+				"size" "321797959"
+				"download" "91638624"
+			}
+			"endlessdungeon_debug"
+			{
+				"gid" "60631548788044043"
+				"size" "321797959"
+				"download" "91638752"
+			}
+			"test"
+			{
+				"gid" "888069726160885787"
+				"size" "321797959"
+				"download" "91638624"
+			}
+		}
+	}
+	"429624"
+	{
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3003466"
+			"timeupdated" "1536938241"
+		}
+		"endlessdungeon_debug"
+		{
+			"buildid" "2996220"
+			"timeupdated" "1533129846"
+		}
+		"test"
+		{
+			"buildid" "3003466"
+			"description" "only for testing"
+			"timeupdated" "1533306420"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "GoblinzStudio/Dungeon Rushers/"
+			"pattern" "*.json"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "SavesDir"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27177825"
+"_sha" "3621ac68e0fb52ffd3a609049fc03a4327ef42b6"
+"_size" "8411"
