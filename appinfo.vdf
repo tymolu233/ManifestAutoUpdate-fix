@@ -1,0 +1,245 @@
+"appid" "2059790"
+"common"
+{
+	"name" "再刷一把 PlayAgain"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "cfa8c34a63be8bb9a1848755ebb293b700cf30ca"
+	"clienttga" "6a5f44c4f281cf209406362e0b8876b5ce186a37"
+	"clienticon" "48980cadd1bc4431dbf3e231968142ca52a56e4a"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1663372800"
+		"tested_build_id" "9294687"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-4"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "35.23255813953487"
+			"height_pct" "47.34029921633817"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "35.23255813953487"
+				"height_pct" "47.34029921633817"
+			}
+		}
+	}
+	"store_asset_mtime" "1673249058"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "滑稽工作室"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "滑稽工作室"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "再刷一把"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1658401245"
+	"community_hub_visible" "1"
+	"gameid" "2059790"
+	"store_tags"
+	{
+		"0" "4325"
+		"1" "21"
+		"2" "122"
+		"3" "3964"
+		"4" "9"
+		"5" "4236"
+		"6" "10695"
+		"7" "4434"
+		"8" "1741"
+		"9" "14139"
+		"10" "615955"
+		"11" "17305"
+		"12" "3871"
+		"13" "4305"
+		"14" "1684"
+		"15" "4182"
+		"16" "4598"
+		"17" "4057"
+		"18" "492"
+		"19" "5577"
+	}
+	"review_score" "5"
+	"review_percentage" "66"
+}
+"extended"
+{
+	"developer" "滑稽工作室"
+	"publisher" "滑稽工作室"
+}
+"config"
+{
+	"installdir" "再刷一把 PlayAgain"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Game.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2059791"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8064319545780814456"
+				"size" "708863863"
+				"download" "489035760"
+			}
+		}
+	}
+	"2103260"
+	{
+		"dlcappid" "2103260"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11735036"
+			"timeupdated" "1689750756"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "52428800"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "www/save"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26786053"
+"_sha" "e8bc4e1d956667e09c8c81136414a7c71b4a69e5"
+"_size" "3945"
