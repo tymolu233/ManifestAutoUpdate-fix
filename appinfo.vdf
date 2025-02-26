@@ -1,0 +1,377 @@
+"appid" "204360"
+"common"
+{
+	"name" "Castle Crashers"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+	}
+	"logo" "793216ec14c639bdaf2f0119c8cc408b8e9ad7b1"
+	"logo_small" "793216ec14c639bdaf2f0119c8cc408b8e9ad7b1_thumb"
+	"icon" "9b7625f9b70f103397fd0416fd92abb583db8659"
+	"clienttga" "27fcc5cebada7612863ee3b17c42d1587a2fef43"
+	"clienticon" "ffe01563bb70af59a261798b8296b2d7c61db933"
+	"clienticns" "40b8a9d7b74977016bf2a9f22d87919df588cd4f"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosnotarized"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644969600"
+		"tested_build_id" "4355158"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Castle Crashers"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "33"
+			"height_pct" "38"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "33"
+				"height_pct" "38"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1720735491"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "The Behemoth"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "The Behemoth"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "The Behemoth"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "1"
+			"full_audio" "1"
+		}
+		"german"
+		{
+			"supported" "1"
+		}
+		"french"
+		{
+			"supported" "1"
+		}
+		"italian"
+		{
+			"supported" "1"
+		}
+		"koreana"
+		{
+			"supported" "1"
+		}
+		"spanish"
+		{
+			"supported" "1"
+		}
+		"schinese"
+		{
+			"supported" "1"
+		}
+		"tchinese"
+		{
+			"supported" "1"
+		}
+		"japanese"
+		{
+			"supported" "1"
+		}
+		"portuguese"
+		{
+			"supported" "1"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1348678860"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "204360"
+	"store_tags"
+	{
+		"0" "3871"
+		"1" "3843"
+		"2" "1685"
+		"3" "4158"
+		"4" "1646"
+		"5" "4136"
+		"6" "21"
+		"7" "4840"
+		"8" "3841"
+		"9" "3859"
+		"10" "7368"
+		"11" "19"
+		"12" "4182"
+		"13" "4172"
+		"14" "4195"
+		"15" "4726"
+		"16" "1719"
+		"17" "122"
+		"18" "1773"
+		"19" "597"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "The Behemoth"
+	"gamedir" "Castle Crashers"
+	"homepage" "https://www.thebehemoth.com"
+	"icon" ""
+	"languages" "english,spanish,portuguese,german,french,italian,koreana,japanese,schinese,tchinese"
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"validoslist" "windows,macos"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "The Behemoth"
+	"listofdlc" "204371,204372,3133920"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"launch"
+	{
+		"0"
+		{
+			"executable" "castle.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Castle Crashers.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"contenttype" "3"
+	"installdir" "CastleCrashers"
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1865225958"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese"
+	"204361"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "615242043503966810"
+				"size" "89031265"
+				"download" "62653328"
+			}
+		}
+	}
+	"204362"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7767106169287332288"
+				"size" "261630124"
+				"download" "207180608"
+			}
+		}
+	}
+	"workshopdepot" "204360"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15019473"
+			"timeupdated" "1722442916"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "1000"
+	"hidecloudui" "0"
+}
+"_missing_token" "False"
+"_change_number" "27655078"
+"_sha" "f5d5c29d7efa5ccdb5c236c431a81720541dba87"
+"_size" "6533"
