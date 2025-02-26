@@ -1,0 +1,1029 @@
+"appid" "247080"
+"common"
+{
+	"name" "Crypt of the NecroDancer"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"logo" "fe3ff9862c49f34a6b8705bf98baa0f954fcd260"
+	"logo_small" "fe3ff9862c49f34a6b8705bf98baa0f954fcd260_thumb"
+	"icon" "d6b5298b33cb990dcbb3fae94db4b421b813a724"
+	"clienttga" "942aaac9e92283c71a680611e5ace4678ed1d29d"
+	"clienticon" "e307352e3238f8fe35678c2ca16e6e503b741396"
+	"eulas"
+	{
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1699920000"
+		"tested_build_id" "12563603"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Crypt of the NecroDancer"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "27.581395348837205"
+			"height_pct" "56.237948230824"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "27.581395348837205"
+				"height_pct" "56.237948230824"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1738289299"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Brace Yourself Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Brace Yourself Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Klei Entertainment"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Brace Yourself Games"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_25" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_17" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_13" "1"
+		"category_39" "1"
+		"category_44" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1429806180"
+	"metacritic_score" "87"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/crypt-of-the-necrodancer\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "247080"
+	"store_tags"
+	{
+		"0" "1752"
+		"1" "7208"
+		"2" "4026"
+		"3" "1716"
+		"4" "1756"
+		"5" "3964"
+		"6" "1720"
+		"7" "492"
+		"8" "1621"
+		"9" "3841"
+		"10" "122"
+		"11" "3871"
+		"12" "19"
+		"13" "3959"
+		"14" "5125"
+		"15" "4182"
+		"16" "1685"
+		"17" "1684"
+		"18" "21"
+		"19" "4004"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Brace Yourself Games"
+	"publisher" "Brace Yourself Games"
+	"homepage" "http://necrodancer.com"
+	"listofdlc" "379400,554000,2094810,2828720"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Crypt of the NecroDancer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Necrodancer64\\Necrodancer.exe"
+			"workingdir" "Necrodancer64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Play Crypt of the NecroDancer"
+			}
+			"description" "Play Crypt of the NecroDancer"
+		}
+		"1"
+		{
+			"executable" "Necrodancer\\Necrodancer.exe"
+			"workingdir" "Necrodancer"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+			"description_loc"
+			{
+				"english" "Play Crypt of the NecroDancer (32-bit)"
+			}
+			"description" "Play Crypt of the NecroDancer (32-bit)"
+		}
+		"2"
+		{
+			"executable" "NecroDancerSP.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Play Crypt of the NecroDancer"
+			}
+			"description" "Play Crypt of the NecroDancer"
+		}
+		"3"
+		{
+			"executable" "NecroDancer.app"
+			"arguments" "0"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "legacy"
+			}
+			"description_loc"
+			{
+				"english" "Legacy Launch in windowed mode"
+			}
+			"description" "Legacy Launch in windowed mode"
+		}
+		"4"
+		{
+			"executable" "NecroDancer64/NecroDancer"
+			"workingdir" "NecroDancer64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Play Crypt of the NecroDancer"
+			}
+			"description" "Play Crypt of the NecroDancer"
+		}
+		"5"
+		{
+			"executable" "NecroDancer.sh"
+			"arguments" "0"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "legacy"
+			}
+			"description_loc"
+			{
+				"english" "Legacy Launch in windowed mode"
+			}
+			"description" "Legacy Launch in windowed mode"
+		}
+		"6"
+		{
+			"executable" "Beta64/Necrodancer.exe"
+			"workingdir" "Beta64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1985570"
+			}
+			"description_loc"
+			{
+				"english" "DLC64"
+			}
+			"description" "DLC64"
+		}
+		"7"
+		{
+			"executable" "Beta/Necrodancer.exe"
+			"workingdir" "Beta"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+				"ownsdlc" "1985570"
+			}
+			"description_loc"
+			{
+				"english" "DLC32"
+			}
+			"description" "DLC32"
+		}
+		"8"
+		{
+			"executable" "NecroDancer.exe"
+			"arguments" "0"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "legacy"
+			}
+			"description_loc"
+			{
+				"english" "Legacy Launch (windowed mode)"
+			}
+			"description" "Legacy Launch (windowed mode)"
+		}
+		"10"
+		{
+			"executable" "Beta64/NecroDancer"
+			"workingdir" "Beta64"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+				"ownsdlc" "1985570"
+			}
+			"description_loc"
+			{
+				"english" "DLC64 Linux"
+			}
+			"description" "DLC64 Linux"
+		}
+		"11"
+		{
+			"executable" "NecroDancer.sh"
+			"arguments" "1"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+				"betakey" "legacy"
+			}
+			"description_loc"
+			{
+				"english" "Legacy launch in fullscreen mode"
+			}
+			"description" "Legacy launch in fullscreen mode"
+		}
+		"12"
+		{
+			"executable" "NecroDancer.app"
+			"arguments" "1"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "legacy"
+			}
+			"description_loc"
+			{
+				"english" "Legacy Launch in fullscreen mode"
+			}
+			"description" "Legacy Launch in fullscreen mode"
+		}
+		"13"
+		{
+			"executable" "NecroDancer.exe"
+			"arguments" "1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "legacy"
+			}
+			"description_loc"
+			{
+				"english" "Legacy Launch full screen"
+			}
+			"description" "Legacy Launch full screen"
+		}
+		"14"
+		{
+			"executable" "NecroDancerMP.app"
+			"config"
+			{
+				"oslist" "macos"
+				"ownsdlc" "2094810"
+			}
+			"description_loc"
+			{
+				"english" "Launch DLC"
+			}
+			"description" "Launch DLC"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1898653507"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default,experimental_client,legacy,mactesting,razorsedge"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2940219257"
+		{
+			"controller_type" "controller_generic"
+			"enabled_branches" "default,experimental_client,legacy,mactesting,razorsedge"
+			"use_action_block" "false"
+		}
+		"2940222273"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,experimental_client,legacy,mactesting,razorsedge"
+			"use_action_block" "false"
+		}
+		"2940224665"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,experimental_client,legacy,mactesting,razorsedge"
+			"use_action_block" "false"
+		}
+		"2940227155"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,experimental_client,legacy,mactesting,razorsedge"
+			"use_action_block" "true"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,spanish,japanese"
+	"hasdepotsindlc" "0"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"247081"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6500174575869804275"
+				"size" "1486611857"
+				"download" "1374488032"
+			}
+			"legacy"
+			{
+				"gid" "6500174575869804275"
+				"size" "1486611857"
+				"download" "1374488032"
+			}
+		}
+	}
+	"247082"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4727330498046063179"
+				"size" "1633749476"
+				"download" "1431704896"
+			}
+			"legacy"
+			{
+				"gid" "4727330498046063179"
+				"size" "1633749476"
+				"download" "1431704896"
+			}
+		}
+	}
+	"247083"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3462815885007914830"
+				"size" "1548276766"
+				"download" "1431483552"
+			}
+			"legacy"
+			{
+				"gid" "3462815885007914830"
+				"size" "1548276766"
+				"download" "1431483552"
+			}
+		}
+	}
+	"363170"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "363170"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2232323183465492955"
+				"size" "0"
+				"download" "0"
+			}
+			"legacy"
+			{
+				"gid" "2232323183465492955"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"363171"
+	{
+		"dlcappid" "363170"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3673134151412406193"
+				"size" "0"
+				"download" "0"
+			}
+			"legacy"
+			{
+				"gid" "3673134151412406193"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"363172"
+	{
+		"dlcappid" "363170"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6396579400485105714"
+				"size" "0"
+				"download" "0"
+			}
+			"legacy"
+			{
+				"gid" "6396579400485105714"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"314681"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7248945412762249622"
+				"size" "1720972341"
+				"download" "1740116352"
+			}
+			"legacy"
+			{
+				"gid" "7248945412762249622"
+				"size" "1720972341"
+				"download" "1740116352"
+			}
+		}
+	}
+	"379400"
+	{
+		"dlcappid" "379400"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "441937160032073935"
+				"size" "564026920"
+				"download" "565943584"
+			}
+			"legacy"
+			{
+				"gid" "441937160032073935"
+				"size" "564026920"
+				"download" "565943584"
+			}
+		}
+	}
+	"554000"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "554000"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7273586692546981468"
+				"size" "1985303307"
+				"download" "1899765584"
+			}
+			"legacy"
+			{
+				"gid" "7273586692546981468"
+				"size" "1985303307"
+				"download" "1899765584"
+			}
+		}
+	}
+	"554001"
+	{
+		"dlcappid" "554000"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5633019732755714459"
+				"size" "2108996068"
+				"download" "1956938096"
+			}
+			"legacy"
+			{
+				"gid" "5633019732755714459"
+				"size" "2108996068"
+				"download" "1956938096"
+			}
+		}
+	}
+	"554002"
+	{
+		"dlcappid" "554000"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "352147026067536827"
+				"size" "2022442319"
+				"download" "1956878192"
+			}
+			"legacy"
+			{
+				"gid" "352147026067536827"
+				"size" "2022442319"
+				"download" "1956878192"
+			}
+		}
+	}
+	"247084"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1675059721419190007"
+				"size" "232480285"
+				"download" "105326896"
+			}
+			"legacy"
+			{
+				"gid" "845042445285665040"
+				"size" "235777627"
+				"download" "72212096"
+			}
+		}
+	}
+	"1985571"
+	{
+		"dlcappid" "2094810"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4215424760157537731"
+				"size" "256519971"
+				"download" "117059456"
+			}
+			"legacy"
+			{
+				"gid" "1206045201537588146"
+				"size" "266249110"
+				"download" "88200544"
+			}
+		}
+	}
+	"247085"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8689190958369428447"
+				"size" "130306195"
+				"download" "90899840"
+			}
+			"legacy"
+			{
+				"gid" "3237576505887945458"
+				"size" "71239286"
+				"download" "39061328"
+			}
+		}
+	}
+	"1985572"
+	{
+		"dlcappid" "2094810"
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2270628497038742576"
+				"size" "142072206"
+				"download" "102717072"
+			}
+			"legacy"
+			{
+				"gid" "3575407032547324475"
+				"size" "83988468"
+				"download" "51952032"
+			}
+		}
+	}
+	"247086"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4034552869732267045"
+				"size" "208121395"
+				"download" "96616240"
+			}
+			"legacy"
+			{
+				"gid" "8699474925881294027"
+				"size" "107732603"
+				"download" "44491936"
+			}
+		}
+	}
+	"1985573"
+	{
+		"dlcappid" "2094810"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "176088829896996309"
+				"size" "219857996"
+				"download" "108447040"
+			}
+			"legacy"
+			{
+				"gid" "5097556165488698169"
+				"size" "120477325"
+				"download" "57386160"
+			}
+		}
+	}
+	"2828720"
+	{
+		"dlcappid" "2828720"
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4146741503923437070"
+				"size" "86023965"
+				"download" "85868752"
+			}
+		}
+	}
+	"2828721"
+	{
+		"dlcappid" "2828720"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7328089473884558084"
+				"size" "86023965"
+				"download" "85868752"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17235481"
+			"timeupdated" "1738738730"
+		}
+		"legacy"
+		{
+			"buildid" "12703508"
+			"description" "v3.7.5"
+			"timeupdated" "1709801288"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "27330542"
+"_sha" "80efd84b105d7f242c3c855f894baaecc0350f8e"
+"_size" "17578"
