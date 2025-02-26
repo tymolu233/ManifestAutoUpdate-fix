@@ -1,0 +1,530 @@
+"appid" "1227530"
+"common"
+{
+	"name" "Partisans 1941"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "9a97e659be565a1870aacd03fb6f51dd886a846c"
+	"logo_small" "9a97e659be565a1870aacd03fb6f51dd886a846c_thumb"
+	"icon" "4d907ed7b22a60b1eb74ba19d7fd8b33253332c0"
+	"clienticon" "0651f12a9eac44424f0013dd6a6713559e2abaf8"
+	"clienttga" "34470c3400c4e0e9b46701ae658f12255c1b3f91"
+	"linuxclienticon" "e11de4e68f224d7f3828d7be9e2feb21d50d34f4"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"turkish" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "苏军游击队1941"
+		"tchinese" "蘇軍遊擊隊1941"
+		"russian" "Партизаны 1941"
+		"japanese" "パルチザン1941 - Partisans 1941"
+	}
+	"clienticns" "8de53d764164042757e65c7a5755f28aa73b48a6"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1644537600"
+		"tested_build_id" "7643598"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"russian" "header_russian.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "70.88681446907817"
+			"height_pct" "78.87537859998994"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "70.88681446907817"
+				"height_pct" "78.87537859998994"
+			}
+		}
+	}
+	"store_asset_mtime" "1662555031"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Alter Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Daedalic Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Daedalic Entertainment"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1602687502"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1227530"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "3813"
+		"2" "4150"
+		"3" "1687"
+		"4" "1708"
+		"5" "4182"
+		"6" "5851"
+		"7" "492"
+		"8" "1678"
+		"9" "3987"
+		"10" "21725"
+		"11" "4166"
+		"12" "17305"
+		"13" "4376"
+		"14" "4026"
+		"15" "19"
+		"16" "4747"
+		"17" "4191"
+		"18" "3993"
+		"19" "1697"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Alter Games"
+	"publisher" "Daedalic Entertainment"
+	"homepage" "http://partisans-game.com/"
+	"listofdlc" "1439000,1439001,1573740"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Partisans 1941"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Partisans.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "open_bonus_win.bat"
+			"description" "Bonus Content"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "1439001"
+			}
+		}
+		"2"
+		{
+			"executable" "Partisans\\Content\\Settings\\win7.bat"
+			"description" "Play Partisans 1941 on Windows 7"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "Partisans.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1227531"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8295985447710611353"
+				"size" "9151271687"
+				"download" "6708782496"
+			}
+			"fallback-june-21"
+			{
+				"gid" "8354005531595458195"
+				"size" "9398039834"
+				"download" "6847739024"
+			}
+		}
+	}
+	"1227532"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2766667624934453540"
+				"size" "0"
+				"download" "0"
+			}
+			"fallback-june-21"
+			{
+				"gid" "2766667624934453540"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1227533"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4655084448987284426"
+				"size" "0"
+				"download" "0"
+			}
+			"fallback-june-21"
+			{
+				"gid" "4655084448987284426"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1439000"
+	{
+		"dlcappid" "1439000"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7234534406938901124"
+				"size" "0"
+				"download" "0"
+			}
+			"fallback-june-21"
+			{
+				"gid" "7025767231761495618"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1439001"
+	{
+		"dlcappid" "1439001"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2325770295636776668"
+				"size" "406043998"
+				"download" "264009616"
+			}
+			"fallback-june-21"
+			{
+				"gid" "2325770295636776668"
+				"size" "406043998"
+				"download" "264009616"
+			}
+		}
+	}
+	"1573740"
+	{
+		"dlcappid" "1573740"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7643598"
+			"timeupdated" "1635871205"
+		}
+		"fallback-june-21"
+		{
+			"buildid" "6629979"
+			"description" "current stable version"
+			"timeupdated" "1624452160"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Partisans/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Partisans/Saved/SaveGames"
+			"pattern" "*.png"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26904557"
+"_sha" "5c0f5f44fe810d422ec9919810ae88925ee1c1cc"
+"_size" "8940"
