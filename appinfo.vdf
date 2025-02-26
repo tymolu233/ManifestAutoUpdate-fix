@@ -1,0 +1,629 @@
+"appid" "346010"
+"common"
+{
+	"name" "Besiege"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"icon" "16667f445723c720782314269e41f9daa8a7fb56"
+	"clienticns" "11ea3d1cce9e738adcd22930067532ffaa10f9ff"
+	"linuxclienticon" "11ea3d1cce9e738adcd22930067532ffaa10f9ff"
+	"logo" "d629e7d15a59c8195d0b1c72f8e9e28e78842c96"
+	"logo_small" "d629e7d15a59c8195d0b1c72f8e9e28e78842c96_thumb"
+	"clienticon" "f567cfb6308472b4ed09d7c75b58596a9bbdc8e3"
+	"clienttga" "a9e9c4913a4cfaf84fcbad7aba373d28aa3d670e"
+	"releasestate" "released"
+	"osarch" ""
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"tchinese" "圍攻"
+		"schinese" "围攻"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1661212800"
+		"tested_build_id" "8787459"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Besiege"
+	"small_capsule"
+	{
+		"english" "c0baf8adef0b0c7221d0dc1a0ea7672554d6fa21/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "90.55305012731935"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "f80adb687e80bb7b661f6047533dd6df49871836/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "f80adb687e80bb7b661f6047533dd6df49871836/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "f80adb687e80bb7b661f6047533dd6df49871836/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "90.55305012731935"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "0a3b64a6af979a885aabc157fd5a58b9390d9db2/logo.png"
+			}
+			"image2x"
+			{
+				"english" "0a3b64a6af979a885aabc157fd5a58b9390d9db2/logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1738346303"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Spiderling Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Spiderling Studios"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_30" "1"
+		"category_9" "1"
+		"category_17" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_47" "1"
+		"category_29" "1"
+		"category_25" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1582034100"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "346010"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "3810"
+		"2" "5363"
+		"3" "4172"
+		"4" "3968"
+		"5" "1669"
+		"6" "1643"
+		"7" "7107"
+		"8" "3859"
+		"9" "1664"
+		"10" "15045"
+		"11" "4711"
+		"12" "6129"
+		"13" "6730"
+		"14" "5752"
+		"15" "8122"
+		"16" "1736"
+		"17" "11104"
+		"18" "4994"
+		"19" "5923"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Spiderling Studios"
+	"publisher" "Spiderling Studios"
+	"homepage" "http://www.besiege.spiderlinggames.co.uk/"
+	"listofdlc" "2165710,2959970"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Besiege"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Besiege.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Besiege.app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Besiege.x86"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+		"3"
+		{
+			"executable" "Besiege.x86_64"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2071613236"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "346010"
+	"346011"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3617175051840139606"
+				"size" "557362566"
+				"download" "155840480"
+			}
+			"previousbuild"
+			{
+				"gid" "3617175051840139606"
+				"size" "557362566"
+				"download" "155840480"
+			}
+			"experimental"
+			{
+				"gid" "3617175051840139606"
+				"size" "557362566"
+				"download" "155840480"
+			}
+			"045a"
+			{
+				"gid" "3617175051840139606"
+				"size" "557362566"
+				"download" "155840480"
+			}
+			"legacy0.01"
+			{
+				"gid" "3000625788226141153"
+				"size" "393028082"
+				"download" "105063888"
+			}
+		}
+	}
+	"346012"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6182491938988627730"
+				"size" "584312118"
+				"download" "163622208"
+			}
+			"previousbuild"
+			{
+				"gid" "6182491938988627730"
+				"size" "584312118"
+				"download" "163622208"
+			}
+			"experimental"
+			{
+				"gid" "6182491938988627730"
+				"size" "584312118"
+				"download" "163622208"
+			}
+			"045a"
+			{
+				"gid" "6182491938988627730"
+				"size" "584312118"
+				"download" "163622208"
+			}
+			"legacy0.01"
+			{
+				"gid" "9100403710063168105"
+				"size" "392997106"
+				"download" "104912112"
+			}
+		}
+	}
+	"346013"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8698462310255593191"
+				"size" "579283088"
+				"download" "164551984"
+			}
+			"previousbuild"
+			{
+				"gid" "8698462310255593191"
+				"size" "579283088"
+				"download" "164551984"
+			}
+			"experimental"
+			{
+				"gid" "8698462310255593191"
+				"size" "579283088"
+				"download" "164551984"
+			}
+			"045a"
+			{
+				"gid" "8698462310255593191"
+				"size" "579283088"
+				"download" "164551984"
+			}
+			"legacy0.01"
+			{
+				"gid" "8698462310255593191"
+				"size" "579283088"
+				"download" "164551984"
+			}
+		}
+	}
+	"346014"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7587619383522203028"
+				"size" "4226656290"
+				"download" "1287617920"
+			}
+			"previousbuild"
+			{
+				"gid" "4732831581369180919"
+				"size" "4021135448"
+				"download" "1231853120"
+			}
+			"experimental"
+			{
+				"gid" "4071484677399050503"
+				"size" "4226647647"
+				"download" "1287614128"
+			}
+			"045a"
+			{
+				"gid" "6333894489894344030"
+				"size" "1065497853"
+				"download" "376552208"
+			}
+			"legacy0.01"
+			{
+				"gid" "3237674173486013177"
+				"size" "388779522"
+				"download" "103856160"
+			}
+		}
+	}
+	"346015"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4540475478878197097"
+				"size" "4245187156"
+				"download" "1289516800"
+			}
+			"previousbuild"
+			{
+				"gid" "7755756187774338828"
+				"size" "4040059026"
+				"download" "1234028192"
+			}
+			"experimental"
+			{
+				"gid" "6222814446966420973"
+				"size" "4245180129"
+				"download" "1289509008"
+			}
+			"045a"
+			{
+				"gid" "89954485418478540"
+				"size" "1109640852"
+				"download" "388535536"
+			}
+			"legacy0.01"
+			{
+				"gid" "4338583091878769724"
+				"size" "4242401676"
+				"download" "1289421584"
+			}
+		}
+	}
+	"346016"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5729890808293943807"
+				"size" "4237174530"
+				"download" "1288159792"
+			}
+			"previousbuild"
+			{
+				"gid" "8398740502954206891"
+				"size" "4032046404"
+				"download" "1232620656"
+			}
+			"experimental"
+			{
+				"gid" "3032675972446281203"
+				"size" "4237167503"
+				"download" "1288159168"
+			}
+			"045a"
+			{
+				"gid" "2613073058836922557"
+				"size" "1101117508"
+				"download" "387320400"
+			}
+			"legacy0.01"
+			{
+				"gid" "8538356128479266516"
+				"size" "4234389050"
+				"download" "1288050016"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17275301"
+			"timeupdated" "1738896395"
+		}
+		"previousbuild"
+		{
+			"buildid" "16601471"
+			"timeupdated" "1738261227"
+		}
+		"experimental"
+		{
+			"buildid" "17483689"
+			"timeupdated" "1740402626"
+		}
+		"045a"
+		{
+			"buildid" "1871221"
+			"description" "Pre-Multiplayer"
+			"timeupdated" "1641916576"
+		}
+		"legacy0.01"
+		{
+			"buildid" "17186038"
+			"description" "The original 2015 early access version"
+			"timeupdated" "1738249114"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "27633873"
+"_sha" "f784d8c4e83d6c74bb64b15edc62909e83a96c3b"
+"_size" "11124"
