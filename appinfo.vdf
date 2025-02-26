@@ -1,0 +1,396 @@
+"appid" "924980"
+"common"
+{
+	"name" "Trials of Mana"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "55764898aac53639486b63f791b69adf47701bff"
+	"logo_small" "55764898aac53639486b63f791b69adf47701bff_thumb"
+	"clienticon" "101c72ed2721bdfde24adf768e883cc957b9bfe0"
+	"clienttga" "bbba19a1e51686320b0c145d3de201181d79887d"
+	"icon" "e6aaa4307c1227b20a878332ede3b6aebcc47568"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"name_localized"
+	{
+		"japanese" "聖剣伝説3 TRIALS of MANA"
+		"english" "Trials of Mana"
+		"french" "Trials of Mana"
+		"german" "Trials of Mana"
+		"schinese" "圣剑传说3 TRIALS of MANA"
+		"tchinese" "聖劍傳說3 TRIALS of MANA"
+		"koreana" "성검전설3 TRIALS of MANA"
+		"spanish" "Trials of Mana"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "924980_eula_0"
+			"name" "Trials of Mana EULA"
+			"url" "https://store.steampowered.com//eula/924980_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1648080000"
+		"tested_build_id" "5736103"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Tristan"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1646911080"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Square Enix"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Square Enix"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Mana Series"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1587743880"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "924980"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "4434"
+		"2" "4085"
+		"3" "4231"
+		"4" "5708"
+		"5" "4182"
+		"6" "21"
+		"7" "1684"
+		"8" "19"
+		"9" "1646"
+		"10" "1756"
+		"11" "1742"
+		"12" "7208"
+		"13" "4747"
+		"14" "1693"
+		"15" "10695"
+		"16" "4726"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Square Enix"
+	"publisher" "Square Enix"
+	"homepage" "https://www.trialsofmana.com"
+	"listofdlc" "1144960,1190470"
+}
+"config"
+{
+	"installdir" "Trials of Mana"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "\\Trials of Mana\\Binaries\\Win64\\Trials of Mana-Win64-Shipping.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2176689618"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"924981"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5848832891921004539"
+				"size" "16311327007"
+				"download" "15728380080"
+			}
+		}
+	}
+	"1144960"
+	{
+		"dlcappid" "1144960"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "180951989313432265"
+				"size" "5295646"
+				"download" "5030400"
+			}
+		}
+	}
+	"1190470"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1062287549024850255"
+				"size" "60038554"
+				"download" "53082320"
+			}
+		}
+		"dlcappid" "1190470"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5736103"
+			"timeupdated" "1604503767"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "33554432"
+	"maxnumfiles" "14"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Trials of Mana/Steam/{Steam3AccountID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "d7e3a084f597cf0d8298b80188ef40598e330d9c"
+"_size" "6717"
