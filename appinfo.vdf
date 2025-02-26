@@ -1,0 +1,458 @@
+"appid" "1062160"
+"common"
+{
+	"name" "Poly Bridge 2"
+	"type" "Game"
+	"logo" "84a60de147bb8e72a459b320ebb79006fbae8ef9"
+	"logo_small" "84a60de147bb8e72a459b320ebb79006fbae8ef9_thumb"
+	"clienticon" "e4b7978cbfabf01f63a488ae4583322519fa25a2"
+	"clienttga" "cb7c5d0bd655f33f9c0b3aadda328583617957cf"
+	"icon" "9be50a08f160c70f07d4f870ca12c909242ad332"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosnotarized"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1654128000"
+		"tested_build_id" "7320292"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "100"
+			"height_pct" "57.408090629625136"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "100"
+				"height_pct" "57.408090629625136"
+			}
+		}
+	}
+	"store_asset_mtime" "1679348721"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Dry Cactus"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Dry Cactus"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_17" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1590683100"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1062160"
+	"store_tags"
+	{
+		"0" "1643"
+		"1" "599"
+		"2" "1664"
+		"3" "3968"
+		"4" "1702"
+		"5" "3810"
+		"6" "4026"
+		"7" "4182"
+		"8" "8122"
+		"9" "492"
+		"10" "9"
+		"11" "1036"
+		"12" "1756"
+		"13" "5350"
+		"14" "4136"
+		"15" "4195"
+		"16" "4252"
+		"17" "5230"
+		"18" "4726"
+		"19" "6426"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "devs,release"
+	"developer" "Dry Cactus"
+	"publisher" "Dry Cactus"
+}
+"config"
+{
+	"installdir" "Poly Bridge 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Poly Bridge 2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Poly Bridge 2.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Poly Bridge 2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"3"
+		{
+			"executable" "Poly Bridge 2.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1062161"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7891077659831470565"
+				"size" "580977012"
+				"download" "324824096"
+			}
+		}
+	}
+	"1062162"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1268252425519729745"
+				"size" "453483669"
+				"download" "347236304"
+			}
+		}
+	}
+	"1062163"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1655132407324165096"
+				"size" "619731757"
+				"download" "333473856"
+			}
+		}
+	}
+	"1062164"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5790352083275615295"
+				"size" "651172197"
+				"download" "333137728"
+			}
+		}
+	}
+	"workshopdepot" "1062160"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16975479"
+			"timeupdated" "1736615338"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Dry Cactus/Poly Bridge 2/Profiles"
+			"pattern" "*"
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Dry Cactus/Poly Bridge 2/Sandbox"
+			"pattern" "*"
+		}
+		"5"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Dry Cactus/Poly Bridge 2/SaveSlots"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"6"
+		{
+			"root" "WinMyDocuments"
+			"path" "Dry Cactus/Poly Bridge 2/Profiles"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"7"
+		{
+			"root" "WinMyDocuments"
+			"path" "Dry Cactus/Poly Bridge 2/Sandbox"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"8"
+		{
+			"root" "WinMyDocuments"
+			"path" "Dry Cactus/Poly Bridge 2/SaveSlots"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".config/unity3d/"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27061086"
+"_sha" "720c7299df66cb6028d7f1d7a252adf66e7fa98e"
+"_size" "7474"
