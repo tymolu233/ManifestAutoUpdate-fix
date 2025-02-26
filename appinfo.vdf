@@ -1,0 +1,179 @@
+"appid" "245850"
+"common"
+{
+	"name" "Don\'t Starve Mod Tools"
+	"type" "Tool"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"parent" "219740"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "245850_eula_0"
+			"name" "Don\'t Starve Mod Tools EULA"
+			"url" "http://store.steampowered.com//eula/245850_eula_0"
+		}
+	}
+	"osarch" ""
+	"osextended" "macos64,macosnotarized"
+	"associations"
+	{
+	}
+	"gameid" "245850"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Don\'t Starve Mod Tools"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ModUploader.exe"
+			"description" "Launch Mod Uploader"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "mod_tools/Spriter/Spriter.exe"
+			"description" "Launch Spriter"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "mod_tools/FMOD_Designer/fmod_designer.exe"
+			"description" "Launch FMOD Designer"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"3"
+		{
+			"executable" "ModUploader"
+			"description" "Launch Mod Uploader"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"4"
+		{
+			"executable" "ModUploader.app"
+			"description" "Launch Mod Uploader"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"5"
+		{
+			"executable" "mod_tools/Tiled/tiled.exe"
+			"description" "Launch Tiled"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"6"
+		{
+			"executable" "mod_tools/Sublime/sublime_text.exe"
+			"description" "Launch Sublime"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"245851"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1237782792014927081"
+				"size" "376529303"
+				"download" "154791664"
+			}
+		}
+	}
+	"245852"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6506298700437488413"
+				"size" "26052075"
+				"download" "8113552"
+			}
+		}
+	}
+	"245853"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2120233509688738352"
+				"size" "20254769"
+				"download" "7905440"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9532872"
+			"timeupdated" "1663349287"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "89dec1dfdefe62b79541974b24a4f8fc7e727970"
+"_size" "2657"
