@@ -1,0 +1,449 @@
+"appid" "360830"
+"common"
+{
+	"name" "Yooka-Laylee"
+	"type" "Game"
+	"logo" "81f81eb9128510171197673ce35c4f06813cd2a2"
+	"logo_small" "81f81eb9128510171197673ce35c4f06813cd2a2_thumb"
+	"clienttga" "b3edcd3ba0bf12866c7ab10bb3288431b2b5fa01"
+	"icon" "fb6d9eb80bafcae6e2f34ae627c1445cef739ba6"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"oslist" "windows,macos,linux"
+	"clienticon" "bcc5498b6cb5181adf7eae3c898f9544b81bfe30"
+	"linuxclienticon" "888cf36da9b03275cac34ac36ac2933457ca6425"
+	"clienticns" "e20bc841fbdc7178ca2c375fd0e5aa0f8519e987"
+	"releasestate" "released"
+	"osarch" "64"
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644969600"
+		"tested_build_id" "5047809"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Yooka-Laylee"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "26.858026406645678"
+			"height_pct" "80.18836187410398"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "26.858026406645678"
+				"height_pct" "80.18836187410398"
+			}
+		}
+	}
+	"store_asset_mtime" "1719408390"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Playtonic Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Playtonic Friends"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Playtonic Friends"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_15" "1"
+		"category_29" "1"
+		"category_37" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_44" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1491926460"
+	"metacritic_score" "73"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/yooka-laylee\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "360830"
+	"store_tags"
+	{
+		"0" "5395"
+		"1" "5652"
+		"2" "21"
+		"3" "5153"
+		"4" "492"
+		"5" "1625"
+		"6" "4305"
+		"7" "19"
+		"8" "5350"
+		"9" "1756"
+		"10" "3834"
+		"11" "4182"
+		"12" "4726"
+		"13" "4136"
+		"14" "4004"
+		"15" "1695"
+		"16" "597"
+		"17" "1719"
+		"18" "4195"
+		"19" "3859"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "Playtonic Games"
+	"publisher" "Playtonic Friends"
+	"homepage" "http://www.playtonicgames.com/games/yooka-laylee/"
+	"listofdlc" "564251"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "YookaLaylee"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "YookaLaylee64.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "YookaLaylee.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"4"
+		{
+			"executable" "YookaLaylee.app\\Contents\\MacOS\\YookaLaylee"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"10"
+		{
+			"executable" "YookaLaylee64.exe"
+			"arguments" "-window-mode exclusive -screen-fullscreen 1"
+			"description" "Launch in Exclusive Mode"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese"
+	"360831"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3756958913457845691"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"360832"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "340818471511343877"
+				"size" "7979000273"
+				"download" "3248674560"
+			}
+		}
+	}
+	"360834"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3012273333537027813"
+				"size" "8129087218"
+				"download" "3322226848"
+			}
+		}
+	}
+	"360835"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5983964946114298548"
+				"size" "8019563764"
+				"download" "3263468256"
+			}
+		}
+	}
+	"564251"
+	{
+		"dlcappid" "564251"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1160577728632066739"
+				"size" "16227282"
+				"download" "14558880"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5047809"
+			"timeupdated" "1589880552"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1024000"
+	"maxnumfiles" "5"
+}
+"_missing_token" "False"
+"_change_number" "27503579"
+"_sha" "a4fcdd530a93b5815a784ac78be3c696d7cc98b6"
+"_size" "7800"
