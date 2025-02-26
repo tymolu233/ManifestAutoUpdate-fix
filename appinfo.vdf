@@ -1,0 +1,871 @@
+"appid" "230290"
+"common"
+{
+	"name" "Universe Sandbox"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"icon" "d7ac517716aff8c9065d8b5e868cbf69d62c8c2f"
+	"clienttga" "e56dd6918da1abfce99f707eb95c94f48de4ba82"
+	"logo" "b0a0cdf6b2029d97eb1a00daa6d6717e7a7eb832"
+	"logo_small" "b0a0cdf6b2029d97eb1a00daa6d6717e7a7eb832_thumb"
+	"clienticon" "e2452a81e4dfa58f014251d5959f4c3f50b260f9"
+	"clienticns" "dbd0e46ea92ce4a27956f113a8db81686bb50fe9"
+	"linuxclienticon" "3adf4161a3262cd8fda449af23fa0e965ee77ff7"
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+	}
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"openxrsupport" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1691798400"
+		"tested_build_id" "11732138"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_GamepadNotEnabledByDefault"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "36"
+			"height_pct" "39"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "36"
+				"height_pct" "39"
+			}
+		}
+	}
+	"store_asset_mtime" "1739482397"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Giant Army"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Giant Army"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_30" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
+		"filipino"
+		{
+			"supported" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1440399600"
+	"steam_release_date" "1440459660"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "230290"
+	"store_tags"
+	{
+		"0" "3810"
+		"1" "1755"
+		"2" "599"
+		"3" "3968"
+		"4" "5794"
+		"5" "5363"
+		"6" "4175"
+		"7" "5300"
+		"8" "1036"
+		"9" "4182"
+		"10" "493"
+		"11" "1654"
+		"12" "5350"
+		"13" "1695"
+		"14" "492"
+		"15" "597"
+		"16" "4166"
+		"17" "3942"
+		"18" "3834"
+		"19" "16598"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"checkpkgstate" "1"
+	"developer" "Giant Army"
+	"gamedir" "ValveTestApp230290"
+	"homepage" "http://universesandbox.com/"
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateComingSoonNoPreload"
+	"visibleonlywhensubscribed" "1"
+	"vrheadsetstreaming" "1"
+	"publisher" "Giant Army"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Universe Sandbox 2"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Universe Sandbox.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"4"
+		{
+			"executable" "Universe Sandbox x64.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"7"
+		{
+			"executable" "Universe Sandbox x64.exe"
+			"arguments" "-vrmode"
+			"type" "openxr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Universe Sandbox VR"
+			}
+			"description" "Universe Sandbox VR"
+		}
+		"8"
+		{
+			"executable" "x32\\Universe Sandbox x32.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"workshopdepot" "230290"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"230291"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8403049013177121841"
+				"size" "2621855620"
+				"download" "1383654016"
+			}
+			"!preview-version"
+			{
+				"gid" "356867539633705108"
+				"size" "2829288045"
+				"download" "1434119968"
+			}
+			"update-34.1.1-vr"
+			{
+				"gid" "8403049013177121841"
+				"size" "2621855620"
+				"download" "1383654016"
+			}
+			"*update-24.1.2-directx10"
+			{
+				"gid" "9081548924756477360"
+				"size" "1597855907"
+				"download" "693348656"
+			}
+			"*update-23.0.2-native"
+			{
+				"gid" "2463078469489368984"
+				"size" "1364360502"
+				"download" "539155760"
+			}
+			"*update-21.3-directx9"
+			{
+				"gid" "2182933570804933188"
+				"size" "2413235926"
+				"download" "510012384"
+			}
+			"update-33.0.2"
+			{
+				"gid" "9138376997442949338"
+				"size" "2212014068"
+				"download" "1079181600"
+			}
+			"update-32.3.2"
+			{
+				"gid" "992385609880093818"
+				"size" "2172525679"
+				"download" "1041270304"
+			}
+			"update-30.0.1"
+			{
+				"gid" "703116669103249697"
+				"size" "2057439079"
+				"download" "940864640"
+			}
+			"update-29.1"
+			{
+				"gid" "5946679227058862662"
+				"size" "2035654519"
+				"download" "931668160"
+			}
+			"update-28.2.2"
+			{
+				"gid" "6284773001955205902"
+				"size" "2027781314"
+				"download" "932107504"
+			}
+			"update-27.2.1"
+			{
+				"gid" "8097857979900017923"
+				"size" "2014644581"
+				"download" "928720784"
+			}
+			"update-26.3.3"
+			{
+				"gid" "4748024537259790810"
+				"size" "1947276684"
+				"download" "889551312"
+			}
+			"update-23.2"
+			{
+				"gid" "906426465351046763"
+				"size" "1366858011"
+				"download" "559065696"
+			}
+			"update-20.6.3"
+			{
+				"gid" "8192480954281548258"
+				"size" "2348534054"
+				"download" "502918304"
+			}
+			"alpha19.7.2"
+			{
+				"gid" "3902405036667674132"
+				"size" "2945670417"
+				"download" "614218368"
+			}
+			"alpha18.2e"
+			{
+				"gid" "6634862813424940866"
+				"size" "1905279817"
+				"download" "374428720"
+			}
+			"alpha16.1"
+			{
+				"gid" "1586795485616539463"
+				"size" "1217941480"
+				"download" "305452624"
+			}
+			"alpha15.2"
+			{
+				"gid" "3388894974857575306"
+				"size" "1286163276"
+				"download" "333610176"
+			}
+			"alpha14.1"
+			{
+				"gid" "9215274776256659364"
+				"size" "1193870400"
+				"download" "248375456"
+			}
+			"alpha12.5"
+			{
+				"gid" "8266919186861074706"
+				"size" "1141517368"
+				"download" "235255136"
+			}
+		}
+	}
+	"230292"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5440130934594855393"
+				"size" "2616825617"
+				"download" "1378410704"
+			}
+			"!preview-version"
+			{
+				"gid" "3467474736691978031"
+				"size" "2823648014"
+				"download" "1427844320"
+			}
+			"update-34.1.1-vr"
+			{
+				"gid" "5440130934594855393"
+				"size" "2616825617"
+				"download" "1378410704"
+			}
+			"*update-24.1.2-directx10"
+			{
+				"gid" "7314929656175310414"
+				"size" "1628713309"
+				"download" "695843696"
+			}
+			"*update-23.0.2-native"
+			{
+				"gid" "6807580202836920445"
+				"size" "1395530467"
+				"download" "543225600"
+			}
+			"*update-21.3-directx9"
+			{
+				"gid" "9102333759919118617"
+				"size" "1243214793"
+				"download" "501572032"
+			}
+			"update-33.0.2"
+			{
+				"gid" "3788410238959660838"
+				"size" "2215397324"
+				"download" "1076274160"
+			}
+			"update-32.3.2"
+			{
+				"gid" "3724495803167794844"
+				"size" "2178666725"
+				"download" "1038653760"
+			}
+			"update-30.0.1"
+			{
+				"gid" "2005277526923476069"
+				"size" "2087763156"
+				"download" "942878144"
+			}
+			"update-29.1"
+			{
+				"gid" "7132803228705000807"
+				"size" "2065951834"
+				"download" "933614368"
+			}
+			"update-28.2.2"
+			{
+				"gid" "2640989236604565194"
+				"size" "2058023959"
+				"download" "934023984"
+			}
+			"update-27.2.1"
+			{
+				"gid" "7088184133345849728"
+				"size" "2044397741"
+				"download" "930356752"
+			}
+			"update-26.3.3"
+			{
+				"gid" "3514766507158487619"
+				"size" "1976288604"
+				"download" "890961696"
+			}
+			"update-23.2"
+			{
+				"gid" "3034962478956671365"
+				"size" "1397996325"
+				"download" "563102384"
+			}
+			"update-20.6.3"
+			{
+				"gid" "3263652193925726962"
+				"size" "1210850372"
+				"download" "494717792"
+			}
+			"alpha19.7.2"
+			{
+				"gid" "6210335637765822466"
+				"size" "1178339823"
+				"download" "461174320"
+			}
+			"alpha18.2e"
+			{
+				"gid" "2177190042642643385"
+				"size" "648510324"
+				"download" "303510640"
+			}
+			"alpha16.1"
+			{
+				"gid" "5710704988625986209"
+				"size" "644971843"
+				"download" "305581920"
+			}
+			"alpha15.2"
+			{
+				"gid" "1000525749717885331"
+				"size" "689485408"
+				"download" "335889360"
+			}
+			"alpha14.1"
+			{
+				"gid" "1104296245706858614"
+				"size" "624153262"
+				"download" "248810672"
+			}
+			"alpha12.5"
+			{
+				"gid" "8014085038360285346"
+				"size" "597761074"
+				"download" "235655280"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13730482"
+			"timeupdated" "1710365689"
+		}
+		"!preview-version"
+		{
+			"buildid" "17445802"
+			"description" "Test new features still in active development. May contain bugs or errors."
+			"timeupdated" "1740154627"
+		}
+		"update-34.1.1-vr"
+		{
+			"buildid" "13730482"
+			"description" "Update 34.1.1 | VR, Windows 7 SP1+, 8, older versions of Windows 10, & Intel Macs"
+			"timeupdated" "1740006264"
+		}
+		"*update-24.1.2-directx10"
+		{
+			"buildid" "4581149"
+			"description" "Update 24.1.2 | DirectX 10"
+			"timeupdated" "1584583642"
+		}
+		"*update-23.0.2-native"
+		{
+			"buildid" "4025604"
+			"description" "Update 23.0.2 | Native Library"
+			"timeupdated" "1584584296"
+		}
+		"*update-21.3-directx9"
+		{
+			"buildid" "3184346"
+			"description" "Update 21.3 | DirectX 9 & 32 bit"
+			"timeupdated" "1584583726"
+		}
+		"update-33.0.2"
+		{
+			"buildid" "12228624"
+			"description" "Previous Major Release"
+			"timeupdated" "1703255509"
+		}
+		"update-32.3.2"
+		{
+			"buildid" "11732138"
+			"description" "Update 32.3.2 - Archived Build"
+			"timeupdated" "1692214992"
+		}
+		"update-30.0.1"
+		{
+			"buildid" "8583885"
+			"description" "Update 30.0.1 - Archived Build"
+			"timeupdated" "1654799584"
+		}
+		"update-29.1"
+		{
+			"buildid" "8093184"
+			"description" "Update 29.1 - Archived Build"
+			"timeupdated" "1649954056"
+		}
+		"update-28.2.2"
+		{
+			"buildid" "7819518"
+			"description" "Update 28.2.2 - Archived Build"
+			"timeupdated" "1640263196"
+		}
+		"update-27.2.1"
+		{
+			"buildid" "7125959"
+			"description" "Update 27.2.1 - Archived Build"
+			"timeupdated" "1632414959"
+		}
+		"update-26.3.3"
+		{
+			"buildid" "6592109"
+			"description" "Update 26.3.3 - Archived Build"
+			"timeupdated" "1620151120"
+		}
+		"update-23.2"
+		{
+			"buildid" "4348587"
+			"description" "Last build before Surface Grids"
+			"timeupdated" "1584583869"
+		}
+		"update-20.6.3"
+		{
+			"buildid" "2701907"
+			"timeupdated" "1527618517"
+		}
+		"alpha19.7.2"
+		{
+			"buildid" "1773989"
+			"timeupdated" "1498159094"
+		}
+		"alpha18.2e"
+		{
+			"buildid" "1059030"
+			"timeupdated" "1478805167"
+		}
+		"alpha16.1"
+		{
+			"buildid" "772112"
+		}
+		"alpha15.2"
+		{
+			"buildid" "689942"
+		}
+		"alpha14.1"
+		{
+			"buildid" "552196"
+		}
+		"alpha12.5"
+		{
+			"buildid" "481687"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Universe Sandbox/Simulations"
+			"pattern" "*.ubox"
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "Universe Sandbox/Simulations/Quicksave"
+			"pattern" "*.ubox"
+		}
+		"2"
+		{
+			"root" "WinMyDocuments"
+			"path" "Universe Sandbox/Objects"
+			"pattern" "*.ubox"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacDocuments"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27669903"
+"_sha" "064aa5761d2b4f6adb84f4ab6e633b2e5c64cdad"
+"_size" "15634"
