@@ -1,0 +1,495 @@
+"appid" "232090"
+"common"
+{
+	"name" "Killing Floor 2"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"logo" "97d6a09bcca126ebaf1488b0faed79c6772716cb"
+	"logo_small" "97d6a09bcca126ebaf1488b0faed79c6772716cb_thumb"
+	"icon" "15837cefb378766e9916548f8591b6eb490b9e52"
+	"clienttga" "795537fe4b2094f395205e24651232b85730aaf7"
+	"clienticon" "98ab6d7da74551839cba1896f012f5e7398072a8"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "232090_eula_0"
+			"name" "Killing Floor 2 EULA"
+			"url" "http://store.steampowered.com//eula/232090_eula_0"
+		}
+	}
+	"osarch" "64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1651795200"
+		"tested_build_id" "8374923"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"market_presence" "1"
+	"metacritic_name" "Killing Floor 2"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "33"
+			"height_pct" "35"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "33"
+				"height_pct" "35"
+			}
+		}
+	}
+	"store_asset_mtime" "1697562813"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tripwire Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Tripwire Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Killing Floor"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_17" "1"
+		"category_35" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_8" "1"
+		"category_49" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1479478080"
+	"metacritic_score" "75"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/killing-floor-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "232090"
+	"store_tags"
+	{
+		"0" "1659"
+		"1" "3859"
+		"2" "3843"
+		"3" "4345"
+		"4" "1663"
+		"5" "3835"
+		"6" "1646"
+		"7" "1667"
+		"8" "1774"
+		"9" "19"
+		"10" "1669"
+		"11" "3839"
+		"12" "1662"
+		"13" "1685"
+		"14" "3978"
+		"15" "5711"
+		"16" "4166"
+		"17" "6730"
+		"18" "4747"
+		"19" "4342"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+	"review_score_bombs" "8"
+	"review_percentage_bombs" "88"
+}
+"extended"
+{
+	"checkpkgstate" "1"
+	"developer" "Tripwire Interactive"
+	"gamedir" "KF2"
+	"homepage" "http://www.killingfloor2.com"
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"visibleonlywhensubscribed" "1"
+	"serverbrowsername" "Killing Floor 2"
+	"vacmacmodulecache" "160"
+	"vacmodulecache" "202"
+	"vacmodulefilename" "sourceinit.dat"
+	"onquitdemomsg" "https://steamstore-a.akamaihd.net/message/7485335655382946216/"
+	"publisher" "Tripwire Interactive"
+	"listofdlc" "294850,354020,360930,360931,361240,408560,1368501,1368502,1368503,1524820,1914490,1914560,1937240,1937241,1993760,2363410"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Binaries/Win64/KFGame.exe"
+			"description" "Launch"
+			"vacmodulefilename" "resource\\sourceinit.dat"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"contenttype" "3"
+	"installdir" "killingfloor2"
+	"nativesteamcontroller" "1"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"1142017723"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2258714727"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229000"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229033"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"preloadonly" "1"
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,hungarian,czech,turkish,brazilian,ukrainian"
+	"232091"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3780140359303487885"
+				"size" "101783993695"
+				"download" "43638599440"
+			}
+		}
+	}
+	"232092"
+	{
+		"dlcappid" "360930"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5954956292867565444"
+				"size" "875965681"
+				"download" "879955184"
+			}
+		}
+	}
+	"232093"
+	{
+		"dlcappid" "360931"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2216080875481941448"
+				"size" "54160245"
+				"download" "52495216"
+			}
+		}
+	}
+	"232094"
+	{
+		"dlcappid" "363760"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1845006560688334540"
+				"size" "2717371"
+				"download" "2737216"
+			}
+		}
+	}
+	"workshopdepot" "232090"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13316885"
+			"timeupdated" "1708012554"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27115156"
+"_sha" "0f107a0a7f6c47c9fd99dddd700ec1c6796ff774"
+"_size" "8948"
