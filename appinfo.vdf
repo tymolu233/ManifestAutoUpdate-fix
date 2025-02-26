@@ -1,0 +1,526 @@
+"appid" "606880"
+"common"
+{
+	"name" "GreedFall"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "7f6f3bc1a30b033fbd3eff4f8b7e48f959874265"
+	"clienttga" "29a5fec21203531adb56a8aa1a746203269e0c30"
+	"icon" "80c655c74f7f8f01e02e68a6583e79376dec5963"
+	"logo" "12d75781449f266c350035ee7f6d096ed5a6a022"
+	"logo_small" "12d75781449f266c350035ee7f6d096ed5a6a022_thumb"
+	"oslist" "windows"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "606880_eula_0"
+			"name" "GreedFall EULA"
+			"url" "https://store.steampowered.com//eula/606880_eula_0"
+			"version" "1"
+		}
+	}
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1724716800"
+		"tested_build_id" "7035462"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DisplayOutputHasNonblockingIssues"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "GreedFall"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1663148991"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Spiders"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Focus Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Focus Entertainment"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1568066340"
+	"metacritic_score" "72"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/greedfall\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "606880"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "1695"
+		"2" "4747"
+		"3" "4182"
+		"4" "6426"
+		"5" "1742"
+		"6" "1697"
+		"7" "1684"
+		"8" "12095"
+		"9" "21"
+		"10" "4231"
+		"11" "19"
+		"12" "5611"
+		"13" "4106"
+		"14" "6650"
+		"15" "7208"
+		"16" "4947"
+		"17" "4057"
+		"18" "4166"
+		"19" "3859"
+	}
+	"review_score" "6"
+	"review_percentage" "76"
+}
+"extended"
+{
+	"developer" "Spiders"
+	"publisher" "Focus Entertainment"
+	"homepage" "https://www.focus-home.com/games/greedfall"
+	"listofdlc" "1034720,1468480"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "GreedFall"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GreedFall.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "GreedFallDO.exe"
+			"description" "GreedFall - Debug"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "qa_test,focus_playtest,focus_qa,focus_test_interne,focus_loca,fhi_internal,fhi_testlab,spiders_dev,spiders_stable,hitdetection,focus_consulting,whatsnext2019,focus_hw,nda_closedbeta,aimassist,agerating,qa_test_last_stable,gamescom2019,spiders_stable_ee"
+			}
+		}
+		"2"
+		{
+			"executable" "GreedFall.exe"
+			"arguments" "-lang=jpn"
+			"description" "launch in Japanese"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "focus_jp"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamconfigurator3rdpartynative" "8"
+}
+"depots"
+{
+	"baselanguages" ""
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"606881"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8874425372087683575"
+				"size" "21441487807"
+				"download" "20635754224"
+			}
+			"previous"
+			{
+				"gid" "866796616741620884"
+				"size" "21349293614"
+				"download" "20590113824"
+			}
+			"windows7"
+			{
+				"gid" "2248371936570190774"
+				"size" "21441582183"
+				"download" "20635748848"
+			}
+		}
+	}
+	"606882"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"606883"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"606884"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"606885"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"606886"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"606887"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"606888"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"606889"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1034721"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1468480"
+	{
+		"dlcappid" "1468480"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2988375875355498171"
+				"size" "1157960197"
+				"download" "1137030464"
+			}
+			"previous"
+			{
+				"gid" "604351137879374628"
+				"size" "1158144703"
+				"download" "1137162480"
+			}
+			"windows7"
+			{
+				"gid" "604351137879374628"
+				"size" "1158144703"
+				"download" "1137162480"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7035462"
+			"timeupdated" "1627562076"
+		}
+		"previous"
+		{
+			"buildid" "6963224"
+			"description" "Previous version"
+			"timeupdated" "1625134685"
+		}
+		"windows7"
+		{
+			"buildid" "6970717"
+			"description" "Fix for Windows 7 users"
+			"timeupdated" "1625234353"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "102400000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "GreedFall"
+			"pattern" "*.fsav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27629368"
+"_sha" "1a0ee22545a853f0f6b68a144b9022d03fc858fa"
+"_size" "8933"
