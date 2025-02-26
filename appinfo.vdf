@@ -1,0 +1,482 @@
+"appid" "814370"
+"common"
+{
+	"name" "Monster Sanctuary"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "3fb896548568f8be5d96282bc0e241785d81495b"
+	"logo_small" "3fb896548568f8be5d96282bc0e241785d81495b_thumb"
+	"icon" "196ebad1786ea378b1cd72a5c40064df802d6577"
+	"clienticon" "87208321a2459454f414a698398718ded365c53f"
+	"clienttga" "545ef61072d735407da8e7f4e4d62b83bdd7ae02"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"linuxclienticon" "c5193f82ddb29d4cfba02736710eba62a16a2bda"
+	"clienticns" "43d13d3072dc97712363809130f721cce323176b"
+	"name_localized"
+	{
+		"schinese" "怪物圣所"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1646179200"
+		"tested_build_id" "7600742"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Monster Sanctuary"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,pt-br"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "69.62008832522282"
+			"height_pct" "49.37513161640931"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"brazilian" "library_600x900_brazilian.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"brazilian" "library_600x900_brazilian_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "69.62008832522282"
+				"height_pct" "49.37513161640931"
+			}
+		}
+	}
+	"store_asset_mtime" "1686822276"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "moi rai games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Team17"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Team17"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_29" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1607443140"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/monster-sanctuary\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "814370"
+	"store_tags"
+	{
+		"0" "916648"
+		"1" "3964"
+		"2" "1628"
+		"3" "14139"
+		"4" "4182"
+		"5" "4325"
+		"6" "3834"
+		"7" "1684"
+		"8" "21"
+		"9" "4434"
+		"10" "122"
+		"11" "3871"
+		"12" "9"
+		"13" "1775"
+		"14" "4026"
+		"15" "492"
+		"16" "1742"
+		"17" "1677"
+		"18" "1625"
+		"19" "3798"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "moi rai games"
+	"publisher" "Team17"
+	"homepage" "https://monster-sanctuary.com"
+	"listofdlc" "1475990"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Monster Sanctuary"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Monster Sanctuary.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Monster Sanctuary.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "Monster Sanctuary.x86"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+		"3"
+		{
+			"executable" "Monster Sanctuary.app\\Contents\\MacOS\\Monster Sanctuary"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2339259806"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "8"
+}
+"depots"
+{
+	"814371"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3497935960409360958"
+				"size" "793503163"
+				"download" "156570624"
+			}
+		}
+	}
+	"814372"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7084434243700452984"
+				"size" "825648189"
+				"download" "166917184"
+			}
+		}
+	}
+	"814373"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3446094099735758726"
+				"size" "793181937"
+				"download" "156090384"
+			}
+		}
+	}
+	"814374"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8303935974994426840"
+				"size" "786657531"
+				"download" "154305104"
+			}
+		}
+	}
+	"1475990"
+	{
+		"dlcappid" "1475990"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1505380211811554653"
+				"size" "106176178"
+				"download" "99834320"
+			}
+		}
+	}
+	"baselanguages" "english"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11295835"
+			"timeupdated" "1684835514"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "105"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Monster Sanctuary/{64BitSteamID}"
+			"pattern" "*.*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".local/share"
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"2"
+		{
+			"root" "WinMyDocuments"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinMyDocuments"
+			"addpath" "My Games"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27000455"
+"_sha" "c7b48d3af1b6e4a2a1106a359979855d67ec894f"
+"_size" "8302"
