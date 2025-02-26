@@ -14,4 +14,4 @@ jobs:
           -H "Authorization: Bearer ${{ secrets.TOKEN }}" \
           -H "Accept: application/vnd.github.v3+json" \
           -d '{"ref": "main", "inputs": {}}' \
-          https://api.github.com/repos/tymolu233/ManifestAutoUpdate/actions/workflows/CI.yml/dispatches \
+          https://api.github.com/repos/tymolu233/ManifestAutoUpdate-fix/actions/workflows/CI.yml/dispatches \
