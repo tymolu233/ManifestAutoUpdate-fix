@@ -1,0 +1,347 @@
+"appid" "738530"
+"common"
+{
+	"name" "New Gundam Breaker"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"icon" "b05f737266598ade81d29ddc96ca68d2e56b9117"
+	"clienticon" "aab18f690db0d496a499fcdbfcf9bc7573f12839"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "738530_eula_0"
+			"name" "New Gundam Breaker EULA"
+			"url" "https://store.steampowered.com//eula/738530_eula_0"
+		}
+	}
+	"logo" "50a7e84d727afcc679bc94c0253fa04464d96616"
+	"logo_small" "50a7e84d727afcc679bc94c0253fa04464d96616_thumb"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1654819200"
+		"tested_build_id" "3322261"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "New Gundam Breaker"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_85a8cb3884f7d6334baf88c1f796bb1e8d964241.jpg"
+	"store_asset_mtime" "1526918912"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CRAFTS &amp; MEISTER Co., Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "BANDAI NAMCO Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Gundam"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_13" "1"
+		"category_23" "1"
+		"category_33" "1"
+		"category_18" "1"
+		"category_29" "1"
+		"category_49" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1537826160"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "738530"
+	"store_tags"
+	{
+		"0" "4821"
+		"1" "19"
+		"2" "4085"
+		"3" "4747"
+		"4" "3859"
+		"5" "9551"
+		"6" "5752"
+	}
+	"review_score" "5"
+	"review_percentage" "42"
+}
+"extended"
+{
+	"anti_cheat_support_url" "https://www.easy.ac/r/steam/gamebans/\?steamAppId=738530"
+	"developer" "CRAFTS &amp; MEISTER Co., Ltd."
+	"publisher" "BANDAI NAMCO Entertainment"
+	"homepage" "https://en.bandainamcoent.eu/gundam/new-gundam-breaker"
+	"listofdlc" "874320"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "BGMC"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "NewGundamBreaker.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"1274102275"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,compatbuilds,denuvotest,developer,developer_future,developer_shipping,eactest,locbuilds,press,qabuilds,qabuilds_release"
+		}
+		"1276760826"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,compatbuilds,denuvotest,developer,developer_future,developer_shipping,eactest,locbuilds,press,qabuilds,qabuilds_release"
+		}
+	}
+	"steamconfigurator3rdpartynative" "1"
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese"
+	"738531"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1775289706135227269"
+				"size" "8847149228"
+				"download" "8228745392"
+			}
+		}
+	}
+	"738532"
+	{
+	}
+	"874321"
+	{
+		"dlcappid" "874320"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "124765774063550712"
+				"size" "5"
+				"download" "48"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3322261"
+			"timeupdated" "1545299870"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "NewGundamBreaker/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "NewGundamBreaker/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "0b0d01409ff29800732bf918e1d1f106ae94ca22"
+"_size" "6385"
