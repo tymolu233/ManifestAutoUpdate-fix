@@ -1,0 +1,392 @@
+"appid" "707030"
+"common"
+{
+	"name" "POSTAL 4: No Regerts"
+	"type" "Game"
+	"releasestate" "released"
+	"clienttga" "dcb2a8756fa8f392069b468257807ab297fdd92b"
+	"clienticon" "814129d7f5f29d11a4914456620fab24724cab66"
+	"icon" "34a1a739114437f9b08944553ce41bdb1542daaa"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "50914036e9771ad66803af66c4877687c8989fcd"
+	"logo_small" "50914036e9771ad66803af66c4877687c8989fcd_thumb"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1667260800"
+		"tested_build_id" "9415871"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "nomfdxgiman,"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "43.58882593829759"
+			"height_pct" "85.99810785241249"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "43.58882593829759"
+				"height_pct" "85.99810785241249"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1724871757"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Running With Scissors"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Running With Scissors"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "POSTAL"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_13" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"russian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1650481200"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "707030"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "4345"
+		"2" "4182"
+		"3" "3839"
+		"4" "1695"
+		"5" "3810"
+		"6" "1697"
+		"7" "1719"
+		"8" "5923"
+		"9" "1663"
+		"10" "1774"
+		"11" "19995"
+		"12" "19"
+		"13" "4106"
+		"14" "1646"
+		"15" "4136"
+		"16" "4255"
+		"17" "1662"
+		"18" "4878"
+		"19" "1742"
+	}
+	"review_score" "6"
+	"review_percentage" "70"
+}
+"extended"
+{
+	"developer" "Running With Scissors"
+	"publisher" "Running With Scissors"
+	"homepage" "https://runningwithscissors.com/"
+}
+"config"
+{
+	"installdir" "POSTAL 4"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Postal4.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "13"
+	"steamdecktouchscreen" "1"
+	"steaminputmanifestpath" "3430574134"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"707031"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4591437779549042796"
+				"size" "21013297569"
+				"download" "19542537936"
+			}
+			"0.1.4.1.6"
+			{
+				"gid" "822416387292608882"
+				"size" "8347727771"
+				"download" "7863275136"
+			}
+			"1.1.1-release"
+			{
+				"gid" "3712016403333254713"
+				"size" "16779244066"
+				"download" "15390501328"
+			}
+			"1.2.0-release"
+			{
+				"gid" "5225989298397659053"
+				"size" "18372214508"
+				"download" "16991747744"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15504580"
+			"timeupdated" "1724781504"
+		}
+		"0.1.4.1.6"
+		{
+			"buildid" "5066320"
+			"description" "Old version (Windows 7)"
+			"timeupdated" "1592235953"
+		}
+		"1.1.1-release"
+		{
+			"buildid" "10394202"
+			"description" "1.1.1 public release"
+			"timeupdated" "1693833334"
+		}
+		"1.2.0-release"
+		{
+			"buildid" "12675474"
+			"description" "1.2.0 public release"
+			"timeupdated" "1710528163"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "512"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Postal4/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27654704"
+"_sha" "d1c8334bae8670cc9c9743ce2507c30b23000d1e"
+"_size" "6798"
