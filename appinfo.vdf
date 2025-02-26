@@ -1,0 +1,624 @@
+"appid" "1498570"
+"common"
+{
+	"name" "THE KING OF FIGHTERS XV"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"logo" "67ed2145febcc0ff37df6fed97f788b21e893eab"
+	"logo_small" "67ed2145febcc0ff37df6fed97f788b21e893eab_thumb"
+	"icon" "66b75e0a9bb33320565802f743f18a62fe25396b"
+	"clienttga" "707ad4da9e341ac0193e2e95aa6fd61a498f6bfc"
+	"clienticon" "ca0ee481c6d0e3c0a0d1429dc99fcebabe2a3ecb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1498570_eula_0"
+			"name" "THE KING OF FIGHTERS XV EULA"
+			"url" "https://store.steampowered.com//eula/1498570_eula_0"
+			"version" "3"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1653004800"
+		"tested_build_id" "8746705"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "The King of Fighters XV"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "74.53488372093025"
+			"height_pct" "85.71598195203038"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "74.53488372093025"
+				"height_pct" "85.71598195203038"
+			}
+		}
+	}
+	"store_asset_mtime" "1642148122"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "SNK CORPORATION"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "SNK CORPORATION"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "THE KING OF FIGHTERS"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_22" "1"
+		"category_23" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_44" "1"
+		"category_28" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_27" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1645084740"
+	"metacritic_score" "85"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/the-king-of-fighters-xv\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1498570"
+	"store_tags"
+	{
+		"0" "4736"
+		"1" "1743"
+		"2" "19"
+		"3" "1775"
+		"4" "3859"
+		"5" "4191"
+		"6" "4182"
+		"7" "4085"
+		"8" "1773"
+		"9" "3878"
+		"10" "12095"
+		"11" "1756"
+		"12" "4975"
+		"13" "7368"
+		"14" "6650"
+		"15" "7208"
+		"16" "4747"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"absolutemousecoordinates" "1"
+	"remoteplaytogethertestingbranches" "debug,qa_debug,remotecheck"
+	"remoteplaycursorscale" "2.0"
+	"developer" "SNK CORPORATION"
+	"publisher" "SNK CORPORATION"
+	"homepage" "https://www.snk-corp.co.jp/us/games/kof-xv/"
+	"listofdlc" "1835740,1835741,1835750,1835751,1839450,2005310,2005311,2101210,2193910,2193911,2302800,2351530,2428540,2507300,2574580,3253320"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "THE KING OF FIGHTERS XV"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "KOFXV_Steam.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamconfigurator3rdpartynative" "65520"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian,latam"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229000"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229001"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1498571"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4818802772800509683"
+				"size" "52131747241"
+				"download" "48589587248"
+			}
+		}
+	}
+	"1835740"
+	{
+		"dlcappid" "1835740"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5641671009723606793"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"1835741"
+	{
+		"dlcappid" "1835741"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6932933056072794967"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"1835751"
+	{
+		"dlcappid" "1835751"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4456296354678155327"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"1835750"
+	{
+		"dlcappid" "1835750"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4948707711134307510"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"1839450"
+	{
+		"dlcappid" "1839450"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8488089317892685381"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"2005310"
+	{
+		"dlcappid" "2005310"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9221810974797287711"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"2005311"
+	{
+		"dlcappid" "2005311"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8948454583586901447"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"2101210"
+	{
+		"dlcappid" "2101210"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9083339335875490533"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"2193910"
+	{
+		"dlcappid" "2193910"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9211877908464552928"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"2193911"
+	{
+		"dlcappid" "2193911"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9212723267824047356"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"2302800"
+	{
+		"dlcappid" "2302800"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9197399049446375795"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"2351530"
+	{
+		"dlcappid" "2351530"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9066134640191549475"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"2428540"
+	{
+		"dlcappid" "2428540"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9130861549258612947"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"2507300"
+	{
+		"dlcappid" "2507300"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9039017923140295814"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"2574580"
+	{
+		"dlcappid" "2574580"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9173661543920999306"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"3253320"
+	{
+		"dlcappid" "3253320"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9171906610314863975"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16943224"
+			"timeupdated" "1737014417"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "125829120"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "KOFXV\\Saved\\SaveGames"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "KOFXV\\Saved\\SaveGames"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27338524"
+"_sha" "a7b450e0c2d070595122438091d48f755a7a4e67"
+"_size" "10071"
