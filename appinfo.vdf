@@ -1,0 +1,672 @@
+"appid" "289950"
+"common"
+{
+	"name" "Construction-Simulator 2015"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"logo" "3f31013e4a8b5f9fccdd478906e3024a5df262bc"
+	"logo_small" "3f31013e4a8b5f9fccdd478906e3024a5df262bc_thumb"
+	"icon" "ec228c48d13da67cec0d06c446c43fef73dc35f5"
+	"clienticon" "524d1679b2a8dc057d8241436bf0101009a43471"
+	"clienttga" "9cba1669a38a1918112ceed41726e079e7665679"
+	"eulas"
+	{
+		"2"
+		{
+			"id" "289950_eula_2"
+			"name" "Construction-Simulator 2015 EULA 2"
+			"url" "http://store.steampowered.com//eula/289950_eula_2"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"hungarian" "1"
+		"czech" "1"
+	}
+	"clienticns" "339cc897a436068ff83ba66cf51eebc03c330b0f"
+	"osarch" ""
+	"linuxclienticon" "c8f346c7bd2a6977e32b1fd80449469cc7e3bfb5"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1674000000"
+		"tested_build_id" "1903032"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Construction Simulator: Gold Edition"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1592478115"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "weltenbauer. Software Entwicklung GmbH"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "astragon Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Construction Simulator"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_9" "1"
+		"category_18" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_27" "1"
+		"category_29" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1416351540"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "289950"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "1643"
+		"2" "3859"
+		"3" "1695"
+		"4" "1100687"
+		"5" "1644"
+		"6" "4182"
+		"7" "597"
+		"8" "1685"
+		"9" "4175"
+		"10" "12472"
+		"11" "9"
+		"12" "1702"
+		"13" "19"
+		"14" "3810"
+		"15" "4328"
+		"16" "7481"
+		"17" "5348"
+		"18" "1669"
+		"19" "5350"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "weltenbauer. Software Entwicklung GmbH"
+	"publisher" "astragon Entertainment"
+	"homepage" "http://www.construction-simulator.com"
+	"gamemanualurl" "https://store.steampowered.com/manual/289950/"
+	"listofdlc" "320390,325680,325690,325691,325692,325693,329840,333470,333480,333481,334610,334611,359780,359781,359790,404280,404281,404282,404283,404284"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "ConSim2015"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ConSim2015.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "ConSim2015.app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "start.sh"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+		"3"
+		{
+			"executable" "start.sh"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"baselanguages" ""
+	"289951"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6187196982400466117"
+				"size" "3132060413"
+				"download" "922228240"
+			}
+			"windows10"
+			{
+				"gid" "6187196982400466117"
+				"size" "3132060413"
+				"download" "922228240"
+			}
+		}
+	}
+	"289952"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3246692775414292118"
+				"size" "3124041609"
+				"download" "915977008"
+			}
+			"windows10"
+			{
+				"gid" "4817924666361283496"
+				"size" "2883288597"
+				"download" "885341152"
+			}
+		}
+	}
+	"289963"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4230567957551800605"
+				"size" "3147551119"
+				"download" "909556736"
+			}
+		}
+	}
+	"289954"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+	}
+	"289961"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+	}
+	"289955"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+	}
+	"289953"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+	}
+	"289958"
+	{
+		"config"
+		{
+			"language" "hungarian"
+		}
+	}
+	"289957"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+	}
+	"289959"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+	}
+	"289960"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+	}
+	"289962"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+	}
+	"289956"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+	}
+	"325680"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "156511653060829929"
+				"size" "7800462"
+				"download" "1457536"
+			}
+			"windows10"
+			{
+				"gid" "156511653060829929"
+				"size" "7800462"
+				"download" "1457536"
+			}
+		}
+		"dlcappid" "325680"
+	}
+	"325690"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3634689372938526252"
+				"size" "8617953"
+				"download" "45"
+			}
+			"windows10"
+			{
+				"gid" "3634689372938526252"
+				"size" "8617953"
+				"download" "45"
+			}
+		}
+		"dlcappid" "325690"
+	}
+	"325691"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7542654183503373103"
+				"size" "9334002"
+				"download" "1637568"
+			}
+			"windows10"
+			{
+				"gid" "7542654183503373103"
+				"size" "9334002"
+				"download" "1637568"
+			}
+		}
+		"dlcappid" "325691"
+	}
+	"325692"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7594231817443881249"
+				"size" "7860029"
+				"download" "1424992"
+			}
+			"windows10"
+			{
+				"gid" "7594231817443881249"
+				"size" "7860029"
+				"download" "1424992"
+			}
+		}
+		"dlcappid" "325692"
+	}
+	"325693"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4224477250559419251"
+				"size" "7999483"
+				"download" "40"
+			}
+			"windows10"
+			{
+				"gid" "4224477250559419251"
+				"size" "7999483"
+				"download" "40"
+			}
+		}
+		"dlcappid" "325693"
+	}
+	"334610"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "43674526992303730"
+				"size" "9240706"
+				"download" "1531024"
+			}
+			"windows10"
+			{
+				"gid" "43674526992303730"
+				"size" "9240706"
+				"download" "1531024"
+			}
+		}
+		"dlcappid" "334610"
+	}
+	"359780"
+	{
+		"dlcappid" "359780"
+	}
+	"359781"
+	{
+		"dlcappid" "359781"
+	}
+	"359790"
+	{
+		"dlcappid" "359790"
+	}
+	"404281"
+	{
+		"dlcappid" "404281"
+	}
+	"289964"
+	{
+		"config"
+		{
+			"language" "turkish"
+		}
+		"manifests"
+		{
+		}
+	}
+	"289965"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+		}
+	}
+	"workshopdepot" "289950"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1903032"
+			"timeupdated" "1497971030"
+		}
+		"windows10"
+		{
+			"buildid" "1916428"
+			"description" "Fixes issues with XBox One Controller on Windows 10"
+			"timeupdated" "1498467946"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "ConstructionSimulator2015"
+			"pattern" "*.wbb"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "LinuxHome"
+			"path" "Documents/Saved Games/ConstructionSimulator2015"
+			"pattern" "*.wbb"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27150763"
+"_sha" "8d1ea6a5d9be2f44c5ac0676f71498ae76a7135d"
+"_size" "10752"
