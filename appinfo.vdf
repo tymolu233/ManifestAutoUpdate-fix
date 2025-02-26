@@ -1,0 +1,385 @@
+"appid" "1121560"
+"common"
+{
+	"name" "Atelier Ryza: Ever Darkness & the Secret Hideout"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "1b789836386add988ff61ebce55a1b4e125bb9be"
+	"clienttga" "d3ac03a880a16dee237bda3253be3b0ac5dea398"
+	"icon" "3c4123ea233e00e94a92f9005333a39442e8d9fd"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"logo" "162932e826fe5ba6b8973e227462e99d1f1abd5c"
+	"logo_small" "162932e826fe5ba6b8973e227462e99d1f1abd5c_thumb"
+	"name_localized"
+	{
+		"japanese" "ライザのアトリエ ～常闇の女王と秘密の隠れ家～"
+		"english" "Atelier Ryza: Ever Darkness & the Secret Hideout"
+		"tchinese" "萊莎的鍊金工房 ～常闇女王與秘密藏身處～"
+		"schinese" "莱莎的炼金工房 ～常暗女王与秘密藏身处～"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1121560_eula_0"
+			"name" "Atelier Ryza: Ever Darkness & the Secret Hideout EULA"
+			"url" "https://store.steampowered.com//eula/1121560_eula_0"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1726617600"
+		"tested_build_id" "15504645"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Atelier Ryza: Ever Darkness &amp; the Secret Hideout"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-tw,ja,zh-cn,en"
+		"library_hero" "en"
+		"library_logo" "zh-tw,ja,zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"tchinese" "library_600x900_tchinese.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"tchinese" "logo_tchinese.png"
+				"japanese" "logo_japanese.png"
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1673407946"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "KOEI TECMO GAMES CO., LTD."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "KOEI TECMO GAMES CO., LTD."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "KOEI TECMO GAMES CO., LTD."
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_33" "1"
+		"category_18" "1"
+		"category_23" "1"
+		"category_42" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1572307260"
+	"metacritic_score" "75"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/atelier-ryza-ever-darkness-the-secret-hideout\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1121560"
+	"store_tags"
+	{
+		"0" "3834"
+		"1" "4434"
+		"2" "1702"
+		"3" "5652"
+		"4" "1677"
+		"5" "7208"
+		"6" "122"
+		"7" "4726"
+		"8" "4085"
+		"9" "4325"
+		"10" "597"
+		"11" "1742"
+		"12" "19"
+		"13" "599"
+		"14" "1684"
+		"15" "5608"
+		"16" "21"
+		"17" "4182"
+		"18" "12095"
+		"19" "1756"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "KOEI TECMO GAMES CO., LTD."
+	"publisher" "KOEI TECMO GAMES CO., LTD."
+	"homepage" "https://www.koeitecmoamerica.com/ryza/"
+	"listofdlc" "1154590,1154591,1154592,1154593,1154594,1154595,1154596,1154597,1188600,1188601,1188602,1188603,1188604,1188605,1188606,1188607,1188608,1188609,1188610,1188611,1188612,1188613,1188614,1188615,1188616,1188617,1188618,1188619,1188620,1604860"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Atelier Ryza"
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "65535"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Atelier_Ryza.exe"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2176412150"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese,tchinese,japanese"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1121561"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4770515783795775162"
+				"size" "19229612048"
+				"download" "6596001936"
+			}
+		}
+	}
+	"1188601"
+	{
+		"dlcappid" "1188601"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "492911901642481015"
+				"size" "3213683048"
+				"download" "3201519136"
+			}
+		}
+	}
+	"1188620"
+	{
+		"dlcappid" "1188620"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "601879598125903599"
+				"size" "1286304149"
+				"download" "1283082880"
+			}
+		}
+	}
+	"1604860"
+	{
+		"dlcappid" "1604860"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2017982345092845238"
+				"size" "13124279"
+				"download" "4211600"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15768026"
+			"timeupdated" "1726830287"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "200"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "KoeiTecmo\\Atelier Ryza"
+			"pattern" "*.dat"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27216863"
+"_sha" "d2600607876b1725a69d78f7bc9e257ad4acbf08"
+"_size" "7815"
