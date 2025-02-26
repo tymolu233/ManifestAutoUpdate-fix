@@ -1,0 +1,337 @@
+"appid" "564380"
+"common"
+{
+	"name" "Serious Sam 2017 Editor"
+	"type" "Tool"
+	"parent" "564310"
+	"oslist" "windows"
+	"osarch" ""
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+		"xinput" "1"
+		"kbm" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+	}
+	"openvrsupport" "1"
+	"releasestate" "released"
+	"logo" "96bf33d6f74d57478f7b19415b446843d13ff3a0"
+	"logo_small" "96bf33d6f74d57478f7b19415b446843d13ff3a0_thumb"
+	"associations"
+	{
+	}
+	"gameid" "564380"
+}
+"extended"
+{
+	"disableoverlayinjection" "1"
+	"disableoverlay" "1"
+	"vrheadsetstreaming" "1"
+}
+"config"
+{
+	"installdir" "Serious Sam Fusion 2017"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Bin/x64/Sam2017_SeriousEditor.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Bin/x64/Sam2017_SeriousEditor_VR.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "588580"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "564380"
+	"564381"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6226771252874780780"
+				"size" "64663264"
+				"download" "19886544"
+			}
+			"legacy"
+			{
+				"gid" "2889235587706925030"
+				"size" "56225264"
+				"download" "17856272"
+			}
+			"previousversion"
+			{
+				"gid" "4180318158929458814"
+				"size" "64643808"
+				"download" "19869904"
+			}
+		}
+	}
+	"564382"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6894405564778093173"
+				"size" "47617392"
+				"download" "14613104"
+			}
+			"legacy"
+			{
+				"gid" "801567794687894913"
+				"size" "43733496"
+				"download" "13686368"
+			}
+			"previousversion"
+			{
+				"gid" "7411006884950421475"
+				"size" "47610736"
+				"download" "14619424"
+			}
+		}
+	}
+	"564384"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5620681332416295924"
+				"size" "126348051"
+				"download" "104293120"
+			}
+			"legacy"
+			{
+				"gid" "4326755354393073176"
+				"size" "12648358"
+				"download" "10992448"
+			}
+			"previousversion"
+			{
+				"gid" "7652805703144952603"
+				"size" "126348051"
+				"download" "104293120"
+			}
+		}
+	}
+	"564385"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1065480305067664507"
+				"size" "300797382"
+				"download" "285170912"
+			}
+			"legacy"
+			{
+				"gid" "8124191600616673826"
+				"size" "301394812"
+				"download" "285683904"
+			}
+			"previousversion"
+			{
+				"gid" "3276810261598969646"
+				"size" "300797382"
+				"download" "285170912"
+			}
+		}
+	}
+	"564386"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5373047666944372924"
+				"size" "424136225"
+				"download" "405838128"
+			}
+			"legacy"
+			{
+				"gid" "1231359955739520970"
+				"size" "424552851"
+				"download" "406035824"
+			}
+			"previousversion"
+			{
+				"gid" "1225704481168978787"
+				"size" "424136145"
+				"download" "405838032"
+			}
+		}
+	}
+	"564387"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3853105547967098280"
+				"size" "159759672"
+				"download" "151538864"
+			}
+			"legacy"
+			{
+				"gid" "5672922832718240418"
+				"size" "160044491"
+				"download" "151509360"
+			}
+			"previousversion"
+			{
+				"gid" "4653854711215377931"
+				"size" "159759672"
+				"download" "151538864"
+			}
+		}
+	}
+	"564388"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4471058383879233807"
+				"size" "764337141"
+				"download" "706043872"
+			}
+			"legacy"
+			{
+				"gid" "4862216052198911333"
+				"size" "766001230"
+				"download" "707161840"
+			}
+			"previousversion"
+			{
+				"gid" "6397026962523051505"
+				"size" "764337141"
+				"download" "706043872"
+			}
+		}
+	}
+	"564389"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2334700944380887607"
+				"size" "348130108"
+				"download" "311103552"
+			}
+			"legacy"
+			{
+				"gid" "1625915667283106035"
+				"size" "349338316"
+				"download" "312615600"
+			}
+			"previousversion"
+			{
+				"gid" "8562108398779618646"
+				"size" "348130108"
+				"download" "311103552"
+			}
+		}
+	}
+	"564315"
+	{
+		"depotfromapp" "564310"
+		"sharedinstall" "2"
+	}
+	"564316"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "564310"
+		"sharedinstall" "2"
+	}
+	"564320"
+	{
+		"dlcappid" "564320"
+		"depotfromapp" "564310"
+		"sharedinstall" "2"
+	}
+	"564321"
+	{
+		"dlcappid" "564321"
+		"depotfromapp" "564310"
+		"sharedinstall" "2"
+	}
+	"564322"
+	{
+		"dlcappid" "564322"
+		"depotfromapp" "564310"
+		"sharedinstall" "2"
+	}
+	"564323"
+	{
+		"dlcappid" "564323"
+		"depotfromapp" "564310"
+		"sharedinstall" "2"
+	}
+	"564324"
+	{
+		"dlcappid" "564324"
+		"depotfromapp" "564310"
+		"sharedinstall" "2"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3897336"
+			"timeupdated" "1559913969"
+		}
+		"legacy"
+		{
+			"buildid" "2502009"
+			"timeupdated" "1558528302"
+		}
+		"previousversion"
+		{
+			"buildid" "3801170"
+			"timeupdated" "1559913996"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27014150"
+"_sha" "53b21ab92accdcd474e6618c34f819e5f1d7649a"
+"_size" "5321"
