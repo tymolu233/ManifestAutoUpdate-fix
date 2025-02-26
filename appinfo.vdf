@@ -1,0 +1,289 @@
+"appid" "1280290"
+"common"
+{
+	"name" "Ash of Legends"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+	}
+	"openvr_action_manifest_path" "AshOfLegends_Data\\StreamingAssets\\SteamVR\\actions.json"
+	"clienttga" "0c51ec59ce5c2ae57f405439c409430261183aea"
+	"clienticns" "b171f1676335a465eb5fba7434ff9dcc7b58c8f3"
+	"linuxclienticon" "b171f1676335a465eb5fba7434ff9dcc7b58c8f3"
+	"logo" "35cb718c489fc2fd2003e30b02d78d723f1d6973"
+	"logo_small" "35cb718c489fc2fd2003e30b02d78d723f1d6973_thumb"
+	"icon" "a81be3427db05017d35415e3c663f9d703fa13cc"
+	"clienticon" "85f66835eb0b3a67ee0d694837f132e4e6634b63"
+	"releasestate" "released"
+	"openvrsupport" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1725255318"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pcubed VR"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Pcubed VR"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_52" "1"
+		"category_54" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1724133652"
+	"community_hub_visible" "1"
+	"gameid" "1280290"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "1663"
+		"1" "1723"
+		"2" "1645"
+		"3" "1676"
+		"4" "1774"
+		"5" "9"
+		"6" "3839"
+		"7" "21978"
+		"8" "7332"
+		"9" "19"
+		"10" "3942"
+		"11" "1643"
+		"12" "30358"
+		"13" "4166"
+		"14" "3968"
+		"15" "3993"
+		"16" "4182"
+		"17" "9994"
+		"18" "492"
+		"19" "493"
+	}
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Pcubed VR"
+	"publisher" "Pcubed VR"
+}
+"config"
+{
+	"installdir" "AshOfLegends"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "AshOfLegends.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1280291"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8568076597718204044"
+				"size" "14170939533"
+				"download" "3860019632"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16821196"
+			"timeupdated" "1734751402"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "PcubedVR/AshOfLegends"
+			"pattern" "inventory.bin"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "PcubedVR/AshOfLegends"
+			"pattern" "gamestate*.json"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "PcubedVR/AshOfLegends"
+			"pattern" "movingplatform*.json"
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "PcubedVR/AshOfLegends"
+			"pattern" "settings.json"
+		}
+		"5"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "PcubedVR/AshOfLegends"
+			"pattern" "achievements.json"
+		}
+		"6"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "PcubedVR/AshOfLegends"
+			"pattern" "presenter.json"
+		}
+		"7"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "PcubedVR/AshOfLegends"
+			"pattern" "blueprint*.json"
+		}
+		"8"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "PcubedVR/AshOfLegends"
+			"pattern" "guid.json"
+		}
+		"9"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "PcubedVR/AshOfLegends"
+			"pattern" "cummulative.json"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27620153"
+"_sha" "bfb91114e21f01c443120045166f49ac5507748a"
+"_size" "4772"
