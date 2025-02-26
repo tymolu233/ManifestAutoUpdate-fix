@@ -1,0 +1,644 @@
+"appid" "108710"
+"common"
+{
+	"name" "Alan Wake"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+	}
+	"clienticon" "f4cb484af25ee163541e40e7128a4a0a733bc4a0"
+	"clienttga" "5265adeb08e6c67695302201ffd3edb5485fac2a"
+	"icon" "ec7953511aaaf5a2c2093b872b5b43c6cab56462"
+	"logo" "0f9b6613ac50bf42639ed6a2e16e9b78e846ef0a"
+	"logo_small" "0f9b6613ac50bf42639ed6a2e16e9b78e846ef0a_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"type" "game"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1670457600"
+		"tested_build_id" "5033846"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Alan Wake"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1667485325"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Remedy Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Remedy Entertainment"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "1"
+			"full_audio" "1"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "1"
+			"full_audio" "1"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "1"
+			"full_audio" "1"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "1"
+			"full_audio" "1"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "1"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "1"
+			"full_audio" "1"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "1"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "1"
+			"full_audio" "1"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "1"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1329414600"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/alan-wake\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "108710"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1667"
+		"2" "1697"
+		"3" "21"
+		"4" "1742"
+		"5" "4064"
+		"6" "4166"
+		"7" "4182"
+		"8" "1721"
+		"9" "1756"
+		"10" "5716"
+		"11" "4242"
+		"12" "3814"
+		"13" "4342"
+		"14" "10808"
+		"15" "4145"
+		"16" "5094"
+		"17" "3978"
+		"18" "1774"
+		"19" "1662"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Remedy Entertainment"
+	"gamedir" "VTA108710"
+	"homepage" "http://www.alanwake.com"
+	"icon" ""
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "108723"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"publisher" "Remedy Entertainment"
+	"gamemanualurl" "https://store.steampowered.com/manual/108710/"
+	"listofdlc" "108726,108727,268560"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installscriptsignature" "5dc66f304541c6e174f3192f2276a9d38c602075c93e3502b9fbf6127575e8a370c00685e164a0ddce2579dff61ae5612d777fac43567b9f397329ba93f0394edb5e07cc0cc9c2b57198718dca88f3dc00df807b178bfbdd612d1c05f2399bccdec6643d4708b26f4603e1f3351fefd5c4ce452c3e0936b7ab80362a03ad38a9"
+	"installscriptoverride" "1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "./AlanWake.exe"
+		}
+	}
+	"contenttype" "3"
+	"installdir" "Alan Wake"
+}
+"install"
+{
+	"run process"
+	{
+		"vcredistributable"
+		{
+			"process 1" "%INSTALLDIR%\\thirdparty\\Studio_Redistributable\\vcredist_x86.exe"
+			"command 1" "/q"
+			"description" "Microsoft Visual C++ Redistributable 2008 SP1"
+			"nocleanup" "1"
+		}
+		"directx"
+		{
+			"process 1" "%INSTALLDIR%\\thirdparty\\DirectX\\DXSETUP.exe"
+			"command 1" "/silent"
+			"description" "Microsoft DirectX"
+			"nocleanup" "1"
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"108727"
+	{
+		"optional" "1"
+		"systemdefined" "1"
+		"dlcappid" "108727"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2106058700918439926"
+				"size" "8075919"
+				"download" "1007616"
+			}
+		}
+	}
+	"108726"
+	{
+		"optional" "1"
+		"systemdefined" "1"
+		"dlcappid" "108726"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1713738522381113009"
+				"size" "312260861"
+				"download" "0"
+			}
+		}
+	}
+	"108725"
+	{
+		"optional" "1"
+		"systemdefined" "1"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1993621679641115397"
+				"size" "3547577277"
+				"download" "0"
+			}
+		}
+	}
+	"108724"
+	{
+		"optional" "1"
+		"systemdefined" "1"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8702697917673304354"
+				"size" "4425106436"
+				"download" "0"
+			}
+		}
+	}
+	"108723"
+	{
+		"optional" "1"
+		"systemdefined" "1"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5060317705156608793"
+				"size" "30033812"
+				"download" "0"
+			}
+		}
+	}
+	"108712"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "901025420359456534"
+				"size" "107391272"
+				"download" "0"
+			}
+		}
+	}
+	"108714"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7153105019757630594"
+				"size" "271228922"
+				"download" "213388304"
+			}
+		}
+	}
+	"108715"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8640327155719467447"
+				"size" "10708847"
+				"download" "2605760"
+			}
+		}
+	}
+	"108716"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9153511591353296967"
+				"size" "271081674"
+				"download" "211322768"
+			}
+		}
+	}
+	"108717"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7363828501531477407"
+				"size" "271239122"
+				"download" "212708144"
+			}
+		}
+	}
+	"108718"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4467213347088643931"
+				"size" "270653930"
+				"download" "210319376"
+			}
+		}
+	}
+	"108719"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4247239336910949318"
+				"size" "273148600"
+				"download" "207034608"
+			}
+		}
+	}
+	"108720"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1973162837400191961"
+				"size" "8900687"
+				"download" "1394048"
+			}
+		}
+	}
+	"108721"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1797539877300237257"
+				"size" "12775990"
+				"download" "1603504"
+			}
+		}
+	}
+	"108722"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2433517643315622897"
+				"size" "12980926"
+				"download" "1643760"
+			}
+		}
+	}
+	"108728"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8247444636893821162"
+				"size" "10531092"
+				"download" "1470608"
+			}
+		}
+	}
+	"268560"
+	{
+		"dlcappid" "268560"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6556411015070000727"
+				"size" "3383521631"
+				"download" "0"
+			}
+		}
+	}
+	"108711"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3695390701422947803"
+				"size" "13499209517"
+				"download" "11721972464"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14596864"
+			"timeupdated" "1725964834"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "1000"
+	"hidecloudui" "0"
+}
+"_missing_token" "False"
+"_change_number" "27275597"
+"_sha" "e19e1f394e80b0ab94ac51ca7bf64c20c597c023"
+"_size" "10364"
