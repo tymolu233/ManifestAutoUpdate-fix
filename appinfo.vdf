@@ -1,0 +1,503 @@
+"appid" "1239080"
+"common"
+{
+	"name" "Door Kickers 2"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"logo" "588b6a2c3bec2558dae60eb45331fba1fdc1e87f"
+	"logo_small" "588b6a2c3bec2558dae60eb45331fba1fdc1e87f_thumb"
+	"icon" "96c4d0baad05b41de29a2dd135dc848f0b79aa06"
+	"clienticon" "6766e1adc0feec0594f49041beb37d9e041683c4"
+	"clienttga" "09481692cefbf1b0f642b9880148ff3d57b2fcd3"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "破门而入2：北方特遣队"
+		"tchinese" "破门而入2：北方特遣队"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1738713600"
+		"tested_build_id" "16442886"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Door Kickers 2: Task Force North"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "d4c73dea1332545b7a5a2ad2197c8a1025a6f5b2/capsule_231x87.jpg"
+		"schinese" "52b59f8d407d7cdf3fec7960f328206a66fc7ef1/capsule_231x87_schinese.jpg"
+		"tchinese" "52b59f8d407d7cdf3fec7960f328206a66fc7ef1/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en,zh-cn"
+		"library_hero_blur" "en,zh-cn"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "50.70011668611437"
+			"height_pct" "83.81619567798623"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "79e833365c1272f326fec1d0cd4dc215b89d48e3/library_600x900.jpg"
+				"schinese" "b4883dc01fead4df9b295f3d2569ba70e00f5724/library_600x900_schinese.jpg"
+				"tchinese" "172d69c4e24df5cda9661c9f59eeecb2e957c723/library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "79e833365c1272f326fec1d0cd4dc215b89d48e3/library_600x900_2x.jpg"
+				"schinese" "b4883dc01fead4df9b295f3d2569ba70e00f5724/library_600x900_schinese_2x.jpg"
+				"tchinese" "172d69c4e24df5cda9661c9f59eeecb2e957c723/library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "934aae97d96570dfde265c07e9e27eb76d044337/library_hero.jpg"
+				"schinese" "8255bcef12f96959a46fc25b2a8fd112f62d5481/library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "934aae97d96570dfde265c07e9e27eb76d044337/library_hero_2x.jpg"
+				"schinese" "8255bcef12f96959a46fc25b2a8fd112f62d5481/library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "934aae97d96570dfde265c07e9e27eb76d044337/library_hero_blur.jpg"
+				"schinese" "8255bcef12f96959a46fc25b2a8fd112f62d5481/library_hero_blur_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "4b31f38e3a2bbb2df9fb5b67b23fdfa4d7cdbee6/logo.png"
+				"schinese" "62c47d0a1c3da01379ad076ff87cb83fbbd014fa/logo_schinese.png"
+				"tchinese" "62c47d0a1c3da01379ad076ff87cb83fbbd014fa/logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "4b31f38e3a2bbb2df9fb5b67b23fdfa4d7cdbee6/logo_2x.png"
+				"schinese" "62c47d0a1c3da01379ad076ff87cb83fbbd014fa/logo_schinese_2x.png"
+				"tchinese" "62c47d0a1c3da01379ad076ff87cb83fbbd014fa/logo_tchinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "50.70011668611437"
+				"height_pct" "83.81619567798623"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "278a4f948ba1b68a131240a579b31f58f09c21a9/library_header.jpg"
+				"schinese" "0aecce4294fb50e4385426c0c25bea861e6c5378/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "278a4f948ba1b68a131240a579b31f58f09c21a9/library_header_2x.jpg"
+				"schinese" "0aecce4294fb50e4385426c0c25bea861e6c5378/library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1739220313"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "KillHouse Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "KillHouse Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Door Kickers"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_17" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_44" "1"
+		"category_30" "1"
+		"category_22" "1"
+		"category_15" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1739194320"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1239080"
+	"store_tags"
+	{
+		"0" "1708"
+		"1" "4791"
+		"2" "7107"
+		"3" "3813"
+		"4" "4168"
+		"5" "1669"
+		"6" "19"
+		"7" "492"
+		"8" "9"
+		"9" "1685"
+		"10" "8122"
+		"11" "1678"
+		"12" "1723"
+		"13" "4637"
+		"14" "1676"
+		"15" "3859"
+		"16" "493"
+		"17" "4667"
+		"18" "4182"
+		"19" "4345"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"absolutemousecoordinates" "1"
+	"developer" "KillHouse Games"
+	"publisher" "KillHouse Games"
+	"homepage" "https://inthekillhouse.com"
+}
+"config"
+{
+	"installdir" "DoorKickers2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DoorKickers2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "win32_runtime/DoorKickers2.exe"
+			"description" "Launch 32bit"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"2"
+		{
+			"executable" "runtime_macos/DoorKickers2.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3422976337"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,earlyearlyaccess"
+			"use_action_block" "false"
+		}
+		"3424047313"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,earlyearlyaccess"
+			"use_action_block" "false"
+		}
+		"3424056117"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,earlyearlyaccess"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "4"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,koreana,spanish,schinese,russian,japanese,polish,brazilian,ukrainian"
+	"workshopdepot" "1239080"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1239082"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2381741293838480103"
+				"size" "201547084"
+				"download" "46282512"
+			}
+		}
+	}
+	"1239081"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9131110835574188798"
+				"size" "2468224399"
+				"download" "1279862720"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17503140"
+			"timeupdated" "1740504099"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "KillHouseGames/DoorKickers2"
+			"pattern" "roster.xml"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "KillHouseGames/DoorKickers2"
+			"pattern" "unlocked.xml"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "KillHouseGames/DoorKickers2"
+			"pattern" "mapsaves.xml"
+		}
+		"5"
+		{
+			"root" "WinAppDataLocal"
+			"path" "KillHouseGames/DoorKickers2"
+			"pattern" "campaign_history.xml"
+		}
+		"6"
+		{
+			"root" "WinAppDataLocal"
+			"path" "KillHouseGames/DoorKickers2"
+			"pattern" "campaign.xml"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "KillHouseGames/DoorKickers2"
+					"replace" "DoorKickers2"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27661809"
+"_sha" "a6fbf838775e04f16384c439c4eb8716e26a9229"
+"_size" "10351"
