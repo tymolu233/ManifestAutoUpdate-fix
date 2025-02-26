@@ -1,0 +1,583 @@
+"appid" "1621690"
+"common"
+{
+	"name" "Core Keeper"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "efa098d33b18f540892d499b33ef0cd362596db8"
+	"logo_small" "efa098d33b18f540892d499b33ef0cd362596db8_thumb"
+	"clienticon" "61ad6cf2936a000a8f004cef2d4b790e76407538"
+	"clienttga" "5217f0ec11c85ddc598cc348dac8f0177b924572"
+	"icon" "53517a1b2eb22e22ac4a1f71c814209f1b84c063"
+	"name_localized"
+	{
+		"schinese" "护核纪元"
+	}
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1678406400"
+		"tested_build_id" "10702308"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Core Keeper"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "5b19828e142f23d88e5213280d8e226408dabbbf/capsule_231x87.jpg"
+		"schinese" "93b001bcf5907d121142e0b7c2f9fbc51e6d52e6/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "37.249822676500344"
+			"height_pct" "85.74363704416638"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "1a53cd7f84c7d82b68b36992ea557d5066015e69/library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "1a53cd7f84c7d82b68b36992ea557d5066015e69/library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "37.249822676500344"
+				"height_pct" "85.74363704416638"
+			}
+		}
+		"library_header"
+		{
+			"image2x"
+			{
+				"english" "b91b904116479e46ae1ae0457dcab0e2386a6300/library_header_2x.jpg"
+				"schinese" "library_header_schinese_2x.jpg"
+			}
+			"image"
+			{
+				"english" "b91b904116479e46ae1ae0457dcab0e2386a6300/library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733756992"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pugstorm"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Fireshine Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "bilibili"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Fireshine Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "bilibili"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1724749899"
+	"metacritic_score" "85"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/core-keeper\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1621690"
+	"store_tags"
+	{
+		"0" "3964"
+		"1" "1100689"
+		"2" "3843"
+		"3" "3810"
+		"4" "1662"
+		"5" "21"
+		"6" "1702"
+		"7" "3834"
+		"8" "3871"
+		"9" "1643"
+		"10" "5981"
+		"11" "1720"
+		"12" "5125"
+		"13" "87918"
+		"14" "1654"
+		"15" "3920"
+		"16" "599"
+		"17" "4166"
+		"18" "5716"
+		"19" "597"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Pugstorm"
+	"publisher" "Fireshine Games"
+}
+"config"
+{
+	"installdir" "Core Keeper"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CoreKeeper.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "CoreKeeper"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "CoreKeeper"
+			"arguments" "-force-opengl"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Core Keeper (OpenGL)"
+			}
+			"description" "Core Keeper (OpenGL)"
+		}
+		"3"
+		{
+			"executable" "CoreKeeper.exe"
+			"arguments" "-safemode"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Core Keeper (no mods)"
+				"german" "Core Keeper (keine Mods)"
+				"french" "Core Keeper (pas de mods)"
+				"italian" "Core Keeper (nessuna mod)"
+				"koreana" "Core Keeper (모드 없음)"
+				"spanish" "Core Keeper (sin mods)"
+				"schinese" "Core Keeper (无模组)"
+				"tchinese" "Core Keeper (無模組)"
+				"thai" "Core Keeper (ไม่มี mod)"
+				"japanese" "Core Keeper (MODなし)"
+				"brazilian" "Core Keeper (sem mods)"
+			}
+			"description" "Core Keeper (no mods)"
+		}
+		"4"
+		{
+			"executable" "CoreKeeper"
+			"arguments" "-safemode"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Core Keeper (no mods)"
+				"german" "Core Keeper (keine Mods)"
+				"french" "Core Keeper (pas de mods)"
+				"italian" "Core Keeper (nessuna mod)"
+				"koreana" "Core Keeper (모드 없음)"
+				"spanish" "Core Keeper (sin mods)"
+				"schinese" "Core Keeper (无模组)"
+				"tchinese" "Core Keeper (無模組)"
+				"thai" "Core Keeper (ไม่มี mod)"
+				"japanese" "Core Keeper (MODなし)"
+				"brazilian" "Core Keeper (sem mods)"
+			}
+			"description" "Core Keeper (no mods)"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1621691"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7223580701734711696"
+				"size" "665466944"
+				"download" "362320192"
+			}
+			"1.0.0.14"
+			{
+				"gid" "5973228659389730391"
+				"size" "704793444"
+				"download" "372727568"
+			}
+			"0.7.5"
+			{
+				"gid" "3825122943240230913"
+				"size" "662619714"
+				"download" "354903040"
+			}
+			"0.7.4"
+			{
+				"gid" "8732972105623222578"
+				"size" "644441715"
+				"download" "353793328"
+			}
+			"0.7.3"
+			{
+				"gid" "3414912731463985201"
+				"size" "636303579"
+				"download" "348373504"
+			}
+			"0.7.2"
+			{
+				"gid" "943763884574608209"
+				"size" "635621300"
+				"download" "348475488"
+			}
+			"0.7.1"
+			{
+				"gid" "5537815892178850829"
+				"size" "353270382"
+				"download" "237117648"
+			}
+			"moddebug"
+			{
+				"gid" "6482619417689516500"
+				"size" "665466939"
+				"download" "362320608"
+			}
+		}
+	}
+	"1621692"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8431002782037031884"
+				"size" "780429034"
+				"download" "371264192"
+			}
+			"1.0.0.14"
+			{
+				"gid" "5830350493317616469"
+				"size" "808844560"
+				"download" "378346896"
+			}
+			"0.7.5"
+			{
+				"gid" "1269421896563067135"
+				"size" "755397570"
+				"download" "364310416"
+			}
+			"0.7.4"
+			{
+				"gid" "2740356615636661715"
+				"size" "686313978"
+				"download" "354268480"
+			}
+			"0.7.3"
+			{
+				"gid" "4438538967916979394"
+				"size" "677408361"
+				"download" "348828656"
+			}
+			"0.7.2"
+			{
+				"gid" "5305540204499833251"
+				"size" "674384678"
+				"download" "348407520"
+			}
+			"0.7.1"
+			{
+				"gid" "1103487944642273363"
+				"size" "363654224"
+				"download" "235883024"
+			}
+			"moddebug"
+			{
+				"gid" "6118226470367388827"
+				"size" "780429037"
+				"download" "371263968"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17107281"
+			"timeupdated" "1738318940"
+		}
+		"1.0.0.14"
+		{
+			"buildid" "16065825"
+			"description" "Legacy Build - 16065825"
+			"timeupdated" "1730369406"
+		}
+		"0.7.5"
+		{
+			"buildid" "15443697"
+			"description" "Legacy build - 15443697"
+			"timeupdated" "1724316427"
+		}
+		"0.7.4"
+		{
+			"buildid" "14373060"
+			"description" "Legacy build - 14373060"
+			"timeupdated" "1717603187"
+		}
+		"0.7.3"
+		{
+			"buildid" "13462550"
+			"description" "Legacy build - 13462550"
+			"timeupdated" "1709891529"
+		}
+		"0.7.2"
+		{
+			"buildid" "12959740"
+			"description" "Legacy build - 12959740"
+			"timeupdated" "1706694750"
+		}
+		"0.7.1"
+		{
+			"buildid" "12520890"
+			"description" "Legacy Build - 12520890"
+			"timeupdated" "1701251692"
+		}
+		"moddebug"
+		{
+			"buildid" "17107338"
+			"description" "For mod debugging"
+			"timeupdated" "1738318767"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "27628490"
+"_sha" "2c4fb2907311195416957a7b205f54d62023427c"
+"_size" "11045"
