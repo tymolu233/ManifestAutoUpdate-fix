@@ -1,0 +1,376 @@
+"appid" "1143810"
+"common"
+{
+	"name" "Black Skylands"
+	"type" "Game"
+	"logo" "a68b68ac9a8ffac687cbbc2dede57b3ef4a64319"
+	"logo_small" "a68b68ac9a8ffac687cbbc2dede57b3ef4a64319_thumb"
+	"icon" "c278b86884ab9f0dc050dfe45bef174eba781239"
+	"clienticon" "fafa0f7194f8222fb99ca8dca5bdf2da4c840a1f"
+	"clienttga" "f725c9bb758bdfe98f5ea38c09309ed8c4dd8be2"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "云端掠影 (Black Skylands)"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1648080000"
+		"tested_build_id" "8229293"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"metacritic_name" "Black Skylands"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"thai" "capsule_231x87_thai.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"vietnamese" "capsule_231x87_vietnamese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"koreana" "header_koreana.jpg"
+		"thai" "header_thai.jpg"
+		"japanese" "header_japanese.jpg"
+		"vietnamese" "header_vietnamese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "30.630105017502927"
+			"height_pct" "50.75991450961767"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "30.630105017502927"
+				"height_pct" "50.75991450961767"
+			}
+		}
+	}
+	"store_asset_mtime" "1728383447"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Hungry Couch Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "tinyBuild"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "tinyBuild"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1692111101"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1143810"
+	"store_tags"
+	{
+		"0" "3964"
+		"1" "1695"
+		"2" "3810"
+		"3" "599"
+		"4" "7332"
+		"5" "492"
+		"6" "4166"
+		"7" "122"
+		"8" "4637"
+		"9" "1662"
+		"10" "4182"
+		"11" "1777"
+		"12" "4747"
+		"13" "5125"
+		"14" "1702"
+		"15" "19"
+		"16" "3942"
+		"17" "21"
+		"18" "5411"
+		"19" "1742"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Hungry Couch Games"
+	"publisher" "tinyBuild"
+	"homepage" "https://blackskylands.com/"
+	"listofdlc" "1799480,2464550"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Black Skylands"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BlackSkylands.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamconfigurator3rdpartynative" "65532"
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1143811"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5224793207505021424"
+				"size" "2154414315"
+				"download" "609034064"
+			}
+			"early_access_game_version"
+			{
+				"gid" "7848186605010147561"
+				"size" "1731746300"
+				"download" "480519920"
+			}
+		}
+	}
+	"1799480"
+	{
+		"dlcappid" "1799480"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "759178657290305600"
+				"size" "76824"
+				"download" "46144"
+			}
+			"early_access_game_version"
+			{
+				"gid" "1887004266373643662"
+				"size" "75189"
+				"download" "44992"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12247500"
+			"timeupdated" "1695390970"
+		}
+		"early_access_game_version"
+		{
+			"buildid" "10154807"
+			"description" "Early_access_game_version"
+			"timeupdated" "1691752479"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "HungryCouch/BlackSkylands/ReleaseSaves"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27651497"
+"_sha" "4d43aedb8e79797a63110c711409abcc5ab1c82b"
+"_size" "6924"
