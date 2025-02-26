@@ -1,0 +1,760 @@
+"appid" "569480"
+"common"
+{
+	"name" "Kingdoms and Castles"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"icon" "0d90135b3a98192a85f90d3564f670d7bf95e2b3"
+	"logo" "0c72cfbbc9da28f9c87a2f43eb2a33908d9d92ee"
+	"logo_small" "0c72cfbbc9da28f9c87a2f43eb2a33908d9d92ee_thumb"
+	"clienticon" "acd5e3285e40120995fe6dae43961e3777e4396a"
+	"clienttga" "b7af197454ea5e8300ff1c3178f5bcae5afaa990"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1701302400"
+		"tested_build_id" "12787081"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "36"
+			"height_pct" "52"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "36"
+				"height_pct" "52"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1686933672"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Lion Shield, LLC"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Lion Shield, LLC"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Lion Shield"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_42" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_17" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1500566040"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "569480"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "220585"
+		"2" "9"
+		"3" "4172"
+		"4" "1643"
+		"5" "599"
+		"6" "3810"
+		"7" "8945"
+		"8" "7332"
+		"9" "4182"
+		"10" "1662"
+		"11" "12472"
+		"12" "1676"
+		"13" "4695"
+		"14" "19"
+		"15" "4305"
+		"16" "1654"
+		"17" "1695"
+		"18" "1756"
+		"19" "1702"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Lion Shield, LLC"
+	"publisher" "Lion Shield, LLC"
+	"homepage" "http://kingdomsandcastles.com/"
+	"listofdlc" "1764300"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Kingdoms and Castles"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "KingdomsAndCastles.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Kingdoms and Castles.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "KingdomsAndCastles.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1958581545"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "5"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"workshopdepot" "569480"
+	"569481"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2280881462618114424"
+				"size" "849286365"
+				"download" "398652640"
+			}
+			"beautification(v112r5)"
+			{
+				"gid" "7357590645624386131"
+				"size" "553620116"
+				"download" "324204672"
+			}
+			"grandbuildings(v111r4)"
+			{
+				"gid" "5525914293925384713"
+				"size" "529500734"
+				"download" "319533184"
+			}
+			"infrastructure-2"
+			{
+				"gid" "933765686418293562"
+				"size" "557556176"
+				"download" "325100832"
+			}
+			"v117r7"
+			{
+				"gid" "3054683234284698310"
+				"size" "579991144"
+				"download" "329617600"
+			}
+			"v118r10"
+			{
+				"gid" "6046483412353182769"
+				"size" "839346404"
+				"download" "391399712"
+			}
+			"v119r4"
+			{
+				"gid" "7041817538307442620"
+				"size" "841132264"
+				"download" "391891728"
+			}
+			"warfare(v115r12)"
+			{
+				"gid" "9109498924895383225"
+				"size" "563700584"
+				"download" "325217504"
+			}
+			"witchesandwolves(v113r11)"
+			{
+				"gid" "1749074453177966501"
+				"size" "557006072"
+				"download" "324818480"
+			}
+			"next-version-preview"
+			{
+				"gid" "5511820600368869188"
+				"size" "935588806"
+				"download" "413515328"
+			}
+		}
+	}
+	"569482"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4483225258346151468"
+				"size" "847225785"
+				"download" "398920464"
+			}
+			"beautification(v112r5)"
+			{
+				"gid" "8071364160419704258"
+				"size" "616462100"
+				"download" "331868400"
+			}
+			"grandbuildings(v111r4)"
+			{
+				"gid" "7989056057263592102"
+				"size" "624476288"
+				"download" "336577696"
+			}
+			"infrastructure-2"
+			{
+				"gid" "1107013919558376220"
+				"size" "620571000"
+				"download" "332872640"
+			}
+			"v117r7"
+			{
+				"gid" "326984945310261486"
+				"size" "651100959"
+				"download" "339737504"
+			}
+			"v118r10"
+			{
+				"gid" "7177887229059679824"
+				"size" "838855882"
+				"download" "394557232"
+			}
+			"v119r4"
+			{
+				"gid" "3668343802428222621"
+				"size" "840664029"
+				"download" "395032960"
+			}
+			"warfare(v115r12)"
+			{
+				"gid" "5632101535907736980"
+				"size" "626910865"
+				"download" "333067600"
+			}
+			"witchesandwolves(v113r11)"
+			{
+				"gid" "2263032426896342484"
+				"size" "619851657"
+				"download" "332487952"
+			}
+			"next-version-preview"
+			{
+				"gid" "3615204055778678885"
+				"size" "914230918"
+				"download" "411017008"
+			}
+		}
+	}
+	"569483"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7659867263686198522"
+				"size" "856674741"
+				"download" "403082672"
+			}
+			"beautification(v112r5)"
+			{
+				"gid" "4753409506192294295"
+				"size" "556096565"
+				"download" "334622496"
+			}
+			"grandbuildings(v111r4)"
+			{
+				"gid" "7368235875037956709"
+				"size" "542547420"
+				"download" "331146656"
+			}
+			"infrastructure-2"
+			{
+				"gid" "8142048750079798554"
+				"size" "560396969"
+				"download" "335772000"
+			}
+			"v117r7"
+			{
+				"gid" "2601079516643754477"
+				"size" "596549729"
+				"download" "344323040"
+			}
+			"v118r10"
+			{
+				"gid" "343872071545586452"
+				"size" "835862116"
+				"download" "393907840"
+			}
+			"v119r4"
+			{
+				"gid" "8725286576168977773"
+				"size" "837687160"
+				"download" "394393904"
+			}
+			"warfare(v115r12)"
+			{
+				"gid" "8024622766566607399"
+				"size" "566742601"
+				"download" "335925792"
+			}
+			"witchesandwolves(v113r11)"
+			{
+				"gid" "4262527235239049455"
+				"size" "559494409"
+				"download" "335257872"
+			}
+			"next-version-preview"
+			{
+				"gid" "4452047481349166605"
+				"size" "886447614"
+				"download" "410831824"
+			}
+		}
+	}
+	"569484"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3485094590771445481"
+				"size" "870707685"
+				"download" "402488672"
+			}
+			"beautification(v112r5)"
+			{
+				"gid" "2733223439977369976"
+				"size" "565823052"
+				"download" "326494272"
+			}
+			"grandbuildings(v111r4)"
+			{
+				"gid" "7399353241842433678"
+				"size" "540534891"
+				"download" "321324208"
+			}
+			"infrastructure-2"
+			{
+				"gid" "436585659329297892"
+				"size" "569759112"
+				"download" "327404848"
+			}
+			"v117r7"
+			{
+				"gid" "2660306885626814056"
+				"size" "605085520"
+				"download" "335080544"
+			}
+			"v118r10"
+			{
+				"gid" "8752637039257835686"
+				"size" "849389948"
+				"download" "395089616"
+			}
+			"v119r4"
+			{
+				"gid" "6538408849137178811"
+				"size" "851181072"
+				"download" "395589360"
+			}
+			"warfare(v115r12)"
+			{
+				"gid" "6361368141173399747"
+				"size" "575840616"
+				"download" "327521840"
+			}
+			"witchesandwolves(v113r11)"
+			{
+				"gid" "7026237006365583013"
+				"size" "569209008"
+				"download" "327119776"
+			}
+			"next-version-preview"
+			{
+				"gid" "7321519609372105365"
+				"size" "943835890"
+				"download" "417412832"
+			}
+		}
+	}
+	"1764300"
+	{
+		"dlcappid" "1764300"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "560996320981635436"
+				"size" "304942578"
+				"download" "309103952"
+			}
+			"v117r7"
+			{
+				"gid" "1783520281209735128"
+				"size" "304854143"
+				"download" "309009920"
+			}
+			"v118r10"
+			{
+				"gid" "47782271215827635"
+				"size" "304658063"
+				"download" "308815520"
+			}
+			"v119r4"
+			{
+				"gid" "8887729153537618694"
+				"size" "304669167"
+				"download" "308827088"
+			}
+			"next-version-preview"
+			{
+				"gid" "6828475910667003086"
+				"size" "304990961"
+				"download" "309154496"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12845305"
+			"timeupdated" "1701443734"
+		}
+		"beautification(v112r5)"
+		{
+			"buildid" "3139759"
+			"timeupdated" "1540871706"
+		}
+		"grandbuildings(v111r4)"
+		{
+			"buildid" "2965377"
+			"timeupdated" "1540871720"
+		}
+		"infrastructure-2"
+		{
+			"buildid" "3528571"
+			"description" "114r6"
+			"timeupdated" "1560269570"
+		}
+		"v117r7"
+		{
+			"buildid" "8793370"
+			"description" "version 117r7"
+			"timeupdated" "1653322097"
+		}
+		"v118r10"
+		{
+			"buildid" "9075704"
+			"description" "version 118r10"
+			"timeupdated" "1664408666"
+		}
+		"v119r4"
+		{
+			"buildid" "9718070"
+			"description" "version 119r4"
+			"timeupdated" "1667495620"
+		}
+		"warfare(v115r12)"
+		{
+			"buildid" "3965289"
+			"timeupdated" "1573005153"
+		}
+		"witchesandwolves(v113r11)"
+		{
+			"buildid" "3282139"
+			"timeupdated" "1548281508"
+		}
+		"next-version-preview"
+		{
+			"buildid" "17230801"
+			"description" "Beta"
+			"timeupdated" "1738625769"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "LionShield/Kingdoms and Castles/Saves"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgConfigHome"
+			"addpath" "unity3d/"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27298238"
+"_sha" "465675cbfaa7f09e5a41d09846b8402807f536c7"
+"_size" "13377"
