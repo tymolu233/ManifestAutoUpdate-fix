@@ -1,0 +1,126 @@
+"appid" "380880"
+"common"
+{
+	"name" "Project Zomboid Modding Tools"
+	"section_type" "ownersonly"
+	"type" "Tool"
+	"oslist" "windows"
+	"logo" "346421b034310b16b40eaf1186c17eda256c2977"
+	"logo_small" "346421b034310b16b40eaf1186c17eda256c2977_thumb"
+	"icon" "c390a67905ef5aac5b43caf5a1147c8b34bad4d5"
+	"clienticon" "16d32dd6f2f86e87bebb2058801f982d41ac5f33"
+	"clienttga" "6ae5286457ca5dfb0be124376edf0d4164c2c67a"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "380880"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Project Zomboid Modding Tools"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TileZed\\TileZed.exe"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"4"
+		{
+			"executable" "TileZed\\TileZed.exe"
+			"description" "Map Editor (TileZed)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"5"
+		{
+			"executable" "WorldEd\\PZWorldEd.exe"
+			"description" "World Editor (WorldEd)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"380881"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9086851148623825154"
+				"size" "149245781"
+				"download" "143454928"
+			}
+		}
+	}
+	"380882"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3973899519429338413"
+				"size" "49805984"
+				"download" "11184960"
+			}
+		}
+	}
+	"380883"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8391921726761242325"
+				"size" "57470041"
+				"download" "12624208"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8861041"
+			"timeupdated" "1654190559"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "dc1aff9de36701a0e5914ab94a54ccbb610bb9b3"
+"_size" "1955"
