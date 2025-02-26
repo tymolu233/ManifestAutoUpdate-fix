@@ -1,0 +1,1201 @@
+"appid" "234140"
+"common"
+{
+	"name" "Mad Max"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"logo" "f114c3cf063da97aac613bf408b465e50f43a644"
+	"logo_small" "f114c3cf063da97aac613bf408b465e50f43a644_thumb"
+	"clienticon" "e40bec3abe80f11ff457827a824ff9b454bf8a76"
+	"clienttga" "72268be6e54b3dca99481e349c62c1652f671a81"
+	"icon" "71a4dd52273b749f96913a48dd6f439fb5ddc23e"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "234140_eula_0"
+			"name" "Mad Max EULA"
+			"url" "http://store.steampowered.com//eula/234140_eula_0"
+		}
+	}
+	"clienticns" "81c0316e0ead60202a6a840995d176635e51ebd0"
+	"linuxclienticon" "3e6f5519d84240e82809103dc5f3f91cd9884e57"
+	"osarch" ""
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1669852800"
+		"tested_build_id" "1398848"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Mad Max"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "48"
+			"height_pct" "36"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "48"
+				"height_pct" "36"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1476984179"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Avalanche Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Warner Bros. Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Warner Bros. Interactive Entertainment"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "WB Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_43" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1443758400"
+	"metacritic_score" "73"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/mad-max\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "234140"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "11104"
+		"2" "3835"
+		"3" "19"
+		"4" "1644"
+		"5" "4182"
+		"6" "1662"
+		"7" "1697"
+		"8" "21"
+		"9" "3834"
+		"10" "1100687"
+		"11" "4166"
+		"12" "699"
+		"13" "1742"
+		"14" "3859"
+		"15" "3810"
+		"16" "122"
+		"17" "1774"
+		"18" "3814"
+		"19" "1678"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"checkpkgstate" "1"
+	"developer" "Avalanche Studios"
+	"gamedir" "ValveTestApp234140"
+	"homepage" "http://madmaxgame.com"
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateComingSoonNoPreload"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Warner Bros. Games"
+	"gamemanualurl" "https://store.steampowered.com/manual/234140/"
+	"listofdlc" "373550,373551,374352,374353,374354,374355"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Mad Max"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "MadMax.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Mad Max.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "MadMax.sh"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "3"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1878925463"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,russian,japanese,polish,brazilian"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"234141"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6004018614475068250"
+				"size" "34128991872"
+				"download" "26218364624"
+			}
+			"vulkan_beta"
+			{
+				"gid" "6004018614475068250"
+				"size" "34128991872"
+				"download" "26218364624"
+			}
+		}
+	}
+	"234142"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7604024359222969141"
+				"size" "88920994"
+				"download" "69131088"
+			}
+			"vulkan_beta"
+			{
+				"gid" "7604024359222969141"
+				"size" "88920994"
+				"download" "69131088"
+			}
+		}
+	}
+	"234143"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "273984200055107202"
+				"size" "34016680336"
+				"download" "26418231456"
+			}
+			"vulkan_beta"
+			{
+				"gid" "273984200055107202"
+				"size" "34016680336"
+				"download" "26418231456"
+			}
+		}
+	}
+	"234144"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7800851279563387786"
+				"size" "88724386"
+				"download" "68927344"
+			}
+			"vulkan_beta"
+			{
+				"gid" "7800851279563387786"
+				"size" "88724386"
+				"download" "68927344"
+			}
+		}
+	}
+	"373551"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "820079142899659198"
+				"size" "37724312"
+				"download" "37759936"
+			}
+			"vulkan_beta"
+			{
+				"gid" "820079142899659198"
+				"size" "37724312"
+				"download" "37759936"
+			}
+		}
+		"dlcappid" "373551"
+	}
+	"373550"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4932364438208165087"
+				"size" "183379728"
+				"download" "179589760"
+			}
+			"vulkan_beta"
+			{
+				"gid" "4932364438208165087"
+				"size" "183379728"
+				"download" "179589760"
+			}
+		}
+		"dlcappid" "373550"
+	}
+	"374352"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "989318466771708296"
+				"size" "1060992"
+				"download" "1049520"
+			}
+			"vulkan_beta"
+			{
+				"gid" "989318466771708296"
+				"size" "1060992"
+				"download" "1049520"
+			}
+		}
+		"dlcappid" "374352"
+	}
+	"374353"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "726284545439160442"
+				"size" "1097856"
+				"download" "1047184"
+			}
+			"vulkan_beta"
+			{
+				"gid" "726284545439160442"
+				"size" "1097856"
+				"download" "1047184"
+			}
+		}
+		"dlcappid" "374353"
+	}
+	"374354"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "177057563991069594"
+				"size" "1116288"
+				"download" "1081424"
+			}
+			"vulkan_beta"
+			{
+				"gid" "177057563991069594"
+				"size" "1116288"
+				"download" "1081424"
+			}
+		}
+		"dlcappid" "374354"
+	}
+	"374355"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "700117122979318819"
+				"size" "960640"
+				"download" "957872"
+			}
+			"vulkan_beta"
+			{
+				"gid" "700117122979318819"
+				"size" "960640"
+				"download" "957872"
+			}
+		}
+		"dlcappid" "374355"
+	}
+	"234145"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6871763131342962475"
+				"size" "34244343851"
+				"download" "26328573424"
+			}
+			"local"
+			{
+				"gid" "4805684216507492954"
+				"size" "34244343851"
+				"download" "26329632432"
+			}
+			"vulkan_beta"
+			{
+				"gid" "6871763131342962475"
+				"size" "34244343851"
+				"download" "26328573424"
+			}
+		}
+	}
+	"234146"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1437160614351829967"
+				"size" "300052410"
+				"download" "88538112"
+			}
+			"local"
+			{
+				"gid" "8834124170218194768"
+				"size" "251762098"
+				"download" "76653040"
+			}
+			"vulkan_beta"
+			{
+				"gid" "5400569535504258405"
+				"size" "251783029"
+				"download" "76656528"
+			}
+		}
+	}
+	"234147"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4452918123786175018"
+				"size" "85828103"
+				"download" "29820336"
+			}
+			"local"
+			{
+				"gid" "755052348620430780"
+				"size" "125308780"
+				"download" "34220128"
+			}
+			"vulkan_beta"
+			{
+				"gid" "4452918123786175018"
+				"size" "85828103"
+				"download" "29820336"
+			}
+		}
+	}
+	"234148"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4911387789381725297"
+				"size" "34244343851"
+				"download" "26328573424"
+			}
+			"local"
+			{
+				"gid" "128458967428436103"
+				"size" "34244343851"
+				"download" "26328573424"
+			}
+			"vulkan_beta"
+			{
+				"gid" "128458967428436103"
+				"size" "34244343851"
+				"download" "26328573424"
+			}
+		}
+	}
+	"234149"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1494182794899431977"
+				"size" "34132032315"
+				"download" "26529317424"
+			}
+			"local"
+			{
+				"gid" "189096715133549725"
+				"size" "34132032315"
+				"download" "26529317424"
+			}
+			"vulkan_beta"
+			{
+				"gid" "1494182794899431977"
+				"size" "34132032315"
+				"download" "26529317424"
+			}
+		}
+	}
+	"234150"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6730309304453428738"
+				"size" "34132032315"
+				"download" "26529317424"
+			}
+			"local"
+			{
+				"gid" "251806874830127053"
+				"size" "34132032315"
+				"download" "26529317424"
+			}
+			"vulkan_beta"
+			{
+				"gid" "6730309304453428738"
+				"size" "34132032315"
+				"download" "26529317424"
+			}
+		}
+	}
+	"234151"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6503282405136282466"
+				"size" "85596747"
+				"download" "29818096"
+			}
+			"local"
+			{
+				"gid" "3002244746234378502"
+				"size" "85736284"
+				"download" "29847008"
+			}
+			"vulkan_beta"
+			{
+				"gid" "6503282405136282466"
+				"size" "85596747"
+				"download" "29818096"
+			}
+		}
+	}
+	"234152"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "113121977366949196"
+				"size" "300052427"
+				"download" "88538144"
+			}
+			"local"
+			{
+				"gid" "2037351635636971880"
+				"size" "300323923"
+				"download" "88602480"
+			}
+			"vulkan_beta"
+			{
+				"gid" "113121977366949196"
+				"size" "300052427"
+				"download" "88538144"
+			}
+		}
+	}
+	"234153"
+	{
+		"dlcappid" "373551"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5851192728361296415"
+				"size" "37724312"
+				"download" "37759872"
+			}
+			"local"
+			{
+				"gid" "22362268789753319"
+				"size" "37724312"
+				"download" "37759872"
+			}
+			"vulkan_beta"
+			{
+				"gid" "5851192728361296415"
+				"size" "37724312"
+				"download" "37759872"
+			}
+		}
+	}
+	"234154"
+	{
+		"dlcappid" "373551"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "110331523549270106"
+				"size" "37724312"
+				"download" "37759872"
+			}
+			"local"
+			{
+				"gid" "110331523549270106"
+				"size" "37724312"
+				"download" "37759872"
+			}
+			"vulkan_beta"
+			{
+				"gid" "110331523549270106"
+				"size" "37724312"
+				"download" "37759872"
+			}
+		}
+	}
+	"234155"
+	{
+		"dlcappid" "373550"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6821441133654417075"
+				"size" "183379728"
+				"download" "179589760"
+			}
+			"local"
+			{
+				"gid" "284832138729971475"
+				"size" "183379728"
+				"download" "179589760"
+			}
+			"vulkan_beta"
+			{
+				"gid" "6821441133654417075"
+				"size" "183379728"
+				"download" "179589760"
+			}
+		}
+	}
+	"234156"
+	{
+		"dlcappid" "373550"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3595695641508003121"
+				"size" "183379728"
+				"download" "179589760"
+			}
+			"local"
+			{
+				"gid" "98108825100258606"
+				"size" "183379728"
+				"download" "179589760"
+			}
+			"vulkan_beta"
+			{
+				"gid" "98108825100258606"
+				"size" "183379728"
+				"download" "179589760"
+			}
+		}
+	}
+	"234157"
+	{
+		"dlcappid" "374352"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4297529729663917397"
+				"size" "1060992"
+				"download" "1049520"
+			}
+			"local"
+			{
+				"gid" "16981328593629160"
+				"size" "1060992"
+				"download" "1049520"
+			}
+			"vulkan_beta"
+			{
+				"gid" "4297529729663917397"
+				"size" "1060992"
+				"download" "1049520"
+			}
+		}
+	}
+	"234158"
+	{
+		"dlcappid" "374352"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8628164927010861969"
+				"size" "1060992"
+				"download" "1049520"
+			}
+			"local"
+			{
+				"gid" "347856540917567869"
+				"size" "1060992"
+				"download" "1049520"
+			}
+			"vulkan_beta"
+			{
+				"gid" "347856540917567869"
+				"size" "1060992"
+				"download" "1049520"
+			}
+		}
+	}
+	"234159"
+	{
+		"dlcappid" "374353"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8469086995851582363"
+				"size" "1097856"
+				"download" "1047184"
+			}
+			"local"
+			{
+				"gid" "47258134476728760"
+				"size" "1097856"
+				"download" "1047184"
+			}
+			"vulkan_beta"
+			{
+				"gid" "8469086995851582363"
+				"size" "1097856"
+				"download" "1047184"
+			}
+		}
+	}
+	"373552"
+	{
+		"dlcappid" "374353"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1857001457470141853"
+				"size" "1097856"
+				"download" "1047184"
+			}
+			"local"
+			{
+				"gid" "123331325485737315"
+				"size" "1097856"
+				"download" "1047184"
+			}
+			"vulkan_beta"
+			{
+				"gid" "123331325485737315"
+				"size" "1097856"
+				"download" "1047184"
+			}
+		}
+	}
+	"373553"
+	{
+		"dlcappid" "374354"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5140022686851769258"
+				"size" "1116288"
+				"download" "1081424"
+			}
+			"local"
+			{
+				"gid" "14949277848910117"
+				"size" "1116288"
+				"download" "1081424"
+			}
+			"vulkan_beta"
+			{
+				"gid" "5140022686851769258"
+				"size" "1116288"
+				"download" "1081424"
+			}
+		}
+	}
+	"373554"
+	{
+		"dlcappid" "374354"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1798513877711301960"
+				"size" "1116288"
+				"download" "1081424"
+			}
+			"local"
+			{
+				"gid" "39621013377778661"
+				"size" "1116288"
+				"download" "1081424"
+			}
+			"vulkan_beta"
+			{
+				"gid" "39621013377778661"
+				"size" "1116288"
+				"download" "1081424"
+			}
+		}
+	}
+	"373555"
+	{
+		"dlcappid" "374355"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1483598444702058493"
+				"size" "960640"
+				"download" "957872"
+			}
+			"local"
+			{
+				"gid" "23693863909871722"
+				"size" "960640"
+				"download" "957872"
+			}
+			"vulkan_beta"
+			{
+				"gid" "1483598444702058493"
+				"size" "960640"
+				"download" "957872"
+			}
+		}
+	}
+	"373556"
+	{
+		"dlcappid" "374355"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7674523985208991656"
+				"size" "960640"
+				"download" "957872"
+			}
+			"local"
+			{
+				"gid" "48393311324277055"
+				"size" "960640"
+				"download" "957872"
+			}
+			"vulkan_beta"
+			{
+				"gid" "48393311324277055"
+				"size" "960640"
+				"download" "957872"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1398848"
+			"timeupdated" "1476952590"
+		}
+		"local"
+		{
+			"buildid" "1717921"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1490636040"
+		}
+		"vulkan_beta"
+		{
+			"buildid" "1776864"
+			"description" "Experimental Update"
+			"timeupdated" "1493030983"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "41943040"
+	"maxnumfiles" "50"
+}
+"_missing_token" "False"
+"_change_number" "27103037"
+"_sha" "ebc3a628274e3282914e12accc5d68282669ca10"
+"_size" "19404"
