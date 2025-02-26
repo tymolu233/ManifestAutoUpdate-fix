@@ -1,0 +1,1987 @@
+"appid" "292030"
+"common"
+{
+	"name" "The Witcher 3: Wild Hunt"
+	"type" "Game"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"arabic" "1"
+		"brazilian" "1"
+	}
+	"oslist" "windows"
+	"logo" "2f22c2e5528b78662988dfcb0fc9aad372f01686"
+	"logo_small" "2f22c2e5528b78662988dfcb0fc9aad372f01686_thumb"
+	"icon" "6e43cb881e60712c3cccdd7f871baa56acf15328"
+	"clienticon" "b0ff6bdb2da01a5924a7f67359af45b8c69ff5b9"
+	"clienttga" "b8ec0c6b26873de00eb3e77f7b4ed02e630de227"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "292030_eula_0"
+			"name" "The Witcher 3: Wild Hunt EULA"
+			"url" "http://store.steampowered.com//eula/292030_eula_0"
+			"version" "1"
+		}
+	}
+	"name_localized"
+	{
+		"russian" "Ведьмак 3: Дикая Охота"
+		"polish" "Wiedźmin 3: Dziki Gon"
+		"schinese" "巫师 3：狂猎"
+		"czech" "Zaklínač 3: Divoký hon"
+		"ukrainian" "Відьмак 3: Дикий гін"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1681862400"
+		"tested_build_id" "10833438"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-1"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "The Witcher 3: Wild Hunt"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"polish" "capsule_231x87_polish.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"czech" "capsule_231x87_czech.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"czech" "header_czech.jpg"
+		"polish" "header_polish.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"russian" "header_russian.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "ru,zh-cn,cs,en,pl,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,ru,cs,pl,zh-tw,zh-cn"
+		"library_header" "cs,pl,ru,en,zh-tw,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "29.029206046483623"
+			"height_pct" "51.59147993272685"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"russian" "library_600x900_russian.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"czech" "library_600x900_czech.jpg"
+				"english" "library_600x900.jpg"
+				"polish" "library_600x900_polish.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"russian" "library_600x900_russian_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"czech" "library_600x900_czech_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+				"polish" "library_600x900_polish_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "29.029206046483623"
+				"height_pct" "51.59147993272685"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"russian" "logo_russian.png"
+				"czech" "logo_czech.png"
+				"polish" "logo_polish.png"
+				"tchinese" "logo_tchinese.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"russian" "logo_russian_2x.png"
+				"czech" "logo_czech_2x.png"
+				"polish" "logo_polish_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"czech" "493177551564fcce022e6c7098810c4de44568f8/library_header_czech.jpg"
+				"polish" "1c3f6e3c00c42d8de000c345a73e04f84d9a7127/library_header_polish.jpg"
+				"russian" "47273f809e429a272f35c252b49d9bba83e2cf30/library_header_russian.jpg"
+				"english" "ad9240e088f953a84aee814034c50a6a92bf4516/library_header.jpg"
+				"tchinese" "6e3719b47cde610a8f1faccefefb6ba8c5748644/library_header_tchinese.jpg"
+				"schinese" "eb2f071040ff86119feb2bd97e2cd283cc40b7e5/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"czech" "493177551564fcce022e6c7098810c4de44568f8/library_header_czech_2x.jpg"
+				"polish" "1c3f6e3c00c42d8de000c345a73e04f84d9a7127/library_header_polish_2x.jpg"
+				"russian" "47273f809e429a272f35c252b49d9bba83e2cf30/library_header_russian_2x.jpg"
+				"english" "ad9240e088f953a84aee814034c50a6a92bf4516/library_header_2x.jpg"
+				"tchinese" "6e3719b47cde610a8f1faccefefb6ba8c5748644/library_header_tchinese_2x.jpg"
+				"schinese" "eb2f071040ff86119feb2bd97e2cd283cc40b7e5/library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1736423667"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CD PROJEKT RED"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CD PROJEKT RED"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "THE WITCHER®"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_43" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1431986400"
+	"metacritic_score" "93"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/the-witcher-3-wild-hunt\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "292030"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "122"
+		"2" "1742"
+		"3" "4166"
+		"4" "5611"
+		"5" "1684"
+		"6" "21"
+		"7" "4182"
+		"8" "6650"
+		"9" "6426"
+		"10" "1756"
+		"11" "1697"
+		"12" "4172"
+		"13" "19"
+		"14" "6971"
+		"15" "4231"
+		"16" "4604"
+		"17" "4057"
+		"18" "4342"
+		"19" "3810"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+	"review_score_bombs" "9"
+	"review_percentage_bombs" "96"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default"
+	"developer" "CD PROJEKT RED"
+	"publisher" "CD PROJEKT RED"
+	"homepage" "https://www.thewitcher.com/witcher3"
+	"gamemanualurl" "https://store.steampowered.com/manual/292030/"
+	"listofdlc" "355880,370000,370001,370002,370003,373950,373951,376390,376391,378640,378641,378642,378643,378644,378645,378646,378647,378648,378649"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "The Witcher 3"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "redprelauncher.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2109125429"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollerconfigdetails"
+	{
+		"551345484"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,polish,hungarian,czech,arabic,brazilian"
+	"workshopdepot" "292030"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"292031"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1714062795524118335"
+				"size" "38795164504"
+				"download" "34642186960"
+			}
+			"classic"
+			{
+				"gid" "1383808000755504545"
+				"size" "32673153670"
+				"download" "27629929536"
+			}
+			"workshop_test"
+			{
+				"gid" "7524807930142120913"
+				"size" "38795303272"
+				"download" "34642643456"
+			}
+		}
+	}
+	"292032"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3490723872095446153"
+				"size" "367553355"
+				"download" "95563856"
+			}
+			"classic"
+			{
+				"gid" "4005678493423036387"
+				"size" "57960553"
+				"download" "12830464"
+			}
+			"workshop_test"
+			{
+				"gid" "2797187767871953118"
+				"size" "367510595"
+				"download" "95550000"
+			}
+		}
+	}
+	"292034"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8082988454426507412"
+				"size" "60211486"
+				"download" "9245568"
+			}
+			"classic"
+			{
+				"gid" "8408545504167686271"
+				"size" "32382973"
+				"download" "4669808"
+			}
+			"workshop_test"
+			{
+				"gid" "2286225717767467236"
+				"size" "60211486"
+				"download" "9237840"
+			}
+		}
+	}
+	"292035"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5593726038514618994"
+				"size" "2649810401"
+				"download" "2441660608"
+			}
+			"classic"
+			{
+				"gid" "4571338791099885182"
+				"size" "3089070341"
+				"download" "2577263744"
+			}
+			"workshop_test"
+			{
+				"gid" "4998169506631475552"
+				"size" "2649810401"
+				"download" "2441655872"
+			}
+		}
+	}
+	"292036"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3491360665020245284"
+				"size" "2715240344"
+				"download" "2497801216"
+			}
+			"classic"
+			{
+				"gid" "3165406379888910705"
+				"size" "3119149520"
+				"download" "2607507312"
+			}
+			"workshop_test"
+			{
+				"gid" "8525618801314546579"
+				"size" "2715240344"
+				"download" "2497802176"
+			}
+		}
+	}
+	"292037"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3817923221097690740"
+				"size" "2767688055"
+				"download" "2560085360"
+			}
+			"classic"
+			{
+				"gid" "3322641198392619953"
+				"size" "3227422696"
+				"download" "2726316336"
+			}
+			"workshop_test"
+			{
+				"gid" "3398799893661368344"
+				"size" "2767688055"
+				"download" "2560086464"
+			}
+		}
+	}
+	"292038"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1227805940310364169"
+				"size" "2619989931"
+				"download" "2413199680"
+			}
+			"classic"
+			{
+				"gid" "421042358751787059"
+				"size" "3109841284"
+				"download" "2609370256"
+			}
+			"workshop_test"
+			{
+				"gid" "3328540670276162871"
+				"size" "2619989931"
+				"download" "2413200672"
+			}
+		}
+	}
+	"292039"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5480433155299939110"
+				"size" "2885663640"
+				"download" "2658626912"
+			}
+			"classic"
+			{
+				"gid" "6979253993751658554"
+				"size" "3715079818"
+				"download" "3131757792"
+			}
+			"workshop_test"
+			{
+				"gid" "1873793399618501044"
+				"size" "2885663640"
+				"download" "2658633616"
+			}
+		}
+	}
+	"292040"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8125275595906123923"
+				"size" "2821809559"
+				"download" "2597443040"
+			}
+			"classic"
+			{
+				"gid" "3029122441397057861"
+				"size" "3167011291"
+				"download" "2648962816"
+			}
+			"workshop_test"
+			{
+				"gid" "7670364956211626930"
+				"size" "2821809559"
+				"download" "2597442128"
+			}
+		}
+	}
+	"292041"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4823902935523134760"
+				"size" "2733063464"
+				"download" "2520803104"
+			}
+			"classic"
+			{
+				"gid" "5992426442998085149"
+				"size" "3107559912"
+				"download" "2600379360"
+			}
+			"workshop_test"
+			{
+				"gid" "9199168913675522560"
+				"size" "2733063464"
+				"download" "2520808288"
+			}
+		}
+	}
+	"292042"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "99458089550221039"
+				"size" "176847360"
+				"download" "29282448"
+			}
+			"classic"
+			{
+				"gid" "5386546338585218525"
+				"size" "47736832"
+				"download" "12986656"
+			}
+			"workshop_test"
+			{
+				"gid" "4237622710627441162"
+				"size" "176814592"
+				"download" "29291984"
+			}
+		}
+	}
+	"370000"
+	{
+		"dlcappid" "370000"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1458194560961361295"
+				"size" "64389156"
+				"download" "64712912"
+			}
+			"classic"
+			{
+				"gid" "6754592371078633094"
+				"size" "20170975"
+				"download" "19924528"
+			}
+			"workshop_test"
+			{
+				"gid" "2633275271006145325"
+				"size" "64389156"
+				"download" "64713312"
+			}
+		}
+	}
+	"370001"
+	{
+		"dlcappid" "370001"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5979725543926398369"
+				"size" "19244721"
+				"download" "17805328"
+			}
+			"classic"
+			{
+				"gid" "2123820691647700796"
+				"size" "18063691"
+				"download" "14901440"
+			}
+			"workshop_test"
+			{
+				"gid" "2567966309172350507"
+				"size" "19244817"
+				"download" "17807872"
+			}
+		}
+	}
+	"370003"
+	{
+		"dlcappid" "370003"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5453197123234356101"
+				"size" "33423809"
+				"download" "30763984"
+			}
+			"classic"
+			{
+				"gid" "3783277845123100762"
+				"size" "29342684"
+				"download" "24809808"
+			}
+			"workshop_test"
+			{
+				"gid" "6731918067662400611"
+				"size" "33423825"
+				"download" "30764256"
+			}
+		}
+	}
+	"370002"
+	{
+		"dlcappid" "370002"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "484236434286524845"
+				"size" "17306453"
+				"download" "17246080"
+			}
+			"classic"
+			{
+				"gid" "1183907436675245007"
+				"size" "17503401"
+				"download" "17327344"
+			}
+			"workshop_test"
+			{
+				"gid" "7881323052094697898"
+				"size" "17306469"
+				"download" "17246064"
+			}
+		}
+	}
+	"292033"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5639169236463762487"
+				"size" "4439952978"
+				"download" "3724906608"
+			}
+			"classic"
+			{
+				"gid" "5639169236463762487"
+				"size" "4439952978"
+				"download" "3724906608"
+			}
+			"workshop_test"
+			{
+				"gid" "5639169236463762487"
+				"size" "4439952978"
+				"download" "3724906608"
+			}
+		}
+	}
+	"373950"
+	{
+		"dlcappid" "373950"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7457326912183925734"
+				"size" "62676877"
+				"download" "62724336"
+			}
+			"classic"
+			{
+				"gid" "8036482907570547641"
+				"size" "29338107"
+				"download" "29074512"
+			}
+			"workshop_test"
+			{
+				"gid" "4354856846135836118"
+				"size" "62676877"
+				"download" "62724496"
+			}
+		}
+	}
+	"373951"
+	{
+		"dlcappid" "373951"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1015260686331095979"
+				"size" "5832244"
+				"download" "5817888"
+			}
+			"classic"
+			{
+				"gid" "7393197967227681390"
+				"size" "5891976"
+				"download" "5832544"
+			}
+			"workshop_test"
+			{
+				"gid" "2862437555037209960"
+				"size" "5832244"
+				"download" "5817840"
+			}
+		}
+	}
+	"376390"
+	{
+		"dlcappid" "376390"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4380995726432289642"
+				"size" "101830135"
+				"download" "92192704"
+			}
+			"classic"
+			{
+				"gid" "5457357262637939850"
+				"size" "93550302"
+				"download" "75161744"
+			}
+			"workshop_test"
+			{
+				"gid" "3261769056469968162"
+				"size" "101830247"
+				"download" "92190640"
+			}
+		}
+	}
+	"376391"
+	{
+		"dlcappid" "376391"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6437141662912268782"
+				"size" "931216"
+				"download" "905408"
+			}
+			"classic"
+			{
+				"gid" "1174721699882428209"
+				"size" "3933130"
+				"download" "3907312"
+			}
+			"workshop_test"
+			{
+				"gid" "780688875158576519"
+				"size" "931216"
+				"download" "905408"
+			}
+		}
+	}
+	"378642"
+	{
+		"dlcappid" "378642"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2210049775439183344"
+				"size" "148793864"
+				"download" "138835984"
+			}
+			"classic"
+			{
+				"gid" "6120398453205415979"
+				"size" "128365706"
+				"download" "111036656"
+			}
+			"workshop_test"
+			{
+				"gid" "5214499430892300362"
+				"size" "148793912"
+				"download" "138833712"
+			}
+		}
+	}
+	"378640"
+	{
+		"dlcappid" "378640"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5318422306227358494"
+				"size" "192475233"
+				"download" "192381040"
+			}
+			"classic"
+			{
+				"gid" "4194278256410465007"
+				"size" "54702226"
+				"download" "52923840"
+			}
+			"workshop_test"
+			{
+				"gid" "5111392784420404132"
+				"size" "192475265"
+				"download" "192375536"
+			}
+		}
+	}
+	"378641"
+	{
+		"dlcappid" "378641"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4647447917504831785"
+				"size" "12261078"
+				"download" "12234400"
+			}
+			"classic"
+			{
+				"gid" "7947357952624525520"
+				"size" "12483501"
+				"download" "12345520"
+			}
+			"workshop_test"
+			{
+				"gid" "8600490354368386887"
+				"size" "12261078"
+				"download" "12234512"
+			}
+		}
+	}
+	"378643"
+	{
+		"dlcappid" "378643"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "459508221271235268"
+				"size" "64906002"
+				"download" "65087008"
+			}
+			"classic"
+			{
+				"gid" "8757198111691945682"
+				"size" "34911420"
+				"download" "34674432"
+			}
+			"workshop_test"
+			{
+				"gid" "1438890024028489393"
+				"size" "64906002"
+				"download" "65086800"
+			}
+		}
+	}
+	"378644"
+	{
+		"dlcappid" "378644"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2928442289493234239"
+				"size" "63093545"
+				"download" "62617776"
+			}
+			"classic"
+			{
+				"gid" "3953608334983921864"
+				"size" "23693657"
+				"download" "22555104"
+			}
+			"workshop_test"
+			{
+				"gid" "4269230182021219344"
+				"size" "63093577"
+				"download" "62617792"
+			}
+		}
+	}
+	"378645"
+	{
+		"dlcappid" "378645"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6056630807565191690"
+				"size" "153418702"
+				"download" "142404768"
+			}
+			"classic"
+			{
+				"gid" "7330699567953797536"
+				"size" "138671017"
+				"download" "119620160"
+			}
+			"workshop_test"
+			{
+				"gid" "2765444111628749310"
+				"size" "153418750"
+				"download" "142403344"
+			}
+		}
+	}
+	"378646"
+	{
+		"dlcappid" "378646"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7313260968752741219"
+				"size" "1630016"
+				"download" "1596176"
+			}
+			"classic"
+			{
+				"gid" "485010395064154329"
+				"size" "1732415"
+				"download" "1601600"
+			}
+			"workshop_test"
+			{
+				"gid" "4576684847315828962"
+				"size" "1630032"
+				"download" "1596384"
+			}
+		}
+	}
+	"378647"
+	{
+		"dlcappid" "378647"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6347498022277232982"
+				"size" "13516"
+				"download" "7472"
+			}
+			"classic"
+			{
+				"gid" "6374504264360744096"
+				"size" "24508"
+				"download" "7072"
+			}
+			"workshop_test"
+			{
+				"gid" "9185622123981259570"
+				"size" "13516"
+				"download" "7472"
+			}
+		}
+	}
+	"378648"
+	{
+		"dlcappid" "378648"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5677496677655330654"
+				"size" "9158782436"
+				"download" "8847144064"
+			}
+			"classic"
+			{
+				"gid" "7446068858845329423"
+				"size" "8047652916"
+				"download" "7300135504"
+			}
+			"workshop_test"
+			{
+				"gid" "8851446531430979229"
+				"size" "9159216468"
+				"download" "8847635776"
+			}
+		}
+	}
+	"378649"
+	{
+		"dlcappid" "378649"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9216322386755119484"
+				"size" "1787207628"
+				"download" "1743391952"
+			}
+			"classic"
+			{
+				"gid" "711906333732248852"
+				"size" "1961202281"
+				"download" "1854295248"
+			}
+			"workshop_test"
+			{
+				"gid" "8339341878312096083"
+				"size" "1787209180"
+				"download" "1743438336"
+			}
+		}
+	}
+	"292043"
+	{
+		"dlcappid" "378649"
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2863314232165890237"
+				"size" "425466201"
+				"download" "394720240"
+			}
+			"classic"
+			{
+				"gid" "3633414997031415505"
+				"size" "472011701"
+				"download" "402852000"
+			}
+			"workshop_test"
+			{
+				"gid" "4373048864001766835"
+				"size" "425466201"
+				"download" "394720672"
+			}
+		}
+	}
+	"292044"
+	{
+		"dlcappid" "378649"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "908607634780300143"
+				"size" "401517780"
+				"download" "371060592"
+			}
+			"classic"
+			{
+				"gid" "9112418031206090218"
+				"size" "445211586"
+				"download" "377404752"
+			}
+			"workshop_test"
+			{
+				"gid" "7600958734384597360"
+				"size" "401517780"
+				"download" "371059568"
+			}
+		}
+	}
+	"292045"
+	{
+		"dlcappid" "378649"
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4620621685241046742"
+				"size" "412579844"
+				"download" "383524704"
+			}
+			"classic"
+			{
+				"gid" "2743558810486804946"
+				"size" "468618549"
+				"download" "401714032"
+			}
+			"workshop_test"
+			{
+				"gid" "2247081322166489158"
+				"size" "412579844"
+				"download" "383525472"
+			}
+		}
+	}
+	"292046"
+	{
+		"dlcappid" "378649"
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1699589270478816105"
+				"size" "398083512"
+				"download" "369120448"
+			}
+			"classic"
+			{
+				"gid" "4180207809736196718"
+				"size" "459734396"
+				"download" "392716176"
+			}
+			"workshop_test"
+			{
+				"gid" "4552157311439660158"
+				"size" "398083512"
+				"download" "369122336"
+			}
+		}
+	}
+	"292047"
+	{
+		"dlcappid" "378649"
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4188887637226014223"
+				"size" "412903504"
+				"download" "382080608"
+			}
+			"classic"
+			{
+				"gid" "7522849745690624312"
+				"size" "463305538"
+				"download" "394411296"
+			}
+			"workshop_test"
+			{
+				"gid" "268266578494549619"
+				"size" "412903504"
+				"download" "382078784"
+			}
+		}
+	}
+	"292048"
+	{
+		"dlcappid" "378649"
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5283427417482321933"
+				"size" "422183086"
+				"download" "390781072"
+			}
+			"classic"
+			{
+				"gid" "1423128299792223659"
+				"size" "468858360"
+				"download" "397826976"
+			}
+			"workshop_test"
+			{
+				"gid" "2420376002046224780"
+				"size" "422183086"
+				"download" "390778832"
+			}
+		}
+	}
+	"292049"
+	{
+		"dlcappid" "378649"
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7686086885054708771"
+				"size" "411803756"
+				"download" "381909584"
+			}
+			"classic"
+			{
+				"gid" "5200575748917019735"
+				"size" "454804406"
+				"download" "386686240"
+			}
+			"workshop_test"
+			{
+				"gid" "6043678285391839190"
+				"size" "411803756"
+				"download" "381910432"
+			}
+		}
+	}
+	"310611"
+	{
+		"dlcappid" "378649"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9087403118674428852"
+				"size" "262696726"
+				"download" "258006176"
+			}
+			"classic"
+			{
+				"gid" "9087403118674428852"
+				"size" "262696726"
+				"download" "258006176"
+			}
+			"workshop_test"
+			{
+				"gid" "9087403118674428852"
+				"size" "262696726"
+				"download" "258006176"
+			}
+		}
+	}
+	"310612"
+	{
+		"dlcappid" "378648"
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5455214373061651405"
+				"size" "1126945645"
+				"download" "1043090592"
+			}
+			"classic"
+			{
+				"gid" "6406497906802198023"
+				"size" "1261642774"
+				"download" "1076708944"
+			}
+			"workshop_test"
+			{
+				"gid" "4656314044682499692"
+				"size" "1126945645"
+				"download" "1043090352"
+			}
+		}
+	}
+	"310613"
+	{
+		"dlcappid" "378648"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2970969303001438150"
+				"size" "1061417259"
+				"download" "978842096"
+			}
+			"classic"
+			{
+				"gid" "8061815007703797548"
+				"size" "1187928541"
+				"download" "1007651184"
+			}
+			"workshop_test"
+			{
+				"gid" "1143219984417141119"
+				"size" "1061417259"
+				"download" "978843376"
+			}
+		}
+	}
+	"310614"
+	{
+		"dlcappid" "378648"
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1512711109507003050"
+				"size" "1065824219"
+				"download" "987831552"
+			}
+			"classic"
+			{
+				"gid" "3333787101637043754"
+				"size" "1224622462"
+				"download" "1048233488"
+			}
+			"workshop_test"
+			{
+				"gid" "1564865283519419900"
+				"size" "1065824219"
+				"download" "987831360"
+			}
+		}
+	}
+	"310615"
+	{
+		"dlcappid" "378648"
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8649692936145776844"
+				"size" "1068634963"
+				"download" "988453072"
+			}
+			"classic"
+			{
+				"gid" "560379058514842960"
+				"size" "1230297799"
+				"download" "1051068656"
+			}
+			"workshop_test"
+			{
+				"gid" "8122022030483683598"
+				"size" "1068634963"
+				"download" "988453376"
+			}
+		}
+	}
+	"310616"
+	{
+		"dlcappid" "378648"
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "81296909978179260"
+				"size" "1123992546"
+				"download" "1041681248"
+			}
+			"classic"
+			{
+				"gid" "8777371994501152028"
+				"size" "1254094221"
+				"download" "1070768880"
+			}
+			"workshop_test"
+			{
+				"gid" "5224275164679016747"
+				"size" "1123992546"
+				"download" "1041680880"
+			}
+		}
+	}
+	"310617"
+	{
+		"dlcappid" "378648"
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2115415390192780692"
+				"size" "1133887651"
+				"download" "1048750112"
+			}
+			"classic"
+			{
+				"gid" "1329443871539001030"
+				"size" "1269439425"
+				"download" "1082232800"
+			}
+			"workshop_test"
+			{
+				"gid" "789668943685762762"
+				"size" "1133887651"
+				"download" "1048740064"
+			}
+		}
+	}
+	"310618"
+	{
+		"dlcappid" "378648"
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "36196449033815259"
+				"size" "1071270623"
+				"download" "991929392"
+			}
+			"classic"
+			{
+				"gid" "8568341997403052330"
+				"size" "1192379238"
+				"download" "1013239472"
+			}
+			"workshop_test"
+			{
+				"gid" "1805019550500730330"
+				"size" "1071270623"
+				"download" "991929440"
+			}
+		}
+	}
+	"310619"
+	{
+		"dlcappid" "378648"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4855315366624356663"
+				"size" "654772037"
+				"download" "628167680"
+			}
+			"classic"
+			{
+				"gid" "4855315366624356663"
+				"size" "654772037"
+				"download" "628167680"
+			}
+			"workshop_test"
+			{
+				"gid" "4855315366624356663"
+				"size" "654772037"
+				"download" "628167680"
+			}
+		}
+	}
+	"355881"
+	{
+	}
+	"355882"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"355883"
+	{
+	}
+	"355884"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+	}
+	"355885"
+	{
+	}
+	"355886"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+	}
+	"355887"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+	}
+	"355888"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+	}
+	"355889"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+	}
+	"370004"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+	}
+	"370005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"370006"
+	{
+	}
+	"370007"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6165918066648822292"
+				"size" "2759502865"
+				"download" "2532214704"
+			}
+			"workshop_test"
+			{
+				"gid" "1545749720215191520"
+				"size" "2759502865"
+				"download" "2532216384"
+			}
+		}
+	}
+	"370008"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3305949701387885154"
+				"size" "2859374189"
+				"download" "2600379664"
+			}
+			"workshop_test"
+			{
+				"gid" "6140567797521474410"
+				"size" "2859374189"
+				"download" "2600379648"
+			}
+		}
+	}
+	"370009"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3498696915194240584"
+				"size" "661463668"
+				"download" "653952688"
+			}
+			"workshop_test"
+			{
+				"gid" "3632647953011026904"
+				"size" "661467692"
+				"download" "653937344"
+			}
+		}
+	}
+	"373952"
+	{
+		"dlcappid" "378649"
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7987515327562995934"
+				"size" "421245830"
+				"download" "385395312"
+			}
+			"workshop_test"
+			{
+				"gid" "4493917703663114631"
+				"size" "421245830"
+				"download" "385392240"
+			}
+		}
+	}
+	"373953"
+	{
+		"dlcappid" "378649"
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2993703975089049690"
+				"size" "412240753"
+				"download" "380910144"
+			}
+			"workshop_test"
+			{
+				"gid" "3526945751327760531"
+				"size" "412240753"
+				"download" "380910368"
+			}
+		}
+	}
+	"373954"
+	{
+		"dlcappid" "378648"
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9189601712632867387"
+				"size" "1105265034"
+				"download" "1010292736"
+			}
+			"workshop_test"
+			{
+				"gid" "6746095301340548064"
+				"size" "1105265034"
+				"download" "1010293664"
+			}
+		}
+	}
+	"373955"
+	{
+		"dlcappid" "378648"
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4126613168484560251"
+				"size" "1081305767"
+				"download" "997685696"
+			}
+			"workshop_test"
+			{
+				"gid" "7851366357303918927"
+				"size" "1081305767"
+				"download" "997686304"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14504303"
+			"timeupdated" "1717668030"
+		}
+		"classic"
+		{
+			"buildid" "3280809"
+			"description" "Select this branch to play the classic release of The Witcher 3 (Patch 1.32)."
+			"timeupdated" "1670930292"
+		}
+		"workshop_test"
+		{
+			"buildid" "14168681"
+			"description" "Steam Workshop implementation test. Warning: make sure to back up your saves!"
+			"timeupdated" "1714471258"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "/The Witcher 3/gamesaves/"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "/The Witcher 3/"
+			"pattern" "user.settings"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27103037"
+"_sha" "2895e8d4490cc6b3a93bfc561659d62062770b1d"
+"_size" "34328"
