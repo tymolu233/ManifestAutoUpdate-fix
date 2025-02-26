@@ -1,0 +1,111 @@
+"appid" "844630"
+"common"
+{
+	"name" "Squad 44 - Public Testing"
+	"section_type" "ownersonly"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"releasestate" "released"
+	"clienttga" "4952f27ce5cdbf1c7a1f62ef1afeae3559eac317"
+	"clienticon" "ffb742b636c79346aa498b66a553c91315fc44de"
+	"icon" "0057eba030c446743df41dffdc3e5931044c07e6"
+	"osextended" ""
+	"associations"
+	{
+	}
+	"community_hub_visible" "1"
+	"gameid" "844630"
+}
+"extended"
+{
+	"gamedir" "postscriptum"
+	"serverbrowsername" "Post Scriptum Test"
+}
+"config"
+{
+	"installdir" "Post Scriptum - Public Testing"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Launch_PostScriptum.exe"
+			"arguments" "-NotInstalled"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"844631"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4397254197990796483"
+				"size" "88280013606"
+				"download" "34535023568"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,spanish,schinese,tchinese,russian,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16264406"
+			"timeupdated" "1738611868"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27665308"
+"_sha" "1c76ac31fdc4ec03511d25fe6f840c3147b0845d"
+"_size" "1740"
