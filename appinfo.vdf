@@ -1,0 +1,238 @@
+"appid" "1610220"
+"common"
+{
+	"name" "Otaku\'s Adventure - The world just keeps circulating"
+	"type" "DLC"
+	"parent" "937170"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"schinese" "宅男的人间冒险：世界只是一直在旋转"
+		"tchinese" "宅男的人間冒險：世界只是一直在旋轉"
+		"sc_schinese" "少年的人间奇遇：世界只是一直在旋转"
+	}
+	"clienttga" "2ce0b367f52ebab43ec16e90c8d5cfc51c3ca6e4"
+	"clienticon" "1604ef2b22488c63d7177ebc5cd996b273f77c27"
+	"icon" "bfc45150a7aa00dfd5256cefd0358c150090a54d"
+	"logo" "2a8c84e48d2bba30bd289d35de0067f0e2df280d"
+	"logo_small" "2a8c84e48d2bba30bd289d35de0067f0e2df280d_thumb"
+	"releasestatesteamchina" "released"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"store_screenshot" "ss_2fdf967b61e98f16d59d67cc0d5e4049e0be1cdd.jpg"
+	"store_asset_mtime" "1666002374"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Spacelight Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Spacelight Studio"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1667188327"
+	"gameid" "1610220"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "122"
+		"2" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"dlcforappid" "937170"
+	"mustownapptopurchase" "937170"
+	"developer" "Spacelight Studio"
+	"publisher" "Spacelight Studio"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "0"
+		"steam_china_duration_control_show_interstitial" "0"
+	}
+}
+"depots"
+{
+	"1610221"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8777994516354658982"
+				"size" "3493612815"
+				"download" "473416176"
+			}
+		}
+		"dlcappid" "1610220"
+	}
+	"1610222"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4350797038943503529"
+				"size" "3508700949"
+				"download" "477504192"
+			}
+		}
+		"dlcappid" "1610220"
+	}
+	"1610224"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9110208623926365796"
+				"size" "3499386127"
+				"download" "475328176"
+			}
+		}
+		"dlcappid" "1610220"
+	}
+	"1610225"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5116331165543432400"
+				"size" "3528622767"
+				"download" "480505472"
+			}
+		}
+		"dlcappid" "1610220"
+	}
+	"1610226"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6805920401432061305"
+				"size" "3534842559"
+				"download" "482458208"
+			}
+		}
+		"dlcappid" "1610220"
+	}
+	"1610227"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4708239561558374434"
+				"size" "3521041703"
+				"download" "479453952"
+			}
+		}
+		"dlcappid" "1610220"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9704368"
+			"timeupdated" "1665568328"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26845279"
+"_sha" "a5226ea8f09663ad51c911069c01ccfe165f5f66"
+"_size" "4038"
