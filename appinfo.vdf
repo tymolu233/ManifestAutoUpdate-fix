@@ -1,0 +1,594 @@
+"appid" "264710"
+"common"
+{
+	"name" "Subnautica"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"clienticon" "33576b78a79e5ffa345253b190b03fe90dd47612"
+	"clienttga" "780507cc30e12631b5be11f8a704f962a7651c4e"
+	"icon" "8a14ceef6e230330a916d7a6324b8c52d464d569"
+	"logo" "d6bfaafed7b41466cc99b70972a944ac7e4d6edf"
+	"logo_small" "d6bfaafed7b41466cc99b70972a944ac7e4d6edf_thumb"
+	"clienticns" "de5e329945e31ccc5703ea6d665f5400ce0d2b88"
+	"controllervr"
+	{
+		"kbm" "1"
+		"xinput" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+	}
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"bulgarian" "1"
+		"ukrainian" "1"
+	}
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"sc_schinese" "深海迷航"
+		"koreana" "서브노티카"
+		"japanese" "サブノーティカ"
+		"schinese" "深海迷航"
+	}
+	"openvrsupport" "1"
+	"releasestatesteamchina" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1677715200"
+		"tested_build_id" "10658514"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"market_presence" "1"
+	"metacritic_name" "Subnautica"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "70"
+			"height_pct" "19"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "70"
+				"height_pct" "19"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1634236968"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Unknown Worlds Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Unknown Worlds Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Subnautica"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_31" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latvian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"lithuanian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"slovak"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1516694400"
+	"steam_release_date" "1516762200"
+	"metacritic_score" "87"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/subnautica\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "264710"
+	"store_tags"
+	{
+		"0" "1100689"
+		"1" "1662"
+		"2" "1667"
+		"3" "1695"
+		"4" "9157"
+		"5" "3834"
+		"6" "1702"
+		"7" "7332"
+		"8" "4182"
+		"9" "21"
+		"10" "3839"
+		"11" "3942"
+		"12" "3859"
+		"13" "3810"
+		"14" "4166"
+		"15" "1673"
+		"16" "3978"
+		"17" "21978"
+		"18" "19"
+		"19" "492"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "Unknown Worlds Entertainment"
+	"publisher" "Unknown Worlds Entertainment"
+	"homepage" "http://unknownworlds.com/subnautica"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Subnautica"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Subnautica.exe"
+			"arguments" "-silent-crashes -vrmode none"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+				"sc_schinese" "开始"
+			}
+			"description" "Launch"
+		}
+		"1"
+		{
+			"executable" "Subnautica.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+				"sc_schinese" "开始"
+			}
+			"description" "Launch"
+		}
+		"3"
+		{
+			"executable" "Subnautica32.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+				"sc_schinese" "开始"
+			}
+			"description" "Launch"
+		}
+		"4"
+		{
+			"executable" "Subnautica.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"sc_schinese" "开始"
+			}
+		}
+	}
+	"vrsupport" "openvr"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"264711"
+	{
+		"systemdefined" "1"
+	}
+	"264712"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3638894940716012854"
+				"size" "7060646067"
+				"download" "3162724592"
+			}
+			"legacy"
+			{
+				"gid" "455616957047142657"
+				"size" "7930209677"
+				"download" "3350974544"
+			}
+			"experimental"
+			{
+				"gid" "7514556286074562519"
+				"size" "7038149320"
+				"download" "3163094240"
+			}
+		}
+	}
+	"264713"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6406809907156750445"
+				"size" "7046442197"
+				"download" "3160757184"
+			}
+			"legacy"
+			{
+				"gid" "1538624857288096496"
+				"size" "7917719925"
+				"download" "3344267728"
+			}
+			"experimental"
+			{
+				"gid" "7807491088269633897"
+				"size" "7023961732"
+				"download" "3161055696"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10676206"
+			"timeupdated" "1678212158"
+		}
+		"legacy"
+		{
+			"buildid" "7819049"
+			"description" "Public legacy builds"
+			"timeupdated" "1665048644"
+		}
+		"experimental"
+		{
+			"buildid" "14886878"
+			"description" "Automatic daily updates. Lots of bugs!"
+			"timeupdated" "1719757201"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SNAppData/SavedGames"
+			"pattern" "*.*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" "Subnautica.app/"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27296735"
+"_sha" "08d2014e7cb2ce6655e4d2e7fac9555cc7492678"
+"_size" "10276"
