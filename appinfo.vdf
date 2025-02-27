@@ -1,0 +1,376 @@
+"appid" "688420"
+"common"
+{
+	"name" "Bad North"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"clienticon" "761db0f1bdaa3f940b391b9accc4e04e4a88c6ec"
+	"clienttga" "316374c6a98ffb75eb9359460d6eca1deb80f217"
+	"icon" "038a9c080d91b1963b51498541a718f844a0f162"
+	"logo" "169c7af88dcb45d4f875e87596ecbdebda205636"
+	"logo_small" "169c7af88dcb45d4f875e87596ecbdebda205636_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"turkish" "1"
+	}
+	"clienticns" "c9581aa6aff420e020db3cdd539c455352608cab"
+	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1676073600"
+		"tested_build_id" "10513088"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "26.367617797892024"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "26.367617797892024"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1692100582"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Plausible Concept"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Oskar Stålberg"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Raw Fury"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Raw Fury Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1542384018"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "688420"
+	"store_tags"
+	{
+		"0" "4684"
+		"1" "11634"
+		"2" "1645"
+		"3" "3813"
+		"4" "1662"
+		"5" "42804"
+		"6" "4094"
+		"7" "1676"
+		"8" "1678"
+		"9" "1084988"
+		"10" "1716"
+		"11" "3993"
+		"12" "4252"
+		"13" "3959"
+		"14" "9"
+		"15" "1743"
+		"16" "5228"
+		"17" "4726"
+		"18" "1708"
+		"19" "599"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Plausible Concept"
+	"publisher" "Raw Fury"
+	"homepage" "http://badnorth.com"
+	"listofdlc" "970060"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "BadNorth"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "BadNorth.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "BadNorth.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"4"
+		{
+			"executable" "BadNorth.app"
+			"arguments" "-show-screen-selector"
+			"description" "Launch to Resolution Dialog"
+			"type" "config"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"hasdepotsindlc" "0"
+	"688421"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8800218574177501794"
+				"size" "229444423"
+				"download" "169587024"
+			}
+		}
+	}
+	"688423"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6768053692751736512"
+				"size" "297717593"
+				"download" "179779280"
+			}
+		}
+	}
+	"970060"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "802016381599387244"
+				"size" "157913951"
+				"download" "158540896"
+			}
+		}
+		"dlcappid" "970060"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14637231"
+			"timeupdated" "1717752528"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "31457280"
+	"maxnumfiles" "32"
+}
+"_missing_token" "False"
+"_change_number" "27263806"
+"_sha" "881636c472e32278b663dbd133c4506d4c926565"
+"_size" "6182"
