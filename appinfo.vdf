@@ -1,0 +1,405 @@
+"appid" "1140150"
+"common"
+{
+	"name" "东方光耀夜 ~ Lost Branch of Legend"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"name_localized"
+	{
+		"schinese" "东方光耀夜 ~ Lost Branch of Legend"
+		"english" "Touhou: Lost Branch of Legend"
+		"japanese" "東方光耀夜 〜 Lost Branch of Legend"
+		"tchinese" "东方光耀夜 ~ Lost Branch of Legend"
+		"koreana" "동방광요야 ~ Lost Branch of Legend"
+	}
+	"clienttga" "4ed1fa302ff89e1d3bdbde812fc39403170a1aa6"
+	"clienticon" "c10f9c3719068dda8e90b729c1539beb64ed82ee"
+	"icon" "fec5e03358607e932e0352d4f3c211696d905f27"
+	"clienticns" "0ed832c45f98ca75ee30f2dd42e31db96bfef6ef"
+	"linuxclienticon" "6cf24478cf3e211fca0f445a6d35941a0ee43560"
+	"logo" "011955d7601a67dca31da9cbe39571affd7c68ce"
+	"logo_small" "011955d7601a67dca31da9cbe39571affd7c68ce_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1692057600"
+		"tested_build_id" "11878879"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "en,zh-cn,zh-tw,zh-xc"
+		"library_logo" "en,zh-cn,ja,zh-tw"
+		"library_header" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "39.85677271792044"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+				"sc_schinese" "library_hero_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+				"tchinese" "library_hero_tchinese_2x.jpg"
+				"sc_schinese" "library_hero_sc_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "39.85677271792044"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"japanese" "logo_japanese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"japanese" "logo_japanese_2x.png"
+				"english" "logo_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "library_header_schinese.jpg"
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1708688672"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Alioth Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Alioth Studio"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1660803075"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1140150"
+	"store_tags"
+	{
+		"0" "1091588"
+		"1" "4085"
+		"2" "9"
+		"3" "791774"
+		"4" "1716"
+		"5" "1666"
+		"6" "32322"
+		"7" "4182"
+		"8" "14139"
+		"9" "3959"
+		"10" "122"
+		"11" "1741"
+		"12" "4434"
+		"13" "17305"
+		"14" "3871"
+		"15" "4726"
+		"16" "5125"
+		"17" "180368"
+		"18" "493"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Alioth Studio"
+	"publisher" "Alioth Studio"
+	"homepage" "https://space.bilibili.com/65061"
+}
+"config"
+{
+	"installdir" "LBoL"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "LBoL.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "LBoL.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"1140151"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3013704308788490575"
+				"size" "4501696985"
+				"download" "1335801040"
+			}
+			"beta"
+			{
+				"gid" "2292257629735309070"
+				"size" "4687580537"
+				"download" "1482801888"
+			}
+		}
+	}
+	"1140152"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3855726895160531915"
+				"size" "4495627296"
+				"download" "1334594480"
+			}
+			"beta"
+			{
+				"gid" "748592179681331698"
+				"size" "4681349339"
+				"download" "1481597280"
+			}
+		}
+	}
+	"baselanguages" ""
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15061973"
+			"timeupdated" "1721218639"
+		}
+		"beta"
+		{
+			"buildid" "17394991"
+			"description" "v1.6.1"
+			"timeupdated" "1739805715"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "AliothStudio/LBoL/{64BitSteamID}"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "AliothStudio/LBoL/{64BitSteamID}"
+					"replace" "AliothStudio/LBoL/{64BitSteamID}"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27518089"
+"_sha" "ee4a908f823a5ec63fb14e749e08ec5b1810a3d5"
+"_size" "7628"
