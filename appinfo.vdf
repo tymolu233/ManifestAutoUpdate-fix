@@ -1,0 +1,493 @@
+"appid" "1293830"
+"common"
+{
+	"name" "Forza Horizon 4"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"icon" "7c993f9089d54fe2767efec47b75a7009cdd632e"
+	"clienticon" "782f75c5ece3781a0f1187e8ac01aa0cfd727d57"
+	"clienttga" "588fb986447981175b11021cb6e2267155c302da"
+	"logo" "ebb489cbc40e4a7454c7b6b01280a8994cf9d369"
+	"logo_small" "ebb489cbc40e4a7454c7b6b01280a8994cf9d369_thumb"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "极限竞速：地平线 4"
+	}
+	"releasestate" "released"
+	"app_retired_publisher_request" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1661212800"
+		"tested_build_id" "8762864"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "e2a15a5d7bd48218b28765bc0736ab4ebbc2e9e7/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "54.95093519251841"
+			"height_pct" "43.61334489645746"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "54.95093519251841"
+				"height_pct" "43.61334489645746"
+			}
+		}
+	}
+	"store_asset_mtime" "1733510664"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Playground Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Xbox Game Studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Forza"
+		}
+	}
+	"primary_genre" "9"
+	"genres"
+	{
+		"0" "9"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_28" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1615312080"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1293830"
+	"store_tags"
+	{
+		"0" "699"
+		"1" "1695"
+		"2" "1644"
+		"3" "3859"
+		"4" "1100687"
+		"5" "3843"
+		"6" "4175"
+		"7" "4182"
+		"8" "7481"
+		"9" "599"
+		"10" "1775"
+		"11" "21"
+		"12" "1773"
+		"13" "3834"
+		"14" "4166"
+		"15" "701"
+		"16" "19"
+		"17" "1756"
+		"18" "3839"
+		"19" "4136"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Playground Games"
+	"publisher" "Xbox Game Studios"
+	"homepage" "http://www.forzamotorsport.net"
+	"listofdlc" "1443010,1443011,1443015,1443016,1443017,1443018,1443019,1443020,1443021,1443022,1443023,1443024,1443025,1443026,1443027,1443028,1443029,1443040,1443041,1443042,1443043,1443044,1443045,1443046,1443047,1443048,1443049,1443050,1443051,1443052,1443053,1443054,1443055,1443056,1443057,1443058,1443059,1443060,1443061,1443062,1443063,1443064,1443065,1443066,1443080,1443081,1443082,1443083,1443084,1443085,1443086,1443087,1443088,1443089,1443090,1443091,1443092,1443093,1530010,1530011,1530012"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "ForzaHorizon4"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ForzaHorizon4.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "nightlytest"
+			}
+		}
+		"1"
+		{
+			"executable" "forza_x64_profile.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "nightlyinstall,mainlineinstall,rcinstall"
+			}
+			"description_loc"
+			{
+				"english" "Sunrise Profile"
+			}
+			"description" "Sunrise Profile"
+		}
+		"2"
+		{
+			"executable" "forza_x64_release.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "nightlyinstall,mainlineinstall,rcinstall"
+			}
+			"description_loc"
+			{
+				"english" "Sunrise Release"
+			}
+			"description" "Sunrise Release"
+		}
+		"3"
+		{
+			"executable" "forza_x64_release_final.exe"
+			"type" "option3"
+			"config"
+			{
+				"betakey" "nightlyinstall,mainlineinstall,rcinstall"
+			}
+			"description_loc"
+			{
+				"english" "Sunrise Release Final"
+			}
+			"description" "Sunrise Release Final"
+		}
+		"4"
+		{
+			"executable" "forza_x64_profile.exe"
+			"description" "Sunrise Profile"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "lkginstall"
+			}
+		}
+		"5"
+		{
+			"executable" "forza_x64_release.exe"
+			"description" "Sunrise Release"
+			"type" "option2"
+			"config"
+			{
+				"betakey" "lkginstall"
+			}
+		}
+		"6"
+		{
+			"executable" "forza_x64_release_final.exe"
+			"description" "Sunrise Release Final"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "lkginstall"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "3"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1293831"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7960876371477493357"
+				"size" "88153822411"
+				"download" "83952363680"
+			}
+		}
+	}
+	"1443091"
+	{
+		"dlcappid" "1443091"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1638530373648163875"
+				"size" "7706213694"
+				"download" "7223477360"
+			}
+		}
+	}
+	"1443092"
+	{
+		"dlcappid" "1443092"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2636644777724144367"
+				"size" "5689241757"
+				"download" "4423992688"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12772551"
+			"timeupdated" "1701280792"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "26993655"
+"_sha" "f727a8b1ce025bb82706f76d69f02e71fd78e64b"
+"_size" "9010"
