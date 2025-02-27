@@ -1,0 +1,185 @@
+"appid" "1670340"
+"common"
+{
+	"name" "Craftopia Dedicated Server"
+	"type" "Tool"
+	"parent" "1307550"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "286820a18f6f348343a3767cf79dda5544325180"
+	"logo_small" "286820a18f6f348343a3767cf79dda5544325180_thumb"
+	"icon" "51d2ce598e11bb589644d746f674f73e53a22eab"
+	"clienticon" "b6eabc569cbd4aef7355abca16037d5c20b0f755"
+	"clienttga" "0a13b8ab342e36699b198f01b24fbadd8e43ea70"
+	"releasestate" "released"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "1670340"
+}
+"config"
+{
+	"installdir" "CraftopiaDedicatedServer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Craftopia.exe"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Craftopia.x86_64"
+			"type" "server"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1670341"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1674360038818115220"
+				"size" "30926631625"
+				"download" "20119661664"
+			}
+			"alpha-unstable-edge"
+			{
+				"gid" "5075740589620391959"
+				"size" "3210344946"
+				"download" "1247557728"
+			}
+			"alpha-unstable"
+			{
+				"gid" "1674360038818115220"
+				"size" "30926631625"
+				"download" "20119661664"
+			}
+		}
+	}
+	"1670342"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3544812702855074959"
+				"size" "27098807637"
+				"download" "16953184960"
+			}
+			"alpha-unstable-edge"
+			{
+				"gid" "9139767168242332731"
+				"size" "4029577247"
+				"download" "1383102896"
+			}
+			"alpha-unstable"
+			{
+				"gid" "3544812702855074959"
+				"size" "27098807637"
+				"download" "16953184960"
+			}
+		}
+	}
+	"workshopdepot" "1670340"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17222115"
+			"timeupdated" "1739329720"
+		}
+		"alpha-unstable-edge"
+		{
+			"buildid" "8272753"
+			"description" "This branch is literally unstable.\t"
+			"timeupdated" "1646028165"
+		}
+		"alpha-unstable"
+		{
+			"buildid" "17222115"
+			"description" "This branch is literally unstable."
+			"timeupdated" "1738640596"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27679701"
+"_sha" "7899eab7d2cbcde15b24a883a005c1dc2de9f0b6"
+"_size" "3003"
