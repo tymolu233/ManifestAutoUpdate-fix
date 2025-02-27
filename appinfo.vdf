@@ -1,0 +1,412 @@
+"appid" "1364780"
+"common"
+{
+	"name" "Street Fighter™ 6"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"clienttga" "e64756b566b4fc71f9693ac66ecadfce17a612fd"
+	"clienticon" "e7414b4ede024fedd2ab36bf8c9a3fdf981d27bf"
+	"icon" "5e1421a150aaded0c7c175bc6f6843eab9a4d27d"
+	"name_localized"
+	{
+		"japanese" "Street Fighter 6"
+		"koreana" "Street Fighter 6"
+		"schinese" "Street Fighter 6"
+		"tchinese" "Street Fighter 6"
+	}
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1364780_eula_0"
+			"name" "Street Fighter™ 6 EULA"
+			"url" "https://store.steampowered.com//eula/1364780_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1695340800"
+		"tested_build_id" "11908601"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-4"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"metacritic_name" "Street Fighter 6"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "34.37820183050965"
+			"height_pct" "26.824364097079084"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "34.37820183050965"
+				"height_pct" "26.824364097079084"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1738719509"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CAPCOM Co., Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CAPCOM Co., Ltd."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Street Fighter"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_27" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_29" "1"
+		"category_18" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1685689200"
+	"metacritic_score" "92"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/street-fighter-6\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1364780"
+	"store_tags"
+	{
+		"0" "4736"
+		"1" "1743"
+		"2" "4747"
+		"3" "1773"
+		"4" "19"
+		"5" "3859"
+		"6" "3878"
+		"7" "21"
+		"8" "1775"
+		"9" "5055"
+		"10" "1695"
+		"11" "4182"
+		"12" "7368"
+		"13" "7481"
+		"14" "4191"
+		"15" "4231"
+		"16" "6915"
+		"17" "1756"
+		"18" "3810"
+		"19" "4085"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"additional_dependencies"
+	{
+		"0"
+		{
+			"src_os" "windows"
+			"dest_os" "linux"
+			"h264" "1"
+		}
+	}
+	"developer" "CAPCOM Co., Ltd."
+	"publisher" "CAPCOM Co., Ltd."
+	"homepage" "https://www.streetfighter.com/6/en-us/"
+	"listofdlc" "1792750,1792751,2224460,2224461,2224462,2825190,2825200"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Street Fighter 6"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "StreetFighter6.exe"
+		}
+	}
+	"app_mappings"
+	{
+		"1"
+		{
+			"platform" "linux"
+			"tool" "proton_experimental"
+			"comment" "experimental needed"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam"
+	"hasdepotsindlc" "1"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1364781"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5127309727460469484"
+				"size" "70034482033"
+				"download" "63953968736"
+			}
+		}
+	}
+	"1364782"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16934667"
+			"timeupdated" "1738728079"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "209715200"
+	"maxnumfiles" "1024"
+}
+"_missing_token" "False"
+"_change_number" "27670960"
+"_sha" "4a29cd67147a9a4372739e1ceb6dd1c2ea7b9826"
+"_size" "7232"
