@@ -1,0 +1,102 @@
+"appid" "16830"
+"common"
+{
+	"name" "Sid Meier\'s Civilization V SDK"
+	"logo" "06a3cb3a552a008b603d11aa8e32be41bc09d0f9"
+	"logo_small" "06a3cb3a552a008b603d11aa8e32be41bc09d0f9_thumb"
+	"clienticon" "0e8b30bde9fd713e8346a0fac2d506c2e20b298c"
+	"clienttga" "12f6ae96280c579469f04b548f78ba95d1189f28"
+	"icon" "078d66bc5425c4c94353f78571e0c32cad2d51e3"
+	"type" "Tool"
+	"eulas"
+	{
+		"0"
+		{
+			"url" "http://store.steampowered.com/eula/CivVEula"
+			"id" "CivVEula"
+			"name" "CivVEula"
+		}
+	}
+	"gameid" "16830"
+}
+"extended"
+{
+	"developer" "Firaxis Games"
+	"disableoverlay" "1"
+	"gamedir" "Sid Meier\'s Civilization V SDK"
+	"homepage" "www.civilization5.com"
+	"icon" ""
+	"installscript" "InstallScript.txt"
+	"launcheula" "http://store.steampowered.com/eula/CivVEula"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "16831"
+	"serverbrowsername" ""
+	"state" "eStateTool"
+}
+"config"
+{
+	"launch"
+	{
+		"0"
+		{
+			"description" "Sid Meier\'s Civilization V SDK"
+			"executable" "Sid Meier\'s Civilization V SDK.exe"
+		}
+	}
+	"contenttype" "3"
+	"installdir" "Sid Meier\'s Civilization V SDK"
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229000"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"16831"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2711483179553339466"
+				"size" "117319692"
+				"download" "1724408330042"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "455304"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "1000"
+	"hidecloudui" "0"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "31546565171e5a7d0fcda8e5a8a68f65021cfcfb"
+"_size" "1794"
