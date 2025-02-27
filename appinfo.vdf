@@ -1,0 +1,129 @@
+"appid" "1362540"
+"common"
+{
+	"name" "Battle Cry of Freedom - Dedicated Server"
+	"type" "Tool"
+	"parent" "1358710"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "b20b59cd3289d1f4e2742ee169a43d5b2c7c95d8"
+	"clienttga" "104406cb95d472b395e919f94ac91c35c54784ad"
+	"icon" "a25b3dfb1858427fddb252b4b9c0f1711852c0f4"
+	"logo" "17cf49a4babf62527c7f457dd367fc670702bf60"
+	"logo_small" "17cf49a4babf62527c7f457dd367fc670702bf60_thumb"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"community_hub_visible" "1"
+	"gameid" "1362540"
+}
+"extended"
+{
+	"gamedir" ""
+}
+"config"
+{
+	"installdir" "Battle Cry of Freedom - Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BCoF.exe"
+			"arguments" "-batchmode -nographics -server"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1362541"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5055528026584321351"
+				"size" "8541883439"
+				"download" "3363550624"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11018025"
+			"timeupdated" "1681713484"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27657685"
+"_sha" "77dadcffb0649ef59d0ad125a87f2df55dffa17e"
+"_size" "2005"
