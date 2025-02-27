@@ -1,0 +1,458 @@
+"appid" "1604030"
+"common"
+{
+	"name" "V Rising"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "8de908054bedb5a62018099f80f8aab1b0de9d2a"
+	"logo_small" "8de908054bedb5a62018099f80f8aab1b0de9d2a_thumb"
+	"icon" "d18204000a839feb84393b3d860c17cd4a4b269c"
+	"clienticon" "fc695ff131562610f3f853256a2b10b8bbfde717"
+	"clienttga" "e19a49b84e23e37a47ab988a262c2e78a8bfbb95"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1604030_eula_1"
+			"name" "V Rising EULA"
+			"url" "https://store.steampowered.com//eula/1604030_eula_1"
+			"version" "16"
+		}
+	}
+	"name_localized"
+	{
+		"schinese" "夜族崛起"
+		"tchinese" "夜族崛起"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1715731200"
+		"tested_build_id" "14317860"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+			"proton_compat_config" "nomfdxgiman,"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "38f09e2d31d1be99bd721bbace527638e9024787/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1723551717"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Stunlock Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Stunlock Studios"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "29"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_2" "1"
+		"category_47" "1"
+		"category_48" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1715166026"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1604030"
+	"store_tags"
+	{
+		"0" "1662"
+		"1" "1695"
+		"2" "7332"
+		"3" "4018"
+		"4" "3859"
+		"5" "1702"
+		"6" "3843"
+		"7" "1775"
+		"8" "6730"
+		"9" "1643"
+		"10" "1646"
+		"11" "3810"
+		"12" "3834"
+		"13" "128"
+		"14" "4604"
+		"15" "4106"
+		"16" "19"
+		"17" "4182"
+		"18" "21"
+		"19" "1685"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"gamedir" "V Rising"
+	"serverbrowsername" "V Rising"
+	"developer" "Stunlock Studios"
+	"publisher" "Stunlock Studios"
+	"homepage" "https://playvrising.com/"
+	"listofdlc" "1983900,1983901,1997210,2169180,2358430,2833600"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "VRising"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "VRising.exe"
+			"type" "default"
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65532"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1604031"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5697875840152111543"
+				"size" "8852295269"
+				"download" "4312268992"
+			}
+			"0.5.43954_hotfix13"
+			{
+				"gid" "6194439063265605533"
+				"size" "6727320665"
+				"download" "2926222448"
+			}
+			"0.6.5.57575_hotfix6"
+			{
+				"gid" "6891775664759788354"
+				"size" "8868388824"
+				"download" "3948758016"
+			}
+			"legacy-0.5.x"
+			{
+				"gid" "8014165627894424827"
+				"size" "6755176961"
+				"download" "2945828704"
+			}
+			"public-test-r60262"
+			{
+				"gid" "3126289553066637128"
+				"size" "8872162442"
+				"download" "3947121760"
+			}
+			"legacy-0.6.x"
+			{
+				"gid" "1645242801883488504"
+				"size" "8764065139"
+				"download" "3839407408"
+			}
+			"public-test"
+			{
+				"gid" "5697875840152111543"
+				"size" "8852295269"
+				"download" "4312268992"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,hungarian,turkish,brazilian,ukrainian,vietnamese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16549266"
+			"timeupdated" "1733222800"
+		}
+		"0.5.43954_hotfix13"
+		{
+			"buildid" "9606444"
+			"description" "Client version: 0.5.43954"
+			"timeupdated" "1666712744"
+		}
+		"0.6.5.57575_hotfix6"
+		{
+			"buildid" "11360518"
+			"description" "Client version: 0.6.5.57575"
+			"timeupdated" "1686742694"
+		}
+		"legacy-0.5.x"
+		{
+			"buildid" "11162616"
+			"description" "Initial Early Access version. Originally released: 2022-05-17"
+			"timeupdated" "1684232262"
+		}
+		"public-test-r60262"
+		{
+			"buildid" "12053751"
+			"description" "Temporary test branch for r60262."
+			"timeupdated" "1698330349"
+		}
+		"legacy-0.6.x"
+		{
+			"buildid" "14277210"
+			"description" "Gloomrot version - Originally released: 2023-05-17"
+			"timeupdated" "1714995880"
+		}
+		"public-test"
+		{
+			"buildid" "16549266"
+			"description" "Public test branch for V Rising client. Use at your own risk. Always backup your saves."
+			"timeupdated" "1733222701"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Stunlock Studios/VRising/CloudSaves/{64BitSteamID}/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27692694"
+"_sha" "617ceeb5348dc12000dca961e27f635ae4263c57"
+"_size" "8651"
