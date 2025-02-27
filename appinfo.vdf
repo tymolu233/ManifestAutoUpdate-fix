@@ -1,0 +1,339 @@
+"appid" "2007530"
+"common"
+{
+	"name" "Spellbook Demonslayers"
+	"type" "Game"
+	"clienticon" "7cfe1317782546a7923f893d6c0c2aa5f78e1c1f"
+	"clienttga" "571c2d58b1f74c8ddcbe96112362cf3f69544a5b"
+	"icon" "50082e6ea4a3b5f0f3a0b49eb1998ceb086f557a"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"name_localized"
+	{
+		"tchinese" "魔導書幸存者"
+		"schinese" "魔法书幸存者"
+		"japanese" "スペルブック・デーモンスレイヤーズ"
+	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1669075200"
+		"tested_build_id" "9901713"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "29dfd232c712406bd1b8b68f2ec6e39fe3c72fe4/capsule_231x87_schinese.jpg"
+		"tchinese" "29dfd232c712406bd1b8b68f2ec6e39fe3c72fe4/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-tw,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "0f129de8501e6ceec6d782210bd327fc6ff44885/library_600x900_schinese.jpg"
+				"tchinese" "0f129de8501e6ceec6d782210bd327fc6ff44885/library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "0f129de8501e6ceec6d782210bd327fc6ff44885/library_600x900_schinese_2x.jpg"
+				"tchinese" "0f129de8501e6ceec6d782210bd327fc6ff44885/library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "2701b228254516bcc3b17d685e6c45439a8becee/logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"tchinese" "2310bc64ff4efa27758906e7914309ccef10a3bc/library_header_tchinese.jpg"
+				"schinese" "2310bc64ff4efa27758906e7914309ccef10a3bc/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"tchinese" "2310bc64ff4efa27758906e7914309ccef10a3bc/library_header_tchinese_2x.jpg"
+				"schinese" "2310bc64ff4efa27758906e7914309ccef10a3bc/library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1728546805"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Xendra"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Xendra"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Erabit"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Xendra"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Erabit"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1667373561"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2007530"
+	"store_tags"
+	{
+		"0" "4604"
+		"1" "4791"
+		"2" "3964"
+		"3" "4182"
+		"4" "493"
+		"5" "4885"
+		"6" "42804"
+		"7" "122"
+		"8" "3959"
+		"9" "19"
+		"10" "4231"
+		"11" "1716"
+		"12" "1773"
+		"13" "597"
+		"14" "4637"
+		"15" "4342"
+		"16" "5547"
+		"17" "9541"
+		"18" "3871"
+		"19" "4166"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Xendra"
+	"publisher" "Xendra"
+	"listofdlc" "2201670"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Spellbook Demonslayers"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Spellbook Demonslayers.exe"
+			"type" "default"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"2007531"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2297348850053747358"
+				"size" "307764560"
+				"download" "251785792"
+			}
+			"legacy"
+			{
+				"gid" "8185654403658429195"
+				"size" "617676784"
+				"download" "375845984"
+			}
+		}
+	}
+	"baselanguages" "english,schinese,tchinese,russian,japanese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15569051"
+			"timeupdated" "1725293863"
+		}
+		"legacy"
+		{
+			"buildid" "12857345"
+			"description" "The pre-Apocalypse version of Spellbook Demonslayers."
+			"timeupdated" "1725294232"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1075741824"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Spellbook Demonslayers"
+			"pattern" "*.dat"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26846510"
+"_sha" "e1d0441857106271aabb1e4bc90fa22942da34af"
+"_size" "6670"
