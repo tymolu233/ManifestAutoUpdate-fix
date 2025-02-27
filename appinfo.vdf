@@ -1,0 +1,398 @@
+"appid" "1122340"
+"common"
+{
+	"name" "Chef Life: A Restaurant Simulator"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "fe76c8523956d21e8471696db0f807956e4b4d64"
+	"clienttga" "45d4e6900dcf1b3c069d912ad5c7cc7967303740"
+	"icon" "0db0d036fcfb3d69f4b357bb41e213cf10ddff57"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"arabic" "1"
+		"brazilian" "1"
+	}
+	"logo" "1a45295bf88e0992705fd2ca5ece35b933b32f88"
+	"logo_small" "1a45295bf88e0992705fd2ca5ece35b933b32f88_thumb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1122340_eula_0"
+			"name" "Chef Life: A Restaurant Simulator EULA"
+			"url" "https://store.steampowered.com//eula/1122340_eula_0"
+			"version" "4"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1688428800"
+		"tested_build_id" "11405855"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-3"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "83.95348837209303"
+			"height_pct" "72.26312039895512"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "83.95348837209303"
+				"height_pct" "72.26312039895512"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1718023087"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Cyanide Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Nacon"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_45" "1"
+		"category_46" "1"
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_35" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1677142800"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1122340"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "3920"
+		"2" "9204"
+		"3" "597"
+		"4" "4182"
+		"5" "12472"
+		"6" "1654"
+		"7" "5350"
+		"8" "10235"
+		"9" "4305"
+		"10" "4195"
+		"11" "4252"
+		"12" "8945"
+		"13" "6276"
+		"14" "4711"
+		"15" "4559"
+		"16" "7481"
+		"17" "4747"
+		"18" "6426"
+		"19" "1702"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "remoteplay"
+	"developer" "Cyanide Studio"
+	"publisher" "Nacon"
+	"listofdlc" "1788350,1788351,2608330,2608340"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Chef LIFE  A Restaurant Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Chef Life  A Restaurant Simulator.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "5"
+	"steamconfigurator3rdpartynative" "65533"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,arabic,brazilian"
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1122341"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1266563124938887346"
+				"size" "3368298902"
+				"download" "2798071904"
+			}
+		}
+	}
+	"2608340"
+	{
+		"dlcappid" "2608340"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "843877125311523294"
+				"size" "358766814"
+				"download" "306277984"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13998616"
+			"timeupdated" "1713532242"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Cyanide/Chef Life _ A Restaurant Simulator/saves/{64BitSteamID}"
+			"pattern" "*.save"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27513905"
+"_sha" "bc3eaf98053a30fb1ed15663f44dcca786281b96"
+"_size" "6996"
