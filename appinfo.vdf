@@ -1,0 +1,146 @@
+"appid" "1829350"
+"common"
+{
+	"name" "V Rising Dedicated Server"
+	"type" "Tool"
+	"parent" "1604030"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "e19a49b84e23e37a47ab988a262c2e78a8bfbb95"
+	"clienticon" "fc695ff131562610f3f853256a2b10b8bbfde717"
+	"icon" "4fd995aacb3d54fe7d50b39824ed55727b897e61"
+	"releasestate" "released"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "1829350"
+}
+"config"
+{
+	"installdir" "VRisingDedicatedServer"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "README.txt"
+			"type" "manual"
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1829351"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "239851819939096490"
+				"size" "1798505770"
+				"download" "204736688"
+			}
+			"ce-1"
+			{
+				"gid" "1907749329249055725"
+				"size" "1798518309"
+				"download" "204766592"
+			}
+			"legacy-0.5.x"
+			{
+				"gid" "6425872806400860839"
+				"size" "1679781401"
+				"download" "627726656"
+			}
+			"legacy-0.6.x"
+			{
+				"gid" "5850011680124575304"
+				"size" "1409550950"
+				"download" "199827424"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17252216"
+			"timeupdated" "1739182970"
+		}
+		"ce-1"
+		{
+			"buildid" "17256102"
+			"description" "..."
+			"timeupdated" "1739185762"
+		}
+		"legacy-0.5.x"
+		{
+			"buildid" "10409337"
+			"description" "Initial Early Access version. Originally released: 2022-05-17"
+			"timeupdated" "1684192303"
+		}
+		"legacy-0.6.x"
+		{
+			"buildid" "12520643"
+			"description" "Gloomrot version - Originally released: 2023-05-17"
+			"timeupdated" "1714996083"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27690976"
+"_sha" "a0d623778b97a400ea6cbab8380f290ab92db1fb"
+"_size" "2340"
