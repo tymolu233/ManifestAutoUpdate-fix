@@ -1,0 +1,78 @@
+"appid" "3064700"
+"common"
+{
+	"name" "Darkest Dungeon® II: Mod Tools"
+	"type" "Tool"
+	"parent" "1940340"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "a920f8e17ff245991d839f43c1323c1675f15849"
+	"clienttga" "82db540b4db9b13c50a4d02ad2554eb6900bac32"
+	"clienticon" "85d35b51ad9651186669e0ee74bda6ea2c5946f5"
+	"releasestate" "released"
+	"gameid" "3064700"
+}
+"config"
+{
+	"installdir" "Darkest Dungeon® II Mod Tools"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "darkside/Darkside.EXE"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"3064701"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "430694415207355983"
+				"size" "190670751"
+				"download" "179426528"
+			}
+			"coming_in_hot"
+			{
+				"gid" "9175580214654257037"
+				"size" "198484019"
+				"download" "182933600"
+			}
+		}
+	}
+	"workshopdepot" "3064700"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15295731"
+			"timeupdated" "1723228440"
+		}
+		"coming_in_hot"
+		{
+			"buildid" "16686359"
+			"description" "Experimental builds"
+			"timeupdated" "1733783649"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27190710"
+"_sha" "1fa2606be3b7c35ccafb9f9411f52ceb36b35766"
+"_size" "1285"
