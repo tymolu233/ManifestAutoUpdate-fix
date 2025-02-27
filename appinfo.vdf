@@ -1,0 +1,481 @@
+"appid" "374320"
+"common"
+{
+	"name" "DARK SOULS™ III"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "54f76fd3abdd1446260f28ccc0cbc76034b32de9"
+	"logo_small" "54f76fd3abdd1446260f28ccc0cbc76034b32de9_thumb"
+	"icon" "7abe1a33129c20cf10d2c74128bbd657a2a2c806"
+	"clienticon" "e9bb44e88f49a1491db1664ec765e90e7debc3ea"
+	"clienttga" "583aa31edd025c7f2e94163252bfe2512d2c1c7f"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"oslist" "windows"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1687392000"
+		"tested_build_id" "10167187"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "gamedrive,"
+		}
+	}
+	"metacritic_name" "Dark Souls III"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "54"
+			"height_pct" "48"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "54"
+				"height_pct" "48"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1700587271"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "FromSoftware, Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "FromSoftware, Inc."
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Bandai Namco Entertainment"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Dark Souls"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_29" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1460412000"
+	"metacritic_score" "89"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/dark-souls-iii\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "374320"
+	"store_tags"
+	{
+		"0" "29482"
+		"1" "4604"
+		"2" "4026"
+		"3" "122"
+		"4" "4166"
+		"5" "3854"
+		"6" "1697"
+		"7" "3834"
+		"8" "1742"
+		"9" "4231"
+		"10" "1685"
+		"11" "1756"
+		"12" "21"
+		"13" "19"
+		"14" "3859"
+		"15" "1775"
+		"16" "1695"
+		"17" "4182"
+		"18" "4711"
+		"19" "4747"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "FromSoftware, Inc."
+	"publisher" "FromSoftware, Inc."
+	"listofdlc" "435470,442010,455380,506970,506971"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "DARK SOULS III"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Game/DarkSoulsIII.exe"
+			"description" "Launch"
+			"workingdir" "Game"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"771654329"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"656293666"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"656292596"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"656297462"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"1839841868"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"1839843755"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2087142062"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"374321"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6652575487689169560"
+				"size" "21819457695"
+				"download" "20757267040"
+			}
+		}
+	}
+	"435470"
+	{
+		"dlcappid" "435470"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2462764081365637780"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"374322"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6130303443397132373"
+				"size" "735396028"
+				"download" "644208448"
+			}
+		}
+	}
+	"455380"
+	{
+		"dlcappid" "455380"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "398045694410355072"
+				"size" "102202542"
+				"download" "99805488"
+			}
+		}
+	}
+	"506970"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2441039608905796121"
+				"size" "1684575628"
+				"download" "1627146864"
+			}
+		}
+		"dlcappid" "506970"
+	}
+	"506971"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "266039425715139370"
+				"size" "3145050927"
+				"download" "3074862160"
+			}
+		}
+		"dlcappid" "506971"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10167187"
+			"timeupdated" "1673514058"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "DarkSoulsIII"
+			"pattern" "*.sl2"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27507697"
+"_sha" "d3f5df4f836781ecc2fb646ee14930be58d082e3"
+"_size" "8524"
