@@ -1,0 +1,514 @@
+"appid" "294420"
+"common"
+{
+	"name" "7 Days to Die Dedicated Server"
+	"type" "Tool"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"logo" "c618d480ef02e41fdbe60e6915f4a3f8c6f9f22c"
+	"logo_small" "c618d480ef02e41fdbe60e6915f4a3f8c6f9f22c_thumb"
+	"icon" "d43a8a02c05cda3848acac7bae6d3f9282a572e2"
+	"clienttga" "6809e01bed7691b587e72f155e33324c4aa324b2"
+	"clienticon" "01840052e8bc61931392423adcd4912262b2ce54"
+	"clienticns" "e4b9ca1d116762305f8d1d64ae6fe1377d50d739"
+	"linuxclienticon" "556952251e634477af16dac7086e81790c09102c"
+	"parent" "251570"
+	"osarch" "64"
+	"osextended" ""
+	"freetodownload" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "51.05017502917153"
+			"height_pct" "84.5744664815669"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "51.05017502917153"
+				"height_pct" "84.5744664815669"
+			}
+		}
+	}
+	"store_asset_mtime" "1647317974"
+	"associations"
+	{
+	}
+	"steam_release_date" "1404864000"
+	"gameid" "294420"
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "7 Days to Die Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "startdedicated.bat"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"overridescddb" "1"
+	"294421"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7308623185810907579"
+				"size" "17833211985"
+				"download" "11877178112"
+			}
+			"latest_experimental"
+			{
+				"gid" "7308623185810907579"
+				"size" "17833211985"
+				"download" "11877178112"
+			}
+			"v1.3"
+			{
+				"gid" "7308623185810907579"
+				"size" "17833211985"
+				"download" "11877178112"
+			}
+			"v1.2"
+			{
+				"gid" "3002963820468935996"
+				"size" "17777684673"
+				"download" "11828631392"
+			}
+			"v1.1"
+			{
+				"gid" "1598768332700529974"
+				"size" "17729846268"
+				"download" "11786710592"
+			}
+			"v1.0"
+			{
+				"gid" "3764581270842411543"
+				"size" "17657811602"
+				"download" "11738980080"
+			}
+			"alpha21.2"
+			{
+				"gid" "2629975760866960693"
+				"size" "16038078600"
+				"download" "10801466224"
+			}
+			"alpha20.7"
+			{
+				"gid" "5284229167883309498"
+				"size" "12787392470"
+				"download" "5781650384"
+			}
+			"alpha19.6"
+			{
+				"gid" "4686149603724346540"
+				"size" "9826672093"
+				"download" "4342656288"
+			}
+			"alpha18.4"
+			{
+				"gid" "1987056548212269568"
+				"size" "12032124657"
+				"download" "4117113312"
+			}
+			"alpha17.4"
+			{
+				"gid" "1014351179677617302"
+				"size" "6753626320"
+				"download" "2895543392"
+			}
+			"alpha16.4"
+			{
+				"gid" "7312976631752592844"
+				"size" "3523341558"
+				"download" "1403248192"
+			}
+			"alpha15.2"
+			{
+				"gid" "6230627558933979850"
+				"size" "2930496948"
+				"download" "1131473408"
+			}
+			"alpha14.7"
+			{
+				"gid" "4677822636593761235"
+				"size" "3053456877"
+				"download" "1179643088"
+			}
+			"alpha13.8"
+			{
+				"gid" "5836883562693916091"
+				"size" "2740417503"
+				"download" "1129489888"
+			}
+			"alpha12.5"
+			{
+				"gid" "2620195875532790120"
+				"size" "2382773889"
+				"download" "956870336"
+			}
+			"alpha11.6"
+			{
+				"gid" "6384284037646508346"
+				"size" "2246700782"
+				"download" "795197584"
+			}
+			"alpha10.4"
+			{
+				"gid" "7412646391386825055"
+				"size" "1637370975"
+				"download" "693012176"
+			}
+			"alpha9.3"
+			{
+				"gid" "6472753396271220220"
+				"size" "1541620491"
+				"download" "2983988264648"
+			}
+			"alpha8.8"
+			{
+				"gid" "6555466999693160687"
+				"size" "1503218421"
+				"download" "101865792144"
+			}
+		}
+	}
+	"294422"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4914552804596026286"
+				"size" "11855736747"
+				"download" "7266698544"
+			}
+			"latest_experimental"
+			{
+				"gid" "4914552804596026286"
+				"size" "11855736747"
+				"download" "7266698544"
+			}
+			"v1.3"
+			{
+				"gid" "4914552804596026286"
+				"size" "11855736747"
+				"download" "7266698544"
+			}
+			"v1.2"
+			{
+				"gid" "6852366042385286885"
+				"size" "11818468495"
+				"download" "7232617904"
+			}
+			"v1.1"
+			{
+				"gid" "2366383150472453701"
+				"size" "11945996124"
+				"download" "7301394640"
+			}
+			"v1.0"
+			{
+				"gid" "1412324900064939868"
+				"size" "11881710139"
+				"download" "7257921360"
+			}
+			"alpha21.2"
+			{
+				"gid" "5175448704233288458"
+				"size" "16054212508"
+				"download" "10792992208"
+			}
+			"alpha20.7"
+			{
+				"gid" "4716968955855516282"
+				"size" "12845304075"
+				"download" "5779322624"
+			}
+			"alpha19.6"
+			{
+				"gid" "8368733426395777657"
+				"size" "9821147942"
+				"download" "4336841440"
+			}
+			"alpha18.4"
+			{
+				"gid" "712346436815285918"
+				"size" "12080234933"
+				"download" "4125909616"
+			}
+			"alpha17.4"
+			{
+				"gid" "779748564640465657"
+				"size" "6794586284"
+				"download" "2900810384"
+			}
+			"alpha16.4"
+			{
+				"gid" "2507660789418272148"
+				"size" "3459239207"
+				"download" "1403697296"
+			}
+			"alpha15.2"
+			{
+				"gid" "2556346443150106043"
+				"size" "2862149139"
+				"download" "1130804768"
+			}
+			"alpha14.7"
+			{
+				"gid" "6623540452959702677"
+				"size" "3108496294"
+				"download" "1195575200"
+			}
+			"alpha13.8"
+			{
+				"gid" "7779347169826947318"
+				"size" "2848566532"
+				"download" "1143748096"
+			}
+			"alpha12.5"
+			{
+				"gid" "4986361730962654647"
+				"size" "2444579464"
+				"download" "969419760"
+			}
+			"alpha11.6"
+			{
+				"gid" "6322866582767616058"
+				"size" "2190948127"
+				"download" "803733904"
+			}
+			"alpha10.4"
+			{
+				"gid" "869964754451803329"
+				"size" "1659077418"
+				"download" "704903008"
+			}
+			"alpha9.3"
+			{
+				"gid" "771574079178892216"
+				"size" "1683921450"
+				"download" "231425075915"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17249542"
+			"timeupdated" "1739383097"
+		}
+		"latest_experimental"
+		{
+			"buildid" "17249542"
+			"description" "Unstable build"
+			"timeupdated" "1738969973"
+		}
+		"v1.3"
+		{
+			"buildid" "17249542"
+			"description" "Version 1.3 Stable"
+			"timeupdated" "1739386247"
+		}
+		"v1.2"
+		{
+			"buildid" "16685893"
+			"description" "Version 1.2 Stable"
+			"timeupdated" "1733940059"
+		}
+		"v1.1"
+		{
+			"buildid" "15812436"
+			"description" "Version 1.1 Stable"
+			"timeupdated" "1727796433"
+		}
+		"v1.0"
+		{
+			"buildid" "15378458"
+			"description" "Version 1.0 Stable"
+			"timeupdated" "1723735189"
+		}
+		"alpha21.2"
+		{
+			"buildid" "12966454"
+			"description" "Alpha 21.2 Stable"
+			"timeupdated" "1705617882"
+		}
+		"alpha20.7"
+		{
+			"buildid" "10740013"
+			"description" "Alpha 20.7 Stable"
+			"timeupdated" "1681834192"
+		}
+		"alpha19.6"
+		{
+			"buildid" "7108526"
+			"description" "Alpha 19.6 Stable"
+			"timeupdated" "1640116416"
+		}
+		"alpha18.4"
+		{
+			"buildid" "4714812"
+			"description" "Alpha 18.4 Stable"
+			"timeupdated" "1591274077"
+		}
+		"alpha17.4"
+		{
+			"buildid" "3848769"
+			"description" "Alpha 17.4 Stable"
+			"timeupdated" "1561393272"
+		}
+		"alpha16.4"
+		{
+			"buildid" "2222523"
+			"description" "Alpha 16.4 Stable"
+			"timeupdated" "1509091368"
+		}
+		"alpha15.2"
+		{
+			"buildid" "1642899"
+			"description" "Alpha 15.2 Stable"
+			"timeupdated" "1487759695"
+		}
+		"alpha14.7"
+		{
+			"buildid" "1189196"
+			"description" "Alpha 14.7 Stable"
+			"timeupdated" "1466441146"
+		}
+		"alpha13.8"
+		{
+			"buildid" "963565"
+			"description" "Alpha 13.8 Stable"
+			"timeupdated" "1458644185"
+		}
+		"alpha12.5"
+		{
+			"buildid" "745252"
+			"description" "Alpha 12.5 Stable"
+		}
+		"alpha11.6"
+		{
+			"buildid" "658147"
+			"description" "Alpha 11.6 Stable"
+		}
+		"alpha10.4"
+		{
+			"buildid" "480993"
+			"description" "Alpha 10.4 Stable"
+		}
+		"alpha9.3"
+		{
+			"buildid" "385244"
+			"description" "Alpha 9.3 Stable"
+		}
+		"alpha8.8"
+		{
+			"buildid" "334790"
+			"description" "Alpha 8.8 Stable"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27686853"
+"_sha" "baecf4d612c0148d545906c6685900d7c6cecaf2"
+"_size" "9485"
