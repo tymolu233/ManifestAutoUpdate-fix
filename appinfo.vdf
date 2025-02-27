@@ -1,0 +1,518 @@
+"appid" "728880"
+"common"
+{
+	"name" "Overcooked! 2"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"clienticon" "589930a652d56d6da7241339f62fd4ac1fc10a97"
+	"clienttga" "d7d85edb028257bb5e5f2b6ff935d4ee57e5dd06"
+	"icon" "bac36f471109038ae0b40619de4109d475f86a54"
+	"clienticns" "13aac47637125a4ebc1f8dcddc5695d0a1a21b0c"
+	"linuxclienticon" "01125b6903b6959bec4508235f48d72446d2c7ef"
+	"logo" "9babb21950fe263bdd990e481cfa3704374e689f"
+	"logo_small" "9babb21950fe263bdd990e481cfa3704374e689f_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1646179200"
+		"tested_build_id" "5519153"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Overcooked! 2"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "40"
+			"height_pct" "48"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "40"
+				"height_pct" "48"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1718290420"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ghost Town Games Ltd."
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Team17"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Team17"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Team17 Digital"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Overcooked!"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_44" "1"
+		"category_49" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1533657660"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/overcooked!-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "728880"
+	"store_tags"
+	{
+		"0" "3859"
+		"1" "3843"
+		"2" "3841"
+		"3" "1685"
+		"4" "597"
+		"5" "3920"
+		"6" "4136"
+		"7" "4840"
+		"8" "492"
+		"9" "7368"
+		"10" "19"
+		"11" "5350"
+		"12" "4726"
+		"13" "7481"
+		"14" "1719"
+		"15" "4182"
+		"16" "4026"
+		"17" "599"
+		"18" "9"
+		"19" "4305"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Ghost Town Games Ltd."
+	"publisher" "Team17"
+	"homepage" "http://www.ghosttowngames.com/overcooked-2/"
+	"listofdlc" "858240,909720,1013300,1017510,1067770,1138400"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Overcooked! 2"
+	"enable_duration_control" "1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Overcooked2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Overcooked2.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Overcooked2.x86"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+		"3"
+		{
+			"executable" "Overcooked2.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1866049689"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"728881"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8562236934291228162"
+				"size" "8506959127"
+				"download" "6246167488"
+			}
+			"crossplay_branch"
+			{
+				"gid" "7406067059037132003"
+				"size" "8527079999"
+				"download" "6224246400"
+			}
+			"local"
+			{
+				"gid" "135893071181778328"
+				"size" "8178941144"
+				"download" "6012058144"
+			}
+		}
+	}
+	"728882"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "433550811082520169"
+				"size" "8707454190"
+				"download" "6382912672"
+			}
+			"crossplay_branch"
+			{
+				"gid" "3720706191510551966"
+				"size" "16591049914"
+				"download" "8136194560"
+			}
+			"local"
+			{
+				"gid" "7107321897681464929"
+				"size" "8374239595"
+				"download" "6144094704"
+			}
+		}
+	}
+	"728883"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "604448138896078557"
+				"size" "8566054841"
+				"download" "6268870384"
+			}
+			"crossplay_branch"
+			{
+				"gid" "5162844651251226165"
+				"size" "8507268116"
+				"download" "6162277136"
+			}
+			"local"
+			{
+				"gid" "7975654986717649759"
+				"size" "8235491326"
+				"download" "6033025712"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8950364"
+			"timeupdated" "1685545164"
+		}
+		"crossplay_branch"
+		{
+			"buildid" "9649127"
+			"description" "Branch for crossplay with EGS"
+			"timeupdated" "1685545199"
+		}
+		"local"
+		{
+			"buildid" "5226111"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1593379584"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Team17/Overcooked2/{64BitSteamID}"
+			"pattern" "*.save"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Team17/Overcooked2/{64BitSteamID}"
+					"replace" "unity.Team17.Overcooked/{64BitSteamID}"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Team17/Overcooked2/{64BitSteamID}"
+					"replace" ".config/unity3d/Team17/Overcooked/{64BitSteamID}"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27143458"
+"_sha" "43cbe580bef78b844e7f559b99c1e5b53a2fee77"
+"_size" "9162"
