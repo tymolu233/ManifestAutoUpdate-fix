@@ -1,0 +1,482 @@
+"appid" "638990"
+"common"
+{
+	"name" "UNDYING"
+	"type" "Game"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"oslist" "windows,macos"
+	"osarch" ""
+	"logo" "595223a931865eccc3ce4d39e453a1e0594b3d8c"
+	"logo_small" "595223a931865eccc3ce4d39e453a1e0594b3d8c_thumb"
+	"icon" "0f9f227233dfbf066a35ebf99df7dbeb8f727db9"
+	"clienticon" "46d7201d908c28c4e2255db5e0af6e3302630d5a"
+	"steamchinaapproved" "1"
+	"name_localized"
+	{
+		"schinese" "苏醒之路"
+		"sc_schinese" "苏醒之路（Undying）"
+		"japanese" "アンダイイング"
+	}
+	"releasestatesteamchina" "prerelease"
+	"clienttga" "d58c8ff2d5360d4cc477d82e750d64779b438e1f"
+	"osextended" "macos64,macosapplesilicon"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "7625854"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Undying"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"sc_schinese" "header_sc_schinese.jpg"
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-xc"
+		"library_hero" "en,zh-xc"
+		"library_logo" "en,zh-xc"
+		"library_header" "zh-cn,zh-tw,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "50.12787723785166"
+			"height_pct" "81.59722222222223"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"sc_schinese" "library_hero_sc_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "50.12787723785166"
+				"height_pct" "81.59722222222223"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "library_header_schinese.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1717172972"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Vanimals"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Skystone Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Vanimals"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Skystone Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Vanimals"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1701943345"
+	"metacritic_score" "74"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/undying\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "638990"
+	"store_tags"
+	{
+		"0" "1742"
+		"1" "6971"
+		"2" "4231"
+		"3" "1662"
+		"4" "21"
+		"5" "1659"
+		"6" "7208"
+		"7" "3835"
+		"8" "1702"
+		"9" "4791"
+		"10" "1667"
+		"11" "3920"
+		"12" "4400"
+		"13" "4145"
+		"14" "4604"
+		"15" "122"
+		"16" "1697"
+		"17" "1695"
+		"18" "19"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "develop"
+	"developer" "Vanimals"
+	"publisher" "Skystone Games"
+	"homepage" "https://vanimals.net"
+	"listofdlc" "1801540,1849330,1850650,2636880,2644380"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Undying"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Undying.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Story Mode to immerse yourself in a heartfelt tale of parenting, heritage, and the power of choices"
+				"german" "Story-Modus"
+				"french" "Mode Histoire"
+				"italian" "Modalità Storia"
+				"koreana" "스토리 모드"
+				"spanish" "Modo Historia"
+				"schinese" "故事模式，亲历一个关于养育、传承、抉择的曲折故事"
+				"tchinese" "故事模式，親歷一個關於養育、傳承、抉擇的曲折故事"
+				"japanese" "ストーリーモード"
+				"turkish" "Hikaye Modu"
+				"brazilian" "Modo História"
+			}
+			"description" "Story Mode to immerse yourself in a heartfelt tale of parenting, heritage, and the power of choices"
+		}
+		"1"
+		{
+			"executable" "Undying.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "KingdomContent/Undying.exe"
+			"workingdir" "KingdomContent"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Kingdom Mode [Pioneering] version to experience a fresh survival challenge with enhanced openness"
+				"german" "Königreich-Modus - Pionier-Version"
+				"french" "Mode Royaume - Version Pionnière"
+				"italian" "Modalità Regno - Versione Pionieristica"
+				"koreana" "홈 모드 - 개척 버전 "
+				"spanish" "Modo Reino - Versión Pionera"
+				"schinese" "家园模式【拓荒】版本，体验更高自由度的全新生存挑战"
+				"tchinese" "家園模式【拓荒】版本，體驗更高自由度的全新生存挑戰"
+				"russian" "Режим Королевства - Пионерская версия"
+				"japanese" "ホームモード - パイオニア版"
+				"turkish" "Krallık Modu - Öncü Versiyon"
+				"brazilian" "Modo Reino - Versão Pioneira"
+			}
+			"description" "Kingdom Mode [Pioneering] version to experience a fresh survival challenge with enhanced openness"
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"638991"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1991010063773292760"
+				"size" "3001191482"
+				"download" "2055269824"
+			}
+		}
+	}
+	"638993"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1515073447032563758"
+				"size" "1314357495"
+				"download" "1039260336"
+			}
+		}
+	}
+	"638992"
+	{
+	}
+	"1801540"
+	{
+		"dlcappid" "1801540"
+		"config"
+		{
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "130939910598794431"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15074245"
+			"timeupdated" "1721298238"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Vanimals/Undying"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27241783"
+"_sha" "5f761c1e555885f6a14355d96dbc207658f47a02"
+"_size" "9693"
