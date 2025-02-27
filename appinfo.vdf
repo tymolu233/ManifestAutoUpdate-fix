@@ -1,0 +1,56 @@
+"appid" "679870"
+"common"
+{
+	"name" "Dawn of War III Mod Tools"
+	"type" "Tool"
+	"parent" "285190"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "679870"
+}
+"config"
+{
+	"installdir" "Dawn of War III Mod Tools"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ModBuilder.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"679871"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2021728813019869397"
+				"size" "70879672"
+				"download" "14767872"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2063405"
+			"timeupdated" "1503582003"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "1a0f5cd641d43cd5948271e37cc91918bcae8710"
+"_size" "697"
