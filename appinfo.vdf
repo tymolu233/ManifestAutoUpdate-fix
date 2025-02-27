@@ -1,0 +1,668 @@
+"appid" "1145360"
+"common"
+{
+	"name" "Hades"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "79416954db9fc5d5079c26839a77cd35b09e1608"
+	"logo_small" "79416954db9fc5d5079c26839a77cd35b09e1608_thumb"
+	"clienticon" "c2af83dde08c0636a1cd511abd0f9290913e6249"
+	"clienttga" "6642ee1a6cb185960399b36b66640af8f7511863"
+	"icon" "8a3fca36a00883e8066263ad35dd15d77a1f9abc"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644969600"
+		"tested_build_id" "7490665"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Hades"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "93.1193955338336"
+			"height_pct" "37.97697084170876"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "93.1193955338336"
+				"height_pct" "37.97697084170876"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1679345331"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Supergiant Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Supergiant Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Supergiant Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Hades"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_13" "1"
+		"category_23" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_29" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1600353456"
+	"metacritic_score" "93"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/hades\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1145360"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "3959"
+		"2" "1646"
+		"3" "492"
+		"4" "16094"
+		"5" "19"
+		"6" "1716"
+		"7" "1756"
+		"8" "4182"
+		"9" "1742"
+		"10" "122"
+		"11" "1720"
+		"12" "4711"
+		"13" "5851"
+		"14" "4026"
+		"15" "4231"
+		"16" "6815"
+		"17" "4166"
+		"18" "1759"
+		"19" "44868"
+	}
+	"review_score" "9"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"developer" "Supergiant Games"
+	"publisher" "Supergiant Games"
+	"homepage" "http://www.supergiantgames.com"
+}
+"config"
+{
+	"installdir" "Hades"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "x64\\Hades.exe"
+			"arguments" "/c=..\\ /steampowered /DirectLoadShell=true /DebugMessages=false /DebugKeysEnabled=false /ShowFPS=false /PerfDashWarnings=false /VerboseScriptLogging=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false"
+			"workingdir" "x64\\"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Hades (DirectX - Default)"
+			}
+			"description" "Hades (DirectX - Default)"
+		}
+		"1"
+		{
+			"executable" "x86\\Hades.exe"
+			"arguments" "/c=..\\ /steampowered /DirectLoadShell=true /DebugMessages=false /DebugKeysEnabled=false /ShowFPS=false /PerfDashWarnings=false /VerboseScriptLogging=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false"
+			"workingdir" "x86\\"
+			"description" "32-bit"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"2"
+		{
+			"executable" "Debug\\x64\\Hades.exe"
+			"arguments" "/c=..\\..\\ /steampowered /DirectLoadShell=true /DebugMessages=true /DebugKeysEnabled=true /UnsafeDebugKeysEnabled=false /ShowFPS=false /PerfDashWarnings=false /AllowHardQuit=false /UseInternalBugReporter=true /UseDevSaves=true /CopyDragAndDroppedSaves=true /LiveCreateTextures=false /DebugLogSounds=false /MaxDevSaves=3000 /AutoReportAsserts=false /AutoDeleteExtraDevSaves=false /AutoDownloadSavePath=blank /AttachDxDiagToBugReports=false /AuthBasecampOnStartup=true /DisableAnalyticsInDebug=true"
+			"workingdir" "Debug\\x64\\"
+			"description" "Debug"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "nightly-qa"
+			}
+		}
+		"3"
+		{
+			"executable" "Debug\\x86\\Hades.exe"
+			"arguments" "/c=..\\..\\ /steampowered /DirectLoadShell=true /DebugMessages=true /DebugKeysEnabled=true /UnsafeDebugKeysEnabled=false /ShowFPS=false /PerfDashWarnings=false /AllowHardQuit=false /UseInternalBugReporter=true /UseDevSaves=true /CopyDragAndDroppedSaves=true /LiveCreateTextures=false /DebugLogSounds=false /MaxDevSaves=3000 /AutoReportAsserts=false /AutoDeleteExtraDevSaves=false /AutoDownloadSavePath=blank /AttachDxDiagToBugReports=false /AuthBasecampOnStartup=true /DisableAnalyticsInDebug=true"
+			"workingdir" "Debug\\x86\\"
+			"description" "Debug x86"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "nightly-qa"
+			}
+		}
+		"4"
+		{
+			"executable" "Debug\\x64\\Hades.exe"
+			"arguments" "/c=..\\..\\ /steampowered /DirectLoadShell=true /DebugMessages=true /DebugKeysEnabled=true /UnsafeDebugKeysEnabled=false /ShowFPS=false /PerfDashWarnings=false /AllowHardQuit=false /UseInternalBugReporter=true /UseDevSaves=true /CopyDragAndDroppedSaves=true /LiveCreateTextures=false /DebugLogSounds=false /MaxDevSaves=3000 /AutoReportAsserts=false /AutoDeleteExtraDevSaves=false /AutoDownloadSavePath=blank /AttachDxDiagToBugReports=false /AuthBasecampOnStartup=true /DisableAnalyticsInDebug=true"
+			"workingdir" "Debug\\x64\\"
+			"description" "Debug"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "prev-nightly"
+			}
+		}
+		"5"
+		{
+			"executable" "Debug\\x86\\Hades.exe"
+			"arguments" "/c=..\\..\\ /steampowered /DirectLoadShell=true /DebugMessages=true /DebugKeysEnabled=true /UnsafeDebugKeysEnabled=false /ShowFPS=false /PerfDashWarnings=false /AllowHardQuit=false /UseInternalBugReporter=true /UseDevSaves=true /CopyDragAndDroppedSaves=true /LiveCreateTextures=false /DebugLogSounds=false /MaxDevSaves=3000 /AutoReportAsserts=false /AutoDeleteExtraDevSaves=false /AutoDownloadSavePath=blank /AttachDxDiagToBugReports=false /AuthBasecampOnStartup=true /DisableAnalyticsInDebug=true"
+			"workingdir" "Debug\\x86\\"
+			"description" "Debug"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+				"betakey" "prev-nightly"
+			}
+		}
+		"6"
+		{
+			"executable" "Release\\x64\\Hades.exe"
+			"arguments" "/c=..\\..\\ /steampowered /DirectLoadShell=true /DebugMessages=true /DebugKeysEnabled=true /UnsafeDebugKeysEnabled=false /ShowFPS=false /PerfDashWarnings=false /AllowHardQuit=false /UseInternalBugReporter=true /UseDevSaves=true /CopyDragAndDroppedSaves=true /LiveCreateTextures=false /DebugLogSounds=false /MaxDevSaves=3000 /AutoReportAsserts=false /AutoDeleteExtraDevSaves=false /AutoDownloadSavePath=blank /AttachDxDiagToBugReports=false /AuthBasecampOnStartup=true /DisableAnalyticsInDebug=true"
+			"workingdir" "Release\\x64\\"
+			"description" "Release"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "nightly-qa"
+			}
+		}
+		"7"
+		{
+			"executable" "x64\\Hades.exe"
+			"arguments" "/c=..\\ /steampowered /DirectLoadShell=true /DebugMessages=false /DebugKeysEnabled=false /ShowFPS=false /PerfDashWarnings=false /VerboseScriptLogging=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false"
+			"workingdir" "x64\\"
+			"description" "Ship"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "nightly-qa"
+			}
+		}
+		"8"
+		{
+			"executable" "x64\\Hades.exe"
+			"arguments" "/c=..\\ /steampowered /DirectLoadShell=true /DebugMessages=false /DebugKeysEnabled=false /ShowFPS=false /PerfDashWarnings=false /VerboseScriptLogging=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false"
+			"workingdir" "x64\\"
+			"description" "Play Hades"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "techbeta"
+			}
+		}
+		"9"
+		{
+			"executable" "./Game.macOS.app/Contents/MacOS/Game.macOS"
+			"arguments" "/steampowered /DirectLoadShell=true /DebugMessages=false /DebugKeysEnabled=false /ShowFPS=false /PerfDashWarnings=false /VerboseScriptLogging=false /UnsafeDebugKeysEnabled=false /UseDevSaves=false /UseInternalBugReporter=false /LiveCreateTextures=false"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"10"
+		{
+			"executable" "Debug\\x64Vk\\Hades.exe"
+			"arguments" "/c=..\\..\\ /steampowered /DirectLoadShell=true /DebugMessages=true /DebugKeysEnabled=true /UnsafeDebugKeysEnabled=false /ShowFPS=false /PerfDashWarnings=false /AllowHardQuit=false /UseInternalBugReporter=true /UseDevSaves=true /CopyDragAndDroppedSaves=true /LiveCreateTextures=false /DebugLogSounds=false /MaxDevSaves=3000 /AutoReportAsserts=false /AutoDeleteExtraDevSaves=false /AutoDownloadSavePath=blank /AttachDxDiagToBugReports=false /AuthBasecampOnStartup=true /DisableAnalyticsInDebug=true"
+			"workingdir" "Debug\\x64\\"
+			"description" "Vulkan Debug"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "nightly-qa"
+			}
+		}
+		"11"
+		{
+			"executable" "Release\\x64Vk\\Hades.exe"
+			"arguments" "/c=..\\..\\ /steampowered /DirectLoadShell=true /DebugMessages=true /DebugKeysEnabled=true /UnsafeDebugKeysEnabled=false /ShowFPS=false /PerfDashWarnings=false /AllowHardQuit=false /UseInternalBugReporter=true /UseDevSaves=true /CopyDragAndDroppedSaves=true /LiveCreateTextures=false /DebugLogSounds=false /MaxDevSaves=3000 /AutoReportAsserts=false /AutoDeleteExtraDevSaves=false /AutoDownloadSavePath=blank /AttachDxDiagToBugReports=false /AuthBasecampOnStartup=true /DisableAnalyticsInDebug=true"
+			"workingdir" "Release\\x64Vk\\"
+			"description" "Vulkan Release"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "nightly-qa"
+			}
+		}
+		"12"
+		{
+			"executable" "x64Vk\\Hades.exe"
+			"arguments" "/c=..\\ /steampowered /DirectLoadShell=true /DebugMessages=false /DebugKeysEnabled=false /ShowFPS=false /PerfDashWarnings=false /VerboseScriptLogging=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false"
+			"workingdir" "x64Vk\\"
+			"description" "Vulkan Ship"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "nightly-qa"
+			}
+		}
+		"13"
+		{
+			"executable" "x64Vk\\Hades.exe"
+			"arguments" "/c=..\\ /steampowered /DirectLoadShell=true /DebugMessages=false /DebugKeysEnabled=false /ShowFPS=false /PerfDashWarnings=false /VerboseScriptLogging=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /UseNativeGaInput=true /UseNativeGaInputNoControllers=false"
+			"workingdir" "x64Vk\\"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"steamdeck" "0"
+			}
+			"description_loc"
+			{
+				"english" "Hades (Vulkan)"
+			}
+			"description" "Hades (Vulkan)"
+		}
+		"14"
+		{
+			"executable" "x86\\Hades.exe"
+			"arguments" "/c=..\\ /steampowered /DirectLoadShell=true /DebugMessages=false /DebugKeysEnabled=false /ShowFPS=false /PerfDashWarnings=false /VerboseScriptLogging=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /UseNativeGaInput=true /UseNativeGaInputNoControllers=false /UseSwapEffectDiscard=true /UseAnalytics=false"
+			"workingdir" "x86\\"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"steamdeck" "0"
+			}
+			"description_loc"
+			{
+				"english" "Hades (32-bit)"
+			}
+			"description" "Hades (32-bit)"
+		}
+		"15"
+		{
+			"executable" "x64Vk\\Hades.exe"
+			"arguments" "/c=..\\ /steampowered /DirectLoadShell=true /DebugMessages=false /DebugKeysEnabled=false /ShowFPS=false /PerfDashWarnings=false /VerboseScriptLogging=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false"
+			"workingdir" "x64Vk\\"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"steamdeck" "1"
+			}
+			"description_loc"
+			{
+				"english" "Hades (Vulkan - Steam Deck)"
+			}
+			"description" "Hades (Vulkan - Steam Deck)"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2077467018"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"baselanguages" ""
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1145361"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5173085471687919135"
+				"size" "11406885121"
+				"download" "10694072752"
+			}
+		}
+	}
+	"1145362"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2889773819291646530"
+				"size" "2096171605"
+				"download" "282712720"
+			}
+		}
+	}
+	"1145363"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2572656066874346283"
+				"size" "492759128"
+				"download" "78070992"
+			}
+		}
+	}
+	"1145364"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6896671991921324741"
+				"size" "11477880344"
+				"download" "10705927552"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10929685"
+			"timeupdated" "1681309217"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "62914560"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Saved Games/Hades"
+			"pattern" "Profile*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Saved Games/Hades"
+					"replace" "Supergiant Games/Hades"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27691834"
+"_sha" "acd6d435917d214fb22d8d5f50e85838c0d9522c"
+"_size" "17143"
