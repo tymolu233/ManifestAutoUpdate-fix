@@ -41,7 +41,7 @@ concurrency:
 jobs:
   update:
     #runs-on: windows-latest
-    runs-on: jiaguyun
+    runs-on: dg
     steps:
       - uses: actions/checkout@v3
         with:
