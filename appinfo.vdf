@@ -1,0 +1,376 @@
+"appid" "1061880"
+"common"
+{
+	"name" "Conan Chop Chop"
+	"type" "Game"
+	"logo" "ddb68b3c47f505750fac1e17829789a98b9af812"
+	"logo_small" "ddb68b3c47f505750fac1e17829789a98b9af812_thumb"
+	"clienticon" "ecb5a5130ee7b1ed058c36a9ba28b1f3b8e51414"
+	"clienttga" "008e66b706b2e6f5ff78c83a4ff665c72213c77a"
+	"icon" "194eb0d8e3f01437e30911201ee9617f3f32447d"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1647043200"
+		"tested_build_id" "8292834"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Conan Chop Chop"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "60.26837806301051"
+			"height_pct" "63.67846117311802"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "60.26837806301051"
+				"height_pct" "63.67846117311802"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "7a83d97ce460a3f46bde1412ca4e23d5dc7f27e9/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737450341"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mighty Kingdom"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Funcom"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Funcom"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_39" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_44" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1646139603"
+	"metacritic_score" "72"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/conan-chop-chop\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1061880"
+	"store_tags"
+	{
+		"0" "3959"
+		"1" "42804"
+		"2" "19"
+		"3" "21"
+		"4" "1716"
+		"5" "3841"
+		"6" "4236"
+		"7" "3843"
+		"8" "1646"
+		"9" "4195"
+		"10" "4747"
+		"11" "1720"
+		"12" "3859"
+		"13" "7178"
+		"14" "4106"
+		"15" "122"
+		"16" "4136"
+		"17" "1773"
+		"18" "1684"
+		"19" "4840"
+	}
+	"review_score" "5"
+	"review_percentage" "60"
+}
+"extended"
+{
+	"developer" "Mighty Kingdom"
+	"publisher" "Funcom"
+	"homepage" "https://www.conanchopchop.com/"
+}
+"config"
+{
+	"installdir" "Conan Chop Chop"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Launcher\\FuncomLauncher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "launcher"
+			}
+			"description_loc"
+			{
+				"english" "Funcom Launcher"
+			}
+			"description" "Funcom Launcher"
+		}
+		"2"
+		{
+			"executable" "Conan Chop Chop.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"1061881"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "294890675768976436"
+				"size" "2329394866"
+				"download" "394489008"
+			}
+		}
+	}
+	"1061882"
+	{
+		"config"
+		{
+			"language" ""
+		}
+	}
+	"1061883"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5702870859525313165"
+				"size" "231205519"
+				"download" "98281424"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17411139"
+			"timeupdated" "1740066347"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SavesDir"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Funcom Oslo AS/Conan Chop Chop/Saves/{64BitSteamID}"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27699101"
+"_sha" "ba43a548a5874350a19ee1844ba1fd444605e958"
+"_size" "6377"
