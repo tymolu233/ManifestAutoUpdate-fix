@@ -1,0 +1,453 @@
+"appid" "692850"
+"common"
+{
+	"name" "Bloodstained: Ritual of the Night"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"icon" "993b57262d28db59ca1afee53681a4c1c87a254f"
+	"logo" "65f533b9e87a66c2ae673235c131f6cea5230891"
+	"logo_small" "65f533b9e87a66c2ae673235c131f6cea5230891_thumb"
+	"clienttga" "ad0334171eb9d704dc15044dea02146b890cfa20"
+	"clienticns" "ee998a6290744250855aec8bc59f4abe3d63e7dd"
+	"clienticon" "486ef93750c79653f5cd776b8fda04be4b65e2c9"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1677715200"
+		"tested_build_id" "9035236"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-6.3-8"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Bloodstained:  Ritual of the Night"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "5df6b92f8efa3304ded876cf3ab721b26afb69ce/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "61.258123941173615"
+			"height_pct" "64.00189214758751"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "61.258123941173615"
+				"height_pct" "64.00189214758751"
+			}
+		}
+	}
+	"store_asset_mtime" "1730730738"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ArtPlay"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "505 Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "505 Games Official"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_13" "1"
+		"category_23" "1"
+		"category_43" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1560841200"
+	"steam_release_date" "1560862800"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "692850"
+	"store_tags"
+	{
+		"0" "1628"
+		"1" "122"
+		"2" "7208"
+		"3" "19"
+		"4" "21"
+		"5" "4085"
+		"6" "3798"
+		"7" "4975"
+		"8" "1625"
+		"9" "1756"
+		"10" "4604"
+		"11" "3952"
+		"12" "3834"
+		"13" "4182"
+		"14" "1702"
+		"15" "3871"
+		"16" "4026"
+		"17" "6650"
+		"18" "492"
+		"19" "12095"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "ArtPlay"
+	"publisher" "505 Games"
+	"homepage" "https://505games.com/games/bloodstained"
+	"listofdlc" "1041460,2380800,2380801,2380802,2380803"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Bloodstained Ritual of the Night"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BloodstainedRotN.exe"
+			"type" "none"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1877322259"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"692851"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5832232959569309380"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"692852"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4714963932404938765"
+				"size" "11777193832"
+				"download" "9705695488"
+			}
+		}
+	}
+	"1041460"
+	{
+		"dlcappid" "1041460"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6917231298397093594"
+				"size" "9235484"
+				"download" "8650608"
+			}
+		}
+	}
+	"2380800"
+	{
+		"dlcappid" "2380800"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "88576489797843989"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"2380801"
+	{
+		"dlcappid" "2380801"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "73654683342774810"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"2380802"
+	{
+		"dlcappid" "2380802"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "80519968070252210"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"2380803"
+	{
+		"dlcappid" "2380803"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1160898651314974503"
+				"size" "3989488623"
+				"download" "3784081072"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15307560"
+			"timeupdated" "1729608599"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "35"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "BloodstainedRotN/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "BloodstainedRotN/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27381649"
+"_sha" "c01e60df7eb5914eb0c20809f8d48d70c4146489"
+"_size" "7763"
