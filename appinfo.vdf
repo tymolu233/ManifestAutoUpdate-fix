@@ -1,0 +1,382 @@
+"appid" "1948980"
+"common"
+{
+	"name" "大侠立志传：碧血丹心"
+	"type" "Game"
+	"name_localized"
+	{
+		"english" "Hero\'s Adventure: Road to Passion"
+		"schinese" "大侠立志传：碧血丹心"
+		"sc_schinese" "大侠立志传：碧血丹心"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "56c450e0748b764fa31aae97cdfce262127cd73a"
+	"clienticon" "fde7b273fcfec799e3a840267b36736d1dab7056"
+	"icon" "890a5d1e3b5ff05ca0b38994d899fa96225aefbe"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"releasestatesteamchina" "prerelease"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1699920000"
+		"tested_build_id" "12661543"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "55451a5dc6898f4c39e080d068b9502c7d5a7ae6/capsule_231x87_schinese.jpg"
+		"tchinese" "e50c5ed8ddc70b2510a77d548b4f83dd3df58885/capsule_231x87_tchinese.jpg"
+		"english" "23c6c2467df976025ed8e62f7fcbb65d7dc05119/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en,zh-tw"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "zh-cn,en,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "20.176450155716395"
+			"height_pct" "47.85820536161905"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "1fbe2aa3fbbfbf6e4d33349d95d3874f78500cb8/library_600x900_schinese.jpg"
+				"english" "10c44031edbc280bd9f6213d2c31093b4c157a68/library_600x900.jpg"
+				"tchinese" "e93737568e77983795685a1b8ccf1c686cfbfcab/library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "1fbe2aa3fbbfbf6e4d33349d95d3874f78500cb8/library_600x900_schinese_2x.jpg"
+				"english" "10c44031edbc280bd9f6213d2c31093b4c157a68/library_600x900_2x.jpg"
+				"tchinese" "e93737568e77983795685a1b8ccf1c686cfbfcab/library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "5b476e89d5d46fc92c2aba81d392a7dcd82a9ed0/logo.png"
+				"schinese" "48f2f330b2045d9f564e7b4173e2522bbdb9ecd3/logo_schinese.png"
+				"tchinese" "48f2f330b2045d9f564e7b4173e2522bbdb9ecd3/logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "5b476e89d5d46fc92c2aba81d392a7dcd82a9ed0/logo_2x.png"
+				"schinese" "48f2f330b2045d9f564e7b4173e2522bbdb9ecd3/logo_schinese_2x.png"
+				"tchinese" "48f2f330b2045d9f564e7b4173e2522bbdb9ecd3/logo_tchinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "20.176450155716395"
+				"height_pct" "47.85820536161905"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "cefc0ca4918b60b3bad14c148887d6a7f52492a5/library_header_schinese.jpg"
+				"english" "d664c1b23507b2c670b2715f92798c22e0a0c1b9/library_header.jpg"
+				"tchinese" "cefc0ca4918b60b3bad14c148887d6a7f52492a5/library_header_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "cefc0ca4918b60b3bad14c148887d6a7f52492a5/library_header_schinese_2x.jpg"
+				"tchinese" "cefc0ca4918b60b3bad14c148887d6a7f52492a5/library_header_tchinese_2x.jpg"
+				"english" "d664c1b23507b2c670b2715f92798c22e0a0c1b9/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1736997998"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "半瓶醋工作室（Half Amateur Studio）"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paleo"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1700103000"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1948980"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "6915"
+		"2" "1695"
+		"3" "6971"
+		"4" "9"
+		"5" "3964"
+		"6" "492"
+		"7" "21"
+		"8" "4182"
+		"9" "1741"
+		"10" "1677"
+		"11" "599"
+		"12" "4486"
+		"13" "1687"
+		"14" "3871"
+		"15" "5984"
+		"16" "12095"
+		"17" "4085"
+		"18" "5577"
+		"19" "5611"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "半瓶醋工作室（Half Amateur Studio）"
+	"publisher" "Paleo"
+	"listofdlc" "2924120,3128600,3332620,3393130"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "WulinSH"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Wulin.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "0"
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "2"
+}
+"depots"
+{
+	"baselanguages" "english,schinese,tchinese"
+	"workshopdepot" "1948980"
+	"hasdepotsindlc" "0"
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1948981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "818297237975979345"
+				"size" "1947698766"
+				"download" "1589236112"
+			}
+		}
+	}
+	"2924120"
+	{
+		"dlcappid" "2924120"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2048559715139172161"
+				"size" "212419294"
+				"download" "171156464"
+			}
+		}
+	}
+	"3332620"
+	{
+		"dlcappid" "3332620"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3070759185843420474"
+				"size" "285396768"
+				"download" "287105968"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17317027"
+			"timeupdated" "1739261608"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "200000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "DefaultCompany/Wulin"
+			"pattern" "*.save"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27700689"
+"_sha" "eebaebdef06c1e98716d390f54dedf4f93e11652"
+"_size" "7982"
