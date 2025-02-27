@@ -1,0 +1,680 @@
+"appid" "305620"
+"common"
+{
+	"name" "The Long Dark"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"logo" "80acf2897f9212377da28ae59672fb29ae595e55"
+	"logo_small" "80acf2897f9212377da28ae59672fb29ae595e55_thumb"
+	"icon" "e26b78087b75d5e002e92f2bdd73ce6fc4861e56"
+	"clienttga" "e40281234d05c293d4b6176933e27f30b97f3edb"
+	"clienticon" "ba0009039ea7fa407bb98276dc2798af7c757ee8"
+	"clienticns" "e8926965d993714391aa74bc0f31b287a69cb163"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1653436800"
+		"tested_build_id" "8188349"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "nomfdxgiman,"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "243684452dac9262abd340ca084160183f351dd2/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "243684452dac9262abd340ca084160183f351dd2/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734041135"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Hinterland Studio Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Hinterland Studio Inc."
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1501599420"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "305620"
+	"store_tags"
+	{
+		"0" "1662"
+		"1" "1100689"
+		"2" "1695"
+		"3" "3834"
+		"4" "4166"
+		"5" "4182"
+		"6" "3839"
+		"7" "21"
+		"8" "1702"
+		"9" "3810"
+		"10" "599"
+		"11" "3835"
+		"12" "492"
+		"13" "5900"
+		"14" "3978"
+		"15" "9"
+		"16" "4026"
+		"17" "19"
+		"18" "1685"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+	"review_score_bombs" "8"
+	"review_percentage_bombs" "91"
+}
+"extended"
+{
+	"developer" "Hinterland Studio Inc."
+	"publisher" "Hinterland Studio Inc."
+	"homepage" "http://www.thelongdark.com"
+	"listofdlc" "2091330,2095000"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "TheLongDark"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "tld.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "tld.app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "tld.x86_64"
+			"description" "Launch 64-bit"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "tld.x86"
+			"description" "Launch 32-bit"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3376701399"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,tld_1,tld_2,tld_a,tld_b"
+			"use_action_block" "false"
+		}
+		"3376863569"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" ""
+			"use_action_block" "false"
+		}
+		"3378346997"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,tld_1,tld_2,tld_a,tld_b"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"workshopdepot" "305620"
+	"hasdepotsindlc" "1"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"305621"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6624736775183293633"
+				"size" "4700874533"
+				"download" "3660765312"
+			}
+		}
+	}
+	"305622"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3120326412945156640"
+				"size" "4794946005"
+				"download" "3710708192"
+			}
+		}
+	}
+	"305623"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4119900047907582471"
+				"size" "4894470928"
+				"download" "3755643440"
+			}
+		}
+	}
+	"305624"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4309327560749117625"
+				"size" "4700874526"
+				"download" "3661885760"
+			}
+		}
+	}
+	"305625"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6390032364673393677"
+				"size" "4894501668"
+				"download" "3755742176"
+			}
+		}
+	}
+	"305626"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3073461879480835520"
+				"size" "4794946005"
+				"download" "3710733168"
+			}
+		}
+	}
+	"2091331"
+	{
+		"dlcappid" "2091330"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8490271698110817000"
+				"size" "1018218356"
+				"download" "697948496"
+			}
+		}
+	}
+	"2091332"
+	{
+		"dlcappid" "2091330"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2189210772481586274"
+				"size" "1018017817"
+				"download" "698996176"
+			}
+		}
+	}
+	"2091333"
+	{
+		"dlcappid" "2091330"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1712961183781051328"
+				"size" "1020894101"
+				"download" "700505056"
+			}
+		}
+	}
+	"2095001"
+	{
+		"dlcappid" "2095000"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2579998366855310029"
+				"size" "9721341652"
+				"download" "6278086096"
+			}
+		}
+	}
+	"2095002"
+	{
+		"dlcappid" "2095000"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5108806717903399268"
+				"size" "8995191950"
+				"download" "5478037136"
+			}
+		}
+	}
+	"2095003"
+	{
+		"dlcappid" "2095000"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5439317517307169870"
+				"size" "8762554303"
+				"download" "5286162928"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16792315"
+			"timeupdated" "1734571362"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "536870912"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Hinterland/TheLongDark/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacHome"
+			"addpath" ".local/share"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".local/share"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27674027"
+"_sha" "e5dd0a9352a623ccd7c27251eaa3c7d1c602ef6b"
+"_size" "10974"
