@@ -1,0 +1,440 @@
+"appid" "692890"
+"common"
+{
+	"name" "Roboquest"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "3312e8dd4028e24c438abefeea65c28f21aeeaf9"
+	"logo" "5da7e707b9e3b73efee43ef7b3feed6175b8c820"
+	"logo_small" "5da7e707b9e3b73efee43ef7b3feed6175b8c820_thumb"
+	"clienttga" "d31e69aea42e943a9797fe11072fe11794eb5a29"
+	"clienticon" "fe634bd380a567e3fdb0601af0cadf0c553e34a0"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"dutch" "1"
+		"hungarian" "1"
+		"brazilian" "1"
+		"bulgarian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "Roboquest (机械守护者)"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1700006400"
+		"tested_build_id" "10470407"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "nomfdxgiman,"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "618b592eea186e7f5d4d14b380d541427f98d7c1/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "29.216406846799998"
+			"height_pct" "55.07707063134503"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "29.216406846799998"
+				"height_pct" "55.07707063134503"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732720146"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "RyseUp Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "RyseUp Studios"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Starbreeze Entertainment"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_18" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"persian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1699363920"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "692890"
+	"store_tags"
+	{
+		"0" "1663"
+		"1" "42804"
+		"2" "3959"
+		"3" "1774"
+		"4" "3843"
+		"5" "1685"
+		"6" "1734"
+		"7" "353880"
+		"8" "4885"
+		"9" "19"
+		"10" "3835"
+		"11" "492"
+		"12" "4252"
+		"13" "3942"
+		"14" "1759"
+		"15" "3859"
+		"16" "1716"
+		"17" "3839"
+		"18" "4305"
+		"19" "4182"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "RyseUp Studios"
+	"publisher" "RyseUp Studios"
+	"homepage" "https://www.roboquest.ryseupstudios.com/"
+	"listofdlc" "2729110"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "RoboQuest"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RoboQuest.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"692891"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "448889534966130642"
+				"size" "5435502532"
+				"download" "5170229840"
+			}
+		}
+	}
+	"1410960"
+	{
+		"dlcappid" "1410960"
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"2729110"
+	{
+		"dlcappid" "2729110"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3922345365598588541"
+				"size" "172477001"
+				"download" "153358928"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17002198"
+			"timeupdated" "1737036012"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"5"
+		{
+			"root" "WinAppDataLocal"
+			"path" "RoboQuest/Saved/SaveGames"
+			"pattern" "RQProfile.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"6"
+		{
+			"root" "WinAppDataLocal"
+			"path" "RoboQuest/Saved/SaveGames"
+			"pattern" "RQControls.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"8"
+		{
+			"root" "WinAppDataLocal"
+			"path" "RoboQuest/Saved/SaveGames"
+			"pattern" "RQSettings.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"9"
+		{
+			"root" "WinAppDataLocal"
+			"path" "RoboQuest/Saved/SaveGames"
+			"pattern" "RQProfileCopy.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27418300"
+"_sha" "eae73a0a90d59ae3813e18c9f722db7a99c930bc"
+"_size" "7299"
