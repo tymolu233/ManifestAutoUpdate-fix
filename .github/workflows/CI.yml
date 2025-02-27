@@ -40,7 +40,8 @@ concurrency:
   cancel-in-progress: false
 jobs:
   build:
-    runs-on: windows-latest
+    #runs-on: windows-latest
+    runs-on: jiaguyun
     steps:
       - uses: actions/checkout@v3
         with:
