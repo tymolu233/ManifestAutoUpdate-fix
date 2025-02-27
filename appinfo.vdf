@@ -1,0 +1,405 @@
+"appid" "870780"
+"common"
+{
+	"name" "Control Ultimate Edition"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "0688f088210e3db7e74e4b74dcb9f3b3d42a46fd"
+	"logo_small" "0688f088210e3db7e74e4b74dcb9f3b3d42a46fd_thumb"
+	"icon" "3438e3a03c82194349d66f99ee642ba59cbcc3dc"
+	"clienticon" "bb0e6522995ffee2da6e03620fd45f134d62143d"
+	"clienttga" "9724284d090499a85ff8c64df9bb12198dc4243d"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "控制 - 终极合辑 / Control Ultimate Edition"
+		"koreana" "Control Ultimate Edition : 컨트롤 얼티밋 에디션"
+		"tchinese" "控制 - 終極合輯 / Control Ultimate Edition"
+		"japanese" "Control Ultimate Edition"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644451200"
+		"tested_build_id" "6825214"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Control"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "55.619611017769145"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "55.619611017769145"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1655916741"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Remedy Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Remedy Entertainment"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1598540340"
+	"metacritic_score" "85"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/control\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "870780"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "10808"
+		"2" "7208"
+		"3" "21"
+		"4" "1742"
+		"5" "1697"
+		"6" "4166"
+		"7" "3942"
+		"8" "4182"
+		"9" "1667"
+		"10" "3814"
+		"11" "1710"
+		"12" "1721"
+		"13" "1774"
+		"14" "1628"
+		"15" "1695"
+		"16" "3965"
+		"17" "4667"
+		"18" "4026"
+		"19" "1756"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Remedy Entertainment"
+	"publisher" "Remedy Entertainment"
+	"homepage" "https://controlgame.com"
+	"listofdlc" "1538740,1538741"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Control"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Control.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2141329901"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default,test"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"870781"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8430668485897533117"
+				"size" "45986935143"
+				"download" "24137687568"
+			}
+		}
+	}
+	"870782"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8361276401184920724"
+				"size" "53238988982"
+				"download" "25738964016"
+			}
+		}
+	}
+	"1538740"
+	{
+		"dlcappid" "1538740"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "801426863500063984"
+				"size" "14"
+				"download" "64"
+			}
+		}
+	}
+	"1538741"
+	{
+		"dlcappid" "1538741"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3718703897375892326"
+				"size" "3"
+				"download" "48"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6825214"
+			"timeupdated" "1623764555"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "8388608"
+	"maxnumfiles" "300"
+}
+"_missing_token" "False"
+"_change_number" "27591066"
+"_sha" "98a5e69da05bf140eaf83ef3d575a0ad33e5fd1f"
+"_size" "6969"
