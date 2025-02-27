@@ -1,0 +1,390 @@
+"appid" "668630"
+"common"
+{
+	"name" "Tricolour Lovestory"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"icon" "4821569fdcde5100761669d70050480d1509db48"
+	"logo" "80c8ea2312bd29e6c86f4724001cb8cc1dd031a5"
+	"logo_small" "80c8ea2312bd29e6c86f4724001cb8cc1dd031a5_thumb"
+	"clienticon" "553f136fc2c669602efa209e9c88a862ff22ab83"
+	"clienttga" "fa347b4ca7208fef5c963227ece068bc1c41a4cf"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1644451200"
+		"tested_build_id" "8086861"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Tricolour Lovestory"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "zh-cn,en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "58.98483080513419"
+			"height_pct" "76.97696509142722"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"schinese" "library_hero_schinese.jpg"
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "58.98483080513419"
+				"height_pct" "76.97696509142722"
+			}
+		}
+	}
+	"store_asset_mtime" "1667843325"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "HL-Galgame"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "SakuraGame"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "LSP恋爱游戏"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1505962895"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "668630"
+	"store_tags"
+	{
+		"0" "3799"
+		"1" "9551"
+		"2" "5611"
+		"3" "12095"
+		"4" "6650"
+		"5" "4085"
+		"6" "599"
+		"7" "597"
+		"8" "24904"
+		"9" "1756"
+		"10" "4947"
+		"11" "1742"
+		"12" "492"
+		"13" "7948"
+		"14" "4182"
+		"15" "5984"
+		"16" "4726"
+		"17" "21"
+		"18" "9130"
+		"19" "1663"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "HL-Galgame"
+	"publisher" "SakuraGame"
+	"homepage" "http://www.hl-avg.com"
+	"listofdlc" "734400,776480,789070,846720,1820130,1850380"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Tricolour Lovestory"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "TricolourLovestory_chs.exe"
+			"description" "三色△绘恋 简体中文"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "TricolourLovestory_en.exe"
+			"description" "Tricolour Lovestory English Version"
+			"type" "none"
+		}
+		"3"
+		{
+			"executable" "TricolourLovestoryCE/TricolourLovestoryCE.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1820130"
+			}
+			"description_loc"
+			{
+				"english" "Tricolour Lovestory -Complete Editon-"
+			}
+			"description" "Tricolour Lovestory -Complete Editon-"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"hasdepotsindlc" "0"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"668631"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2948679458104133823"
+				"size" "6183670862"
+				"download" "5764381200"
+			}
+		}
+	}
+	"734400"
+	{
+		"dlcappid" "734400"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "676328675949740825"
+				"size" "393980033"
+				"download" "397120864"
+			}
+		}
+	}
+	"776480"
+	{
+		"dlcappid" "776480"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1875876348884099607"
+				"size" "532967845"
+				"download" "529518656"
+			}
+		}
+	}
+	"789070"
+	{
+		"dlcappid" "789070"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5995652231977754716"
+				"size" "121348655"
+				"download" "100205296"
+			}
+		}
+	}
+	"846720"
+	{
+		"dlcappid" "846720"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4861110266027743585"
+				"size" "526941247"
+				"download" "495944944"
+			}
+		}
+	}
+	"1820130"
+	{
+		"dlcappid" "1820130"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3961289873247116164"
+				"size" "3601506609"
+				"download" "3200982128"
+			}
+		}
+	}
+	"1850380"
+	{
+		"dlcappid" "1850380"
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6894147370372719483"
+				"size" "708771001"
+				"download" "534788688"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9881628"
+			"timeupdated" "1667787541"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "102400000"
+	"maxnumfiles" "9999"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "savedata"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27691834"
+"_sha" "ab835eb6461f15085d3a58766599caf6be9e6798"
+"_size" "6581"
