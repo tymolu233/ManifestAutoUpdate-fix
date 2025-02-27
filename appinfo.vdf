@@ -1,0 +1,421 @@
+"appid" "1623730"
+"common"
+{
+	"name" "Palworld"
+	"type" "Game"
+	"logo" "85efe96d002acd22778d9ba8b3d5706acf0a1a6e"
+	"logo_small" "85efe96d002acd22778d9ba8b3d5706acf0a1a6e_thumb"
+	"icon" "f5523077a8f4c923c2e8d8c17794b3319035fa73"
+	"clienticon" "22a20bdaa6d782f60caa45eb7b02fc2411dcd988"
+	"clienttga" "2032a63848f1ab00b518b7e984bd533c1ce0cf07"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"japanese" "Palworld / パルワールド"
+		"schinese" "Palworld / 幻兽帕鲁"
+		"tchinese" "Palworld / 幻獸帕魯"
+		"koreana" "Palworld / 팰월드"
+	}
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1623730_eula_0"
+			"name" "Palworld EULA"
+			"url" "https://store.steampowered.com//eula/1623730_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1735948800"
+		"tested_build_id" "14326303"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"tchinese" "7eabc6a0e4a63c6e53b197d97fc538ac86f3eb43/capsule_231x87_tchinese.jpg"
+		"schinese" "c5806289105932d9729d1ccba4bd5fc6158078af/capsule_231x87_schinese.jpg"
+		"english" "4f823e476ad290ad4f19763e7d800723df422dfa/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "zh-cn,zh-tw,en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "60.804567880524445"
+			"height_pct" "96.24501290776814"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "60.804567880524445"
+				"height_pct" "96.24501290776814"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "library_header_schinese.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_header_schinese_2x.jpg"
+				"tchinese" "library_header_tchinese_2x.jpg"
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734923117"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pocketpair"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Pocketpair"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1705651169"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1623730"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "1662"
+		"2" "3859"
+		"3" "916648"
+		"4" "1100689"
+		"5" "1702"
+		"6" "1685"
+		"7" "21"
+		"8" "3810"
+		"9" "3814"
+		"10" "255534"
+		"11" "19"
+		"12" "122"
+		"13" "493"
+		"14" "4085"
+		"15" "6730"
+		"16" "4191"
+		"17" "492"
+		"18" "353880"
+		"19" "1646"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Pocketpair"
+	"publisher" "Pocketpair"
+	"homepage" "https://www.pocketpair.jp/palworld"
+}
+"config"
+{
+	"installdir" "Palworld"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Palworld.exe"
+			"type" "default"
+			"config"
+			{
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Play Palworld"
+				"japanese" "パルワールド / Palworldをプレイ"
+			}
+			"description" "Play Palworld"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "3"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1623731"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2301631253214194992"
+				"size" "28056990901"
+				"download" "22729894864"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17469312"
+			"timeupdated" "1740456137"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Pal/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27694303"
+"_sha" "06eedccd83262afc44ae23042a973188c0ed004d"
+"_size" "8030"
