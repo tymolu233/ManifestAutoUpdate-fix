@@ -1,0 +1,685 @@
+"appid" "233450"
+"common"
+{
+	"name" "Prison Architect"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"clienticon" "5a24f40095a4434204fb6575f03b62dab779a44c"
+	"clienttga" "c5234168195e4c1788da666a61ede0d3f1f16a2c"
+	"icon" "c166c7911beec4d63a74cdddf25f26b73c84556b"
+	"logo" "fe2f32349f62c1a5d6ee48abd87a6232d32724d1"
+	"logo_small" "fe2f32349f62c1a5d6ee48abd87a6232d32724d1_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"dutch" "1"
+		"swedish" "1"
+		"brazilian" "1"
+	}
+	"osarch" "64"
+	"osextended" "macos64,macosnotarized"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "233450_eula_0"
+			"name" "Prison Architect EULA"
+			"url" "https://store.steampowered.com//eula/233450_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "7609607"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Prison Architect"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "38.88336110571787"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "38.88336110571787"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1684162288"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Introversion Software"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Double Eleven"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Paradox Interactive"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Prison Architect"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_22" "1"
+		"category_17" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "1"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1444114800"
+	"steam_release_date" "1444142820"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/prison-architect\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "233450"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "1643"
+		"2" "3810"
+		"3" "7332"
+		"4" "220585"
+		"5" "9"
+		"6" "12472"
+		"7" "4328"
+		"8" "3871"
+		"9" "4791"
+		"10" "3859"
+		"11" "8945"
+		"12" "4695"
+		"13" "4182"
+		"14" "1669"
+		"15" "4845"
+		"16" "4136"
+		"17" "4711"
+		"18" "492"
+		"19" "597"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+	"review_score_bombs" "8"
+	"review_percentage_bombs" "89"
+}
+"extended"
+{
+	"checkpkgstate" "1"
+	"developer" "Introversion Software"
+	"gamedir" "ValveTestApp233450"
+	"homepage" "https://www.prisonarchitect.com/"
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateComingSoonNoPreload"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Paradox Interactive"
+	"listofdlc" "234430,234431,234432,234433,1143650,1195240,1244780,1244781,1493470,1601350,1760030,1948120,2085570,2154010,2184800,2237250"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Prison Architect"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Launcher\\dowser.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Launcher\\dowser"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "prison architect64.exe"
+			"arguments" "-safemode"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch in SAFE MODE"
+			}
+			"description" "Launch in SAFE MODE"
+		}
+		"3"
+		{
+			"executable" "Prison Architect.app"
+			"arguments" "-safemode"
+			"description" "Launch in SAFE MODE"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"4"
+		{
+			"executable" "Launcher\\dowser"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"5"
+		{
+			"executable" "PrisonArchitect"
+			"arguments" "-safemode"
+			"description" "Launch in SAFE MODE"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"7"
+		{
+			"executable" "Prison Architect.exe"
+			"description" "Prison Architect Anniversary - 2015 version"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "prisonarchitect_anniversary_2015_version"
+			}
+		}
+		"8"
+		{
+			"executable" "Prison Architect.app"
+			"description" "Prison Architect Anniversary - 2015 version"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "prisonarchitect_anniversary_2015_version"
+			}
+		}
+		"9"
+		{
+			"executable" "PrisonArchitect"
+			"description" "Prison Architect Anniversary - 2015 version"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "prisonarchitect_anniversary_2015_version"
+			}
+		}
+		"10"
+		{
+			"executable" "Prison Architect.exe"
+			"description" "Prison Architect Anniversary - 2018 version"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "prisonarchitect_anniversary_2018_version"
+			}
+		}
+		"11"
+		{
+			"executable" "Prison Architect.app"
+			"description" "Prison Architect Anniversary - 2018 version"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "prisonarchitect_anniversary_2018_version"
+			}
+		}
+		"12"
+		{
+			"executable" "PrisonArchitect"
+			"description" "Prison Architect Anniversary - 2018 version"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "prisonarchitect_anniversary_2018_version"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"overridescddb" "1"
+	"233451"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "214199605922079846"
+				"size" "536985738"
+				"download" "518561136"
+			}
+			"beta"
+			{
+				"gid" "8665413028647381948"
+				"size" "376625428"
+				"download" "365573792"
+			}
+			"prisonarchitect_anniversary_2015_version"
+			{
+				"gid" "5776768502849728890"
+				"size" "282173573"
+				"download" "284653760"
+			}
+			"prisonarchitect_anniversary_2018_version"
+			{
+				"gid" "8665413028647381948"
+				"size" "376625428"
+				"download" "365573792"
+			}
+		}
+	}
+	"233452"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8796105605411077743"
+				"size" "565083957"
+				"download" "530924368"
+			}
+			"beta"
+			{
+				"gid" "1819819287408520175"
+				"size" "376914903"
+				"download" "362404640"
+			}
+			"prisonarchitect_anniversary_2015_version"
+			{
+				"gid" "7737756844263416190"
+				"size" "292473180"
+				"download" "281506416"
+			}
+			"prisonarchitect_anniversary_2018_version"
+			{
+				"gid" "1819819287408520175"
+				"size" "376914903"
+				"download" "362404640"
+			}
+		}
+	}
+	"233453"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6703655944775788476"
+				"size" "550031103"
+				"download" "524977728"
+			}
+			"beta"
+			{
+				"gid" "8301364900130876068"
+				"size" "387453807"
+				"download" "368130720"
+			}
+			"prisonarchitect_anniversary_2015_version"
+			{
+				"gid" "5611017670719180343"
+				"size" "298928807"
+				"download" "286327632"
+			}
+			"prisonarchitect_anniversary_2018_version"
+			{
+				"gid" "8301364900130876068"
+				"size" "387453807"
+				"download" "368130720"
+			}
+		}
+	}
+	"234432"
+	{
+		"dlcappid" "234432"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "548000939191343126"
+				"size" "36878989"
+				"download" "34019392"
+			}
+			"beta"
+			{
+				"gid" "548000939191343126"
+				"size" "36878989"
+				"download" "34019392"
+			}
+			"prisonarchitect_anniversary_2015_version"
+			{
+				"gid" "548000939191343126"
+				"size" "36878989"
+				"download" "34019392"
+			}
+			"prisonarchitect_anniversary_2018_version"
+			{
+				"gid" "548000939191343126"
+				"size" "36878989"
+				"download" "34019392"
+			}
+		}
+	}
+	"234433"
+	{
+		"dlcappid" "234433"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "836138921998834207"
+				"size" "762838238"
+				"download" "639328800"
+			}
+			"beta"
+			{
+				"gid" "836138921998834207"
+				"size" "762838238"
+				"download" "639328800"
+			}
+			"prisonarchitect_anniversary_2015_version"
+			{
+				"gid" "3284234627124930936"
+				"size" "459361372"
+				"download" "358221072"
+			}
+			"prisonarchitect_anniversary_2018_version"
+			{
+				"gid" "836138921998834207"
+				"size" "762838238"
+				"download" "639328800"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10630057"
+			"timeupdated" "1684242049"
+		}
+		"beta"
+		{
+			"buildid" "3409728"
+			"description" "Upcoming Version for Testing"
+			"timeupdated" "1545224561"
+		}
+		"prisonarchitect_anniversary_2015_version"
+		{
+			"buildid" "801731"
+			"description" "Prison Architect Anniversary - 2015 version"
+			"timeupdated" "1601970226"
+		}
+		"prisonarchitect_anniversary_2018_version"
+		{
+			"buildid" "3409728"
+			"description" "Prison Architect Anniversary - 2018 version"
+			"timeupdated" "1601970283"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "27103115"
+"_sha" "ea943e35dfca19b4025394571e2eca24a88f936d"
+"_size" "12738"
