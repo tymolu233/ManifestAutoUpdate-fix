@@ -1,0 +1,637 @@
+"appid" "386940"
+"common"
+{
+	"name" "Ultimate Chicken Horse"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"logo" "cbf5f8788f86f3462f8642caffde490040f4117e"
+	"logo_small" "cbf5f8788f86f3462f8642caffde490040f4117e_thumb"
+	"icon" "07e45651fd2e37fde1d512c4cb77238ff5ce97c0"
+	"clienticns" "5496b9121dc3c1239136bbd4567831b29739ce18"
+	"clienticon" "8e29306492e3b3e841a49e27bce93bffb02182c3"
+	"clienttga" "d6a527630308f63ed81812d1954734ae1fe77cc4"
+	"linuxclienticon" "2a696e0b980fead4599ba7b6b60297cc639f3d9a"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"swedish" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"osarch" ""
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"koreana" "얼티밋 치킨 호스"
+		"schinese" "超级鸡马"
+		"tchinese" "超級雞馬"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1664582400"
+		"tested_build_id" "9573495"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Ultimate Chicken Horse"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "31"
+			"height_pct" "54"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "31"
+				"height_pct" "54"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1740161084"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Clever Endeavour Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Clever Endeavour Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_9" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_29" "1"
+		"category_27" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_17" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1457110800"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "386940"
+	"store_tags"
+	{
+		"0" "3859"
+		"1" "7108"
+		"2" "4136"
+		"3" "1625"
+		"4" "3841"
+		"5" "7178"
+		"6" "1775"
+		"7" "7368"
+		"8" "8122"
+		"9" "3877"
+		"10" "4840"
+		"11" "3843"
+		"12" "597"
+		"13" "3878"
+		"14" "5350"
+		"15" "4036"
+		"16" "3871"
+		"17" "4726"
+		"18" "19"
+		"19" "5379"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Clever Endeavour Games"
+	"publisher" "Clever Endeavour Games"
+	"homepage" "http://www.ultimatechickenhorse.com"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Ultimate Chicken Horse"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "UltimateChickenHorse.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "UltimateChickenHorse.x86_64"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "UltimateChickenHorse.app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2442419596"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"386941"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "819494070590847490"
+				"size" "6"
+				"download" "64"
+			}
+			"mac_input_fix"
+			{
+				"gid" "819494070590847490"
+				"size" "6"
+				"download" "64"
+			}
+			"online-fixes"
+			{
+				"gid" "819494070590847490"
+				"size" "6"
+				"download" "64"
+			}
+		}
+	}
+	"386942"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2656345245742222625"
+				"size" "2183943282"
+				"download" "726317760"
+			}
+			"mac_input_fix"
+			{
+				"gid" "1915804465260713798"
+				"size" "1871359269"
+				"download" "613374816"
+			}
+			"online-fixes"
+			{
+				"gid" "4426958378491955095"
+				"size" "2183893602"
+				"download" "726323072"
+			}
+		}
+	}
+	"386943"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2694079455800725996"
+				"size" "2221932719"
+				"download" "734872656"
+			}
+			"mac_input_fix"
+			{
+				"gid" "7236606332684062450"
+				"size" "1908919570"
+				"download" "621900160"
+			}
+			"online-fixes"
+			{
+				"gid" "2298774592664681860"
+				"size" "2221883039"
+				"download" "734871024"
+			}
+		}
+	}
+	"386944"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5019882789656582233"
+				"size" "2225525191"
+				"download" "726347616"
+			}
+			"mac_input_fix"
+			{
+				"gid" "2009889448868600724"
+				"size" "1912530363"
+				"download" "613382560"
+			}
+			"online-fixes"
+			{
+				"gid" "2778063160963917943"
+				"size" "2225475511"
+				"download" "726345520"
+			}
+		}
+	}
+	"386945"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "890477716665417980"
+				"size" "2174850410"
+				"download" "723553424"
+			}
+			"mac_input_fix"
+			{
+				"gid" "2715595792265521018"
+				"size" "1862266397"
+				"download" "610607952"
+			}
+			"online-fixes"
+			{
+				"gid" "2808105220566564620"
+				"size" "2174800730"
+				"download" "723553104"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15129211"
+			"timeupdated" "1721936432"
+		}
+		"mac_input_fix"
+		{
+			"buildid" "12702231"
+			"description" "Test fix for the mac controllers"
+			"timeupdated" "1699990508"
+		}
+		"online-fixes"
+		{
+			"buildid" "14536422"
+			"description" "Branch for testing online fixes"
+			"timeupdated" "1717002431"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "UltimateChickenHorse_Data"
+			"pattern" "*.uch"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Clever Endeavour Games/Ultimate Chicken Horse"
+			"pattern" "*.snapshot"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Clever Endeavour Games/Ultimate Chicken Horse"
+			"pattern" "*.uch"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Clever Endeavour Games/Ultimate Chicken Horse"
+			"pattern" "*.ruleset"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "UltimateChickenHorse_Data"
+					"replace" "UltimateChickenHorse.app/Contents"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Clever Endeavour Games/Ultimate Chicken Horse"
+					"replace" "/Library/Application Support/Clever Endeavour Games/Ultimate Chicken Horse"
+				}
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Clever Endeavour Games/Ultimate Chicken Horse"
+					"replace" ".config/unity3d/Clever Endeavour Games/Ultimate Chicken Horse"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27600418"
+"_sha" "c1934429d51b3bf60ebeea3daad60cfc889f7154"
+"_size" "11116"
