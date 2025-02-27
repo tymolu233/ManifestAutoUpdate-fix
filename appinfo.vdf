@@ -1,0 +1,485 @@
+"appid" "1105670"
+"common"
+{
+	"name" "The Last Spell"
+	"type" "Game"
+	"logo" "f0055271755f0e5fa1f7f766ff93ebd1fd471146"
+	"logo_small" "f0055271755f0e5fa1f7f766ff93ebd1fd471146_thumb"
+	"icon" "a82120eaca50dcdcd92474144cd0a51173e7e141"
+	"clienttga" "9e20b0b2e836b550d111b382794441e7ace76f1a"
+	"clienticon" "5e8d6c9aef2e45218e7c38883885594e0904504b"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "最后的咒语"
+		"tchinese" "最後的咒語"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1683936000"
+		"tested_build_id" "11030752"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-1"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "The Last Spell"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "7be7c77e3f29feeeb1bc96d0a0bbc0a0ef79631a/capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,zh-cn,zh-tw"
+		"library_hero" "en,ja"
+		"library_logo" "en,ja,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "98.75510104678668"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"japanese" "library_hero_japanese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"japanese" "library_hero_japanese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "98.75510104678668"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"japanese" "logo_japanese.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"japanese" "logo_japanese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1728641362"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ishtar Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "The Arcade Crew"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Gamera Games"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "DANGEN Entertainment"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Ishtar Games"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "Gamera Games"
+		}
+		"6"
+		{
+			"type" "franchise"
+			"name" "DANGEN Entertainment"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1678374000"
+	"metacritic_score" "82"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/the-last-spell\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1105670"
+	"store_tags"
+	{
+		"0" "1708"
+		"1" "4182"
+		"2" "3871"
+		"3" "3964"
+		"4" "17305"
+		"5" "1759"
+		"6" "1677"
+		"7" "3959"
+		"8" "1645"
+		"9" "14139"
+		"10" "21725"
+		"11" "4604"
+		"12" "1741"
+		"13" "4325"
+		"14" "122"
+		"15" "9"
+		"16" "7332"
+		"17" "3835"
+		"18" "1684"
+		"19" "1716"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Ishtar Games"
+	"publisher" "The Arcade Crew"
+	"homepage" "http://lastspell.com/"
+	"listofdlc" "2795980"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "The Last Spell"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "The Last Spell.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamdecktouchscreen" "5"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"hasdepotsindlc" "1"
+	"1105671"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2737723623298057162"
+				"size" "5839910744"
+				"download" "1160325184"
+			}
+			"previous_version"
+			{
+				"gid" "1730752164786694685"
+				"size" "4351492066"
+				"download" "773832112"
+			}
+			"v0.92.2.3-we_can_be_heroes_update"
+			{
+				"gid" "8600358321902676645"
+				"size" "2104561285"
+				"download" "411629872"
+			}
+			"v0.94.1.1-enemies_update"
+			{
+				"gid" "1370226679963390418"
+				"size" "2323843917"
+				"download" "439748784"
+			}
+			"v0.94.1.1-glendwald_calling"
+			{
+				"gid" "683895400996538588"
+				"size" "2215640437"
+				"download" "425010048"
+			}
+			"v0.96.2.6-over_the_mist_and_far_away"
+			{
+				"gid" "2701071051153879954"
+				"size" "2958932221"
+				"download" "548119856"
+			}
+			"v0.97.2.1-fear_of_the_lake"
+			{
+				"gid" "7271390659108929302"
+				"size" "3368494194"
+				"download" "621882704"
+			}
+			"v0.98.1.14-highway_to_elderlicht"
+			{
+				"gid" "6840807335233319075"
+				"size" "3889886778"
+				"download" "655333824"
+			}
+			"v0.99.1.8-master_of_omens"
+			{
+				"gid" "1730752164786694685"
+				"size" "4351492066"
+				"download" "773832112"
+			}
+		}
+	}
+	"workshopdepot" "1105670"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17155050"
+			"timeupdated" "1738679395"
+		}
+		"previous_version"
+		{
+			"buildid" "9968252"
+			"description" "To keep on playing the past update To keep on playing the past update Master of Omens (October 2022) - Keep on playing the previous update"
+			"timeupdated" "1678290465"
+		}
+		"v0.92.2.3-we_can_be_heroes_update"
+		{
+			"buildid" "7107752"
+			"description" "To keep on playing the past update We Can Be Heroes (June 2021)."
+			"timeupdated" "1631198157"
+		}
+		"v0.94.1.1-enemies_update"
+		{
+			"buildid" "8022525"
+			"description" "\tTo keep on playing the past update Enemies update (December 2021)."
+			"timeupdated" "1647274127"
+		}
+		"v0.94.1.1-glendwald_calling"
+		{
+			"buildid" "7559758"
+			"description" "To keep on playing the past update Glendwald calling (September 2021)."
+			"timeupdated" "1647265199"
+		}
+		"v0.96.2.6-over_the_mist_and_far_away"
+		{
+			"buildid" "8791794"
+			"description" "To keep on playing the past update Over the Mist and Far Away (March 2022).\t"
+			"timeupdated" "1654609684"
+		}
+		"v0.97.2.1-fear_of_the_lake"
+		{
+			"buildid" "8971601"
+			"description" "To keep on playing the past update Fear of the Lake (June 2022)."
+			"timeupdated" "1659039866"
+		}
+		"v0.98.1.14-highway_to_elderlicht"
+		{
+			"buildid" "9229970"
+			"description" "To keep on playing the past update Highway to Elderlicht (August 2022)."
+			"timeupdated" "1666191124"
+		}
+		"v0.99.1.8-master_of_omens"
+		{
+			"buildid" "9968252"
+			"description" "To keep on playing the past update Master of Omens (October 2022).\t"
+			"timeupdated" "1678290402"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "300971520"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Ishtar Games/The Last Spell/Save"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27676660"
+"_sha" "140a80f8522a1633261b7fb6327af8288b5bf5b9"
+"_size" "9899"
