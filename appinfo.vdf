@@ -1,0 +1,391 @@
+"appid" "998740"
+"common"
+{
+	"name" "Ring of Pain"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"logo" "9469bf314269ab0ba1b2c65648d48f9443209c99"
+	"logo_small" "9469bf314269ab0ba1b2c65648d48f9443209c99_thumb"
+	"icon" "ed6af653684527f88d189ad86ed958c106931d5b"
+	"clienticon" "f22d66c136f88c5217d8ca3c92d7c22853a81c95"
+	"clienttga" "349ec92141c37c2a4ff0bb158c90364862896ea2"
+	"releasestate" "released"
+	"osextended" "macos64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "苦痛之环 Ring of Pain"
+		"tchinese" "苦痛之環 Ring of Pain"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "7522739"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "55.11090977091113"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "55.11090977091113"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1697068834"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Simon Boxer"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Twice Different"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Humble Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Humble Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1602781218"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "998740"
+	"store_tags"
+	{
+		"0" "1720"
+		"1" "1666"
+		"2" "3959"
+		"3" "1677"
+		"4" "1716"
+		"5" "4026"
+		"6" "4342"
+		"7" "9"
+		"8" "122"
+		"9" "4252"
+		"10" "3854"
+		"11" "4604"
+		"12" "4166"
+		"13" "1667"
+		"14" "4182"
+		"15" "6276"
+		"16" "492"
+		"17" "4711"
+		"18" "11123"
+		"19" "1091588"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Simon Boxer"
+	"publisher" "Humble Games"
+	"homepage" "http://ringofpain.com"
+}
+"config"
+{
+	"installdir" "Ring of Pain"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Ring Of Pain.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Ring Of Pain.app\\Contents\\MacOS\\Ring Of Pain"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "65524"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"998741"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2734690553067547201"
+				"size" "847134289"
+				"download" "554712192"
+			}
+			"beta"
+			{
+				"gid" "2734690553067547201"
+				"size" "847134289"
+				"download" "554712192"
+			}
+		}
+	}
+	"998742"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7590080676274527613"
+				"size" "907011122"
+				"download" "567444448"
+			}
+			"beta"
+			{
+				"gid" "7590004202241170904"
+				"size" "895235428"
+				"download" "558296144"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12609201"
+			"timeupdated" "1698993513"
+		}
+		"beta"
+		{
+			"buildid" "13625441"
+			"description" "Public beta branch"
+			"timeupdated" "1709457269"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Twice Different/Ring Of Pain/{64BitSteamID}"
+			"pattern" "*.rop"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "Twice Different/Ring Of Pain/{64BitSteamID}"
+			"pattern" "*.rop"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27618668"
+"_sha" "d90434e300297cd261ca72dba692c64059a2d74b"
+"_size" "6630"
