@@ -1,0 +1,254 @@
+"appid" "377530"
+"common"
+{
+	"name" "侠客风云传(Tale of Wuxia)"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"clienticon" "3e5127a2fb4f640600c0b7b30f88baf4883c4736"
+	"clienttga" "c1af5d36a9ee061fe4097bca7fe6f2613d1aa35d"
+	"icon" "2f7e0bfd44e7ffa353bc67f1793ac6d9d64a8585"
+	"logo" "e4bd231930d5f555448fbd8bc83224eb9fe40fbb"
+	"logo_small" "e4bd231930d5f555448fbd8bc83224eb9fe40fbb_thumb"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1663372800"
+		"tested_build_id" "8839908"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-4"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "侠客风云传(Tale of Wuxia)"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_79a7b42f6e55018601178dd816097acf439091ae.jpg"
+	"store_asset_mtime" "1617074348"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Heluo Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Phoenix Game"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "3"
+		"3" "28"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1461851100"
+	"community_hub_visible" "1"
+	"gameid" "377530"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "6915"
+		"2" "9"
+		"3" "1677"
+		"4" "6971"
+		"5" "21"
+		"6" "4182"
+		"7" "9551"
+		"8" "599"
+		"9" "1742"
+		"10" "597"
+		"11" "4474"
+		"12" "1695"
+	}
+	"review_score" "6"
+	"review_percentage" "76"
+}
+"extended"
+{
+	"developer" "Heluo Studio"
+	"publisher" "Phoenix Game"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Tale of Wuxia"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "wuxia.exe"
+			"arguments" "-launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+}
+"depots"
+{
+	"baselanguages" "english,schinese,tchinese"
+	"377531"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6172870004975420516"
+				"size" "17053432983"
+				"download" "9872466336"
+			}
+		}
+	}
+	"377532"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2025589425576073550"
+				"size" "17121665675"
+				"download" "9927501456"
+			}
+		}
+	}
+	"377533"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7256169561672966836"
+				"size" "17121665675"
+				"download" "9927277888"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13538331"
+			"timeupdated" "1708935071"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "102400000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Config/SaveData"
+			"pattern" "*.Save*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27109910"
+"_sha" "625c27affc63fc47d0ccea6bb5aca80a2f7a055e"
+"_size" "4467"
