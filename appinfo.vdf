@@ -1,0 +1,268 @@
+"appid" "376030"
+"common"
+{
+	"name" "ARK: Survival Evolved Dedicated Server"
+	"type" "Tool"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "376030"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "ARK Survival Evolved Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ShooterGameServer.exe"
+			"arguments" "TheIsland\?listen "
+			"description" "Launch (Map: TheIsland)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ShooterGameServer.exe"
+			"arguments" "TheIsland\?listen -UseBattlEye"
+			"description" "Launch (Map: TheIsland, With BattlEye Anticheat)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ShooterGameServer.exe"
+			"arguments" "TheCenter\?listen"
+			"description" "Launch (Map: TheCenter)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"3"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ShooterGameServer.exe"
+			"arguments" "TheCenter\?listen -UseBattlEye"
+			"description" "Launch (Map: TheCenter, With BattlEye Anticheat)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"4"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ShooterGameServer.exe"
+			"arguments" "TheIsland\?listen -TotalConversionMod=111111111"
+			"description" "Launch (Map: TheIsland, Total Conversion: Primitive+)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"5"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ShooterGameServer.exe"
+			"arguments" "TheIsland\?listen -TotalConversionMod=111111111 -UseBattlEye"
+			"description" "Launch (Map: TheIsland, Primitive+, With BattlEye Anticheat)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"6"
+		{
+			"executable" "ShooterGame/Binaries/Linux/ShooterGame"
+			"arguments" "TheIsland\?listen "
+			"description" "Launch (Map: TheIsland)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"7"
+		{
+			"executable" "ShooterGame/Binaries/Linux/ShooterGame"
+			"arguments" "TheIsland\?listen -UseBattlEye"
+			"description" "Launch (Map: TheIsland, With BattlEye Anticheat)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"8"
+		{
+			"executable" "ShooterGame/Binaries/Linux/ShooterGame"
+			"arguments" "TheCenter\?listen"
+			"description" "Launch (Map: TheCenter)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"9"
+		{
+			"executable" "ShooterGame/Binaries/Linux/ShooterGame"
+			"arguments" "TheCenter\?listen"
+			"description" "Launch (Map: TheCenter, With BattlEye Anticheat)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"10"
+		{
+			"executable" "ShooterGame/Binaries/Linux/ShooterGame"
+			"arguments" "TheCenter\?listen -UseBattlEye"
+			"description" "Launch (Map: TheCenter, With BattlEye Anticheat)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"11"
+		{
+			"executable" "ShooterGame/Binaries/Linux/ShooterGame"
+			"arguments" "TheIsland\?listen -TotalConversionMod=111111111"
+			"description" "Launch (Map: TheIsland, Total Conversion: Primitive+)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"12"
+		{
+			"executable" "ShooterGame/Binaries/Linux/ShooterGame"
+			"arguments" "TheIsland\?listen -TotalConversionMod=111111111 -UseBattlEye"
+			"description" "Launch (Map: TheIsland, Primitive+, With BattlEye Anticheat)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"376031"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8941594630936752533"
+				"size" "18777951178"
+				"download" "6579333968"
+			}
+			"experimental"
+			{
+				"gid" "4938714156080904010"
+				"size" "9076395353"
+				"download" "3138319952"
+			}
+			"timecapsule"
+			{
+				"gid" "385619103637186563"
+				"size" "18742658083"
+				"download" "6740753408"
+			}
+		}
+	}
+	"376032"
+	{
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13834083"
+			"timeupdated" "1711245764"
+		}
+		"experimental"
+		{
+			"buildid" "4205769"
+			"timeupdated" "1568824771"
+		}
+		"timecapsule"
+		{
+			"buildid" "5131177"
+			"timeupdated" "1591494821"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "1e596cfd90abbf8eeaf50245eb8b5e147b88dfab"
+"_size" "5209"
