@@ -1,0 +1,158 @@
+"appid" "222860"
+"common"
+{
+	"name" "Left 4 Dead 2 Dedicated Server"
+	"type" "Tool"
+	"parent" "550"
+	"freetodownload" "1"
+	"metacritic_name" "Left 4 Dead 2 Dedicated Server"
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "51.738122827346466"
+			"height_pct" "48.11053377420879"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "51.738122827346466"
+				"height_pct" "48.11053377420879"
+			}
+		}
+	}
+	"store_asset_mtime" "1574123554"
+	"associations"
+	{
+	}
+	"primary_genre" "0"
+	"category"
+	{
+		"category_62" "1"
+	}
+	"gameid" "222860"
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" ""
+	"gamedir" "ValveTestApp222860"
+	"homepage" ""
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"thirdpartycdkey" "1"
+	"visibleonlywhensubscribed" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Left 4 Dead 2 Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "srcds.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"222861"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4827977561765481436"
+				"size" "9549160153"
+				"download" "4643088992"
+			}
+		}
+	}
+	"222862"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8960944863362722054"
+				"size" "161485629"
+				"download" "57306128"
+			}
+		}
+	}
+	"222863"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2405357637318523777"
+				"size" "243403436"
+				"download" "70712544"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"preloadonly" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17033453"
+			"timeupdated" "1737147896"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "58ad2e499f596e128b39338b394ce6a6ba9d5f50"
+"_size" "2353"
