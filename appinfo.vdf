@@ -1,0 +1,399 @@
+"appid" "760060"
+"common"
+{
+	"name" "Mutant Year Zero: Road to Eden"
+	"type" "Game"
+	"clienticon" "2ddaa828169390a283e072fa5ae5430a4015d976"
+	"clienttga" "97ae3a442d3a45d9085fcce5fa3122e676f7a1da"
+	"icon" "b263a08326409d579612ac5745bab3c3543ab442"
+	"logo" "10cd77a56650aa0a0018b902b7de585c007e8c31"
+	"logo_small" "10cd77a56650aa0a0018b902b7de585c007e8c31_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "760060_eula_0"
+			"name" "Mutant Year Zero: Road to Eden EULA"
+			"url" "https://store.steampowered.com//eula/760060_eula_0"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "6042661"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"metacritic_name" "Mutant Year Zero: Road to Eden"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1671391302"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "The Bearded Ladies"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Funcom"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Funcom"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "3"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_43" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1543924440"
+	"metacritic_score" "78"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/mutant-year-zero-road-to-eden\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "760060"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "122"
+		"2" "4325"
+		"3" "3835"
+		"4" "14139"
+		"5" "1708"
+		"6" "1677"
+		"7" "21"
+		"8" "1687"
+		"9" "4182"
+		"10" "1741"
+		"11" "4166"
+		"12" "19"
+		"13" "1662"
+		"14" "4604"
+		"15" "4026"
+		"16" "4136"
+		"17" "1667"
+		"18" "3834"
+		"19" "1684"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "The Bearded Ladies"
+	"publisher" "Funcom"
+	"homepage" "https://www.mutantyearzero.com/"
+	"listofdlc" "887780,1088000"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Mutant Year Zero"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ZoneUE4.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1997432384"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"760061"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1715041264680531495"
+				"size" "6628513584"
+				"download" "6375416096"
+			}
+		}
+	}
+	"887780"
+	{
+		"dlcappid" "887780"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7745293312262227686"
+				"size" "589607237"
+				"download" "445151328"
+			}
+		}
+	}
+	"1088000"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6219480842952039229"
+				"size" "1302454279"
+				"download" "1266340880"
+			}
+		}
+		"dlcappid" "1088000"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6042661"
+			"timeupdated" "1610460434"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "ZoneUE4/Saved/SaveGames"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ZoneUE4/Saved/SaveGames"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27013368"
+"_sha" "63622ef7d35f05aedca37a2a7327bec1376e0ada"
+"_size" "6832"
