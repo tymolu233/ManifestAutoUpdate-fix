@@ -1,0 +1,315 @@
+"appid" "931180"
+"common"
+{
+	"name" "Conan Exiles - Public Beta Client"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "d27cbd7391566bcd59dfd4e6af6e49db12180789"
+	"logo_small" "d27cbd7391566bcd59dfd4e6af6e49db12180789_thumb"
+	"clienticon" "b0a68a35e3f0f96819fe93aadc1cf421e40ac64c"
+	"clienttga" "f9d4937ceedb02204ef505a83fbc9b4938d02576"
+	"icon" "67a32c9bdd0738df619162c70bdebfe8a735abec"
+	"releasestate" "released"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "931180_eula_0"
+			"name" "Conan Exiles - Public Beta Client EULA"
+			"url" "https://store.steampowered.com//eula/931180_eula_0"
+			"version" "1"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "89.21753554971023"
+			"height_pct" "58.034985179177504"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "89.21753554971023"
+				"height_pct" "58.034985179177504"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1678891250"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Funcom"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Funcom"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "29"
+		"3" "3"
+		"4" "28"
+		"5" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_28" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "931180"
+	"store_tags"
+	{
+		"0" "1662"
+		"1" "1695"
+		"2" "1643"
+		"3" "1702"
+		"4" "3859"
+		"5" "3810"
+		"6" "122"
+		"7" "128"
+		"8" "19"
+		"9" "21"
+		"10" "3843"
+		"11" "3834"
+		"12" "1685"
+		"13" "4182"
+		"14" "1684"
+		"15" "1775"
+		"16" "599"
+		"17" "9"
+	}
+}
+"extended"
+{
+	"developer" "Funcom"
+	"publisher" "Funcom"
+	"homepage" "https://www.conanexiles.com/"
+}
+"config"
+{
+	"installdir" "Conan Exiles - Public Beta Client"
+	"launch"
+	{
+		"3"
+		{
+			"executable" "Launcher\\FuncomLauncher.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"931181"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3839266541206736292"
+				"size" "92009024482"
+				"download" "57734942416"
+			}
+		}
+	}
+	"931182"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3621342737228301766"
+				"size" "123511706"
+				"download" "41061920"
+			}
+		}
+	}
+	"931183"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "302055430628772568"
+				"size" "231205518"
+				"download" "98224528"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"workshopdepot" "931180"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17411106"
+			"timeupdated" "1740064232"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "10"
+}
+"_missing_token" "False"
+"_change_number" "27576684"
+"_sha" "71b2400643164442874d1cc7b79e74a6ff5ca1c2"
+"_size" "4942"
