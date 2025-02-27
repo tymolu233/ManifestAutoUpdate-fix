@@ -1,0 +1,405 @@
+"appid" "2071280"
+"common"
+{
+	"name" "Ravenswatch"
+	"type" "Game"
+	"clienticon" "25cc67d069380847818f05c0e7d5567763919719"
+	"clienttga" "97a4d0cfd3fca3f0f10c1663f6864d95bff76a7a"
+	"icon" "f1f1815dab259b1e00125a3e58b9c107945b265a"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2071280_eula_0"
+			"name" "Ravenswatch EULA"
+			"url" "https://store.steampowered.com//eula/2071280_eula_0"
+			"version" "1"
+		}
+	}
+	"name_localized"
+	{
+		"schinese" "Ravenswatch 鸦卫奇旅"
+		"tchinese" "Ravenswatch 鸦卫奇旅"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1681430400"
+		"tested_build_id" "10937238"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Ravenswatch"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "7c03b1bafb313fb04331fa735ec4101b2f812286/capsule_231x87.jpg"
+		"schinese" "dbe2a3a29975aa79cc0514523dbafe257af82aed/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "92.37777158338224"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "56efab203be3761a7d7fe31633e2df32fa52bc87/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "56efab203be3761a7d7fe31633e2df32fa52bc87/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "8565c28156847624e3848554acf10bc3fa88ca02/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "8565c28156847624e3848554acf10bc3fa88ca02/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "8565c28156847624e3848554acf10bc3fa88ca02/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "92.37777158338224"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "9f105347ea3f6ab45ccd5ca2c29487026fd6b5bd/logo.png"
+				"schinese" "8338cc8a3c758ee873a992fbb8a28291fdf7adb6/logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "9f105347ea3f6ab45ccd5ca2c29487026fd6b5bd/logo_2x.png"
+				"schinese" "8338cc8a3c758ee873a992fbb8a28291fdf7adb6/logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "f32bb0544f8f69605fa498248beb2ed9f8a1b8ba/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "f32bb0544f8f69605fa498248beb2ed9f8a1b8ba/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1740037437"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Passtech Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Nacon"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Nacon"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1727366400"
+	"metacritic_score" "84"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/ravenswatch\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2071280"
+	"store_tags"
+	{
+		"0" "1716"
+		"1" "1685"
+		"2" "19"
+		"3" "42804"
+		"4" "3859"
+		"5" "4182"
+		"6" "3959"
+		"7" "492"
+		"8" "4026"
+		"9" "3843"
+		"10" "21"
+		"11" "1646"
+		"12" "122"
+		"13" "4166"
+		"14" "4791"
+		"15" "4711"
+		"16" "4604"
+		"17" "4342"
+		"18" "5851"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "Passtech Games"
+	"publisher" "Nacon"
+	"listofdlc" "3113100,3113110,3113120,3113130,3393430"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Ravenswatch"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Ravenswatch.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2071281"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8216245907777490601"
+				"size" "6009279167"
+				"download" "2131572448"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17456878"
+			"timeupdated" "1740578393"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "_Save/"
+			"pattern" "Profile_1.ob"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "_Save/"
+			"pattern" "Profile_2.ob"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "_Save/"
+			"pattern" "Profile_3.ob"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27687399"
+"_sha" "ab9aee3e6afb67bb5f2ae387b2a009192d01ff80"
+"_size" "7531"
