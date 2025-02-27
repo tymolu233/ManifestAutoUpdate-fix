@@ -1,0 +1,97 @@
+"appid" "884600"
+"common"
+{
+	"name" "Soul at Stake Test Server"
+	"section_type" "ownersonly"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"clienticon" "8f655602886a88689e02c01d192370ec74ee12e5"
+	"clienttga" "7447eb9e44dde18c36ae25a8343409b79fba2832"
+	"icon" "7d4e8f484d058a314daef29df820f2280d60c87d"
+	"logo" "17edd885a2c8bfea2f4488da798a8d617c021f8b"
+	"logo_small" "17edd885a2c8bfea2f4488da798a8d617c021f8b_thumb"
+	"associations"
+	{
+	}
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "884600"
+}
+"config"
+{
+	"installdir" "Soul at Stake Test Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SaS.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"usemms" "1"
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"hasdepotsindlc" "1"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"884601"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6709498037136255252"
+				"size" "32372673245"
+				"download" "20656020112"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5300498"
+			"timeupdated" "1594988960"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "addd97cbd808b002ac9920a437cbf949498d2aad"
+"_size" "1556"
