@@ -1,0 +1,998 @@
+"appid" "1817190"
+"common"
+{
+	"name" "Marvel\'s Spider-Man: Miles Morales"
+	"type" "Game"
+	"clienttga" "b44aed145383afb110eb53abf12e4c29ef2b722c"
+	"clienticon" "b70fd335984c5e14db373fdb7aa423ff848e5735"
+	"icon" "fac57db36817793f8b53b220dfe76c692f502a8f"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"brazilian" "1"
+		"greek" "1"
+		"latam" "1"
+	}
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1817190_eula_0"
+			"name" "Marvel\'s Spider-Man: Miles Morales EULA"
+			"url" "https://store.steampowered.com//eula/1817190_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1685059200"
+		"tested_build_id" "11245764"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-2"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"arabic" "capsule_231x87_arabic.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"arabic" "header_arabic.jpg"
+		"japanese" "header_japanese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ar,ja"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "88.56183021466725"
+			"height_pct" "70.13834260138344"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"arabic" "library_600x900_arabic.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "88.56183021466725"
+				"height_pct" "70.13834260138344"
+			}
+		}
+	}
+	"store_asset_mtime" "1672773261"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Insomniac Games"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Nixxes Software"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "PlayStation Publishing LLC"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Marvel\'s Spider-Man"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_43" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"full_audio" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1668787080"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1817190"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1695"
+		"2" "1671"
+		"3" "4182"
+		"4" "21"
+		"5" "1697"
+		"6" "3993"
+		"7" "4036"
+		"8" "1742"
+		"9" "3834"
+		"10" "4106"
+		"11" "1687"
+		"12" "1751"
+		"13" "4158"
+		"14" "3859"
+		"15" "1756"
+		"16" "5411"
+		"17" "122"
+		"18" "3942"
+		"19" "5611"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Insomniac Games"
+	"publisher" "PlayStation Publishing LLC"
+	"listofdlc" "2133610"
+}
+"config"
+{
+	"installdir" "Marvel\'s Spider-Man Miles Morales"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "MilesMorales.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch Spider-Man: Miles Morales"
+			}
+			"description" "Launch Spider-Man: Miles Morales"
+		}
+		"1"
+		{
+			"executable" "i31_steam_Final.exe"
+			"arguments" "-archive asset_archive/toc -warn review -no_debug_spam -lobby"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sie_ut, ig_fp"
+				"ownsdlc" "1830690"
+			}
+			"description_loc"
+			{
+				"english" "Launch Final"
+			}
+			"description" "Launch Final"
+		}
+		"2"
+		{
+			"executable" "i31_steam_FinalDM.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "latest, latest_dev, nixxesqa_dev, nixxesqa_dev2, ig_dev, sieqa_dev, sieqa_dev2, ig_fp, nixxes_art, sie_ut, ig_marketing, ig_marketing2, ext_partner1, ext_partner2, compat, ig_beta, pssqa_development, nixxes_dev"
+				"ownsdlc" "1830690"
+			}
+			"description_loc"
+			{
+				"english" "Launch Final with Debug menus"
+			}
+			"description" "Launch Final with Debug menus"
+		}
+		"3"
+		{
+			"executable" "i31_steam_Release.exe"
+			"arguments" "-launcher -archive asset_archive/toc -warn review -no_debug_spam -lobby"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "latest, latest_dev, nixxesqa_dev, nixxesqa_dev2, ig_dev, sieqa_dev, sieqa_dev2, ig_fp, nixxes_art, sie_ut, ig_marketing, ig_marketing2, ext_partner1, ext_partner2, compat, ig_beta, pssqa_development, nixxes_dev"
+				"ownsdlc" "1830690"
+			}
+			"description_loc"
+			{
+				"english" "Launch Release"
+			}
+			"description" "Launch Release"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2865447737"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,age_rating,compat,ext_partner1,ext_partner2,ig_dev,ig_marketing,ig_marketing2,latest,latest_dev,nixxesqa_dev,nixxesqa_dev2,pc_m,pc_ut,pc_valve,sie_ut,sieqa_dev,sieqa_dev2"
+			"use_action_block" "false"
+		}
+		"2865456029"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,age_rating,compat,ext_partner1,ext_partner2,ig_dev,ig_marketing,ig_marketing2,latest,latest_dev,nixxesqa_dev,nixxesqa_dev2,pc_m,pc_ut,pc_valve,sie_ut,sieqa_dev,sieqa_dev2"
+			"use_action_block" "false"
+		}
+		"2883800849"
+		{
+			"controller_type" "controller_switch_pro"
+			"enabled_branches" "default,age_rating,compat,ext_partner1,ext_partner2,ig_dev,ig_marketing,ig_marketing2,latest,latest_dev,nixxesqa_dev,nixxesqa_dev2,pc_m,pc_ut,pc_valve,sie_ut,sieqa_dev,sieqa_dev2"
+			"use_action_block" "false"
+		}
+		"2883802174"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,age_rating,compat,ext_partner1,ext_partner2,ig_beta,ig_dev,ig_marketing,ig_marketing2,latest,latest_dev,nixxesqa_dev,nixxesqa_dev2,pc_m,pc_ut,pc_valve,sie_ut,sieqa_dev,sieqa_dev2"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1817191"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3147410455635656654"
+				"size" "49673296074"
+				"download" "38925128736"
+			}
+			"previous_version"
+			{
+				"gid" "7998112437033881745"
+				"size" "49673295972"
+				"download" "38925250112"
+			}
+			"previous_version2"
+			{
+				"gid" "2098333303191185713"
+				"size" "49673295972"
+				"download" "38925249280"
+			}
+		}
+	}
+	"1817192"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6194380709246954205"
+				"size" "308927280"
+				"download" "116729312"
+			}
+			"previous_version"
+			{
+				"gid" "4847662289726615232"
+				"size" "299794048"
+				"download" "109938480"
+			}
+			"previous_version2"
+			{
+				"gid" "3450411109023467984"
+				"size" "295432336"
+				"download" "71034784"
+			}
+		}
+	}
+	"1817193"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "1830690"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1955209354025015276"
+				"size" "4905244552"
+				"download" "885423680"
+			}
+			"previous_version"
+			{
+				"gid" "7626222567869781190"
+				"size" "4666428776"
+				"download" "842118784"
+			}
+			"previous_version2"
+			{
+				"gid" "3756731198117633839"
+				"size" "5223504276"
+				"download" "941757136"
+			}
+		}
+	}
+	"1817194"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5377748227570864319"
+				"size" "920580096"
+				"download" "907438016"
+			}
+			"previous_version"
+			{
+				"gid" "5377748227570864319"
+				"size" "920580096"
+				"download" "907438016"
+			}
+			"previous_version2"
+			{
+				"gid" "5377748227570864319"
+				"size" "920580096"
+				"download" "907438016"
+			}
+		}
+	}
+	"1817195"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5810006367820443622"
+				"size" "918249472"
+				"download" "905211088"
+			}
+			"previous_version"
+			{
+				"gid" "5810006367820443622"
+				"size" "918249472"
+				"download" "905211088"
+			}
+			"previous_version2"
+			{
+				"gid" "5810006367820443622"
+				"size" "918249472"
+				"download" "905211088"
+			}
+		}
+	}
+	"1817196"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8292041091951368180"
+				"size" "977108992"
+				"download" "963970336"
+			}
+			"previous_version"
+			{
+				"gid" "8292041091951368180"
+				"size" "977108992"
+				"download" "963970336"
+			}
+			"previous_version2"
+			{
+				"gid" "8292041091951368180"
+				"size" "977108992"
+				"download" "963970336"
+			}
+		}
+	}
+	"1817197"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8895962896721290161"
+				"size" "892088320"
+				"download" "877202384"
+			}
+			"previous_version"
+			{
+				"gid" "8895962896721290161"
+				"size" "892088320"
+				"download" "877202384"
+			}
+			"previous_version2"
+			{
+				"gid" "8895962896721290161"
+				"size" "892088320"
+				"download" "877202384"
+			}
+		}
+	}
+	"1817198"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3531441267696901814"
+				"size" "940281856"
+				"download" "925566048"
+			}
+			"previous_version"
+			{
+				"gid" "3531441267696901814"
+				"size" "940281856"
+				"download" "925566048"
+			}
+			"previous_version2"
+			{
+				"gid" "3531441267696901814"
+				"size" "940281856"
+				"download" "925566048"
+			}
+		}
+	}
+	"1817199"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8758386880563899064"
+				"size" "949043200"
+				"download" "935309200"
+			}
+			"previous_version"
+			{
+				"gid" "8758386880563899064"
+				"size" "949043200"
+				"download" "935309200"
+			}
+			"previous_version2"
+			{
+				"gid" "8758386880563899064"
+				"size" "949043200"
+				"download" "935309200"
+			}
+		}
+	}
+	"1829900"
+	{
+		"config"
+		{
+			"language" "portuguese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "436680072166473638"
+				"size" "891211776"
+				"download" "876096464"
+			}
+			"previous_version"
+			{
+				"gid" "436680072166473638"
+				"size" "891211776"
+				"download" "876096464"
+			}
+			"previous_version2"
+			{
+				"gid" "436680072166473638"
+				"size" "891211776"
+				"download" "876096464"
+			}
+		}
+	}
+	"1829901"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5933996443615820417"
+				"size" "860553216"
+				"download" "845411024"
+			}
+			"previous_version"
+			{
+				"gid" "5933996443615820417"
+				"size" "860553216"
+				"download" "845411024"
+			}
+			"previous_version2"
+			{
+				"gid" "5933996443615820417"
+				"size" "860553216"
+				"download" "845411024"
+			}
+		}
+	}
+	"1829902"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4688196650181006526"
+				"size" "937553920"
+				"download" "922972416"
+			}
+			"previous_version"
+			{
+				"gid" "4688196650181006526"
+				"size" "937553920"
+				"download" "922972416"
+			}
+			"previous_version2"
+			{
+				"gid" "4688196650181006526"
+				"size" "937553920"
+				"download" "922972416"
+			}
+		}
+	}
+	"1829903"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7963205018761426610"
+				"size" "975069184"
+				"download" "960820288"
+			}
+			"previous_version"
+			{
+				"gid" "7963205018761426610"
+				"size" "975069184"
+				"download" "960820288"
+			}
+			"previous_version2"
+			{
+				"gid" "7963205018761426610"
+				"size" "975069184"
+				"download" "960820288"
+			}
+		}
+	}
+	"1829904"
+	{
+		"config"
+		{
+			"language" "latam"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4904054511197887188"
+				"size" "959897600"
+				"download" "945007248"
+			}
+			"previous_version"
+			{
+				"gid" "4904054511197887188"
+				"size" "959897600"
+				"download" "945007248"
+			}
+			"previous_version2"
+			{
+				"gid" "4904054511197887188"
+				"size" "959897600"
+				"download" "945007248"
+			}
+		}
+	}
+	"1829905"
+	{
+		"config"
+		{
+			"language" "arabic"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3410727558182517018"
+				"size" "884101120"
+				"download" "869381808"
+			}
+			"previous_version"
+			{
+				"gid" "3410727558182517018"
+				"size" "884101120"
+				"download" "869381808"
+			}
+			"previous_version2"
+			{
+				"gid" "3410727558182517018"
+				"size" "884101120"
+				"download" "869381808"
+			}
+		}
+	}
+	"1829906"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1683109532934603907"
+				"size" "0"
+				"download" "0"
+			}
+			"previous_version"
+			{
+				"gid" "1683109532934603907"
+				"size" "0"
+				"download" "0"
+			}
+			"previous_version2"
+			{
+				"gid" "1683109532934603907"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"baselanguages" "english,koreana,schinese,tchinese,danish,dutch,finnish,norwegian,swedish,hungarian,czech,greek"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14744444"
+			"timeupdated" "1719500737"
+		}
+		"previous_version"
+		{
+			"buildid" "12424782"
+			"description" "Rollback to previous version"
+			"timeupdated" "1719500696"
+		}
+		"previous_version2"
+		{
+			"buildid" "10115660"
+			"description" "Rollback to v.1.1209.0.0"
+			"timeupdated" "1719503001"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Marvel\'s Spider-Man Miles Morales/{64BitSteamID}/"
+			"pattern" "*"
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "27613405"
+"_sha" "433d4fcd630e276b8099b9d4f3b8962574a055f8"
+"_size" "18436"
