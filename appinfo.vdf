@@ -1,0 +1,368 @@
+"appid" "1811990"
+"common"
+{
+	"name" "Wildfrost"
+	"type" "Game"
+	"clienttga" "289506d7a416b05c1a4c56d2d0a281862e5f38bc"
+	"clienticon" "9e295fa4f097caa93b842f4634dec634695a910a"
+	"icon" "d8b9c6856421f6d68b97fe5b8ba68da0d3cbe480"
+	"name_localized"
+	{
+		"schinese" "雪居之地 (Wildfrost)"
+		"tchinese" "斯諾德維爾之戰 (Wildfrost)"
+		"japanese" "ワイルドフロスト (Wildfrost)"
+		"koreana" "와일드프로스트 (Wildfrost)"
+	}
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1681171200"
+		"tested_build_id" "10874911"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Wildfrost"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw,ja,ko"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-tw,ja,ko"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50.81395348837211"
+			"height_pct" "97.720256471147"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+				"japanese" "logo_japanese.png"
+				"koreana" "logo_koreana.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50.81395348837211"
+				"height_pct" "97.720256471147"
+			}
+		}
+	}
+	"store_asset_mtime" "1730826819"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Deadpan Games"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Gaziter"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Chucklefish"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_51" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1681290024"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/wildfrost\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1811990"
+	"store_tags"
+	{
+		"0" "791774"
+		"1" "4026"
+		"2" "1091588"
+		"3" "1666"
+		"4" "14139"
+		"5" "3959"
+		"6" "32322"
+		"7" "1716"
+		"8" "4182"
+		"9" "1677"
+		"10" "1733"
+		"11" "1759"
+		"12" "4711"
+		"13" "1741"
+		"14" "5125"
+		"15" "9"
+		"16" "4305"
+		"17" "7481"
+		"18" "1684"
+		"19" "7332"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Deadpan Games"
+	"publisher" "Chucklefish"
+	"homepage" "http://wildfrostgame.com"
+}
+"config"
+{
+	"installdir" "Wildfrost"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Wildfrost.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Wildfrost"
+			}
+			"description" "Wildfrost"
+		}
+		"1"
+		{
+			"executable" "Modded/Wildfrost.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Wildfrost With Mods"
+			}
+			"description" "Wildfrost With Mods"
+		}
+	}
+	"steamcontrollertemplateindex" "3"
+	"steamdecktouchscreen" "4"
+}
+"depots"
+{
+	"workshopdepot" "1811990"
+	"baselanguages" "english"
+	"1811991"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6450434692660463538"
+				"size" "1017424886"
+				"download" "382410992"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17266590"
+			"timeupdated" "1738849748"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Deadpan Games/Wildfrost/Profiles"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Deadpan Games/Wildfrost/Profiles"
+			"pattern" "*.sav.bac"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "MacAppSupport"
+			"path" "Deadpan Games/Wildfrost/Profiles"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "MacAppSupport"
+			"path" "Deadpan Games/Wildfrost/Profiles"
+			"pattern" "*.sav.bac"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27345764"
+"_sha" "40a2d271facdf727630b123880b9629b1d9a6a25"
+"_size" "6918"
