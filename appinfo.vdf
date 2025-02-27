@@ -1,0 +1,1495 @@
+"appid" "346110"
+"common"
+{
+	"name" "ARK: Survival Evolved"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"clienticon" "dac744aa968646e803f73db3f47829ea6508e706"
+	"clienttga" "867bf260b94ed10747e34f02b44eecf596a08069"
+	"icon" "fef1799533131c10f538d2dd697bbbd89e663265"
+	"logo" "58a660ddb7ed1864656ec65e4c18d6edd3bbf512"
+	"logo_small" "58a660ddb7ed1864656ec65e4c18d6edd3bbf512_thumb"
+	"releasestate" "released"
+	"controllervr"
+	{
+		"xinput" "1"
+		"kbm" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"russian" "1"
+		"polish" "1"
+		"finnish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"osarch" ""
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644969600"
+		"tested_build_id" "8189133"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "ARK: Survival Evolved"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "44"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "44"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1669253932"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Studio Wildcard"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Instinct Games"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Efecto Studios"
+		}
+		"3"
+		{
+			"type" "developer"
+			"name" "Virtual Basement LLC"
+		}
+		"4"
+		{
+			"type" "publisher"
+			"name" "Studio Wildcard"
+		}
+		"5"
+		{
+			"type" "publisher"
+			"name" "Snail Games USA"
+		}
+		"6"
+		{
+			"type" "franchise"
+			"name" "Snail Games USA"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "29"
+		"4" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_17" "1"
+		"category_30" "1"
+		"category_28" "1"
+		"category_8" "1"
+		"category_20" "1"
+		"category_33" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1504019280"
+	"metacritic_score" "70"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/ark-survival-evolved\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "346110"
+	"store_tags"
+	{
+		"0" "1100689"
+		"1" "1662"
+		"2" "3859"
+		"3" "1695"
+		"4" "5160"
+		"5" "1702"
+		"6" "1643"
+		"7" "21"
+		"8" "7332"
+		"9" "1685"
+		"10" "19"
+		"11" "3839"
+		"12" "3810"
+		"13" "128"
+		"14" "4182"
+		"15" "493"
+		"16" "122"
+		"17" "4046"
+		"18" "3942"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"gamedir" "ark_survival_evolved"
+	"serverbrowsername" "ARK: Survival Evolved"
+	"additional_dependencies"
+	{
+		"0"
+		{
+			"src_os" "windows"
+			"dest_os" "linux"
+			"appid" "1161040"
+			"comment" "project D"
+		}
+	}
+	"developer" "Studio Wildcard"
+	"publisher" "Studio Wildcard"
+	"homepage" "http://www.playark.com"
+	"listofdlc" "473850,508150,512540,642250,696680,708770,887380,1100810,1113410,1270830,1691800,1887560"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "ARK"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ShooterGame_BE.exe"
+			"workingdir" "ShooterGame\\Binaries\\Win64"
+			"description" "Launch ARK"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ShooterGame.exe"
+			"workingdir" "ShooterGame\\Binaries\\Win64"
+			"description" "Play ARK: No BattlEye AntiCheat, Unofficial Servers Only"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ShooterGame_BE.exe"
+			"arguments" "-sm4 -nomansky"
+			"workingdir" "ShooterGame\\Binaries\\Win64"
+			"description" "Launch ARK (DirectX 10, Low-End Graphics)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"7"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ShooterGame_BE.exe"
+			"arguments" "-allowansel"
+			"workingdir" "ShooterGame\\Binaries\\Win64"
+			"description" "Launch ARK with NVIDIA Ansel"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"8"
+		{
+			"executable" "ShooterGame/Binaries/Linux/ShooterGame"
+			"description" "Launch ARK"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"9"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ShooterGame.exe"
+			"arguments" "-TotalConversionMod=0"
+			"workingdir" "ShooterGame\\Binaries\\Win64"
+			"description" "Launch ARK (Reset Active Total Conversion)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"10"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ShooterGame_BE.exe"
+			"arguments" "-lowmemory -sm4 -nomansky"
+			"workingdir" "ShooterGame\\Binaries\\Win64"
+			"description" "Launch ARK (Extremely Low Memory)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"12"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ShooterGame_BE.exe"
+			"arguments" "-nomansky"
+			"workingdir" "ShooterGame\\Binaries\\Win64"
+			"description" "Launch ARK (No Sky Effects)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"14"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ShooterGame.exe"
+			"arguments" "-resetres"
+			"workingdir" "ShooterGame\\Binaries\\Win64"
+			"description" "Reset Game Resolution"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"15"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ShooterGame_BE.exe"
+			"arguments" "4"
+			"workingdir" "ShooterGame\\Binaries\\Win64"
+			"description" "Uninstall BattlEye"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"16"
+		{
+			"executable" "ShooterGame.app"
+			"description" "Launch ARK"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"systemprofile" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2125212995"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollerconfigdetails"
+	{
+		"523605115"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"depotdeltapatches" "1"
+	"workshopdepot" "346110"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,danish,dutch,finnish,swedish,hungarian,czech,turkish,brazilian,ukrainian"
+	"hasdepotsindlc" "1"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"346111"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7944609839400223881"
+				"size" "137620726492"
+				"download" "44481334672"
+			}
+			"linuxnative"
+			{
+				"gid" "4927865218920367090"
+				"size" "135233086081"
+				"download" "42490838944"
+			}
+			"timecapsule"
+			{
+				"gid" "5259623668775411247"
+				"size" "18742658083"
+				"download" "6741439360"
+			}
+		}
+	}
+	"346113"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8339919800688829995"
+				"size" "97861863178"
+				"download" "42016573776"
+			}
+			"linuxnative"
+			{
+				"gid" "3685325351321781615"
+				"size" "95708475371"
+				"download" "40078242960"
+			}
+			"timecapsule"
+			{
+				"gid" "446998918106248362"
+				"size" "71355735236"
+				"download" "32156464320"
+			}
+		}
+	}
+	"473850"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "473850"
+	}
+	"346114"
+	{
+		"dlcappid" "473850"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1260533330891460533"
+				"size" "12154932375"
+				"download" "1791853344"
+			}
+			"linuxnative"
+			{
+				"gid" "1260533330891460533"
+				"size" "12154932375"
+				"download" "1791853344"
+			}
+			"timecapsule"
+			{
+				"gid" "2998585728778840258"
+				"size" "12352490475"
+				"download" "1828123552"
+			}
+		}
+	}
+	"346115"
+	{
+		"dlcappid" "473850"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7211460979435225614"
+				"size" "2811927869"
+				"download" "820646832"
+			}
+			"linuxnative"
+			{
+				"gid" "7211460979435225614"
+				"size" "2811927869"
+				"download" "820646832"
+			}
+			"timecapsule"
+			{
+				"gid" "4323918532956746003"
+				"size" "2823885162"
+				"download" "833309472"
+			}
+		}
+	}
+	"508150"
+	{
+		"dlcappid" "508150"
+	}
+	"346117"
+	{
+		"dlcappid" "508150"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2507825098602328137"
+				"size" "1904405809"
+				"download" "844806048"
+			}
+			"linuxnative"
+			{
+				"gid" "2507825098602328137"
+				"size" "1904405809"
+				"download" "844806048"
+			}
+			"timecapsule"
+			{
+				"gid" "2507825098602328137"
+				"size" "1904405809"
+				"download" "844806048"
+			}
+		}
+	}
+	"346118"
+	{
+		"dlcappid" "508150"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1999006499798962652"
+				"size" "1711801410"
+				"download" "820649264"
+			}
+			"linuxnative"
+			{
+				"gid" "1999006499798962652"
+				"size" "1711801410"
+				"download" "820649264"
+			}
+			"timecapsule"
+			{
+				"gid" "1999006499798962652"
+				"size" "1711801410"
+				"download" "820649264"
+			}
+		}
+	}
+	"512540"
+	{
+		"dlcappid" "512540"
+	}
+	"375351"
+	{
+		"dlcappid" "512540"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8265777340034981821"
+				"size" "9863625959"
+				"download" "1535336592"
+			}
+			"linuxnative"
+			{
+				"gid" "4160188572411691388"
+				"size" "9434912025"
+				"download" "1481994400"
+			}
+			"timecapsule"
+			{
+				"gid" "138079691225791821"
+				"size" "9598546052"
+				"download" "1508570576"
+			}
+		}
+	}
+	"375352"
+	{
+		"dlcappid" "512540"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2239387445239950885"
+				"size" "1177087271"
+				"download" "371891696"
+			}
+			"linuxnative"
+			{
+				"gid" "5149472516830494417"
+				"size" "1173522299"
+				"download" "370897424"
+			}
+			"timecapsule"
+			{
+				"gid" "3830315039086485039"
+				"size" "1175821416"
+				"download" "371620016"
+			}
+		}
+	}
+	"642250"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "642250"
+	}
+	"375354"
+	{
+		"dlcappid" "642250"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7952753366101555648"
+				"size" "27194803285"
+				"download" "3274884752"
+			}
+			"linuxnative"
+			{
+				"gid" "7952753366101555648"
+				"size" "27194803285"
+				"download" "3274884752"
+			}
+			"timecapsule"
+			{
+				"gid" "4526004253456827413"
+				"size" "27558321009"
+				"download" "3298328720"
+			}
+		}
+	}
+	"375355"
+	{
+		"dlcappid" "642250"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5324252023372007884"
+				"size" "2953248412"
+				"download" "903893456"
+			}
+			"linuxnative"
+			{
+				"gid" "6610133429968352098"
+				"size" "2953248412"
+				"download" "903893232"
+			}
+			"timecapsule"
+			{
+				"gid" "2246207471070358533"
+				"size" "2974416503"
+				"download" "918568576"
+			}
+		}
+	}
+	"708770"
+	{
+		"dlcappid" "708770"
+	}
+	"375357"
+	{
+		"dlcappid" "708770"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1447242805278740772"
+				"size" "18243344563"
+				"download" "2073485296"
+			}
+			"linuxnative"
+			{
+				"gid" "8194548528566474780"
+				"size" "18223279924"
+				"download" "2067456336"
+			}
+			"timecapsule"
+			{
+				"gid" "1783123806556586272"
+				"size" "18868780885"
+				"download" "2132786160"
+			}
+		}
+	}
+	"375358"
+	{
+		"dlcappid" "708770"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "426338121519536361"
+				"size" "1124001660"
+				"download" "418724016"
+			}
+			"linuxnative"
+			{
+				"gid" "8559883771610393207"
+				"size" "1124372581"
+				"download" "418709104"
+			}
+			"timecapsule"
+			{
+				"gid" "1055153119649014593"
+				"size" "1121864325"
+				"download" "417928464"
+			}
+		}
+	}
+	"887380"
+	{
+		"dlcappid" "887380"
+	}
+	"473851"
+	{
+		"dlcappid" "887380"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2551727096735353757"
+				"size" "20535917590"
+				"download" "2578457024"
+			}
+			"linuxnative"
+			{
+				"gid" "6136275419040480750"
+				"size" "20549763810"
+				"download" "2581404240"
+			}
+			"timecapsule"
+			{
+				"gid" "4739001782451993505"
+				"size" "21049896289"
+				"download" "2596805856"
+			}
+		}
+	}
+	"473852"
+	{
+		"dlcappid" "887380"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2616742401864906431"
+				"size" "1453254176"
+				"download" "551445632"
+			}
+			"linuxnative"
+			{
+				"gid" "2930365275441765716"
+				"size" "1453253480"
+				"download" "551461104"
+			}
+			"timecapsule"
+			{
+				"gid" "1736166767814124020"
+				"size" "1446259286"
+				"download" "548283248"
+			}
+		}
+	}
+	"1100810"
+	{
+		"dlcappid" "1100810"
+	}
+	"473854"
+	{
+		"dlcappid" "1100810"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "847717640995143866"
+				"size" "22322596997"
+				"download" "3079118448"
+			}
+			"linuxnative"
+			{
+				"gid" "847717640995143866"
+				"size" "22322596997"
+				"download" "3079118448"
+			}
+			"timecapsule"
+			{
+				"gid" "1317158397200456933"
+				"size" "22684681169"
+				"download" "3102421552"
+			}
+		}
+	}
+	"473855"
+	{
+		"dlcappid" "1100810"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9041462482401519649"
+				"size" "2576558140"
+				"download" "1075944960"
+			}
+			"linuxnative"
+			{
+				"gid" "9041462482401519649"
+				"size" "2576558140"
+				"download" "1075944960"
+			}
+			"timecapsule"
+			{
+				"gid" "813185601888661487"
+				"size" "2637389939"
+				"download" "1119151056"
+			}
+		}
+	}
+	"1113410"
+	{
+		"dlcappid" "1113410"
+	}
+	"473858"
+	{
+		"dlcappid" "1113410"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1929691095877787242"
+				"size" "6348254490"
+				"download" "2060161008"
+			}
+			"linuxnative"
+			{
+				"gid" "1640625368656565390"
+				"size" "6348253285"
+				"download" "2060164144"
+			}
+			"timecapsule"
+			{
+				"gid" "7304893441017520505"
+				"size" "1865936882"
+				"download" "646265184"
+			}
+		}
+	}
+	"473857"
+	{
+		"dlcappid" "1113410"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1054814513659387220"
+				"size" "64479046064"
+				"download" "9009126768"
+			}
+			"linuxnative"
+			{
+				"gid" "1054814513659387220"
+				"size" "64479046064"
+				"download" "9009126768"
+			}
+			"timecapsule"
+			{
+				"gid" "5836176084617888950"
+				"size" "19022398764"
+				"download" "3218341424"
+			}
+		}
+	}
+	"1270830"
+	{
+		"dlcappid" "1270830"
+	}
+	"1318685"
+	{
+		"dlcappid" "1270830"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1190462316094665312"
+				"size" "50711883620"
+				"download" "5877886656"
+			}
+			"linuxnative"
+			{
+				"gid" "1190462316094665312"
+				"size" "50711883620"
+				"download" "5877886656"
+			}
+		}
+	}
+	"1318686"
+	{
+		"dlcappid" "1270830"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2905223544564987419"
+				"size" "5220066333"
+				"download" "2119353280"
+			}
+			"linuxnative"
+			{
+				"gid" "2905223544564987419"
+				"size" "5220066333"
+				"download" "2119353280"
+			}
+		}
+	}
+	"1691800"
+	{
+		"dlcappid" "1691800"
+	}
+	"1691801"
+	{
+		"dlcappid" "1691800"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3147973472387347535"
+				"size" "66716657377"
+				"download" "11854643952"
+			}
+			"linuxnative"
+			{
+				"gid" "2115331867882480446"
+				"size" "66724887847"
+				"download" "11859863568"
+			}
+		}
+	}
+	"1691802"
+	{
+		"dlcappid" "1691800"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8855925838913262422"
+				"size" "9068912997"
+				"download" "4068742432"
+			}
+			"linuxnative"
+			{
+				"gid" "4740233835520162315"
+				"size" "9068856432"
+				"download" "4068844480"
+			}
+		}
+	}
+	"1887560"
+	{
+		"dlcappid" "1887560"
+	}
+	"1887561"
+	{
+		"dlcappid" "1887560"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "580528532335699271"
+				"size" "35570486276"
+				"download" "6352608256"
+			}
+			"linuxnative"
+			{
+				"gid" "4123397128972779220"
+				"size" "35570474153"
+				"download" "6352604240"
+			}
+		}
+	}
+	"1887562"
+	{
+		"dlcappid" "1887560"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2849859682584703966"
+				"size" "6654144035"
+				"download" "2855775216"
+			}
+			"linuxnative"
+			{
+				"gid" "8378976840254401642"
+				"size" "6654128615"
+				"download" "2855786112"
+			}
+		}
+	}
+	"1318680"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"linuxnative"
+			{
+				"gid" "8060274748931292766"
+				"size" "97989326146"
+				"download" "42008643344"
+			}
+		}
+	}
+	"508152"
+	{
+		"dlcappid" "508150"
+		"config"
+		{
+			"oslist" "linux"
+		}
+	}
+	"512541"
+	{
+		"dlcappid" "512540"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"linuxnative"
+			{
+				"gid" "3511445840272695131"
+				"size" "1177087271"
+				"download" "371864240"
+			}
+		}
+	}
+	"642251"
+	{
+		"dlcappid" "642250"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"linuxnative"
+			{
+				"gid" "5233120494394645986"
+				"size" "2953248412"
+				"download" "903814816"
+			}
+		}
+	}
+	"708771"
+	{
+		"dlcappid" "708770"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"linuxnative"
+			{
+				"gid" "6493885717147978831"
+				"size" "1124001660"
+				"download" "418735712"
+			}
+		}
+	}
+	"887381"
+	{
+		"dlcappid" "887380"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"linuxnative"
+			{
+				"gid" "1054470338340920835"
+				"size" "1453254176"
+				"download" "551822848"
+			}
+		}
+	}
+	"1100811"
+	{
+		"dlcappid" "1100810"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"linuxnative"
+			{
+				"gid" "7695993562551442119"
+				"size" "2576558140"
+				"download" "1076083264"
+			}
+		}
+	}
+	"1113411"
+	{
+		"dlcappid" "1113410"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"linuxnative"
+			{
+				"gid" "2598227911265107161"
+				"size" "6348254490"
+				"download" "2060117104"
+			}
+		}
+	}
+	"1270831"
+	{
+		"dlcappid" "1270830"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"linuxnative"
+			{
+				"gid" "1641301694859193503"
+				"size" "5220066333"
+				"download" "2119029440"
+			}
+		}
+	}
+	"1691805"
+	{
+		"dlcappid" "1691800"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"linuxnative"
+			{
+				"gid" "4699391172317574864"
+				"size" "9068912997"
+				"download" "4068174336"
+			}
+		}
+	}
+	"1887565"
+	{
+		"dlcappid" "1887560"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"linuxnative"
+			{
+				"gid" "8813640760145155438"
+				"size" "6654144035"
+				"download" "2855771120"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14785396"
+			"timeupdated" "1718918622"
+		}
+		"linuxnative"
+		{
+			"buildid" "12322256"
+			"description" "Public Native Linux Branch"
+			"timeupdated" "1696033615"
+		}
+		"timecapsule"
+		{
+			"buildid" "5131249"
+			"timeupdated" "1591497104"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10485760"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "27488490"
+"_sha" "7f06ebdcdab91b3456ee307b02c2c8ddb2fcf458"
+"_size" "24842"
