@@ -1,0 +1,935 @@
+"appid" "1435790"
+"common"
+{
+	"name" "Escape Simulator"
+	"type" "Game"
+	"logo" "2594e0afc22e63f68c8c280ed79d7276d9191f28"
+	"logo_small" "2594e0afc22e63f68c8c280ed79d7276d9191f28_thumb"
+	"icon" "6c294463e2be859160824246e2123a08afce83c4"
+	"clienticon" "c544644de53f52e4890dc0f52d88f9ca64709404"
+	"clienttga" "4c08496270f584c60791e8450d821c7c44774777"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"tchinese" "密室逃脫模擬器"
+		"schinese" "密室逃脱模拟器"
+		"koreana" "방 탈출 시뮬레이터"
+		"japanese" "脱出ルームシミュレーター"
+		"english" "Escape Simulator"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"openvrsupport" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1651708800"
+		"tested_build_id" "8626908"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Escape Simulator"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "44.71130838053657"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "44.71130838053657"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733584677"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pine Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Pine Studio"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Escape Simulator"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Pine Studio"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_27" "1"
+		"category_30" "1"
+		"category_17" "1"
+		"category_22" "1"
+		"category_15" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_52" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1634651188"
+	"metacritic_score" "82"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/escape-simulator\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1435790"
+	"store_tags"
+	{
+		"0" "1664"
+		"1" "1685"
+		"2" "3859"
+		"3" "769306"
+		"4" "3839"
+		"5" "21"
+		"6" "3843"
+		"7" "5716"
+		"8" "7481"
+		"9" "5350"
+		"10" "597"
+		"11" "4182"
+		"12" "599"
+		"13" "492"
+		"14" "21978"
+		"15" "1742"
+		"16" "1698"
+		"17" "8369"
+		"18" "3834"
+		"19" "8122"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Pine Studio"
+	"publisher" "Pine Studio"
+	"homepage" "https://escapesimulator.com/"
+	"listofdlc" "1942100,2000170,2175260,2419810,2644870,2644890,2843390,2879620,3193660"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Escape Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Escape Simulator.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "EscapeSimulator.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "EscapeSimulator"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"3"
+		{
+			"executable" "Escape Simulator.exe"
+			"arguments" "es_vr"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "13"
+	"steaminputmanifestpath" "Controller/manifest.vdf"
+	"steamconfigurator3rdpartynative" "65535"
+}
+"depots"
+{
+	"workshopdepot" "1435790"
+	"baselanguages" "english"
+	"1435791"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "295780608187825728"
+				"size" "25089750271"
+				"download" "7930277184"
+			}
+		}
+	}
+	"1435792"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9213764890193131335"
+				"size" "25234845418"
+				"download" "7966105568"
+			}
+		}
+	}
+	"1435793"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2085332094536881991"
+				"size" "29079860254"
+				"download" "9827622768"
+			}
+		}
+	}
+	"1942101"
+	{
+		"dlcappid" "1942100"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9138071753484625088"
+				"size" "1989651987"
+				"download" "1162999248"
+			}
+		}
+	}
+	"1942102"
+	{
+		"dlcappid" "1942100"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6311021139214740618"
+				"size" "2004183917"
+				"download" "1166701728"
+			}
+		}
+	}
+	"1942103"
+	{
+		"dlcappid" "1942100"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4007768898292743736"
+				"size" "2433673089"
+				"download" "1390636800"
+			}
+		}
+	}
+	"2175261"
+	{
+		"dlcappid" "2175260"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4554297078629761298"
+				"size" "1909309023"
+				"download" "1240117712"
+			}
+		}
+	}
+	"2175262"
+	{
+		"dlcappid" "2175260"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5553074800641849326"
+				"size" "1923173944"
+				"download" "1249652096"
+			}
+		}
+	}
+	"2175263"
+	{
+		"dlcappid" "2175260"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6435405726370499773"
+				"size" "2382138130"
+				"download" "1492680976"
+			}
+		}
+	}
+	"2000171"
+	{
+		"dlcappid" "2000170"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "544960132068981305"
+				"size" "1030283555"
+				"download" "368212576"
+			}
+		}
+	}
+	"2000172"
+	{
+		"dlcappid" "2000170"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7822348840246250794"
+				"size" "1034548357"
+				"download" "369532224"
+			}
+		}
+	}
+	"2000173"
+	{
+		"dlcappid" "2000170"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1883532050643396426"
+				"size" "1127590405"
+				"download" "417238160"
+			}
+		}
+	}
+	"2644871"
+	{
+		"dlcappid" "2644870"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1273970021864218249"
+				"size" "370379377"
+				"download" "179677232"
+			}
+		}
+	}
+	"2644872"
+	{
+		"dlcappid" "2644870"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5841063230196481757"
+				"size" "372312370"
+				"download" "180051392"
+			}
+		}
+	}
+	"2644873"
+	{
+		"dlcappid" "2644870"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1477151280596187304"
+				"size" "424345650"
+				"download" "205073616"
+			}
+		}
+	}
+	"2419811"
+	{
+		"dlcappid" "2419810"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7125610067362755743"
+				"size" "3108231515"
+				"download" "1673084720"
+			}
+		}
+	}
+	"2419812"
+	{
+		"dlcappid" "2419810"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8769434164710600780"
+				"size" "3125900984"
+				"download" "1662986928"
+			}
+		}
+	}
+	"2419813"
+	{
+		"dlcappid" "2419810"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7465329829188479278"
+				"size" "3654840393"
+				"download" "1943485120"
+			}
+		}
+	}
+	"2644891"
+	{
+		"dlcappid" "2644890"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7243949069247745797"
+				"size" "1525193002"
+				"download" "883256720"
+			}
+		}
+	}
+	"2644892"
+	{
+		"dlcappid" "2644890"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1876460747319217344"
+				"size" "1547183980"
+				"download" "888090816"
+			}
+		}
+	}
+	"2644893"
+	{
+		"dlcappid" "2644890"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1927034440923800869"
+				"size" "2140246058"
+				"download" "1153646320"
+			}
+		}
+	}
+	"2843391"
+	{
+		"dlcappid" "2843390"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7258005221969580784"
+				"size" "312714496"
+				"download" "306932784"
+			}
+		}
+	}
+	"2879621"
+	{
+		"dlcappid" "2879620"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1243717326532108995"
+				"size" "391377796"
+				"download" "263872416"
+			}
+		}
+	}
+	"2879622"
+	{
+		"dlcappid" "2879620"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1914535262038615556"
+				"size" "394094132"
+				"download" "264978576"
+			}
+		}
+	}
+	"2879623"
+	{
+		"dlcappid" "2879620"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "252006985555391535"
+				"size" "490071832"
+				"download" "313390976"
+			}
+		}
+	}
+	"3193661"
+	{
+		"dlcappid" "3193660"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4760553673854196860"
+				"size" "574613523"
+				"download" "272923808"
+			}
+		}
+	}
+	"3193662"
+	{
+		"dlcappid" "3193660"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7727191578338045427"
+				"size" "581101235"
+				"download" "274396000"
+			}
+		}
+	}
+	"3193663"
+	{
+		"dlcappid" "3193660"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8379218813843678662"
+				"size" "755896802"
+				"download" "356297664"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17172598"
+			"timeupdated" "1738258497"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Pine Studio/Escape Simulator"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "Pine Studio/Escape Simulator/LevelSaves"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Pine Studio/Escape Simulator"
+					"replace" "Pine Studio/Escape Simulator"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Pine Studio/Escape Simulator"
+					"replace" "Pine Studio/Escape Simulator"
+				}
+			}
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Pine Studio/Escape Simulator"
+					"replace" ".config/unity3d/Pine Studio/Escape Simulator"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27686155"
+"_sha" "c826d7de7def32126788dcc69faec807a3713494"
+"_size" "14723"
