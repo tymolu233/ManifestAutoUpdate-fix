@@ -1,0 +1,628 @@
+"appid" "1030840"
+"common"
+{
+	"name" "Mafia: Definitive Edition"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "a8c7a47baa4b7e9d4648c75697e4f5db46dbcd4c"
+	"logo_small" "a8c7a47baa4b7e9d4648c75697e4f5db46dbcd4c_thumb"
+	"icon" "883ceebf7d8ebce37c9244a62777ef4a800393ce"
+	"clienttga" "819364cebcfaba611bd725e7f95e1c1c0c798140"
+	"clienticon" "58ce96b690376241fbaaa8adc25a7891f911c667"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"spanish" "Mafia: Edición Definitiva"
+		"polish" "Mafia: Edycja Ostateczna"
+		"czech" "Mafia: Definitivní edice"
+		"japanese" "マフィア コンプリート・エディション"
+		"koreana" "마피아 데피니티브 에디션"
+		"tchinese" " 《四海兄弟：決定版》"
+		"schinese" " 《四海兄弟: 最终版》​"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1030840_eula_0"
+			"name" "Mafia: Definitive Edition EULA"
+			"url" "https://store.steampowered.com//eula/1030840_eula_0"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1674604800"
+		"tested_build_id" "7368608"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Mafia: Definitive Edition"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "38.31244584700363"
+			"height_pct" "28.819276115174688"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "38.31244584700363"
+				"height_pct" "28.819276115174688"
+			}
+		}
+	}
+	"store_asset_mtime" "1733868792"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Hangar 13"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "2K"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Mafia"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1600988400"
+	"metacritic_score" "78"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/mafia-definitive-edition\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1030840"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "6378"
+		"2" "19"
+		"3" "1742"
+		"4" "4182"
+		"5" "21"
+		"6" "12095"
+		"7" "3859"
+		"8" "3814"
+		"9" "5708"
+		"10" "4667"
+		"11" "1697"
+		"12" "1774"
+		"13" "4166"
+		"14" "5611"
+		"15" "1693"
+		"16" "6052"
+		"17" "4345"
+		"18" "1756"
+		"19" "699"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Hangar 13"
+	"publisher" "2K"
+	"homepage" "https://mafia.2k.com/"
+	"listofdlc" "1316300"
+}
+"config"
+{
+	"installdir" "Mafia Definitive Edition"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "scotch_showcase.exe"
+			"arguments" "/steam"
+			"description" "Play Mafia: Definitive Edition Age Rating"
+			"type" "none"
+			"config"
+			{
+				"betakey" "age_rating"
+			}
+		}
+		"2"
+		{
+			"executable" "Scotch_Master.exe"
+			"description" "Play Mafia: Definitive Edition Master"
+			"type" "none"
+			"config"
+			{
+				"betakey" "security"
+			}
+		}
+		"3"
+		{
+			"executable" "scotch_profiling.exe"
+			"arguments" "/steam /startdevsaves"
+			"description" "Play Mafia: Definitive Edition DevSaves"
+			"type" "none"
+			"config"
+			{
+				"betakey" "external_partners"
+			}
+		}
+		"4"
+		{
+			"executable" "launcher.exe"
+			"arguments" "/steam /cloudSave"
+			"description" "Play Mafia: Definitive Edition Launcher"
+			"type" "none"
+			"config"
+			{
+				"betakey" "nightly"
+			}
+		}
+		"5"
+		{
+			"executable" "launcher.exe"
+			"arguments" "/steam /cloudSave"
+			"description" "Play Mafia: Definitive Edition Launcher"
+			"type" "none"
+			"config"
+			{
+				"betakey" "beta-qa"
+			}
+		}
+		"6"
+		{
+			"executable" "Scotch_release.exe"
+			"arguments" "/steam /startdevsaves"
+			"description" "Play Mafia: Definitive Edition DevSaves"
+			"type" "none"
+			"config"
+			{
+				"betakey" "nightly"
+			}
+		}
+		"7"
+		{
+			"executable" "Scotch_profiling.exe"
+			"arguments" "/steam /startdevsaves"
+			"description" "Play Mafia: Definitive Edition DevSaves"
+			"type" "none"
+			"config"
+			{
+				"betakey" "beta-qa"
+			}
+		}
+		"8"
+		{
+			"executable" "scotch_showcase.exe"
+			"arguments" "/steam"
+			"description" "Play Mafia: Definitive Edition Age Rating"
+			"type" "none"
+			"config"
+			{
+				"betakey" "age_rating_2"
+			}
+		}
+		"9"
+		{
+			"executable" "\\2KLauncher\\LauncherPatcher.exe"
+			"type" "none"
+			"config"
+			{
+				"betakey" "compatibility"
+			}
+		}
+		"12"
+		{
+			"executable" "launcher.exe"
+			"type" "none"
+			"config"
+			{
+				"betakey" "old"
+			}
+		}
+		"13"
+		{
+			"executable" "mafiadefinitiveedition.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"14"
+		{
+			"executable" "launcher.exe"
+			"type" "none"
+			"config"
+			{
+				"betakey" "mockreviewcode"
+			}
+		}
+		"15"
+		{
+			"executable" "launcher.exe"
+			"type" "none"
+			"config"
+			{
+				"betakey" "pc_review"
+			}
+		}
+		"16"
+		{
+			"executable" "launcher.exe"
+			"arguments" "/steam /cloudSave"
+			"type" "option1"
+			"description_loc"
+			{
+				"english" "Mafia: Definitive Edition Launcher"
+			}
+			"description" "Mafia: Definitive Edition Launcher"
+		}
+		"17"
+		{
+			"executable" "Scotch_profiling.exe"
+			"arguments" "/steam /startdevsaves"
+			"description" "Play Mafia: Definitive Edition DevSaves"
+			"type" "none"
+			"config"
+			{
+				"betakey" "post_release_update"
+			}
+		}
+		"18"
+		{
+			"executable" "launcher.exe"
+			"arguments" "/steam /cloudSave"
+			"description" "Play Mafia: Definitive Edition Launcher"
+			"type" "none"
+			"config"
+			{
+				"betakey" "external_partners"
+			}
+		}
+		"19"
+		{
+			"executable" "\\2KLauncher\\LauncherPatcher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "newtest"
+			}
+			"description_loc"
+			{
+				"english" "Launcher Patcher"
+			}
+			"description" "Launcher Patcher"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2142593050"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,beta-qa,beta_qa_master,master,nightly"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2263217611"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,czech,brazilian,latam"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1030841"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2886022585972111903"
+				"size" "38908493117"
+				"download" "37139405344"
+			}
+		}
+	}
+	"1316300"
+	{
+		"dlcappid" "1316300"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1697495207204236421"
+				"size" "5950"
+				"download" "1632"
+			}
+		}
+	}
+	"1030849"
+	{
+	}
+	"1523211"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5488617169383930545"
+				"size" "80"
+				"download" "128"
+			}
+		}
+		"depotfromapp" "1523210"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16502642"
+			"timeupdated" "1732568745"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Mafia Definitive Edition/Data/{64BitSteamID}"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Mafia Definitive Edition/Data/{64BitSteamID}"
+			"pattern" "*.pf"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27504024"
+"_sha" "2c2ebeae05244c4703568ba3433f309b27d31c85"
+"_size" "11559"
