@@ -1,0 +1,448 @@
+"appid" "774181"
+"common"
+{
+	"name" "Rhythm Doctor"
+	"type" "Game"
+	"logo" "8beaf947dff786f08aab27fd81551a1747e2d0f2"
+	"logo_small" "8beaf947dff786f08aab27fd81551a1747e2d0f2_thumb"
+	"icon" "9b668ca421dd493945e5b1bbfdcf8d124a316864"
+	"clienticon" "8ac11395c7ca321b7d49dc1db9608be07112e66b"
+	"clienttga" "cc4981f0609ef3a2fee670dd95cd1bc0c7bd0227"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"name_localized"
+	{
+		"schinese" "Rhythm Doctor 节奏医生"
+	}
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1699056000"
+		"tested_build_id" "10904905"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Rhythm Doctor"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "43.77593491736186"
+			"height_pct" "85.33132470513733"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "43.77593491736186"
+				"height_pct" "85.33132470513733"
+			}
+		}
+	}
+	"store_asset_mtime" "1711918491"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "7th Beat Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "7th Beat Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "indienova"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "7th Beat Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "indienova"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_17" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_44" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1614348446"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "774181"
+	"store_tags"
+	{
+		"0" "1752"
+		"1" "1621"
+		"2" "3964"
+		"3" "8122"
+		"4" "1742"
+		"5" "492"
+		"6" "493"
+		"7" "4182"
+		"8" "3841"
+		"9" "3871"
+		"10" "19"
+		"11" "4136"
+		"12" "1719"
+		"13" "7368"
+		"14" "21"
+		"15" "1773"
+		"16" "1685"
+		"17" "4085"
+		"18" "4726"
+		"19" "5673"
+	}
+	"review_score" "9"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"developer" "7th Beat Games"
+	"publisher" "7th Beat Games"
+	"homepage" "https://rhythmdr.com/"
+}
+"config"
+{
+	"installdir" "Rhythm Doctor"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Rhythm Doctor.exe"
+			"arguments" "-force-d3d11"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Rhythm Doctor.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Rhythm Doctor"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2756538672"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,alpha,beta,deephospital,mar2021,test"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "774181"
+	"774182"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5225994281982727101"
+				"size" "1093631378"
+				"download" "373141680"
+			}
+			"beta"
+			{
+				"gid" "4063226810717116291"
+				"size" "1091345610"
+				"download" "372498448"
+			}
+		}
+	}
+	"774185"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5694766510151104123"
+				"size" "1104864566"
+				"download" "375550048"
+			}
+			"beta"
+			{
+				"gid" "926262663945776561"
+				"size" "1102376138"
+				"download" "374948848"
+			}
+		}
+	}
+	"774183"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3129364873473252045"
+				"size" "1128645480"
+				"download" "383173664"
+			}
+			"beta"
+			{
+				"gid" "1914754738650350925"
+				"size" "1125892110"
+				"download" "382436720"
+			}
+		}
+	}
+	"774184"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "715518296505182071"
+				"size" "1100317064"
+				"download" "373772496"
+			}
+			"beta"
+			{
+				"gid" "2878964528895644048"
+				"size" "1098712228"
+				"download" "373235904"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16243416"
+			"timeupdated" "1730323879"
+		}
+		"beta"
+		{
+			"buildid" "17314523"
+			"description" "public beta testing"
+			"timeupdated" "1739239404"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "User"
+			"pattern" "*.rdsave"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "User"
+			"pattern" "*.png"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27412199"
+"_sha" "53837ff443cfe74e6f45d801e8e6e99216ddf6c0"
+"_size" "7649"
