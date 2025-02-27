@@ -1,0 +1,110 @@
+"appid" "299990"
+"common"
+{
+	"name" "XCOM 2 Development Tools"
+	"type" "Tool"
+	"releasestate" "released"
+	"oslist" "windows"
+	"clienticon" "9376450a528dbfaddfebe023e4bfbbf765bcc5d3"
+	"clienttga" "2dada5f40da8115bae51fdddbf1c2d771413cfa4"
+	"icon" "a4d1639e3eb192d42dd2644cbc770d8ec1bbab3c"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "299990_eula_0"
+			"name" "XCOM 2 SDK EULA"
+			"url" "http://store.steampowered.com//eula/299990_eula_0"
+		}
+	}
+	"logo" "24bf6b8268055ad4842c8cd3afc1f36777681175"
+	"logo_small" "24bf6b8268055ad4842c8cd3afc1f36777681175_thumb"
+	"associations"
+	{
+	}
+	"gameid" "299990"
+}
+"extended"
+{
+	"gamedir" ""
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "XCOM 2 SDK"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Binaries\\Win32\\ModBuddy\\XCOM ModBuddy.exe"
+			"description" "Launch"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"299991"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2458851552407852855"
+				"size" "70350735599"
+				"download" "45815110176"
+			}
+		}
+	}
+	"299992"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4176716404738900436"
+				"size" "94157772"
+				"download" "25446608"
+			}
+		}
+	}
+	"299993"
+	{
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1462204"
+			"timeupdated" "1479306396"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "ecb09e0a03f8857d77bb63ff6f8cdf44f5cc3cba"
+"_size" "1662"
