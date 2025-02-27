@@ -1,0 +1,393 @@
+"appid" "1433340"
+"common"
+{
+	"name" "Happy\'s Humble Burger Farm"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "969b13039399bad1c4477f721c86a315c240ab16"
+	"logo_small" "969b13039399bad1c4477f721c86a315c240ab16_thumb"
+	"icon" "fce7f7d050591517802de41deff591e42d495601"
+	"clienticon" "e1d09ce0f6a50023c92fb6539dbae2877f7837f9"
+	"clienttga" "58857f75b7c9d333127f367aa8ec52f294da84d7"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "7877255"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1696763255"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Scythe Dev Team"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "tinyBuild"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "tinyBuild"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_43" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1638550435"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1433340"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "3839"
+		"2" "4166"
+		"3" "3964"
+		"4" "5923"
+		"5" "21"
+		"6" "9204"
+		"7" "16689"
+		"8" "4191"
+		"9" "3978"
+		"10" "12472"
+		"11" "6691"
+		"12" "19"
+		"13" "5030"
+		"14" "4106"
+		"15" "3916"
+		"16" "4175"
+		"17" "5372"
+		"18" "1662"
+		"19" "3854"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Scythe Dev Team"
+	"publisher" "tinyBuild"
+	"homepage" "https://www.happyshumble.com/"
+	"gamemanualurl" "https://store.steampowered.com/manual/1433340/"
+	"listofdlc" "1816590"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Happy\'s Humble Burger Farm"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Happy\'s Humble Burger Farm.exe"
+			"type" "default"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamconfigurator3rdpartynative" "15"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2673131235"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default,cgbuild,earlyaccessbranch,internaldevbranch,publishing,testing"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1433341"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4504972997494118012"
+				"size" "21321569940"
+				"download" "11117910144"
+			}
+			"twitch_edition"
+			{
+				"gid" "2158687940673376853"
+				"size" "21197780091"
+				"download" "11092849104"
+			}
+		}
+	}
+	"1816590"
+	{
+		"dlcappid" "1816590"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4677353275115601063"
+				"size" "439252544"
+				"download" "440753792"
+			}
+			"twitch_edition"
+			{
+				"gid" "4677353275115601063"
+				"size" "439252544"
+				"download" "440753792"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7877255"
+			"timeupdated" "1639437396"
+		}
+		"twitch_edition"
+		{
+			"buildid" "8915794"
+			"description" "Happy\'s Humble Burger Farm Twitch Edition"
+			"timeupdated" "1654912795"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "10"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "26900828"
+"_sha" "0fdd257196d42b7e632b87fa5890554a33d8d12f"
+"_size" "6749"
