@@ -23,7 +23,7 @@ from DepotManifestGen.main import MySteamClient, MyCDNClient, get_manifest, Bill
 
 lock = Lock()
 #改大100倍修复添加多账号导致堆栈溢出
-sys.setrecursionlimit(10000000)
+sys.setrecursionlimit(100000000)
 parser = argparse.ArgumentParser()
 parser.add_argument('-c', '--credential-location', default=None)
 parser.add_argument('-l', '--level', default='INFO')
