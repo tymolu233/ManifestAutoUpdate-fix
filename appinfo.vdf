@@ -1,0 +1,401 @@
+"appid" "1368030"
+"common"
+{
+	"name" "ANNO:Mutationem"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "262b52b5b944d49883f29efefb3040e027381c93"
+	"logo_small" "262b52b5b944d49883f29efefb3040e027381c93_thumb"
+	"icon" "394ce04077313393ccce1ae9e7e1d2c4a60f7753"
+	"clienttga" "65d751f407c353c3e5490b9eec4e54e14b8a8536"
+	"clienticns" "1278762ab366cbc943ba449958da9f79fbfa4dbf"
+	"clienticon" "a0d63c2b7e677dcf2bfc7060dc3f56b7552c504b"
+	"name_localized"
+	{
+		"english" "ANNO: Mutationem"
+		"schinese" "纪元: 变异"
+		"japanese" "ANNO: Mutationem アノー：ミューテーショネム"
+		"tchinese" "紀元: 變異"
+		"koreana" "기원: 변이"
+		"sc_schinese" "纪元：变异"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"brazilian" "1"
+	}
+	"releasestatesteamchina" "prerelease"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1650499200"
+		"tested_build_id" "8359035"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en,ko,zh-tw,ja"
+		"library_hero" "en"
+		"library_logo" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "57.45642013680869"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "57.45642013680869"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1673853213"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ThinkingStars"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Lightning Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Lightning Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1647486087"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1368030"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "4115"
+		"2" "7208"
+		"3" "3964"
+		"4" "4106"
+		"5" "4975"
+		"6" "1742"
+		"7" "4085"
+		"8" "492"
+		"9" "19"
+		"10" "21"
+		"11" "4182"
+		"12" "5379"
+		"13" "4252"
+		"14" "3834"
+		"15" "4231"
+		"16" "4295"
+		"17" "3854"
+		"18" "3942"
+		"19" "4777"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "ThinkingStars"
+	"publisher" "Lightning Games"
+	"homepage" "http://anno-m.com"
+	"listofdlc" "1909960"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "ANNOMutationem"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Anno.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "65524"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "english,french,koreana,spanish,schinese,tchinese,russian,japanese,brazilian"
+	"1368031"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8786778509364860964"
+				"size" "11659513342"
+				"download" "8956848672"
+			}
+		}
+	}
+	"1909960"
+	{
+		"dlcappid" "1909960"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8722771999527886706"
+				"size" "4298390"
+				"download" "3823472"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16555993"
+			"timeupdated" "1732729661"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "360000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Thinkingstars/Anno/SavesDir"
+			"pattern" "*.db"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27617332"
+"_sha" "70a3d4939d8e60f9920522f14a2ebb3ccba074ae"
+"_size" "7494"
