@@ -1,0 +1,977 @@
+"appid" "1091500"
+"common"
+{
+	"name" "Cyberpunk 2077"
+	"type" "Game"
+	"logo" "c3ae66bebb61bc8b92562b89dfad0e71e33ba4b9"
+	"logo_small" "c3ae66bebb61bc8b92562b89dfad0e71e33ba4b9_thumb"
+	"icon" "15ba5f5437473a1b4d628b3b87223e84f4cfdf38"
+	"clienttga" "5cf2b4c02be845d6db933d7ac882f710f96a4e8a"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"polish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "赛博朋克 2077"
+		"japanese" "サイバーパンク2077"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "3d642f225dfb69962f5d8d36f7868caf9febf90d"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1091500_eula_0"
+			"name" "Cyberpunk 2077 EULA"
+			"url" "https://store.steampowered.com//eula/1091500_eula_0"
+			"version" "7"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1677542400"
+		"tested_build_id" "10620662"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "gamedrive,vkd3dbindlesstb,"
+		}
+	}
+	"metacritic_name" "Cyberpunk 2077"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"koreana" "header_koreana.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,zh-tw,ko,en"
+		"library_hero" "en"
+		"library_logo" "ko,en,zh-cn,zh-tw"
+		"library_header" "zh-cn,en,ko,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "31.631133954793142"
+			"height_pct" "99.68523781140851"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "31.631133954793142"
+				"height_pct" "99.68523781140851"
+			}
+			"image"
+			{
+				"koreana" "logo_koreana.png"
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"koreana" "logo_koreana_2x.png"
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "4e88035f3a75e69e0ef2005fc611a7fafcb227e1/library_header_schinese.jpg"
+				"english" "e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/library_header.jpg"
+				"koreana" "26b96fa9c8af43189cbecbbc329ade29d9c9cf3e/library_header_koreana.jpg"
+				"tchinese" "3bd292808ba9d8a337c5278acb8345d94ed769a3/library_header_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "4e88035f3a75e69e0ef2005fc611a7fafcb227e1/library_header_schinese_2x.jpg"
+				"english" "e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/library_header_2x.jpg"
+				"koreana" "26b96fa9c8af43189cbecbbc329ade29d9c9cf3e/library_header_koreana_2x.jpg"
+				"tchinese" "3bd292808ba9d8a337c5278acb8345d94ed769a3/library_header_tchinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734434585"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CD PROJEKT RED"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CD PROJEKT RED"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1607558400"
+	"metacritic_score" "86"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/cyberpunk-2077\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1091500"
+	"store_tags"
+	{
+		"0" "4115"
+		"1" "1695"
+		"2" "6650"
+		"3" "122"
+		"4" "4182"
+		"5" "3942"
+		"6" "1663"
+		"7" "4295"
+		"8" "5611"
+		"9" "1742"
+		"10" "3839"
+		"11" "4166"
+		"12" "3834"
+		"13" "19"
+		"14" "4667"
+		"15" "1756"
+		"16" "4231"
+		"17" "21"
+		"18" "4747"
+		"19" "9204"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+	"review_score_bombs" "8"
+	"review_percentage_bombs" "84"
+}
+"extended"
+{
+	"developer" "CD PROJEKT RED"
+	"publisher" "CD PROJEKT RED"
+	"homepage" "https://www.cyberpunk.net"
+	"listofdlc" "2060310,2138330,2441600"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Cyberpunk 2077"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "redprelauncher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "bin\\x64\\Cyberpunk2077.exe"
+			"description" "Cyberpunk2077 early access"
+			"type" "default"
+			"config"
+			{
+				"betakey" "pc_preview_a"
+			}
+		}
+		"3"
+		{
+			"executable" "Cyberpunk2077.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2331265396"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "1091500"
+	"hasdepotsindlc" "1"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1091501"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8420445566849588826"
+				"size" "66043436302"
+				"download" "62515795584"
+			}
+			"1_63_legacy_patch"
+			{
+				"gid" "6594873489665865240"
+				"size" "69245530209"
+				"download" "65721760016"
+			}
+			"2_13_old"
+			{
+				"gid" "4350623720177810551"
+				"size" "65871998280"
+				"download" "62359163920"
+			}
+		}
+	}
+	"1091502"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3260780708809854852"
+				"size" "4872216576"
+				"download" "4658229872"
+			}
+			"1_63_legacy_patch"
+			{
+				"gid" "8869499918106631472"
+				"size" "4861431808"
+				"download" "4646969344"
+			}
+			"2_13_old"
+			{
+				"gid" "4846693136267556074"
+				"size" "4869873664"
+				"download" "4655889376"
+			}
+		}
+	}
+	"1091503"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2781196279510572595"
+				"size" "5356945408"
+				"download" "5146957120"
+			}
+			"1_63_legacy_patch"
+			{
+				"gid" "7860725176037203861"
+				"size" "5407375360"
+				"download" "5194746176"
+			}
+			"2_13_old"
+			{
+				"gid" "2930929891484713220"
+				"size" "5354414080"
+				"download" "5144497440"
+			}
+		}
+	}
+	"1091504"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2997316000567469581"
+				"size" "4995719168"
+				"download" "4785924224"
+			}
+			"1_63_legacy_patch"
+			{
+				"gid" "3942706128185741435"
+				"size" "5033385984"
+				"download" "4821620624"
+			}
+			"2_13_old"
+			{
+				"gid" "4078220236152172576"
+				"size" "4993581056"
+				"download" "4783963968"
+			}
+		}
+	}
+	"1091505"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4589533780567096316"
+				"size" "5177176064"
+				"download" "4967483040"
+			}
+			"1_63_legacy_patch"
+			{
+				"gid" "4214828340855710649"
+				"size" "5213855744"
+				"download" "5001893888"
+			}
+			"2_13_old"
+			{
+				"gid" "498874446476828295"
+				"size" "5174845440"
+				"download" "4965247984"
+			}
+		}
+	}
+	"1091506"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4746434433646308761"
+				"size" "5076365312"
+				"download" "4866114640"
+			}
+			"1_63_legacy_patch"
+			{
+				"gid" "5463429117151273495"
+				"size" "5084672000"
+				"download" "4873460672"
+			}
+			"2_13_old"
+			{
+				"gid" "1923371999643087830"
+				"size" "5074153472"
+				"download" "4863964816"
+			}
+		}
+	}
+	"1091507"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5139081181596225291"
+				"size" "5426094080"
+				"download" "5217059040"
+			}
+			"1_63_legacy_patch"
+			{
+				"gid" "3145667816131657121"
+				"size" "5488508928"
+				"download" "5276428352"
+			}
+			"2_13_old"
+			{
+				"gid" "2478744079664596808"
+				"size" "5423620096"
+				"download" "5214644928"
+			}
+		}
+	}
+	"1091508"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8063732630804129021"
+				"size" "4868775936"
+				"download" "4664875536"
+			}
+			"1_63_legacy_patch"
+			{
+				"gid" "3995250012592214586"
+				"size" "4863356928"
+				"download" "4659520848"
+			}
+			"2_13_old"
+			{
+				"gid" "7381328406432883171"
+				"size" "4866633728"
+				"download" "4662817888"
+			}
+		}
+	}
+	"1091509"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4359393218898221092"
+				"size" "4868763648"
+				"download" "4659080752"
+			}
+			"1_63_legacy_patch"
+			{
+				"gid" "9217761376710018763"
+				"size" "4916219904"
+				"download" "4703376240"
+			}
+			"2_13_old"
+			{
+				"gid" "1513374529205859369"
+				"size" "4866686976"
+				"download" "4656943856"
+			}
+		}
+	}
+	"1460470"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1470473429525273457"
+				"size" "4998955008"
+				"download" "4792278384"
+			}
+			"1_63_legacy_patch"
+			{
+				"gid" "5765923022907354951"
+				"size" "4933558272"
+				"download" "4729343488"
+			}
+			"2_13_old"
+			{
+				"gid" "2012342711196649618"
+				"size" "4996898816"
+				"download" "4790250096"
+			}
+		}
+	}
+	"1460471"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "619006663931326731"
+				"size" "5114851328"
+				"download" "4906614448"
+			}
+			"1_63_legacy_patch"
+			{
+				"gid" "2979356708568940230"
+				"size" "5172756480"
+				"download" "4961083888"
+			}
+			"2_13_old"
+			{
+				"gid" "1139551677548366368"
+				"size" "5112598528"
+				"download" "4904435584"
+			}
+		}
+	}
+	"2060310"
+	{
+		"dlcappid" "2060310"
+		"config"
+		{
+			"oslist" "windows"
+			"optionaldlc" "2060310"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5840271637798999751"
+				"size" "96311717"
+				"download" "21018688"
+			}
+			"1_63_legacy_patch"
+			{
+				"gid" "2805771300199462784"
+				"size" "78714503"
+				"download" "18477520"
+			}
+			"2_13_old"
+			{
+				"gid" "1362194934051700882"
+				"size" "95550273"
+				"download" "20908992"
+			}
+		}
+	}
+	"1460472"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+		}
+	}
+	"1460473"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "polish"
+		}
+		"manifests"
+		{
+		}
+	}
+	"1460474"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "russian"
+		}
+		"manifests"
+		{
+		}
+	}
+	"1460475"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "french"
+		}
+		"manifests"
+		{
+		}
+	}
+	"1460476"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "italian"
+		}
+		"manifests"
+		{
+		}
+	}
+	"1460477"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "german"
+		}
+		"manifests"
+		{
+		}
+	}
+	"1460478"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "spanish"
+		}
+		"manifests"
+		{
+		}
+	}
+	"1460479"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "japanese"
+		}
+		"manifests"
+		{
+		}
+	}
+	"2060311"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "schinese"
+		}
+		"manifests"
+		{
+		}
+	}
+	"2060312"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "koreana"
+		}
+		"manifests"
+		{
+		}
+	}
+	"2060313"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+		}
+	}
+	"2060314"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17055519"
+			"timeupdated" "1737629943"
+		}
+		"1_63_legacy_patch"
+		{
+			"buildid" "11545061"
+			"description" "1.63 Legacy Version"
+			"timeupdated" "1695308314"
+		}
+		"2_13_old"
+		{
+			"buildid" "15646965"
+			"description" "2.13 Patch Rollback"
+			"timeupdated" "1733849034"
+		}
+	}
+	"privatebranches" "1"
+	"appmanagesdlc" "1"
+}
+"ufs"
+{
+	"quota" "2147483648"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "CD Projekt Red/Cyberpunk 2077"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "CD Projekt Red/Cyberpunk 2077/saves"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27669715"
+"_sha" "e89ed1d10aaccd63f937232d59552e356ebae13d"
+"_size" "16809"
