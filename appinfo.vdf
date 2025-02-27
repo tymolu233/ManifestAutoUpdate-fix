@@ -1,0 +1,172 @@
+"appid" "2394010"
+"common"
+{
+	"name" "Palworld Dedicated Server"
+	"type" "Tool"
+	"parent" "1623730"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "606e637a2f0610f3805893e917c0e22d1d043ba6"
+	"clienttga" "2032a63848f1ab00b518b7e984bd533c1ce0cf07"
+	"clienticon" "22a20bdaa6d782f60caa45eb7b02fc2411dcd988"
+	"linuxclienticon" "d26e2c064a36a71a1ae404a0fc9bef6c2182f611"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "2394010"
+}
+"extended"
+{
+	"gamedir" "Palworld"
+	"serverbrowsername" "Palworld"
+}
+"config"
+{
+	"installdir" "PalServer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PalServer.exe"
+			"arguments" "-useperfthreads -NoAsyncLoadingThread -UseMultithreadForDS"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "PalServer.sh"
+			"arguments" "EpicApp=PalServer -useperfthreads -NoAsyncLoadingThread -UseMultithreadForDS -publiclobby"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "PalServer.exe"
+			"arguments" "-publiclobby -useperfthreads -NoAsyncLoadingThread -UseMultithreadForDS -publiclobby"
+			"description_loc"
+			{
+				"english" "Open and start as a community server"
+			}
+			"description" "Open and start as a community server"
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2394011"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9190436399998987628"
+				"size" "3923795021"
+				"download" "3149274768"
+			}
+		}
+	}
+	"2394012"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7437307725616060428"
+				"size" "3527948246"
+				"download" "3043763072"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17468322"
+			"timeupdated" "1740456210"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27694078"
+"_sha" "a663c696daf0b7dd57f18a86a05f53ed0a8a3ccb"
+"_size" "2761"
