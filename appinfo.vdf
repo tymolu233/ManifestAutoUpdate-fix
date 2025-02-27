@@ -1,0 +1,503 @@
+"appid" "424370"
+"common"
+{
+	"name" "Wolcen: Lords of Mayhem"
+	"type" "Game"
+	"oslist" "windows"
+	"logo" "6080f3ba2072ad2033f222961cfce39626d5438b"
+	"logo_small" "6080f3ba2072ad2033f222961cfce39626d5438b_thumb"
+	"icon" "d38c80d8bc7d6bb1a01ea92a30276f4631072bcb"
+	"clienticon" "274dfb434ced2b67bb45befd9ed66327d1d7396f"
+	"clienttga" "61ac2f7f85bd87695a74380c975900251afc0e2a"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"hungarian" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1658275200"
+		"tested_build_id" "8581297"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DisplayOutputHasNonblockingIssues"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"market_presence" "1"
+	"metacritic_name" "Wolcen: Lords of Mayhem"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "2cf7772e43912f5d2ee072b0b3fedace76d2db82/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "771b15727558f97a21347db2069162f78599132e/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "771b15727558f97a21347db2069162f78599132e/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "bef62cd6529bc75fecea090beff293d2924a8643/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "bef62cd6529bc75fecea090beff293d2924a8643/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "bef62cd6529bc75fecea090beff293d2924a8643/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "3c0efd06466610b6f2bcd010c55a2ba0077e30f9/logo_2x.png"
+			}
+			"image"
+			{
+				"english" "3c0efd06466610b6f2bcd010c55a2ba0077e30f9/logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "cff85f68d43a9d7a78c6f647e205cf5f507af0e8/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "cff85f68d43a9d7a78c6f647e205cf5f507af0e8/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731003021"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "WOLCEN Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "WOLCEN Studio"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1581580800"
+	"steam_release_date" "1581612000"
+	"metacritic_score" "60"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/wolcen-lords-of-mayhem\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "424370"
+	"store_tags"
+	{
+		"0" "4231"
+		"1" "1646"
+		"2" "4182"
+		"3" "5851"
+		"4" "122"
+		"5" "19"
+		"6" "4236"
+		"7" "21"
+		"8" "492"
+		"9" "4604"
+		"10" "4747"
+		"11" "1720"
+		"12" "1684"
+		"13" "7481"
+		"14" "4791"
+		"15" "4172"
+		"16" "4026"
+		"17" "3859"
+		"18" "1685"
+		"19" "3843"
+	}
+	"review_score" "5"
+	"review_percentage" "55"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "WOLCEN Studio"
+	"publisher" "WOLCEN Studio"
+	"homepage" "https://www.wolcengame.com"
+	"listofdlc" "1192450,1430890,1430891,1430892,1430893,1430894,1430895,1430896,1430897"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Wolcen"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "win_x64/Wolcen.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "english"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"424371"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2645580744796891281"
+				"size" "39335932722"
+				"download" "27296125888"
+			}
+		}
+	}
+	"1192450"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"dlcappid" "1192450"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4871931189752371759"
+				"size" "1700497545"
+				"download" "1570917312"
+			}
+		}
+	}
+	"1192620"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"dlcappid" "1192620"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4976607141460791267"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"424372"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6055080594274902095"
+				"size" "39253338128"
+				"download" "19949486912"
+			}
+		}
+	}
+	"424373"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5578179157934817718"
+				"size" "39250717744"
+				"download" "27209797424"
+			}
+		}
+	}
+	"424374"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"local"
+			{
+				"gid" "7398539802416779565"
+				"size" "39111916944"
+				"download" "19882608080"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15727055"
+			"timeupdated" "1726566325"
+		}
+		"local"
+		{
+			"buildid" "11295544"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1684833154"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "999999999"
+	"maxnumfiles" "9999"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "wolcen/savegames"
+			"pattern" "*.json"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27106319"
+"_sha" "b646aeab9b90258a09568033382b53fbb87392e1"
+"_size" "8666"
