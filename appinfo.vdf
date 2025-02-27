@@ -1,0 +1,1991 @@
+"appid" "203140"
+"common"
+{
+	"name" "Hitman: Absolution"
+	"type" "Game"
+	"logo" "b86fc98f1d9d4339deff8a1cf117cc3c7080ff55"
+	"logo_small" "b86fc98f1d9d4339deff8a1cf117cc3c7080ff55_thumb"
+	"clienticon" "ac39ea87bca9040868b47b7398255eebf6b4f490"
+	"clienttga" "db04ef0db2998e0fdb90a43ea4ca4d165b4831aa"
+	"icon" "fe5e36ac1548793eb48b6b25b701b37d86fb94a3"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"url" "http://store.steampowered.com/eula/203140_eula"
+			"id" "203140_eula"
+			"name" "203140_eula"
+		}
+	}
+	"oslist" "windows,macos"
+	"clienticns" "ac8cb100ac686444d2cdf6d1b349092cd4e19c55"
+	"sortas" "Hitman 5: Absolution"
+	"osarch" ""
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1653004800"
+		"tested_build_id" "1567760"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Hitman: Absolution"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "41"
+			"height_pct" "48"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "41"
+				"height_pct" "48"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1667311015"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Io-Interactive A/S"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Io-Interactive A/S"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Hitman"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"metacritic_score" "79"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/hitman-absolution\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "203140"
+	"store_tags"
+	{
+		"0" "1687"
+		"1" "19"
+		"2" "1697"
+		"3" "4376"
+		"4" "4182"
+		"5" "3814"
+		"6" "1708"
+		"7" "1774"
+		"8" "4711"
+		"9" "6378"
+		"10" "1742"
+		"11" "3859"
+		"12" "4145"
+		"13" "4026"
+		"14" "4166"
+		"15" "21"
+		"16" "9"
+		"17" "5154"
+		"18" "7250"
+		"19" "7481"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Io-Interactive A/S"
+	"gamedir" "ValveTestApp203140"
+	"gamemanualurl" "http://store.steampowered.com/manual/203140/"
+	"guideappid" "206788"
+	"homepage" "http://hitman.com/"
+	"icon" ""
+	"launcheula" "http://store.steampowered.com/eula/203140_eula"
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Io-Interactive A/S"
+	"listofdlc" "216411,216412,216413,216414,216415,216416,216417,216418,216419,216420,216421,216429"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HMA.exe"
+			"description" "Launch Game"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Hitman Absolution.app"
+			"description" "Launch Mac"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"contenttype" "3"
+	"installdir" "Hitman Absolution"
+	"cegpublickey" "30819D300D06092A864886F70D010101050003818B0030818702818100E6E65176C4ADA16D40139F398D2BAF42F3F659A2C6E0B2EA88F57073A5624C2386297689809422497047A2C5834BB68027116E510D6E379B8D64CDB3F36028AE6907E86C70A252008A234A61EE8B65176BFCA671DADB433ED384DCAC82B8F8364DAAAAC27A755D519A2B345A90923EE367C78CFC658F807B2A9383FBA17CBAC7020111"
+	"checkguid" "hma.exe"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"preloadonly" "1"
+	"markdlcdepots" "1"
+	"203141"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4500859568925075151"
+				"size" "24479889842"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "4500859568925075151"
+				"size" "24479889842"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "5388309141245332823"
+				"size" "24464873864"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "4500859568925075151"
+				"size" "24479889842"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "4500859568925075151"
+				"size" "24479889842"
+				"download" "0"
+			}
+		}
+	}
+	"203142"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4707517681983701730"
+				"size" "35035648"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "4707517681983701730"
+				"size" "35035648"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "2308391641322810559"
+				"size" "35162624"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "4707517681983701730"
+				"size" "35035648"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "4707517681983701730"
+				"size" "35035648"
+				"download" "0"
+			}
+		}
+	}
+	"203143"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4234813678723460302"
+				"size" "590389501"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "4234813678723460302"
+				"size" "590389501"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "2201280692495101362"
+				"size" "589272749"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "4234813678723460302"
+				"size" "590389501"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "4234813678723460302"
+				"size" "590389501"
+				"download" "0"
+			}
+		}
+	}
+	"203144"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4231952700937855362"
+				"size" "568206127"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "4231952700937855362"
+				"size" "568206127"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "5835669555685756498"
+				"size" "567288463"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "4231952700937855362"
+				"size" "568206127"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "4231952700937855362"
+				"size" "568206127"
+				"download" "0"
+			}
+		}
+	}
+	"203145"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6782289881271275500"
+				"size" "623825415"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "6782289881271275500"
+				"size" "623825415"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "7609836067811991981"
+				"size" "622739719"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "6782289881271275500"
+				"size" "623825415"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "6782289881271275500"
+				"size" "623825415"
+				"download" "0"
+			}
+		}
+	}
+	"203146"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1035791686537171778"
+				"size" "614933734"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "1035791686537171778"
+				"size" "614933734"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "1320297161066005097"
+				"size" "614092758"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "1035791686537171778"
+				"size" "614933734"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "1035791686537171778"
+				"size" "614933734"
+				"download" "0"
+			}
+		}
+	}
+	"203147"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6762799788960639438"
+				"size" "594837217"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "6762799788960639438"
+				"size" "594837217"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "376887994015390294"
+				"size" "593832849"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "6762799788960639438"
+				"size" "594837217"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "6762799788960639438"
+				"size" "594837217"
+				"download" "0"
+			}
+		}
+	}
+	"203148"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1568194848291531205"
+				"size" "620753051"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "1568194848291531205"
+				"size" "620753051"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "3463476043766973830"
+				"size" "619800379"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "1568194848291531205"
+				"size" "620753051"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "1568194848291531205"
+				"size" "620753051"
+				"download" "0"
+			}
+		}
+	}
+	"203149"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1459060224201281287"
+				"size" "598727716"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "1459060224201281287"
+				"size" "598727716"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "3224012663638041853"
+				"size" "597671316"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "1459060224201281287"
+				"size" "598727716"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "1459060224201281287"
+				"size" "598727716"
+				"download" "0"
+			}
+		}
+	}
+	"203150"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "777969866232517818"
+				"size" "3245747990"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "777969866232517818"
+				"size" "3245747990"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "1116102945470807015"
+				"size" "612640389"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "777969866232517818"
+				"size" "3245747990"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "777969866232517818"
+				"size" "3245747990"
+				"download" "0"
+			}
+		}
+	}
+	"203151"
+	{
+		"config"
+		{
+			"language" "turkish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4927376437833616831"
+				"size" "590389501"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "4927376437833616831"
+				"size" "590389501"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "5553971924140821810"
+				"size" "589272749"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "4927376437833616831"
+				"size" "590389501"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "4927376437833616831"
+				"size" "590389501"
+				"download" "0"
+			}
+		}
+	}
+	"216411"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8952006441057630829"
+				"size" "510202"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "8952006441057630829"
+				"size" "510202"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "1629861556730273021"
+				"size" "509960"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "8952006441057630829"
+				"size" "510202"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "8952006441057630829"
+				"size" "510202"
+				"download" "0"
+			}
+		}
+		"dlcappid" "216411"
+	}
+	"216412"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7653478202657417840"
+				"size" "510369"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "7653478202657417840"
+				"size" "510369"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "3615457807904787788"
+				"size" "510127"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "7653478202657417840"
+				"size" "510369"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "7653478202657417840"
+				"size" "510369"
+				"download" "0"
+			}
+		}
+		"dlcappid" "216412"
+	}
+	"216413"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7587332490090392983"
+				"size" "510256"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "7587332490090392983"
+				"size" "510256"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "2668303838472068928"
+				"size" "510014"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "7587332490090392983"
+				"size" "510256"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "7587332490090392983"
+				"size" "510256"
+				"download" "0"
+			}
+		}
+		"dlcappid" "216413"
+	}
+	"216414"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2721849911120397445"
+				"size" "8428916"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "2721849911120397445"
+				"size" "8428916"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "2504919316994846577"
+				"size" "8427508"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "2721849911120397445"
+				"size" "8428916"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "2721849911120397445"
+				"size" "8428916"
+				"download" "0"
+			}
+		}
+		"dlcappid" "216414"
+	}
+	"216415"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1808872715655678108"
+				"size" "8327962"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "1808872715655678108"
+				"size" "8327962"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "4189592796671871561"
+				"size" "8328027"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "1808872715655678108"
+				"size" "8327962"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "1808872715655678108"
+				"size" "8327962"
+				"download" "0"
+			}
+		}
+		"dlcappid" "216415"
+	}
+	"216416"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1016875605573705949"
+				"size" "12303258"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "1016875605573705949"
+				"size" "12303258"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "3461887716087748162"
+				"size" "12299048"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "1016875605573705949"
+				"size" "12303258"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "1016875605573705949"
+				"size" "12303258"
+				"download" "0"
+			}
+		}
+		"dlcappid" "216416"
+	}
+	"216417"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8550191879894420067"
+				"size" "60292720"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "8550191879894420067"
+				"size" "60292720"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "5123772995615110847"
+				"size" "60292480"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "8550191879894420067"
+				"size" "60292720"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "8550191879894420067"
+				"size" "60292720"
+				"download" "0"
+			}
+		}
+		"dlcappid" "216417"
+	}
+	"216418"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7565992362606627229"
+				"size" "44055001"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "7565992362606627229"
+				"size" "44055001"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "6899203506346580829"
+				"size" "44054757"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "7565992362606627229"
+				"size" "44055001"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "7565992362606627229"
+				"size" "44055001"
+				"download" "0"
+			}
+		}
+		"dlcappid" "216418"
+	}
+	"216419"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1721955041182413140"
+				"size" "44221646"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "1721955041182413140"
+				"size" "44221646"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "502376220321459098"
+				"size" "44221403"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "1721955041182413140"
+				"size" "44221646"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "1721955041182413140"
+				"size" "44221646"
+				"download" "0"
+			}
+		}
+		"dlcappid" "216419"
+	}
+	"216420"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4511782306596923476"
+				"size" "42822423"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "4511782306596923476"
+				"size" "42822423"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "4946732457659903531"
+				"size" "42822188"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "4511782306596923476"
+				"size" "42822423"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "4511782306596923476"
+				"size" "42822423"
+				"download" "0"
+			}
+		}
+		"dlcappid" "216420"
+	}
+	"216421"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9184806344898357029"
+				"size" "8825889"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "9184806344898357029"
+				"size" "8825889"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "8921037207184935243"
+				"size" "8822126"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "9184806344898357029"
+				"size" "8825889"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "9184806344898357029"
+				"size" "8825889"
+				"download" "0"
+			}
+		}
+		"dlcappid" "216421"
+	}
+	"203153"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "449153452439859666"
+				"size" "8"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "449153452439859666"
+				"size" "8"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "6262831545604617539"
+				"size" "8"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "449153452439859666"
+				"size" "8"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "449153452439859666"
+				"size" "8"
+				"download" "0"
+			}
+		}
+	}
+	"203154"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "438582163950775989"
+				"size" "8"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "438582163950775989"
+				"size" "8"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "438582163950775989"
+				"size" "8"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "438582163950775989"
+				"size" "8"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "438582163950775989"
+				"size" "8"
+				"download" "0"
+			}
+		}
+	}
+	"203155"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8556548021271033815"
+				"size" "2409223"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "8556548021271033815"
+				"size" "2409223"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "1028833052480597438"
+				"size" "8"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "8556548021271033815"
+				"size" "2409223"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "8556548021271033815"
+				"size" "2409223"
+				"download" "0"
+			}
+		}
+	}
+	"203152"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6693869964342690960"
+				"size" "697696128"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "6693869964342690960"
+				"size" "697696128"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "4690016349482576953"
+				"size" "696058761"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "6693869964342690960"
+				"size" "697696128"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "6693869964342690960"
+				"size" "697696128"
+				"download" "0"
+			}
+		}
+	}
+	"203156"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5030393338909761466"
+				"size" "1929369934"
+				"download" "0"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "5030393338909761466"
+				"size" "1929369934"
+				"download" "0"
+			}
+			"launch_433_1"
+			{
+				"gid" "5030393338909761466"
+				"size" "1929369934"
+				"download" "0"
+			}
+			"mac_retail_101"
+			{
+				"gid" "5030393338909761466"
+				"size" "1929369934"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "5030393338909761466"
+				"size" "1929369934"
+				"download" "0"
+			}
+		}
+	}
+	"203157"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3095542515985630150"
+				"size" "22278624122"
+				"download" "10117386224"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "3095542515985630150"
+				"size" "22278624122"
+				"download" "10117386224"
+			}
+			"local"
+			{
+				"gid" "3095542515985630150"
+				"size" "22278624122"
+				"download" "10117386224"
+			}
+			"mac_retail_101"
+			{
+				"gid" "247939892246814740"
+				"size" "23376596144"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "3095542515985630150"
+				"size" "22278624122"
+				"download" "10117386224"
+			}
+		}
+	}
+	"203158"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1360959774907683128"
+				"size" "108650124"
+				"download" "35974368"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "3110008450867610350"
+				"size" "109200209"
+				"download" "36154096"
+			}
+			"local"
+			{
+				"gid" "7632158442791222033"
+				"size" "108641160"
+				"download" "35975776"
+			}
+			"mac_retail_101"
+			{
+				"gid" "2162477809974903333"
+				"size" "72030066"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "1360959774907683128"
+				"size" "108650124"
+				"download" "35974368"
+			}
+		}
+	}
+	"203159"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2973016662816979377"
+				"size" "590389503"
+				"download" "534157200"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "2973016662816979377"
+				"size" "590389503"
+				"download" "534157200"
+			}
+			"local"
+			{
+				"gid" "2973016662816979377"
+				"size" "590389503"
+				"download" "534157200"
+			}
+			"mac_retail_101"
+			{
+				"gid" "2973016662816979377"
+				"size" "590389503"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "2973016662816979377"
+				"size" "590389503"
+				"download" "534157200"
+			}
+		}
+	}
+	"266891"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1978793499008846426"
+				"size" "568206129"
+				"download" "516047120"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "1978793499008846426"
+				"size" "568206129"
+				"download" "516047120"
+			}
+			"local"
+			{
+				"gid" "1978793499008846426"
+				"size" "568206129"
+				"download" "516047120"
+			}
+			"mac_retail_101"
+			{
+				"gid" "1978793499008846426"
+				"size" "568206129"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "1978793499008846426"
+				"size" "568206129"
+				"download" "516047120"
+			}
+		}
+	}
+	"266892"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2809413338564448132"
+				"size" "623825417"
+				"download" "568800928"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "2809413338564448132"
+				"size" "623825417"
+				"download" "568800928"
+			}
+			"local"
+			{
+				"gid" "2809413338564448132"
+				"size" "623825417"
+				"download" "568800928"
+			}
+			"mac_retail_101"
+			{
+				"gid" "2809413338564448132"
+				"size" "623825417"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "2809413338564448132"
+				"size" "623825417"
+				"download" "568800928"
+			}
+		}
+	}
+	"266893"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9053568959681786426"
+				"size" "614933736"
+				"download" "559483632"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "9053568959681786426"
+				"size" "614933736"
+				"download" "559483632"
+			}
+			"local"
+			{
+				"gid" "9053568959681786426"
+				"size" "614933736"
+				"download" "559483632"
+			}
+			"mac_retail_101"
+			{
+				"gid" "9053568959681786426"
+				"size" "614933736"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "9053568959681786426"
+				"size" "614933736"
+				"download" "559483632"
+			}
+		}
+	}
+	"266894"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6687227426442601291"
+				"size" "594837219"
+				"download" "534645584"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "6687227426442601291"
+				"size" "594837219"
+				"download" "534645584"
+			}
+			"local"
+			{
+				"gid" "6687227426442601291"
+				"size" "594837219"
+				"download" "534645584"
+			}
+			"mac_retail_101"
+			{
+				"gid" "6687227426442601291"
+				"size" "594837219"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "6687227426442601291"
+				"size" "594837219"
+				"download" "534645584"
+			}
+		}
+	}
+	"266895"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6630339068469590381"
+				"size" "620753053"
+				"download" "564334528"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "6630339068469590381"
+				"size" "620753053"
+				"download" "564334528"
+			}
+			"local"
+			{
+				"gid" "6630339068469590381"
+				"size" "620753053"
+				"download" "564334528"
+			}
+			"mac_retail_101"
+			{
+				"gid" "6630339068469590381"
+				"size" "620753053"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "6630339068469590381"
+				"size" "620753053"
+				"download" "564334528"
+			}
+		}
+	}
+	"266896"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4864616128532435201"
+				"size" "598727718"
+				"download" "540435808"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "4864616128532435201"
+				"size" "598727718"
+				"download" "540435808"
+			}
+			"local"
+			{
+				"gid" "4864616128532435201"
+				"size" "598727718"
+				"download" "540435808"
+			}
+			"mac_retail_101"
+			{
+				"gid" "4864616128532435201"
+				"size" "598727718"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "4864616128532435201"
+				"size" "598727718"
+				"download" "540435808"
+			}
+		}
+	}
+	"266897"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "macos"
+		}
+	}
+	"266898"
+	{
+		"config"
+		{
+			"language" "turkish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1574341006623937499"
+				"size" "590389503"
+				"download" "534157200"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "1574341006623937499"
+				"size" "590389503"
+				"download" "534157200"
+			}
+			"local"
+			{
+				"gid" "1574341006623937499"
+				"size" "590389503"
+				"download" "534157200"
+			}
+			"mac_retail_101"
+			{
+				"gid" "1574341006623937499"
+				"size" "590389503"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "1574341006623937499"
+				"size" "590389503"
+				"download" "534157200"
+			}
+		}
+	}
+	"266899"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"266900"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"266901"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"266902"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"266903"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"266904"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"266905"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"266906"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"266907"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"266908"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"266909"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"267011"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3216158920845093679"
+				"size" "1929369934"
+				"download" "1920128864"
+			}
+			"hitman_mac_1.1"
+			{
+				"gid" "3216158920845093679"
+				"size" "1929369934"
+				"download" "1920128864"
+			}
+			"local"
+			{
+				"gid" "3216158920845093679"
+				"size" "1929369934"
+				"download" "1920128864"
+			}
+			"mac_retail_101"
+			{
+				"gid" "5127971759122756543"
+				"size" "1929382230"
+				"download" "0"
+			}
+			"merge_branch"
+			{
+				"gid" "3216158920845093679"
+				"size" "1929369934"
+				"download" "1920128864"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1567760"
+			"timeupdated" "1485172336"
+		}
+		"hitman_mac_1.1"
+		{
+			"buildid" "1447262"
+			"timeupdated" "1484675362"
+		}
+		"launch_433_1"
+		{
+			"buildid" "26086"
+			"description" "Launch Day Version"
+		}
+		"local"
+		{
+			"buildid" "1491580"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1480587444"
+		}
+		"mac_retail_101"
+		{
+			"buildid" "267427"
+			"description" "Mac 10.11.5 or older only"
+			"timeupdated" "1479117631"
+		}
+		"merge_branch"
+		{
+			"buildid" "1567760"
+			"timeupdated" "1484675580"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "1000"
+	"hidecloudui" "0"
+	"appidredirect" "205930"
+}
+"_missing_token" "False"
+"_change_number" "27103756"
+"_sha" "7ed444f4fa515ee0ca473ed3ced44acd30322149"
+"_size" "32994"
