@@ -1,0 +1,89 @@
+"appid" "379680"
+"common"
+{
+	"name" "Secrets of Grindea Translation Suite"
+	"type" "Tool"
+	"oslist" "windows"
+	"logo" "ba72da1a21078b1f81dd5b4f07143491dbb41c55"
+	"logo_small" "ba72da1a21078b1f81dd5b4f07143491dbb41c55_thumb"
+	"clienticon" "88379fe0371ad8b42129b019930115edd9b9da37"
+	"clienttga" "8e1be13b457bb6bcdbd3dd651a2ed2907acc2ee7"
+	"icon" "b777138bc827afc451547b69b1400a5476528a93"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "379680"
+}
+"extended"
+{
+	"disableoverlay" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Secrets of Grindea Translation Tool"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TranslationSuite.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"229003"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229012"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"379681"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8055767880991343198"
+				"size" "85126985"
+				"download" "20783280"
+			}
+		}
+	}
+	"workshopdepot" "379680"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15212196"
+			"timeupdated" "1722426189"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "24587818"
+"_sha" "9da3904a4969a1cd8b9203f970fb9ee6adf85204"
+"_size" "1383"
