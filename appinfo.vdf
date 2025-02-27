@@ -1,0 +1,306 @@
+"appid" "724970"
+"common"
+{
+	"name" "神舞幻想 Faith of Danschant"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "19798c35f05cd236d43d1c057c30958540b6391e"
+	"logo_small" "19798c35f05cd236d43d1c057c30958540b6391e_thumb"
+	"icon" "6cabc457f6bd627772bd996b9e2cf54bfc714893"
+	"clienttga" "77f2eb982196e46093bfad7f7c9f86ff87976f1e"
+	"clienticon" "ab09ec7d0b657cc5b95f6d7eb401c566572b5a20"
+	"steamchinaapproved" "1"
+	"name_localized"
+	{
+		"sc_schinese" "神舞幻想 Faith of Danschant"
+	}
+	"releasestatesteamchina" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1653696000"
+		"tested_build_id" "3018783"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "神舞幻想 Faith of Danschant"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1612746165"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "北京九鳳信息科技有限公司"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "北京网元圣唐娱乐科技有限公司"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1513903380"
+	"community_hub_visible" "1"
+	"gameid" "724970"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "1677"
+		"2" "6915"
+		"3" "4182"
+		"4" "1742"
+		"5" "1684"
+		"6" "4085"
+	}
+	"review_score" "5"
+	"review_percentage" "60"
+}
+"extended"
+{
+	"developer" "北京九鳳信息科技有限公司"
+	"publisher" "北京网元圣唐娱乐科技有限公司"
+	"homepage" "http://swhx.wangyuan.com"
+	"listofdlc" "779660,800140"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "FOD"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FOD.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"hasdepotsindlc" "1"
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"724974"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1833098542592905705"
+				"size" "40626488303"
+				"download" "37503294656"
+			}
+		}
+	}
+	"724972"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8091259143722160155"
+				"size" "2931627"
+				"download" "2262560"
+			}
+		}
+	}
+	"724973"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6294021704624651499"
+				"size" "2931627"
+				"download" "2262560"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3018783"
+			"timeupdated" "1534411097"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "200"
+}
+"_missing_token" "False"
+"_change_number" "27007721"
+"_sha" "fcdba73fe7ebeb8923dd8c51443684c86eeb0d0b"
+"_size" "5241"
