@@ -1,0 +1,73 @@
+"appid" "534080"
+"common"
+{
+	"name" "Last Tide TEST Server"
+	"section_type" "ownersonly"
+	"type" "Tool"
+	"releasestate" "released"
+	"clienticon" "ee54a28d61b2932f2cb5382ce85f06d610eb55a4"
+	"clienttga" "12785e6a7b0f04533e49e85dea30a264a9225957"
+	"icon" "dbe480a87c5ed9e6f0e606fa8c1756023e3a15dd"
+	"oslist" "windows"
+	"osarch" "64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "534080_eula_0"
+			"name" "Last Tide Public Beta EULA"
+			"url" "https://store.steampowered.com//eula/534080_eula_0"
+		}
+	}
+	"parent" "858590"
+	"app_retired_publisher_request" "1"
+	"metacritic_name" "DepthAnotherTestAppID"
+	"associations"
+	{
+	}
+	"community_visible_stats" "1"
+	"gameid" "534080"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Last Tide Public Beta"
+	"launch"
+	{
+		"2"
+		{
+			"executable" "WindowsNoEditor\\DR.exe"
+			"arguments" "mainmenu_proto -ENV=PB"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,turkish,brazilian"
+	"534081"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6208196858790946411"
+				"size" "9926147472"
+				"download" "3938945488"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3156975"
+			"timeupdated" "1537967154"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "bdc8147b15fd4fc2114760a17c90ff7f433eabe8"
+"_size" "1373"
