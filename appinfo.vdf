@@ -1,0 +1,451 @@
+"appid" "673750"
+"common"
+{
+	"name" "Super Bunny Man"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "8cad1c0a55062db29ecadc1f4cf2912984cbf911"
+	"logo_small" "8cad1c0a55062db29ecadc1f4cf2912984cbf911_thumb"
+	"icon" "84dacb8846b7ede61ca12576ee2c5393b390ed88"
+	"clienticon" "df8df7617fb1f8e7551f21e82f2658a5ebcbe9fa"
+	"clienttga" "1e7f38d3f24defd47813894096aa1b83e387e9e7"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosnotarized"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "673750_eula_0"
+			"name" "Super Bunny Man EULA"
+			"url" "https://store.steampowered.com//eula/673750_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1649376000"
+		"tested_build_id" "7811697"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"3"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "5613e86f95b528938211d22326e29cddcabcf669/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732013315"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Catobyte"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Catobyte Ltd"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_37" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_28" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_36" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1684270800"
+	"community_hub_visible" "1"
+	"gameid" "673750"
+	"store_tags"
+	{
+		"0" "3810"
+		"1" "1625"
+		"2" "3859"
+		"3" "4182"
+		"4" "1685"
+		"5" "4136"
+		"6" "3843"
+		"7" "3968"
+		"8" "7108"
+		"9" "3841"
+		"10" "597"
+		"11" "5379"
+		"12" "1719"
+		"13" "5537"
+		"14" "19"
+		"15" "10397"
+		"16" "21"
+		"17" "1775"
+		"18" "7368"
+		"19" "7178"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Catobyte"
+	"publisher" "Catobyte Ltd"
+	"homepage" "https://www.superbunnyman.com"
+}
+"config"
+{
+	"installdir" "Super Bunny Man"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Super Bunny Man.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Super Bunny Man.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Super Bunny Man.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2069481168"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"673751"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7877590470736542532"
+				"size" "1747522861"
+				"download" "175425696"
+			}
+			"local"
+			{
+				"gid" "1968163534962531980"
+				"size" "956066740"
+				"download" "124252432"
+			}
+		}
+	}
+	"673752"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6841300154909663411"
+				"size" "1771522469"
+				"download" "182506752"
+			}
+			"local"
+			{
+				"gid" "4337108555434071595"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"673753"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2406391090775499135"
+				"size" "1787512014"
+				"download" "175563456"
+			}
+			"local"
+			{
+				"gid" "4559726846531809115"
+				"size" "1001057121"
+				"download" "122824240"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11603728"
+			"timeupdated" "1688186293"
+		}
+		"local"
+		{
+			"buildid" "14241214"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1714636092"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Catobyte/Super Bunny Man/"
+			"pattern" "SBM_SaveData.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Catobyte/Super Bunny Man/"
+					"replace" "Catobyte/Super Bunny Man/"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Catobyte/Super Bunny Man/"
+					"replace" ".config/Catobyte/Super Bunny Man/"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27659185"
+"_sha" "cbee9437ce9f249b5e17eb39fa72b7152d9d8cd7"
+"_size" "7561"
