@@ -1,0 +1,439 @@
+"appid" "374040"
+"common"
+{
+	"name" "Portal Knights"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"polish" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"clienttga" "eeca3b1526736edfb643a9cf724a5367dda88938"
+	"clienticon" "50b1f26eb1b7aa2f17f20f42f9ee76813efa6766"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "374040_eula_0"
+			"name" "Portal Knights EULA"
+			"url" "http://store.steampowered.com//eula/374040_eula_0"
+		}
+	}
+	"icon" "464bad8b53edd14ea24f1bf0315a84740220f470"
+	"logo" "5a293e572eba24d456fee8cd1d8b2c1b3fb7dd25"
+	"logo_small" "5a293e572eba24d456fee8cd1d8b2c1b3fb7dd25_thumb"
+	"oslist" "windows"
+	"releasestate" "released"
+	"osarch" "64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "4775482"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Portal Knights"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"german" "capsule_231x87_german.jpg"
+		"french" "capsule_231x87_french.jpg"
+		"swedish" "capsule_231x87_swedish.jpg"
+		"norwegian" "capsule_231x87_norwegian.jpg"
+		"finnish" "capsule_231x87_finnish.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+		"spanish" "capsule_231x87_spanish.jpg"
+		"italian" "capsule_231x87_italian.jpg"
+		"polish" "capsule_231x87_polish.jpg"
+		"turkish" "capsule_231x87_turkish.jpg"
+		"brazilian" "capsule_231x87_brazilian.jpg"
+		"thai" "capsule_231x87_thai.jpg"
+		"czech" "capsule_231x87_czech.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"german" "header_german.jpg"
+		"french" "header_french.jpg"
+		"swedish" "header_swedish.jpg"
+		"norwegian" "header_norwegian.jpg"
+		"finnish" "header_finnish.jpg"
+		"koreana" "header_koreana.jpg"
+		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+		"russian" "header_russian.jpg"
+		"spanish" "header_spanish.jpg"
+		"italian" "header_italian.jpg"
+		"polish" "header_polish.jpg"
+		"turkish" "header_turkish.jpg"
+		"brazilian" "header_brazilian.jpg"
+		"thai" "header_thai.jpg"
+		"czech" "header_czech.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "27"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "27"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1669134496"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Keen Games GmbH"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "505 Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "505 Games Official"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_23" "1"
+		"category_30" "1"
+		"category_39" "1"
+		"category_44" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1495119720"
+	"metacritic_score" "72"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/portal-knights\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "374040"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "3859"
+		"2" "3810"
+		"3" "122"
+		"4" "1643"
+		"5" "1702"
+		"6" "1662"
+		"7" "1685"
+		"8" "19"
+		"9" "3834"
+		"10" "4182"
+		"11" "1684"
+		"12" "1732"
+		"13" "597"
+		"14" "4726"
+		"15" "1720"
+		"16" "493"
+		"17" "1697"
+		"18" "3841"
+		"19" "1756"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Keen Games GmbH"
+	"publisher" "505 Games"
+	"homepage" "http://portalknights.com"
+	"listofdlc" "617090,617100,617110,617120,617140,618730,837990,851860,851870,918540,1046050,1085410,1176870"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Portal Knights"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "portal_knights_x64.exe"
+			"description" "Launch Portal Knights"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2208290908"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,polish,finnish,norwegian,swedish,czech,turkish,brazilian"
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"374041"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "50268920994572455"
+				"size" "11030638396"
+				"download" "3052444944"
+			}
+		}
+	}
+	"618730"
+	{
+		"dlcappid" "618730"
+	}
+	"617100"
+	{
+		"dlcappid" "617100"
+	}
+	"617110"
+	{
+		"dlcappid" "617110"
+	}
+	"617120"
+	{
+		"dlcappid" "617120"
+	}
+	"617140"
+	{
+		"dlcappid" "617140"
+	}
+	"617090"
+	{
+		"dlcappid" "617090"
+	}
+	"workshopdepot" "374040"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4775482"
+			"timeupdated" "1584374434"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1610612736"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27344420"
+"_sha" "a58e6c73658ea56571c157608df45880faed1eaa"
+"_size" "8169"
