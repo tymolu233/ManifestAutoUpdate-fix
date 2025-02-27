@@ -1,0 +1,228 @@
+"appid" "233800"
+"common"
+{
+	"name" "Arma 3 Tools"
+	"type" "Tool"
+	"releasestate" "released"
+	"oslist" "windows"
+	"clienticon" "54df35d94301e5a7fba403365d1d890e3078537b"
+	"clienttga" "738ee59eb2c7c34ae7921722400398513610f0e8"
+	"icon" "ca4f4e420142ea3fc2a62b97697797a3df95b224"
+	"parent" "107410"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "233800_eula_0"
+			"name" "Arma 3 Tools EULA"
+			"url" "http://store.steampowered.com/eula/233800_eula_0"
+			"version" "1"
+		}
+	}
+	"logo" "74d4160d95dc21cde01743be889626abd414e33a"
+	"logo_small" "74d4160d95dc21cde01743be889626abd414e33a_thumb"
+	"metacritic_name" "Arma 3 Tools"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_23012fe7b0ae6db7b3a6652b804da82c56b31976.jpg"
+	"store_asset_mtime" "1440080828"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bohemia Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bohemia Interactive"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"gameid" "233800"
+	"exfgls" "9"
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"checkpkgstate" "1"
+	"developer" "Bohemia Interactive"
+	"gamedir" "ValveTestApp233800"
+	"homepage" "http://dev.arma3.com/"
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateComingSoonNoPreload"
+	"visibleonlywhensubscribed" "1"
+	"disableoverlay" "1"
+	"publisher" "Bohemia Interactive"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Arma 3 Tools"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Arma3Tools.exe"
+			"arguments" "/parent=steam"
+			"description" "Launch Tools Launcher"
+		}
+		"1"
+		{
+			"executable" "starter.exe"
+			"arguments" "/parent=steam /mode=run /tool=ObjectBuilder"
+			"description" "Launch Object Builder"
+		}
+		"2"
+		{
+			"executable" "starter.exe"
+			"arguments" "/parent=steam /mode=run /tool=TerrainBuilder"
+			"description" "Launch Terrain Builder"
+		}
+		"3"
+		{
+			"executable" "AddonBuilder\\AddonBuilder.exe"
+			"description" "Launch Addon Builder"
+		}
+		"5"
+		{
+			"executable" "Publisher\\Publisher.exe"
+			"description" "Launch Publisher"
+		}
+	}
+}
+"depots"
+{
+	"228981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"preloadonly" "1"
+	"overridescddb" "1"
+	"233801"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4496570495200571390"
+				"size" "413149406"
+				"download" "104666320"
+			}
+			"development"
+			{
+				"gid" "672003262583649669"
+				"size" "413153606"
+				"download" "104670000"
+			}
+		}
+	}
+	"233802"
+	{
+	}
+	"markdlcdepots" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15847826"
+			"timeupdated" "1728388208"
+		}
+		"development"
+		{
+			"buildid" "16474383"
+			"description" "Development Build"
+			"timeupdated" "1732116954"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "500"
+}
+"_missing_token" "False"
+"_change_number" "27194777"
+"_sha" "d09a64f07510de71b340e6fdb9f5b0b3afeca9e4"
+"_size" "3871"
