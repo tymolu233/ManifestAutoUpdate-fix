@@ -1,0 +1,437 @@
+"appid" "1794680"
+"common"
+{
+	"name" "Vampire Survivors"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"logo" "906b61ca1fff04fed9a9de27d11b4a8c43f5a2b4"
+	"logo_small" "906b61ca1fff04fed9a9de27d11b4a8c43f5a2b4_thumb"
+	"icon" "3677cf1be3be1f4ea42261c62ce10519715ade58"
+	"clienticon" "b61dc182c372d4f9517043ba04f4fa61308a30bb"
+	"clienttga" "ea3762f9532a25f12a891fe035a98db2ac52886d"
+	"name_localized"
+	{
+		"schinese" "Vampire Survivors - 吸血鬼幸存者"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1681862400"
+		"tested_build_id" "10515927"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-1"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Vampire Survivors"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "36.14499002698585"
+			"height_pct" "30.165062604322543"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "36.14499002698585"
+				"height_pct" "30.165062604322543"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730369523"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "poncle"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "poncle"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_44" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1666281688"
+	"metacritic_score" "86"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/vampire-survivors\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1794680"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "4885"
+		"2" "3964"
+		"3" "3959"
+		"4" "3871"
+		"5" "4018"
+		"6" "492"
+		"7" "4182"
+		"8" "597"
+		"9" "1773"
+		"10" "19"
+		"11" "1716"
+		"12" "122"
+		"13" "7481"
+		"14" "4004"
+		"15" "5154"
+		"16" "4604"
+		"17" "4231"
+		"18" "3841"
+		"19" "7743"
+	}
+	"review_score" "9"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,london-coop-event,new-engine,new-engine-internal,public-beta"
+	"developer" "poncle"
+	"publisher" "poncle"
+	"listofdlc" "2230760,2313550,2690330,2887680,3210350"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Vampire Survivors"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "VampireSurvivors.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "Vampire_Survivors.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "VampireSurvivors.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"1794681"
+	{
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "373785810701396943"
+				"size" "554528355"
+				"download" "232326064"
+			}
+			"public-beta"
+			{
+				"gid" "1836579866553756749"
+				"size" "554507638"
+				"download" "232310816"
+			}
+		}
+	}
+	"1794684"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8710684100846497583"
+				"size" "526266949"
+				"download" "233070704"
+			}
+			"public-beta"
+			{
+				"gid" "3763930079574445634"
+				"size" "526266941"
+				"download" "233071904"
+			}
+		}
+	}
+	"1794685"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6805605675632418066"
+				"size" "508811585"
+				"download" "231771856"
+			}
+			"public-beta"
+			{
+				"gid" "6913762290099852149"
+				"size" "507915921"
+				"download" "231240352"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16620030"
+			"timeupdated" "1733738745"
+		}
+		"public-beta"
+		{
+			"buildid" "16620083"
+			"description" "Public Beta"
+			"timeupdated" "1733499550"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "4000000"
+	"maxnumfiles" "40"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "resources/app/.webpack/renderer/"
+			"pattern" "*.sav"
+		}
+		"2"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Vampire_Survivors/saves/"
+			"pattern" "*.sav"
+		}
+		"3"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Vampire_Survivors_Data/"
+			"pattern" "*.sav"
+		}
+		"4"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Vampire_Survivors_{Steam3AccountID}/"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".config/"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27656991"
+"_sha" "6396f5b786a94067842207f65405a49b46eeadc6"
+"_size" "7563"
