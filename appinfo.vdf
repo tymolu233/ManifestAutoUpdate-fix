@@ -1,0 +1,89 @@
+"appid" "1260"
+"common"
+{
+	"name" "Killing Floor SDK"
+	"logo" "354c07a75cc16f6bf551b81d27f4eee3436fc2fb"
+	"logo_small" "354c07a75cc16f6bf551b81d27f4eee3436fc2fb_thumb"
+	"icon" "d8a2d777cb4c59cf06aa244166db232336520547"
+	"clienttga" "ea0745342d5415ac4b7e66a160294f6f99db097a"
+	"clienticon" "3b231267de8f8c9e628701668f44dbdf79ed605d"
+	"type" "Tool"
+	"gameid" "1260"
+}
+"extended"
+{
+	"developer" "Tripwire Interactive"
+	"gamedir" "KillingFloor"
+	"homepage" "http://www.killingfloorthegame.com"
+	"icon" ""
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "1261"
+	"serverbrowsername" ""
+	"state" "eStateTool"
+	"visibleonlywhensubscribed" "1"
+}
+"config"
+{
+	"launch"
+	{
+		"0"
+		{
+			"executable" "System\\KFEd.exe"
+			"description" "KillingFloorSDK"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"contenttype" "3"
+	"installdir" "KillingFloor"
+}
+"depots"
+{
+	"1251"
+	{
+		"systemdefined" "1"
+		"depotfromapp" "1250"
+		"sharedinstall" "2"
+	}
+	"1252"
+	{
+		"systemdefined" "1"
+		"depotfromapp" "1250"
+		"sharedinstall" "2"
+	}
+	"1261"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3950411908659536035"
+				"size" "19874155"
+				"download" "5631264"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1074380"
+			"timeupdated" "1461081381"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27103115"
+"_sha" "3055156a5b2f1c46c1b4d3efb0da353c64bbc156"
+"_size" "1505"
