@@ -1,0 +1,790 @@
+"appid" "1184370"
+"common"
+{
+	"name" "Pathfinder: Wrath of the Righteous - Enhanced Edition"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"logo" "29bd070b807ee77d0a596576ee42bf010df592ba"
+	"logo_small" "29bd070b807ee77d0a596576ee42bf010df592ba_thumb"
+	"icon" "03f542f563cf40c7412ed85259a46366631552a8"
+	"clienttga" "bdf55aac872709821f6fe9365c617eadc480707e"
+	"clienticon" "adba6386455fa8ce979a907d9646d6dc2f41cbc2"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1644364800"
+		"tested_build_id" "7615213"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Pathfinder: Wrath of the Righteous"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "59.763450277563436"
+			"height_pct" "60.63880313464735"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "59.763450277563436"
+				"height_pct" "60.63880313464735"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731952031"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Owlcat Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "META Publishing"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Owlcat Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Owlcat Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "META Publishing"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_43" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1630598400"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/pathfinder-wrath-of-the-righteous\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1184370"
+	"store_tags"
+	{
+		"0" "4325"
+		"1" "4947"
+		"2" "21"
+		"3" "9"
+		"4" "3834"
+		"5" "5851"
+		"6" "4182"
+		"7" "21725"
+		"8" "19"
+		"9" "7208"
+		"10" "10695"
+		"11" "1741"
+		"12" "4155"
+		"13" "4474"
+		"14" "1742"
+		"15" "122"
+		"16" "1684"
+		"17" "4747"
+		"18" "6426"
+		"19" "4172"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "Owlcat Games"
+	"publisher" "META Publishing"
+	"homepage" "https://wrath.owlcatgames.com/"
+	"listofdlc" "1694800,1694801,1713800,1725540,1725541,1816820,1816821,1849470,1882540,1889980,1889981,2064590,2145870,2266770,2564570,2564580,3116830"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Pathfinder Second Adventure"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Wrath.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Wrath.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "1184370"
+	"hasdepotsindlc" "1"
+	"1184371"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3717212101766653364"
+				"size" "24204723223"
+				"download" "19803946672"
+			}
+			"1.3.7d"
+			{
+				"gid" "3717212101766653364"
+				"size" "24204723223"
+				"download" "19803946672"
+			}
+			"1.4.4g"
+			{
+				"gid" "3717212101766653364"
+				"size" "24204723223"
+				"download" "19803946672"
+			}
+			"2.0.7o"
+			{
+				"gid" "3717212101766653364"
+				"size" "24204723223"
+				"download" "19803946672"
+			}
+			"2.1.5r"
+			{
+				"gid" "3717212101766653364"
+				"size" "24204723223"
+				"download" "19803946672"
+			}
+			"betatest"
+			{
+				"gid" "3717212101766653364"
+				"size" "24204723223"
+				"download" "19803946672"
+			}
+			"2.2.4p"
+			{
+				"gid" "3717212101766653364"
+				"size" "24204723223"
+				"download" "19803946672"
+			}
+			"2.3.3k"
+			{
+				"gid" "3717212101766653364"
+				"size" "24204723223"
+				"download" "19803946672"
+			}
+			"2.4.1i"
+			{
+				"gid" "3717212101766653364"
+				"size" "24204723223"
+				"download" "19803946672"
+			}
+		}
+	}
+	"1184379"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7030613816386541594"
+				"size" "15876308699"
+				"download" "9708898672"
+			}
+			"1.3.7d"
+			{
+				"gid" "7030613816386541594"
+				"size" "15876308699"
+				"download" "9708898672"
+			}
+			"1.4.4g"
+			{
+				"gid" "7030613816386541594"
+				"size" "15876308699"
+				"download" "9708898672"
+			}
+			"2.0.7o"
+			{
+				"gid" "7030613816386541594"
+				"size" "15876308699"
+				"download" "9708898672"
+			}
+			"2.1.5r"
+			{
+				"gid" "7030613816386541594"
+				"size" "15876308699"
+				"download" "9708898672"
+			}
+			"betatest"
+			{
+				"gid" "7030613816386541594"
+				"size" "15876308699"
+				"download" "9708898672"
+			}
+			"2.2.4p"
+			{
+				"gid" "7030613816386541594"
+				"size" "15876308699"
+				"download" "9708898672"
+			}
+			"2.3.3k"
+			{
+				"gid" "7030613816386541594"
+				"size" "15876308699"
+				"download" "9708898672"
+			}
+			"2.4.1i"
+			{
+				"gid" "7030613816386541594"
+				"size" "15876308699"
+				"download" "9708898672"
+			}
+		}
+	}
+	"1184372"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7095923674630040577"
+				"size" "34207542156"
+				"download" "27300940576"
+			}
+			"1.3.7d"
+			{
+				"gid" "7527851383142730328"
+				"size" "30316698521"
+				"download" "23827176416"
+			}
+			"1.4.4g"
+			{
+				"gid" "5963272864892377235"
+				"size" "38783561302"
+				"download" "29997600640"
+			}
+			"2.0.7o"
+			{
+				"gid" "6137582048720657958"
+				"size" "29381763483"
+				"download" "23256465872"
+			}
+			"2.1.5r"
+			{
+				"gid" "557038035598604008"
+				"size" "42044801623"
+				"download" "32819846624"
+			}
+			"betatest"
+			{
+				"gid" "5361301512259511487"
+				"size" "30875530332"
+				"download" "24578991296"
+			}
+			"2.2.4p"
+			{
+				"gid" "3616555767055230058"
+				"size" "32380892097"
+				"download" "25816723664"
+			}
+			"2.3.3k"
+			{
+				"gid" "6479743225303232289"
+				"size" "33902563612"
+				"download" "27089245392"
+			}
+			"2.4.1i"
+			{
+				"gid" "6231895698948566224"
+				"size" "34093130469"
+				"download" "27241825456"
+			}
+		}
+	}
+	"1694800"
+	{
+		"dlcappid" "1694800"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2879750353866152114"
+				"size" "3370263576"
+				"download" "3411309488"
+			}
+			"1.3.7d"
+			{
+				"gid" "4137935089491020266"
+				"size" "2444746382"
+				"download" "2474067280"
+			}
+			"1.4.4g"
+			{
+				"gid" "4137935089491020266"
+				"size" "2444746382"
+				"download" "2474067280"
+			}
+			"2.0.7o"
+			{
+				"gid" "4137935089491020266"
+				"size" "2444746382"
+				"download" "2474067280"
+			}
+			"2.1.5r"
+			{
+				"gid" "4137935089491020266"
+				"size" "2444746382"
+				"download" "2474067280"
+			}
+			"betatest"
+			{
+				"gid" "4137935089491020266"
+				"size" "2444746382"
+				"download" "2474067280"
+			}
+			"2.2.4p"
+			{
+				"gid" "2879750353866152114"
+				"size" "3370263576"
+				"download" "3411309488"
+			}
+			"2.3.3k"
+			{
+				"gid" "2879750353866152114"
+				"size" "3370263576"
+				"download" "3411309488"
+			}
+			"2.4.1i"
+			{
+				"gid" "4137935089491020266"
+				"size" "2444746382"
+				"download" "2474067280"
+			}
+		}
+	}
+	"1184373"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "95259318092133932"
+				"size" "34230879644"
+				"download" "27302169152"
+			}
+			"1.3.7d"
+			{
+				"gid" "3742404312161394127"
+				"size" "28529865595"
+				"download" "22505310144"
+			}
+			"1.4.4g"
+			{
+				"gid" "2360559571796973580"
+				"size" "28666884558"
+				"download" "22601475264"
+			}
+			"2.0.7o"
+			{
+				"gid" "5623604976682209296"
+				"size" "29398662628"
+				"download" "23263505104"
+			}
+			"2.1.5r"
+			{
+				"gid" "3220126889643440204"
+				"size" "41927750911"
+				"download" "32785725216"
+			}
+			"betatest"
+			{
+				"gid" "4123887072865106483"
+				"size" "30894166301"
+				"download" "24585975856"
+			}
+			"2.2.4p"
+			{
+				"gid" "2254802519848433239"
+				"size" "32452870112"
+				"download" "25866301024"
+			}
+			"2.3.3k"
+			{
+				"gid" "8199142297018273533"
+				"size" "33932104649"
+				"download" "27102423712"
+			}
+			"2.4.1i"
+			{
+				"gid" "4205345684722709634"
+				"size" "34112933573"
+				"download" "27245607680"
+			}
+		}
+	}
+	"1184374"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9059805660516767946"
+				"size" "28497436391"
+				"download" "23733011280"
+			}
+			"1.3.7d"
+			{
+				"gid" "9059805660516767946"
+				"size" "28497436391"
+				"download" "23733011280"
+			}
+			"1.4.4g"
+			{
+				"gid" "9059805660516767946"
+				"size" "28497436391"
+				"download" "23733011280"
+			}
+			"2.0.7o"
+			{
+				"gid" "9059805660516767946"
+				"size" "28497436391"
+				"download" "23733011280"
+			}
+			"2.1.5r"
+			{
+				"gid" "9059805660516767946"
+				"size" "28497436391"
+				"download" "23733011280"
+			}
+			"betatest"
+			{
+				"gid" "9059805660516767946"
+				"size" "28497436391"
+				"download" "23733011280"
+			}
+			"2.2.4p"
+			{
+				"gid" "9059805660516767946"
+				"size" "28497436391"
+				"download" "23733011280"
+			}
+			"2.3.3k"
+			{
+				"gid" "9059805660516767946"
+				"size" "28497436391"
+				"download" "23733011280"
+			}
+			"2.4.1i"
+			{
+				"gid" "9059805660516767946"
+				"size" "28497436391"
+				"download" "23733011280"
+			}
+		}
+	}
+	"1184375"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17424995"
+			"timeupdated" "1739980858"
+		}
+		"1.3.7d"
+		{
+			"buildid" "9126755"
+			"description" "old version 1.3"
+			"timeupdated" "1661777152"
+		}
+		"1.4.4g"
+		{
+			"buildid" "9568347"
+			"description" "old version 1.4"
+			"timeupdated" "1664362568"
+		}
+		"2.0.7o"
+		{
+			"buildid" "10558719"
+			"description" "old version 2.0"
+			"timeupdated" "1678182153"
+		}
+		"2.1.5r"
+		{
+			"buildid" "11836624"
+			"description" " old version 2.1"
+			"timeupdated" "1700580972"
+		}
+		"betatest"
+		{
+			"buildid" "10620336"
+			"description" "Betatest version"
+			"timeupdated" "1677159245"
+		}
+		"2.2.4p"
+		{
+			"buildid" "14480165"
+			"description" "old version 2.2"
+			"timeupdated" "1718275913"
+		}
+		"2.3.3k"
+		{
+			"buildid" "15035220"
+			"description" "old version 2.3"
+			"timeupdated" "1725545056"
+		}
+		"2.4.1i"
+		{
+			"buildid" "15823223"
+			"description" "old version 2.4"
+			"timeupdated" "1731942187"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Owlcat Games/Pathfinder Wrath Of The Righteous/Saved Games"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "MacHome"
+			"path" "/Library/Application Support/Owlcat Games/Pathfinder Wrath Of The Righteous/Saved Games"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27691198"
+"_sha" "bca3bb9f2166cd6b45e3c9a84b53220b08ccdaf6"
+"_size" "14231"
