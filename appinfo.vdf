@@ -1,0 +1,497 @@
+"appid" "1222700"
+"common"
+{
+	"name" "A Way Out"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1222700_eula_1"
+			"name" "A Way Out EULA"
+			"url" "https://store.steampowered.com//eula/1222700_eula_1"
+			"version" "3"
+		}
+	}
+	"clienticon" "fe57a746a93adb703666fbf457be97abf5e187ab"
+	"clienttga" "44aec7b9001002bbd4b4f4c596253f142152f401"
+	"icon" "ac36b7d06c117d34c204166c3120e15910ef2b8b"
+	"logo" "a22d8398abf4eb20f73c1ab8abf194a0261afb4d"
+	"logo_small" "a22d8398abf4eb20f73c1ab8abf194a0261afb4d_thumb"
+	"exfgls" "1"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1674000000"
+		"tested_build_id" "9888437"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "A Way Out"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "74.69722156257421"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "74.69722156257421"
+			}
+		}
+	}
+	"store_asset_mtime" "1598570429"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Hazelight Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Electronic Arts"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "EA Originals"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_44" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1521788400"
+	"steam_release_date" "1592506500"
+	"metacritic_score" "78"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/a-way-out\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1222700"
+	"store_tags"
+	{
+		"0" "3843"
+		"1" "1685"
+		"2" "10816"
+		"3" "1742"
+		"4" "3841"
+		"5" "3859"
+		"6" "4106"
+		"7" "19"
+		"8" "21"
+		"9" "6378"
+		"10" "1697"
+		"11" "5608"
+		"12" "15172"
+		"13" "4166"
+		"14" "6650"
+		"15" "12095"
+		"16" "4145"
+		"17" "4667"
+		"18" "4182"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+	"mastersubs_granting_app" "1289670"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,eax_patch_test"
+	"developer" "Hazelight Studios"
+	"publisher" "Electronic Arts"
+	"homepage" "https://www.ea.com/games/a-way-out"
+	"listofdlc" "1225270"
+}
+"config"
+{
+	"installdir" "AWayOut"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "link2ea://launchgame/1222700\?platform=steam&theme=awo"
+			"type" "none"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2187500067"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,spanish,russian,polish,brazilian"
+	"1222701"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3337035757784335885"
+				"size" "22213699893"
+				"download" "21919726464"
+			}
+		}
+	}
+	"1222702"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8387221094917375962"
+				"size" "139274"
+				"download" "34224"
+			}
+		}
+	}
+	"1222703"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5636124281960800039"
+				"size" "166855"
+				"download" "40816"
+			}
+		}
+	}
+	"1222704"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7343339097675540561"
+				"size" "151677"
+				"download" "36800"
+			}
+		}
+	}
+	"1222705"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3075867475302157756"
+				"size" "164499"
+				"download" "38752"
+			}
+		}
+	}
+	"1222706"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8338245604001591508"
+				"size" "158102"
+				"download" "38448"
+			}
+		}
+	}
+	"1222707"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8916018675485212397"
+				"size" "158612"
+				"download" "40464"
+			}
+		}
+	}
+	"1222708"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2402279825248928699"
+				"size" "147962"
+				"download" "36496"
+			}
+		}
+	}
+	"1222709"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2661962776059232529"
+				"size" "238042"
+				"download" "42144"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13095794"
+			"timeupdated" "1704974466"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27355223"
+"_sha" "61b4fa5f7849dfe734eb7531fbbdc7687c1b1eb0"
+"_size" "8227"
