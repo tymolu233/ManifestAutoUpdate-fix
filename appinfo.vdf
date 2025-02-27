@@ -1,0 +1,173 @@
+"appid" "651460"
+"common"
+{
+	"name" "Total War™: WARHAMMER II - Assembly Kit BETA"
+	"type" "Tool"
+	"releasestate" "released"
+	"clienticon" "4073fc72f7d6714d1487e74277e0cdda33a2e4a1"
+	"clienttga" "f6db08231a6dbf535f90b63bb4e7ab23f7bbc44e"
+	"icon" "6d5daf8094f04d2b19e1b0d51416ef1cccedbec5"
+	"logo" "0d6f590173e313127765c73d9a3604a75911344e"
+	"logo_small" "0d6f590173e313127765c73d9a3604a75911344e_thumb"
+	"metacritic_name" "Total War™: WARHAMMER II - Assembly Kit BETA"
+	"library_assets"
+	{
+		"library_hero" "en"
+	}
+	"library_assets_full"
+	{
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1575478873"
+	"associations"
+	{
+		"0"
+		{
+			"type" "franchise"
+			"name" "Total War"
+		}
+	}
+	"steam_release_date" "1507212120"
+	"gameid" "651460"
+}
+"config"
+{
+	"installdir" "Total War WARHAMMER II"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "assembly_kit\\binaries\\BOB.modder.x64.exe"
+			"workingdir" "assembly_kit\\binaries"
+			"description" "Exporter: BOB"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "assembly_kit\\binaries\\Tweak.modder.x64.exe"
+			"arguments" "/standalone TWaD"
+			"workingdir" "assembly_kit\\binaries"
+			"description" "Database Editor: Dave"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "assembly_kit\\binaries\\Tweak.modder.x64.exe"
+			"arguments" "/standalone TerrainMetadataEditor"
+			"workingdir" "assembly_kit\\binaries"
+			"description" "Battle Map Editor: Terry"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "assembly_kit\\binaries\\browse.bat"
+			"arguments" "http://wiki.totalwar.com/w/Total_War_WARHAMMER_Assembly_Kit_Manual"
+			"workingdir" "assembly_kit\\binaries"
+			"description" "Show Assembly Kit Manual"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"651461"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7590883368017362271"
+				"size" "857147774"
+				"download" "164235184"
+			}
+			"coast_beta"
+			{
+				"gid" "7985568579537468594"
+				"size" "683680273"
+				"download" "128553840"
+			}
+			"mortal_empires_pte"
+			{
+				"gid" "3821334251244583023"
+				"size" "624232984"
+				"download" "123369376"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13657994"
+			"timeupdated" "1710846450"
+		}
+		"coast_beta"
+		{
+			"buildid" "3286425"
+			"timeupdated" "1548687746"
+		}
+		"mortal_empires_pte"
+		{
+			"buildid" "2305671"
+			"timeupdated" "1511441092"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27622888"
+"_sha" "4917c8361d462cd9a910fe0a85405609c302d3ff"
+"_size" "3219"
