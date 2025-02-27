@@ -1,0 +1,1814 @@
+"appid" "107410"
+"common"
+{
+	"name" "Arma 3"
+	"clienticon" "06ec25998633d10a2b503de42648b47c94baa215"
+	"clienttga" "883674261bb1419f911c3ce56e3164355fa0d869"
+	"icon" "3212af52faf994c558bd622cb0f360c1ef295a6b"
+	"logo" "b49962441a01f1f80b180af1293608dddf7df6b0"
+	"logo_small" "b49962441a01f1f80b180af1293608dddf7df6b0_thumb"
+	"oslist" "windows,macos"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "107410_eula_0"
+			"name" "Arma 3 EULA"
+			"url" "http://store.steampowered.com/eula/107410_eula_0"
+			"version" "2"
+		}
+	}
+	"exfgls" "1"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"type" "game"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1652227200"
+		"tested_build_id" "8588216"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "simultaneous_gamepad_mouse"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Arma III"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "37"
+			"height_pct" "56"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "37"
+				"height_pct" "56"
+			}
+		}
+	}
+	"store_asset_mtime" "1739461875"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bohemia Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bohemia Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Arma Franchise"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_13" "1"
+		"category_17" "1"
+		"category_30" "1"
+		"category_29" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_47" "1"
+		"category_48" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "1"
+			"full_audio" "1"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1378969320"
+	"metacritic_score" "74"
+	"metacritic_fullurl" "http://www.metacritic.com/game/pc/arma-iii\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "107410"
+	"store_tags"
+	{
+		"0" "4168"
+		"1" "19"
+		"2" "3859"
+		"3" "1774"
+		"4" "599"
+		"5" "4175"
+		"6" "3839"
+		"7" "1695"
+		"8" "1708"
+		"9" "1663"
+		"10" "1678"
+		"11" "1685"
+		"12" "9"
+		"13" "3810"
+		"14" "4182"
+		"15" "1669"
+		"16" "3993"
+		"17" "3843"
+		"18" "5711"
+		"19" "3814"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+	"review_score_bombs" "8"
+	"review_percentage_bombs" "90"
+}
+"extended"
+{
+	"developer" "Bohemia Interactive"
+	"developer_url" "http://www.bistudio.com/"
+	"gamedir" "arma3"
+	"gamemanualurl" "http://store.steampowered.com/manual/107410/"
+	"homepage" "https://www.arma3.com"
+	"icon" ""
+	"noservers" "1"
+	"order" "1"
+	"state" "eStateAvailable"
+	"visibleonlywhensubscribed" "1"
+	"serverbrowsername" "Arma 3"
+	"additional_dependencies"
+	{
+		"0"
+		{
+			"src_os" "windows"
+			"dest_os" "linux"
+			"appid" "1161040"
+			"comment" "BE runtime"
+		}
+	}
+	"publisher" "Bohemia Interactive"
+	"listofdlc" "249861,249862,275700,288520,304380,304400,332350,395180,571710,601670,612480,639600,744950,798390,1021790,1042220,1175380,1227700,1294440,1325500,1681170,2647760,2647830"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Arma 3"
+	"launch"
+	{
+		"2"
+		{
+			"executable" "arma3launcher.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch Arma 3"
+				"german" "Arma 3 starten"
+				"french" "Lancer Arma 3"
+				"italian" "Avvia Arma 3"
+				"koreana" "Arma 3 실행"
+				"spanish" "Iniciar Arma 3"
+				"schinese" "启动 Arma 3"
+				"tchinese" "啟動《Arma 3》"
+				"russian" "Запустить Arma 3"
+				"japanese" "『Arma 3』を起動する"
+				"polish" "Uruchom Arma 3"
+				"czech" "Spustit hru Arma 3"
+				"turkish" "Arma 3’ü başlatın"
+				"brazilian" "Iniciar Arma 3"
+			}
+			"description" "Launch Arma 3"
+		}
+		"3"
+		{
+			"executable" "ArmA3.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Launch Arma 3"
+				"german" "Arma 3 starten"
+				"french" "Lancer Arma 3"
+				"italian" "Avvia Arma 3"
+				"koreana" "Arma 3 실행"
+				"spanish" "Iniciar Arma 3"
+				"schinese" "启动 Arma 3"
+				"tchinese" "啟動《Arma 3》"
+				"russian" "Запустить Arma 3"
+				"japanese" "『Arma 3』を起動する"
+				"polish" "Uruchom Arma 3"
+				"czech" "Spustit hru Arma 3"
+				"turkish" "Arma 3’ü başlatın"
+				"brazilian" "Iniciar Arma 3"
+			}
+			"description" "Launch Arma 3"
+		}
+		"4"
+		{
+			"executable" "./arma3"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Launch Arma 3"
+				"german" "Arma 3 starten"
+				"french" "Lancer Arma 3"
+				"italian" "Avvia Arma 3"
+				"koreana" "Arma 3 실행"
+				"spanish" "Iniciar Arma 3"
+				"schinese" "启动 Arma 3"
+				"tchinese" "啟動《Arma 3》"
+				"russian" "Запустить Arma 3"
+				"japanese" "『Arma 3』を起動する"
+				"polish" "Uruchom Arma 3"
+				"czech" "Spustit hru Arma 3"
+				"turkish" "Arma 3’ü başlatın"
+				"brazilian" "Iniciar Arma 3"
+			}
+			"description" "Launch Arma 3"
+		}
+		"5"
+		{
+			"executable" "ArmA3 AS Native.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Launch experimental Apple silicon native Arma 3"
+				"german" "Arma 3 als experimentelle native Version für Apple silicon starten"
+				"french" "Lancer Arma 3 avec Apple silicon en mode natif (expérimental)"
+				"italian" "Avvia Arma 3 nativo sperimentale per Apple Silicon"
+				"koreana" "Apple Silicon 기반 실험적 Arma 3 실행"
+				"spanish" "Iniciar la versión experimental de Arma 3 nativa para Apple silicon"
+				"schinese" "启动原生运行于 Apple 芯片上的实验版《Arma 3》"
+				"tchinese" "啟動適用於 Apple 晶片原生架構的《Arma 3》試驗版"
+				"russian" "Запуск экспериментальной версии Arma 3 для Apple silicon"
+				"japanese" "実験的な Apple silicon 上で制作した『Arma 3』を起動する"
+				"polish" "Uruchom natywną wersję eksperymentalną Arma 3 dla czipów Apple silicon"
+				"czech" "Spustit experimentální verzi Arma 3 Apple silicon nativní"
+				"turkish" "Deneysel Apple silikona özel Arma 3’ü başlatın"
+				"brazilian" "Iniciar Arma 3 experimental nativo para Apple silicon"
+			}
+			"description" "Launch experimental Apple silicon native Arma 3"
+		}
+	}
+}
+"depots"
+{
+	"preloadonly" "1"
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"workshopdepot" "107410"
+	"hasdepotsindlc" "0"
+	"appmanagesdlc" "1"
+	"baselanguages" "english"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"249504"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1015968845214793196"
+				"size" "15506687470"
+				"download" "11838952160"
+			}
+			"development"
+			{
+				"gid" "1015968845214793196"
+				"size" "15506687470"
+				"download" "11838952160"
+			}
+			"profiling"
+			{
+				"gid" "1015968845214793196"
+				"size" "15506687470"
+				"download" "11838952160"
+			}
+		}
+	}
+	"107411"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2173341527802214878"
+				"size" "43461083694"
+				"download" "34675058048"
+			}
+			"development"
+			{
+				"gid" "3167909195907307433"
+				"size" "43487559038"
+				"download" "34691801536"
+			}
+			"profiling"
+			{
+				"gid" "9042154259692484612"
+				"size" "43461083694"
+				"download" "34675058048"
+			}
+		}
+	}
+	"249505"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "327567541676556428"
+				"size" "43128469125"
+				"download" "34436516240"
+			}
+			"development"
+			{
+				"gid" "5291315018643894680"
+				"size" "29378675330"
+				"download" "23753014032"
+			}
+			"profiling"
+			{
+				"gid" "4861574737636001516"
+				"size" "42832682798"
+				"download" "34221577600"
+			}
+		}
+	}
+	"107414"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1709634541533109298"
+				"size" "43854626"
+				"download" "16712672"
+			}
+			"development"
+			{
+				"gid" "2297115235912614063"
+				"size" "43859482"
+				"download" "16712624"
+			}
+			"profiling"
+			{
+				"gid" "1709634541533109298"
+				"size" "43854626"
+				"download" "16712672"
+			}
+		}
+	}
+	"107416"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2489662702776957379"
+				"size" "70134468"
+				"download" "18592496"
+			}
+			"development"
+			{
+				"gid" "5663992820223231661"
+				"size" "70139324"
+				"download" "18592304"
+			}
+			"profiling"
+			{
+				"gid" "2489662702776957379"
+				"size" "70134468"
+				"download" "18592496"
+			}
+		}
+	}
+	"107418"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7281739878081036937"
+				"size" "71833219"
+				"download" "18714400"
+			}
+			"development"
+			{
+				"gid" "6915378544980304436"
+				"size" "71838075"
+				"download" "18714352"
+			}
+			"profiling"
+			{
+				"gid" "7281739878081036937"
+				"size" "71833219"
+				"download" "18714400"
+			}
+		}
+	}
+	"107419"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7161234463917856452"
+				"size" "149477324"
+				"download" "24021440"
+			}
+			"development"
+			{
+				"gid" "8607821813243934943"
+				"size" "149482180"
+				"download" "24021248"
+			}
+			"profiling"
+			{
+				"gid" "7161234463917856452"
+				"size" "149477324"
+				"download" "24021440"
+			}
+		}
+	}
+	"107413"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5507949243930518464"
+				"size" "388833358"
+				"download" "41602496"
+			}
+			"development"
+			{
+				"gid" "8254115270905980203"
+				"size" "388838214"
+				"download" "41114416"
+			}
+			"profiling"
+			{
+				"gid" "5507949243930518464"
+				"size" "388833358"
+				"download" "41602496"
+			}
+		}
+	}
+	"107415"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8378677006521123087"
+				"size" "70353567"
+				"download" "18586864"
+			}
+			"development"
+			{
+				"gid" "4264884049104318532"
+				"size" "70358423"
+				"download" "18586784"
+			}
+			"profiling"
+			{
+				"gid" "8378677006521123087"
+				"size" "70353567"
+				"download" "18586864"
+			}
+		}
+	}
+	"107417"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4733526250654162495"
+				"size" "70754901"
+				"download" "18599648"
+			}
+			"development"
+			{
+				"gid" "3838427890370402501"
+				"size" "70759757"
+				"download" "18599392"
+			}
+			"profiling"
+			{
+				"gid" "4733526250654162495"
+				"size" "70754901"
+				"download" "18599648"
+			}
+		}
+	}
+	"249506"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6450354960133128009"
+				"size" "61780452"
+				"download" "12371984"
+			}
+			"development"
+			{
+				"gid" "8819540184659496640"
+				"size" "43975302"
+				"download" "15299664"
+			}
+			"profiling"
+			{
+				"gid" "8864066725780603641"
+				"size" "61632748"
+				"download" "19641168"
+			}
+		}
+	}
+	"107420"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7053381975926971498"
+				"size" "8323105"
+				"download" "8356416"
+			}
+			"development"
+			{
+				"gid" "7053381975926971498"
+				"size" "8323105"
+				"download" "8356416"
+			}
+			"profiling"
+			{
+				"gid" "7053381975926971498"
+				"size" "8323105"
+				"download" "8356416"
+			}
+		}
+	}
+	"107421"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2479538286611674481"
+				"size" "7926395"
+				"download" "7952256"
+			}
+			"development"
+			{
+				"gid" "2479538286611674481"
+				"size" "7926395"
+				"download" "7952256"
+			}
+			"profiling"
+			{
+				"gid" "2479538286611674481"
+				"size" "7926395"
+				"download" "7952256"
+			}
+		}
+	}
+	"107422"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "694831486858131928"
+				"size" "7927043"
+				"download" "7953520"
+			}
+			"development"
+			{
+				"gid" "694831486858131928"
+				"size" "7927043"
+				"download" "7953520"
+			}
+			"profiling"
+			{
+				"gid" "694831486858131928"
+				"size" "7927043"
+				"download" "7953520"
+			}
+		}
+	}
+	"107423"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5294990231226172562"
+				"size" "7923976"
+				"download" "7950320"
+			}
+			"development"
+			{
+				"gid" "5294990231226172562"
+				"size" "7923976"
+				"download" "7950320"
+			}
+			"profiling"
+			{
+				"gid" "5294990231226172562"
+				"size" "7923976"
+				"download" "7950320"
+			}
+		}
+	}
+	"107424"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3395489159717928684"
+				"size" "7929667"
+				"download" "7955904"
+			}
+			"development"
+			{
+				"gid" "3395489159717928684"
+				"size" "7929667"
+				"download" "7955904"
+			}
+			"profiling"
+			{
+				"gid" "3395489159717928684"
+				"size" "7929667"
+				"download" "7955904"
+			}
+		}
+	}
+	"107425"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4906889931917921096"
+				"size" "8027541"
+				"download" "8054576"
+			}
+			"development"
+			{
+				"gid" "4906889931917921096"
+				"size" "8027541"
+				"download" "8054576"
+			}
+			"profiling"
+			{
+				"gid" "4906889931917921096"
+				"size" "8027541"
+				"download" "8054576"
+			}
+		}
+	}
+	"107426"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4684404531445583131"
+				"size" "7958426"
+				"download" "7983904"
+			}
+			"development"
+			{
+				"gid" "4684404531445583131"
+				"size" "7958426"
+				"download" "7983904"
+			}
+			"profiling"
+			{
+				"gid" "4684404531445583131"
+				"size" "7958426"
+				"download" "7983904"
+			}
+		}
+	}
+	"107427"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8406091474147147301"
+				"size" "7931130"
+				"download" "7957744"
+			}
+			"development"
+			{
+				"gid" "8406091474147147301"
+				"size" "7931130"
+				"download" "7957744"
+			}
+			"profiling"
+			{
+				"gid" "8406091474147147301"
+				"size" "7931130"
+				"download" "7957744"
+			}
+		}
+	}
+	"107428"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5514411074045516159"
+				"size" "7928022"
+				"download" "7953984"
+			}
+			"development"
+			{
+				"gid" "5514411074045516159"
+				"size" "7928022"
+				"download" "7953984"
+			}
+			"profiling"
+			{
+				"gid" "5514411074045516159"
+				"size" "7928022"
+				"download" "7953984"
+			}
+		}
+	}
+	"107429"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9165345853969700754"
+				"size" "8654136"
+				"download" "8689200"
+			}
+			"development"
+			{
+				"gid" "9165345853969700754"
+				"size" "8654136"
+				"download" "8689200"
+			}
+			"profiling"
+			{
+				"gid" "9165345853969700754"
+				"size" "8654136"
+				"download" "8689200"
+			}
+		}
+	}
+	"249501"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8720942636409428537"
+				"size" "8774402"
+				"download" "8808896"
+			}
+			"development"
+			{
+				"gid" "8720942636409428537"
+				"size" "8774402"
+				"download" "8808896"
+			}
+			"profiling"
+			{
+				"gid" "8720942636409428537"
+				"size" "8774402"
+				"download" "8808896"
+			}
+		}
+	}
+	"249510"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6620680010375519103"
+				"size" "5763293"
+				"download" "5821376"
+			}
+			"development"
+			{
+				"gid" "6620680010375519103"
+				"size" "5763293"
+				"download" "5821376"
+			}
+			"profiling"
+			{
+				"gid" "6620680010375519103"
+				"size" "5763293"
+				"download" "5821376"
+			}
+		}
+	}
+	"249511"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2843568687622074286"
+				"size" "5897616"
+				"download" "5957888"
+			}
+			"development"
+			{
+				"gid" "2843568687622074286"
+				"size" "5897616"
+				"download" "5957888"
+			}
+			"profiling"
+			{
+				"gid" "2843568687622074286"
+				"size" "5897616"
+				"download" "5957888"
+			}
+		}
+	}
+	"249512"
+	{
+		"config"
+		{
+			"language" "turkish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4734283135240260657"
+				"size" "4115665"
+				"download" "4155120"
+			}
+			"development"
+			{
+				"gid" "4734283135240260657"
+				"size" "4115665"
+				"download" "4155120"
+			}
+			"profiling"
+			{
+				"gid" "4734283135240260657"
+				"size" "4115665"
+				"download" "4155120"
+			}
+		}
+	}
+	"249861"
+	{
+		"dlcappid" "249861"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4518665814873472898"
+				"size" "416957861"
+				"download" "420719152"
+			}
+			"development"
+			{
+				"gid" "4518665814873472898"
+				"size" "416957861"
+				"download" "420719152"
+			}
+			"profiling"
+			{
+				"gid" "4518665814873472898"
+				"size" "416957861"
+				"download" "420719152"
+			}
+		}
+	}
+	"249860"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7431003676632113359"
+				"size" "2236978896"
+				"download" "2187390224"
+			}
+			"development"
+			{
+				"gid" "7431003676632113359"
+				"size" "2236978896"
+				"download" "2187390224"
+			}
+			"profiling"
+			{
+				"gid" "7431003676632113359"
+				"size" "2236978896"
+				"download" "2187390224"
+			}
+		}
+	}
+	"249862"
+	{
+		"dlcappid" "249862"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2738283997064954949"
+				"size" "75902607"
+				"download" "75877344"
+			}
+			"development"
+			{
+				"gid" "2738283997064954949"
+				"size" "75902607"
+				"download" "75877344"
+			}
+			"profiling"
+			{
+				"gid" "2738283997064954949"
+				"size" "75902607"
+				"download" "75877344"
+			}
+		}
+	}
+	"249502"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2855841879143950386"
+				"size" "54392226"
+				"download" "43907696"
+			}
+			"development"
+			{
+				"gid" "2855841879143950386"
+				"size" "54392226"
+				"download" "43907696"
+			}
+			"profiling"
+			{
+				"gid" "2855841879143950386"
+				"size" "54392226"
+				"download" "43907696"
+			}
+		}
+	}
+	"249503"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"profiling"
+			{
+				"gid" "8360567412277176883"
+				"size" "142442752"
+				"download" "47758992"
+			}
+		}
+	}
+	"249508"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8888693056654571790"
+				"size" "348442212"
+				"download" "82049456"
+			}
+			"development"
+			{
+				"gid" "1513013712340631823"
+				"size" "84068435"
+				"download" "30885520"
+			}
+			"profiling"
+			{
+				"gid" "3921353701532987746"
+				"size" "277238514"
+				"download" "63307408"
+			}
+		}
+	}
+	"395180"
+	{
+		"dlcappid" "395180"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8426651345227339980"
+				"size" "6126"
+				"download" "2016"
+			}
+			"development"
+			{
+				"gid" "8426651345227339980"
+				"size" "6126"
+				"download" "2016"
+			}
+			"profiling"
+			{
+				"gid" "8426651345227339980"
+				"size" "6126"
+				"download" "2016"
+			}
+		}
+	}
+	"249509"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "395180"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4555863940473377516"
+				"size" "0"
+				"download" "0"
+			}
+			"development"
+			{
+				"gid" "571893521393879638"
+				"size" "0"
+				"download" "0"
+			}
+			"profiling"
+			{
+				"gid" "1330138641753051071"
+				"size" "6126"
+				"download" "2016"
+			}
+		}
+	}
+	"1042220"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "1042220"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8997827457640465099"
+				"size" "37481393911"
+				"download" "37994250624"
+			}
+			"development"
+			{
+				"gid" "8997827457640465099"
+				"size" "37481393911"
+				"download" "37994250624"
+			}
+			"profiling"
+			{
+				"gid" "8997827457640465099"
+				"size" "37481393911"
+				"download" "37994250624"
+			}
+		}
+	}
+	"1042221"
+	{
+		"dlcappid" "1042220"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4392593454018590840"
+				"size" "37481393911"
+				"download" "37994250624"
+			}
+			"profiling"
+			{
+				"gid" "4392593454018590840"
+				"size" "37481393911"
+				"download" "37994250624"
+			}
+		}
+	}
+	"1021790"
+	{
+		"dlcappid" "1021790"
+		"config"
+		{
+			"oslist" "windows,macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "968105706013589959"
+				"size" "1270902055"
+				"download" "985328976"
+			}
+			"development"
+			{
+				"gid" "968105706013589959"
+				"size" "1270902055"
+				"download" "985328976"
+			}
+			"profiling"
+			{
+				"gid" "968105706013589959"
+				"size" "1270902055"
+				"download" "985328976"
+			}
+		}
+	}
+	"1175380"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "1175380"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5399435212292288638"
+				"size" "31015843663"
+				"download" "31437910704"
+			}
+			"development"
+			{
+				"gid" "5399435212292288638"
+				"size" "31015843663"
+				"download" "31437910704"
+			}
+			"profiling"
+			{
+				"gid" "5399435212292288638"
+				"size" "31015843663"
+				"download" "31437910704"
+			}
+		}
+	}
+	"1175381"
+	{
+		"dlcappid" "1175380"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8658204727803704606"
+				"size" "31012169215"
+				"download" "31436525136"
+			}
+		}
+	}
+	"1227700"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "1227700"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1889876263343541672"
+				"size" "38376191891"
+				"download" "38898963648"
+			}
+			"development"
+			{
+				"gid" "1889876263343541672"
+				"size" "38376191891"
+				"download" "38898963648"
+			}
+			"profiling"
+			{
+				"gid" "1889876263343541672"
+				"size" "38376191891"
+				"download" "38898963648"
+			}
+		}
+	}
+	"1227701"
+	{
+		"dlcappid" "1227700"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8778927882579535691"
+				"size" "38372517443"
+				"download" "38897578080"
+			}
+			"profiling"
+			{
+				"gid" "8853204352456643793"
+				"size" "38394359454"
+				"download" "38917380064"
+			}
+		}
+	}
+	"1294440"
+	{
+		"dlcappid" "1294440"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7634350031820415324"
+				"size" "10465797496"
+				"download" "10609002896"
+			}
+			"development"
+			{
+				"gid" "7634350031820415324"
+				"size" "10465797496"
+				"download" "10609002896"
+			}
+			"profiling"
+			{
+				"gid" "7634350031820415324"
+				"size" "10465797496"
+				"download" "10609002896"
+			}
+		}
+	}
+	"1294441"
+	{
+		"dlcappid" "1294440"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7110449841918896383"
+				"size" "10465797496"
+				"download" "10609002896"
+			}
+			"profiling"
+			{
+				"gid" "5991832337258249052"
+				"size" "9020803486"
+				"download" "9144234800"
+			}
+		}
+	}
+	"1681170"
+	{
+		"dlcappid" "1681170"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4097855821862070033"
+				"size" "5274740283"
+				"download" "5346909424"
+			}
+			"development"
+			{
+				"gid" "4097855821862070033"
+				"size" "5274740283"
+				"download" "5346909424"
+			}
+			"profiling"
+			{
+				"gid" "4097855821862070033"
+				"size" "5274740283"
+				"download" "5346909424"
+			}
+		}
+	}
+	"1681171"
+	{
+		"dlcappid" "1681170"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5757071075728075299"
+				"size" "5274740283"
+				"download" "5346909424"
+			}
+			"profiling"
+			{
+				"gid" "7472664427721754318"
+				"size" "5171226855"
+				"download" "5241987024"
+			}
+		}
+	}
+	"2647760"
+	{
+		"dlcappid" "2647760"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8961997044490697557"
+				"size" "4393157590"
+				"download" "4373545536"
+			}
+			"development"
+			{
+				"gid" "8961997044490697557"
+				"size" "4393157590"
+				"download" "4373545536"
+			}
+			"profiling"
+			{
+				"gid" "8961997044490697557"
+				"size" "4393157590"
+				"download" "4373545536"
+			}
+		}
+	}
+	"2647761"
+	{
+		"dlcappid" "2647760"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2892050428909417155"
+				"size" "4393157590"
+				"download" "4373545536"
+			}
+		}
+	}
+	"107412"
+	{
+	}
+	"2647830"
+	{
+		"dlcappid" "2647830"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8285151689411612372"
+				"size" "2869356132"
+				"download" "2908617760"
+			}
+			"development"
+			{
+				"gid" "8285151689411612372"
+				"size" "2869356132"
+				"download" "2908617760"
+			}
+			"profiling"
+			{
+				"gid" "8285151689411612372"
+				"size" "2869356132"
+				"download" "2908617760"
+			}
+		}
+	}
+	"2647831"
+	{
+		"dlcappid" "2647830"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4785265565084680612"
+				"size" "2869356132"
+				"download" "2908617760"
+			}
+		}
+	}
+	"2647850"
+	{
+		"dlcappid" "2647850"
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17185475"
+			"timeupdated" "1738246585"
+		}
+		"development"
+		{
+			"buildid" "17514173"
+			"description" "Development Build"
+			"timeupdated" "1740587456"
+		}
+		"profiling"
+		{
+			"buildid" "17514402"
+			"description" "Performance Profiling Build"
+			"timeupdated" "1740571396"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27679189"
+"_sha" "554a2ed91d9987bab3e92baf5eaf13f8ae9deb85"
+"_size" "30686"
