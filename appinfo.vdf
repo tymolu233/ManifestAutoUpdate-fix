@@ -1,0 +1,117 @@
+"appid" "1863440"
+"common"
+{
+	"name" "Mount & Blade II: Dedicated Server"
+	"type" "Tool"
+	"parent" "261550"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "619dcbaf475b4417c4e02467d18c4a0992a001d8"
+	"clienticon" "67c469bce70b110fc0d2247dc1402695cc55175a"
+	"icon" "4d0ba27332070f96ac95cd29f1e40f12fd530a52"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "1863440"
+}
+"config"
+{
+	"installdir" "Mount & Blade II Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin/Win64_Shipping_Server/DedicatedCustomServer.Starter.exe"
+			"workingdir" "bin/Win64_Shipping_Server"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch Server"
+			}
+			"description" "Launch Server"
+		}
+		"1"
+		{
+			"executable" "./dotnet"
+			"arguments" "TaleWorlds.Starter.DotNetCore.Linux.dll"
+			"workingdir" "bin/Linux64_Shipping_Server"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+				"betakey" "linux_test"
+			}
+			"description_loc"
+			{
+				"english" "Launch Linux Server"
+			}
+			"description" "Launch Linux Server"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1863441"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "107475740371760128"
+				"size" "2796637135"
+				"download" "1587364784"
+			}
+			"v1.2.12"
+			{
+				"gid" "107475740371760128"
+				"size" "2796637135"
+				"download" "1587364784"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16722699"
+			"timeupdated" "1734015028"
+		}
+		"v1.2.12"
+		{
+			"buildid" "16722699"
+			"description" "v1.2.12"
+			"timeupdated" "1734015011"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26845279"
+"_sha" "89ea5b205253f537ce37f0c6cec4f36aed270d65"
+"_size" "2016"
