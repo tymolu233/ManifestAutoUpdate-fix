@@ -1,0 +1,916 @@
+"appid" "612880"
+"common"
+{
+	"name" "Wolfenstein II: The New Colossus"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"logo" "8e25882c2b5ee898318cecab741a3187eb43cbaf"
+	"logo_small" "8e25882c2b5ee898318cecab741a3187eb43cbaf_thumb"
+	"clienticon" "008555f112ea2f0383af3142cfffe8f21ffb961e"
+	"clienttga" "e64ca06d56bb8377084165e195f346deefd7ca27"
+	"icon" "fd5c894c47b49a7d5e46e7ed60d6f1fdf60d210d"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "612880_eula_0"
+			"name" "Wolfenstein II: The New Colossus EULA"
+			"url" "http://store.steampowered.com//eula/612880_eula_0"
+		}
+	}
+	"name_localized"
+	{
+		"german" "Wolfenstein II: The New Colossus International Version"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "3329064"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Wolfenstein II: The New Colossus"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "31"
+			"height_pct" "31"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "31"
+				"height_pct" "31"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1653316003"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Machine Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bethesda Softworks"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Wolfenstein"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1509075960"
+	"metacritic_score" "86"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/wolfenstein-ii-the-new-colossus\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "612880"
+	"store_tags"
+	{
+		"0" "1663"
+		"1" "19"
+		"2" "4345"
+		"3" "4182"
+		"4" "4598"
+		"5" "4667"
+		"6" "3839"
+		"7" "4150"
+		"8" "1774"
+		"9" "1742"
+		"10" "6650"
+		"11" "3942"
+		"12" "1687"
+		"13" "4166"
+		"14" "1719"
+		"15" "5030"
+		"16" "21"
+		"17" "1756"
+		"18" "3859"
+		"19" "1695"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"minclientversion" "1508910373"
+	"developer" "Machine Games"
+	"publisher" "Bethesda Softworks"
+	"homepage" "https://wolfenstein.bethesda.net/\?utm_source=Steam"
+	"listofdlc" "624620,624621,624622,624740,650410,719980"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Wolfenstein.II.The.New.Colossus"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "NewColossus_x64vk.exe"
+			"description" "Normal"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "NewColossus_x64vk.exe"
+			"arguments" "+com_safemode 1"
+			"description" "Wolfenstein II: The New Colossus (Safe Mode)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"1182168677"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,baseline,beta,day10-qa,hotfix_staging,jptest,mg-test,nvidia,publicbeta"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"hasdepotsindlc" "1"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"612882"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "332162649214284220"
+				"size" "59735024"
+				"download" "36976896"
+			}
+			"public_beta"
+			{
+				"gid" "332162649214284220"
+				"size" "59735024"
+				"download" "36976896"
+			}
+		}
+	}
+	"624749"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "166817135839534724"
+				"size" "1088577225"
+				"download" "975313648"
+			}
+			"public_beta"
+			{
+				"gid" "166817135839534724"
+				"size" "1088577225"
+				"download" "975313648"
+			}
+		}
+	}
+	"612887"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8273162783244227988"
+				"size" "2566340139"
+				"download" "2307269328"
+			}
+			"public_beta"
+			{
+				"gid" "8273162783244227988"
+				"size" "2566340139"
+				"download" "2307269328"
+			}
+		}
+	}
+	"650412"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9022113729599668303"
+				"size" "1044062904"
+				"download" "927953008"
+			}
+			"public_beta"
+			{
+				"gid" "9022113729599668303"
+				"size" "1044062904"
+				"download" "927953008"
+			}
+		}
+	}
+	"624624"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8613853100061840797"
+				"size" "2564982866"
+				"download" "2306774832"
+			}
+			"public_beta"
+			{
+				"gid" "8613853100061840797"
+				"size" "2564982866"
+				"download" "2306774832"
+			}
+		}
+	}
+	"650414"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1746396293235515966"
+				"size" "673844500"
+				"download" "669648448"
+			}
+			"public_beta"
+			{
+				"gid" "1746396293235515966"
+				"size" "673844500"
+				"download" "669648448"
+			}
+		}
+	}
+	"612884"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2122901492143408844"
+				"size" "7215804116"
+				"download" "7119525152"
+			}
+			"public_beta"
+			{
+				"gid" "2122901492143408844"
+				"size" "7215804116"
+				"download" "7119525152"
+			}
+		}
+	}
+	"650415"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1945011048598975996"
+				"size" "673843852"
+				"download" "669636560"
+			}
+			"public_beta"
+			{
+				"gid" "1945011048598975996"
+				"size" "673843852"
+				"download" "669636560"
+			}
+		}
+	}
+	"624623"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "618551768872795601"
+				"size" "7464644188"
+				"download" "7353393520"
+			}
+			"public_beta"
+			{
+				"gid" "618551768872795601"
+				"size" "7464644188"
+				"download" "7353393520"
+			}
+		}
+	}
+	"650416"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1613380009697405280"
+				"size" "36577660"
+				"download" "35618544"
+			}
+			"public_beta"
+			{
+				"gid" "1613380009697405280"
+				"size" "36577660"
+				"download" "35618544"
+			}
+		}
+	}
+	"624627"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3547469873055231551"
+				"size" "370612124"
+				"download" "365113120"
+			}
+			"public_beta"
+			{
+				"gid" "3547469873055231551"
+				"size" "370612124"
+				"download" "365113120"
+			}
+		}
+	}
+	"624748"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3592233195597680769"
+				"size" "10288694996"
+				"download" "10022383440"
+			}
+			"public_beta"
+			{
+				"gid" "3592233195597680769"
+				"size" "10288694996"
+				"download" "10022383440"
+			}
+		}
+	}
+	"612886"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6858725330795673637"
+				"size" "13202919723"
+				"download" "12528523024"
+			}
+			"public_beta"
+			{
+				"gid" "6858725330795673637"
+				"size" "13202919723"
+				"download" "12528523024"
+			}
+		}
+	}
+	"650411"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "317468368842259630"
+				"size" "10301944973"
+				"download" "10044183152"
+			}
+			"public_beta"
+			{
+				"gid" "317468368842259630"
+				"size" "10301944973"
+				"download" "10044183152"
+			}
+		}
+	}
+	"624625"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5214085521133308917"
+				"size" "13184821040"
+				"download" "12512714336"
+			}
+			"public_beta"
+			{
+				"gid" "5214085521133308917"
+				"size" "13184821040"
+				"download" "12512714336"
+			}
+		}
+	}
+	"650413"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4826278029060622680"
+				"size" "676215552"
+				"download" "551890192"
+			}
+			"public_beta"
+			{
+				"gid" "4826278029060622680"
+				"size" "676215552"
+				"download" "551890192"
+			}
+		}
+	}
+	"612883"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5036286170467120241"
+				"size" "13011453120"
+				"download" "10844713744"
+			}
+			"public_beta"
+			{
+				"gid" "5036286170467120241"
+				"size" "13011453120"
+				"download" "10844713744"
+			}
+		}
+	}
+	"624746"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+	}
+	"612885"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5038932946082422041"
+				"size" "2073573242"
+				"download" "1857626368"
+			}
+			"public_beta"
+			{
+				"gid" "5038932946082422041"
+				"size" "2073573242"
+				"download" "1857626368"
+			}
+		}
+	}
+	"650418"
+	{
+	}
+	"624626"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6767799911521017463"
+				"size" "806519484"
+				"download" "743209104"
+			}
+			"public_beta"
+			{
+				"gid" "6767799911521017463"
+				"size" "806519484"
+				"download" "743209104"
+			}
+		}
+	}
+	"624628"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5783598834907555405"
+				"size" "755641730"
+				"download" "710755712"
+			}
+			"public_beta"
+			{
+				"gid" "5783598834907555405"
+				"size" "755641730"
+				"download" "710755712"
+			}
+		}
+	}
+	"624629"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8742320481398942762"
+				"size" "775832022"
+				"download" "730813280"
+			}
+			"public_beta"
+			{
+				"gid" "8742320481398942762"
+				"size" "775832022"
+				"download" "730813280"
+			}
+		}
+	}
+	"624744"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7588974950788225158"
+				"size" "763743719"
+				"download" "718686592"
+			}
+			"public_beta"
+			{
+				"gid" "7588974950788225158"
+				"size" "763743719"
+				"download" "718686592"
+			}
+		}
+	}
+	"624741"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3086930858230260400"
+				"size" "1149785023"
+				"download" "1033252656"
+			}
+			"public_beta"
+			{
+				"gid" "3086930858230260400"
+				"size" "1149785023"
+				"download" "1033252656"
+			}
+		}
+	}
+	"624743"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5675117221408475835"
+				"size" "742869409"
+				"download" "698201264"
+			}
+			"public_beta"
+			{
+				"gid" "5675117221408475835"
+				"size" "742869409"
+				"download" "698201264"
+			}
+		}
+	}
+	"612889"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7563900797837990703"
+				"size" "809868589"
+				"download" "763254400"
+			}
+			"public_beta"
+			{
+				"gid" "7563900797837990703"
+				"size" "809868589"
+				"download" "763254400"
+			}
+		}
+	}
+	"624742"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+	}
+	"624745"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+	}
+	"612888"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4757386849333630100"
+				"size" "3492618433"
+				"download" "3140218464"
+			}
+			"public_beta"
+			{
+				"gid" "4757386849333630100"
+				"size" "3492618433"
+				"download" "3140218464"
+			}
+		}
+	}
+	"612881"
+	{
+	}
+	"624621"
+	{
+		"dlcappid" "624621"
+	}
+	"624622"
+	{
+		"dlcappid" "624622"
+	}
+	"624740"
+	{
+		"dlcappid" "624740"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3329064"
+			"timeupdated" "1543333938"
+		}
+		"public_beta"
+		{
+			"buildid" "3329064"
+			"description" "pre-release area for patches"
+			"timeupdated" "1542834368"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "MachineGames/Wolfenstein II The New Colossus/base/savegame.user/{64BitSteamID}"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27156618"
+"_sha" "b19360194a4e613e70aa427bb2385eb0eaa568ca"
+"_size" "14909"
