@@ -1,0 +1,394 @@
+"appid" "960090"
+"common"
+{
+	"name" "Bloons TD 6"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "182e432f9a29cb100a9f4fc09a56749e03ad5a22"
+	"clienttga" "add06c026c7f1a60e5759768417cff4d8ee49ee7"
+	"icon" "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"logo" "3ad1bba6ac2f77e4d84cae768b66b13371bfb3bc"
+	"logo_small" "3ad1bba6ac2f77e4d84cae768b66b13371bfb3bc_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"danish" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"clienticns" "a2a70787796140128f7032e1100f0fae38e53a12"
+	"osextended" "macos64,macosnotarized"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "7193455"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"metacritic_name" "Bloons TD 6"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "35.46791131855309"
+			"height_pct" "53.419615293279506"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "35.46791131855309"
+				"height_pct" "53.419615293279506"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1738892855"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ninja Kiwi"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Ninja Kiwi"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Bloons TD"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1545094440"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "960090"
+	"store_tags"
+	{
+		"0" "1645"
+		"1" "9"
+		"2" "3859"
+		"3" "4182"
+		"4" "3843"
+		"5" "1685"
+		"6" "5350"
+		"7" "597"
+		"8" "4191"
+		"9" "4195"
+		"10" "3810"
+		"11" "3871"
+		"12" "1756"
+		"13" "4026"
+		"14" "25085"
+		"15" "4136"
+		"16" "4726"
+		"17" "4190"
+		"18" "1662"
+		"19" "19"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "Ninja Kiwi"
+	"publisher" "Ninja Kiwi"
+	"homepage" "https://ninjakiwi.com"
+}
+"config"
+{
+	"installdir" "BloonsTD6"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BloonsTD6.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "BloonsTD6.app/Contents/MacOS/BloonsTD6"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2054655430"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"960091"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6264464828396649625"
+				"size" "2113237478"
+				"download" "1600913776"
+			}
+		}
+	}
+	"960093"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3552268304241446533"
+				"size" "2127939360"
+				"download" "1603115456"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17507445"
+			"timeupdated" "1740616777"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27686414"
+"_sha" "d2beb6f401136e9204c594c5ae663827c38d7e29"
+"_size" "6516"
