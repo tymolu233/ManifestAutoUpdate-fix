@@ -1,0 +1,500 @@
+"appid" "274940"
+"common"
+{
+	"name" "Depth"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"logo" "ed52c54d3d6ef23b3cfe0a6072528f1f7f546128"
+	"logo_small" "ed52c54d3d6ef23b3cfe0a6072528f1f7f546128_thumb"
+	"icon" "0c711a26af920e93af7cf0fc797fbb200367105e"
+	"clienttga" "fd32ab62c554022bb0c649926f9366e4f3e21d68"
+	"clienticon" "c0b9b7ac4e54c473b290e274614562418183727c"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"czech" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "274940_eula_0"
+			"name" "Depth EULA"
+			"url" "https://store.steampowered.com//eula/274940_eula_0"
+		}
+	}
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "深海惊魂 Depth"
+		"tchinese" "深海驚魂 Depth"
+		"japanese" "Depth（デプス）"
+		"koreana" "뎁스 (Depth)"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1645574400"
+		"tested_build_id" "8218573"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"market_presence" "1"
+	"metacritic_name" "Depth"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+		"russian" "header_russian.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1701110433"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Digital Confectioners"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Digital Confectioners"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_2" "1"
+		"category_25" "1"
+		"category_13" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_17" "1"
+		"category_8" "1"
+		"category_36" "1"
+		"category_30" "1"
+		"category_35" "1"
+		"category_33" "1"
+		"category_49" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1415037660"
+	"metacritic_score" "65"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/depth\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "274940"
+	"store_tags"
+	{
+		"0" "1774"
+		"1" "3859"
+		"2" "9157"
+		"3" "4166"
+		"4" "5711"
+		"5" "1663"
+		"6" "1667"
+		"7" "4345"
+		"8" "1662"
+		"9" "9564"
+		"10" "1685"
+		"11" "3978"
+		"12" "1775"
+		"13" "19"
+		"14" "3834"
+		"15" "21"
+		"16" "4182"
+		"17" "3839"
+		"18" "1697"
+		"19" "3843"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Digital Confectioners"
+	"publisher" "Digital Confectioners"
+	"homepage" "https://www.depthgame.com"
+	"listofdlc" "322740,335640,361310,361312,361313,361314,370340,370341,384240,392860,413990,413991,414100,414180,418820,423850,423851,423853,456050,605240,728600,815760,850850,1031940,1386540,1849220"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Depth"
+	"nativesteamcontroller" "1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Binaries\\Win32\\DepthGame.exe"
+			"arguments" "DepthMain\?Game=DepthGame.DPGameInfoFrontEnd\?LIVEMatchMaking"
+			"workingdir" "."
+			"description" "Play Depth"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "SDK\\Binaries\\Win64\\DepthEd.exe"
+			"arguments" "Editor"
+			"workingdir" "."
+			"description" "Launch Depth Editor"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "335640"
+			}
+		}
+		"3"
+		{
+			"executable" "BETA\\Binaries\\Win32\\DepthGame.exe"
+			"arguments" "DepthMain\?Game=DepthGame.DPGameInfoFrontEnd\?QAMatchMaking -MatchmakerEnv=QA"
+			"workingdir" "."
+			"description" "Play Depth Public Beta"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "605240"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"1096048437"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,staging"
+		}
+		"1097767827"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,staging"
+		}
+		"1097769382"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default,staging"
+		}
+		"1097770394"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default,staging"
+		}
+		"1104656298"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,staging"
+		}
+	}
+	"steamconfigurator3rdpartynative" "3"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian"
+	"workshopdepot" "274940"
+	"274941"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "943779221366254708"
+				"size" "5960243675"
+				"download" "3926036896"
+			}
+		}
+	}
+	"335640"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"optionaldlc" "335640"
+		}
+		"dlcappid" "335640"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2176571324059880751"
+				"size" "32298764219"
+				"download" "20296666656"
+			}
+		}
+	}
+	"423851"
+	{
+		"dlcappid" "423851"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9034828471103160123"
+				"size" "30194169"
+				"download" "28918240"
+			}
+		}
+	}
+	"605240"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5674684370804215664"
+				"size" "5080040380"
+				"download" "3340071456"
+			}
+		}
+		"dlcappid" "605240"
+		"config"
+		{
+			"optionaldlc" "605240"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17085957"
+			"timeupdated" "1737515847"
+		}
+	}
+	"privatebranches" "1"
+	"appmanagesdlc" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "27105017"
+"_sha" "dc9918adf39487709b388b9fb77cc443eeaebf8e"
+"_size" "9529"
