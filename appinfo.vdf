@@ -1,0 +1,558 @@
+"appid" "1058830"
+"common"
+{
+	"name" "Spin Rhythm XD"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"logo" "6c21f277041bc09df611dba61c70aa6d26e00e41"
+	"logo_small" "6c21f277041bc09df611dba61c70aa6d26e00e41_thumb"
+	"icon" "588e1d9d4f206a77bdfe2f25f941d74498a30540"
+	"clienttga" "9210ca16fd0d5f2cdeb95feb54f720ee336030d0"
+	"clienticns" "afdd373494a656f95a1e11a9953c766cea55d3b0"
+	"linuxclienticon" "3dc18a97337379f9c210f36548e1109762d69ced"
+	"clienticon" "126023285f77e60ded7073c7072515437ccb5101"
+	"releasestate" "released"
+	"osextended" "macos64,macosapplesilicon"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"openxrsupport" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1677888000"
+		"tested_build_id" "10203178"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Spin Rhythm XD"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "49.973454567461516"
+			"height_pct" "81.29566488066244"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.973454567461516"
+				"height_pct" "81.29566488066244"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1721630433"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Super Spin Digital"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Super Spin Digital"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_33" "1"
+		"category_2" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_22" "1"
+		"category_17" "1"
+		"category_1" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_49" "1"
+		"category_52" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1678806405"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1058830"
+	"store_tags"
+	{
+		"0" "1752"
+		"1" "1621"
+		"2" "492"
+		"3" "597"
+		"4" "19"
+		"5" "4026"
+		"6" "3859"
+		"7" "7481"
+		"8" "4182"
+		"9" "1734"
+		"10" "1773"
+		"11" "4305"
+		"12" "4295"
+		"13" "1755"
+		"14" "4191"
+		"15" "1027"
+		"16" "493"
+		"17" "5608"
+		"18" "5055"
+		"19" "15045"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "Super Spin Digital"
+	"publisher" "Super Spin Digital"
+	"homepage" "https://www.spinrhythmgame.com/"
+	"listofdlc" "1664540,1668790,1668791"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Spin Rhythm"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SpinRhythm.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "SpinRhythm.app\\Contents\\MacOS\\Spin Rhythm XD"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "SpinRhythm.exe"
+			"arguments" "-xr"
+			"type" "openxr"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2531287379"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "ea12,ea13,ea14,ea15,ea17,ea18_3"
+			"use_action_block" "false"
+		}
+		"2534192490"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,communitysneakpeak,latest"
+			"use_action_block" "false"
+		}
+		"2946885482"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,communitysneakpeak,private1.0beta"
+			"use_action_block" "false"
+		}
+		"2946891901"
+		{
+			"controller_type" "controller_switch_pro"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"2946905234"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "65535"
+	"uselaunchcommandline" "1"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian"
+	"hasdepotsindlc" "1"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1058832"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3546695776785407582"
+				"size" "1121845013"
+				"download" "918394896"
+			}
+			"update16"
+			{
+				"gid" "3967904376693158476"
+				"size" "746476537"
+				"download" "605983152"
+			}
+			"vr_disabled"
+			{
+				"gid" "6912864021028673610"
+				"size" "1121845013"
+				"download" "918394896"
+			}
+		}
+	}
+	"1058831"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "772453060841265175"
+				"size" "1113872828"
+				"download" "925886768"
+			}
+			"update16"
+			{
+				"gid" "8189507720046916176"
+				"size" "749965472"
+				"download" "613302640"
+			}
+			"vr_disabled"
+			{
+				"gid" "1904236263095104815"
+				"size" "1111151648"
+				"download" "925133008"
+			}
+		}
+	}
+	"1668790"
+	{
+		"dlcappid" "1668790"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2052352720918009819"
+				"size" "120912884"
+				"download" "117278016"
+			}
+			"update16"
+			{
+				"gid" "8307690183691697815"
+				"size" "109035146"
+				"download" "108731712"
+			}
+			"vr_disabled"
+			{
+				"gid" "2052352720918009819"
+				"size" "120912884"
+				"download" "117278016"
+			}
+		}
+	}
+	"1668791"
+	{
+		"dlcappid" "1668791"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4558804745297557413"
+				"size" "93173822"
+				"download" "88011616"
+			}
+			"update16"
+			{
+				"gid" "6077303655533095131"
+				"size" "78628181"
+				"download" "77913232"
+			}
+			"vr_disabled"
+			{
+				"gid" "4558804745297557413"
+				"size" "93173822"
+				"download" "88011616"
+			}
+		}
+	}
+	"1664540"
+	{
+		"dlcappid" "1664540"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4448660817873807239"
+				"size" "23864550"
+				"download" "15719856"
+			}
+			"vr_disabled"
+			{
+				"gid" "4448660817873807239"
+				"size" "23864550"
+				"download" "15719856"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16230431"
+			"timeupdated" "1730273032"
+		}
+		"update16"
+		{
+			"buildid" "8197193"
+			"description" "The game as it was before update 17"
+			"timeupdated" "1652537609"
+		}
+		"vr_disabled"
+		{
+			"buildid" "16231929"
+			"description" "Version 1.4 with VR disabled. Use this in case your game is not launching"
+			"timeupdated" "1730267432"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "5000000"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Super Spin Digital/Spin Rhythm XD/{64BitSteamID}/"
+			"pattern" "*.dat"
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "Super Spin Digital/Spin Rhythm XD/{64BitSteamID}/"
+			"pattern" "*.dat"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Super Spin Digital/Spin Rhythm XD/{64BitSteamID}/"
+					"replace" "Super Spin Digital/Spin Rhythm XD/{64BitSteamID}/"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Super Spin Digital/Spin Rhythm XD/{64BitSteamID}/"
+					"replace" "Super Spin Digital/Spin Rhythm XD/{64BitSteamID}/"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27567171"
+"_sha" "88845a0dd6b447e76b61ba9b34264060d1724a85"
+"_size" "10222"
