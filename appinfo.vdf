@@ -1,0 +1,468 @@
+"appid" "1680880"
+"common"
+{
+	"name" "Forspoken"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "086b5c483302564f9dbe37b352030b1f88c18925"
+	"clienticon" "2534e41af57c70ba9ba33e8828becd92be832d0e"
+	"icon" "1dcaae4140791f430a3f3e3030882186316b4dc7"
+	"logo" "21682faf8da425d68fc6a75fcabe02ab46680118"
+	"logo_small" "21682faf8da425d68fc6a75fcabe02ab46680118_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"japanese" "FORSPOKEN"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1680880_eula_0"
+			"name" "Forspoken EULA"
+			"url" "https://store.steampowered.com//eula/1680880_eula_0"
+			"version" "3"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1681862400"
+		"tested_build_id" "10715935"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-1"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "68.67478996929856"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "68.67478996929856"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1685113879"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Square Enix"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Square Enix"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1674579540"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1680880"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "7208"
+		"2" "4036"
+		"3" "3834"
+		"4" "122"
+		"5" "4057"
+		"6" "4231"
+		"7" "19"
+		"8" "1684"
+		"9" "21"
+		"10" "1742"
+		"11" "3854"
+		"12" "4166"
+		"13" "4182"
+		"14" "4342"
+		"15" "4145"
+		"16" "5611"
+		"17" "4667"
+		"18" "1721"
+		"19" "3934"
+	}
+	"review_score" "5"
+	"review_percentage" "61"
+}
+"extended"
+{
+	"developer" "Square Enix"
+	"publisher" "Square Enix"
+	"homepage" "https://www.forspoken.com"
+	"listofdlc" "1818430,1818431,1819220,1819221,1819222,1819223,1819224,2279791,2279792,2279793"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "FORSPOKEN"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FORSPOKEN.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "FORSPOKENd.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "beta"
+			}
+			"description_loc"
+			{
+				"english" "Debug version(DiscRelease)"
+			}
+			"description" "Debug version(DiscRelease)"
+		}
+		"2"
+		{
+			"executable" "FORSPOKENd.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "theta"
+			}
+			"description_loc"
+			{
+				"english" "Debug version(DiscRelease)"
+			}
+			"description" "Debug version(DiscRelease)"
+		}
+		"3"
+		{
+			"executable" "FORSPOKENd.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "epsilon"
+			}
+			"description_loc"
+			{
+				"english" "Debug version(DiscRelease)"
+			}
+			"description" "Debug version(DiscRelease)"
+		}
+		"4"
+		{
+			"executable" "FORSPOKENd.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "weta"
+			}
+			"description_loc"
+			{
+				"english" "Debug version(DiscRelease)"
+			}
+			"description" "Debug version(DiscRelease)"
+		}
+		"5"
+		{
+			"executable" "FORSPOKENd.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "feta"
+			}
+			"description_loc"
+			{
+				"english" "Debug version(DiscRelease)"
+			}
+			"description" "Debug version(DiscRelease)"
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2879290285"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,beta,beta_stable,delta,epsilon,feta,geta,heta,iota,iota_stable,kappa,theta,theta_stable,weta,zeta"
+			"use_action_block" "false"
+		}
+		"2879290157"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,beta,beta_stable,delta,epsilon,feta,geta,heta,iota,iota_stable,kappa,theta,theta_stable,weta,zeta"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "12"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,arabic,brazilian,latam"
+	"1680881"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5493273567344763437"
+				"size" "129925903733"
+				"download" "103982286880"
+			}
+		}
+	}
+	"1680882"
+	{
+		"dlcappid" "1819222"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6331167154691632413"
+				"size" "9565465969"
+				"download" "7971948448"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12600804"
+			"timeupdated" "1699599535"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "27261363"
+"_sha" "493358ce841049626851bdec96e663940ab8954b"
+"_size" "8275"
