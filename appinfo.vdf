@@ -1,0 +1,370 @@
+"appid" "674940"
+"common"
+{
+	"name" "Stick Fight: The Game"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"logo" "f28c0524f32688b6b69fcbbcefb94ac7a95f18e4"
+	"logo_small" "f28c0524f32688b6b69fcbbcefb94ac7a95f18e4_thumb"
+	"clienttga" "33a50d293a27292d7f0ee76ab01e0a6e47efaa28"
+	"clienticon" "3bc3da38bc5096be8ee805a23e60516075158b5f"
+	"icon" "28bc7ba8952d488e01e7136126cbbc3b42ee443a"
+	"releasestate" "released"
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "3911030"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"metacritic_name" "Stick Fight: The Game"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "35"
+			"height_pct" "38"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "35"
+				"height_pct" "38"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1702991537"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Landfall West"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Landfall"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "landfall"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_18" "1"
+		"category_24" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1506582000"
+	"steam_release_date" "1506621600"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "674940"
+	"store_tags"
+	{
+		"0" "3859"
+		"1" "4136"
+		"2" "1743"
+		"3" "19"
+		"4" "7368"
+		"5" "4736"
+		"6" "4840"
+		"7" "1775"
+		"8" "3871"
+		"9" "597"
+		"10" "3968"
+		"11" "3843"
+		"12" "3841"
+		"13" "492"
+		"14" "1774"
+		"15" "7481"
+		"16" "1685"
+		"17" "1756"
+		"18" "10816"
+		"19" "9"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Landfall West"
+	"publisher" "Landfall"
+	"homepage" "http://landfall.se/stickfightthegame/"
+}
+"config"
+{
+	"installdir" "StickFightTheGame"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "StickFight.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "StickFight.app/Contents/MacOS/StickFight"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2054679378"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "674940"
+	"674941"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6963720474772919938"
+				"size" "392892776"
+				"download" "88453296"
+			}
+		}
+	}
+	"726050"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "987934740586805841"
+				"size" "265181044"
+				"download" "260537888"
+			}
+		}
+	}
+	"674942"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6708735043648025786"
+				"size" "405580676"
+				"download" "91448032"
+			}
+		}
+	}
+	"674943"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3333368229166155944"
+				"size" "374454681"
+				"download" "89435744"
+			}
+		}
+	}
+	"674944"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5454866201526278118"
+				"size" "408967389"
+				"download" "92025040"
+			}
+		}
+	}
+	"674945"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3911030"
+			"timeupdated" "1560334101"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "26998573"
+"_sha" "4818a7efa263df964e418b5d110a426c24f79a19"
+"_size" "6101"
