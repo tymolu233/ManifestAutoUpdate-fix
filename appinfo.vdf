@@ -1,0 +1,484 @@
+"appid" "1350840"
+"common"
+{
+	"name" "Song Of The Prairie"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "1fef632332ef5df1273b7462da123084fe47b675"
+	"logo_small" "1fef632332ef5df1273b7462da123084fe47b675_thumb"
+	"clienticon" "e266e7791df9a190d4cfb1554f5f1fa3c7c95883"
+	"clienttga" "f4eacaab25405fd7365e7786192a3f0555389dce"
+	"icon" "ee4ac78e4769c7ebb3e9f8fc32600243834960a9"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"sc_schinese" "牧野之歌"
+		"schinese" "牧野之歌"
+	}
+	"releasestatesteamchina" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"latam" "1"
+		"sc_schinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1722038400"
+		"tested_build_id" "15138305"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-xc"
+		"library_hero" "en,zh-xc,zh-cn"
+		"library_logo" "en,zh-xc,zh-cn"
+		"library_header" "en,zh-cn,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "63.494738638140745"
+			"height_pct" "68.81357759554379"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"sc_schinese" "library_hero_sc_schinese.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"sc_schinese" "library_hero_sc_schinese_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"sc_schinese" "logo_sc_schinese.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "63.494738638140745"
+				"height_pct" "68.81357759554379"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+				"sc_schinese" "library_header_sc_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727251026"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "The Droplet Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "AOE Plus"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1722477655"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1350840"
+	"store_tags"
+	{
+		"0" "87918"
+		"1" "10235"
+		"2" "1702"
+		"3" "22602"
+		"4" "1742"
+		"5" "1654"
+		"6" "6869"
+		"7" "3810"
+		"8" "9551"
+		"9" "4747"
+		"10" "1695"
+		"11" "122"
+		"12" "599"
+		"13" "597"
+		"14" "4182"
+		"15" "5984"
+		"16" "4520"
+		"17" "3834"
+		"18" "4726"
+		"19" "7948"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "The Droplet Studio"
+	"publisher" "AOE Plus"
+	"homepage" "https://sop.aoeplus.com/landing"
+	"listofdlc" "2522580,3068290"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Song Of The Prairie"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SoP.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"hasdepotsindlc" "1"
+	"1350841"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4894801384485671472"
+				"size" "3014713311"
+				"download" "2543196304"
+			}
+		}
+	}
+	"1350842"
+	{
+		"config"
+		{
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2403408638817557481"
+				"size" "3014713311"
+				"download" "2543192336"
+			}
+		}
+	}
+	"2344790"
+	{
+		"dlcappid" "2344790"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1256917517548130090"
+				"size" "21356457"
+				"download" "20244416"
+			}
+		}
+	}
+	"2352070"
+	{
+		"dlcappid" "2352070"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4914901038078992096"
+				"size" "60218487"
+				"download" "56356112"
+			}
+		}
+	}
+	"2352071"
+	{
+		"dlcappid" "2352071"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "416427747343251537"
+				"size" "2653018"
+				"download" "2501648"
+			}
+		}
+	}
+	"2352072"
+	{
+		"dlcappid" "2352072"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5199075350925859009"
+				"size" "3339589"
+				"download" "3167168"
+			}
+		}
+	}
+	"2352073"
+	{
+		"dlcappid" "2352073"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6223995973958743795"
+				"size" "13939334"
+				"download" "12898944"
+			}
+		}
+	}
+	"2522580"
+	{
+		"dlcappid" "2522580"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8810101983647976873"
+				"size" "9341041"
+				"download" "8790592"
+			}
+		}
+	}
+	"3068290"
+	{
+		"dlcappid" "3068290"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5222052100985540195"
+				"size" "43741892"
+				"download" "41457232"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17402122"
+			"timeupdated" "1739855319"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "536870912"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Funalter/SoP/{64BitSteamID}"
+			"pattern" "*.encrypt"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "Funalter/SoP/{64BitSteamID}"
+			"pattern" "Input.json"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "27528087"
+"_sha" "4a6a4b6dbf8f8ec1e3d44658361fc010c8eeda4d"
+"_size" "8537"
