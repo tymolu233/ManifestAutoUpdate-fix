@@ -1,0 +1,638 @@
+"appid" "1084600"
+"common"
+{
+	"name" "My Time at Sandrock"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "eb9042f448e5e3572df7e4447b0e644f5aef88ed"
+	"logo" "eb5e20a4aa037a1c3ade9835ebd44995518a0526"
+	"logo_small" "eb5e20a4aa037a1c3ade9835ebd44995518a0526_thumb"
+	"clienttga" "22849ad590406b05e5eb4ec0678a838b3ce65507"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"clienticon" "60a1c9a15024abca801d16b87867394a9f5497a3"
+	"clienticns" "67d283a82fc9892e52ee197972b7c0f8aaa4dd23"
+	"linuxclienticon" "b16ec92378a49b46cd02e0a4a65ba14f0aa68f38"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "沙石镇时光"
+		"sc_schinese" "沙石镇时光"
+	}
+	"releasestatesteamchina" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1720483200"
+		"tested_build_id" "14702485"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "My Time at Sandrock"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.61022347314176"
+			"height_pct" "63.52410353835191"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "38.61022347314176"
+				"height_pct" "63.52410353835191"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1725935943"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pathea Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Pathea Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Focus Entertainment"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "PM Studios, Inc."
+		}
+		"4"
+		{
+			"type" "publisher"
+			"name" "DMM Games"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "Pathea Games"
+		}
+		"6"
+		{
+			"type" "franchise"
+			"name" "My Time"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_9" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1698933600"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/my-time-at-sandrock\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1084600"
+	"store_tags"
+	{
+		"0" "10235"
+		"1" "1643"
+		"2" "87918"
+		"3" "3859"
+		"4" "3810"
+		"5" "1702"
+		"6" "122"
+		"7" "9551"
+		"8" "1695"
+		"9" "4747"
+		"10" "5981"
+		"11" "21"
+		"12" "3835"
+		"13" "597"
+		"14" "599"
+		"15" "4182"
+		"16" "7208"
+		"17" "4195"
+		"18" "492"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "Pathea Games"
+	"publisher" "Pathea Games"
+	"homepage" "https://sandrock.pathea.net/"
+	"listofdlc" "2181522,2181528,2182080,2595600,2595610,2595620,2595710,2595720,2595730,2595740,2595750,2595760,2622210,2808740,2969170"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "My Time at Sandrock"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Sandrock.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Singleplayer RPG"
+				"schinese" "单人剧情"
+			}
+			"description" "Singleplayer RPG"
+		}
+		"1"
+		{
+			"executable" "Sandrock.app/Contents/MacOS/Sandrock"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "test_for_developer"
+			}
+		}
+		"4"
+		{
+			"executable" "SandrockMultiPlayer.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "multiplayer_dlc"
+				"ownsdlc" "2090470"
+			}
+			"description_loc"
+			{
+				"english" "Multiplayer"
+				"schinese" "多人联机"
+			}
+			"description" "Multiplayer"
+		}
+		"5"
+		{
+			"executable" "SandrockMultiPlayer.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "debug_multi_dlc"
+				"ownsdlc" "2090470"
+			}
+			"description_loc"
+			{
+				"english" "Multiplayer_test"
+				"schinese" "多人联机_测试"
+			}
+			"description" "Multiplayer_test"
+		}
+		"8"
+		{
+			"executable" "Sandrock_Multi_Project/SandrockMultiPlayer.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "Sandrock_Publish_Test"
+			}
+			"description_loc"
+			{
+				"english" "Multiplayer"
+				"schinese" "多人联机"
+			}
+			"description" "Multiplayer"
+		}
+		"12"
+		{
+			"executable" "Sandrock_Multi_Project/SandrockMultiPlayer.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Multiplayer"
+				"schinese" "多人联机"
+			}
+			"description" "Multiplayer"
+		}
+		"13"
+		{
+			"executable" "Sandrock_Artbook/My Time at Sandrock Artbook_English.pdf"
+			"type" "option1"
+			"config"
+			{
+				"ownsdlc" "2182080"
+			}
+			"description_loc"
+			{
+				"english" "Artbook（English）"
+				"schinese" "原画设定集（英文）"
+			}
+			"description" "Artbook（English）"
+		}
+		"14"
+		{
+			"executable" "Sandrock_Artbook/My Time at Sandrock Artbook_Chinese.pdf"
+			"type" "option1"
+			"config"
+			{
+				"ownsdlc" "2182080"
+			}
+			"description_loc"
+			{
+				"english" "Artbook（Chinese）"
+				"schinese" "原画设定集（中文）"
+			}
+			"description" "Artbook（Chinese）"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2054479888"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails" ""
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"hasdepotsindlc" "1"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1084602"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5014485731095115828"
+				"size" "9718865034"
+				"download" "8055044272"
+			}
+		}
+	}
+	"2090470"
+	{
+		"dlcappid" "2090470"
+		"manifests"
+		{
+		}
+	}
+	"1084601"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1653151599540428810"
+				"size" "29929988591"
+				"download" "12875018320"
+			}
+			"ks_demo"
+			{
+				"gid" "4378044535867016329"
+				"size" "10059425522"
+				"download" "4105840496"
+			}
+			"local"
+			{
+				"gid" "7927951539177385290"
+				"size" "29692613217"
+				"download" "11292391152"
+			}
+		}
+	}
+	"2182080"
+	{
+		"dlcappid" "2182080"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6000569290448241032"
+				"size" "324143382"
+				"download" "272255552"
+			}
+		}
+	}
+	"1084603"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4585367830502336971"
+				"size" "29929988669"
+				"download" "12875032064"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17437780"
+			"timeupdated" "1740049148"
+		}
+		"ks_demo"
+		{
+			"buildid" "6932693"
+			"description" "demo"
+			"timeupdated" "1624620637"
+		}
+		"local"
+		{
+			"buildid" "12449461"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1697442995"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Pathea Games/My Time at Sandrock"
+			"pattern" "*.save"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" ""
+					"replace" "Pathea Games/My Time at Sandrock"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" ""
+					"replace" ".config/unity3d/Pathea Games/My Time at Sandrock"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27572390"
+"_sha" "602592a4c83cccfadae54c1da61fbdc3ad966e57"
+"_size" "11694"
