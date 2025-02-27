@@ -1,0 +1,711 @@
+"appid" "519860"
+"common"
+{
+	"name" "DUSK"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"logo" "26e15d59cc1af568e74351e2c6471ce4d812e44a"
+	"logo_small" "26e15d59cc1af568e74351e2c6471ce4d812e44a_thumb"
+	"icon" "e9c47724d1a17b9d26c52c411d315badae92ad7a"
+	"clienttga" "02b54a3f7435e094827bf439d0b7cf9e6c7815fb"
+	"clienticon" "d9cf07965eb6732731e2587897bd4ea88626b282"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1661990400"
+		"tested_build_id" "7866185"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "DUSK"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "1"
+			"height_pct" "2"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "1"
+				"height_pct" "2"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1626286155"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "David Szymanski"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "New Blood Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "New Blood Interactive"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_36" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_47" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1544468460"
+	"metacritic_score" "88"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/dusk\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "519860"
+	"store_tags"
+	{
+		"0" "1023537"
+		"1" "1663"
+		"2" "4004"
+		"3" "1774"
+		"4" "1734"
+		"5" "3916"
+		"6" "1667"
+		"7" "3839"
+		"8" "1756"
+		"9" "7432"
+		"10" "6691"
+		"11" "19"
+		"12" "4182"
+		"13" "5923"
+		"14" "4166"
+		"15" "1693"
+		"16" "5547"
+		"17" "5228"
+		"18" "8122"
+		"19" "1775"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "David Szymanski"
+	"publisher" "New Blood Interactive"
+	"homepage" "http://www.NewBlood.games"
+	"listofdlc" "994821,1846130,2717300"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Dusk"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DUSK.exe"
+			"description" "DUSK (singleplayer)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Duskworld.exe"
+			"description" "DUSKWORLD (multiplayer)"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "dusk.x86_64"
+			"description" "DUSK (singleplayer)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "duskworld.x86_64"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "DUSKWORLD"
+			}
+			"description" "DUSKWORLD"
+		}
+		"4"
+		{
+			"executable" "dusk.app"
+			"description" "DUSK (singpleplayer)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"5"
+		{
+			"executable" "duskworld.app"
+			"description" "DUSKWORLD (multiplayer)"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"7"
+		{
+			"executable" "DLC/DUSK HD/Dusk.exe"
+			"type" "option1"
+			"config"
+			{
+				"osarch" "64"
+				"ownsdlc" "2717300"
+			}
+			"description_loc"
+			{
+				"english" "DUSK HD"
+			}
+			"description" "DUSK HD"
+		}
+		"8"
+		{
+			"executable" "SDK/bin/win_x64/Dusk.exe"
+			"config"
+			{
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Play DUSK - Moddable"
+			}
+			"description" "Play DUSK - Moddable"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,brazilian,ukrainian,latam"
+	"workshopdepot" "519860"
+	"519861"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1252980846487160848"
+				"size" "4801094016"
+				"download" "1860300032"
+			}
+			"32bit"
+			{
+				"gid" "6195006651053016662"
+				"size" "4508322907"
+				"download" "1557275984"
+			}
+			"testing"
+			{
+				"gid" "5823088690621527818"
+				"size" "4475534276"
+				"download" "1534181040"
+			}
+			"sdk_testing"
+			{
+				"gid" "1252980846487160848"
+				"size" "4801094016"
+				"download" "1860300032"
+			}
+		}
+	}
+	"519862"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9156236528069571078"
+				"size" "4709364241"
+				"download" "1823556528"
+			}
+			"32bit"
+			{
+				"gid" "1293356244824779351"
+				"size" "4325371362"
+				"download" "1475165440"
+			}
+			"testing"
+			{
+				"gid" "1293356244824779351"
+				"size" "4325371362"
+				"download" "1475165440"
+			}
+			"sdk_testing"
+			{
+				"gid" "9156236528069571078"
+				"size" "4709364241"
+				"download" "1823556528"
+			}
+		}
+	}
+	"519863"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8122946283882435503"
+				"size" "5226254051"
+				"download" "2003891216"
+			}
+			"32bit"
+			{
+				"gid" "5803594407425002585"
+				"size" "4399029939"
+				"download" "1494446048"
+			}
+			"testing"
+			{
+				"gid" "5803594407425002585"
+				"size" "4399029939"
+				"download" "1494446048"
+			}
+			"sdk_testing"
+			{
+				"gid" "8122946283882435503"
+				"size" "5226254051"
+				"download" "2003891216"
+			}
+		}
+	}
+	"994821"
+	{
+		"dlcappid" "994821"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2307476555936202618"
+				"size" "80002966"
+				"download" "78614496"
+			}
+			"32bit"
+			{
+				"gid" "2307476555936202618"
+				"size" "80002966"
+				"download" "78614496"
+			}
+			"testing"
+			{
+				"gid" "2307476555936202618"
+				"size" "80002966"
+				"download" "78614496"
+			}
+			"sdk_testing"
+			{
+				"gid" "2307476555936202618"
+				"size" "80002966"
+				"download" "78614496"
+			}
+		}
+	}
+	"994820"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8064825428362227248"
+				"size" "392910212"
+				"download" "380973680"
+			}
+			"32bit"
+			{
+				"gid" "8064825428362227248"
+				"size" "392910212"
+				"download" "380973680"
+			}
+			"testing"
+			{
+				"gid" "8064825428362227248"
+				"size" "392910212"
+				"download" "380973680"
+			}
+			"sdk_testing"
+			{
+				"gid" "8064825428362227248"
+				"size" "392910212"
+				"download" "380973680"
+			}
+		}
+	}
+	"519864"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4396541921150479216"
+				"size" "4502763545"
+				"download" "2494554176"
+			}
+			"32bit"
+			{
+				"gid" "8705567073118126358"
+				"size" "3548636263"
+				"download" "1872591952"
+			}
+			"testing"
+			{
+				"gid" "8705567073118126358"
+				"size" "3548636263"
+				"download" "1872591952"
+			}
+			"sdk_testing"
+			{
+				"gid" "4396541921150479216"
+				"size" "4502763545"
+				"download" "2494554176"
+			}
+		}
+	}
+	"1846130"
+	{
+		"dlcappid" "1846130"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4228342024949177018"
+				"size" "4160828101"
+				"download" "2380315040"
+			}
+			"sdk_testing"
+			{
+				"gid" "2904279393490597890"
+				"size" "3932157087"
+				"download" "2254342352"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "1846130"
+		}
+	}
+	"2717300"
+	{
+		"dlcappid" "2717300"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1015827552759072879"
+				"size" "2376977234"
+				"download" "1816129840"
+			}
+			"sdk_testing"
+			{
+				"gid" "1015827552759072879"
+				"size" "2376977234"
+				"download" "1816129840"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16697379"
+			"timeupdated" "1733872090"
+		}
+		"32bit"
+		{
+			"buildid" "6637728"
+			"description" "Dusk 32 bit version"
+			"timeupdated" "1620001929"
+		}
+		"testing"
+		{
+			"buildid" "5768919"
+			"description" "Mac/Linux testing branch"
+			"timeupdated" "1604278537"
+		}
+		"sdk_testing"
+		{
+			"buildid" "15803757"
+			"description" "Public SDK testing"
+			"timeupdated" "1727245172"
+		}
+	}
+	"privatebranches" "1"
+	"appmanagesdlc" "1"
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "saves"
+			"pattern" "*"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "saveimages"
+			"pattern" "*"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "config"
+			"pattern" "scores.*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27669366"
+"_sha" "e66128f57e8c7451fe08896beb054457d8560fd2"
+"_size" "12141"
