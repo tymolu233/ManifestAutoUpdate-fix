@@ -1,0 +1,337 @@
+"appid" "1468810"
+"common"
+{
+	"name" "鬼谷八荒 Tale of Immortal"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "51a531645724df6f419ce89c1d8c34b2b2355428"
+	"logo" "4a4bc06209d7ebaab3ad684ece2c0b55aa3ebda9"
+	"logo_small" "4a4bc06209d7ebaab3ad684ece2c0b55aa3ebda9_thumb"
+	"clienticon" "9ff581de1d4756f43a439d3a793ed06a368ca1d5"
+	"clienttga" "f6ad2863779a1b20a17bfa00ade5ed767bd85f06"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "鬼谷八荒"
+		"tchinese" "鬼谷八荒"
+		"english" "鬼谷八荒 Tale of Immortal"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1732147200"
+		"tested_build_id" "16324218"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "zh-cn,en"
+		"library_logo" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "54.41860465116279"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"schinese" "library_hero_schinese.jpg"
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "54.41860465116279"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1734606647"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "鬼谷工作室"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "鬼谷工作室"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Lightning Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Lightning Games"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_42" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_30" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1685099460"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1468810"
+	"store_tags"
+	{
+		"0" "12472"
+		"1" "4182"
+		"2" "599"
+		"3" "16094"
+		"4" "3810"
+		"5" "21725"
+		"6" "122"
+		"7" "4486"
+		"8" "9551"
+		"9" "19"
+		"10" "21"
+		"11" "3834"
+		"12" "1646"
+		"13" "1742"
+		"14" "3871"
+		"15" "4231"
+		"16" "5125"
+		"17" "6815"
+		"18" "4106"
+		"19" "17305"
+	}
+	"review_score" "5"
+	"review_percentage" "53"
+}
+"extended"
+{
+	"developer" "鬼谷工作室"
+	"publisher" "鬼谷工作室"
+	"listofdlc" "2408730,3294480,3326620"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "鬼谷八荒"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "guigubahuang.exe"
+			"type" "none"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2393079462"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65533"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "0"
+	"workshopdepot" "1468810"
+	"1468811"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9109430172408646321"
+				"size" "29048264827"
+				"download" "6413275776"
+			}
+		}
+	}
+	"1551860"
+	{
+		"dlcappid" "1551860"
+	}
+	"baselanguages" "english,schinese,tchinese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17402243"
+			"timeupdated" "1739858983"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "524288000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "guigugame/guigubahuang/Steam/CacheData"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27528702"
+"_sha" "8b1f2915d4220be102a22f30be01fee8873af917"
+"_size" "6250"
