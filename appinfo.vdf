@@ -1,0 +1,574 @@
+"appid" "477160"
+"common"
+{
+	"name" "Human Fall Flat"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"clienticon" "f8b14ff5d22ba51dfc3a05b895d469f215a5e5aa"
+	"clienttga" "5846759317f884abda64b33a87fa8dd96f42bcf2"
+	"icon" "15c6f6a4d69633a63ee410b24a2417f16d803b06"
+	"logo" "1b789dec39cb456fc443dd7a48f109bb4f6be1ea"
+	"logo_small" "1b789dec39cb456fc443dd7a48f109bb4f6be1ea_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+		"sc_schinese" "1"
+	}
+	"clienticns" "5375372d526b1d303fba2c3d7175c6630acec61a"
+	"linuxclienticon" "97eb29efa22e5afd3fbc3cf8b560e3393334b2e3"
+	"osarch" ""
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"schinese" "人类一败涂地 / Human Fall Flat"
+		"sc_schinese" "面条人"
+	}
+	"releasestatesteamchina" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1647043200"
+		"tested_build_id" "8055898"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Human: Fall Flat"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "d05d7b2b4e2bfe5d9c49ca21610892732a744488/capsule_231x87.jpg"
+		"sc_schinese" "8349cf1f028fe1a8f63f9037641bee22589344af/capsule_231x87_sc_schinese.jpg"
+		"schinese" "a2c81e98310655f123d393f014060f838b7362b1/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-xc"
+		"library_hero" "en,zh-cn,zh-xc"
+		"library_hero_blur" "zh-xc,en,zh-cn"
+		"library_logo" "en,zh-cn,zh-xc"
+		"library_header" "zh-cn,en,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "26.214981702451198"
+			"height_pct" "35.77918218546982"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "89ad3341dafe88a579fd225d566d40f66561b653/library_600x900.jpg"
+				"schinese" "3f422e87f9219ea2c71c964fd63b45c2b0a5b6cd/library_600x900_schinese.jpg"
+				"sc_schinese" "386e7a0d0b6c31a5e191572e9ea26ec6004d24b3/library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "89ad3341dafe88a579fd225d566d40f66561b653/library_600x900_2x.jpg"
+				"schinese" "3f422e87f9219ea2c71c964fd63b45c2b0a5b6cd/library_600x900_schinese_2x.jpg"
+				"sc_schinese" "386e7a0d0b6c31a5e191572e9ea26ec6004d24b3/library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "fc593b36d81faa8988fcff92f08974dff10ffad7/library_hero.jpg"
+				"schinese" "dfc4afb47f22d56b9d478fecbdbd56ea4ef3c178/library_hero_schinese.jpg"
+				"sc_schinese" "2475903b7af31f5f91db57db9cd55efbb9dfca6c/library_hero_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "fc593b36d81faa8988fcff92f08974dff10ffad7/library_hero_2x.jpg"
+				"schinese" "dfc4afb47f22d56b9d478fecbdbd56ea4ef3c178/library_hero_schinese_2x.jpg"
+				"sc_schinese" "2475903b7af31f5f91db57db9cd55efbb9dfca6c/library_hero_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"sc_schinese" "2475903b7af31f5f91db57db9cd55efbb9dfca6c/library_hero_blur_sc_schinese.jpg"
+				"english" "fc593b36d81faa8988fcff92f08974dff10ffad7/library_hero_blur.jpg"
+				"schinese" "dfc4afb47f22d56b9d478fecbdbd56ea4ef3c178/library_hero_blur_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "26.214981702451198"
+				"height_pct" "35.77918218546982"
+			}
+			"image"
+			{
+				"english" "c96981761cb747bcd2078347eaffb71e8c5efacb/logo.png"
+				"schinese" "c3eb88d608c88e03eb8c13313d9e2ad3d54d511c/logo_schinese.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"image2x"
+			{
+				"sc_schinese" "logo_sc_schinese_2x.png"
+				"english" "c96981761cb747bcd2078347eaffb71e8c5efacb/logo_2x.png"
+				"schinese" "c3eb88d608c88e03eb8c13313d9e2ad3d54d511c/logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "688b20cc23b67e60a89f897cedeb7e1f13b4787b/library_header_schinese.jpg"
+				"english" "204b1f9e80ddadda12f4ffa82432a6abaf03aea7/library_header.jpg"
+				"sc_schinese" "6db6ecf3e89c13af937367b80940bd44d361c3f0/library_header_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "204b1f9e80ddadda12f4ffa82432a6abaf03aea7/library_header_2x.jpg"
+				"schinese" "688b20cc23b67e60a89f897cedeb7e1f13b4787b/library_header_schinese_2x.jpg"
+				"sc_schinese" "c1239017dd750d12787395bffa4c883ac7ab46e5/library_header_sc_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1738073026"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "No Brakes Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Curve Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Curve Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_29" "1"
+		"category_39" "1"
+		"category_36" "1"
+		"category_44" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_43" "1"
+		"category_30" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1469206680"
+	"metacritic_score" "70"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/human-fall-flat\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "477160"
+	"store_tags"
+	{
+		"0" "1685"
+		"1" "4136"
+		"2" "1664"
+		"3" "21"
+		"4" "3968"
+		"5" "3810"
+		"6" "3859"
+		"7" "5537"
+		"8" "19"
+		"9" "1695"
+		"10" "3841"
+		"11" "492"
+		"12" "7368"
+		"13" "1719"
+		"14" "4036"
+		"15" "597"
+		"16" "10816"
+		"17" "5395"
+		"18" "4182"
+		"19" "599"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "No Brakes Games"
+	"publisher" "Curve Games"
+	"homepage" "http://www.nobrakesgames.com/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Human Fall Flat"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Human.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+				"schinese" "Launch"
+				"sc_schinese" "Launch"
+			}
+			"description" "Launch"
+		}
+		"1"
+		{
+			"executable" "Human.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+				"sc_schinese" "Launch"
+			}
+			"description" "Launch"
+		}
+		"2"
+		{
+			"executable" "Human.x86"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Launch x86"
+				"sc_schinese" "Launch"
+			}
+			"description" "Launch x86"
+		}
+		"3"
+		{
+			"executable" "Human.x86_64"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch 64"
+				"sc_schinese" "Launch"
+			}
+			"description" "Launch 64"
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1874356412"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+			"has_localization_schinese" ""
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese,polish,turkish,brazilian,ukrainian"
+	"workshopdepot" "477160"
+	"hasdepotsindlc" "0"
+	"477161"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3380314751591059485"
+				"size" "5051113393"
+				"download" "1566243536"
+			}
+		}
+	}
+	"477162"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5373221701101642323"
+				"size" "5069194819"
+				"download" "1574323968"
+			}
+		}
+	}
+	"477163"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "129240740414445083"
+				"size" "1494469867"
+				"download" "616680464"
+			}
+		}
+	}
+	"632870"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6110178810839816362"
+				"size" "77926307"
+				"download" "59201904"
+			}
+		}
+	}
+	"477164"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "803940719847356966"
+				"size" "270143829"
+				"download" "271369792"
+			}
+		}
+	}
+	"477165"
+	{
+		"config"
+		{
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3924615015448687682"
+				"size" "3131443377"
+				"download" "910456448"
+			}
+		}
+	}
+	"477166"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2111907740247976469"
+				"size" "446"
+				"download" "304"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17144222"
+			"timeupdated" "1738076633"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27634898"
+"_sha" "ae1432fffc236360f94a4d37713054aa5b24b947"
+"_size" "11696"
