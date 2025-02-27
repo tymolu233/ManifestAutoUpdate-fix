@@ -1,0 +1,879 @@
+"appid" "834280"
+"common"
+{
+	"name" "Fishing Sim World®: Pro Tour"
+	"type" "Game"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "98889f5788bffad666a04fb85bae5dabbdc7f70a"
+	"logo_small" "98889f5788bffad666a04fb85bae5dabbdc7f70a_thumb"
+	"icon" "ee187c7c152ac4f55e394ae26a277cc6b885f0c3"
+	"clienttga" "15b6ae55574a408f5d5bfd8ab660df1152ce3532"
+	"clienticon" "22fbdda6ff6d2a87d3accd62b0fad736ed24e80f"
+	"linuxclienticon" "05468bf7db7969ef91175eb060571705339ed737"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1652400000"
+		"tested_build_id" "5977353"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Fishing Sim World®: Pro Tour"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"french" "capsule_231x87_french.jpg"
+		"german" "capsule_231x87_german.jpg"
+		"italian" "capsule_231x87_italian.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"latam" "capsule_231x87_latam.jpg"
+		"norwegian" "capsule_231x87_norwegian.jpg"
+		"polish" "capsule_231x87_polish.jpg"
+		"portuguese" "capsule_231x87_portuguese.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"spanish" "capsule_231x87_spanish.jpg"
+		"swedish" "capsule_231x87_swedish.jpg"
+		"turkish" "capsule_231x87_turkish.jpg"
+		"arabic" "capsule_231x87_arabic.jpg"
+		"brazilian" "capsule_231x87_brazilian.jpg"
+		"danish" "capsule_231x87_danish.jpg"
+		"dutch" "capsule_231x87_dutch.jpg"
+		"finnish" "capsule_231x87_finnish.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"arabic" "header_arabic.jpg"
+		"brazilian" "header_brazilian.jpg"
+		"danish" "header_danish.jpg"
+		"dutch" "header_dutch.jpg"
+		"finnish" "header_finnish.jpg"
+		"french" "header_french.jpg"
+		"german" "header_german.jpg"
+		"italian" "header_italian.jpg"
+		"japanese" "header_japanese.jpg"
+		"latam" "header_latam.jpg"
+		"norwegian" "header_norwegian.jpg"
+		"polish" "header_polish.jpg"
+		"portuguese" "header_portuguese.jpg"
+		"russian" "header_russian.jpg"
+		"schinese" "header_schinese.jpg"
+		"spanish" "header_spanish.jpg"
+		"swedish" "header_swedish.jpg"
+		"turkish" "header_turkish.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "ar,pt-br,da,nl,fi,fr,de,it,ja,es-419,no,pl,pt,ru,zh-cn,es,sv,tr,en"
+		"library_hero" "tr,ar,pt-br,da,nl,fi,fr,de,it,ja,es-419,no,pl,pt,ru,zh-cn,es,sv,en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "66.34998227821622"
+			"height_pct" "44.77703703703703"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"arabic" "library_600x900_arabic.jpg"
+				"brazilian" "library_600x900_brazilian.jpg"
+				"danish" "library_600x900_danish.jpg"
+				"dutch" "library_600x900_dutch.jpg"
+				"finnish" "library_600x900_finnish.jpg"
+				"french" "library_600x900_french.jpg"
+				"german" "library_600x900_german.jpg"
+				"italian" "library_600x900_italian.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"latam" "library_600x900_latam.jpg"
+				"norwegian" "library_600x900_norwegian.jpg"
+				"polish" "library_600x900_polish.jpg"
+				"portuguese" "library_600x900_portuguese.jpg"
+				"russian" "library_600x900_russian.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"spanish" "library_600x900_spanish.jpg"
+				"swedish" "library_600x900_swedish.jpg"
+				"turkish" "library_600x900_turkish.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"arabic" "library_600x900_arabic_2x.jpg"
+				"brazilian" "library_600x900_brazilian_2x.jpg"
+				"danish" "library_600x900_danish_2x.jpg"
+				"dutch" "library_600x900_dutch_2x.jpg"
+				"finnish" "library_600x900_finnish_2x.jpg"
+				"french" "library_600x900_french_2x.jpg"
+				"german" "library_600x900_german_2x.jpg"
+				"italian" "library_600x900_italian_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"latam" "library_600x900_latam_2x.jpg"
+				"norwegian" "library_600x900_norwegian_2x.jpg"
+				"polish" "library_600x900_polish_2x.jpg"
+				"portuguese" "library_600x900_portuguese_2x.jpg"
+				"russian" "library_600x900_russian_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"spanish" "library_600x900_spanish_2x.jpg"
+				"swedish" "library_600x900_swedish_2x.jpg"
+				"turkish" "library_600x900_turkish_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"turkish" "library_hero_turkish.jpg"
+				"arabic" "library_hero_arabic.jpg"
+				"brazilian" "library_hero_brazilian.jpg"
+				"danish" "library_hero_danish.jpg"
+				"dutch" "library_hero_dutch.jpg"
+				"finnish" "library_hero_finnish.jpg"
+				"french" "library_hero_french.jpg"
+				"german" "library_hero_german.jpg"
+				"italian" "library_hero_italian.jpg"
+				"japanese" "library_hero_japanese.jpg"
+				"latam" "library_hero_latam.jpg"
+				"norwegian" "library_hero_norwegian.jpg"
+				"polish" "library_hero_polish.jpg"
+				"portuguese" "library_hero_portuguese.jpg"
+				"russian" "library_hero_russian.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"spanish" "library_hero_spanish.jpg"
+				"swedish" "library_hero_swedish.jpg"
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "66.34998227821622"
+				"height_pct" "44.77703703703703"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1733929620"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Dovetail Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Dovetail Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Dovetail Games - Fishing"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Fishing Sim World"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "28"
+		"2" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1537279200"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "834280"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "15564"
+		"2" "701"
+		"3" "597"
+		"4" "3859"
+		"5" "4175"
+		"6" "4182"
+		"7" "1654"
+		"8" "7481"
+		"9" "4166"
+		"10" "5350"
+		"11" "1685"
+		"12" "3839"
+		"13" "19"
+		"14" "21"
+		"15" "9"
+		"16" "3878"
+		"17" "5411"
+		"18" "9564"
+		"19" "30358"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Dovetail Games"
+	"publisher" "Dovetail Games"
+	"homepage" "https://live.dovetailgames.com/live/fishing-sim-world"
+	"listofdlc" "903660,905190,916220,931530,940530,973610,973611,973612,976080,978880,1030560,1030561,1030562,1030563,1088930,1136000,1136001,1136002,1203720,1369000,1442140"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Fishing Sim World"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FishingGame\\Binaries\\Win64\\FishingGame.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "development"
+			}
+		}
+		"1"
+		{
+			"executable" "FishingGame\\Binaries\\Win64\\FishingGame-Win64-Shipping.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "release_candidate(shipping)"
+			}
+		}
+		"2"
+		{
+			"executable" "FishingGame\\Binaries\\Win64\\FishingGame-Win64-Test.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "release_candidate(test)"
+			}
+		}
+		"3"
+		{
+			"executable" "FishingGame\\Binaries\\Win64\\FishingGame-Win64-Shipping.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"4"
+		{
+			"executable" "FishingGame\\Binaries\\Win64\\FishingGame.exe"
+			"description" "Review Build"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_review"
+			}
+		}
+		"5"
+		{
+			"executable" "FishingGame\\Binaries\\Win64\\FishingGame-Win64-Test.exe"
+			"description" "FSW RC Test"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "rc_test"
+			}
+		}
+		"6"
+		{
+			"executable" "FishingGame\\Binaries\\Win64\\FishingGame-Win64-Test.exe"
+			"description" "FSW 19 RC Test"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "rc19_test"
+			}
+		}
+		"7"
+		{
+			"executable" "FishingGame\\Binaries\\Win64\\FishingGame-Win64-Test.exe"
+			"description" "FSW 19 RC Test"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_review"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,spanish,schinese,russian,polish,brazilian"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"834281"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2366488461289198603"
+				"size" "44087736169"
+				"download" "42145800864"
+			}
+		}
+	}
+	"903660"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "903660"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4866820302837016099"
+				"size" "6057608"
+				"download" "570288"
+			}
+		}
+	}
+	"905190"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "905190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "245250878802804071"
+				"size" "6059165"
+				"download" "569712"
+			}
+		}
+	}
+	"916220"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "916220"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5292460372956023962"
+				"size" "10901618"
+				"download" "987120"
+			}
+		}
+	}
+	"931530"
+	{
+		"dlcappid" "931530"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2551122027481441446"
+				"size" "10899493"
+				"download" "987056"
+			}
+		}
+	}
+	"940530"
+	{
+		"dlcappid" "940530"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1978346115539039239"
+				"size" "10899936"
+				"download" "987424"
+			}
+		}
+	}
+	"973610"
+	{
+		"dlcappid" "973610"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7695754763204474272"
+				"size" "10899996"
+				"download" "988000"
+			}
+		}
+	}
+	"973612"
+	{
+		"dlcappid" "973612"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5970751204937873535"
+				"size" "10899912"
+				"download" "986752"
+			}
+		}
+	}
+	"978880"
+	{
+		"dlcappid" "978880"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8860439706293297646"
+				"size" "10904068"
+				"download" "988624"
+			}
+		}
+	}
+	"973611"
+	{
+		"dlcappid" "973611"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3397348426176208141"
+				"size" "6370505"
+				"download" "603216"
+			}
+		}
+	}
+	"1030561"
+	{
+		"dlcappid" "1030561"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8956855835087232854"
+				"size" "10899984"
+				"download" "987184"
+			}
+		}
+	}
+	"1030562"
+	{
+		"dlcappid" "1030562"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3660046031836599689"
+				"size" "10899948"
+				"download" "987616"
+			}
+		}
+	}
+	"1030560"
+	{
+		"dlcappid" "1030560"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1021904247631018400"
+				"size" "10899636"
+				"download" "982992"
+			}
+		}
+	}
+	"1030563"
+	{
+		"dlcappid" "1030563"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3997129057491773547"
+				"size" "1451081"
+				"download" "1359552"
+			}
+		}
+	}
+	"1030564"
+	{
+		"dlcappid" "1030564"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+		}
+	}
+	"1136000"
+	{
+		"dlcappid" "1136000"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6612194791702368561"
+				"size" "1451349"
+				"download" "1359216"
+			}
+		}
+	}
+	"1136001"
+	{
+		"dlcappid" "1136001"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4164066823476979311"
+				"size" "1451098"
+				"download" "1359232"
+			}
+		}
+	}
+	"1136002"
+	{
+		"dlcappid" "1136002"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5488142666867856311"
+				"size" "1451083"
+				"download" "1359312"
+			}
+		}
+	}
+	"1136003"
+	{
+		"dlcappid" "1136003"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+		}
+	}
+	"1136004"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"dlcappid" "1136004"
+		"manifests"
+		{
+		}
+	}
+	"1203720"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"dlcappid" "1203720"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3990577967991517166"
+				"size" "1451082"
+				"download" "1359616"
+			}
+		}
+	}
+	"1369000"
+	{
+		"dlcappid" "1369000"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5653439109524642159"
+				"size" "1455246"
+				"download" "1361280"
+			}
+		}
+	}
+	"1442140"
+	{
+		"dlcappid" "1442140"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2681201137298373644"
+				"size" "1451094"
+				"download" "1358816"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9995607"
+			"timeupdated" "1673258080"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "FishingGame/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "0c2bd185e961ef0407fc1386bda1eb728e398d5a"
+"_size" "16531"
