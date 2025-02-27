@@ -1,0 +1,270 @@
+"appid" "2230760"
+"common"
+{
+	"name" "Vampire Survivors: Legacy of the Moonspell"
+	"type" "DLC"
+	"parent" "1794680"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64"
+	"icon" "3677cf1be3be1f4ea42261c62ce10519715ade58"
+	"name_localized"
+	{
+		"schinese" "Vampire Survivors - 吸血鬼幸存者：月咒遗脉"
+	}
+	"metacritic_name" "Vampire Survivors"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1671203512"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "poncle"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "poncle"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Vampire Survivors"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1671119311"
+	"metacritic_score" "86"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/vampire-survivors\?ftag=MCD-06-10aaa1f"
+	"gameid" "2230760"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "492"
+		"2" "122"
+		"3" "597"
+		"4" "1716"
+		"5" "4885"
+		"6" "4018"
+		"7" "4182"
+		"8" "1773"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"dlcforappid" "1794680"
+	"mustownapptopurchase" "1794680"
+	"developer" "poncle"
+	"publisher" "poncle"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2230761"
+	{
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8004838815880975811"
+				"size" "15281293"
+				"download" "12781872"
+			}
+			"public-beta"
+			{
+				"gid" "1035845952215882608"
+				"size" "15281312"
+				"download" "12782112"
+			}
+		}
+		"dlcappid" "2230760"
+	}
+	"2230762"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8576466353716357423"
+				"size" "15280752"
+				"download" "12781936"
+			}
+			"public-beta"
+			{
+				"gid" "8768329172782887687"
+				"size" "15280722"
+				"download" "12781888"
+			}
+		}
+		"dlcappid" "2230760"
+	}
+	"2230763"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5860636890638903596"
+				"size" "15283201"
+				"download" "12783392"
+			}
+			"public-beta"
+			{
+				"gid" "7567049418672490679"
+				"size" "15283184"
+				"download" "12783344"
+			}
+		}
+		"dlcappid" "2230760"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16619989"
+			"timeupdated" "1733738688"
+		}
+		"public-beta"
+		{
+			"buildid" "16620041"
+			"description" "Public Beta"
+			"timeupdated" "1733499559"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27657146"
+"_sha" "51a2afc1fe4ead99e4c2a5e4a2d8715a7d2c5bbe"
+"_size" "4112"
