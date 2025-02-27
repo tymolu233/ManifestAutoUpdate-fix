@@ -1,0 +1,418 @@
+"appid" "513710"
+"common"
+{
+	"name" "SCUM"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "adc1bb03b02c2f4867563515861c93fcbb4a927e"
+	"logo_small" "adc1bb03b02c2f4867563515861c93fcbb4a927e_thumb"
+	"icon" "c25483e3e989239b932901118e44cf71606b5973"
+	"clienticon" "960a5d5c5b6dc60226b3a52954990269919261ed"
+	"clienttga" "73765e3f329ddece89d1b9df86b68744f0da5a54"
+	"releasestate" "released"
+	"exfgls" "1"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "513710_eula_1"
+			"name" "SCUM EULA"
+			"url" "https://store.steampowered.com//eula/513710_eula_1"
+			"version" "5"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "人渣"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1646697600"
+		"tested_build_id" "8131979"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "simultaneous_gamepad_mouse"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "SCUM"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "40"
+			"height_pct" "80"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "40"
+				"height_pct" "80"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1712242271"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Gamepires"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Jagex Ltd"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Gamepires"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "29"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_1" "1"
+		"category_20" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_15" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1535558220"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "513710"
+	"store_tags"
+	{
+		"0" "1662"
+		"1" "1100689"
+		"2" "3859"
+		"3" "1695"
+		"4" "1659"
+		"5" "6650"
+		"6" "128"
+		"7" "19"
+		"8" "4175"
+		"9" "21"
+		"10" "1702"
+		"11" "4182"
+		"12" "493"
+		"13" "1663"
+		"14" "4667"
+		"15" "1775"
+		"16" "4345"
+		"17" "1697"
+		"18" "492"
+		"19" "122"
+	}
+	"review_score" "6"
+	"review_percentage" "74"
+}
+"extended"
+{
+	"anti_cheat_support_url" "https://www.easy.ac/r/steam/gamebans/\?steamAppId=513710"
+	"gamedir" "SCUM"
+	"developer" "Gamepires"
+	"publisher" "Jagex Ltd"
+	"homepage" "http://www.scumgame.com"
+	"listofdlc" "919680,1643210,1990860,2321800,2371620,2517160,2517170,2651720,2651740,2651750,2841840"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "SCUM"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SCUM_Launcher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "SCUM_Launcher.exe"
+			"arguments" "-dx12"
+			"description" "Play SCUM DirectX 12 (Experimental)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "SCUM_Launcher.exe"
+			"arguments" "-vulkan"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Play SCUM Vulkan (Experimental)"
+			}
+			"description" "Play SCUM Vulkan (Experimental)"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,turkish,brazilian,latam"
+	"depotdeltapatches" "1"
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"513711"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2375672516653307792"
+				"size" "79363326529"
+				"download" "27872872384"
+			}
+		}
+	}
+	"919680"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "919680"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6252294094855435400"
+				"size" "37896840"
+				"download" "25373104"
+			}
+		}
+	}
+	"1643210"
+	{
+		"dlcappid" "1643210"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8526987047835682522"
+				"size" "96504739"
+				"download" "94680896"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17170226"
+			"timeupdated" "1738242017"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27671620"
+"_sha" "cb1a48127c222d3a345c6f714f7012e29732f856"
+"_size" "7095"
