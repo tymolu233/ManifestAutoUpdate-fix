@@ -1,0 +1,1780 @@
+"appid" "200510"
+"common"
+{
+	"name" "XCOM: Enemy Unknown"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+	}
+	"clienticon" "a14ea28d6f4cb5764b174e085514726b81ca6d65"
+	"clienttga" "e47a628d674385620fb33ac03820bffda5257abc"
+	"icon" "48be2fee1d0d511b5c7313e1359beafd36ea92ed"
+	"logo" "eaa298d2b0d908b2c4f5370d2c8c59a8eff887c6"
+	"logo_small" "eaa298d2b0d908b2c4f5370d2c8c59a8eff887c6_thumb"
+	"oslist" "windows,macos,linux"
+	"clienticns" "aaf9230572e45aa09b4ea14dace668cebf7446ef"
+	"linuxclienticon" "9e258a2da9d1e5ffe0e2c823791ea7c4a1515d61"
+	"sortas" "XCOM 1: Enemy Unknown"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "200510_eula_0"
+			"name" "XCOM: Enemy Unknown EULA"
+			"url" "https://store.steampowered.com//eula/200510_eula_0"
+		}
+	}
+	"osarch" ""
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1681862400"
+		"tested_build_id" "848157"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-1"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "XCOM: Enemy Unknown"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "35"
+			"height_pct" "34"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "35"
+				"height_pct" "34"
+			}
+		}
+	}
+	"store_asset_mtime" "1587584008"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Firaxis Games"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Feral Interactive (Linux)"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "2K"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Feral Interactive (Linux)"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "XCOM"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_27" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_43" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "1"
+			"full_audio" "1"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "1"
+			"full_audio" "1"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "1"
+			"full_audio" "1"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "1"
+			"full_audio" "1"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "1"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "1"
+			"full_audio" "1"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "1"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "1"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "1"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1349755200"
+	"metacritic_score" "89"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/xcom-enemy-unknown\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "200510"
+	"store_tags"
+	{
+		"0" "1741"
+		"1" "1708"
+		"2" "9"
+		"3" "3942"
+		"4" "1677"
+		"5" "1673"
+		"6" "4182"
+		"7" "7332"
+		"8" "14139"
+		"9" "1733"
+		"10" "4711"
+		"11" "4190"
+		"12" "4747"
+		"13" "1759"
+		"14" "3859"
+		"15" "4026"
+		"16" "122"
+		"17" "19"
+		"18" "4166"
+		"19" "4295"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Firaxis Games"
+	"gamedir" "XCom-Enemy-Unknown"
+	"gamemanualurl" "http://store.steampowered.com/manual/200510/"
+	"homepage" "http://www.xcom.com/enemyunknown/"
+	"icon" ""
+	"installscript" "installscript.vdf"
+	"launcheula" "http://store.steampowered.com/eula/eula_200510"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "200512"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"installscriptosx" "XCOM Enemy Unknown.app/installscript_osx.vdf"
+	"installscript_macos" "XCOM Enemy Unknown.app/installscript_osx.vdf"
+	"validoslist" "windows,macos"
+	"publisher" "2K"
+	"listofdlc" "209810,209811,209812,209813,209814,209815,209816,209817,225340"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Binaries\\Win32\\XComGame.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "XCOM Enemy Unknown.app"
+			"description" "Mac Edition"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "xcom.sh"
+			"arguments" "-arch=x86_64"
+			"description" "XCOM Enemy Unknown"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"contenttype" "3"
+	"installdir" "XCom-Enemy-Unknown"
+	"steamcontrollertemplateindex" "2"
+	"cegpublickey" "30819D300D06092A864886F70D010101050003818B00308187028181009A69D3726EEFCE7C92E2843DDF378FD5317739810158660DB7123A5C13387DC474CC0BDD23E17E897C1D21E0A879B62DCCE7CEF664F6D0E6A0286A3F995E13B1DCC37DFBD34A2D66752F063E26BC09AB0D8426CE62830DCB04CFD1656388524F8038FCBE2DB7039A4638B9F362CEB157EB4A690115FC375338C713FFC33CF539020111"
+	"checkguid" "XComEW.exe"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,russian,japanese,polish"
+	"200511"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5977328163283230731"
+				"size" "10642456335"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "5977328163283230731"
+				"size" "10642456335"
+				"download" "0"
+			}
+		}
+	}
+	"200512"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4267564546177814784"
+				"size" "28425275"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "4267564546177814784"
+				"size" "28425275"
+				"download" "0"
+			}
+		}
+	}
+	"200513"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3099687951329262850"
+				"size" "61627"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "3099687951329262850"
+				"size" "61627"
+				"download" "0"
+			}
+		}
+	}
+	"200514"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6212317035773467878"
+				"size" "148064561"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "6212317035773467878"
+				"size" "148064561"
+				"download" "0"
+			}
+		}
+	}
+	"200515"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1577923318058709357"
+				"size" "160571097"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "1577923318058709357"
+				"size" "160571097"
+				"download" "0"
+			}
+		}
+	}
+	"200516"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6026286414314080611"
+				"size" "165884322"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "6026286414314080611"
+				"size" "165884322"
+				"download" "0"
+			}
+		}
+	}
+	"200517"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5677229579223170801"
+				"size" "158921323"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "5677229579223170801"
+				"size" "158921323"
+				"download" "0"
+			}
+		}
+	}
+	"200518"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2886096942775221998"
+				"size" "1363611"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "2886096942775221998"
+				"size" "1363611"
+				"download" "0"
+			}
+		}
+	}
+	"200519"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5296737344089529933"
+				"size" "149502347"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "5296737344089529933"
+				"size" "149502347"
+				"download" "0"
+			}
+		}
+	}
+	"200520"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5911100840774877922"
+				"size" "161782181"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "5911100840774877922"
+				"size" "161782181"
+				"download" "0"
+			}
+		}
+	}
+	"200521"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6630944259194067348"
+				"size" "1316651"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "6630944259194067348"
+				"size" "1316651"
+				"download" "0"
+			}
+		}
+	}
+	"200523"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1165427881625931821"
+				"size" "1265225"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "1165427881625931821"
+				"size" "1265225"
+				"download" "0"
+			}
+		}
+	}
+	"209811"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7634295903848040649"
+				"size" "83175235"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "7634295903848040649"
+				"size" "83175235"
+				"download" "0"
+			}
+		}
+		"dlcappid" "209811"
+	}
+	"209812"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4454258587194093660"
+				"size" "405625739"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "4454258587194093660"
+				"size" "405625739"
+				"download" "0"
+			}
+		}
+		"dlcappid" "209812"
+	}
+	"225341"
+	{
+		"dlcappid" "225340"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "41984338994600089"
+				"size" "8678995754"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "41984338994600089"
+				"size" "8678995754"
+				"download" "0"
+			}
+		}
+	}
+	"225342"
+	{
+		"dlcappid" "225340"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7844243238583980363"
+				"size" "28987963"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "7844243238583980363"
+				"size" "28987963"
+				"download" "0"
+			}
+		}
+	}
+	"225343"
+	{
+		"dlcappid" "225340"
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8726262043003245779"
+				"size" "55953"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "8726262043003245779"
+				"size" "55953"
+				"download" "0"
+			}
+		}
+	}
+	"225344"
+	{
+		"dlcappid" "225340"
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "509212501326827016"
+				"size" "90251456"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "509212501326827016"
+				"size" "90251456"
+				"download" "0"
+			}
+		}
+	}
+	"225345"
+	{
+		"dlcappid" "225340"
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8390507623073734667"
+				"size" "96322832"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "8390507623073734667"
+				"size" "96322832"
+				"download" "0"
+			}
+		}
+	}
+	"225346"
+	{
+		"dlcappid" "225340"
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2888771204645959997"
+				"size" "99494277"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "2888771204645959997"
+				"size" "99494277"
+				"download" "0"
+			}
+		}
+	}
+	"225347"
+	{
+		"dlcappid" "225340"
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4751831833500987405"
+				"size" "93004738"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "4751831833500987405"
+				"size" "93004738"
+				"download" "0"
+			}
+		}
+	}
+	"225348"
+	{
+		"dlcappid" "225340"
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6015370350621072618"
+				"size" "1893305"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "6015370350621072618"
+				"size" "1893305"
+				"download" "0"
+			}
+		}
+	}
+	"225349"
+	{
+		"dlcappid" "225340"
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3820334222046766522"
+				"size" "93501149"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "3820334222046766522"
+				"size" "93501149"
+				"download" "0"
+			}
+		}
+	}
+	"225350"
+	{
+		"dlcappid" "225340"
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8039983655628855754"
+				"size" "91692657"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "8039983655628855754"
+				"size" "91692657"
+				"download" "0"
+			}
+		}
+	}
+	"225351"
+	{
+		"dlcappid" "225340"
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8107601051431546875"
+				"size" "1850455"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "8107601051431546875"
+				"size" "1850455"
+				"download" "0"
+			}
+		}
+	}
+	"225352"
+	{
+		"dlcappid" "225340"
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3603602085531634037"
+				"size" "1685415"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "3603602085531634037"
+				"size" "1685415"
+				"download" "0"
+			}
+		}
+	}
+	"200522"
+	{
+		"dlcappid" "225340"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4371073319003322090"
+				"size" "82500719"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "4371073319003322090"
+				"size" "82500719"
+				"download" "0"
+			}
+		}
+	}
+	"239613"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5664537082215991606"
+				"size" "178257404"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "5664537082215991606"
+				"size" "178257404"
+				"download" "0"
+			}
+		}
+	}
+	"239611"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "768224438854273196"
+				"size" "13516794051"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "768224438854273196"
+				"size" "13516794051"
+				"download" "0"
+			}
+		}
+	}
+	"239612"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6036573672765503438"
+				"size" "2"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "6036573672765503438"
+				"size" "2"
+				"download" "0"
+			}
+		}
+	}
+	"239614"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "209812"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4444569306026236615"
+				"size" "392380301"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "4444569306026236615"
+				"size" "392380301"
+				"download" "0"
+			}
+		}
+	}
+	"239615"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "209811"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2088330805415867293"
+				"size" "83175235"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "2088330805415867293"
+				"size" "83175235"
+				"download" "0"
+			}
+		}
+	}
+	"200524"
+	{
+		"dlcappid" "225340"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7430100694281347402"
+				"size" "9364649226"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "7430100694281347402"
+				"size" "9364649226"
+				"download" "0"
+			}
+		}
+	}
+	"239616"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "284753000885733139"
+				"size" "2"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "284753000885733139"
+				"size" "2"
+				"download" "0"
+			}
+		}
+	}
+	"239617"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "384780111558113330"
+				"size" "2"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "384780111558113330"
+				"size" "2"
+				"download" "0"
+			}
+		}
+	}
+	"239618"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "116357021336944192"
+				"size" "2"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "116357021336944192"
+				"size" "2"
+				"download" "0"
+			}
+		}
+	}
+	"239619"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "28728337118389002"
+				"size" "2"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "28728337118389002"
+				"size" "2"
+				"download" "0"
+			}
+		}
+	}
+	"239620"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "104805678445749475"
+				"size" "2"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "104805678445749475"
+				"size" "2"
+				"download" "0"
+			}
+		}
+	}
+	"239621"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1044082872451034769"
+				"size" "2"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "1044082872451034769"
+				"size" "2"
+				"download" "0"
+			}
+		}
+	}
+	"239622"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "393954813390701020"
+				"size" "2"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "393954813390701020"
+				"size" "2"
+				"download" "0"
+			}
+		}
+	}
+	"239623"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2643480763377385141"
+				"size" "2"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "2643480763377385141"
+				"size" "2"
+				"download" "0"
+			}
+		}
+	}
+	"239624"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "712864875086334265"
+				"size" "2"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "712864875086334265"
+				"size" "2"
+				"download" "0"
+			}
+		}
+	}
+	"209827"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "595784257312450039"
+				"size" "5"
+				"download" "0"
+			}
+			"linux_initial_release"
+			{
+				"gid" "595784257312450039"
+				"size" "5"
+				"download" "0"
+			}
+		}
+	}
+	"200526"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1629131137455360719"
+				"size" "7042972225"
+				"download" "5246156490984"
+			}
+			"linux_initial_release"
+			{
+				"gid" "6409306029094186572"
+				"size" "7045351897"
+				"download" "0"
+			}
+		}
+	}
+	"200527"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"dlcappid" "209812"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1681974268821304045"
+				"size" "352915986"
+				"download" "7527040376"
+			}
+			"linux_initial_release"
+			{
+				"gid" "1681974268821304045"
+				"size" "352915986"
+				"download" "0"
+			}
+		}
+	}
+	"200528"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"dlcappid" "209811"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6842305425258267873"
+				"size" "83187527"
+				"download" "20045605488"
+			}
+			"linux_initial_release"
+			{
+				"gid" "8982516523555049918"
+				"size" "83181383"
+				"download" "0"
+			}
+		}
+	}
+	"200529"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"dlcappid" "225340"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3701567944219618496"
+				"size" "8264951106"
+				"download" "86105487248"
+			}
+			"linux_initial_release"
+			{
+				"gid" "8828354746812511740"
+				"size" "8264808904"
+				"download" "0"
+			}
+		}
+	}
+	"200525"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "181782921911158240"
+				"size" "235462328"
+				"download" "73719328"
+			}
+			"linux_initial_release"
+			{
+				"gid" "6884109370970429012"
+				"size" "230654125"
+				"download" "0"
+			}
+		}
+	}
+	"209818"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2935536691900693364"
+				"size" "4"
+				"download" "6292040"
+			}
+			"linux_initial_release"
+			{
+				"gid" "2935536691900693364"
+				"size" "4"
+				"download" "0"
+			}
+		}
+	}
+	"209819"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8733079840784680818"
+				"size" "4"
+				"download" "417607080"
+			}
+			"linux_initial_release"
+			{
+				"gid" "8733079840784680818"
+				"size" "4"
+				"download" "0"
+			}
+		}
+	}
+	"209820"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3787224929468610693"
+				"size" "4"
+				"download" "395574216"
+			}
+			"linux_initial_release"
+			{
+				"gid" "3787224929468610693"
+				"size" "4"
+				"download" "0"
+			}
+		}
+	}
+	"209821"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3927655542541842475"
+				"size" "4"
+				"download" "45900792"
+			}
+			"linux_initial_release"
+			{
+				"gid" "3927655542541842475"
+				"size" "4"
+				"download" "0"
+			}
+		}
+	}
+	"209822"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4036213561552691770"
+				"size" "4"
+				"download" "413411784"
+			}
+			"linux_initial_release"
+			{
+				"gid" "4036213561552691770"
+				"size" "4"
+				"download" "0"
+			}
+		}
+	}
+	"209823"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9180666064602220386"
+				"size" "4"
+				"download" "44323272"
+			}
+			"linux_initial_release"
+			{
+				"gid" "9180666064602220386"
+				"size" "4"
+				"download" "0"
+			}
+		}
+	}
+	"209824"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2391596403993175906"
+				"size" "4"
+				"download" "42423736"
+			}
+			"linux_initial_release"
+			{
+				"gid" "2391596403993175906"
+				"size" "4"
+				"download" "0"
+			}
+		}
+	}
+	"209825"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3194485471142706381"
+				"size" "4"
+				"download" "413411608"
+			}
+			"linux_initial_release"
+			{
+				"gid" "3194485471142706381"
+				"size" "4"
+				"download" "0"
+			}
+		}
+	}
+	"209826"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2902298679741921499"
+				"size" "4"
+				"download" "417605576"
+			}
+			"linux_initial_release"
+			{
+				"gid" "2902298679741921499"
+				"size" "4"
+				"download" "0"
+			}
+		}
+	}
+	"209828"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4610943139475535667"
+				"size" "10"
+				"download" "413414280"
+			}
+			"linux_initial_release"
+			{
+				"gid" "4610943139475535667"
+				"size" "10"
+				"download" "0"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "848157"
+		}
+		"linux_initial_release"
+		{
+			"buildid" "272425"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/XCOM - Enemy Unknown/XComGame/SaveData"
+			"pattern" "*"
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/XCOM - Enemy Within/XComGame/SaveData"
+			"pattern" "*"
+		}
+	}
+	"rootoverrides"
+	{
+		"1"
+		{
+			"os" "macos"
+			"oscompare" "="
+			"root" "WinMyDocuments"
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"1"
+				{
+					"find" "My Games/XCOM - Enemy Unknown/XComGame"
+					"replace" "Feral Interactive/XCOM Enemy Unknown"
+				}
+				"2"
+				{
+					"find" "My Games/XCOM - Enemy Within/XComGame"
+					"replace" "Feral Interactive/XCOM Enemy Unknown/XEW"
+				}
+			}
+		}
+		"2"
+		{
+			"os" "linux"
+			"oscompare" "="
+			"root" "WinMyDocuments"
+			"useinstead" "LinuxXdgDataHome"
+			"pathtransforms"
+			{
+				"1"
+				{
+					"find" "My Games/XCOM - Enemy Unknown/XComGame"
+					"replace" "feral-interactive/XCOM"
+				}
+				"2"
+				{
+					"find" "My Games/XCOM - Enemy Within/XComGame"
+					"replace" "feral-interactive/XCOM/XEW"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27104397"
+"_sha" "89bda22f48dda49f184e66412bf5b498831e731c"
+"_size" "28247"
