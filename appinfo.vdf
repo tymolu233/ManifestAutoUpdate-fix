@@ -1,0 +1,508 @@
+"appid" "848450"
+"common"
+{
+	"name" "Subnautica: Below Zero"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"clienttga" "feacde9fef08302b2213c153a6e77426215f62a2"
+	"clienticon" "c5fdeeb5223aa0e3641880fb36d441efe64bd238"
+	"icon" "eae16718327a78d87ac7ae61db96729926c97a16"
+	"clienticns" "de5e329945e31ccc5703ea6d665f5400ce0d2b88"
+	"logo" "b300892d3baea03721b90f611cb3b7ef94214e69"
+	"logo_small" "b300892d3baea03721b90f611cb3b7ef94214e69_thumb"
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"koreana" "서브노티카: 빌로우 제로"
+		"japanese" "サブノーティカ：ビロウゼロ"
+		"schinese" "深海迷航：冰点之下"
+		"tchinese" "深海迷航 : 氷點之下"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"greek" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "7212344"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"metacritic_name" "Subnautica Below Zero"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "38.95348837209298"
+			"height_pct" "39.52196627879363"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "38.95348837209298"
+				"height_pct" "39.52196627879363"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1621298603"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Unknown Worlds Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Unknown Worlds Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Subnautica"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_13" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"slovak"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1620965290"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "848450"
+	"store_tags"
+	{
+		"0" "1100689"
+		"1" "1662"
+		"2" "9157"
+		"3" "4182"
+		"4" "1695"
+		"5" "1667"
+		"6" "3834"
+		"7" "7332"
+		"8" "492"
+		"9" "21"
+		"10" "1702"
+		"11" "3839"
+		"12" "3859"
+		"13" "3978"
+		"14" "3942"
+		"15" "1673"
+		"16" "19"
+		"17" "1742"
+		"18" "4166"
+		"19" "3810"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Unknown Worlds Entertainment"
+	"publisher" "Unknown Worlds Entertainment"
+	"homepage" "https://unknownworlds.com/subnautica"
+}
+"config"
+{
+	"installdir" "SubnauticaZero"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SubnauticaZero.exe"
+			"arguments" "-silent-crashes -vrmode none"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "SubnauticaZero.app"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Subnautica32.exe"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"848451"
+	{
+	}
+	"848452"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3183944276780659315"
+				"size" "8476962971"
+				"download" "5086239360"
+			}
+			"legacy"
+			{
+				"gid" "5858598531166021852"
+				"size" "8477488845"
+				"download" "5086432192"
+			}
+			"experimental"
+			{
+				"gid" "6865983159363083859"
+				"size" "8477659061"
+				"download" "5086485280"
+			}
+		}
+	}
+	"848453"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4691675320476539755"
+				"size" "8555052849"
+				"download" "5097107312"
+			}
+			"legacy"
+			{
+				"gid" "7704406831107526497"
+				"size" "8555569958"
+				"download" "5097309968"
+			}
+			"experimental"
+			{
+				"gid" "8980192540215406816"
+				"size" "8555760366"
+				"download" "5097338208"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9582387"
+			"timeupdated" "1664921958"
+		}
+		"legacy"
+		{
+			"buildid" "9700925"
+			"description" "For maintaining a stable legacy build"
+			"timeupdated" "1665698882"
+		}
+		"experimental"
+		{
+			"buildid" "14907155"
+			"description" "Automatic daily updates. Lots of bugs!"
+			"timeupdated" "1719927383"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SNAppData/SavedGames"
+			"pattern" "*.*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" "SubnauticaZero.app/"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27498956"
+"_sha" "6c6209b6ac54560a28dad878be4c936fbf2f260a"
+"_size" "8852"
