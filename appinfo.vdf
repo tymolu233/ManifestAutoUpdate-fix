@@ -1,0 +1,95 @@
+"appid" "413770"
+"common"
+{
+	"name" "Project CARS 2 - Dedicated Server"
+	"type" "Tool"
+	"oslist" "windows,linux"
+	"osarch" ""
+	"clienttga" "8385c31f487ed34eae9642cdf6faccb7811eb261"
+	"clienticon" "22db1c301fac91cc7e1a4d01b53e1a89277ba5df"
+	"icon" "0e9ef2ec80716e0803b48f0d4b7029e7930f633f"
+	"logo" "efb77cfbb5b106e3f349459138adcabb84fadb04"
+	"logo_small" "efb77cfbb5b106e3f349459138adcabb84fadb04_thumb"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "413770"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Project CARS 2 - Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DedicatedServerCmd.exe"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"1"
+		{
+			"executable" "DedicatedServerCmd.elf"
+			"type" "server"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"413771"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3841047524484382032"
+				"size" "16676110"
+				"download" "5816496"
+			}
+		}
+	}
+	"413772"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6949647084115308692"
+				"size" "27450608"
+				"download" "8123792"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3175065"
+			"timeupdated" "1538473078"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "db616031f455d96b514320c87d370c1808c0c0af"
+"_size" "1485"
