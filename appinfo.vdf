@@ -1,0 +1,431 @@
+"appid" "582010"
+"common"
+{
+	"name" "Monster Hunter: World"
+	"type" "Game"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"clienticon" "2ac9a892c6a17fe17867bf7161fb933d72320cda"
+	"clienttga" "e25736b5c92ff557326e089ee82c50788748ef2d"
+	"icon" "6ec147f2d423f435e15eb79b3d82f771913de634"
+	"logo" "8ef10e37b602f50adce31f06d90396e76dbdbd74"
+	"logo_small" "8ef10e37b602f50adce31f06d90396e76dbdbd74_thumb"
+	"oslist" "windows"
+	"osarch" "64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "582010_eula_1"
+			"name" "Monster Hunter: World EULA"
+			"url" "https://store.steampowered.com//eula/582010_eula_1"
+			"version" "2"
+		}
+	}
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1697155200"
+		"tested_build_id" "11680249"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "seccomp,"
+		}
+	}
+	"metacritic_name" "Monster Hunter: World"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "49"
+			"height_pct" "44"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "49"
+				"height_pct" "44"
+			}
+		}
+	}
+	"store_asset_mtime" "1709234846"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CAPCOM Co., Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CAPCOM Co., Ltd."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Monster Hunter"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_15" "1"
+		"category_18" "1"
+		"category_33" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_25" "1"
+		"category_42" "1"
+		"category_61" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1533830220"
+	"metacritic_score" "88"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/monster-hunter-world\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "582010"
+	"store_tags"
+	{
+		"0" "1685"
+		"1" "3859"
+		"2" "19"
+		"3" "1695"
+		"4" "122"
+		"5" "4747"
+		"6" "1697"
+		"7" "21"
+		"8" "1684"
+		"9" "4026"
+		"10" "4231"
+		"11" "4182"
+		"12" "3834"
+		"13" "1756"
+		"14" "4711"
+		"15" "4166"
+		"16" "1646"
+		"17" "4434"
+		"18" "1754"
+		"19" "29482"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+	"review_score_bombs" "8"
+	"review_percentage_bombs" "88"
+}
+"extended"
+{
+	"developer" "CAPCOM Co., Ltd."
+	"publisher" "CAPCOM Co., Ltd."
+	"homepage" "http://www.monsterhunterworld.com/"
+	"aliases" "mhw"
+	"listofdlc" "601100,743980,759450,759451,759452,759453,759454,759455,761590,761591,761592,761593,761594,761595,761596,761597,761598,761599,762170,762171,762174,762176,762177,762178,762179,762910,762911,762912,762913,762914,762915,762916,762918,762919,763690,763691,763692,763693,763694,763695,763696,763697,763698,763699,770970,770972,770973,770974,770975,770976,770977,861870,861871,861872,891730,896580,960781,974300,974301,974302,996720,996721,996740,996741"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Monster Hunter World"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "MonsterHunterWorld.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamconfigurator3rdpartynative" "7"
+	"usemms" "1"
+	"matchmaking_uptodate" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1991143705"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"depotdeltapatches" "1"
+	"workshopdepot" "582010"
+	"hasdepotsindlc" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,arabic,brazilian,latam"
+	"582011"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2525674006025364114"
+				"size" "54986406857"
+				"download" "55424803296"
+			}
+			"local"
+			{
+				"gid" "7567777454855638397"
+				"size" "43698972628"
+				"download" "43418058656"
+			}
+		}
+	}
+	"582012"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"dlcappid" "960781"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5526886592091189537"
+				"size" "50644138247"
+				"download" "50836412032"
+			}
+		}
+	}
+	"582013"
+	{
+		"dlcappid" "1118011"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15539686"
+			"timeupdated" "1728259143"
+		}
+		"local"
+		{
+			"buildid" "4299913"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1571379521"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "314572800"
+	"maxnumfiles" "16"
+}
+"_missing_token" "False"
+"_change_number" "26998573"
+"_sha" "bcf6206deb7efa205377d02c71689918b23cbede"
+"_size" "8228"
