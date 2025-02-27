@@ -1,0 +1,227 @@
+"appid" "1012260"
+"common"
+{
+	"name" "Total War: THREE KINGDOMS - Assembly Kit BETA"
+	"section_type" "ownersonly"
+	"type" "Tool"
+	"clienticon" "4073fc72f7d6714d1487e74277e0cdda33a2e4a1"
+	"clienttga" "f6db08231a6dbf535f90b63bb4e7ab23f7bbc44e"
+	"icon" "6d5daf8094f04d2b19e1b0d51416ef1cccedbec5"
+	"releasestate" "released"
+	"metacritic_name" "Total War: THREE KINGDOMS - Assembly Kit BETA"
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "47.43431248304124"
+			"height_pct" "45.05834933968193"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "47.43431248304124"
+				"height_pct" "45.05834933968193"
+			}
+		}
+	}
+	"store_asset_mtime" "1573489692"
+	"associations"
+	{
+	}
+	"gameid" "1012260"
+}
+"config"
+{
+	"installdir" "Total War THREE KINGDOMS"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "assembly_kit\\binaries\\BOB.retail.x64.exe"
+			"workingdir" "assembly_kit\\binaries"
+			"description" "Exporter: BOB"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "assembly_kit\\binaries\\Tweak.retail.x64.exe"
+			"arguments" "/standalone TWaD"
+			"workingdir" "assembly_kit\\binaries"
+			"description" "Database Editor: Dave"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "assembly_kit\\binaries\\Tweak.retail.x64.exe"
+			"arguments" "/standalone TerrainMetadataEditor"
+			"workingdir" "assembly_kit\\binaries"
+			"description" "Battle Map Editor: Terry"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "assembly_kit\\binaries\\Tweak.retail.x64.exe"
+			"arguments" "/standalone VariantEditor"
+			"workingdir" "assembly_kit\\binaries"
+			"description" "Variant Editor"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1012261"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7740842633372216786"
+				"size" "1277526455"
+				"download" "407577264"
+			}
+			"old_1.5.2"
+			{
+				"gid" "3077465460941420091"
+				"size" "1129055628"
+				"download" "350874320"
+			}
+			"old_1.5.3"
+			{
+				"gid" "8925262826135981649"
+				"size" "1129086268"
+				"download" "350937360"
+			}
+			"old_1.6.1"
+			{
+				"gid" "7871511330460619773"
+				"size" "1086354525"
+				"download" "360523600"
+			}
+			"old_1.7.0"
+			{
+				"gid" "1611084354006841100"
+				"size" "1143425646"
+				"download" "369563376"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10789396"
+			"timeupdated" "1679670099"
+		}
+		"old_1.5.2"
+		{
+			"buildid" "4991006"
+			"timeupdated" "1592992863"
+		}
+		"old_1.5.3"
+		{
+			"buildid" "5089193"
+			"timeupdated" "1599131315"
+		}
+		"old_1.6.1"
+		{
+			"buildid" "5463060"
+			"description" "old_1.6.1"
+			"timeupdated" "1615365994"
+		}
+		"old_1.7.0"
+		{
+			"buildid" "6352650"
+			"description" "old_1.7.0"
+			"timeupdated" "1622109823"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27506490"
+"_sha" "dd8e49b20027f4be781b7046f316d3e79173455e"
+"_size" "4042"
