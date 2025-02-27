@@ -1,0 +1,623 @@
+"appid" "495420"
+"common"
+{
+	"name" "State of Decay 2"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienticon" "342f3a6a74eca98cf2cf294c05604fd27deef452"
+	"clienttga" "b17d23e5e1e9ae1df91167bf2139409b89f3e582"
+	"icon" "d6d418d682accfb51ee089ea506587c9c924989b"
+	"osextended" ""
+	"logo" "772be0b14bee10ad5d0775ee0a06a5b4e6c8bf25"
+	"logo_small" "772be0b14bee10ad5d0775ee0a06a5b4e6c8bf25_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"schinese" "1"
+		"russian" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1664928000"
+		"tested_build_id" "9546638"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "State Of Decay 2"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "20.41461916153517"
+			"height_pct" "45.04974647307936"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "20.41461916153517"
+				"height_pct" "45.04974647307936"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1695072234"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Undead Labs"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Xbox Game Studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "State of Decay"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_27" "1"
+		"category_13" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1584118440"
+	"metacritic_score" "69"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/state-of-decay-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "495420"
+	"store_tags"
+	{
+		"0" "1662"
+		"1" "1695"
+		"2" "1659"
+		"3" "7332"
+		"4" "3859"
+		"5" "1685"
+		"6" "3843"
+		"7" "3835"
+		"8" "599"
+		"9" "19"
+		"10" "122"
+		"11" "3810"
+		"12" "1697"
+		"13" "4182"
+		"14" "4345"
+		"15" "1667"
+		"16" "1759"
+		"17" "4667"
+		"18" "4711"
+		"19" "4166"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"onquitdemomsg" "https://steamstore-a.akamaihd.net/message/5441173700729711860/"
+	"developer" "Undead Labs"
+	"publisher" "Xbox Game Studios"
+	"homepage" "https://www.stateofdecay.com"
+	"gamemanualurl" "https://store.steampowered.com/manual/495420/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "StateOfDecay2"
+	"usemms" "1"
+	"verifyupdates" "1"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2.exe"
+			"arguments" "-SteamBranch=main -steamlaunch"
+			"description" "Development"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "main"
+			}
+		}
+		"2"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Test.exe"
+			"arguments" "-SteamBranch=main-Test -steamlaunch"
+			"description" "Test"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "main"
+			}
+		}
+		"3"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Shipping.exe"
+			"arguments" "-SteamBranch=main-Shipping -steamlaunch"
+			"description" "Shipping"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "main"
+			}
+		}
+		"4"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2.exe"
+			"arguments" "-SteamBranch=demo -steamlaunch"
+			"description" "Development"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "demo"
+			}
+		}
+		"5"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Test.exe"
+			"arguments" "-SteamBranch=demo-Test -steamlaunch"
+			"description" "Test"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "demo"
+			}
+		}
+		"6"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Shipping.exe"
+			"arguments" "-SteamBranch=demo-Shipping -steamlaunch"
+			"description" "Shipping"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "demo"
+			}
+		}
+		"10"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Test.exe"
+			"arguments" "-SteamBranch=playtest-Test -AllowNewerSaves -steamlaunch"
+			"description" "StateOfDecay2-Win64-Test.exe (Pick Me!)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "playtest"
+			}
+		}
+		"11"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2.exe"
+			"arguments" "-steamlaunch"
+			"description" "Stage-Dev"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "stage"
+			}
+		}
+		"12"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Test.exe"
+			"arguments" "-steamlaunch"
+			"description" "Stage-Test"
+			"type" "option2"
+			"config"
+			{
+				"betakey" "stage"
+			}
+		}
+		"13"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Shipping.exe"
+			"arguments" "-steamlaunch"
+			"description" "Stage-Shipping"
+			"type" "option3"
+			"config"
+			{
+				"betakey" "stage"
+			}
+		}
+		"14"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Shipping.exe"
+			"arguments" "-steamlaunch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"15"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2.exe"
+			"arguments" "-SteamBranch=bugbase -steamlaunch"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "bugbase"
+			}
+			"description_loc"
+			{
+				"english" "Development"
+			}
+			"description" "Development"
+		}
+		"16"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Test.exe"
+			"arguments" "-SteamBranch=bugbase-Test -steamlaunch"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "bugbase"
+			}
+			"description_loc"
+			{
+				"english" "Test"
+			}
+			"description" "Test"
+		}
+		"17"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Shipping.exe"
+			"arguments" "-SteamBranch=bugbase-Shipping -steamlaunch"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "bugbase"
+			}
+			"description_loc"
+			{
+				"english" "Shipping"
+			}
+			"description" "Shipping"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"1329432380"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "demo,main,release"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,schinese,russian,brazilian,latam"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"495422"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "440247711752488453"
+				"size" "21638659113"
+				"download" "17965645728"
+			}
+			"labtech_beta"
+			{
+				"gid" "3027407082534378225"
+				"size" "21646539086"
+				"download" "17972421632"
+			}
+		}
+	}
+	"495423"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9135075435278811908"
+				"size" "117309111"
+				"download" "109527120"
+			}
+			"labtech_beta"
+			{
+				"gid" "9135075435278811908"
+				"size" "117309111"
+				"download" "109527120"
+			}
+		}
+	}
+	"495421"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5656411397578746578"
+				"size" "0"
+				"download" "0"
+			}
+			"labtech_beta"
+			{
+				"gid" "5656411397578746578"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"495424"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8754529441163365377"
+				"size" "0"
+				"download" "0"
+			}
+			"labtech_beta"
+			{
+				"gid" "8754529441163365377"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16535856"
+			"timeupdated" "1732615060"
+		}
+		"labtech_beta"
+		{
+			"buildid" "14920014"
+			"description" "Public Test Realm (en-US)"
+			"timeupdated" "1720015778"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "StateOfDecay2\\Saved\\SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "StateOfDecay2/Saved/Steam/{64BitSteamID}"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27676726"
+"_sha" "6711aebcb4bc77fffe0696b5595bd20b86e97cd4"
+"_size" "11802"
