@@ -1,0 +1,305 @@
+"appid" "926140"
+"common"
+{
+	"name" "CHANGE: A Homeless Survival Experience"
+	"type" "Game"
+	"logo" "a1e741ab189ead2518587e62a3acbb4c65db2524"
+	"logo_small" "a1e741ab189ead2518587e62a3acbb4c65db2524_thumb"
+	"icon" "022d0fcb1ca45d77b12bdfec84a4ed85a595870f"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"clienttga" "766088845584b832b9a21163b64cd834c96ce4f8"
+	"clienticon" "2a07fc0d7912bf37bd1a769442d704cc2f36b813"
+	"releasestate" "released"
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"turkish" "CHANGE: Evsiz Biri Olarak Hayatta Kalma Deneyimi"
+		"german" "CHANGE: Überleben in der Obdachlosigkeit"
+		"schinese" "CHANGE：无家可归的生存体验"
+		"russian" "CHANGE: попробуйте выжить на улице"
+		"spanish" "CHANGE: Una Experiencia De Supervivencia En La Calle"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"metacritic_name" "CHANGE: A Homeless Survival Experience"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1649947034"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Delve Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Delve Interactive"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+		"5" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1588353126"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "926140"
+	"store_tags"
+	{
+		"0" "4486"
+		"1" "16689"
+		"2" "3959"
+		"3" "10235"
+		"4" "1716"
+		"5" "4747"
+		"6" "122"
+		"7" "9"
+		"8" "3871"
+		"9" "1654"
+		"10" "6426"
+		"11" "9592"
+		"12" "6971"
+		"13" "5125"
+		"14" "1742"
+		"15" "1695"
+		"16" "12472"
+		"17" "4853"
+		"18" "6378"
+		"19" "1662"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Delve Interactive"
+	"publisher" "Delve Interactive"
+	"homepage" "https://www.delveinteractive.com/"
+	"listofdlc" "1845520"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "CHANGE A Homeless Survival Experience"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CHANGE.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Contents\\MacOS\\CHANGE"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "CHANGE.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"926141"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3266805651036766136"
+				"size" "1186397485"
+				"download" "573775808"
+			}
+		}
+	}
+	"926142"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3887580013357328325"
+				"size" "1208121380"
+				"download" "578521376"
+			}
+		}
+	}
+	"926143"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3681247477012625912"
+				"size" "1238335270"
+				"download" "578391968"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16776173"
+			"timeupdated" "1734455397"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "50"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SavesDir"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26681681"
+"_sha" "7db9e1d640757aae7f81f7284e39203193e59106"
+"_size" "4964"
