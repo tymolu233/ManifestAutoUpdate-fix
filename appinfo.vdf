@@ -1,0 +1,809 @@
+"appid" "933820"
+"common"
+{
+	"name" "Endzone - A World Apart"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "4c4a28f944939ea7b978344302924036be3f236d"
+	"logo_small" "4c4a28f944939ea7b978344302924036be3f236d_thumb"
+	"clienticon" "11547baba50cea7a46ea82bb43739bb5308c021c"
+	"clienttga" "f405151f8ad10733563efbd436d9be1fc651c8ae"
+	"icon" "b797c30140dc1e0279af07a0e7ff867b0a36a8d7"
+	"clienticns" "3bd957e98c80f14fd68e3997e0fab8eae25b6674"
+	"linuxclienticon" "0f92ec4d33e8695fb8af39b2fa9003e7e7f4749d"
+	"releasestate" "released"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "末日地带：与世隔绝"
+		"tchinese" "末日地帶：與世隔絕"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1670457600"
+		"tested_build_id" "9939520"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Endzone: A World Apart"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "45.55073464541693"
+			"height_pct" "64.30685138655645"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "45.55073464541693"
+				"height_pct" "64.30685138655645"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729002135"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Gentlymad Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Assemble Entertainment"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "WhisperGames"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Assemble Entertainment"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_13" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1616085120"
+	"metacritic_score" "72"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/endzone-a-world-apart\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "933820"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "1662"
+		"2" "9"
+		"3" "3835"
+		"4" "599"
+		"5" "7332"
+		"6" "492"
+		"7" "220585"
+		"8" "1643"
+		"9" "3810"
+		"10" "12472"
+		"11" "4182"
+		"12" "8945"
+		"13" "4695"
+		"14" "4161"
+		"15" "4026"
+		"16" "5125"
+		"17" "4175"
+		"18" "4166"
+		"19" "493"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "Gentlymad Studios"
+	"publisher" "Assemble Entertainment"
+	"homepage" "https://gentlymad.org/"
+	"listofdlc" "1632320,1751430,1883650"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Endzone - A World Apart"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Endzone.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Endzone.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2779979887"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,community-preview,dev-build,experimental,ext_testing,internal_testing,prototype,supersecret"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"933821"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3137028759674938930"
+				"size" "3627317030"
+				"download" "1586092768"
+			}
+			"deck_desktopversion"
+			{
+				"gid" "5831264570100730722"
+				"size" "3580651662"
+				"download" "1567174256"
+			}
+		}
+	}
+	"933822"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7667132536616973034"
+				"size" "7214746332"
+				"download" "4197869648"
+			}
+			"deck_desktopversion"
+			{
+				"gid" "7667132536616973034"
+				"size" "7214746332"
+				"download" "4197869648"
+			}
+		}
+	}
+	"933823"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3312023727243555645"
+				"size" "672532951"
+				"download" "655737312"
+			}
+			"deck_desktopversion"
+			{
+				"gid" "3049121827665827723"
+				"size" "672528262"
+				"download" "655736272"
+			}
+		}
+	}
+	"933824"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6128295516575631459"
+				"size" "640347534"
+				"download" "629983312"
+			}
+			"deck_desktopversion"
+			{
+				"gid" "8514674602065000795"
+				"size" "640342881"
+				"download" "629982272"
+			}
+		}
+	}
+	"933825"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7055711946865045801"
+				"size" "675011690"
+				"download" "662738704"
+			}
+			"deck_desktopversion"
+			{
+				"gid" "7520236751027640552"
+				"size" "675004458"
+				"download" "662737696"
+			}
+		}
+	}
+	"933826"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1737227223914017215"
+				"size" "674361835"
+				"download" "662678912"
+			}
+			"deck_desktopversion"
+			{
+				"gid" "5466788846340332285"
+				"size" "674357138"
+				"download" "662677808"
+			}
+		}
+	}
+	"933827"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9122962830382575401"
+				"size" "672668685"
+				"download" "655968896"
+			}
+			"deck_desktopversion"
+			{
+				"gid" "4282959233111234330"
+				"size" "672663214"
+				"download" "655967856"
+			}
+		}
+	}
+	"933828"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8240608417395743646"
+				"size" "674710161"
+				"download" "662696768"
+			}
+			"deck_desktopversion"
+			{
+				"gid" "3003100435564307408"
+				"size" "674704092"
+				"download" "662695680"
+			}
+		}
+	}
+	"933829"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "304774381500492953"
+				"size" "674620012"
+				"download" "662683632"
+			}
+			"deck_desktopversion"
+			{
+				"gid" "2831437172717178803"
+				"size" "674614604"
+				"download" "662682640"
+			}
+		}
+	}
+	"1311270"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+	}
+	"1311271"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5138142478440324081"
+				"size" "674569958"
+				"download" "662660032"
+			}
+			"deck_desktopversion"
+			{
+				"gid" "4826612007613911710"
+				"size" "674564369"
+				"download" "662658944"
+			}
+		}
+	}
+	"1311272"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6544249587750199155"
+				"size" "674517963"
+				"download" "662694192"
+			}
+			"deck_desktopversion"
+			{
+				"gid" "7099582477658733217"
+				"size" "674512506"
+				"download" "662692992"
+			}
+		}
+	}
+	"1632320"
+	{
+		"dlcappid" "1632320"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1336741365041370931"
+				"size" "390424722"
+				"download" "225548896"
+			}
+			"deck_desktopversion"
+			{
+				"gid" "1336741365041370931"
+				"size" "390424722"
+				"download" "225548896"
+			}
+		}
+	}
+	"1311273"
+	{
+		"dlcappid" "1632320"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "433376356927855472"
+				"size" "424260736"
+				"download" "213495168"
+			}
+			"deck_desktopversion"
+			{
+				"gid" "433376356927855472"
+				"size" "424260736"
+				"download" "213495168"
+			}
+		}
+	}
+	"1751430"
+	{
+		"dlcappid" "1751430"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7166099075385720680"
+				"size" "19707744"
+				"download" "10786000"
+			}
+			"deck_desktopversion"
+			{
+				"gid" "7166099075385720680"
+				"size" "19707744"
+				"download" "10786000"
+			}
+		}
+	}
+	"1311274"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"dlcappid" "1751430"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "10712158687200528"
+				"size" "26542526"
+				"download" "14817168"
+			}
+			"deck_desktopversion"
+			{
+				"gid" "10712158687200528"
+				"size" "26542526"
+				"download" "14817168"
+			}
+		}
+	}
+	"1883650"
+	{
+		"dlcappid" "1883650"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6466997423302624921"
+				"size" "1645354425"
+				"download" "852589824"
+			}
+			"deck_desktopversion"
+			{
+				"gid" "7689139370129855408"
+				"size" "1645350307"
+				"download" "850966112"
+			}
+		}
+	}
+	"1311275"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"dlcappid" "1883650"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5018300945071973627"
+				"size" "923700879"
+				"download" "471914240"
+			}
+			"deck_desktopversion"
+			{
+				"gid" "5018300945071973627"
+				"size" "923700879"
+				"download" "471914240"
+			}
+		}
+	}
+	"1311276"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"steamdeck" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3231566462783903220"
+				"size" "3646905936"
+				"download" "1591027088"
+			}
+			"deck_desktopversion"
+			{
+				"gid" "638582139279065476"
+				"size" "7936110613"
+				"download" "4900765872"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11976568"
+			"timeupdated" "1692726591"
+		}
+		"deck_desktopversion"
+		{
+			"buildid" "10806286"
+			"description" "desktopversion for the deck"
+			"timeupdated" "1679250990"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Gentlymad Studios/Endzone/savegame"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Gentlymad Studios/Endzone/savegame"
+					"replace" "Gentlymad Studios/Endzone/savegame"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Gentlymad Studios/Endzone/savegame"
+					"replace" ".config/unity3d/Gentlymad Studios/Endzone/savegame"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27004373"
+"_sha" "8864bf9090be00135a7dbae8b2deefa3d8ac8193"
+"_size" "13507"
