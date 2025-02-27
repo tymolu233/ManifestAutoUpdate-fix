@@ -1,0 +1,592 @@
+"appid" "1030210"
+"common"
+{
+	"name" "Torchlight III"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "39a396d38ac7e03949e11236e4d8a23dfa4dd51d"
+	"logo_small" "39a396d38ac7e03949e11236e4d8a23dfa4dd51d_thumb"
+	"icon" "81c112dc827199675e59a686b35f8215b93aa4b1"
+	"clienticon" "4605f984c2165d82af497228f3c2368277ae9883"
+	"clienttga" "6d3c6dd5bd35c6d86e3e83f5496de78591718960"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1030210_eula_0"
+			"name" "Torchlight III EULA"
+			"url" "https://store.steampowered.com//eula/1030210_eula_0"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1651795200"
+		"tested_build_id" "6655570"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1602600717"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Echtra Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Arc Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Torchlight"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1602597120"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1030210"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "21"
+		"2" "1646"
+		"3" "19"
+		"4" "4236"
+		"5" "4231"
+		"6" "1720"
+		"7" "3843"
+		"8" "5851"
+		"9" "1685"
+		"10" "3859"
+		"11" "4182"
+		"12" "1684"
+		"13" "7481"
+		"14" "493"
+		"15" "1777"
+		"16" "1695"
+		"17" "4747"
+	}
+	"review_score" "5"
+	"review_percentage" "46"
+}
+"extended"
+{
+	"developer" "Echtra Inc."
+	"publisher" "Arc Games"
+	"homepage" "https://www.torchlight3.com"
+	"listofdlc" "1337370,1358460,1358461"
+}
+"config"
+{
+	"installdir" "Torchlight III"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Frontiers.exe"
+			"arguments" "-tl.environment=tl3"
+			"description" "Torchlight III"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "default"
+			}
+		}
+		"1"
+		{
+			"executable" "Frontiers.exe"
+			"arguments" "-tl.environment=dev"
+			"description" "Torchlight III (release-shipping)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "release-shipping"
+			}
+		}
+		"2"
+		{
+			"executable" "Frontiers.exe"
+			"arguments" "-tl.environment=dev"
+			"description" "Torchlight III (release-test)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "release-test"
+			}
+		}
+		"3"
+		{
+			"executable" "Frontiers.exe"
+			"arguments" "-tl.environment=ptr"
+			"description" "Torchlight III (preview)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "preview"
+			}
+		}
+		"4"
+		{
+			"executable" "Frontiers.exe"
+			"arguments" "-tl.environment=tl3"
+			"description" "Torchlight III (live-mirror)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "live-mirror"
+			}
+		}
+		"5"
+		{
+			"executable" "Frontiers.exe"
+			"arguments" "-tl.environment=ptr"
+			"description" "Torchlight III (preview-test)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "preview-test"
+			}
+		}
+		"6"
+		{
+			"executable" "Frontiers.exe"
+			"arguments" "-tl.environment=dev"
+			"description" "Torchlight III (mainline-shipping)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "mainline-shipping"
+			}
+		}
+		"7"
+		{
+			"executable" "Frontiers.exe"
+			"arguments" "-tl.environment=dev"
+			"description" "Torchlight III (mainline-test)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "mainline-test"
+			}
+		}
+		"8"
+		{
+			"executable" "Frontiers.exe"
+			"arguments" "-tl.environment=dev"
+			"description" "Torchlight III (mainline-dev)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "mainline-dev"
+			}
+		}
+		"9"
+		{
+			"executable" "Frontiers.exe"
+			"arguments" "-tl.environment=dev"
+			"description" "Torchlight III (playtest)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "playtest"
+			}
+		}
+		"10"
+		{
+			"executable" "Frontiers.exe"
+			"arguments" "-tl.environment=test"
+			"description" "Torchlight III (test-server)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "test-server"
+			}
+		}
+		"11"
+		{
+			"executable" "Frontiers.exe"
+			"arguments" "-tl.environment=dev"
+			"description" "Torchlight III (special)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "special"
+			}
+		}
+		"12"
+		{
+			"executable" "Frontiers.exe"
+			"arguments" "-tl.environment=cert"
+			"description" "Torchlight III (cert-server)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "cert-server"
+			}
+		}
+		"13"
+		{
+			"executable" "Frontiers.exe"
+			"arguments" "-tl.environment=dev"
+			"description" "Torchlight III (hotfix-shipping)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hotfix-shipping"
+			}
+		}
+		"14"
+		{
+			"executable" "Frontiers.exe"
+			"arguments" "-tl.environment=dev"
+			"description" "Torchlight III (hotfix-test)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hotfix-test"
+			}
+		}
+		"15"
+		{
+			"executable" "Frontiers.exe"
+			"arguments" "-tl.environment=ptr"
+			"description" "Torchlight III (Public Test Realm)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "public-test-realm"
+			}
+		}
+		"16"
+		{
+			"executable" "Frontiers.exe"
+			"arguments" "-tl.environment=tl3"
+			"description" "Torchlight III (AMD-Test)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "amd-test"
+			}
+		}
+		"17"
+		{
+			"executable" "Frontiers.exe"
+			"arguments" "-tl.environment=dev"
+			"description" "Torchlight III (Developers Playground)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "developer"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2265974161"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1030211"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "79459445296839775"
+				"size" "6564044493"
+				"download" "6273783008"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6655570"
+			"timeupdated" "1621965596"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "32768000"
+	"maxnumfiles" "2048"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Frontiers/Saved/SaveGames"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26900824"
+"_sha" "d8b03e06c446e08adfb78a6f9de3197de6074cfe"
+"_size" "10782"
