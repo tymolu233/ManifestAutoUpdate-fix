@@ -1,0 +1,379 @@
+"appid" "1192010"
+"common"
+{
+	"name" "Open Country"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "e20e8bb4f46f0d1510e0c271a4bd267e2143645f"
+	"clienttga" "e4670430716261822fe20c53b995ddf0498cd278"
+	"icon" "a55d9f07aa2733a489ce5f4fbc9437afde634fdd"
+	"logo" "70d73652eec8762550b2d08f436e478f6a6b8622"
+	"logo_small" "70d73652eec8762550b2d08f436e478f6a6b8622_thumb"
+	"name_localized"
+	{
+		"koreana" "오픈 컨트리 Open Country"
+		"tchinese" "遼闊荒野 Open Country"
+		"schinese" "《辽阔旷野》Open Country"
+		"japanese" "Open Country"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1650499200"
+		"tested_build_id" "7126555"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "93.96352265568702"
+			"height_pct" "93.59104803847096"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "93.96352265568702"
+				"height_pct" "93.59104803847096"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1623339994"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "FUN Labs"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "505 Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "505 Games Official"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_38" "1"
+		"category_28" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1623336924"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1192010"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "599"
+		"2" "1695"
+		"3" "1662"
+		"4" "3834"
+		"5" "3859"
+		"6" "4106"
+		"7" "1100689"
+		"8" "9564"
+		"9" "1685"
+		"10" "5900"
+		"11" "1697"
+		"12" "3843"
+		"13" "9204"
+		"14" "4182"
+	}
+	"review_score" "4"
+	"review_percentage" "36"
+}
+"extended"
+{
+	"developer" "FUN Labs"
+	"publisher" "505 Games"
+	"homepage" "http://www.opencountrygame.com"
+}
+"config"
+{
+	"installdir" "OpenCountry"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "OutdoorAdventures/Binaries/Win64/OutdoorAdventures.exe"
+			"type" "default"
+		}
+	}
+	"steamconfigurator3rdpartynative" "3"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1192011"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6776819413323136965"
+				"size" "18608448413"
+				"download" "8660177696"
+			}
+		}
+	}
+	"1192013"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8768382997070442619"
+				"size" "19431396253"
+				"download" "8784735584"
+			}
+		}
+	}
+	"1192014"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2132402192195508040"
+				"size" "19431396253"
+				"download" "8780806688"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7126555"
+			"timeupdated" "1629302779"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "100"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "SteamCloudDocuments"
+			"path" "SavesDir"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27363922"
+"_sha" "6c481b7c875a5cdfe983b34ed28d5e987e85d77b"
+"_size" "6369"
