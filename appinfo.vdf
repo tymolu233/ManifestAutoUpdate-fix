@@ -1,0 +1,147 @@
+"appid" "728470"
+"common"
+{
+	"name" "ASTRONEER Dedicated Server"
+	"type" "Tool"
+	"parent" "361420"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienttga" "136ef74f5485c687ab9185c1fb9c63624fdd07ef"
+	"clienticon" "29a46bb1cc0cae5076b66b9915c1c170c3696080"
+	"icon" "18ef632a152a69a8fb4f62c074cd50aa15d3bf33"
+	"logo" "baf5219a4a1add9497e81c1ed4b513949c8e51a7"
+	"logo_small" "baf5219a4a1add9497e81c1ed4b513949c8e51a7_thumb"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "728470"
+}
+"config"
+{
+	"installdir" "ASTRONEER Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "AstroServer.exe"
+			"type" "default"
+			"config"
+			{
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "AstroServer.exe"
+			"description" "Accept connections"
+			"type" "server"
+			"config"
+			{
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"728471"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "244906839069121212"
+				"size" "2404061178"
+				"download" "2283047488"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17343214"
+			"timeupdated" "1740600836"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27693242"
+"_sha" "795158df7f52a9324088cebb4e8c557c96089f0b"
+"_size" "2149"
