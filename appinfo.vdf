@@ -1,0 +1,285 @@
+"appid" "585020"
+"common"
+{
+	"name" "Big Bia"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "ab48d71bf246d965998965254f26851cea1bb71b"
+	"logo_small" "ab48d71bf246d965998965254f26851cea1bb71b_thumb"
+	"icon" "fa9d89c299ddcb40601ba895c63b001279cfa820"
+	"clienticon" "6eddbf696a1ce6b60fcda61b3f8303ceb7794f11"
+	"clienttga" "fbc315a4e3f6803a159d16b29f321914caad5efc"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "宇宙大拍扁"
+		"english" "Big Bia"
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "42.32558139534882"
+			"height_pct" "67.32367608644027"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "42.32558139534882"
+				"height_pct" "67.32367608644027"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1673428145"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pixel House Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "INDIECN"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_51" "1"
+		"category_30" "1"
+		"category_25" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1654844880"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "585020"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "3959"
+		"2" "4325"
+		"3" "1716"
+		"4" "1732"
+		"5" "1666"
+		"6" "1770"
+		"7" "597"
+		"8" "791774"
+		"9" "4191"
+		"10" "3993"
+		"11" "4182"
+		"12" "13782"
+		"13" "1741"
+		"14" "493"
+		"15" "1676"
+		"16" "17389"
+		"17" "492"
+	}
+	"review_score" "6"
+	"review_percentage" "71"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"developer" "Pixel House Games"
+	"publisher" "INDIECN"
+	"listofdlc" "2053810"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Big Bia"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Big Bia.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"workshopdepot" "585020"
+	"hasdepotsindlc" "0"
+	"585021"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8069652957164955546"
+				"size" "927492136"
+				"download" "208906224"
+			}
+			"bigbia_classical"
+			{
+				"gid" "1383645754379261023"
+				"size" "701965385"
+				"download" "204681152"
+			}
+		}
+	}
+	"2053810"
+	{
+		"dlcappid" "2053810"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "669543403559561283"
+				"size" "2051"
+				"download" "1328"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9415380"
+			"timeupdated" "1661857852"
+		}
+		"bigbia_classical"
+		{
+			"buildid" "7278726"
+			"description" "上古版本"
+			"timeupdated" "1654774162"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "DefaultCompany/Big Bia"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "DefaultCompany/Big Bia"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "DefaultCompany/BigBia"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "cd27752f8b140afe59f5cdd7b2be3e5fa957fe6b"
+"_size" "4741"
