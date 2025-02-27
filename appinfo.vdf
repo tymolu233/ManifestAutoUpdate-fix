@@ -1,0 +1,512 @@
+"appid" "548570"
+"common"
+{
+	"name" "RAGE 2"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "36052f09e2e97dfeb84adcce5c8f4178a09f96c2"
+	"clienttga" "6947e6487ff77edaf724df5d756275361b6dc5ef"
+	"icon" "42046dcd77862072d679fc165a417e207d15b061"
+	"logo" "46398067676852fd93172c2e000e12119e3e907d"
+	"logo_small" "46398067676852fd93172c2e000e12119e3e907d_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "548570_eula_0"
+			"name" "RAGE 2 EULA"
+			"url" "https://store.steampowered.com//eula/548570_eula_0"
+			"version" "6"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1644537600"
+		"tested_build_id" "4366145"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Rage 2"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "50"
+			"height_pct" "54.166666666666664"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "50"
+				"height_pct" "54.166666666666664"
+			}
+		}
+	}
+	"store_asset_mtime" "1576597855"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "id Software"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Avalanche Studios"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Bethesda Softworks"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "RAGE"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_13" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1557817200"
+	"steam_release_date" "1557792000"
+	"metacritic_score" "73"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/rage-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "548570"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1663"
+		"2" "1695"
+		"3" "3835"
+		"4" "11104"
+		"5" "1100687"
+		"6" "4182"
+		"7" "4345"
+		"8" "1774"
+		"9" "4667"
+		"10" "3839"
+		"11" "3859"
+		"12" "5228"
+		"13" "4136"
+		"14" "3834"
+		"15" "3942"
+		"16" "21"
+		"17" "4115"
+		"18" "699"
+		"19" "3810"
+	}
+	"review_score" "5"
+	"review_percentage" "62"
+}
+"extended"
+{
+	"developer" "id Software"
+	"publisher" "Bethesda Softworks"
+	"homepage" "https://bethesda.net/en/game/rage2"
+	"listofdlc" "1054920,1054921,1067980"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "RAGE 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RAGE2.exe"
+			"description" "Main build launcher"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "RAGE2.exe"
+			"description" "Unstable RAGE2 "
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "unstable"
+			}
+		}
+		"2"
+		{
+			"executable" "RAGE2_R.exe"
+			"description" "Unstable RAGE2 Release"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "unstable"
+			}
+		}
+		"3"
+		{
+			"executable" "RAGE2_P.exe"
+			"description" "Unstable RAGE2 Profile"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "unstable"
+			}
+		}
+		"4"
+		{
+			"executable" "RAGE2.exe"
+			"description" "Patch Day 30 RAGE2"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "patch_d30"
+			}
+		}
+		"5"
+		{
+			"executable" "RAGE2_P.exe"
+			"description" "Patch Day 30 RAGE2 Profile"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "patch_d30"
+			}
+		}
+		"6"
+		{
+			"executable" "RAGE2_R.exe"
+			"description" "Patch Day 30 RAGE2 Release"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "patch_d30"
+			}
+		}
+		"7"
+		{
+			"executable" "RAGE2.exe"
+			"description" "Patch Day 60 RAGE2"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "patch_d60"
+			}
+		}
+		"8"
+		{
+			"executable" "RAGE2_P.exe"
+			"description" "Patch Day 60 RAGE2 Profile"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "patch_d60"
+			}
+		}
+		"9"
+		{
+			"executable" "RAGE2_R.exe"
+			"description" "Patch Day 60 RAGE2 Release"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "patch_d60"
+			}
+		}
+		"10"
+		{
+			"executable" "RAGE2.exe"
+			"description" "Patch DLC RAGE2"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "patch_dlc, patch_dlc_alpha, patch_dlc_beta, patch_dlc2, patch_dlc2_alpha, patch_dlc2_beta, patch_dlc2_hotfix"
+			}
+		}
+		"11"
+		{
+			"executable" "RAGE2_P.exe"
+			"description" "Patch DLC RAGE2 Profile"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "patch_dlc, patch_dlc_alpha, patch_dlc_beta, patch_dlc2, patch_dlc2_alpha, patch_dlc2_beta, patch_dlc2_hotfix"
+			}
+		}
+		"12"
+		{
+			"executable" "RAGE2_R.exe"
+			"description" "Patch DLC RAGE2 Release"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "patch_dlc, patch_dlc_alpha, patch_dlc_beta, patch_dlc2, patch_dlc2_alpha, patch_dlc2_beta, patch_dlc2_hotfix"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"548572"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "897964294657539321"
+				"size" "47553053165"
+				"download" "41309181616"
+			}
+		}
+	}
+	"548573"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4030783075575778576"
+				"size" "1219209208"
+				"download" "196843600"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12751774"
+			"timeupdated" "1726585229"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "256000000"
+	"maxnumfiles" "64"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "id Software/Rage 2/Saves"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27008604"
+"_sha" "307eb466dedd96433f087c6cc3745e96f29bc3dc"
+"_size" "9094"
