@@ -1,0 +1,647 @@
+"appid" "434650"
+"common"
+{
+	"name" "Lost Castle"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"logo" "01ec38bd5b3c45b73d60870383c166b8ea3bb601"
+	"logo_small" "01ec38bd5b3c45b73d60870383c166b8ea3bb601_thumb"
+	"icon" "8462ea7ace0444710f30a8681714b57a4a7643d6"
+	"clienttga" "04d322c3d1a73dd3a285b9aa256495ef71b971d4"
+	"clienticon" "b0097c72355dbf2c4db63b7fab98342cfa213ffc"
+	"clienticns" "854e0469c518c8b43477b8f58bd6582e1a67d622"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"name_localized"
+	{
+		"sc_schinese" "失落城堡"
+	}
+	"releasestatesteamchina" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1655251200"
+		"tested_build_id" "7315828"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Lost Castle"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"sc_schinese" "header_sc_schinese.jpg"
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-xc,en"
+		"library_hero" "en,zh-xc"
+		"library_logo" "en,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "72.58530672697833"
+			"height_pct" "83.92114660660344"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"sc_schinese" "library_hero_sc_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "72.58530672697833"
+				"height_pct" "83.92114660660344"
+			}
+			"image2x"
+			{
+				"sc_schinese" "logo_sc_schinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1726798689"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Hunter Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Neon Doctrine"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Neon Doctrine"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Lost Castle"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1472691300"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "434650"
+	"store_tags"
+	{
+		"0" "4840"
+		"1" "42804"
+		"2" "4158"
+		"3" "3798"
+		"4" "1720"
+		"5" "3959"
+		"6" "1646"
+		"7" "3859"
+		"8" "1716"
+		"9" "1775"
+		"10" "6730"
+		"11" "4026"
+		"12" "122"
+		"13" "3871"
+		"14" "7368"
+		"15" "4231"
+		"16" "4236"
+		"17" "6971"
+		"18" "4305"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"gamedir" "LostCastle"
+	"serverbrowsername" "Lost Castle Browser"
+	"developer" "Hunter Studio"
+	"publisher" "Neon Doctrine"
+	"listofdlc" "1415420"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Lost Castle"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Lost_Castle.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"realm" "steamchina"
+			}
+		}
+		"1"
+		{
+			"executable" "Lost_Castle.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"5"
+		{
+			"executable" "EOSBootstrapper.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"realm" "steamglobal"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollerconfigfileids" "197127737"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1862305852"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default,steam_china_only"
+			"use_action_block" "false"
+			"has_localization_schinese" "1"
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,spanish,schinese,russian,japanese"
+	"434651"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5881653720638449823"
+				"size" "2354596493"
+				"download" "289667248"
+			}
+			"default_backup"
+			{
+				"gid" "5102354873549090267"
+				"size" "1605645055"
+				"download" "235099552"
+			}
+		}
+	}
+	"434652"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4218522937103658672"
+				"size" "2336677309"
+				"download" "284855664"
+			}
+			"default_backup"
+			{
+				"gid" "1690170400501777330"
+				"size" "2337585647"
+				"download" "284967520"
+			}
+		}
+	}
+	"434653"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6883244826974776485"
+				"size" "2354596493"
+				"download" "289656288"
+			}
+			"default_backup"
+			{
+				"gid" "1906515668500611424"
+				"size" "2355505343"
+				"download" "289768832"
+			}
+		}
+	}
+	"434654"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4958110972766102810"
+				"size" "2336677309"
+				"download" "284844704"
+			}
+			"default_backup"
+			{
+				"gid" "4115331712468801492"
+				"size" "2337585647"
+				"download" "284956496"
+			}
+		}
+	}
+	"434655"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4235097331883403552"
+				"size" "2394593665"
+				"download" "301376352"
+			}
+			"default_backup"
+			{
+				"gid" "4453208805097825381"
+				"size" "2395471113"
+				"download" "301489088"
+			}
+		}
+	}
+	"434656"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6851217793287486540"
+				"size" "2394593665"
+				"download" "301374000"
+			}
+			"default_backup"
+			{
+				"gid" "361922679345966849"
+				"size" "2395471113"
+				"download" "301482608"
+			}
+		}
+	}
+	"434657"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9104478769012973093"
+				"size" "2394593665"
+				"download" "301374000"
+			}
+			"default_backup"
+			{
+				"gid" "5243663959610105895"
+				"size" "2395471113"
+				"download" "301482608"
+			}
+		}
+	}
+	"434658"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7581417376513178719"
+				"size" "1623828860"
+				"download" "231126912"
+			}
+			"default_backup"
+			{
+				"gid" "7581417376513178719"
+				"size" "1623828860"
+				"download" "231126912"
+			}
+		}
+	}
+	"434659"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6776297297651433719"
+				"size" "1612417708"
+				"download" "227746208"
+			}
+			"default_backup"
+			{
+				"gid" "6776297297651433719"
+				"size" "1612417708"
+				"download" "227746208"
+			}
+		}
+	}
+	"1415423"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5741171158896144076"
+				"size" "1679371466"
+				"download" "244683824"
+			}
+			"default_backup"
+			{
+				"gid" "5741171158896144076"
+				"size" "1679371466"
+				"download" "244683824"
+			}
+		}
+	}
+	"1415421"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5809351921055758898"
+				"size" "1605645055"
+				"download" "235148720"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13919886"
+			"timeupdated" "1730712972"
+		}
+		"default_backup"
+		{
+			"sc_schinese" "旧版本备份"
+			"buildid" "13388644"
+			"description" "Old Version Backup"
+			"timeupdated" "1707286529"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Hunter Studio/Lost_Castle/steam"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27462883"
+"_sha" "d1352ce4c43e8602ae0fe0388d649a044e777361"
+"_size" "11234"
