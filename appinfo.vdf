@@ -1,0 +1,520 @@
+"appid" "1037020"
+"common"
+{
+	"name" "ScourgeBringer"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"linuxclienticon" "ab8ff58917b49d9fabc7d8642b39259835e822f6"
+	"clienticns" "6e8450b7130136bb24d7d0753f42a34270ac5e0a"
+	"clienticon" "faea50f72d9ef06fa92db855b23199531a22ad35"
+	"clienttga" "4d3daf2da757d62d1b98f53b44162bf033f88dd5"
+	"icon" "67eb67ba238ae0dcf4a8d03c18d3aef008e1b32a"
+	"logo" "8ce88746f0055b256c0fe6c9540d8fc05a6a4d0d"
+	"logo_small" "8ce88746f0055b256c0fe6c9540d8fc05a6a4d0d_thumb"
+	"releasestate" "released"
+	"osextended" "macos64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1037020_eula_0"
+			"name" "ScourgeBringer EULA"
+			"url" "https://store.steampowered.com//eula/1037020_eula_0"
+		}
+	}
+	"name_localized"
+	{
+		"schinese" "灾厄逆刃"
+		"tchinese" "災厄逆刃"
+		"japanese" "ScourgeBringer (スカージブリンガー)"
+		"koreana" "ScourgeBringer (스커지브링어)"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1646179200"
+		"tested_build_id" "6824678"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "ScourgeBringer"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "66.33384601836474"
+			"height_pct" "76.38697917654486"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "66.33384601836474"
+				"height_pct" "76.38697917654486"
+			}
+		}
+	}
+	"store_asset_mtime" "1656515009"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Flying Oak Games"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "E-Studio"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Dear Villagers"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Flying Oak Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_43" "1"
+		"category_29" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_17" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1603288684"
+	"steam_deck_blog_url" "https://steamcommunity.com/app/1037020/discussions/0/4040357419304575157/"
+	"metacritic_score" "76"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/scourgebringer\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1037020"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "19"
+		"2" "21"
+		"3" "3959"
+		"4" "3964"
+		"5" "42804"
+		"6" "1716"
+		"7" "1625"
+		"8" "3871"
+		"9" "922563"
+		"10" "1628"
+		"11" "4182"
+		"12" "4885"
+		"13" "4026"
+		"14" "1756"
+		"15" "5125"
+		"16" "1759"
+		"17" "4711"
+		"18" "7208"
+		"19" "1734"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Flying Oak Games"
+	"publisher" "Dear Villagers"
+	"homepage" "http://scourgebringer.com/"
+	"listofdlc" "1408650"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "ScourgeBringer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ScourgeBringer.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "ScourgeBringer.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Launch.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2071830779"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"1037021"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1240877306398531971"
+				"size" "376332654"
+				"download" "345430160"
+			}
+			"editor"
+			{
+				"gid" "5059787476054596538"
+				"size" "533127518"
+				"download" "395326576"
+			}
+		}
+	}
+	"1037022"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7557838633921300286"
+				"size" "425092218"
+				"download" "351614608"
+			}
+			"editor"
+			{
+				"gid" "6653593765204870337"
+				"size" "425022347"
+				"download" "351485936"
+			}
+		}
+	}
+	"1037023"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6652002476120150535"
+				"size" "424321279"
+				"download" "353109120"
+			}
+			"editor"
+			{
+				"gid" "7979606812372241389"
+				"size" "423165176"
+				"download" "352885616"
+			}
+		}
+	}
+	"1037024"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8222210214221431782"
+				"size" "377147735"
+				"download" "348400352"
+			}
+			"editor"
+			{
+				"gid" "4846679315183032421"
+				"size" "377063770"
+				"download" "348366256"
+			}
+		}
+	}
+	"1408650"
+	{
+		"dlcappid" "1408650"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1634635168882933248"
+				"size" "2321590097"
+				"download" "1869444336"
+			}
+			"editor"
+			{
+				"gid" "1634635168882933248"
+				"size" "2321590097"
+				"download" "1869444336"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13576097"
+			"timeupdated" "1709040187"
+		}
+		"editor"
+		{
+			"buildid" "6712062"
+			"description" "Modding tools"
+			"timeupdated" "1623068512"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "262144"
+	"maxnumfiles" "7"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Flying Oak Games/ScourgeBringer"
+			"pattern" "*"
+		}
+	}
+	"rootoverrides"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Flying Oak Games/ScourgeBringer"
+					"replace" "Flying Oak Games/ScourgeBringer"
+				}
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Flying Oak Games/ScourgeBringer"
+					"replace" ".scourgebringer"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26900248"
+"_sha" "9c29d9bfd864a38f19464e8393a6ce6215838b4c"
+"_size" "8939"
