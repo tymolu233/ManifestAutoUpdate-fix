@@ -1,0 +1,598 @@
+"appid" "259320"
+"common"
+{
+	"name" "Heli Heroes"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "5570a61d41d4003e8200d9a18b78146ebd794c19"
+	"logo_small" "5570a61d41d4003e8200d9a18b78146ebd794c19_thumb"
+	"icon" "754fa28f7d440b63f74dac7714d839aaa732c422"
+	"clienticon" "e10ef3027c73f89b377a1c90fa14f363ce71ed29"
+	"clienttga" "9a1143806e06f8ac02fee66a65fbcfb14d2dc08d"
+	"oslist" "windows"
+	"metacritic_name" "Heli Heroes"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "36.70076726342711"
+			"height_pct" "73.95833333333334"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "36.70076726342711"
+				"height_pct" "73.95833333333334"
+			}
+		}
+	}
+	"store_asset_mtime" "1577608577"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Reality Pump"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Topware Interactive"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_24" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1012377600"
+	"steam_release_date" "1383301860"
+	"community_hub_visible" "1"
+	"gameid" "259320"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "597"
+		"2" "4255"
+		"3" "1773"
+	}
+	"review_score" "5"
+	"review_percentage" "55"
+}
+"extended"
+{
+	"legacykeyregistrationmethod" "registry"
+	"legacykeyregistrylocation" "HKEY_CURRENT_USER\\Software\\Valve\\TestApp259320\\SteamKey"
+	"showcdkeyonlaunch" "1"
+	"supportscdkeycopytoclipboard" "1"
+	"developer" "Reality Pump"
+	"publisher" "Topware Interactive"
+	"homepage" "http://www.heliheroes.com"
+	"gamemanualurl" "https://store.steampowered.com/manual/259320/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Heli Heroes"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HeliHeroes.exe"
+			"description" "Heli Heroes"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Setup.exe"
+			"description" "Graphics settings"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "RunGame"
+			"description" "Run game"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "RunWinecfg"
+			"description" "Change resolution (run first)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"4"
+		{
+			"executable" "RunSetup"
+			"description" "Test resolution (run second)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"baselanguages" ""
+	"259321"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "430300061488658689"
+				"size" "306744441"
+				"download" "0"
+			}
+		}
+	}
+	"259322"
+	{
+		"config"
+		{
+			"language" "czech"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1187036841538363859"
+				"size" "97184792"
+				"download" "0"
+			}
+		}
+	}
+	"259323"
+	{
+		"config"
+		{
+			"language" "dutch"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6378839523098940136"
+				"size" "101498489"
+				"download" "0"
+			}
+		}
+	}
+	"259324"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6570225561792270793"
+				"size" "101964230"
+				"download" "0"
+			}
+		}
+	}
+	"259325"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6830120546703928792"
+				"size" "103934454"
+				"download" "0"
+			}
+		}
+	}
+	"259326"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "611898523433751839"
+				"size" "116278587"
+				"download" "0"
+			}
+		}
+	}
+	"259327"
+	{
+		"config"
+		{
+			"language" "hungarian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7198776705725582625"
+				"size" "93808003"
+				"download" "0"
+			}
+		}
+	}
+	"259328"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5397799950532992388"
+				"size" "116166715"
+				"download" "0"
+			}
+		}
+	}
+	"259329"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5886074262986288116"
+				"size" "158207092"
+				"download" "0"
+			}
+		}
+	}
+	"259330"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2472548071527592065"
+				"size" "97857848"
+				"download" "0"
+			}
+		}
+	}
+	"259331"
+	{
+		"config"
+		{
+			"language" "czech"
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1142371001638201537"
+				"size" "1405239990"
+				"download" "612099696"
+			}
+		}
+	}
+	"259332"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4569215077313069897"
+				"size" "1424333522"
+				"download" "622535360"
+			}
+		}
+	}
+	"259333"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7274984865782007049"
+				"size" "1410019187"
+				"download" "617054224"
+			}
+		}
+	}
+	"259334"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7815153047463784982"
+				"size" "1405912785"
+				"download" "604971568"
+			}
+		}
+	}
+	"259335"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6203404732127447183"
+				"size" "1411989389"
+				"download" "611360944"
+			}
+		}
+	}
+	"259336"
+	{
+		"config"
+		{
+			"language" "hungarian"
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8793229082999139683"
+				"size" "1401862964"
+				"download" "609368480"
+			}
+		}
+	}
+	"259337"
+	{
+		"config"
+		{
+			"language" "dutch"
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7778587391177947681"
+				"size" "1409553442"
+				"download" "616084208"
+			}
+		}
+	}
+	"259338"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7953935900342426126"
+				"size" "1424234569"
+				"download" "623480752"
+			}
+		}
+	}
+	"259339"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3108266043278897494"
+				"size" "1466278680"
+				"download" "653254096"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6757334"
+			"timeupdated" "1623327992"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "999"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "7f6276bb6527004006aedf8a5f4811fbcc8a0f19"
+"_size" "8943"
