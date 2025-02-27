@@ -1,0 +1,555 @@
+"appid" "433340"
+"common"
+{
+	"name" "Slime Rancher"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"logo" "7ae5f7c25c915e23c693f481707aeffb45cc44da"
+	"logo_small" "7ae5f7c25c915e23c693f481707aeffb45cc44da_thumb"
+	"clienticon" "2ee0a3613e9c28aed5582bca68d742ec586d8422"
+	"clienttga" "917c0c8b316400031555ed74930ba742d6bc52d5"
+	"icon" "814236b2c3a100cf76b00390585f351708e4c1e4"
+	"clienticns" "0238231ebb1bf74d7291f6a943d372f996db721a"
+	"linuxclienticon" "5e1f2fdb83856a1511636f7e5b8ba5360c72ead5"
+	"openvrsupport" "1"
+	"othervrsupport" "1"
+	"othervrsupport_rift_13" "1"
+	"osarch" ""
+	"osextended" "macos64,macosnotarized"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1645833600"
+		"tested_build_id" "7771629"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Slime Rancher"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "50.64933384523101"
+			"height_pct" "85.19444444444446"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "50.64933384523101"
+				"height_pct" "85.19444444444446"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1689754204"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Monomi Park"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Monomi Park"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Slime Rancher"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_22" "1"
+		"category_43" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1501603200"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/slime-rancher\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "433340"
+	"store_tags"
+	{
+		"0" "4726"
+		"1" "3834"
+		"2" "21"
+		"3" "4182"
+		"4" "1695"
+		"5" "3839"
+		"6" "4305"
+		"7" "4136"
+		"8" "3810"
+		"9" "599"
+		"10" "597"
+		"11" "12472"
+		"12" "1684"
+		"13" "5350"
+		"14" "492"
+		"15" "1756"
+		"16" "7208"
+		"17" "19"
+		"18" "493"
+		"19" "1663"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Monomi Park"
+	"publisher" "Monomi Park"
+	"homepage" "http://slimerancher.com"
+	"listofdlc" "939480,982310,1079180"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Slime Rancher"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SlimeRancher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Contents/MacOS/SlimeRancher"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "SlimeRancher.x86"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+		"3"
+		{
+			"executable" "SlimeRancher.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"4"
+		{
+			"executable" "SlimeRancher.exe"
+			"arguments" "-lowGraphics"
+			"type" "safemode"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"5"
+		{
+			"executable" "Contents/MacOS/SlimeRancher"
+			"arguments" "-lowGraphics"
+			"type" "safemode"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"6"
+		{
+			"executable" "SlimeRancher.x86"
+			"arguments" "-lowGraphics"
+			"type" "safemode"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+		"7"
+		{
+			"executable" "SlimeRancher.x86_64"
+			"arguments" "-lowGraphics"
+			"type" "safemode"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"8"
+		{
+			"executable" "VRPlayground/SlimeRancher.exe"
+			"arguments" "-vrmode Oculus"
+			"description" "Slime Rancher VR Playground"
+			"type" "othervr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "939480"
+			}
+		}
+		"9"
+		{
+			"executable" "VRPlayground/SlimeRancher.exe"
+			"arguments" "-vrmode OpenVR"
+			"description" "Slime Rancher VR Playground"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "939480"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"1103746773"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" ""
+		}
+		"1206831977"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,capture,testrc"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2054484574"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "english"
+	"433341"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6712318380892906767"
+				"size" "1219882488"
+				"download" "532302112"
+			}
+		}
+	}
+	"433342"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4496584778521264766"
+				"size" "1230903210"
+				"download" "535556032"
+			}
+		}
+	}
+	"433343"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1110279965060068321"
+				"size" "1234901418"
+				"download" "536827744"
+			}
+		}
+	}
+	"433344"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7144887116487152453"
+				"size" "1245911858"
+				"download" "539577280"
+			}
+		}
+	}
+	"939480"
+	{
+		"dlcappid" "939480"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3789258136107597671"
+				"size" "576798699"
+				"download" "254688352"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7771629"
+			"timeupdated" "1638381660"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Monomi Park/Slime Rancher"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Monomi Park/Slime Rancher"
+			"pattern" "slimerancher.prf"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Monomi Park/Slime Rancher"
+					"replace" "Monomi Park/Slime Rancher"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Monomi Park/Slime Rancher"
+					"replace" ".config/unity3d/Monomi Park/Slime Rancher"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27541702"
+"_sha" "a86c639bcf7b8df7ac5b368540b33de1b69c1233"
+"_size" "9672"
