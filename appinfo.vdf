@@ -1,0 +1,392 @@
+"appid" "1113000"
+"common"
+{
+	"name" "Persona 4 Golden"
+	"type" "Game"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"english" "Persona 4 Golden"
+		"japanese" "ペルソナ4 ザ・ゴールデン"
+		"tchinese" "女神異聞錄４ 黃金版"
+		"schinese" "女神异闻录４ 黄金版"
+		"koreana" "페르소나4 더 골든"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"clienttga" "1889d58401947437d72c9402f773a163a087df1d"
+	"clienticon" "8d2c0800761a336e5ccff900fcdb0e840c346c91"
+	"icon" "295e86f2d5393325f38f33777b357d86e23c751d"
+	"logo" "92891b52fa27e5b8b4d85acaa7ddb6698b4b1498"
+	"logo_small" "92891b52fa27e5b8b4d85acaa7ddb6698b4b1498_thumb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1113000_eula_0"
+			"name" "Persona 4: Golden EULA"
+			"url" "https://store.steampowered.com//eula/1113000_eula_0"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1669075200"
+		"tested_build_id" "7531748"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Persona 4 Golden"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1694615423"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ATLUS"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "SEGA"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Persona"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_22" "1"
+		"category_23" "1"
+		"category_2" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1592070726"
+	"metacritic_score" "87"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/persona-4-golden\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1113000"
+	"store_tags"
+	{
+		"0" "4434"
+		"1" "1756"
+		"2" "1742"
+		"3" "4085"
+		"4" "4325"
+		"5" "122"
+		"6" "4182"
+		"7" "10695"
+		"8" "5716"
+		"9" "6971"
+		"10" "5608"
+		"11" "1741"
+		"12" "5613"
+		"13" "9551"
+		"14" "4305"
+		"15" "21"
+		"16" "9"
+		"17" "3799"
+		"18" "4667"
+		"19" "1677"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "ATLUS"
+	"publisher" "SEGA"
+}
+"config"
+{
+	"installdir" "Persona 4 Golden"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "P4G.exe"
+			"description" "Launch"
+			"type" "none"
+		}
+	}
+	"steamconfigurator3rdpartynative" "65532"
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2054758667"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "release_denubo,release_steamdrm,test"
+			"use_action_block" "false"
+		}
+		"2181657426"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese"
+	"hasdepotsindlc" "0"
+	"1113001"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4737529339202475845"
+				"size" "11150616134"
+				"download" "8799850176"
+			}
+		}
+	}
+	"1113002"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2520901896865483548"
+				"size" "98889191"
+				"download" "94147712"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10836033"
+			"timeupdated" "1681959591"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "200"
+}
+"_missing_token" "False"
+"_change_number" "26928210"
+"_sha" "1273d6cde26e51626df0d6eefc083caad46a6a3b"
+"_size" "6988"
