@@ -1,0 +1,75 @@
+"appid" "1718880"
+"common"
+{
+	"name" "HUMANKIND™ Mod Tools"
+	"type" "Tool"
+	"parent" "1124300"
+	"releasestate" "released"
+	"logo" "f212d13a7897e01e4b8cd7bf6afad324a599022d"
+	"logo_small" "f212d13a7897e01e4b8cd7bf6afad324a599022d_thumb"
+	"icon" "996f388b28c9803dbcfa2f46452ddc8b1bb3937f"
+	"clienttga" "f64c31a1672ad91cee7b14b82b06d7a24d8dcfc2"
+	"clienticon" "27580afda4c4d268ad756961c36674819509fd8d"
+	"associations"
+	{
+	}
+	"gameid" "1718880"
+}
+"config"
+{
+	"installdir" "Humankind Mod Tools"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HumankindModdingSetupWizard.exe"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"1718881"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2496073362143345917"
+				"size" "90703560"
+				"download" "90657360"
+			}
+			"update_preview"
+			{
+				"gid" "2496073362143345917"
+				"size" "90703560"
+				"download" "90657360"
+			}
+		}
+	}
+	"workshopdepot" "1718880"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16376691"
+			"timeupdated" "1732806311"
+		}
+		"update_preview"
+		{
+			"buildid" "16376691"
+			"description" " Preview branch for the next udpate. Please be aware that mods created with these tools may not be compatible with the current version of the game (they should be with the version that is coming)."
+			"timeupdated" "1731405902"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "400"
+}
+"_missing_token" "False"
+"_change_number" "27347087"
+"_sha" "b029f14900892f786d3aac20d57552847b473bb5"
+"_size" "1464"
