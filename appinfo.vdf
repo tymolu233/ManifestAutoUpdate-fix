@@ -1,0 +1,2157 @@
+"appid" "268500"
+"common"
+{
+	"name" "XCOM 2"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "f275aeb0b1b947262810569356a199848c643754"
+	"clienticon" "14f100500fa0ab5b4465fa63b607c654a8bc8854"
+	"clienttga" "281da2b612d004a1fa57eef1c764cccbfced221d"
+	"logo" "10a6157d6614f63cd8a95d002d022778c207c218"
+	"logo_small" "10a6157d6614f63cd8a95d002d022778c207c218_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+	}
+	"linuxclienticon" "22d964ef277671811ebbb0f0660077a907fad8c6"
+	"clienticns" "2438517cb13a01eef47f27053ba160c245614ada"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "268500_eula_0"
+			"name" "XCOM 2 EULA"
+			"url" "https://store.steampowered.com//eula/268500_eula_0"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1677628800"
+		"tested_build_id" "8270065"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_GamepadNotEnabledByDefault"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "XCOM 2"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "36"
+			"height_pct" "41"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "36"
+				"height_pct" "41"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1587583797"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Firaxis Games"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Feral Interactive (Mac)"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Feral Interactive (Linux)"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "2K"
+		}
+		"4"
+		{
+			"type" "publisher"
+			"name" "Feral Interactive (Mac)"
+		}
+		"5"
+		{
+			"type" "publisher"
+			"name" "Feral Interactive (Linux)"
+		}
+		"6"
+		{
+			"type" "franchise"
+			"name" "XCOM"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_33" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1454648400"
+	"metacritic_score" "88"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/xcom-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "268500"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1677"
+		"2" "1741"
+		"3" "1708"
+		"4" "14139"
+		"5" "1673"
+		"6" "3942"
+		"7" "4747"
+		"8" "4182"
+		"9" "4026"
+		"10" "3859"
+		"11" "122"
+		"12" "1669"
+		"13" "1759"
+		"14" "4295"
+		"15" "19"
+		"16" "4166"
+		"17" "1756"
+		"18" "1685"
+		"19" "7332"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"onquitdemomsg" "https://steamstore-a.akamaihd.net/message/8453215700643947850/"
+	"developer" "Firaxis Games"
+	"publisher" "2K"
+	"homepage" "http://www.xcom.com"
+	"gamemanualurl" "https://store.steampowered.com/manual/268500/"
+	"listofdlc" "399620,426320,426321,433080,433090,433091,593380,785300"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "XCOM 2"
+	"launch"
+	{
+		"4"
+		{
+			"executable" "binaries\\Win64\\launcher\\ModLauncherWPF.exe"
+			"arguments" "-noRedScreens -review"
+			"description" "2K Marketing"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "2k_marketing"
+				"ownsdlc" "593380"
+			}
+		}
+		"5"
+		{
+			"executable" "XCOM2.sh"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"6"
+		{
+			"executable" "XCOM 2.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+			}
+		}
+		"8"
+		{
+			"executable" "binaries\\Win64\\launcher\\ModLauncherWPF.exe"
+			"arguments" "-allowconsole -noRedScreens -review -CrashDumpWatcher"
+			"description" "Lazarus Debug"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "2kqa_a"
+			}
+		}
+		"9"
+		{
+			"executable" "binaries\\Win64\\XCom2.exe"
+			"arguments" "-allowconsole -noRedScreens -review"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "age_ratings_asia"
+			}
+		}
+		"12"
+		{
+			"executable" "binaries\\Win64\\launcher\\ModLauncherWPF.exe"
+			"arguments" "-log -allowconsole -CrashDumpWatcher -noRedScreens"
+			"description" "Oz Debug"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "Firaxis_QA"
+				"ownsdlc" "593380"
+			}
+		}
+		"13"
+		{
+			"executable" "binaries\\Win64\\launcher\\ModLauncherWPF.exe"
+			"arguments" "-log -allowconsole -CrashDumpWatcher -noRedScreens"
+			"description" "Oz Debug"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "2kqa_a"
+				"ownsdlc" "593380"
+			}
+		}
+		"14"
+		{
+			"executable" "binaries\\Win64\\launcher\\ModLauncherWPF.exe"
+			"arguments" "-log -allowconsole -CrashDumpWatcher -noRedScreens"
+			"description" "Oz Debug"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "2kqa_b"
+				"ownsdlc" "593380"
+			}
+		}
+		"16"
+		{
+			"executable" "binaries\\Win64\\launcher\\ModLauncherWPF.exe"
+			"arguments" "-log -allowconsole -CrashDumpWatcher -noRedScreens"
+			"description" "Debug"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "firaxis_QA_02"
+			}
+		}
+		"17"
+		{
+			"executable" "binaries\\Win64\\launcher\\ModLauncherWPF.exe"
+			"arguments" "-CrashDumpWatcher -noRedScreens -review"
+			"description" "Oz Review"
+			"type" "none"
+			"config"
+			{
+				"betakey" "2kqa_a"
+				"ownsdlc" "593380"
+			}
+		}
+		"18"
+		{
+			"executable" "binaries\\Win64\\launcher\\ModLauncherWPF.exe"
+			"arguments" "-CrashDumpWatcher -noRedScreens -review"
+			"description" "Oz Review"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "2kqa_b"
+				"ownsdlc" "593380"
+			}
+		}
+		"19"
+		{
+			"executable" "binaries\\Win64\\launcher\\ModLauncherWPF.exe"
+			"arguments" "-CrashDumpWatcher -noRedScreens -review"
+			"description" "Oz Review"
+			"type" "none"
+			"config"
+			{
+				"betakey" "firaxis_qa"
+				"ownsdlc" "593380"
+			}
+		}
+		"20"
+		{
+			"executable" "binaries\\Win64\\launcher\\ModLauncherWPF.exe"
+			"arguments" "-CrashDumpWatcher -noRedScreens -review"
+			"description" "Oz Review"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "milestone"
+				"ownsdlc" "593380"
+			}
+		}
+		"21"
+		{
+			"executable" "binaries\\Win64\\launcher\\ModLauncherWPF.exe"
+			"arguments" "-log -allowconsole -CrashDumpWatcher -noRedScreens"
+			"description" "Oz Debug"
+			"type" "none"
+			"config"
+			{
+				"betakey" "milestone"
+				"ownsdlc" "593380"
+			}
+		}
+		"22"
+		{
+			"executable" "Ozzy\\Binaries\\Win64\\Launcher\\ModLauncherWPF.exe"
+			"arguments" "-log -allowconsole -CrashDumpWatcher"
+			"description" "Oz Debug"
+			"type" "none"
+			"config"
+			{
+				"betakey" "2k_marketing"
+				"ownsdlc" "593380"
+			}
+		}
+		"23"
+		{
+			"executable" "Ozzy\\Binaries\\Win64\\Launcher\\ModLauncherWPF.exe"
+			"arguments" "-allowconsole -CrashDumpWatcher -noRedScreens"
+			"description" "Oz Review"
+			"type" "none"
+			"config"
+			{
+				"betakey" "2k_marketing"
+				"ownsdlc" "593380"
+			}
+		}
+		"24"
+		{
+			"executable" "Ozzy\\Binaries\\Win64\\Launcher\\ModLauncherWPF.exe"
+			"arguments" "-noRedScreens -review -crashdumpwatcher"
+			"description" "Oz Compat"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "2kqa_compat"
+				"ownsdlc" "593380"
+			}
+		}
+		"25"
+		{
+			"executable" "Ozzy\\Binaries\\Win64\\Launcher\\ModLauncherWPF.exe"
+			"arguments" "-noRedScreens -review -crashdumpwatcher"
+			"description" "Oz Compat"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "2kqa_compat2"
+				"ownsdlc" "593380"
+			}
+		}
+		"30"
+		{
+			"executable" "XCOM2WotC/XCOM2WotC.sh"
+			"description" "XCOM 2: War of the Chosen"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"ownsdlc" "593380"
+			}
+		}
+		"31"
+		{
+			"executable" "XCOM 2 WotC.app"
+			"description" "XCOM 2: War of the Chosen"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+				"ownsdlc" "593380"
+			}
+		}
+		"32"
+		{
+			"executable" "binaries\\Win64\\launcher\\ModLauncherWPF.exe"
+			"arguments" "-noRedScreens -review -crashdumpwatcher"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "review_build"
+				"ownsdlc" "393380"
+			}
+		}
+		"33"
+		{
+			"executable" "XCOM 2 WotC.app"
+			"description" "XCOM 2: War of the Chosen"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "domesticated_submission_loc_fix"
+				"ownsdlc" "593380"
+			}
+		}
+		"34"
+		{
+			"executable" "XCOM2WotC/XCOM2WotC.sh"
+			"description" "XCOM 2: War of the Chosen"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "domesticated_submission_loc_fix"
+				"ownsdlc" "593380"
+			}
+		}
+		"35"
+		{
+			"executable" "2KLauncher\\LauncherPatcher.exe"
+			"arguments" "-steam_auto_login -game-61483=-review -game-61483=-noRedscreens"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "newtest"
+			}
+			"description_loc"
+			{
+				"english" "XCOM 2 - 2K Launcher"
+			}
+			"description" "XCOM 2 - 2K Launcher"
+		}
+		"42"
+		{
+			"executable" "binaries\\Win64\\XCom2.exe"
+			"arguments" "-steam_auto_login -game-61483=-review -game-61483=-noRedscreens"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "XCOM 2 Base Game"
+			}
+			"description" "XCOM 2 Base Game"
+		}
+		"43"
+		{
+			"executable" "\\XCom2-WarOfTheChosen\\Binaries\\Win64\\XCom2.exe"
+			"arguments" "-steam_auto_login -game-61483=-review -game-61483=-noRedscreens"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "593380"
+			}
+			"description_loc"
+			{
+				"english" "War of the Chosen"
+			}
+			"description" "War of the Chosen"
+		}
+		"44"
+		{
+			"executable" "launcher\\launcher.exe"
+			"arguments" "-steam_auto_login -game-61483=-review -game-61483=-noRedscreens"
+			"workingdir" "launcher"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Open New Mod Launcher"
+			}
+			"description" "Open New Mod Launcher"
+		}
+		"45"
+		{
+			"executable" "binaries\\Win64\\launcher\\ModLauncherWPF.exe"
+			"arguments" "-steam_auto_login -game-61483=-review -game-61483=-noRedscreens"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "593380"
+			}
+			"description_loc"
+			{
+				"english" "Open Original Mod Launcher"
+			}
+			"description" "Open Original Mod Launcher"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2180004099"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollerconfigdetails"
+	{
+		"642172159"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"uselaunchcommandline" "1"
+	"cegpublickey" "30819D300D06092A864886F70D010101050003818B0030818702818100AFD60F81ADE1BBEA1C624E65F0A7C6E4C721B838781B202E50BC860D496C8B355262CC059DE6FC7FD2E124FDD6CCA26BB17C4ACCACA738E14AED2334990D0E6ADE89FF3F2CCA20EC619FCFC82E34A62CBCB5DDFDEAA3A29C3DECD62942574F96AF7DDF01285FE6F2D2F8E06D6C1B087FBCB93799791DF74C1A44F5276A7687F1020111"
+	"checkguid" "XCom2.exe"
+	"checkguids" "xcom2.exe"
+}
+"depots"
+{
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish"
+	"workshopdepot" "268500"
+	"268501"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8736125264145479330"
+				"size" "78087509"
+				"download" "18675440"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "8630509321264840781"
+				"size" "92652456"
+				"download" "35212000"
+			}
+		}
+	}
+	"268502"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3964459376964430563"
+				"size" "34483373825"
+				"download" "28229073632"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "753675129382979619"
+				"size" "34529395443"
+				"download" "28237970288"
+			}
+		}
+	}
+	"268513"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"268514"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2781230624575294884"
+				"size" "43824692"
+				"download" "4189200"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "1602955702507523785"
+				"size" "74046678"
+				"download" "4579472"
+			}
+		}
+	}
+	"268503"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6038888666676454089"
+				"size" "34301"
+				"download" "6768"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "1836542980379314317"
+				"size" "34301"
+				"download" "6768"
+			}
+		}
+	}
+	"268504"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "239043579194250836"
+				"size" "4378757"
+				"download" "426480"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "6830357695719026186"
+				"size" "4379055"
+				"download" "426480"
+			}
+		}
+	}
+	"268505"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3330137330707656083"
+				"size" "4299177"
+				"download" "416352"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "2355006284619128804"
+				"size" "4299515"
+				"download" "416304"
+			}
+		}
+	}
+	"268506"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4136113525183723163"
+				"size" "4393327"
+				"download" "436528"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "5799043308177898873"
+				"size" "4393607"
+				"download" "436544"
+			}
+		}
+	}
+	"268507"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7573678535853900826"
+				"size" "4393875"
+				"download" "427216"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "525149747846052294"
+				"size" "4394199"
+				"download" "427200"
+			}
+		}
+	}
+	"268508"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4347378796445281405"
+				"size" "3422087"
+				"download" "406608"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "5923803574026710984"
+				"size" "3422225"
+				"download" "406592"
+			}
+		}
+	}
+	"268509"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5022824658049697165"
+				"size" "4233375"
+				"download" "444768"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "5297329564807592208"
+				"size" "4233685"
+				"download" "444848"
+			}
+		}
+	}
+	"268510"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5189959961135808808"
+				"size" "4171047"
+				"download" "441520"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "1259145736643673102"
+				"size" "4171341"
+				"download" "441568"
+			}
+		}
+	}
+	"268511"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2460237601000145205"
+				"size" "3345709"
+				"download" "404960"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "1008946012537112357"
+				"size" "3345823"
+				"download" "404960"
+			}
+		}
+	}
+	"268512"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1000919688242090097"
+				"size" "3159741"
+				"download" "399216"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "8629011470026425489"
+				"size" "3159825"
+				"download" "399232"
+			}
+		}
+	}
+	"268515"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5692944031528902906"
+				"size" "3155829"
+				"download" "396304"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "3064013467411633422"
+				"size" "3155907"
+				"download" "396304"
+			}
+		}
+	}
+	"424945"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "345374647346915517"
+				"size" "208552416"
+				"download" "88761232"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "345374647346915517"
+				"size" "208552416"
+				"download" "88761232"
+			}
+		}
+	}
+	"399620"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "399620"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3821142797230573854"
+				"size" "451396573"
+				"download" "310872912"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "3821142797230573854"
+				"size" "451396573"
+				"download" "310872912"
+			}
+		}
+	}
+	"268517"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8526073137808925655"
+				"size" "81632273"
+				"download" "30106496"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "8526073137808925655"
+				"size" "81632273"
+				"download" "30106496"
+			}
+		}
+	}
+	"268519"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "746016983574139025"
+				"size" "30896051230"
+				"download" "24929588064"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "746016983574139025"
+				"size" "30896051230"
+				"download" "24929588064"
+			}
+		}
+	}
+	"399621"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"399622"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"399623"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "english"
+		}
+	}
+	"424900"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "french"
+		}
+	}
+	"424901"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "italian"
+		}
+	}
+	"424902"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "german"
+		}
+	}
+	"424903"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+	}
+	"424904"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "macos"
+		}
+	}
+	"424905"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "macos"
+		}
+	}
+	"424906"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "macos"
+		}
+	}
+	"424907"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "macos"
+		}
+	}
+	"424908"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "macos"
+		}
+	}
+	"424909"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "macos"
+		}
+	}
+	"399625"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8029915045808515741"
+				"size" "266269618"
+				"download" "82281568"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "8029915045808515741"
+				"size" "266269618"
+				"download" "82281568"
+			}
+		}
+	}
+	"399627"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "463376969351620557"
+				"size" "30896051230"
+				"download" "24929304512"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "463376969351620557"
+				"size" "30896051230"
+				"download" "24929304512"
+			}
+		}
+	}
+	"399628"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+	}
+	"399629"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+	}
+	"399624"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" "english"
+		}
+	}
+	"424911"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" "french"
+		}
+	}
+	"424912"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" "italian"
+		}
+	}
+	"424913"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "linux"
+		}
+	}
+	"424914"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "linux"
+		}
+	}
+	"424915"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "linux"
+		}
+	}
+	"424916"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "linux"
+		}
+	}
+	"424917"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "linux"
+		}
+	}
+	"424918"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "linux"
+		}
+	}
+	"424919"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "linux"
+		}
+	}
+	"424920"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "linux"
+		}
+	}
+	"424910"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "399620"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1973805366043998778"
+				"size" "451396573"
+				"download" "310957056"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "1973805366043998778"
+				"size" "451396573"
+				"download" "310957056"
+			}
+		}
+	}
+	"424921"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"dlcappid" "399620"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4105771635672260172"
+				"size" "451396573"
+				"download" "310957056"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "4105771635672260172"
+				"size" "451396573"
+				"download" "310957056"
+			}
+		}
+	}
+	"433080"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "433080"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7321043562789976597"
+				"size" "1086876848"
+				"download" "630204432"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "7321043562789976597"
+				"size" "1086876848"
+				"download" "630204432"
+			}
+		}
+	}
+	"433090"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "433090"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7484997723884328141"
+				"size" "1835808937"
+				"download" "1370321456"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "7484997723884328141"
+				"size" "1835808937"
+				"download" "1370321456"
+			}
+		}
+	}
+	"433091"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "433091"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2740390987559546458"
+				"size" "1448835082"
+				"download" "1063071456"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "2740390987559546458"
+				"size" "1448835082"
+				"download" "1063071456"
+			}
+		}
+	}
+	"424922"
+	{
+		"dlcappid" "426320"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "685607458677711765"
+				"size" "797160018"
+				"download" "662596288"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "685607458677711765"
+				"size" "797160018"
+				"download" "662596288"
+			}
+		}
+	}
+	"424923"
+	{
+		"dlcappid" "433080"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4840613982264508479"
+				"size" "1086876848"
+				"download" "630227424"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "4840613982264508479"
+				"size" "1086876848"
+				"download" "630227424"
+			}
+		}
+	}
+	"424924"
+	{
+		"dlcappid" "433080"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "960161404789886813"
+				"size" "1086876848"
+				"download" "630227424"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "960161404789886813"
+				"size" "1086876848"
+				"download" "630227424"
+			}
+		}
+	}
+	"424925"
+	{
+		"dlcappid" "433090"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5607164449035789662"
+				"size" "1746476337"
+				"download" "1283318544"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "5607164449035789662"
+				"size" "1746476337"
+				"download" "1283318544"
+			}
+		}
+	}
+	"424926"
+	{
+		"dlcappid" "433090"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "157069224164968428"
+				"size" "1746476337"
+				"download" "1283318544"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "157069224164968428"
+				"size" "1746476337"
+				"download" "1283318544"
+			}
+		}
+	}
+	"424927"
+	{
+		"dlcappid" "433091"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3318186336424212494"
+				"size" "1448835082"
+				"download" "1063104496"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "3318186336424212494"
+				"size" "1448835082"
+				"download" "1063104496"
+			}
+		}
+	}
+	"424928"
+	{
+		"dlcappid" "433091"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3271660717984811827"
+				"size" "1448835082"
+				"download" "1063104496"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "3271660717984811827"
+				"size" "1448835082"
+				"download" "1063104496"
+			}
+		}
+	}
+	"424929"
+	{
+		"dlcappid" "593380"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1313318969347085551"
+				"size" "34843531973"
+				"download" "33255534928"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "6801657873887529787"
+				"size" "34869838804"
+				"download" "33256923216"
+			}
+		}
+	}
+	"424930"
+	{
+		"dlcappid" "593380"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8040468922637824330"
+				"size" "77906557"
+				"download" "16946880"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "340850402015840142"
+				"size" "100518961"
+				"download" "35943648"
+			}
+		}
+	}
+	"424932"
+	{
+		"dlcappid" "593380"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9209652038125351964"
+				"size" "15721406"
+				"download" "4638320"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "9209652038125351964"
+				"size" "15721406"
+				"download" "4638320"
+			}
+		}
+	}
+	"424933"
+	{
+		"dlcappid" "593380"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1731937557634412910"
+				"size" "33024269141"
+				"download" "31528536464"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "1731937557634412910"
+				"size" "33024269141"
+				"download" "31528536464"
+			}
+		}
+	}
+	"424934"
+	{
+		"dlcappid" "593380"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6397781661868989739"
+				"size" "139370229"
+				"download" "52028224"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "6397781661868989739"
+				"size" "139370229"
+				"download" "52028224"
+			}
+		}
+	}
+	"424935"
+	{
+		"dlcappid" "593380"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6288449557519713597"
+				"size" "33024269141"
+				"download" "31532276256"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "6288449557519713597"
+				"size" "33024269141"
+				"download" "31532276256"
+			}
+		}
+	}
+	"424936"
+	{
+		"dlcappid" "593380"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "952252324857156428"
+				"size" "276643803"
+				"download" "98816784"
+			}
+			"local"
+			{
+				"gid" "3956435761931114221"
+				"size" "12"
+				"download" "64"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "952252324857156428"
+				"size" "276643803"
+				"download" "98816784"
+			}
+		}
+	}
+	"424937"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+		}
+	}
+	"424938"
+	{
+		"sharedinstall" ""
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "785300"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1389316706668802696"
+				"size" "5134519"
+				"download" "742896"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "1389316706668802696"
+				"size" "5134519"
+				"download" "742896"
+			}
+		}
+	}
+	"424940"
+	{
+		"dlcappid" "785300"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "244691020414563746"
+				"size" "5961742888"
+				"download" "4935856896"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "244691020414563746"
+				"size" "5961742888"
+				"download" "4935856896"
+			}
+		}
+	}
+	"424939"
+	{
+		"dlcappid" "593380"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5503517738610990755"
+				"size" "125676"
+				"download" "17072"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "8910705532577434697"
+				"size" "91630"
+				"download" "9104"
+			}
+		}
+	}
+	"424941"
+	{
+		"dlcappid" "785300"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1773787613682589470"
+				"size" "5134519"
+				"download" "742880"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "1773787613682589470"
+				"size" "5134519"
+				"download" "742880"
+			}
+		}
+	}
+	"424942"
+	{
+		"dlcappid" "785300"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5704624059267196889"
+				"size" "5134519"
+				"download" "742880"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "5704624059267196889"
+				"size" "5134519"
+				"download" "742880"
+			}
+		}
+	}
+	"424943"
+	{
+		"dlcappid" "785300"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4614545026469075348"
+				"size" "5939585532"
+				"download" "4942875264"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "4614545026469075348"
+				"size" "5939585532"
+				"download" "4942875264"
+			}
+		}
+	}
+	"424944"
+	{
+		"dlcappid" "785300"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7555981920866893517"
+				"size" "5939585532"
+				"download" "4937611520"
+			}
+			"pre-21.10-support"
+			{
+				"gid" "7555981920866893517"
+				"size" "5939585532"
+				"download" "4937611520"
+			}
+		}
+	}
+	"1523211"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5488617169383930545"
+				"size" "80"
+				"download" "128"
+			}
+		}
+		"depotfromapp" "1523210"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8270065"
+			"timeupdated" "1648490372"
+		}
+		"local"
+		{
+			"buildid" "2096062"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1504693772"
+		}
+		"pre-21.10-support"
+		{
+			"buildid" "5185290"
+			"description" "support branch"
+			"timeupdated" "1638972413"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "my games/XCOM2/XComGame/SaveData"
+			"pattern" "*"
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "my games/XCOM2 War of the Chosen/XComGame/SaveData"
+			"pattern" "*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "my games/XCOM2/XComGame/SaveData"
+					"replace" "Feral Interactive/XCOM 2/VFS/Local/my games/XCOM2/XComGame/SaveData"
+				}
+				"1"
+				{
+					"find" "my games/XCOM2 War of the Chosen/XComGame/SaveData"
+					"replace" "Feral Interactive/XCOM 2 WotC/VFS/Local/my games/XCOM2 War of the Chosen/XComGame/SaveData"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"2"
+				{
+					"find" "my games/XCOM2/XComGame/SaveData"
+					"replace" ".local/share/feral-interactive/XCOM2/VFS/Local/my games/XCOM2/XComGame/SaveData"
+				}
+				"3"
+				{
+					"find" "my games/XCOM2 War of the Chosen/XComGame/SaveData"
+					"replace" ".local/share/feral-interactive/XCOM 2 WotC/VFS/Local/my games/XCOM2 War of the Chosen/XComGame/SaveData"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27103115"
+"_sha" "956401df1f1f1dbd58a2a35c1b3f7e183a35c3eb"
+"_size" "36249"
