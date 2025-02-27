@@ -1,0 +1,520 @@
+"appid" "1024380"
+"common"
+{
+	"name" "Second Extinction™"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "dc6fbe0d8b204d8744ff30bbdbba2fbd28c5af21"
+	"logo_small" "dc6fbe0d8b204d8744ff30bbdbba2fbd28c5af21_thumb"
+	"icon" "42c5ee8a73bd42634708d82e4abdf66c69fee600"
+	"clienticon" "c6235550c831eab290275ef21658354427e32a24"
+	"clienttga" "f78f629661ad6e11c0f755d81f9dc7bfcb24d723"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1024380_eula_0"
+			"name" "Second Extinction EULA"
+			"url" "https://store.steampowered.com//eula/1024380_eula_0"
+			"version" "10"
+		}
+	}
+	"name_localized"
+	{
+		"schinese" "二次灭绝 Second Extinction"
+		"tchinese" "二次滅絕 Second Extinction"
+	}
+	"app_retired_publisher_request" "1"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1647993600"
+		"tested_build_id" "8353857"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DeviceCompatibilityWarningsShown"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "20.595099183197206"
+			"height_pct" "32.7475658988364"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "20.595099183197206"
+				"height_pct" "32.7475658988364"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1667897676"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Systemic Reaction™"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Systemic Reaction™"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1602586800"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1024380"
+	"store_tags"
+	{
+		"0" "5160"
+		"1" "1685"
+		"2" "1695"
+		"3" "1663"
+		"4" "3942"
+		"5" "3834"
+		"6" "1662"
+		"7" "1774"
+		"8" "5711"
+		"9" "1646"
+		"10" "4667"
+		"11" "3839"
+		"12" "3859"
+		"13" "4236"
+		"14" "4182"
+		"15" "4191"
+		"16" "5228"
+		"17" "3843"
+		"18" "21"
+		"19" "19"
+	}
+	"review_score" "5"
+	"review_percentage" "60"
+}
+"extended"
+{
+	"developer" "Systemic Reaction™"
+	"publisher" "Systemic Reaction™"
+	"listofdlc" "1414350,1414351,1414352,1414353"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "SecondExtinction"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SecondExtinction_F.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "default qa_main_1 qa_main_2 qa_staging localization compatibility marketing playtest hardware_vendors development milestone qa_future qa_integrations qa_update design_review"
+			}
+		}
+		"2"
+		{
+			"executable" "SecondExtinction_R.exe"
+			"arguments" "--marketing-build --disable-assert-break --disable-assert-dialog"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "marketing"
+			}
+			"description_loc"
+			{
+				"english" "Marketing Build"
+			}
+			"description" "Marketing Build"
+		}
+		"3"
+		{
+			"executable" "SecondExtinction_P.exe"
+			"arguments" "--disable-hash-lookups --disable-assert-break --disable-assert-dialog"
+			"description" "Second Extinction Profile"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hardware_vendors"
+			}
+		}
+		"9"
+		{
+			"executable" "SecondExtinction_R.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "qa_main_1 qa_staging compatibility qa_future qa_integrations qa_update design_review playtest"
+			}
+			"description_loc"
+			{
+				"english" "Second Extinction Release"
+			}
+			"description" "Second Extinction Release"
+		}
+		"10"
+		{
+			"executable" "SecondExtinction_R.exe"
+			"arguments" "--disable-assert-break --disable-assert-dialog"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "qa_main_1 qa_staging qa_delivery localization qa_integrations qa_update design_review externals"
+			}
+			"description_loc"
+			{
+				"english" "SE Release (without ASSERTS)"
+			}
+			"description" "SE Release (without ASSERTS)"
+		}
+		"11"
+		{
+			"executable" "SecondExtinction_F.exe"
+			"arguments" "--qa_mode"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "qa_delivery externals"
+			}
+			"description_loc"
+			{
+				"english" "Final Build (but with delivery playfab)"
+			}
+			"description" "Final Build (but with delivery playfab)"
+		}
+		"12"
+		{
+			"executable" "SecondExtinction_R.exe"
+			"arguments" "-mem_shark --disable-assert-break --disable-assert-dialog "
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "qa_main_1"
+			}
+			"description_loc"
+			{
+				"english" "SE Release (MEMSHARK, and without assert)"
+			}
+			"description" "SE Release (MEMSHARK, and without assert)"
+		}
+		"13"
+		{
+			"executable" "SecondExtinction_F.exe"
+			"type" "option3"
+			"config"
+			{
+				"betakey" "qa_delivery"
+			}
+			"description_loc"
+			{
+				"english" "Final Build (with LIVE playfab)"
+			}
+			"description" "Final Build (with LIVE playfab)"
+		}
+		"14"
+		{
+			"executable" "Launcher_steam.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "qa_future compatibility qa_main_1"
+			}
+			"description_loc"
+			{
+				"english" "Launch the LaunchLaunch Launcher"
+			}
+			"description" "Launch the LaunchLaunch Launcher"
+		}
+		"15"
+		{
+			"executable" "SecondExtinction_R.exe"
+			"arguments" "--disable-assert-break --disable-assert-dialog --livelogview"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "qa_staging"
+			}
+			"description_loc"
+			{
+				"english" "SE Release with LiveLog (no asserts)"
+			}
+			"description" "SE Release with LiveLog (no asserts)"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1024381"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2722012751439973612"
+				"size" "10050316746"
+				"download" "9478747600"
+			}
+		}
+	}
+	"1024382"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4149826248085715129"
+				"size" "1828269164"
+				"download" "280840848"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,spanish,schinese,russian,japanese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8353857"
+			"timeupdated" "1647349228"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "20"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Avalanche Studios/Shoebill/Saves/delivery/{64BitSteamID}"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26904550"
+"_sha" "da3240915ec626ecdad1c719e21eae70054a371d"
+"_size" "10070"
