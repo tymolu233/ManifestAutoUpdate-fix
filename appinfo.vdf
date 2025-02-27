@@ -1,0 +1,451 @@
+"appid" "1817230"
+"common"
+{
+	"name" "Hi-Fi RUSH"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"clienttga" "e90040c817389ff4567fb3a4e54368cc9b8a7b5f"
+	"clienticon" "f9e43ac14ad7655023f4cac5b410a2e780cbab2e"
+	"icon" "4ab983bdce853739bba2494342425bc206cadfe5"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1817230_eula_1"
+			"name" "Hi-Fi RUSH EULA"
+			"url" "https://store.steampowered.com//eula/1817230_eula_1"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1674864000"
+		"tested_build_id" "10176317"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Hi-Fi Rush"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"turkish" "capsule_231x87_turkish.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"turkish" "header_turkish.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,tr"
+		"library_hero" "en,tr"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "35.0641773628938"
+			"height_pct" "89.89551175492755"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"turkish" "library_600x900_turkish.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"turkish" "library_600x900_turkish_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"turkish" "library_hero_turkish.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"turkish" "library_hero_turkish_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "35.0641773628938"
+				"height_pct" "89.89551175492755"
+			}
+		}
+	}
+	"store_asset_mtime" "1715602714"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tango Gameworks"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bethesda Softworks"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_22" "1"
+		"category_13" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_2" "1"
+		"category_29" "1"
+		"category_60" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1674680400"
+	"metacritic_score" "90"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/hi-fi-rush\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1817230"
+	"store_tags"
+	{
+		"0" "1752"
+		"1" "19"
+		"2" "1646"
+		"3" "4182"
+		"4" "1756"
+		"5" "4195"
+		"6" "4106"
+		"7" "1621"
+		"8" "1625"
+		"9" "3955"
+		"10" "4777"
+		"11" "4305"
+		"12" "1719"
+		"13" "4252"
+		"14" "4158"
+		"15" "4085"
+		"16" "4115"
+		"17" "1697"
+		"18" "5752"
+		"19" "21"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "Tango Gameworks"
+	"publisher" "Bethesda Softworks"
+	"homepage" "https://bethesda.net/en-US/game/hifirush"
+	"listofdlc" "2076280,2314670,2314700,2365950"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Hi-Fi RUSH"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Hi-Fi-RUSH.exe"
+			"description_loc"
+			{
+				"english" "Launch default."
+			}
+			"description" "Launch default."
+		}
+		"1"
+		{
+			"executable" "Hibiki.exe"
+			"arguments" "-NOVERIFYGC -NOSCREENMESSAGES -ForceAsyncCompute"
+			"config"
+			{
+				"betakey" "nv_dev"
+			}
+			"description_loc"
+			{
+				"english" "Launch Development or Test Ver. (ForceAsyncCompute)"
+			}
+			"description" "Launch Development or Test Ver. (ForceAsyncCompute)"
+		}
+		"2"
+		{
+			"executable" "Hibiki.exe"
+			"arguments" "-NOVERIFYGC -NOSCREENMESSAGES"
+			"config"
+			{
+				"betakey" "beta tango_dev it_dev"
+			}
+			"description_loc"
+			{
+				"english" "Launch Development or Test Ver."
+			}
+			"description" "Launch Development or Test Ver."
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1817231"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2352550391294550783"
+				"size" "17198010588"
+				"download" "16378834080"
+			}
+		}
+	}
+	"1817232"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2782758537428965591"
+				"size" "647117896"
+				"download" "340874016"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14142582"
+			"timeupdated" "1715781706"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "TangoGameworks/Hi-Fi RUSH (STEAM)/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinSavedGames"
+			"path" "TangoGameworks/Hi-Fi RUSH (STEAM)/Saved/Config/WindowsNoEditor"
+			"pattern" "*.ini"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26870309"
+"_sha" "318cb7d67f807f6dffd5135e3e12d9d4b59f5f6c"
+"_size" "8277"
