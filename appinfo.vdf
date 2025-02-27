@@ -1,0 +1,508 @@
+"appid" "391720"
+"common"
+{
+	"name" "Layers of Fear (2016)"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"icon" "0fc90b925c7bbdcc95df6599a01b80dff18e6bbb"
+	"clienttga" "4ac8e2f3b8e3b0edb6dcc2b19582bc56059160e6"
+	"clienticon" "2230e3592d427bd82e6c924c06e2e420648db9e8"
+	"logo" "64c61e0166b1bb2a80c57f76f2ca620f2ba49536"
+	"logo_small" "64c61e0166b1bb2a80c57f76f2ca620f2ba49536_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"clienticns" "37037259975ab8d2a28ffa2538cf99470645ed16"
+	"linuxclienticon" "3e0d41ca545a326268c56f075bb11917543a5645"
+	"osarch" ""
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1734134400"
+		"tested_build_id" "2326374"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Layers of Fear"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1732796781"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bloober Team SA"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bloober Team SA"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Layers of Fear"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Layers of Fear Fanchise"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Bloober Team"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1455573180"
+	"metacritic_score" "73"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/layers-of-fear\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "391720"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "1721"
+		"2" "4166"
+		"3" "5900"
+		"4" "3839"
+		"5" "4182"
+		"6" "1742"
+		"7" "492"
+		"8" "21"
+		"9" "3859"
+		"10" "1714"
+		"11" "4342"
+		"12" "1664"
+		"13" "3834"
+		"14" "1756"
+		"15" "5716"
+		"16" "7432"
+		"17" "1710"
+		"18" "3978"
+		"19" "4234"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Bloober Team SA"
+	"publisher" "Bloober Team SA"
+	"homepage" "http://layersoffear.com"
+	"listofdlc" "493530,550210"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Layers of Fear"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Layers Of Fear.exe"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "LOF"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "LOF.app"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2258547407"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229000"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"391721"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2319949262459381934"
+				"size" "4370647952"
+				"download" "1728660640"
+			}
+		}
+	}
+	"391722"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2962438352194839955"
+				"size" "4086502318"
+				"download" "1657176384"
+			}
+		}
+	}
+	"391723"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3911521086648383521"
+				"size" "4067795564"
+				"download" "1646984208"
+			}
+		}
+	}
+	"550210"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5946813455617328314"
+				"size" "41235144"
+				"download" "40200704"
+			}
+		}
+		"dlcappid" "550210"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2326374"
+			"timeupdated" "1511983623"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "500000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Bloober Team/Layers of Fear/{64BitSteamID}"
+			"pattern" "*.dat"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"3"
+		{
+			"root" "MacAppSupport"
+			"path" "unity.Bloober Team.Layers of Fear/{64BitSteamID}"
+			"pattern" "*.dat"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+		"5"
+		{
+			"root" "LinuxHome"
+			"path" ".config/unity3d/Bloober Team/Layers of Fear/{64BitSteamID}"
+			"pattern" "*.dat"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27104397"
+"_sha" "2a741aea1dd5f4927770a01d393a9cbd2ac40edc"
+"_size" "8588"
