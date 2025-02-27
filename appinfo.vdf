@@ -1,0 +1,515 @@
+"appid" "1296610"
+"common"
+{
+	"name" "Peglin"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "44e9bfa816f89009627931a80acbed15bc8398fb"
+	"clienttga" "9ceb3ac73e64517bf19d8299a86a7e9a9dea574e"
+	"icon" "1ab0b505d844a60144c10c9f8087a260a8db3904"
+	"logo" "659abfaffa82efa676a66f9e9f95a07a80f42e35"
+	"logo_small" "659abfaffa82efa676a66f9e9f95a07a80f42e35_thumb"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"clienticns" "65222018e58ea471c5a2fc25673f03949eafc226"
+	"name_localized"
+	{
+		"schinese" "哥布林弹球 Peglin"
+		"tchinese" "柏青哥布林 Peglin"
+		"sc_schinese" "哥布林弹球"
+	}
+	"linuxclienticon" "db1c493158a7357bd61670f5fa8126a76aa67194"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"swedish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"releasestatesteamchina" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1654300800"
+		"tested_build_id" "8837372"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "16bdac155cbb967459b576ebe2bd34efef6b0fec/capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "zh-cn,en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.1134156169148"
+			"height_pct" "96.24501290776814"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "38.1134156169148"
+				"height_pct" "96.24501290776814"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734327689"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Red Nexus Games Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Red Nexus Games Inc."
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "IndieArk"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Red Nexus Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "IndieArk"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1724778360"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1296610"
+	"store_tags"
+	{
+		"0" "32322"
+		"1" "3959"
+		"2" "1716"
+		"3" "6621"
+		"4" "1677"
+		"5" "9"
+		"6" "1759"
+		"7" "3964"
+		"8" "4726"
+		"9" "3871"
+		"10" "4711"
+		"11" "122"
+		"12" "4325"
+		"13" "3968"
+		"14" "4182"
+		"15" "1684"
+		"16" "4004"
+		"17" "493"
+		"18" "492"
+		"19" "597"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Red Nexus Games Inc."
+	"publisher" "Red Nexus Games Inc."
+	"homepage" "https://rednexus.games/"
+}
+"config"
+{
+	"installdir" "Peglin"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "peglin.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"realm" "steamglobal"
+			}
+		}
+		"1"
+		{
+			"executable" "Peglin.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"realm" "steamglobal"
+			}
+		}
+		"2"
+		{
+			"executable" "Peglin.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"realm" "steamchina"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"1296611"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1148913154652340871"
+				"size" "275308590"
+				"download" "117046880"
+			}
+			"experimental"
+			{
+				"gid" "1148913154652340871"
+				"size" "275308590"
+				"download" "117046880"
+			}
+		}
+	}
+	"1296612"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3765195231656003843"
+				"size" "365311033"
+				"download" "150053840"
+			}
+			"experimental"
+			{
+				"gid" "3765195231656003843"
+				"size" "365311033"
+				"download" "150053840"
+			}
+		}
+	}
+	"1296613"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4078642961199285654"
+				"size" "365311033"
+				"download" "150053840"
+			}
+			"experimental"
+			{
+				"gid" "4078642961199285654"
+				"size" "365311033"
+				"download" "150053840"
+			}
+		}
+	}
+	"1296614"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2425393365246833625"
+				"size" "275308590"
+				"download" "117046880"
+			}
+			"experimental"
+			{
+				"gid" "2425393365246833625"
+				"size" "275308590"
+				"download" "117046880"
+			}
+		}
+	}
+	"1296615"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4639281162184984631"
+				"size" "280272776"
+				"download" "120708832"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17341084"
+			"timeupdated" "1739386461"
+		}
+		"experimental"
+		{
+			"buildid" "17341065"
+			"description" "Least stable experimental content. Bugs & Balance issues lurk inside"
+			"timeupdated" "1739386443"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "250000000"
+	"maxnumfiles" "25"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Red Nexus Games Inc/Peglin"
+			"pattern" "*.data"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgDataHome"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27445195"
+"_sha" "7a2bfe3578e72044dd20b4cc1d78b1556a0e09c8"
+"_size" "8813"
