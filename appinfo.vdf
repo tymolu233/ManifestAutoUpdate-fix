@@ -1,0 +1,327 @@
+"appid" "758990"
+"common"
+{
+	"name" "Ancient Warfare 3"
+	"type" "Game"
+	"oslist" "windows,linux"
+	"osarch" ""
+	"icon" "a9dcd4c75ab9759a21a860cfb2fc7a3b05337756"
+	"logo" "ee293f129d39fc8c93339b5f840738dd57b1c79d"
+	"logo_small" "ee293f129d39fc8c93339b5f840738dd57b1c79d_thumb"
+	"clienticon" "aad8f227037662041fc64207d9420551b5526e6d"
+	"clienttga" "5d4e56f88fb1fbdb5594a3a121ec815129af7ebe"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "758990_eula_0"
+			"name" "Ancient Warfare 3 EULA"
+			"url" "http://store.steampowered.com//eula/758990_eula_0"
+		}
+	}
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1681776000"
+		"tested_build_id" "10243194"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Ancient Warfare 3"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "52.212876112354905"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "52.212876112354905"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1705583500"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Jannik Nickel"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Jannik Nickel"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_17" "1"
+		"category_30" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1706287656"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "758990"
+	"store_tags"
+	{
+		"0" "3810"
+		"1" "599"
+		"2" "19"
+		"3" "9"
+		"4" "492"
+		"5" "1678"
+		"6" "5310"
+		"7" "1669"
+		"8" "4182"
+		"9" "3968"
+		"10" "1774"
+		"11" "1663"
+		"12" "3839"
+		"13" "4136"
+		"14" "493"
+		"15" "3987"
+		"16" "1659"
+		"17" "17305"
+		"18" "1643"
+		"19" "3964"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Jannik Nickel"
+	"publisher" "Jannik Nickel"
+}
+"config"
+{
+	"installdir" "Ancient Warfare 3"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Ancient Warfare 3.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "AncientWarfare3.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"3"
+		{
+			"executable" "AncientWarfare3.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"workshopdepot" "758990"
+	"758991"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4769357550669336764"
+				"size" "1226878713"
+				"download" "476395952"
+			}
+		}
+	}
+	"758992"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "797297361721446293"
+				"size" "1206731402"
+				"download" "470520400"
+			}
+		}
+	}
+	"758993"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7001273524648019001"
+				"size" "1141943986"
+				"download" "453425024"
+			}
+		}
+	}
+	"758994"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7942282417446024205"
+				"size" "1261897428"
+				"download" "489409728"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16825143"
+			"timeupdated" "1734806821"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "26967820"
+"_sha" "f3dcccfca2c96eb699e70167a361bfbc17acdb58"
+"_size" "5217"
