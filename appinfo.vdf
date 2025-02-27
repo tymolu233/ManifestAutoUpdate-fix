@@ -1,0 +1,594 @@
+"appid" "1094520"
+"common"
+{
+	"name" "Sands of Salzaar"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "e26c9a458eecdc5fda86e9281868961298bcd1c9"
+	"logo_small" "e26c9a458eecdc5fda86e9281868961298bcd1c9_thumb"
+	"icon" "a05b47bb183e8f9d0cb66d4a2dbe904b606b5956"
+	"clienttga" "49d71b666fcc776e433b145d2e459cf10afe8c28"
+	"clienticon" "8af59e0db8ef37a3af2465e0d276d5ea6c5f4556"
+	"releasestate" "released"
+	"osextended" ""
+	"name_localized"
+	{
+		"english" "Sands of Salzaar"
+		"schinese" "部落与弯刀"
+		"sc_schinese" "部落与弯刀"
+	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"releasestatesteamchina" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1648080000"
+		"tested_build_id" "7958015"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "部落与弯刀"
+	"small_capsule"
+	{
+		"schinese" "67187e3adaf010de42029d2b2d13926b01f8b7a0/capsule_231x87_schinese.jpg"
+		"english" "496ef3a0c02f6c8584e5178d70146940c774d1f9/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-xc"
+		"library_hero" "en,zh-cn,zh-xc"
+		"library_logo" "en,zh-cn,zh-xc"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "35.31868782318041"
+			"height_pct" "55.92495844217525"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"sc_schinese" "library_hero_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+				"sc_schinese" "library_hero_sc_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "35.31868782318041"
+				"height_pct" "55.92495844217525"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1725348866"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "汉家松鼠Han-Squirrel Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "XD"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "X.D. Network Inc."
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1639623600"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1094520"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "122"
+		"2" "9"
+		"3" "1678"
+		"4" "492"
+		"5" "21"
+		"6" "3810"
+		"7" "4182"
+		"8" "4747"
+		"9" "1646"
+		"10" "4231"
+		"11" "4791"
+		"12" "1742"
+		"13" "3859"
+		"14" "493"
+		"15" "6915"
+		"16" "4085"
+		"17" "5611"
+		"18" "1669"
+		"19" "19"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "汉家松鼠Han-Squirrel Studio"
+	"publisher" "XD"
+	"listofdlc" "1849490,2265790,2406290,2621910"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "DesertLegend"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DesertLegend.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"workshopdepot" "1094520"
+	"hasdepotsindlc" "1"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1094521"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "236590918825912259"
+				"size" "3673986713"
+				"download" "2208153584"
+			}
+			"ver.1.0.44_old_version"
+			{
+				"gid" "6120045210565598273"
+				"size" "2774695879"
+				"download" "1860490528"
+			}
+			"ver1.0.46_old_version"
+			{
+				"gid" "646227938542262669"
+				"size" "3721583462"
+				"download" "2222955264"
+			}
+		}
+	}
+	"1094522"
+	{
+		"config"
+		{
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "951771900071158762"
+				"size" "3673986713"
+				"download" "2208131200"
+			}
+			"ver.1.0.44_old_version"
+			{
+				"gid" "7778875603807779040"
+				"size" "2774695879"
+				"download" "1860483536"
+			}
+			"ver1.0.46_old_version"
+			{
+				"gid" "3747742121109635828"
+				"size" "3721583462"
+				"download" "2222946896"
+			}
+		}
+	}
+	"1094523"
+	{
+		"config"
+		{
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3200204356937051858"
+				"size" "3673986713"
+				"download" "2208133840"
+			}
+			"ver.1.0.44_old_version"
+			{
+				"gid" "110142959708243568"
+				"size" "2774695879"
+				"download" "1860485248"
+			}
+			"ver1.0.46_old_version"
+			{
+				"gid" "2477031514807245917"
+				"size" "3721583462"
+				"download" "2222949008"
+			}
+		}
+	}
+	"1849490"
+	{
+		"dlcappid" "1849490"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5742185396179106301"
+				"size" "0"
+				"download" "0"
+			}
+			"ver.1.0.44_old_version"
+			{
+				"gid" "8423506181434578180"
+				"size" "0"
+				"download" "0"
+			}
+			"ver1.0.46_old_version"
+			{
+				"gid" "8423506181434578180"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"2265790"
+	{
+		"dlcappid" "2265790"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2610534743435740716"
+				"size" "333666"
+				"download" "278944"
+			}
+			"ver.1.0.44_old_version"
+			{
+				"gid" "2260671996338264600"
+				"size" "333949"
+				"download" "279024"
+			}
+			"ver1.0.46_old_version"
+			{
+				"gid" "2260671996338264600"
+				"size" "333949"
+				"download" "279024"
+			}
+		}
+	}
+	"2406290"
+	{
+		"dlcappid" "2406290"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7434990428603996110"
+				"size" "4371198"
+				"download" "3900128"
+			}
+			"ver.1.0.44_old_version"
+			{
+				"gid" "6768581724224557921"
+				"size" "4068473"
+				"download" "3534432"
+			}
+			"ver1.0.46_old_version"
+			{
+				"gid" "5025990431370481995"
+				"size" "4118039"
+				"download" "3575776"
+			}
+		}
+	}
+	"2621910"
+	{
+		"dlcappid" "2621910"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8131825108794397174"
+				"size" "3944856"
+				"download" "3186368"
+			}
+			"ver.1.0.44_old_version"
+			{
+				"gid" "87193901339021296"
+				"size" "0"
+				"download" "0"
+			}
+			"ver1.0.46_old_version"
+			{
+				"gid" "87193901339021296"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17079774"
+			"timeupdated" "1737700113"
+		}
+		"ver.1.0.44_old_version"
+		{
+			"sc_schinese" "unity 2018.4.14"
+			"buildid" "13630710"
+			"description" "unity 2018.4.14"
+			"timeupdated" "1712116713"
+		}
+		"ver1.0.46_old_version"
+		{
+			"buildid" "14939553"
+			"description" "相较1.0.44更改了部分模型"
+			"timeupdated" "1726050520"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100485760"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "汉家松鼠/DesertLegend/Save"
+			"pattern" "*.dat"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "汉家松鼠/DesertLegend/Save"
+			"pattern" "*.jpg"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "汉家松鼠/DesertLegend/Save"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27300794"
+"_sha" "ec8c55dfd454855b75f183701b28e3c6ad7cf449"
+"_size" "10662"
