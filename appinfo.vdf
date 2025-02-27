@@ -1,0 +1,322 @@
+"appid" "1657630"
+"common"
+{
+	"name" "Slime Rancher 2"
+	"type" "Game"
+	"logo" "eb684f2e49109a35fd7b1be9c3c1ac2da47c4c52"
+	"logo_small" "eb684f2e49109a35fd7b1be9c3c1ac2da47c4c52_thumb"
+	"icon" "8028810e9ad73e00c2385a986382c57a6b0e034e"
+	"clienticon" "a224549477241ae27531ace8872f84ef30d79085"
+	"clienttga" "6ee69c892d5d1e6807957dd5bf3939a6d0e4f75c"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1700611200"
+		"tested_build_id" "12496789"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "47.256015652734135"
+			"height_pct" "76.38888888888891"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "47.256015652734135"
+				"height_pct" "76.38888888888891"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "f7bfe860d29d84f3c690a3ded02d791ec2737564/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "f7bfe860d29d84f3c690a3ded02d791ec2737564/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733354088"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Monomi Park"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Monomi Park"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Slime Rancher"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "28"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1663865990"
+	"community_hub_visible" "1"
+	"gameid" "1657630"
+	"store_tags"
+	{
+		"0" "4726"
+		"1" "1654"
+		"2" "4305"
+		"3" "1695"
+		"4" "4182"
+		"5" "3839"
+		"6" "916648"
+		"7" "21"
+		"8" "599"
+		"9" "5350"
+		"10" "597"
+		"11" "7208"
+		"12" "4191"
+		"13" "1684"
+		"14" "3859"
+		"15" "1643"
+		"16" "4106"
+		"17" "1663"
+		"18" "19"
+		"19" "4166"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Monomi Park"
+	"publisher" "Monomi Park"
+	"homepage" "http://slimerancher.com/"
+}
+"config"
+{
+	"installdir" "Slime Rancher 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SlimeRancher2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1657631"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6069982423152242796"
+				"size" "3282348403"
+				"download" "2053872896"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17032561"
+			"timeupdated" "1738087429"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "MonomiPark/SlimeRancher2/Steam/{64BitSteamID}"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "MonomiPark/SlimeRancher2/Steam/{64BitSteamID}"
+			"pattern" "slimerancher.prf"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27680856"
+"_sha" "8a0ef94d2e412f48b56a0b83db953dc8bb3e2e37"
+"_size" "5540"
