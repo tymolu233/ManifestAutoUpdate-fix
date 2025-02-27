@@ -41,7 +41,7 @@ concurrency:
 jobs:
   update:
     #runs-on: windows-latest
-    runs-on: self-hosted
+    runs-on: jiaguyun
     steps:
       - uses: actions/checkout@v3
         with:
