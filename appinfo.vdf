@@ -1,0 +1,404 @@
+"appid" "2186680"
+"common"
+{
+	"name" "Warhammer 40,000: Rogue Trader"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "a944983525cae5819f19bb2b530cb28ea4f6bd06"
+	"clienttga" "c5683f42d32692ec4a10365f7fbafa1f3dbe23c1"
+	"clienticns" "2369e516f8205b323bfa707be26b933b4d838c8e"
+	"linuxclienticon" "ffba390c7bced89af889e7887fb8e798c7dec50e"
+	"clienticon" "325d749a7ddf231849082dc8a061d93d63500638"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"turkish" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1716336000"
+		"tested_build_id" "14403184"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "53.604413375148646"
+			"height_pct" "71.53327124580724"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "53.604413375148646"
+				"height_pct" "71.53327124580724"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1740646780"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Owlcat Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Owlcat Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Warhammer"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_27" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1701964500"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2186680"
+	"store_tags"
+	{
+		"0" "6971"
+		"1" "3859"
+		"2" "1685"
+		"3" "9"
+		"4" "17305"
+		"5" "12286"
+		"6" "4474"
+		"7" "21"
+		"8" "4747"
+		"9" "6426"
+		"10" "4325"
+		"11" "1742"
+		"12" "4604"
+		"13" "4295"
+		"14" "4182"
+		"15" "10695"
+		"16" "4145"
+		"17" "122"
+		"18" "1684"
+		"19" "3843"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "Owlcat Games"
+	"publisher" "Owlcat Games"
+	"homepage" "https://roguetrader.owlcat.games/"
+	"listofdlc" "2682660,2682670,2687230,2696650,2700400,2951990"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Warhammer 40,000 Rogue Trader"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WH40KRT.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "WH40KRT.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "2186680"
+	"hasdepotsindlc" "1"
+	"2186681"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "394607770213404363"
+				"size" "37898003186"
+				"download" "27303882800"
+			}
+		}
+	}
+	"2186682"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7221965410905799517"
+				"size" "32917094960"
+				"download" "25977629904"
+			}
+		}
+	}
+	"2687230"
+	{
+		"dlcappid" "2687230"
+	}
+	"2682670"
+	{
+		"dlcappid" "2682670"
+	}
+	"2682660"
+	{
+		"dlcappid" "2682660"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "720230203453832590"
+				"size" "1906053215"
+				"download" "1891343648"
+			}
+		}
+	}
+	"2696650"
+	{
+		"dlcappid" "2696650"
+	}
+	"2700400"
+	{
+		"dlcappid" "2700400"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17498427"
+			"timeupdated" "1740481390"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Owlcat Games/Warhammer 40000 Rogue Trader/Saved Games"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "MacHome"
+			"path" "/Library/Application Support/Owlcat Games/Warhammer 40000 Rogue Trader/Saved Games"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27692449"
+"_sha" "7239313580314af5f6bc7cb37a8e699f346bf8ed"
+"_size" "6824"
