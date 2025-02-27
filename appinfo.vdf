@@ -1,0 +1,421 @@
+"appid" "1286680"
+"common"
+{
+	"name" "Tiny Tina\'s Wonderlands"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "b542206371a059ff450cc6ce8530190fb7b085e9"
+	"logo_small" "b542206371a059ff450cc6ce8530190fb7b085e9_thumb"
+	"icon" "04df847d8960c8ba764764cf21bf96621c8e8314"
+	"clienticon" "29afc5601c27bf528da2dfbe6e3579b5966054ca"
+	"clienttga" "9572cc3ca8e0f6fd89e93d4f38f99be82c8c76a1"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"japanese" "ワンダーランズ ～タイニー・ティナと魔法の世界"
+		"koreana" "타이니 티나의 원더랜드"
+		"schinese" "小缇娜的奇幻之地"
+		"tchinese" "小蒂娜的奇幻樂園"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1286680_eula_0"
+			"name" "Tiny Tina\'s Wonderlands EULA"
+			"url" "https://store.steampowered.com//eula/1286680_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1681862400"
+		"tested_build_id" "9558333"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-1"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "26.60165041260322"
+			"height_pct" "80.1300001319296"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "26.60165041260322"
+				"height_pct" "80.1300001319296"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1737970292"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Gearbox Software"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "2K"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Tiny Tina\'s Wonderlands"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_48" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1656003840"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1286680"
+	"store_tags"
+	{
+		"0" "4236"
+		"1" "21"
+		"2" "3859"
+		"3" "353880"
+		"4" "1774"
+		"5" "122"
+		"6" "1663"
+		"7" "1684"
+		"8" "3843"
+		"9" "19"
+		"10" "1719"
+		"11" "1685"
+		"12" "4182"
+		"13" "4747"
+		"14" "4252"
+		"15" "5094"
+		"16" "6730"
+		"17" "4155"
+		"18" "3841"
+		"19" "4191"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"developer" "Gearbox Software"
+	"publisher" "2K"
+	"homepage" "http://Playwonderlands.com"
+	"listofdlc" "1621030,1621031,1621032,1622260,1769530,1769531,1769532,1769533"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Tiny Tina\'s Wonderlands"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "OakGame\\Binaries\\Win64\\Wonderlands.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229033"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1286681"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1177491222246009560"
+				"size" "52245041381"
+				"download" "51481477952"
+			}
+		}
+	}
+	"1286682"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7148413644585661403"
+				"size" "115648224"
+				"download" "29517040"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10922058"
+			"timeupdated" "1682006847"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Tiny Tina\'s Wonderlands/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "OakGame/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27384472"
+"_sha" "519717ac6eba679e8cee2d3c1250d90b17ab3d83"
+"_size" "7400"
