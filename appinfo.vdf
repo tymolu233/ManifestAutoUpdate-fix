@@ -1,0 +1,232 @@
+"appid" "495140"
+"common"
+{
+	"name" "NARUTO: Ultimate Ninja STORM"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+	}
+	"clienttga" "a77a7aebfb0e49ea73964b855266ef2aca1d0a2f"
+	"clienticon" "5b64dd67f83d0919468c1f40606aee4f36915341"
+	"icon" "6dd83d0ceedcac7ee60c08a478db6fcd54d820d1"
+	"clienticns" "95b49530a5eca5d2b76a02d6a83d58d43305b118"
+	"logo" "a2f13b74b4fdbc0cf4458afaa8fccbdf45b6ab60"
+	"logo_small" "a2f13b74b4fdbc0cf4458afaa8fccbdf45b6ab60_thumb"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1645488000"
+		"tested_build_id" "1722088"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "NARUTO: Ultimate Ninja STORM"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_6a91e2b4402d57d6c06e29762453c77cf76caf77.jpg"
+	"store_asset_mtime" "1503047862"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CyberConnect2 Co. Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "BANDAI NAMCO Entertainment"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_25" "1"
+		"category_28" "1"
+		"category_37" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1503674121"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "495140"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "21"
+		"2" "4085"
+		"3" "1743"
+		"4" "1695"
+		"5" "3859"
+		"6" "1688"
+		"7" "4182"
+		"8" "1742"
+		"9" "6506"
+	}
+	"review_score" "6"
+	"review_percentage" "76"
+}
+"extended"
+{
+	"developer" "CyberConnect2 Co. Ltd."
+	"publisher" "BANDAI NAMCO Entertainment"
+	"homepage" "http://www.naruto-videogames.com/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "QWANT"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "NSUNS1.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish"
+	"495141"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8686507798773437685"
+				"size" "8087875030"
+				"download" "6503569328"
+			}
+			"ns3_debug"
+			{
+				"gid" "958427519857451107"
+				"size" "8206154033"
+				"download" "6283097568"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1722088"
+			"timeupdated" "1503670882"
+		}
+		"ns3_debug"
+		{
+			"buildid" "1688034"
+			"timeupdated" "1489499302"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "496512"
+	"maxnumfiles" "9"
+}
+"_missing_token" "False"
+"_change_number" "27339641"
+"_sha" "4764d718f6ba36e3e0715eef0b2b139f5bc0d733"
+"_size" "4284"
