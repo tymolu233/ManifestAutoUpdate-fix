@@ -1,0 +1,649 @@
+"appid" "252490"
+"common"
+{
+	"name" "Rust"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"logo" "ced8982cc46ce2b31cdb746f0abf61e9e8935913"
+	"logo_small" "ced8982cc46ce2b31cdb746f0abf61e9e8935913_thumb"
+	"clienttga" "35c8e5a3ad4b435df025910d95f24e49a64dbb7b"
+	"clienticon" "acf87ad23570b3c81f8c9cfc19544a07edd8b632"
+	"icon" "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c"
+	"clienticns" "abb808c6e7bb5e97119f0ae1a80cdd7681fecfc2"
+	"linuxclienticon" "fdd1ccf5c2013cf6fc87eb0876affd64ba5e938b"
+	"requireskbmouse" "1"
+	"osarch" "64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "252490_eula_0"
+			"name" "Rust EULA"
+			"url" "https://store.steampowered.com//eula/252490_eula_0"
+			"version" "2"
+		}
+	}
+	"osextended" "macos64"
+	"exfgls" "1"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1653436800"
+		"tested_build_id" "8173552"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "nomfdxgiman,"
+		}
+	}
+	"market_presence" "1"
+	"metacritic_name" "Rust"
+	"small_capsule"
+	{
+		"english" "21aac0b6e20e1ba12f635e7deb730e32a51afbd5/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "47.80320366132722"
+			"height_pct" "68.15197335787724"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "47.80320366132722"
+				"height_pct" "68.15197335787724"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1738927709"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Facepunch Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Facepunch Studios"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "29"
+		"4" "3"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_27" "1"
+		"category_8" "1"
+		"category_20" "1"
+		"category_30" "1"
+		"category_35" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_15" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1518112320"
+	"metacritic_score" "69"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/rust\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "252490"
+	"store_tags"
+	{
+		"0" "1662"
+		"1" "1702"
+		"2" "3859"
+		"3" "1695"
+		"4" "1100689"
+		"5" "1643"
+		"6" "1775"
+		"7" "3810"
+		"8" "21"
+		"9" "3839"
+		"10" "19"
+		"11" "6650"
+		"12" "1663"
+		"13" "1774"
+		"14" "1685"
+		"15" "3843"
+		"16" "492"
+		"17" "3835"
+		"18" "493"
+		"19" "599"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"gamedir" "Rust"
+	"serverbrowsername" "Rust"
+	"developer" "Facepunch Studios"
+	"publisher" "Facepunch Studios"
+	"homepage" "http://rust.facepunch.com/"
+	"listofdlc" "494560,1174370,1353060,1374000,1670430"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Rust"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "rust.exe"
+			"arguments" "-logfile \"output_log.txt\" -timestamps -disable-gpu-skinning --normal-rendering \"-graphics.dlss -1\" -graphics.dlss 1- \" -graphics.dlss 1-\""
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+		"1"
+		{
+			"executable" "./rust.app"
+			"arguments" "-logfile \"output_log.txt\" -timestamps -disable-gpu-skinning --normal-rendering \"-graphics.dlss -1\" -graphics.dlss 1-"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+		"2"
+		{
+			"executable" "rust"
+			"arguments" "-logfile \"output_log.txt\" -timestamps -disable-gpu-skinning --normal-rendering \"-graphics.dlss -1\" \"-graphics.dlss -1\" -graphics.dlss 1-"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+		"3"
+		{
+			"executable" "rust.exe"
+			"arguments" "-logfile \"output_log.txt\" -timestamps"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "test"
+			}
+			"description_loc"
+			{
+				"english" "Rust with GPU skinning (experimental)"
+			}
+			"description" "Rust with GPU skinning (experimental)"
+		}
+		"4"
+		{
+			"executable" "./rust.app"
+			"arguments" "-logfile \"output_log.txt\" -timestamps"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "test"
+			}
+			"description_loc"
+			{
+				"english" "Rust with GPU skinning (experimental)"
+			}
+			"description" "Rust with GPU skinning (experimental)"
+		}
+		"5"
+		{
+			"executable" "rust"
+			"arguments" "-logfile \"output_log.txt\" -timestamps"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "test"
+			}
+			"description_loc"
+			{
+				"english" "Rust with GPU skinning (experimental)"
+			}
+			"description" "Rust with GPU skinning (experimental)"
+		}
+	}
+	"systemprofile" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2109102606"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"sdr-groups-global" "steam-global,ovh"
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"depotdeltapatches" "1"
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"workshopdepot" "252490"
+	"hasdepotsindlc" "1"
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"252494"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8331423241239585982"
+				"size" "38271973185"
+				"download" "21535040320"
+			}
+			"last-last-month"
+			{
+				"gid" "7442950862777521701"
+				"size" "36419942311"
+				"download" "20465965616"
+			}
+			"last-month"
+			{
+				"gid" "7769180017081318169"
+				"size" "36593589017"
+				"download" "20548556672"
+			}
+			"test"
+			{
+				"gid" "6237166519664317351"
+				"size" "37852817027"
+				"download" "21160583264"
+			}
+		}
+	}
+	"252492"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8591528359479675756"
+				"size" "5929646484"
+				"download" "2077950624"
+			}
+			"last-last-month"
+			{
+				"gid" "4170521777722051778"
+				"size" "5501720712"
+				"download" "1835307056"
+			}
+			"last-month"
+			{
+				"gid" "8361257782429560264"
+				"size" "5674605809"
+				"download" "1997436016"
+			}
+			"test"
+			{
+				"gid" "5572466189648797036"
+				"size" "5929457986"
+				"download" "2077831712"
+			}
+		}
+	}
+	"252495"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8369150819148345416"
+				"size" "956871705"
+				"download" "494626288"
+			}
+			"last-last-month"
+			{
+				"gid" "5364190322732344082"
+				"size" "749020990"
+				"download" "309433456"
+			}
+			"last-month"
+			{
+				"gid" "5334291610056741350"
+				"size" "920824902"
+				"download" "471006240"
+			}
+			"test"
+			{
+				"gid" "6971406074665383482"
+				"size" "951509793"
+				"download" "493404912"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17483978"
+			"timeupdated" "1740474251"
+		}
+		"last-last-month"
+		{
+			"buildid" "16757529"
+			"description" "Last last months patch"
+			"timeupdated" "1738866468"
+		}
+		"last-month"
+		{
+			"buildid" "17123106"
+			"description" "Last months patch"
+			"timeupdated" "1738866564"
+		}
+		"test"
+		{
+			"buildid" "17265509"
+			"description" "GPU skinning test"
+			"timeupdated" "1738867964"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "2000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "cfg"
+			"pattern" "keys.cfg"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "cfg"
+			"pattern" "favorites.cfg"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27692825"
+"_sha" "a55d39abf4a648e26576aa70f183b15a6832f4c8"
+"_size" "11718"
