@@ -1,0 +1,586 @@
+"appid" "493340"
+"common"
+{
+	"name" "Planet Coaster"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"icon" "1b2f29e743dd3048f21fefd9642d86a5f5123968"
+	"logo" "9df37efd0c484de309e8bde39809dfb0a9704c21"
+	"logo_small" "9df37efd0c484de309e8bde39809dfb0a9704c21_thumb"
+	"clienticon" "b071d8d4fcb4ad3b5e08cbaf65d8aae0b490780e"
+	"clienttga" "f7071c6d1dd8d7a7296a26c83ca5e6ca34d8a642"
+	"releasestate" "released"
+	"osarch" "64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "493340_eula_0"
+			"name" "Planet Coaster EULA"
+			"url" "http://store.steampowered.com//eula/493340_eula_0"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"japanese" "プラネットコースター"
+		"koreana" "플래닛 코스터"
+		"schinese" "过山车之星"
+		"tchinese" "雲霄飛車之星"
+	}
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "6769941"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_AudioOutputHasNonblockingIssues"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+			"7"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"metacritic_name" "Planet Coaster"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "29"
+			"height_pct" "78"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "29"
+				"height_pct" "78"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1684331352"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Frontier Developments"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Aspyr (Mac)"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Frontier Developments"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Aspyr (Mac)"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Planet Coaster"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "28"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_30" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1479398700"
+	"metacritic_score" "84"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/planet-coaster\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "493340"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "1643"
+		"2" "12472"
+		"3" "3810"
+		"4" "5350"
+		"5" "1654"
+		"6" "9"
+		"7" "4182"
+		"8" "4175"
+		"9" "4695"
+		"10" "4136"
+		"11" "1756"
+		"12" "4166"
+		"13" "4305"
+		"14" "1697"
+		"15" "4328"
+		"16" "597"
+		"17" "5300"
+		"18" "4191"
+		"19" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+	"review_score_bombs" "8"
+	"review_percentage_bombs" "91"
+}
+"extended"
+{
+	"developer" "Frontier Developments"
+	"publisher" "Frontier Developments"
+	"homepage" "https://www.planetcoaster.com/"
+	"listofdlc" "520710,540750,540751,540752,540760,553770,553771,611400,611420,611421,710490,710500,710530,768830,821090,891230,953660,995780,1061350,1092880,1094160,2171430"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Planet Coaster"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CPT.release.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_release, dev_release_trunk"
+			}
+			"description_loc"
+			{
+				"english" "Planet Coaster (Release Build)"
+			}
+			"description" "Planet Coaster (Release Build)"
+		}
+		"1"
+		{
+			"executable" "CPT.profile.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_release, dev_release_trunk, ext_dev_instrumented, ext_live_instrumented"
+			}
+			"description_loc"
+			{
+				"english" "Planet Coaster (Profile Build)"
+			}
+			"description" "Planet Coaster (Profile Build)"
+		}
+		"2"
+		{
+			"executable" "PlanetCoaster.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "CPT.release.exe"
+			"description" "Planet Coaster (Release Build)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "local"
+			}
+		}
+		"4"
+		{
+			"executable" "CPT.profile.exe"
+			"description" "Planet Coaster (Profile Build)"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "local"
+			}
+		}
+		"5"
+		{
+			"executable" "PlanetCoaster.profile.exe"
+			"description" "Planet Coaster (Profile Build)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "outsource_qa"
+			}
+		}
+		"6"
+		{
+			"executable" "Planet Coaster.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"7"
+		{
+			"executable" "CPTConsole.profile.exe"
+			"description" "Demo"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "branch_2"
+			}
+		}
+		"8"
+		{
+			"executable" "CPTConsole.profile.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "internal_1"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "493340"
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,japanese,brazilian"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"493341"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1860998967709107590"
+				"size" "12318237971"
+				"download" "12077557504"
+			}
+		}
+	}
+	"553770"
+	{
+		"dlcappid" "553770"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "85056478682462288"
+				"size" "752315649"
+				"download" "745018160"
+			}
+		}
+	}
+	"553771"
+	{
+		"dlcappid" "553771"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2666834127152107450"
+				"size" "33457179"
+				"download" "30930624"
+			}
+		}
+	}
+	"493359"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5359596109481587651"
+				"size" "12052362781"
+				"download" "11852813808"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14428432"
+			"timeupdated" "1716210011"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "Frontier Developments/Planet Coaster/{64BitSteamID}/Saves/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinSavedGames"
+			"path" "Frontier Developments/Planet Coaster/{64BitSteamID}/Config/"
+			"pattern" "*_remote.config.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "MacAppSupport"
+			"path" "Planet Coaster/Saves/Frontier Developments/Planet Coaster/{64BitSteamID}/Saves/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "MacAppSupport"
+			"path" "Planet Coaster/Saves/Frontier Developments/Planet Coaster/{64BitSteamID}/Config/"
+			"pattern" "*_remote.config.xml"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" "Planet Coaster/Saves/"
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinSavedGames"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Planet Coaster/Saves/Frontier Developments/Planet Coaster/{64BitSteamID}/Saves/"
+					"replace" "Frontier Developments/Planet Coaster/{64BitSteamID}/Saves/"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27104407"
+"_sha" "e186765fb331fc00960268bf6a5a058ac800100e"
+"_size" "10625"
