@@ -1,0 +1,576 @@
+"appid" "418240"
+"common"
+{
+	"name" "Shadow Tactics: Blades of the Shogun"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"logo" "9ca95758bb56d4ab81fb976f30950ad0a3e957e1"
+	"logo_small" "9ca95758bb56d4ab81fb976f30950ad0a3e957e1_thumb"
+	"clienticon" "e64c61ad70b477c279e4e8fe8bb51192faad71e1"
+	"clienttga" "03a420c172a66c87b49df082c5f3c875e680b33f"
+	"icon" "7f933b7e1bcb83caf3bbcc9a143aee85b8a677af"
+	"releasestate" "released"
+	"osarch" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"clienticns" "e5c881742fd49c6e21fe36940891e6342863bdfe"
+	"linuxclienticon" "7cdeabcd323ade1d904b4202b10f0870221aaefa"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1647302400"
+		"tested_build_id" "8124387"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Shadow Tactics: Blades of the Shogun"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "47.2093023255814"
+			"height_pct" "90.47589646164806"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "47.2093023255814"
+				"height_pct" "90.47589646164806"
+			}
+		}
+	}
+	"store_asset_mtime" "1662471015"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mimimi Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Daedalic Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Daedalic Entertainment"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1481011200"
+	"steam_release_date" "1481043360"
+	"metacritic_score" "85"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/shadow-tactics-blades-of-the-shogun\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "418240"
+	"store_tags"
+	{
+		"0" "1687"
+		"1" "9"
+		"2" "1708"
+		"3" "1688"
+		"4" "3813"
+		"5" "4182"
+		"6" "492"
+		"7" "5851"
+		"8" "4376"
+		"9" "3987"
+		"10" "19"
+		"11" "1676"
+		"12" "4026"
+		"13" "4667"
+		"14" "4166"
+		"15" "1697"
+		"16" "21"
+		"17" "1662"
+		"18" "1664"
+		"19" "1756"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Mimimi Games"
+	"publisher" "Daedalic Entertainment"
+	"homepage" "http://www.shadow-tactics.com"
+	"listofdlc" "571410"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Shadow Tactics"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Shadow Tactics.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "Shadow Tactics.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "Shadow Tactics"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"4"
+		{
+			"executable" "open_bonus_win.bat"
+			"description" "Bonus Content"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "571410"
+			}
+		}
+		"5"
+		{
+			"executable" "open_bonus_osx.sh"
+			"description" "Bonus Content"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+				"ownsdlc" "571410"
+			}
+		}
+		"6"
+		{
+			"executable" "open_bonus_lin.sh"
+			"description" "Bonus Content"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"ownsdlc" "571410"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65528"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian"
+	"hasdepotsindlc" "1"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"418241"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2234455499182889617"
+				"size" "7792493860"
+				"download" "3323937664"
+			}
+			"1.4.4"
+			{
+				"gid" "547844329454899423"
+				"size" "9594091364"
+				"download" "4656133104"
+			}
+			"2.2.2"
+			{
+				"gid" "6193499570758826160"
+				"size" "7806745335"
+				"download" "3324545744"
+			}
+		}
+	}
+	"418242"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8855741290430538859"
+				"size" "7825549111"
+				"download" "3330932656"
+			}
+			"1.4.4"
+			{
+				"gid" "7166914117778407482"
+				"size" "9617225236"
+				"download" "4667512688"
+			}
+			"2.2.2"
+			{
+				"gid" "1965331491417408619"
+				"size" "7817843370"
+				"download" "3331182000"
+			}
+		}
+	}
+	"418243"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2079282393073667094"
+				"size" "7896193075"
+				"download" "3337547552"
+			}
+			"1.4.4"
+			{
+				"gid" "3809133461538240130"
+				"size" "9653574557"
+				"download" "4676654896"
+			}
+			"2.2.2"
+			{
+				"gid" "3343965086290138819"
+				"size" "7847161202"
+				"download" "3335100896"
+			}
+		}
+	}
+	"571410"
+	{
+		"dlcappid" "571410"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6524828579651589822"
+				"size" "108018528"
+				"download" "99723488"
+			}
+			"1.4.4"
+			{
+				"gid" "6524828579651589822"
+				"size" "108018528"
+				"download" "99723488"
+			}
+			"2.2.2"
+			{
+				"gid" "6524828579651589822"
+				"size" "108018528"
+				"download" "99723488"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8181738"
+			"timeupdated" "1646126338"
+		}
+		"1.4.4"
+		{
+			"buildid" "2099785"
+			"description" "Release Version v1"
+			"timeupdated" "1512988165"
+		}
+		"2.2.2"
+		{
+			"buildid" "2525365"
+			"description" "Release Version v2.2.2"
+			"timeupdated" "1528360185"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Daedalic Entertainment GmbH/Shadow Tactics Blades of the Shogun"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgDataHome"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27103768"
+"_sha" "b317c388ace9a2b3cfb58dddbd531c20fbbdfb3f"
+"_size" "10033"
