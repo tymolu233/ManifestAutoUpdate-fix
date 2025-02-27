@@ -1,0 +1,135 @@
+"appid" "390500"
+"common"
+{
+	"name" "Arma 3 Samples"
+	"section_type" "ownersonly"
+	"type" "Tool"
+	"icon" "3e7b73c0705b59570663ef5090c118eb3a591e37"
+	"logo" "4cb67b07218cf3b498cb3d68e445696dbcfffd1c"
+	"logo_small" "4cb67b07218cf3b498cb3d68e445696dbcfffd1c_thumb"
+	"clienttga" "738ee59eb2c7c34ae7921722400398513610f0e8"
+	"clienticon" "54df35d94301e5a7fba403365d1d890e3078537b"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "390500_eula_0"
+			"name" "Arma 3 Samples EULA"
+			"url" "http://store.steampowered.com//eula/390500_eula_0"
+		}
+	}
+	"releasestate" "released"
+	"parent" "107410"
+	"metacritic_name" "Arma 3 Asset Samples"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_6e126dcf801cd7d20f573cea53fa9f1de90a187d.jpg"
+	"store_asset_mtime" "1440080904"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bohemia Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bohemia Interactive"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"gameid" "390500"
+	"exfgls" "9"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Bohemia Interactive"
+	"publisher" "Bohemia Interactive"
+	"homepage" "http://dev.arma3.com/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Arma 3 Samples"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "openArma3Samples.bat"
+			"arguments" "\"%installdir%\""
+			"description" "Open the Samples directory"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"390501"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9078878636522247298"
+				"size" "4339885791"
+				"download" "3723530960"
+			}
+			"development"
+			{
+				"gid" "9078878636522247298"
+				"size" "4339885791"
+				"download" "3723530960"
+			}
+		}
+	}
+	"233802"
+	{
+		"depotfromapp" "233800"
+	}
+	"390502"
+	{
+		"manifests"
+		{
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6608327"
+			"timeupdated" "1620124005"
+		}
+		"development"
+		{
+			"buildid" "6608327"
+			"description" "Development Build"
+			"timeupdated" "1619534266"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "f2a4a251c6aa68b6a957b1f157323a50d1487e27"
+"_size" "2282"
