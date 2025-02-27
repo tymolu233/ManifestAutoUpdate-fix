@@ -1,0 +1,428 @@
+"appid" "763890"
+"common"
+{
+	"name" "Wildermyth"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"logo" "e86c5bcdf71d9e86d8be62e7339545f1529e8793"
+	"logo_small" "e86c5bcdf71d9e86d8be62e7339545f1529e8793_thumb"
+	"icon" "d1d7287619c05af415234776315019124fbb032e"
+	"clienttga" "aad3caccf8f883497fc4db0c71dab6621a1123c2"
+	"clienticon" "8075e58d6872d87035ab63da8f60dc76dc145828"
+	"releasestate" "released"
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"schinese" "漫野奇谭"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"schinese" "1"
+		"russian" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"clienticns" "ac9f9466cfc00b82495fd60cf3ce6efb406f1eb6"
+	"linuxclienticon" "3ecaf54d6a9fcac1df6cbe35cd40ad5298e68334"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1666828800"
+		"tested_build_id" "9435634"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Wildermyth"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "47b724b843dd9b85e9aa1bbc114dc96c72d96575/capsule_231x87.jpg"
+		"schinese" "47b724b843dd9b85e9aa1bbc114dc96c72d96575/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "82.1477846958753"
+			"height_pct" "49.57845314764208"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "82.1477846958753"
+				"height_pct" "49.57845314764208"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "7b1d81ecb536682c2044252636f9eb7c2c4db970/library_header_schinese.jpg"
+				"english" "ceb9b0dfbddce5744b25142c7227bedb65d6db19/library_header.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "7b1d81ecb536682c2044252636f9eb7c2c4db970/library_header_schinese_2x.jpg"
+				"english" "ceb9b0dfbddce5744b25142c7227bedb65d6db19/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1740520912"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Worldwalker Games LLC"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Worldwalker Games LLC"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "WhisperGames"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_30" "1"
+		"category_17" "1"
+		"category_44" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_48" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1623776655"
+	"metacritic_score" "86"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/wildermyth\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "763890"
+	"store_tags"
+	{
+		"0" "10695"
+		"1" "6426"
+		"2" "1742"
+		"3" "14139"
+		"4" "4747"
+		"5" "5125"
+		"6" "21725"
+		"7" "1684"
+		"8" "3959"
+		"9" "1741"
+		"10" "6815"
+		"11" "122"
+		"12" "5608"
+		"13" "1677"
+		"14" "1751"
+		"15" "1669"
+		"16" "492"
+		"17" "9"
+		"18" "4182"
+		"19" "4975"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"absolutemousecoordinates" "1"
+	"remoteplaytogethertestingbranches" "internal"
+	"developer" "Worldwalker Games LLC"
+	"publisher" "Worldwalker Games LLC"
+	"homepage" "http://wildermyth.com"
+	"listofdlc" "2139130,2935580"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Wildermyth"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "wildermyth.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "wildermyth.app\\Contents\\MacOS\\wildermyth"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "wildermyth"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"763891"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7635630283433231798"
+				"size" "2802887854"
+				"download" "2384569120"
+			}
+			"unstable"
+			{
+				"gid" "7635630283433231798"
+				"size" "2802887854"
+				"download" "2384569120"
+			}
+		}
+	}
+	"763892"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4588128635217403595"
+				"size" "2887840998"
+				"download" "2404649200"
+			}
+			"unstable"
+			{
+				"gid" "4588128635217403595"
+				"size" "2887840998"
+				"download" "2404649200"
+			}
+		}
+	}
+	"763893"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4019764502925462756"
+				"size" "2910535674"
+				"download" "2410332464"
+			}
+			"unstable"
+			{
+				"gid" "4019764502925462756"
+				"size" "2910535674"
+				"download" "2410332464"
+			}
+		}
+	}
+	"workshopdepot" "763890"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17003463"
+			"timeupdated" "1736883502"
+		}
+		"unstable"
+		{
+			"buildid" "17003463"
+			"description" "Preview the upcoming patch, help us test it"
+			"timeupdated" "1736883477"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "players"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" "wildermyth.app\\Contents\\Resources"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27664384"
+"_sha" "116afe6f1a88959a57bebf38db27aaa8dd761d1e"
+"_size" "7919"
