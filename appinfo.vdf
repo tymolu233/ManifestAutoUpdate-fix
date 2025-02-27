@@ -1,0 +1,603 @@
+"appid" "1940340"
+"common"
+{
+	"name" "Darkest Dungeon® II"
+	"type" "Game"
+	"icon" "ec502cc4a786955cf7032b70351cf36c4b06114c"
+	"clienttga" "7889f9241a51417954cbde488313e491165a7a07"
+	"clienticon" "8a4d50636158defdd18ba4d4ee32594617510a39"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1940340_eula_0"
+			"name" "Darkest Dungeon® II EULA"
+			"url" "https://store.steampowered.com//eula/1940340_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1692057600"
+		"tested_build_id" "11895650"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Darkest Dungeon II"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "88bce465a7e3df7d1974f7669ec44b7b07a1e031/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "23.21550309176307"
+			"height_pct" "64.5849132274555"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "0500a05e2c7a4bab95ea6ab2680fb97127fbf4f5/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "0500a05e2c7a4bab95ea6ab2680fb97127fbf4f5/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "75ecbdc2293ee0f23b76a9d437cba9ff8df4a452/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "75ecbdc2293ee0f23b76a9d437cba9ff8df4a452/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "75ecbdc2293ee0f23b76a9d437cba9ff8df4a452/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "7e0f01e6921dde5719df001e5d744ceac38f0531/logo.png"
+			}
+			"image2x"
+			{
+				"english" "7e0f01e6921dde5719df001e5d744ceac38f0531/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "23.21550309176307"
+				"height_pct" "64.5849132274555"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1738151186"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Red Hook Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Red Hook Studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Darkest Dungeon"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1683560824"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/darkest-dungeon-ii\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1940340"
+	"store_tags"
+	{
+		"0" "14139"
+		"1" "3959"
+		"2" "1720"
+		"3" "4604"
+		"4" "7432"
+		"5" "4182"
+		"6" "1716"
+		"7" "1759"
+		"8" "4474"
+		"9" "1677"
+		"10" "1742"
+		"11" "4325"
+		"12" "3871"
+		"13" "10695"
+		"14" "6815"
+		"15" "3952"
+		"16" "5125"
+		"17" "122"
+		"18" "1741"
+		"19" "4252"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "Red Hook Studios"
+	"publisher" "Red Hook Studios"
+	"homepage" "https://www.darkestdungeon.com/"
+	"listofdlc" "2598510,3205310"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Darkest Dungeon® II"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Darkest Dungeon II.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "Darkest Dungeon II.exe"
+			"arguments" "-allowEditorPrefs"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "staging"
+			}
+			"description_loc"
+			{
+				"english" "Allow Editor Prefs"
+			}
+			"description" "Allow Editor Prefs"
+		}
+		"4"
+		{
+			"executable" "Darkest Dungeon II.exe"
+			"arguments" "-allowEditorPrefs"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "private_test"
+			}
+			"description_loc"
+			{
+				"english" "Allow Editor Prefs"
+			}
+			"description" "Allow Editor Prefs"
+		}
+		"5"
+		{
+			"executable" "Darkest Dungeon II.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"6"
+		{
+			"executable" "Darkest Dungeon II.exe"
+			"arguments" "-allowEditorPrefs"
+			"config"
+			{
+				"betakey" "kingdoms_stream"
+			}
+			"description_loc"
+			{
+				"english" "Abomination Automatically Unlocked"
+			}
+			"description" "Abomination Automatically Unlocked"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3013149368"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,coming_in_hot,daily,private_test,staging"
+			"use_action_block" "false"
+		}
+		"3013429671"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,coming_in_hot,daily,private_test,staging"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "9"
+}
+"depots"
+{
+	"workshopdepot" "1940340"
+	"1940341"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6170469594956133720"
+				"size" "5703047539"
+				"download" "4588125104"
+			}
+			"coming_in_hot"
+			{
+				"gid" "6170469594956133720"
+				"size" "5703047539"
+				"download" "4588125104"
+			}
+		}
+	}
+	"2598510"
+	{
+		"dlcappid" "2598510"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2859430314142014200"
+				"size" "224784516"
+				"download" "175740592"
+			}
+			"coming_in_hot"
+			{
+				"gid" "2859430314142014200"
+				"size" "224784516"
+				"download" "175740592"
+			}
+		}
+	}
+	"1940342"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3998301622169643607"
+				"size" "6223823448"
+				"download" "4919999328"
+			}
+			"coming_in_hot"
+			{
+				"gid" "3998301622169643607"
+				"size" "6223823448"
+				"download" "4919999328"
+			}
+		}
+	}
+	"2598511"
+	{
+		"dlcappid" "2598510"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "715740815730264009"
+				"size" "244131931"
+				"download" "188779424"
+			}
+			"coming_in_hot"
+			{
+				"gid" "715740815730264009"
+				"size" "244131931"
+				"download" "188779424"
+			}
+		}
+	}
+	"3205310"
+	{
+		"dlcappid" "3205310"
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3554509721045482360"
+				"size" "442731533"
+				"download" "347658896"
+			}
+			"coming_in_hot"
+			{
+				"gid" "3554509721045482360"
+				"size" "442731533"
+				"download" "347658896"
+			}
+		}
+	}
+	"3205311"
+	{
+		"dlcappid" "3205310"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7034204501395942956"
+				"size" "545320215"
+				"download" "414365536"
+			}
+			"coming_in_hot"
+			{
+				"gid" "7034204501395942956"
+				"size" "545320215"
+				"download" "414365536"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17504452"
+			"timeupdated" "1740513792"
+		}
+		"coming_in_hot"
+		{
+			"buildid" "17504452"
+			"description" "Experimental builds"
+			"timeupdated" "1740513753"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "RedHook/Darkest Dungeon II/SaveFiles/{64BitSteamID}/"
+			"pattern" "*.json"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27704687"
+"_sha" "eff1c42112594a20bd39822838ba556a7909dc0b"
+"_size" "10729"
