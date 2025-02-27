@@ -1,0 +1,798 @@
+"appid" "1351630"
+"common"
+{
+	"name" "Ys IX: Monstrum Nox"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "b2e5b29a1ef6970bfaf5e6d386c969f9c65158b2"
+	"logo" "544b031b67ccc2d316e02170de9010d490499a84"
+	"logo_small" "544b031b67ccc2d316e02170de9010d490499a84_thumb"
+	"clienticon" "3fc7313ac673d343909e66611dbfb3194dd9ebcf"
+	"clienttga" "e688eb5cd59900497b9ac5bf065c20648bfe911d"
+	"name_localized"
+	{
+		"japanese" "イースIX -Monstrum NOX-"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"french" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1648684800"
+		"tested_build_id" "8007048"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "ae6890b258edfaccc4b8e25b8550efe791831c38/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "7959dc088530b2b8b5e5d8c501b6b8aefc6c4f0b/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "7959dc088530b2b8b5e5d8c501b6b8aefc6c4f0b/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730326685"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Nihon Falcom"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "PH3 GmbH"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Engine Software BV"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "NIS America, Inc."
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Ys"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_44" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_1" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1625590796"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1351630"
+	"store_tags"
+	{
+		"0" "4434"
+		"1" "19"
+		"2" "4231"
+		"3" "1742"
+		"4" "122"
+		"5" "5411"
+		"6" "4342"
+		"7" "1684"
+		"8" "4305"
+		"9" "5984"
+		"10" "4085"
+		"11" "4182"
+		"12" "1756"
+		"13" "4191"
+		"14" "21"
+		"15" "1646"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,ph3_internal,test,version_1.1.2,version_1.1.3"
+	"developer" "Nihon Falcom"
+	"publisher" "NIS America, Inc."
+	"listofdlc" "1627580,1627581,1627582,1627583,1627584,1627585,1627586,1636780"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Ys IX Monstrum Nox"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ys9.exe"
+			"type" "default"
+		}
+		"1"
+		{
+			"executable" "ys9_debugopt.exe"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "test"
+			}
+			"description_loc"
+			{
+				"english" "English Debug Optimized"
+			}
+			"description" "English Debug Optimized"
+		}
+		"2"
+		{
+			"executable" "ys9_JP.exe"
+			"type" "option2"
+			"config"
+			{
+				"betakey" "ph3_internal"
+			}
+			"description_loc"
+			{
+				"english" "Japanese Release"
+			}
+			"description" "Japanese Release"
+		}
+		"3"
+		{
+			"executable" "ys9_debugopt_JP.exe"
+			"type" "option3"
+			"config"
+			{
+				"betakey" "ph3_internal"
+			}
+			"description_loc"
+			{
+				"english" "Japanese Debug Optimized"
+			}
+			"description" "Japanese Debug Optimized"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1351631"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3164049132182838365"
+				"size" "9527502260"
+				"download" "6204496160"
+			}
+			"local"
+			{
+				"gid" "8007707673646710131"
+				"size" "11965546509"
+				"download" "7871677328"
+			}
+			"version_1.0.4"
+			{
+				"gid" "114437753786193083"
+				"size" "9558119604"
+				"download" "6228129520"
+			}
+			"version_1.0.5"
+			{
+				"gid" "4297282270905907451"
+				"size" "9557995188"
+				"download" "6228071920"
+			}
+			"version_1.1.2"
+			{
+				"gid" "5994985871612224780"
+				"size" "9525134588"
+				"download" "6203755648"
+			}
+			"version_1.1.3"
+			{
+				"gid" "3827033371480168087"
+				"size" "9527504548"
+				"download" "6204494864"
+			}
+			"version_1.1.4"
+			{
+				"gid" "3164049132182838365"
+				"size" "9527502260"
+				"download" "6204496160"
+			}
+		}
+	}
+	"1627580"
+	{
+		"dlcappid" "1627580"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9147202980883179437"
+				"size" "83363"
+				"download" "42592"
+			}
+			"version_1.0.4"
+			{
+				"gid" "369749129856203807"
+				"size" "83363"
+				"download" "42592"
+			}
+			"version_1.0.5"
+			{
+				"gid" "369749129856203807"
+				"size" "83363"
+				"download" "42592"
+			}
+			"version_1.1.2"
+			{
+				"gid" "369749129856203807"
+				"size" "83363"
+				"download" "42592"
+			}
+			"version_1.1.3"
+			{
+				"gid" "369749129856203807"
+				"size" "83363"
+				"download" "42592"
+			}
+			"version_1.1.4"
+			{
+				"gid" "9147202980883179437"
+				"size" "83363"
+				"download" "42592"
+			}
+		}
+	}
+	"1627581"
+	{
+		"dlcappid" "1627581"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8277111982943223801"
+				"size" "187144193"
+				"download" "52192336"
+			}
+			"version_1.0.4"
+			{
+				"gid" "79028857003988321"
+				"size" "187144193"
+				"download" "52192336"
+			}
+			"version_1.0.5"
+			{
+				"gid" "79028857003988321"
+				"size" "187144193"
+				"download" "52192336"
+			}
+			"version_1.1.2"
+			{
+				"gid" "79028857003988321"
+				"size" "187144193"
+				"download" "52192336"
+			}
+			"version_1.1.3"
+			{
+				"gid" "79028857003988321"
+				"size" "187144193"
+				"download" "52192336"
+			}
+			"version_1.1.4"
+			{
+				"gid" "8277111982943223801"
+				"size" "187144193"
+				"download" "52192336"
+			}
+		}
+	}
+	"1627582"
+	{
+		"dlcappid" "1627582"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8754348794421106824"
+				"size" "68674813"
+				"download" "32046064"
+			}
+			"version_1.0.4"
+			{
+				"gid" "286892192426385260"
+				"size" "68674813"
+				"download" "32046064"
+			}
+			"version_1.0.5"
+			{
+				"gid" "286892192426385260"
+				"size" "68674813"
+				"download" "32046064"
+			}
+			"version_1.1.2"
+			{
+				"gid" "286892192426385260"
+				"size" "68674813"
+				"download" "32046064"
+			}
+			"version_1.1.3"
+			{
+				"gid" "286892192426385260"
+				"size" "68674813"
+				"download" "32046064"
+			}
+			"version_1.1.4"
+			{
+				"gid" "8754348794421106824"
+				"size" "68674813"
+				"download" "32046064"
+			}
+		}
+	}
+	"1627583"
+	{
+		"dlcappid" "1627583"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2978618969636615713"
+				"size" "166990813"
+				"download" "160266512"
+			}
+			"version_1.0.4"
+			{
+				"gid" "2636384687272286919"
+				"size" "33366521"
+				"download" "33374496"
+			}
+			"version_1.0.5"
+			{
+				"gid" "2978618969636615713"
+				"size" "166990813"
+				"download" "160266512"
+			}
+			"version_1.1.2"
+			{
+				"gid" "2978618969636615713"
+				"size" "166990813"
+				"download" "160266512"
+			}
+			"version_1.1.3"
+			{
+				"gid" "2978618969636615713"
+				"size" "166990813"
+				"download" "160266512"
+			}
+			"version_1.1.4"
+			{
+				"gid" "2978618969636615713"
+				"size" "166990813"
+				"download" "160266512"
+			}
+		}
+	}
+	"1627584"
+	{
+		"dlcappid" "1627584"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8552363550502815271"
+				"size" "516475807"
+				"download" "490451792"
+			}
+			"version_1.0.4"
+			{
+				"gid" "862882264855564840"
+				"size" "516475807"
+				"download" "490451792"
+			}
+			"version_1.0.5"
+			{
+				"gid" "862882264855564840"
+				"size" "516475807"
+				"download" "490451792"
+			}
+			"version_1.1.2"
+			{
+				"gid" "862882264855564840"
+				"size" "516475807"
+				"download" "490451792"
+			}
+			"version_1.1.3"
+			{
+				"gid" "862882264855564840"
+				"size" "516475807"
+				"download" "490451792"
+			}
+			"version_1.1.4"
+			{
+				"gid" "8552363550502815271"
+				"size" "516475807"
+				"download" "490451792"
+			}
+		}
+	}
+	"1627585"
+	{
+		"dlcappid" "1627585"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7510965904770597964"
+				"size" "21400675"
+				"download" "20256720"
+			}
+			"version_1.0.4"
+			{
+				"gid" "2192869186481189088"
+				"size" "21400675"
+				"download" "20256720"
+			}
+			"version_1.0.5"
+			{
+				"gid" "2192869186481189088"
+				"size" "21400675"
+				"download" "20256720"
+			}
+			"version_1.1.2"
+			{
+				"gid" "2192869186481189088"
+				"size" "21400675"
+				"download" "20256720"
+			}
+			"version_1.1.3"
+			{
+				"gid" "2192869186481189088"
+				"size" "21400675"
+				"download" "20256720"
+			}
+			"version_1.1.4"
+			{
+				"gid" "7510965904770597964"
+				"size" "21400675"
+				"download" "20256720"
+			}
+		}
+	}
+	"1627586"
+	{
+		"dlcappid" "1627586"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5074920043789009636"
+				"size" "57509056"
+				"download" "55062144"
+			}
+			"version_1.0.4"
+			{
+				"gid" "485651197202767235"
+				"size" "57509056"
+				"download" "55062144"
+			}
+			"version_1.0.5"
+			{
+				"gid" "485651197202767235"
+				"size" "57509056"
+				"download" "55062144"
+			}
+			"version_1.1.2"
+			{
+				"gid" "485651197202767235"
+				"size" "57509056"
+				"download" "55062144"
+			}
+			"version_1.1.3"
+			{
+				"gid" "485651197202767235"
+				"size" "57509056"
+				"download" "55062144"
+			}
+			"version_1.1.4"
+			{
+				"gid" "5074920043789009636"
+				"size" "57509056"
+				"download" "55062144"
+			}
+		}
+	}
+	"1636780"
+	{
+		"dlcappid" "1636780"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7257166462989335151"
+				"size" "50175844"
+				"download" "30377504"
+			}
+			"version_1.0.4"
+			{
+				"gid" "853944743763246843"
+				"size" "36036948"
+				"download" "19721664"
+			}
+			"version_1.0.5"
+			{
+				"gid" "7257166462989335151"
+				"size" "50175844"
+				"download" "30377504"
+			}
+			"version_1.1.2"
+			{
+				"gid" "7257166462989335151"
+				"size" "50175844"
+				"download" "30377504"
+			}
+			"version_1.1.3"
+			{
+				"gid" "7257166462989335151"
+				"size" "50175844"
+				"download" "30377504"
+			}
+			"version_1.1.4"
+			{
+				"gid" "7257166462989335151"
+				"size" "50175844"
+				"download" "30377504"
+			}
+		}
+	}
+	"baselanguages" "english"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16619765"
+			"timeupdated" "1733763423"
+		}
+		"local"
+		{
+			"buildid" "5370755"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1596560807"
+		}
+		"version_1.0.4"
+		{
+			"buildid" "6982068"
+			"description" "version_1.0.4"
+			"timeupdated" "1625765484"
+		}
+		"version_1.0.5"
+		{
+			"buildid" "6999994"
+			"description" "version_1.0.5"
+			"timeupdated" "1627241160"
+		}
+		"version_1.1.2"
+		{
+			"buildid" "8007048"
+			"description" "version_1.1.2"
+			"timeupdated" "1642005465"
+		}
+		"version_1.1.3"
+		{
+			"buildid" "8809702"
+			"description" "version_1.1.3"
+			"timeupdated" "1653507699"
+		}
+		"version_1.1.4"
+		{
+			"buildid" "16619765"
+			"description" "version_1.1.4"
+			"timeupdated" "1733256867"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1600"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "Falcom/Ys9"
+			"pattern" "*.png"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinSavedGames"
+			"path" "Falcom/Ys9"
+			"pattern" "*.txt"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinSavedGames"
+			"path" "Falcom/Ys9"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27127369"
+"_sha" "8397da2d3f6c978180a6e4e2b778c773e06b0cf5"
+"_size" "14345"
