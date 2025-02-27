@@ -1,0 +1,832 @@
+"appid" "973580"
+"common"
+{
+	"name" "Sniper Ghost Warrior Contracts"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienticon" "6ece4ccb9ebd4aea0aa00919b8d6e550ba1c9a6c"
+	"clienttga" "bc349a616cfe64c37534a2deec3c6606d41c3908"
+	"icon" "3519b24cf69525f64e262d8791dff1cb650069e5"
+	"logo" "a13e0111cbcbc2fdd88a86b9cdd899ca466bf739"
+	"logo_small" "a13e0111cbcbc2fdd88a86b9cdd899ca466bf739_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "狙击手：幽灵战士契约"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1645747200"
+		"tested_build_id" "7794846"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Sniper Ghost Warrior Contracts"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "51.25679221838953"
+			"height_pct" "57.61126785111608"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "51.25679221838953"
+				"height_pct" "57.61126785111608"
+			}
+		}
+	}
+	"store_asset_mtime" "1615208507"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CI Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CI Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Sniper Ghost Warrior"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1574445600"
+	"metacritic_score" "71"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/sniper-ghost-warrior-contracts\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "973580"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "7423"
+		"2" "4182"
+		"3" "3859"
+		"4" "1687"
+		"5" "1774"
+		"6" "1663"
+		"7" "4168"
+		"8" "3839"
+		"9" "4376"
+		"10" "4345"
+		"11" "4667"
+		"12" "4175"
+		"13" "1695"
+		"14" "5765"
+		"15" "1708"
+		"16" "4026"
+		"17" "4166"
+		"18" "1775"
+		"19" "4711"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"anti_cheat_support_url" ""
+	"developer" "CI Games"
+	"publisher" "CI Games"
+	"homepage" "https://sniperghostwarriorcontracts.com/"
+	"listofdlc" "1174630,1174631,1174632,1202190,1203520,1203530,1213590,1228720,1502350,1674634,1674635,1674636,1674637"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Sniper Ghost Warrior Contracts"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "win_x64\\SGWContracts.exe"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,schinese,tchinese,russian,polish,czech,brazilian"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"973581"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1127539265493114951"
+				"size" "19725004025"
+				"download" "18198921312"
+			}
+		}
+	}
+	"973582"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2578997293914468589"
+				"size" "13244693537"
+				"download" "12105771296"
+			}
+		}
+	}
+	"973583"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7755296247085924176"
+				"size" "23631863"
+				"download" "3040288"
+			}
+		}
+	}
+	"973584"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6987844266754317632"
+				"size" "8823488"
+				"download" "953584"
+			}
+		}
+	}
+	"973585"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6152213982969504411"
+				"size" "8807324"
+				"download" "944112"
+			}
+		}
+	}
+	"973586"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2444654691205570838"
+				"size" "8825810"
+				"download" "961472"
+			}
+		}
+	}
+	"973587"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6990663346788672698"
+				"size" "8814925"
+				"download" "948624"
+			}
+		}
+	}
+	"973588"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "932257962931302820"
+				"size" "8805400"
+				"download" "958576"
+			}
+		}
+	}
+	"973589"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2362527264901159694"
+				"size" "9078521"
+				"download" "1010992"
+			}
+		}
+	}
+	"1174633"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1304606648571033211"
+				"size" "10903154"
+				"download" "3085216"
+			}
+		}
+	}
+	"1174634"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5780973266186049148"
+				"size" "10364407"
+				"download" "2560752"
+			}
+		}
+	}
+	"1174635"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5692587179860567650"
+				"size" "20394157"
+				"download" "12688256"
+			}
+		}
+	}
+	"1174636"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1708593870450854512"
+				"size" "20398522"
+				"download" "12685072"
+			}
+		}
+	}
+	"1174637"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8876895343753439149"
+				"size" "8817688"
+				"download" "948000"
+			}
+		}
+	}
+	"1174638"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3975837671744225565"
+				"size" "8789214"
+				"download" "970224"
+			}
+		}
+	}
+	"1174630"
+	{
+		"dlcappid" "1174630"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3907443724631199988"
+				"size" "73"
+				"download" "128"
+			}
+		}
+	}
+	"1174631"
+	{
+		"dlcappid" "1174631"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3427760838865200759"
+				"size" "68"
+				"download" "112"
+			}
+		}
+	}
+	"1174632"
+	{
+		"dlcappid" "1174632"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5555892446377498385"
+				"size" "75"
+				"download" "128"
+			}
+		}
+	}
+	"1202190"
+	{
+		"dlcappid" "1202190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "23371525248299608"
+				"size" "68"
+				"download" "112"
+			}
+		}
+	}
+	"1225180"
+	{
+		"dlcappid" "1225180"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1510017415984357381"
+				"size" "73"
+				"download" "112"
+			}
+		}
+	}
+	"1203520"
+	{
+		"dlcappid" "1203520"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6752524319483962959"
+				"size" "80"
+				"download" "128"
+			}
+		}
+	}
+	"1203530"
+	{
+		"dlcappid" "1203530"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6915233544708707634"
+				"size" "80"
+				"download" "128"
+			}
+		}
+	}
+	"1213590"
+	{
+		"dlcappid" "1213590"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "873805275766916969"
+				"size" "77"
+				"download" "128"
+			}
+		}
+	}
+	"1228720"
+	{
+		"dlcappid" "1228720"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8961841481660250322"
+				"size" "83"
+				"download" "128"
+			}
+		}
+	}
+	"1277410"
+	{
+		"dlcappid" "1277410"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3263018303682460951"
+				"size" "70"
+				"download" "112"
+			}
+		}
+	}
+	"1277430"
+	{
+		"dlcappid" "1277430"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "76075826661751941"
+				"size" "67"
+				"download" "112"
+			}
+		}
+	}
+	"1277450"
+	{
+		"dlcappid" "1277450"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "807789697835477321"
+				"size" "73"
+				"download" "128"
+			}
+		}
+	}
+	"1277470"
+	{
+		"dlcappid" "1277470"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1310664518705935808"
+				"size" "67"
+				"download" "112"
+			}
+		}
+	}
+	"1502350"
+	{
+		"dlcappid" "1502350"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4713474504773487461"
+				"size" "101347552"
+				"download" "102454960"
+			}
+		}
+	}
+	"1674633"
+	{
+		"dlcappid" "1674633"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7135919290548819510"
+				"size" "81"
+				"download" "128"
+			}
+		}
+	}
+	"1674631"
+	{
+		"dlcappid" "1674631"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5717927388041382556"
+				"size" "82"
+				"download" "128"
+			}
+		}
+	}
+	"1674632"
+	{
+		"dlcappid" "1674632"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5658229789935936658"
+				"size" "81"
+				"download" "128"
+			}
+		}
+	}
+	"1674634"
+	{
+		"dlcappid" "1674634"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6816046725959630228"
+				"size" "83"
+				"download" "128"
+			}
+		}
+	}
+	"1674635"
+	{
+		"dlcappid" "1674635"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2419119169916846507"
+				"size" "78"
+				"download" "128"
+			}
+		}
+	}
+	"1674636"
+	{
+		"dlcappid" "1674636"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5837429474574843928"
+				"size" "80"
+				"download" "128"
+			}
+		}
+	}
+	"1674637"
+	{
+		"dlcappid" "1674637"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1684981032572144986"
+				"size" "79"
+				"download" "128"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16167732"
+			"timeupdated" "1730226206"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27683008"
+"_sha" "03c616229c12efb1c972425a3d4f4840f631fa23"
+"_size" "12423"
