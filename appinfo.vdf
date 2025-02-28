@@ -1,0 +1,347 @@
+"appid" "983970"
+"common"
+{
+	"name" "Haven"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "c711d8ab66e77a05532947824e89511020358624"
+	"logo_small" "c711d8ab66e77a05532947824e89511020358624_thumb"
+	"icon" "22c431569ef3e582150abb94df0faf6211e0ac2d"
+	"clienticon" "ccfde53e0e708aea9e11d7d4bbbc4358318f1ccf"
+	"clienttga" "905fc87e65371e76fa8cd039719fe9a81135c1eb"
+	"releasestate" "released"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1653436800"
+		"tested_build_id" "8350162"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "nomfdxgiman,"
+		}
+	}
+	"metacritic_name" "Haven"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "10ab725004f2f3bf015f78221cde1b27531526c4/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "47.82608695652174"
+			"height_pct" "86.09593920683925"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "47.82608695652174"
+				"height_pct" "86.09593920683925"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1723531932"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "The Game Bakers"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "The Game Bakers"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "The Game Bakers"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_39" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_44" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"full_audio" "true"
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"french"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"italian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"german"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"russian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1607003378"
+	"metacritic_score" "73"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/haven\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "983970"
+	"store_tags"
+	{
+		"0" "4947"
+		"1" "4106"
+		"2" "122"
+		"3" "1742"
+		"4" "44868"
+		"5" "3841"
+		"6" "4115"
+		"7" "3834"
+		"8" "3942"
+		"9" "1697"
+		"10" "4182"
+		"11" "12095"
+		"12" "4166"
+		"13" "4434"
+		"14" "11014"
+		"15" "4191"
+		"16" "6971"
+		"17" "1719"
+		"18" "1695"
+		"19" "6426"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "The Game Bakers"
+	"publisher" "The Game Bakers"
+	"homepage" "http://www.thegamebakers.com/haven/"
+	"listofdlc" "3320740"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Haven"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Haven.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,schinese,russian,japanese,brazilian"
+	"hasdepotsindlc" "1"
+	"983971"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6717372147512768918"
+				"size" "5896325126"
+				"download" "5025025248"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8350162"
+			"timeupdated" "1647009349"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "80000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "TheGameBakers\\Haven"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27495526"
+"_sha" "94ec0ad9f4eea422ec58899cb4609cead0817dd9"
+"_size" "6162"
