@@ -1,0 +1,547 @@
+"appid" "421020"
+"common"
+{
+	"name" "DiRT 4"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"japanese" "1"
+		"polish" "1"
+	}
+	"clienticon" "ffe6070223e8eabf401ce1703e172120593f94b8"
+	"clienttga" "5bf6f57fb05e459602d835734a00eb7a1100a03c"
+	"icon" "db321a3271cf6a5b2983bda3a2ffa25788e3a781"
+	"logo" "45c6b6ebefa3283c86f2dbbd116d8f4432f38125"
+	"logo_small" "45c6b6ebefa3283c86f2dbbd116d8f4432f38125_thumb"
+	"releasestate" "released"
+	"osarch" "64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "421020_eula_0"
+			"name" "DiRT 4 EULA"
+			"url" "http://store.steampowered.com//eula/421020_eula_0"
+		}
+	}
+	"clienticns" "1d533ef03748536fe074c71ace13a1952acdc610"
+	"linuxclienticon" "769fed2f8fd8261547a6ba94ad6ce784b0d4c7cc"
+	"osextended" "macos64"
+	"app_retired_publisher_request" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1651622400"
+		"tested_build_id" "4002786"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "DiRT 4"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "75.93649991294777"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "75.93649991294777"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1663755186"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Codemasters"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Feral Interactive (Mac)"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Feral Interactive (Linux)"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Codemasters"
+		}
+		"4"
+		{
+			"type" "publisher"
+			"name" "Feral Interactive (Mac)"
+		}
+		"5"
+		{
+			"type" "publisher"
+			"name" "Feral Interactive (Linux)"
+		}
+		"6"
+		{
+			"type" "publisher"
+			"name" "Electronic Arts"
+		}
+		"7"
+		{
+			"type" "franchise"
+			"name" "Codemasters"
+		}
+		"8"
+		{
+			"type" "franchise"
+			"name" "DiRT"
+		}
+	}
+	"primary_genre" "9"
+	"genres"
+	{
+		"0" "9"
+		"1" "28"
+		"2" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_8" "1"
+		"category_49" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+	}
+	"original_release_date" "1496991600"
+	"steam_release_date" "1496962800"
+	"metacritic_score" "78"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/dirt-4\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "421020"
+	"store_tags"
+	{
+		"0" "699"
+		"1" "599"
+		"2" "1100687"
+		"3" "3859"
+		"4" "1644"
+		"5" "7622"
+		"6" "701"
+		"7" "4175"
+		"8" "4182"
+		"9" "1773"
+		"10" "4166"
+		"11" "1695"
+		"12" "19"
+		"13" "21978"
+		"14" "7481"
+		"15" "1685"
+		"16" "3843"
+		"17" "4026"
+		"18" "1756"
+		"19" "21"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"overlaywindowblacklist" "_FERAL_LAUNCHER_WINDOW"
+	"developer" "Codemasters"
+	"publisher" "Codemasters"
+	"homepage" "http://www.dirt4game.com"
+	"gamemanualurl" "https://store.steampowered.com/manual/421020/"
+	"listofdlc" "437120,437121,437122"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "DiRT 4"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "dirt4.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "dirt4.exe"
+			"arguments" "-logging"
+			"description" "RP15 - Logging"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "devtest"
+			}
+		}
+		"2"
+		{
+			"executable" "dirt4_qa.exe"
+			"description" "RP15 - QA"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "devtest"
+			}
+		}
+		"3"
+		{
+			"executable" "dirt4_qa.exe"
+			"arguments" "-logging"
+			"description" "RP15 - QA - Logging"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "devtest"
+			}
+		}
+		"4"
+		{
+			"executable" "DiRT 4.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"5"
+		{
+			"executable" "Dirt4.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"923453609"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default,1196173,1196657,baseline,dailyhotfixes,devtest,external,press,qatestbranch,qatestbranch2"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,japanese,polish"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"421021"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "288712338746364707"
+				"size" "38551926352"
+				"download" "35831705968"
+			}
+		}
+	}
+	"421023"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6578331226104331507"
+				"size" "42217774"
+				"download" "15164176"
+			}
+		}
+	}
+	"421022"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7960526061945940258"
+				"size" "22372864"
+				"download" "7848400"
+			}
+		}
+	}
+	"421024"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6935550742828813951"
+				"size" "37160420906"
+				"download" "34696916672"
+			}
+		}
+	}
+	"421025"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"421026"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1130689091367603752"
+				"size" "77614888"
+				"download" "34042192"
+			}
+		}
+	}
+	"421027"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7910079959601923085"
+				"size" "37160420906"
+				"download" "34696916672"
+			}
+		}
+	}
+	"421028"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+	}
+	"421029"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8028539740205951362"
+				"size" "301675067"
+				"download" "104813024"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4002786"
+			"timeupdated" "1562854020"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27112433"
+"_sha" "ef98da5df340a3171701ddaca68cfbeb07641cb9"
+"_size" "9119"
