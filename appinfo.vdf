@@ -1,0 +1,331 @@
+"appid" "1021100"
+"common"
+{
+	"name" "Aircraft Carrier Survival"
+	"type" "Game"
+	"logo" "47e1eb1bb3557359ced7867372b46d414c120c6d"
+	"logo_small" "47e1eb1bb3557359ced7867372b46d414c120c6d_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "bf80c72011a8f1cae71a35381ce9f327af17eac3"
+	"clienttga" "fb4c1ca584378ca383bd111b8208984894cca7d1"
+	"icon" "341b525423bedc5e160a01c9b167b0d89ab9d237"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1667865600"
+		"tested_build_id" "8905078"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-4"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Aircraft Carrier Survival"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1678250648"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Gambit Games Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CreativeForge Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "CreativeForge Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1650457740"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1021100"
+	"store_tags"
+	{
+		"0" "4994"
+		"1" "9"
+		"2" "19"
+		"3" "1662"
+		"4" "4175"
+		"5" "4150"
+		"6" "3834"
+		"7" "6910"
+		"8" "4695"
+		"9" "4711"
+		"10" "12472"
+		"11" "1678"
+		"12" "8945"
+		"13" "4182"
+		"14" "1708"
+		"15" "1695"
+		"16" "3810"
+		"17" "7332"
+		"18" "492"
+		"19" "599"
+	}
+	"review_score" "5"
+	"review_percentage" "60"
+}
+"extended"
+{
+	"developer" "Gambit Games Studio"
+	"publisher" "CreativeForge Games"
+	"listofdlc" "2288450,2288451"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Aircraft Carrier Survival"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "AircraftCarrierSurvival.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"1021102"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "203369243010177781"
+				"size" "9981324192"
+				"download" "4422305008"
+			}
+		}
+	}
+	"2288450"
+	{
+		"dlcappid" "2288450"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "933877074620739771"
+				"size" "53"
+				"download" "112"
+			}
+		}
+	}
+	"2288451"
+	{
+		"dlcappid" "2288451"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1514046041723044807"
+				"size" "53"
+				"download" "112"
+			}
+		}
+	}
+	"2288452"
+	{
+		"dlcappid" "2288452"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3452569559413023381"
+				"size" "53"
+				"download" "112"
+			}
+		}
+	}
+	"2288453"
+	{
+		"dlcappid" "2288453"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4334346158414379890"
+				"size" "53"
+				"download" "112"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11172741"
+			"timeupdated" "1683644723"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27685527"
+"_sha" "d70ea912d1791720f398e9f0cdbbad7ab1bfe5ba"
+"_size" "5274"
