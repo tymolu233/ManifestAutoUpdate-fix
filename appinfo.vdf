@@ -1,0 +1,493 @@
+"appid" "1352930"
+"common"
+{
+	"name" "勇敢的哈克（HAAK）"
+	"type" "Game"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "勇敢的哈克"
+		"japanese" "荒野のハーク （HAAK）"
+		"sc_schinese" "勇敢的哈克"
+		"tchinese" "HAAK"
+		"russian" "HAAK"
+		"koreana" "HAAK"
+		"english" "HAAK"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "845aa8dcc8ab731fa364eddd0b43808ac5506512"
+	"logo_small" "845aa8dcc8ab731fa364eddd0b43808ac5506512_thumb"
+	"icon" "282b2bd455a775b831d162441b226658fe070ba7"
+	"clienticon" "bc952a9cb3cd077cbe8368f0c639a8c0fde4dcab"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"clienttga" "cfe4e40ba54a7948b61e6f0100d4ffac20c2701f"
+	"releasestatesteamchina" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1662595200"
+		"tested_build_id" "9422222"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw,zh-xc"
+		"library_hero" "en"
+		"library_logo" "zh-cn,en,zh-tw,zh-xc"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "26.87136393018747"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+				"tchinese" "logo_tchinese.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "26.87136393018747"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1711527926"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Blingame"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "OKJOY"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "在Steam上查看“OKJOY”全系列作品"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hindi"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"kazakh"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"filipino"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"malay"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1661399132"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1352930"
+	"store_tags"
+	{
+		"0" "5537"
+		"1" "1628"
+		"2" "3964"
+		"3" "3835"
+		"4" "1625"
+		"5" "5030"
+		"6" "492"
+		"7" "21006"
+		"8" "4106"
+		"9" "3798"
+		"10" "21"
+		"11" "19"
+		"12" "3993"
+		"13" "1751"
+		"14" "3834"
+		"15" "4182"
+		"16" "5379"
+		"17" "122"
+		"18" "3871"
+		"19" "4231"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Blingame"
+	"publisher" "OKJOY"
+	"homepage" "https://www.reddit.com/r/OKJOY_HAAK/"
+}
+"config"
+{
+	"installdir" "Haak"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "haak.exe"
+			"type" "none"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamconfigurator3rdpartynative" "65533"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" "english,koreana,schinese,tchinese,russian,japanese"
+	"1352931"
+	{
+	}
+	"1352933"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6383852217150250001"
+				"size" "2169918299"
+				"download" "293756688"
+			}
+		}
+	}
+	"1352934"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "70073793861024026"
+				"size" "2160082611"
+				"download" "290910960"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13246483"
+			"timeupdated" "1706000735"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "67108864"
+	"maxnumfiles" "32"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "blingame/haak/Luxko.Serde"
+			"pattern" "slot0.haaks"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "blingame/haak/Luxko.Serde"
+			"pattern" "slot1.haaks"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "blingame/haak/Luxko.Serde"
+			"pattern" "slot2.haaks"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "blingame/haak/Luxko.Serde"
+			"pattern" "_b0.haaks"
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "blingame/haak/Luxko.Serde"
+			"pattern" "_b1.haaks"
+		}
+		"5"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "blingame/haak/Luxko.Serde"
+			"pattern" "_d0.haaks"
+		}
+		"6"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "blingame/haak/Luxko.Serde"
+			"pattern" "slot3.haaks"
+		}
+		"7"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "blingame/haak/Luxko.Serde"
+			"pattern" "slot4.haaks"
+		}
+		"8"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "blingame/haak/Luxko.Serde"
+			"pattern" "slot5.haaks"
+		}
+		"9"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "blingame/haak/Luxko.Serde"
+			"pattern" "slot6.haaks"
+		}
+		"10"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "blingame/haak/Luxko.Serde"
+			"pattern" "slot7.haaks"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27031242"
+"_sha" "c87061d064f72676e70d0f19899bbfe0a2736a5c"
+"_size" "8984"
