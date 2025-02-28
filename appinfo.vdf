@@ -1,0 +1,507 @@
+"appid" "758190"
+"common"
+{
+	"name" "Dragon Cliff 龙崖"
+	"type" "Game"
+	"logo" "6f5103ee3ec3940d79c84f77db04de3731933e19"
+	"logo_small" "6f5103ee3ec3940d79c84f77db04de3731933e19_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"icon" "a4998a7c50ed542d8c7143abfef5eb1ed4e195d4"
+	"clienticon" "a121d20ab7249874fd28ec99c52804de2447fd23"
+	"clienttga" "718841627b95def1c45e6ea1768f9f9907c11a69"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "龙崖"
+		"tchinese" "龍崖"
+		"sc_schinese" "龙崖"
+	}
+	"osextended" ""
+	"releasestatesteamchina" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1644278400"
+		"tested_build_id" "6212414"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Dragon Cliff"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-xc"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1623209913"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Meta Interaction"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Meta Interaction"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+		"5" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1526044620"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "758190"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "9"
+		"2" "615955"
+		"3" "4236"
+		"4" "3964"
+		"5" "597"
+		"6" "21"
+		"7" "379975"
+		"8" "12472"
+		"9" "492"
+		"10" "599"
+		"11" "1720"
+		"12" "4325"
+		"13" "4182"
+		"14" "1677"
+		"15" "3871"
+		"16" "1646"
+		"17" "1684"
+		"18" "4434"
+		"19" "1084988"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Meta Interaction"
+	"publisher" "Meta Interaction"
+}
+"config"
+{
+	"installdir" "Dragon Cliff"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "game.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"realm" "steamglobal"
+			}
+		}
+		"1"
+		{
+			"executable" "game.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"realm" "steamglobal"
+			}
+		}
+		"2"
+		{
+			"executable" "game.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"realm" "steamchina"
+			}
+		}
+		"3"
+		{
+			"executable" "game.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"realm" "steamchina"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese,tchinese"
+	"758191"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5148638383577836036"
+				"size" "773230218"
+				"download" "138507552"
+			}
+		}
+	}
+	"758192"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6358589260934592763"
+				"size" "474208"
+				"download" "67168"
+			}
+		}
+	}
+	"758193"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5341887073121787809"
+				"size" "474208"
+				"download" "67280"
+			}
+		}
+	}
+	"758194"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8175374535201082467"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"758195"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6174526731186453389"
+				"size" "788941931"
+				"download" "142211248"
+			}
+		}
+	}
+	"758196"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "tchinese"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "733050205733900552"
+				"size" "458520"
+				"download" "67056"
+			}
+		}
+	}
+	"758197"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "schinese"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5502212271409221801"
+				"size" "458520"
+				"download" "66992"
+			}
+		}
+	}
+	"758198"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7169474517916200659"
+				"size" "784773950"
+				"download" "142115392"
+			}
+		}
+	}
+	"758199"
+	{
+		"config"
+		{
+			"realm" "steamchina"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4429018546578198569"
+				"size" "787352138"
+				"download" "143677680"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6212414"
+			"timeupdated" "1612872483"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Meta Interaction/Dragon Cliff"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "Meta Interaction/Dragon Cliff"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "MacAppSupport"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Meta Interaction/Dragon Cliff"
+					"replace" "Meta Interaction/Dragon Cliff"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Meta Interaction/Dragon Cliff"
+					"replace" "Meta Interaction/Dragon Cliff"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27497219"
+"_sha" "08040eeb34a32f362fc16ff541362a845e9d48bd"
+"_size" "8546"
