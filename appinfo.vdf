@@ -1,0 +1,497 @@
+"appid" "977950"
+"common"
+{
+	"name" "A Dance of Fire and Ice"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"logo" "fdef30f0fcf8d9dc434de755ab3084bde2e5c96c"
+	"logo_small" "fdef30f0fcf8d9dc434de755ab3084bde2e5c96c_thumb"
+	"icon" "8951234b5979fde3030acbf53b32fc04dfc706b3"
+	"clienttga" "b5c46feb1d58b7e4505895b77d87d5c9994e2063"
+	"clienticns" "85558f8b324f1c00b5386092f2fc98fe70ca1958"
+	"clienticon" "c439bf516f25a5e57cde6fbb614b93ead54aec9c"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "977950_eula_0"
+			"name" "A Dance of Fire and Ice EULA"
+			"url" "https://store.steampowered.com//eula/977950_eula_0"
+		}
+	}
+	"name_localized"
+	{
+		"schinese" "冰与火之舞 A Dance of Fire and Ice"
+		"tchinese" "冰與火之舞 A Dance of Fire and Ice"
+		"koreana" "불과 얼음의 춤 (A Dance of Fire and Ice)"
+	}
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1690502400"
+		"tested_build_id" "11778745"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "79.48003588719686"
+			"height_pct" "88.55227926491794"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "79.48003588719686"
+				"height_pct" "88.55227926491794"
+			}
+		}
+	}
+	"store_asset_mtime" "1734406021"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "7th Beat Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "7th Beat Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "indienova"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "7th Beat Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "indienova"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_17" "1"
+		"category_23" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1548374460"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "977950"
+	"store_tags"
+	{
+		"0" "1752"
+		"1" "1621"
+		"2" "4026"
+		"3" "8122"
+		"4" "492"
+		"5" "4182"
+		"6" "1773"
+		"7" "3871"
+		"8" "1684"
+		"9" "4305"
+		"10" "1714"
+		"11" "597"
+		"12" "19"
+		"13" "4166"
+		"14" "5350"
+		"15" "1685"
+		"16" "3859"
+		"17" "1756"
+		"18" "5310"
+		"19" "4085"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "7th Beat Games"
+	"publisher" "7th Beat Games"
+	"homepage" "https://7thbe.at"
+	"listofdlc" "1977570"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "A Dance of Fire and Ice"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "ADanceOfFireAndIce.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "A Dance of Fire and Ice.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"3"
+		{
+			"executable" "ADanceOfFireAndIce"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1862174839"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default,frontline,stardust,deepspace,alpha,beta,nosteamworks,older"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "4"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"workshopdepot" "977950"
+	"hasdepotsindlc" "1"
+	"977951"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7584056881578179118"
+				"size" "1529712690"
+				"download" "416126256"
+			}
+			"beta"
+			{
+				"gid" "7584056881578179118"
+				"size" "1529712690"
+				"download" "416126256"
+			}
+			"older"
+			{
+				"gid" "5845748122360053048"
+				"size" "1529681862"
+				"download" "416125424"
+			}
+		}
+	}
+	"977953"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6940354367313058113"
+				"size" "1542851748"
+				"download" "419085232"
+			}
+			"beta"
+			{
+				"gid" "6940354367313058113"
+				"size" "1542851748"
+				"download" "419085232"
+			}
+			"older"
+			{
+				"gid" "5656541049422827725"
+				"size" "1542820920"
+				"download" "419086704"
+			}
+		}
+	}
+	"977952"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9180250269545158340"
+				"size" "1526155153"
+				"download" "413777440"
+			}
+			"beta"
+			{
+				"gid" "9180250269545158340"
+				"size" "1526155153"
+				"download" "413777440"
+			}
+			"older"
+			{
+				"gid" "3784956569442558359"
+				"size" "1526124321"
+				"download" "413774736"
+			}
+		}
+	}
+	"977954"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5361295792305082488"
+				"size" "1574829541"
+				"download" "416644016"
+			}
+			"beta"
+			{
+				"gid" "5361295792305082488"
+				"size" "1574829541"
+				"download" "416644016"
+			}
+			"older"
+			{
+				"gid" "2277609497755169960"
+				"size" "1578988471"
+				"download" "417310880"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17372902"
+			"timeupdated" "1739575370"
+		}
+		"beta"
+		{
+			"buildid" "17372902"
+			"description" "Public beta"
+			"timeupdated" "1739573027"
+		}
+		"older"
+		{
+			"buildid" "17259316"
+			"description" "archive of previous default build"
+			"timeupdated" "1739588667"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "5000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "User"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "User"
+			"pattern" "*.modsav"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27617030"
+"_sha" "2044d0bb259f6dded8590d9d8f9b271d8e277946"
+"_size" "8533"
