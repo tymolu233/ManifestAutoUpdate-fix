@@ -1,0 +1,331 @@
+"appid" "422250"
+"common"
+{
+	"name" "ShipLord"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"logo" "a263aebe7ff1f2e50c4fe6a26a6b0ed6ac447835"
+	"logo_small" "a263aebe7ff1f2e50c4fe6a26a6b0ed6ac447835_thumb"
+	"icon" "086bb9eec9ac0e92b326cb105e37222611d28dc5"
+	"clienttga" "969c9ae579a3ff71b95c83093a710564ad338588"
+	"linuxclienticon" "9022d0db7dbea4e6380a28637aff034fdfb3881f"
+	"clienticns" "45a68675b30ec3ff49dfb649d58e8303d42af1ff"
+	"clienticon" "e0ccfc4578470e0ceab1c373a8cd4d2f6504288b"
+	"releasestate" "released"
+	"metacritic_name" "ShipLord"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_586af4555f2dcf4935b23f8370f9acfd36903ef9.jpg"
+	"store_asset_mtime" "1448364751"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "EGAMER"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "SA Industry"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "SA Industry"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_29" "1"
+		"category_25" "1"
+		"category_13" "1"
+		"category_15" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1449079957"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "422250"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "597"
+		"2" "19"
+		"3" "21"
+		"4" "4885"
+		"5" "1755"
+		"6" "4255"
+		"7" "1773"
+	}
+	"review_score" "5"
+	"review_percentage" "54"
+}
+"extended"
+{
+	"developer" "EGAMER"
+	"publisher" "SA Industry"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "ShipLord"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Shiplord.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"1"
+		{
+			"executable" "Shiplord.x86"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+		"2"
+		{
+			"executable" "Shiplord.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "Shiplord.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"4"
+		{
+			"executable" "Shiplord.app\\Contents\\MacOS\\Shiplord"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "32"
+			}
+		}
+		"5"
+		{
+			"executable" "Shiplord.app\\Contents\\MacOS\\Shiplord"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"422252"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2633194068365971638"
+				"size" "2025857125"
+				"download" "719548256"
+			}
+		}
+	}
+	"422253"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "32"
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1923384628802524361"
+				"size" "2032639022"
+				"download" "721198576"
+			}
+		}
+	}
+	"422251"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2906441390906603939"
+				"size" "2030096405"
+				"download" "720746272"
+			}
+		}
+	}
+	"422254"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5142748731247768734"
+				"size" "2032584880"
+				"download" "721261120"
+			}
+		}
+	}
+	"422255"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "32"
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3486660018216311111"
+				"size" "2037924372"
+				"download" "723487024"
+			}
+		}
+	}
+	"422256"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1935796396444350663"
+				"size" "2040141831"
+				"download" "723700960"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1554246"
+			"timeupdated" "1483690496"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "ShipLord"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "LinuxHome"
+			"path" ".config/ShipLord"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "MacHome"
+			"path" ".config/Shiplord"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27129347"
+"_sha" "f0e37c2811bd2a564cb267b06897eef5900fede4"
+"_size" "5136"
