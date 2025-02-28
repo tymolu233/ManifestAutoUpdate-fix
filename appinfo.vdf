@@ -1,0 +1,491 @@
+"appid" "551730"
+"common"
+{
+	"name" "Toukiden 2"
+	"type" "Game"
+	"eulas"
+	{
+		"1"
+		{
+			"id" "551730_eula_1"
+			"name" "Toukiden 2 EULA 1"
+			"url" "http://store.steampowered.com//eula/551730_eula_1"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"japanese" "1"
+	}
+	"clienticon" "8028b3856ce7d0e70d996cea39684c2ca5dab96c"
+	"clienttga" "c9e704d56a86b79aed8e06d247fddc89d99609ba"
+	"icon" "a2c0b516b9ea6151fc658b991290c03fb5760b78"
+	"logo" "84cdae7c27a42c4399c518347e402d2bd7d7ddaa"
+	"logo_small" "84cdae7c27a42c4399c518347e402d2bd7d7ddaa_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"releasestate" "released"
+	"name_localized"
+	{
+		"japanese" "討鬼伝2"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1652486400"
+		"tested_build_id" "1726785"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "simultaneous_gamepad_mouse"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Toukiden 2"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"store_screenshot" "ss_1b92cf140a0bc646197e5bb02fb6987de6033c0d.jpg"
+	"store_asset_mtime" "1489106742"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "KOEI TECMO GAMES CO., LTD."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "KOEI TECMO GAMES CO., LTD."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "KOEI TECMO GAMES CO., LTD."
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_1" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1490112120"
+	"metacritic_score" "73"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/toukiden-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "551730"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1695"
+		"2" "9564"
+		"3" "4231"
+		"4" "4747"
+		"5" "1646"
+		"6" "1685"
+		"7" "4085"
+		"8" "4434"
+		"9" "122"
+		"10" "7481"
+		"11" "4182"
+		"12" "3843"
+		"13" "3859"
+		"14" "1697"
+		"15" "9541"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "KOEI TECMO GAMES CO., LTD."
+	"publisher" "KOEI TECMO GAMES CO., LTD."
+	"gamemanualurl" "https://store.steampowered.com/manual/551730/"
+	"listofdlc" "569680,569681,569682,569683,569684,569685,569686,569687,569688,569689,569690,569691,569692"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Toukiden 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Toukiden2Launcher.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,japanese"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"551731"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8217965481315061724"
+				"size" "14417292551"
+				"download" "11351249680"
+			}
+		}
+	}
+	"569680"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "569680"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1431120426162581215"
+				"size" "59"
+				"download" "176"
+			}
+		}
+	}
+	"569681"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "569681"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "94999354392081302"
+				"size" "51"
+				"download" "160"
+			}
+		}
+	}
+	"569682"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "569682"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "696613320607883933"
+				"size" "51"
+				"download" "160"
+			}
+		}
+	}
+	"569683"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "569683"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "410196149026863900"
+				"size" "51"
+				"download" "160"
+			}
+		}
+	}
+	"569684"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "569684"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "201243087214974754"
+				"size" "44"
+				"download" "160"
+			}
+		}
+	}
+	"569685"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "569685"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "343297244139439121"
+				"size" "143"
+				"download" "208"
+			}
+		}
+	}
+	"569686"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "569686"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1058325146321012421"
+				"size" "144"
+				"download" "208"
+			}
+		}
+	}
+	"569687"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "569687"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "290643572222539312"
+				"size" "157183"
+				"download" "11136"
+			}
+		}
+	}
+	"569688"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "569688"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "87825521606779748"
+				"size" "15007378"
+				"download" "14025552"
+			}
+		}
+	}
+	"569689"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "569689"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2713876239954608534"
+				"size" "42640960"
+				"download" "39302848"
+			}
+		}
+	}
+	"569690"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "569690"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1916132037738368049"
+				"size" "150"
+				"download" "224"
+			}
+		}
+	}
+	"569691"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "569691"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "318049691534626208"
+				"size" "141"
+				"download" "208"
+			}
+		}
+	}
+	"569692"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "569692"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "742381512040542720"
+				"size" "35219474"
+				"download" "30076064"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1726785"
+			"timeupdated" "1490951376"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "12100000"
+	"maxnumfiles" "26"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "KoeiTecmo/TOUKIDEN2/Savedata_JPN"
+			"pattern" "*.bin"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "KoeiTecmo/TOUKIDEN2/Savedata_ENG"
+			"pattern" "*.bin"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "bf212b67285654d47a7991239bb839cf766bc7d9"
+"_size" "7792"
