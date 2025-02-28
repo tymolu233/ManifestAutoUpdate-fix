@@ -1,0 +1,648 @@
+"appid" "1273400"
+"common"
+{
+	"name" "Construction Simulator"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"clienticon" "5f1c90498e5444b08531f568abb49322057c50ac"
+	"clienttga" "b09969c28014a78e245863332864247f5900f3d5"
+	"icon" "e8d8dcccca84500b17912f4def1209d07700480c"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1273400_eula_1"
+			"name" "Construction Simulator EULA"
+			"url" "https://store.steampowered.com//eula/1273400_eula_1"
+			"version" "2"
+		}
+	}
+	"name_localized"
+	{
+		"german" "Bau-Simulator"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1677024000"
+		"tested_build_id" "10469432"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"german" "capsule_231x87_german.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"german" "header_german.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,de"
+		"library_hero" "en"
+		"library_logo" "en,de"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "39.4431554524362"
+			"height_pct" "49.93777777777777"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"german" "library_600x900_german.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "39.4431554524362"
+				"height_pct" "49.93777777777777"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"german" "logo_german.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1734016133"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "weltenbauer. Software Entwicklung GmbH"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "astragon Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Construction Simulator"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1663685023"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1273400"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "3859"
+		"2" "1643"
+		"3" "3843"
+		"4" "1654"
+		"5" "1695"
+		"6" "4175"
+		"7" "1644"
+		"8" "1036"
+		"9" "9204"
+		"10" "10383"
+		"11" "1100687"
+		"12" "3968"
+		"13" "3839"
+		"14" "597"
+		"15" "1697"
+		"16" "4328"
+		"17" "5350"
+		"18" "4182"
+		"19" "7208"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "weltenbauer. Software Entwicklung GmbH"
+	"publisher" "astragon Entertainment"
+	"homepage" "https://www.construction-simulator.com"
+	"listofdlc" "1944340,1944341,2153870,2203420,2291420,2295780,2295810,2295820,2322970,2322980,2322990,2323000,2657380,2657390,2657400,2657410,2657420,2666240,2800780"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Construction Simulator"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "ConSim.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "ConSim.exe (Use this for new builds!)"
+			}
+			"description" "ConSim.exe (Use this for new builds!)"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2867929888"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,agerating,astragontesting,baseline,beta,denuvo,dlc1,dlc2,gamescom,licenseetest,loca,main,marketing,multiplayertest,nightly,playtest,review,terrain,testing,testing2,testing3,updatetest"
+			"use_action_block" "false"
+		}
+		"2867935571"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,agerating,astragontesting,baseline,beta,denuvo,dlc1,dlc2,gamescom,licenseetest,loca,main,marketing,multiplayertest,nightly,playtest,review,terrain,testing,testing2,testing3,updatetest"
+			"use_action_block" "false"
+		}
+		"2867938663"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,agerating,astragontesting,baseline,beta,denuvo,dlc1,dlc2,gamescom,licenseetest,loca,main,marketing,multiplayertest,nightly,playtest,review,terrain,testing,testing2,testing3,updatetest"
+			"use_action_block" "false"
+		}
+		"2866700665"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,agerating,astragontesting,baseline,beta,denuvo,dlc1,dlc2,gamescom,licenseetest,loca,main,marketing,multiplayertest,nightly,playtest,review,terrain,testing,testing2,testing3,updatetest"
+			"use_action_block" "false"
+		}
+		"2932869717"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,agerating,astragontesting,baseline,beta,denuvo,dlc1,dlc2,gamescom,licenseetest,loca,main,marketing,multiplayertest,nightly,playtest,review,terrain,testing,testing2,testing3,updatetest"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,turkish,brazilian"
+	"hasdepotsindlc" "1"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1273401"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1184734075813114533"
+				"size" "13437364297"
+				"download" "10938960464"
+			}
+		}
+	}
+	"1944341"
+	{
+		"dlcappid" "1944341"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8807678063382063768"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"1944340"
+	{
+		"dlcappid" "1944340"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "322555549106022213"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"2203420"
+	{
+		"dlcappid" "2203420"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8739100311331388793"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"2291424"
+	{
+		"dlcappid" "2291420"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8453066766368453847"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"2295781"
+	{
+		"dlcappid" "2295780"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "685349866155445181"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"2295811"
+	{
+		"dlcappid" "2295810"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3383914678723808175"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"2295821"
+	{
+		"dlcappid" "2295820"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8580441773329478911"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"2322991"
+	{
+		"dlcappid" "2322990"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7520794540910599885"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"2322981"
+	{
+		"dlcappid" "2322980"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5743210225651998743"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"2322971"
+	{
+		"dlcappid" "2322970"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "320280581201002583"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"2657421"
+	{
+		"dlcappid" "2657420"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8791015684642513912"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"2657381"
+	{
+		"dlcappid" "2657380"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6016383179637761921"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"2657391"
+	{
+		"dlcappid" "2657390"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3197796519729678759"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"2657401"
+	{
+		"dlcappid" "2657400"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8114831874000182204"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"2657411"
+	{
+		"dlcappid" "2657410"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3557864438957203195"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"2800781"
+	{
+		"dlcappid" "2800780"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5044123825545457794"
+				"size" "2"
+				"download" "48"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16588080"
+			"timeupdated" "1733317131"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "weltenbauer-se/ConSim/Profiles"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "weltenbauer-se/ConSim/UserData"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27525174"
+"_sha" "fdb994957b7e4363c335600a2e7b81fd5b53e826"
+"_size" "11755"
