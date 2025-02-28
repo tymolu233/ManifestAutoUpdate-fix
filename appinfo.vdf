@@ -1,0 +1,373 @@
+"appid" "869880"
+"common"
+{
+	"name" "Cyanide & Happiness - Freakpocalypse (Episode 1)"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "38cb6c61464f84a0ee3989aef46f65dc5be9e51d"
+	"clienttga" "8b479958c34694e80342dd84385b64caeeda9470"
+	"icon" "2ebd0db7872fa5cbea0789edd5d94251296730be"
+	"linuxclienticon" "f73220af11542c3368533060f2ddf94d63f10907"
+	"clienticns" "b05c611ac8e36163a08a4eef85c61ec38b04766a"
+	"logo" "0b3b7e268700102333277311354a315661327990"
+	"logo_small" "0b3b7e268700102333277311354a315661327990_thumb"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosnotarized"
+	"name_localized"
+	{
+		"schinese" "氰化欢乐秀-末日通行证"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1679961600"
+		"tested_build_id" "7282161"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
+			"7"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "71.39534883720933"
+			"height_pct" "35.56162431726432"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "71.39534883720933"
+				"height_pct" "35.56162431726432"
+			}
+		}
+	}
+	"store_asset_mtime" "1635267927"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Explosm"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Skeleton Crew Studios"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Serenity Forge"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_33" "1"
+		"category_22" "1"
+		"category_13" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1615482116"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "869880"
+	"store_tags"
+	{
+		"0" "1698"
+		"1" "19995"
+		"2" "4562"
+		"3" "21"
+		"4" "492"
+		"5" "597"
+		"6" "1719"
+		"7" "4195"
+		"8" "5923"
+		"9" "3835"
+		"10" "1664"
+		"11" "1742"
+		"12" "5094"
+		"13" "4136"
+		"14" "4182"
+		"15" "12095"
+		"16" "4234"
+		"17" "6650"
+		"18" "1695"
+		"19" "3871"
+	}
+	"review_score" "5"
+	"review_percentage" "52"
+}
+"extended"
+{
+	"developer" "Explosm"
+	"publisher" "Serenity Forge"
+	"homepage" "http://www.freakpocalypse.com"
+}
+"config"
+{
+	"installdir" "Cyanide & Happiness Freakpocalypse"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Freakpocalypse.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Freakpocalypse.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Freakpocalypse_HPTH_1.09d_Linux.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"869881"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5259234687639271398"
+				"size" "1701526619"
+				"download" "1588135456"
+			}
+		}
+	}
+	"869882"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8185431780124949494"
+				"size" "1522100087"
+				"download" "1412033648"
+			}
+		}
+	}
+	"869883"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4756221094073794159"
+				"size" "1530202609"
+				"download" "1411887056"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7282161"
+			"timeupdated" "1630446013"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1500000"
+	"maxnumfiles" "2"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Explosm/Freakpocalypse/SteamSaves/{64BitSteamID}/"
+			"pattern" "*.banana"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "2e35e71b7e9ab8a9c2a497fba1b2034638b994a5"
+"_size" "6506"
