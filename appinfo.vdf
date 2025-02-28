@@ -1,0 +1,217 @@
+"appid" "2198680"
+"common"
+{
+	"name" "兰若异谭"
+	"type" "Game"
+	"icon" "e8880a4830ff3b72653df0d9f9cb8125ddd8d405"
+	"clienticon" "f36e7d1d1b9da085fafb9e4d34b8c9422ab5cfeb"
+	"clienttga" "7a27edd2d842fd10f5d926b86b418dede61e1e2c"
+	"name_localized"
+	{
+		"sc_schinese" "兰若异谭"
+		"schinese" "兰若异谭"
+		"tchinese" "蘭若異譚"
+		"english" "Dead Town Tales"
+	}
+	"releasestate" "released"
+	"releasestatesteamchina" "prerelease"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "48.774954627949185"
+			"height_pct" "48.95833333333332"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "48.774954627949185"
+				"height_pct" "48.95833333333332"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1714300779"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "拾遗工作室"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Pixmain"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1685069940"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2198680"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1666"
+		"2" "3959"
+		"3" "3871"
+		"4" "6815"
+		"5" "5984"
+		"6" "5716"
+		"7" "5613"
+		"8" "1742"
+		"9" "492"
+		"10" "6971"
+		"11" "32322"
+		"12" "4182"
+		"13" "8369"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "拾遗工作室"
+	"publisher" "Pixmain"
+}
+"config"
+{
+	"installdir" "LRYT"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "兰若异谭.exe"
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"2198681"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5336260094622367276"
+				"size" "1748983028"
+				"download" "1081830768"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14199969"
+			"timeupdated" "1714380851"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "DefaultCompany/兰若异谭"
+			"pattern" "steam_global_*.db"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "26769460"
+"_sha" "3bdfe971cd94e7019656bf3ad21024e2b333b45b"
+"_size" "3659"
