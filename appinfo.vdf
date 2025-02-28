@@ -1,0 +1,394 @@
+"appid" "1371980"
+"common"
+{
+	"name" "No Rest for the Wicked"
+	"type" "Game"
+	"logo" "ae07874c7236c9a416d147c18218add73db46325"
+	"logo_small" "ae07874c7236c9a416d147c18218add73db46325_thumb"
+	"icon" "8b383999493fa60adbbda2a5a5714805d9d7c913"
+	"clienticon" "7206e09027074880549e370c7a005edccc735a90"
+	"clienttga" "d4d7b0f1857daf55e5b50ba1b28cce6a0068b118"
+	"name_localized"
+	{
+		"schinese" "《恶意不息》"
+		"tchinese" "《永無寧日》"
+		"japanese" "ノー レスト フォー ザ ウィケッド"
+		"koreana" "노 레스트 포 더 위키드"
+	}
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1371980_eula_0"
+			"name" "No Rest for the Wicked EULA"
+			"url" "https://store.steampowered.com//eula/1371980_eula_0"
+			"version" "3"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1721865600"
+		"tested_build_id" "14462520"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "61.26021003500585"
+			"height_pct" "77.5835876657973"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "61.26021003500585"
+				"height_pct" "77.5835876657973"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1722518070"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Moon Studios GmbH"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Moon Studios GmbH"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Moon Studios GmbH"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_60" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1713456036"
+	"community_hub_visible" "1"
+	"gameid" "1371980"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "122"
+		"2" "29482"
+		"3" "4231"
+		"4" "1646"
+		"5" "3834"
+		"6" "5851"
+		"7" "4191"
+		"8" "4604"
+		"9" "4145"
+		"10" "4166"
+		"11" "4305"
+		"12" "4252"
+		"13" "9204"
+		"14" "5984"
+		"15" "3952"
+		"16" "4747"
+		"17" "10808"
+		"18" "3993"
+		"19" "7481"
+	}
+	"review_score" "6"
+	"review_percentage" "76"
+}
+"extended"
+{
+	"developer" "Moon Studios GmbH"
+	"publisher" "Moon Studios GmbH"
+	"homepage" "http://norestforthewicked.com/"
+}
+"config"
+{
+	"installdir" "NoRestForTheWicked"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "NoRestForTheWicked.exe"
+			"type" "default"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65533"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1371981"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8002246959586799062"
+				"size" "30678629239"
+				"download" "11020771344"
+			}
+		}
+	}
+	"1371982"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8070228660872352263"
+				"size" "263983"
+				"download" "115152"
+			}
+		}
+	}
+	"1371983"
+	{
+	}
+	"1371984"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "269809134955605024"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17514619"
+			"timeupdated" "1740572574"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "262144000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Moon Studios/NoRestForTheWicked/DataStore"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27711218"
+"_sha" "f06f82fd008e3dd7d34493b45769534a291ec0e9"
+"_size" "6855"
