@@ -1,0 +1,447 @@
+"appid" "10190"
+"common"
+{
+	"name" "Call of Duty: Modern Warfare 2 (2009) - Multiplayer"
+	"clienticon" "ebd9e091cf636fcbacce51d0bae3e5edf40d51c9"
+	"clienttga" "358fae37bddfb5a43dd748e369ab01e0498298be"
+	"icon" "7dd7c2d5bce2413131762d7cbee3f059614ed69d"
+	"logo" "070cad064b3a81d6ede0f6054d9eb763004a07e0"
+	"logo_small" "070cad064b3a81d6ede0f6054d9eb763004a07e0_thumb"
+	"clienticns" "9197567257a08b3901378157cbfae74935143a93"
+	"type" "game"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1705708800"
+		"tested_build_id" "11843771"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DeviceCompatibilityWarningsShown"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Call of Duty®: Modern Warfare® 2 - Multiplayer"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Infinity Ward"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Activision"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_62" "1"
+	}
+	"community_hub_visible" "1"
+	"gameid" "10190"
+	"store_tags"
+	{
+		"0" "19"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"canskipinstallappchooser" "1"
+	"dependantonapp" "10180"
+	"developer" "Infinity Ward"
+	"gamedir" "Modern Warfare 2 - Multiplayer"
+	"homepage" "http://www.infinityward.com"
+	"icon" ""
+	"installscript" "installscript.vdf"
+	"languages" "english,french,german,italian,spanish,polish,russian,japanese"
+	"noservers" "1"
+	"onquitdemomsg" "http://cdn.store.steampowered.com/message/684719971963563875/"
+	"order" "1"
+	"primarycache" "10184"
+	"retailautostart" "1"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"suppressims" "1"
+	"vacmacmodulecache" "160"
+	"vacmodulecache" "202"
+	"vacmodulefilename" "sourceinit.dat"
+	"no_revenue_accumulation" "1"
+	"publisher" "Activision"
+	"listofdlc" "10195,10196,10197"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"usemms" "1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "iw4mp.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "COD_MW2_MP.app"
+			"description" "Multiplayer"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"systemprofile" "1"
+	"contenttype" "3"
+	"installdir" "Call of Duty Modern Warfare 2"
+	"cegpublickey" "30819D300D06092A864886F70D010101050003818B0030818702818100E796335382143ED4C7941C6006AAAA58B6FA9E04B9ABF7B6B85C8592E3CC13F8C99C714B1A3AED7C4A8977F8BA3EEF03FC7ECB8A8FBA01B4AC9B795263904ED7AD08600270CAFD906EA9BF54D47017482FE8AFDCB5BC80F8C12AA712B2A0FE385536EA25A5DA0E074BD26E71D01FCDEB4D476C60F2874C5A9D96523558EF44FB020111"
+	"checkguid" "iw4mp.exe"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"10196"
+	{
+		"optional" "1"
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1027296475802215551"
+				"size" "372850898"
+				"download" "0"
+			}
+		}
+		"dlcappid" "10196"
+	}
+	"10195"
+	{
+		"optional" "1"
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4404426848645331640"
+				"size" "352805074"
+				"download" "0"
+			}
+		}
+		"dlcappid" "10195"
+	}
+	"10184"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "908433931108303658"
+				"size" "4828879"
+				"download" "1709632"
+			}
+		}
+	}
+	"10182"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "10180"
+		"sharedinstall" "2"
+	}
+	"10186"
+	{
+		"optional" "1"
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "10180"
+		"sharedinstall" "2"
+	}
+	"10183"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"depotfromapp" "10180"
+		"sharedinstall" "2"
+	}
+	"10185"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"depotfromapp" "10180"
+		"sharedinstall" "2"
+	}
+	"10187"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+		}
+		"depotfromapp" "10180"
+		"sharedinstall" "2"
+	}
+	"10188"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"depotfromapp" "10180"
+		"sharedinstall" "2"
+	}
+	"10189"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"depotfromapp" "10180"
+		"sharedinstall" "2"
+	}
+	"10191"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"depotfromapp" "10180"
+		"sharedinstall" "2"
+	}
+	"10192"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"depotfromapp" "10180"
+		"sharedinstall" "2"
+	}
+	"10193"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"depotfromapp" "10180"
+		"sharedinstall" "2"
+	}
+	"278300"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "385996767344838275"
+				"size" "13964887"
+				"download" "7946528"
+			}
+		}
+	}
+	"278301"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7480450085793114503"
+				"size" "352805074"
+				"download" "351494864"
+			}
+		}
+	}
+	"278302"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8173601917745645979"
+				"size" "372850898"
+				"download" "371366336"
+			}
+		}
+	}
+	"278280"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"depotfromapp" "10180"
+		"sharedinstall" "2"
+	}
+	"278282"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"depotfromapp" "10180"
+		"sharedinstall" "2"
+	}
+	"278283"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos"
+		}
+		"depotfromapp" "10180"
+		"sharedinstall" "2"
+	}
+	"278284"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "macos"
+		}
+		"depotfromapp" "10180"
+		"sharedinstall" "2"
+	}
+	"278285"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+		"depotfromapp" "10180"
+		"sharedinstall" "2"
+	}
+	"278286"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos"
+		}
+		"depotfromapp" "10180"
+		"sharedinstall" "2"
+	}
+	"baselanguages" "english,german,french,italian,spanish"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11843771"
+			"timeupdated" "1690942287"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1048576"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "27109055"
+"_sha" "fcc71fac95781fd4423d0f8df5a7c92ecafb3bd7"
+"_size" "7805"
