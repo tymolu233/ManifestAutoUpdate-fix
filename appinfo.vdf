@@ -1,0 +1,406 @@
+"appid" "1101360"
+"common"
+{
+	"name" "Rock of Ages 3: Make & Break"
+	"type" "Game"
+	"logo" "af4d3bf789cc9cb6350248d135a9ac87a2416181"
+	"logo_small" "af4d3bf789cc9cb6350248d135a9ac87a2416181_thumb"
+	"icon" "2533b0bbfee9ffd0f6f7763d1afe1c4b3504777d"
+	"clienticon" "4b1efdba5c64add3bc3058ea4818a21407229b7b"
+	"clienttga" "f2b85813b81d87c7c793146e5a417905dd6f4324"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"japanese" "ロック・オブ・エイジス: メイク&ブレイク"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1660608000"
+		"tested_build_id" "5663026"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Rock of Ages 3: Make &amp; Break"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja"
+		"library_hero" "en"
+		"library_logo" "en,ja"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"japanese" "logo_japanese.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1595267308"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ACE Team"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Giant Monkey Robot"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Maximum Entertainment"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "3goo"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Rock of Ages"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "Maximum Entertainment"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "9"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_17" "1"
+		"category_28" "1"
+		"category_44" "1"
+		"category_49" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1595336214"
+	"metacritic_score" "72"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/rock-of-ages-3-make-break\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1101360"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "19"
+		"2" "1719"
+		"3" "492"
+		"4" "699"
+		"5" "4136"
+		"6" "5363"
+		"7" "3859"
+		"8" "21"
+		"9" "597"
+		"10" "1664"
+		"11" "1741"
+		"12" "1773"
+		"13" "1697"
+		"14" "4195"
+		"15" "1710"
+		"16" "1643"
+		"17" "1775"
+		"18" "8122"
+		"19" "1645"
+	}
+	"review_score" "6"
+	"review_percentage" "74"
+}
+"extended"
+{
+	"developer" "ACE Team"
+	"publisher" "Maximum Entertainment"
+	"homepage" "http://RockOfAges3.com"
+	"listofdlc" "1407701"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Rock of Ages III Make & Break"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ROA3.exe"
+			"type" "none"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamconfigurator3rdpartynative" "65532"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese"
+	"hasdepotsindlc" "1"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1101361"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2043251859189117248"
+				"size" "3520222728"
+				"download" "3413617920"
+			}
+			"local"
+			{
+				"gid" "8727818320090103474"
+				"size" "3683735467"
+				"download" "3445574800"
+			}
+		}
+	}
+	"1101362"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1722561155405160708"
+				"size" "1987174"
+				"download" "2007808"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5663026"
+			"timeupdated" "1602280328"
+		}
+		"local"
+		{
+			"buildid" "5089474"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1590665818"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "500000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "ROA3/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27500172"
+"_sha" "94bf9357f71a7353d3eaa572a3da18214bc7ae5f"
+"_size" "7263"
