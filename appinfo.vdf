@@ -1,0 +1,439 @@
+"appid" "1127500"
+"common"
+{
+	"name" "Mini Motorways"
+	"type" "Game"
+	"icon" "567195f974791f4082704682b431e2a2ff358ff9"
+	"logo" "ad4056adba51bd92206011b6b10bc8666ec58d87"
+	"logo_small" "ad4056adba51bd92206011b6b10bc8666ec58d87_thumb"
+	"clienticon" "2579657a784bfa72789388d1600d6cda96a4aa23"
+	"clienttga" "ff6a343605c53756e08a3bb3f3afd3d211991a3d"
+	"linuxclienticon" "3020a16a759d20d3eea04c7a8409948cf7f2831e"
+	"clienticns" "99f9ea70c058580ba0d6db33db90eca9db963cc0"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosnotarized"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"dutch" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644278400"
+		"tested_build_id" "7547337"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Mini Motorways"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "36.85883672487495"
+			"height_pct" "72.79743528853001"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "36.85883672487495"
+				"height_pct" "72.79743528853001"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1667780939"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Dinosaur Polo Club"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Dinosaur Polo Club"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1626792743"
+	"metacritic_score" "87"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/mini-motorways\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1127500"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "599"
+		"2" "597"
+		"3" "492"
+		"4" "12472"
+		"5" "4094"
+		"6" "1664"
+		"7" "1654"
+		"8" "10383"
+		"9" "1643"
+		"10" "4182"
+		"11" "4252"
+		"12" "4791"
+		"13" "5411"
+		"14" "4328"
+		"15" "5350"
+		"16" "8945"
+		"17" "1756"
+		"18" "25085"
+		"19" "1721"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Dinosaur Polo Club"
+	"publisher" "Dinosaur Polo Club"
+	"homepage" "https://dinopoloclub.com/"
+}
+"config"
+{
+	"installdir" "Mini Motorways"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Mini Motorways.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Mini Motorways.app/Contents/MacOS/Mini Motorways"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,dutch,turkish,arabic,brazilian"
+	"1127501"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1289586986452362746"
+				"size" "212275770"
+				"download" "139470816"
+			}
+			"1.12_aurora_borealis"
+			{
+				"gid" "325012004176255820"
+				"size" "229472144"
+				"download" "140704496"
+			}
+			"1.13_sea_to_sky"
+			{
+				"gid" "3298530745439219511"
+				"size" "211220581"
+				"download" "138455936"
+			}
+			"1.15_down_under"
+			{
+				"gid" "4828265797970559162"
+				"size" "212283693"
+				"download" "139478128"
+			}
+			"1.10_endless_expert"
+			{
+				"gid" "5639111916594631275"
+				"size" "224035834"
+				"download" "138275168"
+			}
+			"1.11_miniversary"
+			{
+				"gid" "2845776647361762882"
+				"size" "228740219"
+				"download" "140050032"
+			}
+		}
+	}
+	"1127502"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4897430277210801163"
+				"size" "252068744"
+				"download" "146757344"
+			}
+			"1.12_aurora_borealis"
+			{
+				"gid" "3507045339804861328"
+				"size" "240560277"
+				"download" "141967088"
+			}
+			"1.13_sea_to_sky"
+			{
+				"gid" "5654666692623627303"
+				"size" "250983532"
+				"download" "145737328"
+			}
+			"1.15_down_under"
+			{
+				"gid" "628639913771491590"
+				"size" "252069951"
+				"download" "146759680"
+			}
+			"1.10_endless_expert"
+			{
+				"gid" "4176864338619032587"
+				"size" "234819646"
+				"download" "139464256"
+			}
+			"1.11_miniversary"
+			{
+				"gid" "5817271829161117709"
+				"size" "239735568"
+				"download" "141301600"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16932973"
+			"timeupdated" "1737062552"
+		}
+		"1.12_aurora_borealis"
+		{
+			"buildid" "12945442"
+			"description" "A snapshot of the game for the Aurora Borealis update"
+			"timeupdated" "1718077841"
+		}
+		"1.13_sea_to_sky"
+		{
+			"buildid" "14621867"
+			"description" "A snapshot of the game for the sea to sky update"
+			"timeupdated" "1733775948"
+		}
+		"1.15_down_under"
+		{
+			"buildid" "16320274"
+			"description" "A snapshot of the game for the Down Under update"
+			"timeupdated" "1737062298"
+		}
+		"1.10_endless_expert"
+		{
+			"buildid" "11143143"
+			"description" "A snapshot of the game for the Endless and Expert Patch Update"
+			"timeupdated" "1689808314"
+		}
+		"1.11_miniversary"
+		{
+			"buildid" "11742016"
+			"description" "A snapshot of the game for the Miniversary Update"
+			"timeupdated" "1695951991"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "27701270"
+"_sha" "fbca2c1b32d84e33ce88eb5f7dd007fce1e5cda7"
+"_size" "8083"
