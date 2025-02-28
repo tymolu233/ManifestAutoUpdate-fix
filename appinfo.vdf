@@ -1,0 +1,447 @@
+"appid" "1328840"
+"common"
+{
+	"name" "Lost in Play"
+	"type" "Game"
+	"logo" "50d0f7fec5bdaa404656cbe80c390db0d124596d"
+	"logo_small" "50d0f7fec5bdaa404656cbe80c390db0d124596d_thumb"
+	"icon" "c6c9f705ce5488a75b985c39e6825b3da83f554b"
+	"clienticns" "c48bdd5d75bc7d9b99ef5f9f15b93382a565985f"
+	"clienttga" "e1ad3a0077221e4b2e0ee7fe47f9a3cc555252f1"
+	"linuxclienticon" "ffb467bb8ac5adf313e62bbd2da068c233170df3"
+	"clienticon" "8d21a16ad628985aebc7066141329431efa0bb63"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1662681600"
+		"tested_build_id" "9331776"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Lost in Play"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "53.45200422779169"
+			"height_pct" "64.48397385155276"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "53.45200422779169"
+				"height_pct" "64.48397385155276"
+			}
+		}
+	}
+	"store_asset_mtime" "1683105567"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Happy Juice Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Joystick Ventures"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Joystick Ventures"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
+		"hebrew"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1660147193"
+	"metacritic_score" "82"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/lost-in-play\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1328840"
+	"store_tags"
+	{
+		"0" "1664"
+		"1" "1698"
+		"2" "492"
+		"3" "4182"
+		"4" "5716"
+		"5" "597"
+		"6" "6815"
+		"7" "4562"
+		"8" "21"
+		"9" "7208"
+		"10" "1684"
+		"11" "552282"
+		"12" "1719"
+		"13" "4305"
+		"14" "1742"
+		"15" "1710"
+		"16" "5350"
+		"17" "4136"
+		"18" "4166"
+		"19" "3871"
+	}
+	"review_score" "9"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"developer" "Happy Juice Games"
+	"publisher" "Joystick Ventures"
+	"homepage" "https://www.happyjuice.games/"
+}
+"config"
+{
+	"installdir" "Lost in Play"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "LostInPlay\\LostInPlay.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "LostInPlay.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,dutch,czech,romanian,arabic,brazilian,bulgarian,latam"
+	"hasdepotsindlc" "0"
+	"1328841"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3575365608479551923"
+				"size" "1442709294"
+				"download" "1108305552"
+			}
+		}
+	}
+	"1328842"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6104321699913627556"
+				"size" "1460764300"
+				"download" "1113195008"
+			}
+		}
+	}
+	"1328849"
+	{
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10078124"
+			"timeupdated" "1670226570"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "6553600"
+	"maxnumfiles" "300"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Happyjuice/LostInPlay"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "HappyJuice/LostInPlay"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "HappyJuice/LostInPlay"
+			"pattern" "*.cat"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"3"
+		{
+			"root" "MacAppSupport"
+			"path" "HappyJuice/LostInPlay"
+			"pattern" "*.cat"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26900250"
+"_sha" "7ac1609e4548f9d4a081f9eeb127a8909255ae54"
+"_size" "7340"
