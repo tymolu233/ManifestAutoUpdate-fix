@@ -1,0 +1,395 @@
+"appid" "1012880"
+"common"
+{
+	"name" "60 Seconds! Reatomized"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"logo" "7f5a412f2f049fbab8a81383b161bba263e03464"
+	"logo_small" "7f5a412f2f049fbab8a81383b161bba263e03464_thumb"
+	"icon" "e008d567f867241727ef6b65003cb0b40d6b0da9"
+	"clienticon" "4567d9a30faa8d2d5becc5c4bec16a5978155407"
+	"clienttga" "c502a650c09b263386f44c268ee110e5eb084b6b"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1012880_eula_0"
+			"name" "60 Seconds! Reatomized EULA"
+			"url" "https://store.steampowered.com//eula/1012880_eula_0"
+			"version" "1"
+		}
+	}
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1646179200"
+		"tested_build_id" "7625702"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "60 Seconds! Reatomized"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "38.8060715675785"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "38.8060715675785"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "f76cfa728774c9f630c71ee5a59f0bc26578ff6b/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "f76cfa728774c9f630c71ee5a59f0bc26578ff6b/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737717960"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Robot Gentleman"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Robot Gentleman"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "60"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "28"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1564077761"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1012880"
+	"store_tags"
+	{
+		"0" "3871"
+		"1" "4486"
+		"2" "14139"
+		"3" "3834"
+		"4" "5923"
+		"5" "1100686"
+		"6" "9204"
+		"7" "1698"
+		"8" "4026"
+		"9" "47827"
+		"10" "9"
+		"11" "10235"
+		"12" "31275"
+		"13" "3835"
+		"14" "4191"
+		"15" "19995"
+		"16" "1667"
+		"17" "12472"
+		"18" "1662"
+		"19" "4136"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Robot Gentleman"
+	"publisher" "Robot Gentleman"
+	"homepage" "http://60secondsgame.com"
+}
+"config"
+{
+	"installdir" "60 Seconds! Reatomized"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "60SecondsReatomized.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "60SecondsReatomized.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "60Seconds.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1012881"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1819672003451388367"
+				"size" "2698582194"
+				"download" "515313136"
+			}
+		}
+	}
+	"1012882"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8775241307099537733"
+				"size" "2722560684"
+				"download" "522373760"
+			}
+		}
+	}
+	"1012883"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+	}
+	"workshopdepot" "1012880"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9899492"
+			"timeupdated" "1667989303"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "209715200"
+	"maxnumfiles" "10"
+}
+"_missing_token" "False"
+"_change_number" "27648868"
+"_sha" "70c0464c901168c7177cde6bd5c8da2ccb1dfc8e"
+"_size" "6630"
