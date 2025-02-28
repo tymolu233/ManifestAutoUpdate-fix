@@ -1,0 +1,169 @@
+"appid" "463690"
+"common"
+{
+	"name" "Total War™: WARHAMMER® - Assembly Kit BETA"
+	"type" "Tool"
+	"oslist" "windows"
+	"clienticon" "4073fc72f7d6714d1487e74277e0cdda33a2e4a1"
+	"clienttga" "f6db08231a6dbf535f90b63bb4e7ab23f7bbc44e"
+	"icon" "6d5daf8094f04d2b19e1b0d51416ef1cccedbec5"
+	"releasestate" "released"
+	"logo" "bf16478bfbe043fa7adcb24752ca88f005a0a269"
+	"logo_small" "bf16478bfbe043fa7adcb24752ca88f005a0a269_thumb"
+	"metacritic_name" "Total War™: WARHAMMER® - Assembly Kit"
+	"library_assets"
+	{
+		"library_hero" "en"
+	}
+	"library_assets_full"
+	{
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1575478881"
+	"associations"
+	{
+	}
+	"gameid" "463690"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Total War WARHAMMER"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "assembly_kit\\binaries\\BOB.AssemblyKit.x64.exe"
+			"workingdir" "assembly_kit\\binaries"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Exporter: BOB"
+			}
+			"description" "Exporter: BOB"
+		}
+		"2"
+		{
+			"executable" "assembly_kit\\binaries\\TWeak.AssemblyKit.x64.exe"
+			"arguments" "/standalone TWaD"
+			"workingdir" "assembly_kit\\binaries"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Database Editor: Dave"
+			}
+			"description" "Database Editor: Dave"
+		}
+		"3"
+		{
+			"executable" "assembly_kit\\binaries\\TWeak.AssemblyKit.x64.exe"
+			"arguments" "/standalone terrainmetadataeditor"
+			"workingdir" "assembly_kit\\binaries"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Battle Map Editor: Terry"
+			}
+			"description" "Battle Map Editor: Terry"
+		}
+		"4"
+		{
+			"executable" "assembly_kit\\binaries\\browse.bat"
+			"arguments" "http://wiki.totalwar.com/w/Total_War_WARHAMMER_Assembly_Kit_Manual"
+			"workingdir" "assembly_kit\\binaries"
+			"description" "Battle Map Editor Documentation"
+			"type" "manual"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "crumpets"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"463691"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3731128065205421953"
+				"size" "415150143"
+				"download" "103405296"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11031264"
+			"timeupdated" "1692882024"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27623406"
+"_sha" "57c16d0262f56e667a4beaa4e7f47440aed74d6c"
+"_size" "3119"
