@@ -1,0 +1,401 @@
+"appid" "826940"
+"common"
+{
+	"name" "Maid of Sker"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienticon" "0f8d45e0c0fbfe72f15f3fe411640b04688a42bd"
+	"clienttga" "5359cd3a02c21aa4f6a813646bf024cba181d3bf"
+	"icon" "931276cff8ad932860a0bbb4a3bf8102984fa839"
+	"clienticns" "85dbb37c5fbdb996f40ef70fa1acf3b85f376274"
+	"linuxclienticon" "8cc87c2a912ceaac998b72258eee2eb35a4b0cda"
+	"logo" "8fb2dddd48a338d4fff8933b056c4ea6cdddb169"
+	"logo_small" "8fb2dddd48a338d4fff8933b056c4ea6cdddb169_thumb"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"hungarian" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1649203200"
+		"tested_build_id" "7406776"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Maid of Sker"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"arabic" "capsule_231x87_arabic.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"arabic" "header_arabic.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ar,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,ar,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "48.95543179927253"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"arabic" "library_600x900_arabic.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"arabic" "library_600x900_arabic_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"arabic" "logo_arabic.png"
+				"schinese" "logo_schinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "48.95543179927253"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"arabic" "logo_arabic_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1659343666"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Wales Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Wales Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Wales Interactive"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"welsh"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1595941282"
+	"metacritic_score" "69"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/maid-of-sker\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "826940"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "21"
+		"2" "19"
+		"3" "4345"
+		"4" "4667"
+		"5" "1721"
+		"6" "1687"
+		"7" "1742"
+		"8" "5716"
+		"9" "492"
+		"10" "3839"
+		"11" "3978"
+		"12" "4166"
+		"13" "3834"
+		"14" "4106"
+		"15" "4182"
+		"16" "1685"
+		"17" "3859"
+		"18" "12095"
+		"19" "7208"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Wales Interactive"
+	"publisher" "Wales Interactive"
+	"homepage" "http://www.walesinteractive.com/maidofsker"
+}
+"config"
+{
+	"installdir" "Maid of Sker"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Maid of Sker.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"826941"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8924562266548608396"
+				"size" "15429421269"
+				"download" "6211314240"
+			}
+		}
+	}
+	"826942"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "211763900992867424"
+				"size" "617905"
+				"download" "491024"
+			}
+		}
+	}
+	"826943"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "222027932855046476"
+				"size" "11531886032"
+				"download" "4708044224"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9522733"
+			"timeupdated" "1663320604"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "27674274"
+"_sha" "24a6213c2e97640fc09341f8af0c529cb01b3397"
+"_size" "7048"
