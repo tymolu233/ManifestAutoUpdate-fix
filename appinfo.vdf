@@ -1,0 +1,355 @@
+"appid" "1650010"
+"common"
+{
+	"name" "RIDE 5"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "2251f418d8716dbb43063c474a71673771e3673e"
+	"clienticon" "b5074d835c2794e7e33036e43c4f2653da729156"
+	"clienttga" "80b3701e4d4230eec44d193cdb89d9418b196161"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1650010_eula_0"
+			"name" "RIDE 5 EULA"
+			"url" "https://store.steampowered.com//eula/1650010_eula_0"
+			"version" "7"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1708560000"
+		"tested_build_id" "2399440"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "73.03135524478485"
+			"height_pct" "87.15008910381977"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "73.03135524478485"
+				"height_pct" "87.15008910381977"
+			}
+		}
+	}
+	"store_asset_mtime" "1692808033"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Milestone S.r.l."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Milestone S.r.l."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "RIDE"
+		}
+	}
+	"primary_genre" "9"
+	"genres"
+	{
+		"0" "9"
+		"1" "28"
+		"2" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_49" "1"
+		"category_29" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1692860449"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1650010"
+	"store_tags"
+	{
+		"0" "699"
+		"1" "599"
+		"2" "701"
+		"3" "198913"
+		"4" "10816"
+		"5" "123332"
+		"6" "1644"
+		"7" "3859"
+		"8" "4175"
+		"9" "4182"
+		"10" "7368"
+		"11" "3839"
+		"12" "1697"
+		"13" "7481"
+		"14" "1775"
+		"15" "3968"
+		"16" "5350"
+		"17" "4747"
+		"18" "7926"
+		"19" "12057"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "Milestone S.r.l."
+	"publisher" "Milestone S.r.l."
+	"homepage" "https://ridevideogame.com/"
+	"listofdlc" "2315150,2315160,2315170,2315180,2315190,2315200,2315210,2315220,2315230,2315240,2315250,2315260,2315270,2315290,2315300,2315310,2331010"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "RIDE 5"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ride5.exe"
+			"type" "none"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "4"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1650011"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4534034758560317760"
+				"size" "52207221362"
+				"download" "49403050544"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17409720"
+			"timeupdated" "1740391452"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Ride5/Saved/SaveGames/"
+			"pattern" "*.*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27630780"
+"_sha" "fcc1c1be201472a3fb3d5b71dcf371c4893a69a6"
+"_size" "6136"
