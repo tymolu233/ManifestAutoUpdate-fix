@@ -1,0 +1,377 @@
+"appid" "2071200"
+"common"
+{
+	"name" "隐秘的角落"
+	"type" "Game"
+	"icon" "97c91e95f342c126c233bf9aa58548473a0daf64"
+	"clienttga" "e14a1d3d8dab041b2f0d521838a6f4fbc09c3aa9"
+	"clienticon" "6c5b2cd0bafb852d073cd16021c21497d8aa719d"
+	"name_localized"
+	{
+		"english" "The Bad Kids"
+		"tchinese" "隱秘的角落"
+		"schinese" "隐秘的角落"
+		"sc_schinese" "隐秘的角落"
+	}
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"releasestatesteamchina" "prerelease"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1675468800"
+		"tested_build_id" "10451123"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-tw,zh-cn,en"
+		"library_hero" "zh-tw,en,zh-cn"
+		"library_logo" "zh-cn,zh-tw,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "43.255813953488364"
+			"height_pct" "83.43623842317737"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"tchinese" "library_600x900_tchinese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"tchinese" "library_hero_tchinese.jpg"
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"tchinese" "library_hero_tchinese_2x.jpg"
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "43.255813953488364"
+				"height_pct" "83.43623842317737"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1673326132"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Aluba Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "LightOn Game"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1674025236"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2071200"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "492"
+		"2" "1664"
+		"3" "1721"
+		"4" "5716"
+		"5" "1667"
+		"6" "3834"
+		"7" "5984"
+		"8" "4064"
+		"9" "6971"
+		"10" "4182"
+		"11" "4166"
+		"12" "4175"
+		"13" "1742"
+		"14" "5537"
+		"15" "1651"
+		"16" "4559"
+		"17" "3871"
+		"18" "5673"
+		"19" "3799"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "Aluba Studio"
+	"publisher" "LightOn Game"
+	"homepage" "https://weibo.com/u/7752834279"
+}
+"config"
+{
+	"installdir" "The Bad Kids"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "The Bad Kids.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "The Bad Kids.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "0"
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese,tchinese"
+	"2071201"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7785661195143908220"
+				"size" "7276929986"
+				"download" "3324810672"
+			}
+		}
+	}
+	"2071202"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "552769634041733328"
+				"size" "7276929986"
+				"download" "3324831744"
+			}
+		}
+	}
+	"2071203"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9191150134998075919"
+				"size" "6844301206"
+				"download" "3159383440"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10791201"
+			"timeupdated" "1679048825"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "ALUBA/The Bad Kids"
+			"pattern" "*.es3"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "ALUBA/The Bad Kids/SaveAndRead"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "MacAppSupport"
+			"path" "ALUBA/The Bad Kids"
+			"pattern" "*.es3"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "MacAppSupport"
+			"path" "ALUBA/The Bad Kids/SaveAndRead"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26601463"
+"_sha" "ab556f13c6f48f1447716c771d211775472f9cb6"
+"_size" "6766"
