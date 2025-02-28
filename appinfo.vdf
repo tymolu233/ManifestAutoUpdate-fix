@@ -1,0 +1,253 @@
+"appid" "1859910"
+"common"
+{
+	"name" "活俠傳"
+	"type" "Game"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"english" "Legend of Mortal"
+		"sc_schinese" "活侠传"
+		"schinese" "活侠传"
+	}
+	"logo" "762e1eab2f9edf41ce54510c5ee1586c82d568f7"
+	"logo_small" "762e1eab2f9edf41ce54510c5ee1586c82d568f7_thumb"
+	"icon" "030501e0266d9b728fd61e067422263ff8a146a5"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "f13cd0ac69a4e45097259c40c07a39ff88345e13"
+	"clienttga" "b78a1d5776ccac4a286322885530c607db883104"
+	"releasestatesteamchina" "prerelease"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-xc"
+		"library_hero" "en,zh-cn,zh-xc"
+		"library_logo" "en,zh-cn,zh-xc"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "31.306826706676645"
+			"height_pct" "72.91666666666666"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"sc_schinese" "library_hero_sc_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "31.306826706676645"
+				"height_pct" "72.91666666666666"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1718270254"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Obb Studio Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paras Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Obb Studio Inc."
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Paras Games"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1718348160"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1859910"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "6426"
+		"2" "6971"
+		"3" "3854"
+		"4" "4711"
+		"5" "6915"
+		"6" "5984"
+		"7" "9551"
+		"8" "4182"
+		"9" "9"
+		"10" "4136"
+		"11" "7702"
+		"12" "492"
+		"13" "21"
+		"14" "3871"
+		"15" "12095"
+		"16" "19"
+		"17" "4166"
+		"18" "21725"
+		"19" "4004"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "Obb Studio Inc."
+	"publisher" "Paras Games"
+	"homepage" "https://www.facebook.com/obbstudio"
+}
+"config"
+{
+	"installdir" "LegendOfMortal"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Mortal.exe"
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "3"
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "tchinese"
+	"1859911"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9092665278498754774"
+				"size" "1786542909"
+				"download" "738102448"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15614129"
+			"timeupdated" "1725614812"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Obb Studio/Mortal/{64BitSteamID}"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27691834"
+"_sha" "b930a70da0188ea30c736ab7681a7ec4bc2246d2"
+"_size" "4528"
