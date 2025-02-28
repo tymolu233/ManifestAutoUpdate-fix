@@ -1,0 +1,395 @@
+"appid" "1574580"
+"common"
+{
+	"name" "Strange Horticulture"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"logo" "5065ecee359adeade4de0674181c1a806f719df7"
+	"logo_small" "5065ecee359adeade4de0674181c1a806f719df7_thumb"
+	"icon" "b3c9dd33004a8b2d5f97adc72589e6e6488e0490"
+	"clienttga" "7fd7e8b4b4ab753c21ff5a255cf8648b7549a193"
+	"clienticon" "0db37c5f2cfd4adc6691799a0d66a5a87f6080ef"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644019200"
+		"tested_build_id" "8107958"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"metacritic_name" "Strange Horticulture"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "77.09302325581396"
+			"height_pct" "80.77653763951555"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "77.09302325581396"
+				"height_pct" "80.77653763951555"
+			}
+		}
+	}
+	"store_asset_mtime" "1737451131"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bad Viking"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Iceberg Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Bad Viking"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1642773581"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/strange-horticulture\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1574580"
+	"store_tags"
+	{
+		"0" "5716"
+		"1" "1664"
+		"2" "8369"
+		"3" "30358"
+		"4" "3834"
+		"5" "1654"
+		"6" "5613"
+		"7" "6426"
+		"8" "3871"
+		"9" "6971"
+		"10" "1742"
+		"11" "599"
+		"12" "7432"
+		"13" "4166"
+		"14" "21"
+		"15" "4342"
+		"16" "1698"
+		"17" "15172"
+		"18" "4598"
+		"19" "4305"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Bad Viking"
+	"publisher" "Iceberg Interactive"
+	"homepage" "https://www.badviking.com/"
+}
+"config"
+{
+	"installdir" "Strange Horticulture"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Strange Horticulture.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Strange Horticulture.app/Contents/MacOS/Strange Horticulture"
+			"workingdir" "Strange Horticulture.app/Contents/MacOS"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"1574581"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5132607692592855863"
+				"size" "716009385"
+				"download" "234064560"
+			}
+		}
+	}
+	"1574582"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8404410664450384564"
+				"size" "689194551"
+				"download" "226929328"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14595000"
+			"timeupdated" "1717487518"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "2000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "BadVikingLtd/Strange Horticulture"
+			"pattern" "*.gd"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "BadVikingLtd/Strange Horticulture"
+					"replace" "com.badviking.strangehorticulture"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27090348"
+"_sha" "b9bde6ae4bd87fff5141c72b84fdc26d06a551b4"
+"_size" "6755"
