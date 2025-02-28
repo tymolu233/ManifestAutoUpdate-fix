@@ -1,0 +1,499 @@
+"appid" "1226510"
+"common"
+{
+	"name" "Trigon: Space Story"
+	"type" "Game"
+	"clienttga" "7c9ed25100503ad3099cbed6d04d6307c8abebbd"
+	"clienticon" "93dfa91b6302568a27d5b45e6e137eba5c5f99a1"
+	"icon" "726c378b2fb5e06c78318321c73d373c7bfd4c2b"
+	"logo" "4b2acb2d55e328f6b3237be64680170fbbb42280"
+	"logo_small" "4b2acb2d55e328f6b3237be64680170fbbb42280_thumb"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"japanese" "トライゴン: 宇宙の物語"
+		"koreana" "트라이곤: 스페이스 스토리"
+		"schinese" "特里贡：太空故事"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"clienticns" "8bca4ce2403b61afd1cd185a26ebe22884f2ec01"
+	"linuxclienticon" "b4dad2614b6b9cc960cbcac7738c1dc6c5373a1c"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1652227200"
+		"tested_build_id" "8635846"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,ja,ko"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "14.355363184745983"
+			"height_pct" "31.22773687960104"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "14.355363184745983"
+				"height_pct" "31.22773687960104"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1683115098"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Sernur.tech"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Gameforge 4D GmbH"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "IndieForge"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "3"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_25" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1651147229"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1226510"
+	"store_tags"
+	{
+		"0" "5851"
+		"1" "1716"
+		"2" "1755"
+		"3" "9"
+		"4" "4026"
+		"5" "4182"
+		"6" "4486"
+		"7" "8945"
+		"8" "4791"
+		"9" "492"
+		"10" "5125"
+		"11" "1742"
+		"12" "1759"
+		"13" "3942"
+		"14" "1662"
+		"15" "7107"
+		"16" "4166"
+		"17" "4711"
+		"18" "4191"
+		"19" "3834"
+	}
+	"review_score" "6"
+	"review_percentage" "70"
+}
+"extended"
+{
+	"developer" "Sernur.tech"
+	"publisher" "Gameforge 4D GmbH"
+	"listofdlc" "1925020"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Trigon Space Story"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TSS.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "TSS.app\\Contents\\MacOS\\TSS"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "TSS.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "TSS.app\\Contents\\MacOS\\TSS"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "test_2"
+			}
+			"description_loc"
+			{
+				"english" "Executable \"TSS\""
+			}
+			"description" "Executable \"TSS\""
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,russian"
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1226511"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7585193513361469347"
+				"size" "2950757078"
+				"download" "921291280"
+			}
+		}
+	}
+	"1226512"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4202078104642811512"
+				"size" "2947269985"
+				"download" "921295232"
+			}
+		}
+	}
+	"1226513"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1248611420721467556"
+				"size" "3011115681"
+				"download" "930333984"
+			}
+		}
+	}
+	"1925020"
+	{
+		"dlcappid" "1925020"
+		"config"
+		{
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "671546642333335833"
+				"size" "1878339498"
+				"download" "1748981232"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17335352"
+			"timeupdated" "1739363685"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "666666666"
+	"maxnumfiles" "666"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Sernur_Tech/Trigon_ Space Story"
+			"pattern" "*.TSS"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Sernur_Tech/Trigon_ Space Story"
+					"replace" "Sernur_Tech/Trigon_ Space Story"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Sernur_Tech/Trigon_ Space Story"
+					"replace" "com.sernurtech.trigon"
+				}
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgConfigHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Sernur_Tech/Trigon_ Space Story"
+					"replace" "unity3d/Sernur_Tech/Trigon_ Space Story"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27493416"
+"_sha" "c098da644d23d4e013b64fc6ad359f44d7191760"
+"_size" "8734"
