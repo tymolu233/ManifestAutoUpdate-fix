@@ -1,0 +1,420 @@
+"appid" "1676130"
+"common"
+{
+	"name" "Deadlink"
+	"type" "Game"
+	"clienticon" "43fb969027da212c931ee92c8d2a30188d69ec97"
+	"clienttga" "46389598ab3bd45aea2c42ad3ad830c5578c03cf"
+	"icon" "eff8e2cc2d4bddaf491f569daac09cb63199130b"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "d07aec3e6c30ae3616c7a9417f4b3cf7f80190da"
+	"logo_small" "d07aec3e6c30ae3616c7a9417f4b3cf7f80190da_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1698192000"
+		"tested_build_id" "12433346"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Deadlink"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "46.62132624048513"
+			"height_pct" "75.68273569223463"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "46.62132624048513"
+				"height_pct" "75.68273569223463"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1722346738"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Gruby Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "SuperGG.com"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1690472804"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/deadlink\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1676130"
+	"store_tags"
+	{
+		"0" "1663"
+		"1" "42804"
+		"2" "4115"
+		"3" "4155"
+		"4" "1734"
+		"5" "4026"
+		"6" "3959"
+		"7" "5547"
+		"8" "1774"
+		"9" "3839"
+		"10" "19"
+		"11" "4252"
+		"12" "4137"
+		"13" "1751"
+		"14" "4182"
+		"15" "5030"
+		"16" "4295"
+		"17" "1759"
+		"18" "5502"
+		"19" "4195"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Gruby Entertainment"
+	"publisher" "SuperGG.com"
+	"homepage" "https://deadlinkgame.com/\?lang=en"
+}
+"config"
+{
+	"installdir" "Deadlink"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Deadlink.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Play Deadlink"
+			}
+			"description" "Play Deadlink"
+		}
+		"1"
+		{
+			"executable" "Deadlink.exe"
+			"arguments" "-dx12"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Play Deadlink (DirectX 12)"
+			}
+			"description" "Play Deadlink (DirectX 12)"
+		}
+		"2"
+		{
+			"executable" "Deadlink.exe"
+			"arguments" "-dx12 -xessenabled -ngxdisable"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Play Deadlink (DirectX 12 + XeSS)"
+			}
+			"description" "Play Deadlink (DirectX 12 + XeSS)"
+		}
+		"3"
+		{
+			"executable" "Deadlink.exe"
+			"arguments" "-dx11 -xessdisabled -ngxdisable"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Play Deadlink (Safe)"
+			}
+			"description" "Play Deadlink (Safe)"
+		}
+	}
+	"steamcontrollertemplateindex" "3"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65533"
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1676131"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1304283270804750307"
+				"size" "8185526863"
+				"download" "2829333616"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15165680"
+			"timeupdated" "1722345425"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Deadlink/Saved/SaveGames/"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "Saved/SaveGames/"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27601669"
+"_sha" "5ed16f4e47f8146fd86d8a30ed43e8516dc2ee74"
+"_size" "7288"
