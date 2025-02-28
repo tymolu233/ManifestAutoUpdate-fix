@@ -1,0 +1,349 @@
+"appid" "1252680"
+"common"
+{
+	"name" "SENTRY"
+	"type" "Game"
+	"logo" "51f6271bffd1aed5acbebf47e294eb18e6ecca8a"
+	"logo_small" "51f6271bffd1aed5acbebf47e294eb18e6ecca8a_thumb"
+	"icon" "c7ca3a90b100987bbfb9d76c5f4d9e008e6279c0"
+	"clienticon" "b69e8daaa41b715346c70ae714fa96437bd9d161"
+	"clienttga" "e2a798d4d653a824955ccad6be2f814b8b499d69"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "940302b916cef0b3b3a7ced17bb6b9dc6087e44e/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "13.909143659454429"
+			"height_pct" "60.081153196654206"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "13.909143659454429"
+				"height_pct" "60.081153196654206"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1739358491"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Fireblade Software"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Fireblade Software"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_33" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1711382993"
+	"community_hub_visible" "1"
+	"gameid" "1252680"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1645"
+		"2" "1663"
+		"3" "1662"
+		"4" "3942"
+		"5" "19"
+		"6" "4305"
+		"7" "4252"
+		"8" "4191"
+		"9" "1755"
+		"10" "3839"
+		"11" "1673"
+		"12" "3959"
+		"13" "3993"
+		"14" "1774"
+		"15" "6276"
+		"16" "1716"
+		"17" "3964"
+		"18" "4182"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Fireblade Software"
+	"publisher" "Fireblade Software"
+	"homepage" "https://sentrygame.com/"
+}
+"config"
+{
+	"installdir" "SENTRY"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Sentry.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3194560037"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,behaviourinteractive,ground,indiex,internaltest,localization,ludeo,microsoft,playtest,press,reload,saveandsound,team17,tinyteams,trailercapture"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"1252681"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7709270575669017003"
+				"size" "1648769287"
+				"download" "1395671136"
+			}
+			"0.5.23844"
+			{
+				"gid" "8756443723407323113"
+				"size" "1171146002"
+				"download" "923172032"
+			}
+			"0.6.24541"
+			{
+				"gid" "5993301134458870119"
+				"size" "1362108414"
+				"download" "1115956384"
+			}
+			"betabranch"
+			{
+				"gid" "7709270575669017003"
+				"size" "1648769287"
+				"download" "1395671136"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian,ukrainian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17439308"
+			"timeupdated" "1740649619"
+		}
+		"0.5.23844"
+		{
+			"buildid" "13873527"
+			"description" "Launch Version"
+			"timeupdated" "1719502371"
+		}
+		"0.6.24541"
+		{
+			"buildid" "14968453"
+			"description" "Major Update 1"
+			"timeupdated" "1739456076"
+		}
+		"betabranch"
+		{
+			"buildid" "17439308"
+			"description" "Beta Branch"
+			"timeupdated" "1740649582"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Fireblade Software/SENTRY/Saves/Steam/{64BitSteamID}"
+			"pattern" "*.sentryjsave"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgConfigHome"
+			"addpath" "unity3d"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27693312"
+"_sha" "9f7e731b2f268bda8bfb6b1ac387c007fb7cc69d"
+"_size" "5870"
