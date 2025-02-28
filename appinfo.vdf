@@ -1,0 +1,513 @@
+"appid" "703080"
+"common"
+{
+	"name" "Planet Zoo"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "346748e39949d6ed79c033b924cc11754a007492"
+	"logo_small" "346748e39949d6ed79c033b924cc11754a007492_thumb"
+	"icon" "68c7a610498955f547b0ece0aff081d23f2025b5"
+	"clienticon" "11259023bfc7749c0016034a6e2fe84eaef69450"
+	"clienttga" "89f48483d549cbff302ebf7b9e36867f8b5a1253"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "703080_eula_0"
+			"name" "Planet Zoo EULA"
+			"url" "https://store.steampowered.com//eula/703080_eula_0"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"czech" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"japanese" "プラネット ズー"
+		"koreana" "플래닛 주"
+		"schinese" "动物园之星"
+		"tchinese" "動物園之星"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1693958400"
+		"tested_build_id" "11589883"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Planet Zoo"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "60.96849474912483"
+			"height_pct" "72.0375207789123"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "60.96849474912483"
+				"height_pct" "72.0375207789123"
+			}
+		}
+	}
+	"store_asset_mtime" "1728979857"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Frontier Developments"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Frontier Developments"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Frontier Developments"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "FrontierDev"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_61" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1572940800"
+	"steam_release_date" "1572955320"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/planet-zoo\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "703080"
+	"store_tags"
+	{
+		"0" "12472"
+		"1" "599"
+		"2" "1643"
+		"3" "3810"
+		"4" "30358"
+		"5" "4328"
+		"6" "4695"
+		"7" "4175"
+		"8" "4182"
+		"9" "5350"
+		"10" "4726"
+		"11" "8945"
+		"12" "9"
+		"13" "1756"
+		"14" "3859"
+		"15" "1654"
+		"16" "1695"
+		"17" "597"
+		"18" "4136"
+		"19" "6041"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Frontier Developments"
+	"publisher" "Frontier Developments"
+	"homepage" "https://www.planetzoogame.com/"
+	"listofdlc" "1098120,1098121,1196770,1238440,1349400,1471590,1567110,1647620,1726150,1747960,1934140,2013290,2150050,2199210,2346830,2436600,2502240,2675740,2837730,3146420"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Planet Zoo"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PlanetZoo.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "outsource, outsource_lqa"
+			}
+		}
+		"1"
+		{
+			"executable" "PlanetZoo.profile.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_release_trunk, dev_release_branch, outsource_lqa, dev_release_branch_live, ext_dev_instrumented, ext_dev_instrumented2, ext_live_instrumented, ext_live_instrumented2, outsource_fqa2, dev_release_old, internal_01"
+			}
+			"description_loc"
+			{
+				"english" "Planet Zoo (Profile Build)"
+			}
+			"description" "Planet Zoo (Profile Build)"
+		}
+		"2"
+		{
+			"executable" "PlanetZoo.release.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_release_trunk, dev_release_branch, dev_release_branch_live, outsource_fqa, outsource_fqa2, dev_release_old"
+			}
+			"description_loc"
+			{
+				"english" "Planet Zoo (Release Build)"
+			}
+			"description" "Planet Zoo (Release Build)"
+		}
+		"3"
+		{
+			"executable" "PlanetZoo.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"4"
+		{
+			"executable" "Game/Run/PlanetZoo.profile.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "outsource_ani"
+			}
+			"description_loc"
+			{
+				"english" "Planet Zoo (Profile Build)"
+			}
+			"description" "Planet Zoo (Profile Build)"
+		}
+	}
+}
+"depots"
+{
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"703081"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8474633360834033951"
+				"size" "20699337209"
+				"download" "18817308432"
+			}
+		}
+	}
+	"1098120"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "10163085496252241"
+				"size" "796802319"
+				"download" "806056768"
+			}
+		}
+		"dlcappid" "1098120"
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,danish,dutch,norwegian,swedish,czech,brazilian,latam"
+	"workshopdepot" "703080"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17111377"
+			"timeupdated" "1738234811"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "Frontier Developments/Planet Zoo/{64BitSteamID}/Saves/"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinSavedGames"
+			"path" "Frontier Developments/Planet Coaster/{64BitSteamID}/Config/"
+			"pattern" "*_remote.config.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27703671"
+"_sha" "5f3c6f9add9f34dc008a53b20dee25e00bd98a12"
+"_size" "9604"
