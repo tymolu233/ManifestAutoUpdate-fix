@@ -1,0 +1,423 @@
+"appid" "1881200"
+"common"
+{
+	"name" "TRYP FPV"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"icon" "519b8936d83341a637223ee8a2b662cd1a43b5a9"
+	"clienttga" "c6781acca944ea4d0644b8d6b2df0d1af16331bc"
+	"clienticon" "beeb8f89f13b17c4228402e03a47ff76a23af737"
+	"clienticns" "d0c4475217ebac00653caf3fb225af7e53a5b181"
+	"linuxclienticon" "db2cb4a176aa32a00a0decb54c346a261b7b7021"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1665705600"
+		"tested_build_id" "9114636"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"nokeyboardmouse" "1"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "57.35311893212818"
+			"height_pct" "62.66954663359738"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "eff1425fb04d7c03569ebabf37067a33c3223a97/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "eff1425fb04d7c03569ebabf37067a33c3223a97/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "eff1425fb04d7c03569ebabf37067a33c3223a97/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "0b2cd1225f825fbae0f0dfb44749943a0ba42c67/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "57.35311893212818"
+				"height_pct" "62.66954663359738"
+			}
+			"image"
+			{
+				"english" "0b2cd1225f825fbae0f0dfb44749943a0ba42c67/logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1734558526"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "UNDEAD BATTERY"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "UNDEAD BATTERY"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "9"
+		"2" "28"
+		"3" "18"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1656576179"
+	"community_hub_visible" "1"
+	"gameid" "1881200"
+	"store_tags"
+	{
+		"0" "15045"
+		"1" "9204"
+		"2" "5055"
+		"3" "1695"
+		"4" "699"
+		"5" "3834"
+		"6" "1036"
+		"7" "701"
+		"8" "5794"
+		"9" "3968"
+		"10" "3839"
+		"11" "4191"
+		"12" "7481"
+		"13" "599"
+		"14" "4175"
+		"15" "4835"
+		"16" "4182"
+		"17" "17770"
+		"18" "492"
+		"19" "1734"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "UNDEAD BATTERY"
+	"publisher" "UNDEAD BATTERY"
+}
+"config"
+{
+	"installdir" "TRYP FPV"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TrypFPV.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "TrypFPV_Intel.app"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "TrypFPV.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+				"betakey" "dev_only"
+			}
+		}
+		"3"
+		{
+			"executable" "TrypFPV.exe"
+			"arguments" "-DX11"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "TRYP FPV with DirectX11 (not recommended)"
+			}
+			"description" "TRYP FPV with DirectX11 (not recommended)"
+		}
+		"4"
+		{
+			"executable" "TrypFPV.app"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "TRYP FPV for M1/M2 (experimental/High performance)"
+			}
+			"description" "TRYP FPV for M1/M2 (experimental/High performance)"
+		}
+	}
+	"steamcontrollertemplateindex" "3"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1881201"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4169951940837485813"
+				"size" "20312961135"
+				"download" "15546295872"
+			}
+			"local"
+			{
+				"gid" "249051706036711052"
+				"size" "6613964210"
+				"download" "6400298944"
+			}
+			"legacy"
+			{
+				"gid" "6487307637415411252"
+				"size" "14517830132"
+				"download" "12782801392"
+			}
+		}
+	}
+	"1881202"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "976513629524020996"
+				"size" "35944921288"
+				"download" "12021918816"
+			}
+			"legacy"
+			{
+				"gid" "3069222738584094059"
+				"size" "23225991825"
+				"download" "19379053280"
+			}
+		}
+	}
+	"1881203"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1477437602306238902"
+				"size" "9775431294"
+				"download" "7330713008"
+			}
+			"legacy"
+			{
+				"gid" "1477437602306238902"
+				"size" "9775431294"
+				"download" "7330713008"
+			}
+		}
+	}
+	"workshopdepot" "1881200"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17310168"
+			"timeupdated" "1739209729"
+		}
+		"local"
+		{
+			"buildid" "8140096"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1643910770"
+		}
+		"legacy"
+		{
+			"buildid" "13175572"
+			"description" "2023 Legacy Version"
+			"timeupdated" "1735294554"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "50"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+}
+"_missing_token" "False"
+"_change_number" "27700644"
+"_sha" "f736abda811747112b2f4b948844ab2428da19a7"
+"_size" "7367"
