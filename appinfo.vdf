@@ -1,0 +1,348 @@
+"appid" "1782120"
+"common"
+{
+	"name" "ZERO Sievert"
+	"type" "Game"
+	"logo" "c5f7e8da6ed52fae99bfcc71375eca85dc0e95d7"
+	"logo_small" "c5f7e8da6ed52fae99bfcc71375eca85dc0e95d7_thumb"
+	"icon" "601fc060c2566858d3b9677713aae7cbf8c16962"
+	"clienttga" "6e1d6f35e511c085a8a7c83c972ebfefdbe246c2"
+	"clienticns" "db7ba5847d952f16f29781ba77f776d6e5546478"
+	"clienticon" "de5fe0e262214a16af534a5e504cbb9284c8f13a"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"parent" "1000"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1729296000"
+		"tested_build_id" "16032245"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "ZERO Sievert"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "961e9002939ebd5da6c3d6e63758b8fe07a15078/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "52.87836783385063"
+			"height_pct" "37.044398896683184"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "c8869b753a53162b280fb38a2dfdcc578cd92209/library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "c8869b753a53162b280fb38a2dfdcc578cd92209/library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "f812a1a3bb51cd05527dcf417b4c30dfb92c990b/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "f812a1a3bb51cd05527dcf417b4c30dfb92c990b/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "52.87836783385063"
+				"height_pct" "37.044398896683184"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "1a336b4aec5ca34333b92f54079e12ef9331ae73/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "1a336b4aec5ca34333b92f54079e12ef9331ae73/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1739481148"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CABO Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Modern Wolf"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Modern Wolf"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "CABO Studio"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "ZERO Sievert"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1729697043"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/zero-sievert\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1782120"
+	"store_tags"
+	{
+		"0" "1199779"
+		"1" "1662"
+		"2" "3835"
+		"3" "353880"
+		"4" "4791"
+		"5" "3964"
+		"6" "1774"
+		"7" "19"
+		"8" "1695"
+		"9" "4182"
+		"10" "492"
+		"11" "21"
+		"12" "493"
+		"13" "599"
+		"14" "3834"
+		"15" "4236"
+		"16" "9"
+		"17" "4166"
+		"18" "7332"
+		"19" "3978"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "CABO Studio"
+	"publisher" "Modern Wolf"
+	"homepage" "https://modernwolf.net/game-for-cabo-studio/zero-sievert"
+}
+"config"
+{
+	"installdir" "ZERO Sievert"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ZERO Sievert.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1782121"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3709002667694789789"
+				"size" "356721264"
+				"download" "197848720"
+			}
+			"legacy"
+			{
+				"gid" "2620672129137811620"
+				"size" "329597268"
+				"download" "183542208"
+			}
+		}
+	}
+	"workshopdepot" "1782120"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17404563"
+			"timeupdated" "1740412798"
+		}
+		"legacy"
+		{
+			"buildid" "15528948"
+			"description" "Build 0.52.7"
+			"timeupdated" "1729690791"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "2000"
+}
+"_missing_token" "False"
+"_change_number" "27696952"
+"_sha" "61d98281dbb06126027dea4df04e36b65fe617f2"
+"_size" "6418"
