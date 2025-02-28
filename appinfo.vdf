@@ -1,0 +1,1158 @@
+"appid" "238090"
+"common"
+{
+	"name" "Sniper Elite 3"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "bd0bbf10de9f7ca196ca598ae11218e36ed2025c"
+	"logo_small" "bd0bbf10de9f7ca196ca598ae11218e36ed2025c_thumb"
+	"icon" "addaab4e7308d808f53d32fbcdec0d9c2deb20fd"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"brazilian" "1"
+	}
+	"clienticon" "9a706c5ce3224960fb3d3b810ab0e802e18282cf"
+	"clienttga" "50d96b8fca4c644e52f2609705118b9002a3146f"
+	"oslist" "windows"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1646870400"
+		"tested_build_id" "4253449"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"proton_compat_config" "gamedrive,"
+		}
+	}
+	"metacritic_name" "Sniper Elite 3"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "46"
+			"height_pct" "44"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "46"
+				"height_pct" "44"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1416966695"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Rebellion"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Rebellion"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1403855940"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "238090"
+	"store_tags"
+	{
+		"0" "7423"
+		"1" "19"
+		"2" "1687"
+		"3" "3859"
+		"4" "1685"
+		"5" "4150"
+		"6" "1774"
+		"7" "21"
+		"8" "3814"
+		"9" "4182"
+		"10" "1708"
+		"11" "1678"
+		"12" "1697"
+		"13" "3843"
+		"14" "4345"
+		"15" "1695"
+		"16" "1663"
+		"17" "9"
+		"18" "4166"
+		"19" "599"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"checkpkgstate" "1"
+	"developer" "Rebellion"
+	"gamedir" "ValveTestApp238090"
+	"homepage" "https://sniperelitegames.com"
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateComingSoonNoPreload"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Rebellion"
+	"listofdlc" "305180,305181,305182,305183,305184,305185,305186,305187,308310,312680,312690,312740,326430,326431"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Sniper Elite 3"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Launcher\\Sniper3Launcher.exe"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigfileids" "534477674"
+	"cegpublickey" "30819D300D06092A864886F70D010101050003818B0030818702818100D28813DE5E01EA9BE4632C7F6596ECD80EDE849246ABCEBADC03B8CE7685E6E740F745089C0F3A28988A4BEA4EFFC96A59A8A86D8BED957FF7ED80B770F8CFCA817336CB31E92A92310BA7EFF8BB49D281A6E44798A35B7CA4D3951C7EEE4A6A01044E934717E4733D43F39DDE5EA8532013E90B509C2D17C075967248D19E87020111"
+	"checkguid" "SniperElite3_Mantle.exe"
+	"checkguids" "sniperelite3_mantle.exe;sniperelite3.exe"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"baselanguages" ""
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"238091"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2357650142830720638"
+				"size" "128037462"
+				"download" "112544592"
+			}
+			"classiclauncher"
+			{
+				"gid" "9196898912345599887"
+				"size" "98471017"
+				"download" "33370705419"
+			}
+			"customersupportlogging"
+			{
+				"gid" "6465240400210804963"
+				"size" "99040878"
+				"download" "12643748720"
+			}
+		}
+	}
+	"238092"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2994260651682328830"
+				"size" "14378962439"
+				"download" "9324448000"
+			}
+			"classiclauncher"
+			{
+				"gid" "922334489146307654"
+				"size" "17905010305"
+				"download" "7423275648731"
+			}
+			"customersupportlogging"
+			{
+				"gid" "4748032309930700492"
+				"size" "17043830970"
+				"download" "13756205701882"
+			}
+		}
+	}
+	"238093"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6272710824907626085"
+				"size" "8144528"
+				"download" "6791616"
+			}
+			"classiclauncher"
+			{
+				"gid" "1931678958513770304"
+				"size" "10110464"
+				"download" "3519360"
+			}
+			"customersupportlogging"
+			{
+				"gid" "2179709987715305632"
+				"size" "10489856"
+				"download" "3898176"
+			}
+		}
+	}
+	"238094"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2504637655127158155"
+				"size" "182578433"
+				"download" "143231376"
+			}
+			"classiclauncher"
+			{
+				"gid" "3244111733696679193"
+				"size" "183009070"
+				"download" "332814787217"
+			}
+			"customersupportlogging"
+			{
+				"gid" "2136656882095122227"
+				"size" "178631314"
+				"download" "266416449140"
+			}
+		}
+	}
+	"238095"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1099512560734082733"
+				"size" "181281744"
+				"download" "141507696"
+			}
+			"classiclauncher"
+			{
+				"gid" "4367311849659423953"
+				"size" "181703999"
+				"download" "32834790731"
+			}
+			"customersupportlogging"
+			{
+				"gid" "6822942055316346301"
+				"size" "177317803"
+				"download" "86840431016"
+			}
+		}
+	}
+	"238096"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2949300175784178917"
+				"size" "181666828"
+				"download" "142754096"
+			}
+			"classiclauncher"
+			{
+				"gid" "3263145788050018165"
+				"size" "182089171"
+				"download" "90919606662"
+			}
+			"customersupportlogging"
+			{
+				"gid" "8558507101155960225"
+				"size" "177702223"
+				"download" "81425088349"
+			}
+		}
+	}
+	"238097"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6977721447100576708"
+				"size" "181908526"
+				"download" "143972384"
+			}
+			"classiclauncher"
+			{
+				"gid" "3952587918213939201"
+				"size" "182331331"
+				"download" "288118804419"
+			}
+			"customersupportlogging"
+			{
+				"gid" "3705250836401814806"
+				"size" "177946817"
+				"download" "281828381043"
+			}
+		}
+	}
+	"238098"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8577841769644589414"
+				"size" "181628008"
+				"download" "141097296"
+			}
+			"classiclauncher"
+			{
+				"gid" "9125017959456760654"
+				"size" "182049927"
+				"download" "83482019743"
+			}
+			"customersupportlogging"
+			{
+				"gid" "2512839771900258881"
+				"size" "177663493"
+				"download" "9822151744"
+			}
+		}
+	}
+	"238099"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6959454002208138675"
+				"size" "10514815646"
+				"download" "6058075552"
+			}
+			"classiclauncher"
+			{
+				"gid" "8864805831573393016"
+				"size" "6329281816"
+				"download" "2550872122930"
+			}
+			"customersupportlogging"
+			{
+				"gid" "3377125437492688571"
+				"size" "4348172355"
+				"download" "4122687811595"
+			}
+		}
+	}
+	"238100"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6982413420644909124"
+				"size" "182751623"
+				"download" "143324464"
+			}
+			"classiclauncher"
+			{
+				"gid" "1392164110101246705"
+				"size" "183175250"
+				"download" "73659711732"
+			}
+			"customersupportlogging"
+			{
+				"gid" "4973782076552250770"
+				"size" "178789476"
+				"download" "254540744405"
+			}
+		}
+	}
+	"238101"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5257731461586698362"
+				"size" "183398368"
+				"download" "140882896"
+			}
+			"classiclauncher"
+			{
+				"gid" "2199258933891332800"
+				"size" "183820397"
+				"download" "25140165415"
+			}
+			"customersupportlogging"
+			{
+				"gid" "8971136877331964420"
+				"size" "179434399"
+				"download" "21239240830"
+			}
+		}
+	}
+	"238102"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7979088867825459231"
+				"size" "182737262"
+				"download" "143421232"
+			}
+			"classiclauncher"
+			{
+				"gid" "7659604915632260005"
+				"size" "183160533"
+				"download" "73886215877"
+			}
+			"customersupportlogging"
+			{
+				"gid" "8304858730198700245"
+				"size" "178775737"
+				"download" "282001963780"
+			}
+		}
+	}
+	"238103"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5232222088697678138"
+				"size" "182715081"
+				"download" "143464224"
+			}
+			"classiclauncher"
+			{
+				"gid" "797924515293592618"
+				"size" "183138498"
+				"download" "315458031463"
+			}
+			"customersupportlogging"
+			{
+				"gid" "5531725226319010454"
+				"size" "178755368"
+				"download" "281881473588"
+			}
+		}
+	}
+	"238107"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3785259295585862505"
+				"size" "182579114"
+				"download" "137113920"
+			}
+		}
+	}
+	"238108"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "318695327855601949"
+				"size" "182518037"
+				"download" "137096048"
+			}
+		}
+	}
+	"238109"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2060406628625371795"
+				"size" "182518017"
+				"download" "137097648"
+			}
+		}
+	}
+	"305188"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3202873643500706080"
+				"size" "182588613"
+				"download" "137101344"
+			}
+		}
+	}
+	"305180"
+	{
+		"dlcappid" "305180"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "535044940252347605"
+				"size" "909427847"
+				"download" "634100480"
+			}
+			"classiclauncher"
+			{
+				"gid" "6251574843094961153"
+				"size" "785698087"
+				"download" "316888714701"
+			}
+			"customersupportlogging"
+			{
+				"gid" "6919276922572398166"
+				"size" "785682402"
+				"download" "1098929377861"
+			}
+		}
+	}
+	"305182"
+	{
+		"dlcappid" "305182"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8272301665185430396"
+				"size" "9875"
+				"download" "2768"
+			}
+			"classiclauncher"
+			{
+				"gid" "1655804681957506702"
+				"size" "4747"
+				"download" "48115040"
+			}
+			"customersupportlogging"
+			{
+				"gid" "1655804681957506702"
+				"size" "4747"
+				"download" "53092520"
+			}
+		}
+	}
+	"305187"
+	{
+		"dlcappid" "305187"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2423330594888803990"
+				"size" "9682"
+				"download" "2832"
+			}
+			"classiclauncher"
+			{
+				"gid" "344111981229159733"
+				"size" "4504"
+				"download" "48115128"
+			}
+			"customersupportlogging"
+			{
+				"gid" "344111981229159733"
+				"size" "4504"
+				"download" "53092432"
+			}
+		}
+	}
+	"305181"
+	{
+		"dlcappid" "305181"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "135781882187506425"
+				"size" "9875"
+				"download" "2768"
+			}
+			"classiclauncher"
+			{
+				"gid" "853192798450062717"
+				"size" "4747"
+				"download" "48115040"
+			}
+			"customersupportlogging"
+			{
+				"gid" "853192798450062717"
+				"size" "4747"
+				"download" "53092520"
+			}
+		}
+	}
+	"238104"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9106854024326218041"
+				"size" "0"
+				"download" "0"
+			}
+			"classiclauncher"
+			{
+				"gid" "1976459191499860290"
+				"size" "0"
+				"download" "0"
+			}
+			"customersupportlogging"
+			{
+				"gid" "425213840478544665"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"312680"
+	{
+		"dlcappid" "312680"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6940997382561875353"
+				"size" "573723821"
+				"download" "323546624"
+			}
+			"classiclauncher"
+			{
+				"gid" "3097102851951772610"
+				"size" "504096813"
+				"download" "827996240726"
+			}
+			"customersupportlogging"
+			{
+				"gid" "5200862679637068950"
+				"size" "504093308"
+				"download" "104223517970"
+			}
+		}
+	}
+	"305183"
+	{
+		"dlcappid" "305183"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7849011289529235172"
+				"size" "9875"
+				"download" "2768"
+			}
+			"classiclauncher"
+			{
+				"gid" "7667090834166325528"
+				"size" "6867"
+				"download" "48115040"
+			}
+			"customersupportlogging"
+			{
+				"gid" "7667090834166325528"
+				"size" "6867"
+				"download" "53092520"
+			}
+		}
+	}
+	"312740"
+	{
+		"dlcappid" "312740"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5129268367652504952"
+				"size" "844723326"
+				"download" "533911696"
+			}
+			"classiclauncher"
+			{
+				"gid" "7529415928088135394"
+				"size" "752059310"
+				"download" "313121100190"
+			}
+			"customersupportlogging"
+			{
+				"gid" "8097324910964807589"
+				"size" "670173438"
+				"download" "933067486082"
+			}
+		}
+	}
+	"312690"
+	{
+		"dlcappid" "312690"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2095089372644083744"
+				"size" "595728171"
+				"download" "395364560"
+			}
+			"classiclauncher"
+			{
+				"gid" "6392808891980154805"
+				"size" "518463423"
+				"download" "40170921470"
+			}
+			"customersupportlogging"
+			{
+				"gid" "5839176262749075249"
+				"size" "518462053"
+				"download" "654175391111"
+			}
+		}
+	}
+	"305184"
+	{
+		"dlcappid" "305184"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7980571887426283497"
+				"size" "9875"
+				"download" "2752"
+			}
+			"classiclauncher"
+			{
+				"gid" "3610357265614430300"
+				"size" "8099"
+				"download" "48115040"
+			}
+			"customersupportlogging"
+			{
+				"gid" "3610357265614430300"
+				"size" "8099"
+				"download" "5"
+			}
+		}
+	}
+	"305185"
+	{
+		"dlcappid" "305185"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8500192033265182143"
+				"size" "9875"
+				"download" "2768"
+			}
+			"classiclauncher"
+			{
+				"gid" "3535793877192974515"
+				"size" "8291"
+				"download" "5"
+			}
+			"customersupportlogging"
+			{
+				"gid" "228841535688272599"
+				"size" "8099"
+				"download" "5"
+			}
+		}
+	}
+	"305186"
+	{
+		"dlcappid" "305186"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "339365496358618810"
+				"size" "9875"
+				"download" "2768"
+			}
+			"classiclauncher"
+			{
+				"gid" "7977361222314045734"
+				"size" "8099"
+				"download" "48115128"
+			}
+			"customersupportlogging"
+			{
+				"gid" "7977361222314045734"
+				"size" "8099"
+				"download" "53092432"
+			}
+		}
+	}
+	"238105"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3494911765143256619"
+				"size" "0"
+				"download" "0"
+			}
+			"classiclauncher"
+			{
+				"gid" "7018350587412657571"
+				"size" "10448384"
+				"download" "4024816"
+			}
+			"customersupportlogging"
+			{
+				"gid" "3494911765143256619"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"326430"
+	{
+		"dlcappid" "326430"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2795487043823524802"
+				"size" "9875"
+				"download" "2752"
+			}
+			"classiclauncher"
+			{
+				"gid" "6388188532671471767"
+				"size" "9875"
+				"download" "48115128"
+			}
+		}
+	}
+	"326431"
+	{
+		"dlcappid" "326431"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3914721952889086139"
+				"size" "9875"
+				"download" "2752"
+			}
+			"classiclauncher"
+			{
+				"gid" "1303246013841487943"
+				"size" "9875"
+				"download" "5"
+			}
+		}
+	}
+	"238106"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4070329428294146383"
+				"size" "604160"
+				"download" "413744"
+			}
+			"classiclauncher"
+			{
+				"gid" "4094121659865050913"
+				"size" "1080832"
+				"download" "10"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4253449"
+			"timeupdated" "1571058570"
+		}
+		"classiclauncher"
+		{
+			"buildid" "469876"
+			"description" "Old-style non-web-based launcher (for compatibility issues)"
+		}
+		"customersupportlogging"
+		{
+			"buildid" "371870"
+			"description" "Build With Startup Logging"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "52428800"
+	"maxnumfiles" "50"
+}
+"_missing_token" "False"
+"_change_number" "27108209"
+"_sha" "b945fda77ccc1020e22d8ecdd79fa924c175b153"
+"_size" "19770"
