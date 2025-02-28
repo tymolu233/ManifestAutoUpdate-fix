@@ -1,0 +1,389 @@
+"appid" "627270"
+"common"
+{
+	"name" "Injustice™ 2"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"osarch" "64"
+	"clienticon" "2ac760d5981b8ee7c174641ceaacb6196fdfdbfc"
+	"clienttga" "e4eca4fc1f31b66f41975df1af73d0a43927593e"
+	"icon" "8ee01e7e4bc3a7f734dfa5fa5c1ebf2da3901556"
+	"logo" "f6e5d503c29c3ba4516b720bf9a0044467cc71b2"
+	"logo_small" "f6e5d503c29c3ba4516b720bf9a0044467cc71b2_thumb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "627270_eula_0"
+			"name" "Injustice™ 2 EULA"
+			"url" "http://store.steampowered.com//eula/627270_eula_0"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1692921600"
+		"tested_build_id" "7433017"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"metacritic_name" "Injustice 2"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "47"
+			"height_pct" "17"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "47"
+				"height_pct" "17"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1681918568"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "NetherRealm Studios"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "QLOC"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "WB Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "WB Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_33" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_35" "1"
+		"category_23" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_61" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1510681980"
+	"metacritic_score" "86"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/injustice-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "627270"
+	"store_tags"
+	{
+		"0" "1743"
+		"1" "19"
+		"2" "1671"
+		"3" "3859"
+		"4" "7368"
+		"5" "4736"
+		"6" "4182"
+		"7" "1751"
+		"8" "1742"
+		"9" "1773"
+		"10" "4667"
+		"11" "4747"
+		"12" "7481"
+		"13" "3878"
+		"14" "3843"
+		"15" "4158"
+		"16" "4026"
+		"17" "4975"
+		"18" "3841"
+		"19" "1775"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "RU,BY"
+	"developer" "NetherRealm Studios"
+	"publisher" "WB Games"
+	"homepage" "https://www.injustice.com/"
+	"listofdlc" "704810,721260,721270,721280,721290,727980,727990,731150,731160,731170,731171,731172,734280,734281,734282,734283,747800,759580,759581,779400,779401,814250,814251"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Injustice2"
+	"steamcontrollertemplateindex" "4"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Binaries\\Retail\\Injustice2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1913637356"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,schinese,russian,polish,brazilian,latam"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"627271"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1071315368466810106"
+				"size" "47707339063"
+				"download" "45103014944"
+			}
+		}
+	}
+	"721270"
+	{
+		"dlcappid" "721270"
+	}
+	"721260"
+	{
+		"dlcappid" "721260"
+	}
+	"721280"
+	{
+		"dlcappid" "721280"
+	}
+	"721290"
+	{
+		"dlcappid" "721290"
+	}
+	"727990"
+	{
+		"dlcappid" "727990"
+	}
+	"727980"
+	{
+		"dlcappid" "727980"
+	}
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7433017"
+			"timeupdated" "1636031209"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "167772160"
+	"maxnumfiles" "500"
+}
+"_missing_token" "False"
+"_change_number" "27622290"
+"_sha" "36dfb06a332790aaea0396d5548944a2715b2fe4"
+"_size" "6967"
