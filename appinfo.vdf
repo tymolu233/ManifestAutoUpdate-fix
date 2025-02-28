@@ -1,0 +1,589 @@
+"appid" "1145350"
+"common"
+{
+	"name" "Hades II"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macosapplesilicon"
+	"clienticon" "e8cd1233d374c647e8e3d7bbaa98a5d399e3f40b"
+	"clienttga" "193ac7d7df715b294dc5d44b6642fc8d96ddcaf2"
+	"icon" "621d9f1cfa204c0bae07a981f41007d2cf03a56c"
+	"languages"
+	{
+		"english" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1714089600"
+		"tested_build_id" "14036239"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "265e9251a433448db350abf36986af7b842afbfb/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "26.407428903076024"
+			"height_pct" "99.62006080789487"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "e1f6d7b6eb281af4be63607b483626cb9fc1950c/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "e1f6d7b6eb281af4be63607b483626cb9fc1950c/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "6c23876ce65f83d3ed63cc68bb960fd140fec07d/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "6c23876ce65f83d3ed63cc68bb960fd140fec07d/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "6c23876ce65f83d3ed63cc68bb960fd140fec07d/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "26.407428903076024"
+				"height_pct" "99.62006080789487"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "2915a039351737937f69c3d2e4db189f2d5712b0/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "2915a039351737937f69c3d2e4db189f2d5712b0/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1739992157"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Supergiant Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Supergiant Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Supergiant Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Hades"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_13" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1715014140"
+	"community_hub_visible" "1"
+	"gameid" "1145350"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1716"
+		"2" "3959"
+		"3" "1646"
+		"4" "122"
+		"5" "42804"
+		"6" "1720"
+		"7" "4231"
+		"8" "16094"
+		"9" "5851"
+		"10" "6815"
+		"11" "1742"
+		"12" "7208"
+		"13" "4182"
+		"14" "4166"
+		"15" "29482"
+		"16" "492"
+		"17" "493"
+		"18" "1759"
+		"19" "4026"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"deckresolutionoverride" "Native"
+	"developer" "Supergiant Games"
+	"publisher" "Supergiant Games"
+	"homepage" "http://www.supergiantgames.com"
+}
+"config"
+{
+	"installdir" "Hades II"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Release/Hades2.exe"
+			"arguments" "/c ../ /steampowered /VerboseScriptLogging=false /DebugKeysEnabled=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /CheckNonExistingTextures=false /DirectLoadShell=true /SaveCollectionRate=100"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "nightly"
+			}
+			"description_loc"
+			{
+				"english" "Release for Nightly"
+			}
+			"description" "Release for Nightly"
+		}
+		"1"
+		{
+			"executable" "Debug/Hades2.exe"
+			"arguments" "/c ../ /steampowered /UnsafeDebugKeysEnabled=false /AutoHotLoad=false /HotLoadScripts=false /LiveCreateTextures=false /CheckNonExistingTextures=false /DirectLoadShell=true"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "nightly"
+			}
+			"description_loc"
+			{
+				"english" "Debug"
+			}
+			"description" "Debug"
+		}
+		"2"
+		{
+			"executable" "Ship/Hades2.exe"
+			"arguments" "/c ../ /steampowered /VerboseScriptLogging=false /DebugKeysEnabled=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /CheckNonExistingTextures=false /DirectLoadShell=true /SaveCollectionRateFloat=0.4 /SaveCollectionDeathInterval=10 /strictpackagechecks=true /ProgressionVersion=4"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "public"
+			}
+			"description_loc"
+			{
+				"english" "Ship"
+			}
+			"description" "Ship"
+		}
+		"3"
+		{
+			"executable" "Release/Hades2.exe"
+			"arguments" "/c ../ /steampowered /VerboseScriptLogging=false /DebugKeysEnabled=true /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /LoadAllAudio=true /LoadAllVoice=true /CheckNonExistingTextures=false /DirectLoadShell=true /UseDevSaves=true /DebugDraw=true /EnableDebugDisplayTextSystem=true /EnableDebugDisplayScript=false /EnableDebugDisplayAudio=false /EnableDebugDisplayUnits=false /EnableDebugDisplayThings=false /BasecampProject=\"Iris Loc\" /AssertContextBasecampProject=\"Iris Loc\" /AssertContextDefaultTodoList=\"Asserts & Script Crashes\" /SubmitBugsToJira=false /BuildLabel=Loc"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "localization"
+			}
+			"description_loc"
+			{
+				"english" "Localization Default"
+			}
+			"description" "Localization Default"
+		}
+		"4"
+		{
+			"executable" "Ship/Hades2.exe"
+			"arguments" "/c ../ /steampowered /VerboseScriptLogging=false /DebugKeysEnabled=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /CheckNonExistingTextures=false /DirectLoadShell=true /UseDevSaves=false /BuildLabel=HCTS /SaveCollectionRateFloat=1 /strictpackagechecks=true /ProgressionVersion=4"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "test"
+			}
+			"description_loc"
+			{
+				"english" "Test Default"
+			}
+			"description" "Test Default"
+		}
+		"5"
+		{
+			"executable" "./Hades II.app"
+			"arguments" "/steampowered /DirectLoadShell=true /DebugMessages=false /DebugKeysEnabled=false /ShowFPS=false /PerfDashWarnings=false /VerboseScriptLogging=false /UnsafeDebugKeysEnabled=false /UseDevSaves=false /UseInternalBugReporter=false /LiveCreateTextures=false"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "nightly"
+			}
+		}
+		"6"
+		{
+			"executable" "Ship/Hades2.exe"
+			"arguments" "/c ../ /steampowered /VerboseScriptLogging=false /DebugKeysEnabled=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /CheckNonExistingTextures=false /DirectLoadShell=true /UseDevSaves=false /strictpackagechecks=true /ProgressionVersion=4"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "nightly"
+			}
+			"description_loc"
+			{
+				"english" "Ship"
+			}
+			"description" "Ship"
+		}
+		"7"
+		{
+			"executable" "./Hades II.app"
+			"arguments" "/steampowered /VerboseScriptLogging=false /DebugKeysEnabled=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /CheckNonExistingTextures=false /DirectLoadShell=true /UseDevSaves=false"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "test"
+			}
+		}
+		"8"
+		{
+			"executable" "./Hades II.app"
+			"arguments" "/steampowered /VerboseScriptLogging=false /DebugKeysEnabled=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /CheckNonExistingTextures=false /DirectLoadShell=true /UseDevSaves=false"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "external"
+			}
+		}
+		"9"
+		{
+			"executable" "./Hades II.app"
+			"arguments" "/steampowered /VerboseScriptLogging=false /DebugKeysEnabled=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /CheckNonExistingTextures=false /DirectLoadShell=true /UseDevSaves=false"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "public"
+			}
+			"description_loc"
+			{
+				"english" "Ship"
+			}
+			"description" "Ship"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1145352"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1315868562801904881"
+				"size" "6344671829"
+				"download" "5491605920"
+			}
+		}
+	}
+	"1145353"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2177686208194255457"
+				"size" "235945482"
+				"download" "46088080"
+			}
+		}
+	}
+	"1145354"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4186122254017443269"
+				"size" "91616813"
+				"download" "26620512"
+			}
+		}
+	}
+	"1145355"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1841940183532409723"
+				"size" "6487481097"
+				"download" "5519826736"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17528949"
+			"timeupdated" "1740687197"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "62914560"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "Hades II"
+			"pattern" "Profile*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Hades II"
+					"replace" "Supergiant Games/Hades II"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27704271"
+"_sha" "697f84e42193df7bdaebced8665e8e88f747922e"
+"_size" "12467"
