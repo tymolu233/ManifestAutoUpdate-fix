@@ -1,0 +1,793 @@
+"appid" "1380910"
+"common"
+{
+	"name" "Stardeus"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "ea7539918898ab589c8c78965524d0472337ea9f"
+	"logo_small" "ea7539918898ab589c8c78965524d0472337ea9f_thumb"
+	"icon" "7db4362ac5a2bb0dc69c0b313d2566c3972984b8"
+	"clienticon" "64fe4a8da6a600bdd37d5cc10e9e272add3c92bf"
+	"clienttga" "ec8006546b84cc3183a1754ef1c847fe93aacd78"
+	"clienticns" "28098d4c2a8e30d1a6ff287c07b1069df587cfe6"
+	"linuxclienticon" "ee9c727f79e2acbbbfb387c2988ba966059dbe5f"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1380910_eula_0"
+			"name" "Stardeus EULA"
+			"url" "https://store.steampowered.com//eula/1380910_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1663113600"
+		"tested_build_id" "9506674"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "842a2520cbb893fa893319bb4f1bee9812d98330/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "57.800511508951416"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "57.800511508951416"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730298397"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Kodo Linija"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paradox Arc"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Paradox Arc"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "28"
+		"3" "2"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_17" "1"
+		"category_28" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_43" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1665586680"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1380910"
+	"store_tags"
+	{
+		"0" "3834"
+		"1" "220585"
+		"2" "7332"
+		"3" "1662"
+		"4" "9"
+		"5" "1755"
+		"6" "3942"
+		"7" "8945"
+		"8" "1702"
+		"9" "4182"
+		"10" "1695"
+		"11" "3810"
+		"12" "16598"
+		"13" "3871"
+		"14" "1669"
+		"15" "5300"
+		"16" "599"
+		"17" "5125"
+		"18" "12472"
+		"19" "5794"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Kodo Linija"
+	"publisher" "Paradox Arc"
+	"homepage" "https://stardeusgame.com"
+	"listofdlc" "2165431"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Stardeus"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Stardeus.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Stardeus"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "Stardeus.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2817696748"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,bleeding_edge,debug,experimental,geforce_now,mac_debug,old_version,v_0_10_rc"
+			"use_action_block" "false"
+		}
+		"3032303460"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,bleeding_edge,debug,experimental,geforce_now,old_version,v_0_10_rc"
+			"use_action_block" "false"
+		}
+	}
+	"app_mappings"
+	{
+		"0"
+		{
+			"platform" "linux"
+			"tool" "SteamLinuxRuntime_sniper"
+			"branch" "experimental"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "1380910"
+	"1380916"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6502997912531897074"
+				"size" "1107709968"
+				"download" "815780784"
+			}
+			"v0_12_pre"
+			{
+				"gid" "7873268291063621052"
+				"size" "1107711647"
+				"download" "815784576"
+			}
+			"old_version"
+			{
+				"gid" "8635382781925785351"
+				"size" "1107685319"
+				"download" "815769984"
+			}
+			"v0_11_x"
+			{
+				"gid" "4792750749902448691"
+				"size" "864507098"
+				"download" "747596992"
+			}
+			"v0_10_x"
+			{
+				"gid" "6262375261683378781"
+				"size" "764242251"
+				"download" "653251552"
+			}
+			"v0_9_x"
+			{
+				"gid" "1594000576368320122"
+				"size" "735424904"
+				"download" "635469568"
+			}
+			"v0_8_x"
+			{
+				"gid" "3512717530805579600"
+				"size" "729489139"
+				"download" "631162736"
+			}
+			"v0_8_0_20230511"
+			{
+				"gid" "6903767473433818673"
+				"size" "728847376"
+				"download" "630847168"
+			}
+			"v0_7_x"
+			{
+				"gid" "6133387275932963962"
+				"size" "728775958"
+				"download" "630836624"
+			}
+			"v0_7_1_20230124"
+			{
+				"gid" "2738503878087636462"
+				"size" "752559757"
+				"download" "627357664"
+			}
+			"v0_6_144_20221217"
+			{
+				"gid" "7677655160665057893"
+				"size" "740254957"
+				"download" "615366944"
+			}
+			"v0_6_125_20221112"
+			{
+				"gid" "7019553794471890790"
+				"size" "737697835"
+				"download" "613340192"
+			}
+			"v0_6_103_20221011"
+			{
+				"gid" "4536225830358725146"
+				"size" "719619083"
+				"download" "606965120"
+			}
+			"v0_6_78_20220901"
+			{
+				"gid" "5866377923039691066"
+				"size" "719255289"
+				"download" "606744384"
+			}
+			"linux_debug"
+			{
+				"gid" "1701049899678679735"
+				"size" "873177999"
+				"download" "752538640"
+			}
+		}
+	}
+	"1380917"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8685201561502073656"
+				"size" "1114058146"
+				"download" "814821360"
+			}
+			"v0_12_pre"
+			{
+				"gid" "3814091320340274517"
+				"size" "1114059825"
+				"download" "814828064"
+			}
+			"old_version"
+			{
+				"gid" "2162027967926222849"
+				"size" "1114033497"
+				"download" "814813328"
+			}
+			"v0_11_x"
+			{
+				"gid" "2795925867766373584"
+				"size" "875481628"
+				"download" "747492608"
+			}
+			"v0_10_x"
+			{
+				"gid" "4078338497055485783"
+				"size" "774447057"
+				"download" "652781824"
+			}
+			"v0_9_x"
+			{
+				"gid" "2488282925628271770"
+				"size" "745188846"
+				"download" "634882256"
+			}
+			"v0_8_x"
+			{
+				"gid" "4722635672797298573"
+				"size" "739497124"
+				"download" "631327344"
+			}
+			"v0_8_0_20230511"
+			{
+				"gid" "2729712781406818038"
+				"size" "739425185"
+				"download" "631188336"
+			}
+			"v0_7_x"
+			{
+				"gid" "2323362470745777370"
+				"size" "739351399"
+				"download" "631176256"
+			}
+			"v0_7_1_20230124"
+			{
+				"gid" "6384875945762697364"
+				"size" "754404702"
+				"download" "626578384"
+			}
+			"v0_6_144_20221217"
+			{
+				"gid" "7078268924005892382"
+				"size" "748258622"
+				"download" "615468080"
+			}
+			"v0_6_125_20221112"
+			{
+				"gid" "2474017225545036231"
+				"size" "745680196"
+				"download" "613434000"
+			}
+			"v0_6_103_20221011"
+			{
+				"gid" "3604842399241751011"
+				"size" "721926636"
+				"download" "606645728"
+			}
+			"v0_6_78_20220901"
+			{
+				"gid" "7762530285996159545"
+				"size" "728977750"
+				"download" "608012704"
+			}
+			"linux_debug"
+			{
+				"gid" "7681523488937796497"
+				"size" "883994409"
+				"download" "752271328"
+			}
+		}
+	}
+	"1380918"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1465349126761757801"
+				"size" "1140921798"
+				"download" "823832368"
+			}
+			"v0_12_pre"
+			{
+				"gid" "5112554170315456906"
+				"size" "1140922965"
+				"download" "823833792"
+			}
+			"old_version"
+			{
+				"gid" "4919794620660877400"
+				"size" "1140897149"
+				"download" "823820592"
+			}
+			"v0_11_x"
+			{
+				"gid" "1182157069388221926"
+				"size" "897693964"
+				"download" "755542832"
+			}
+			"v0_10_x"
+			{
+				"gid" "180442475673690070"
+				"size" "796845290"
+				"download" "661342272"
+			}
+			"v0_9_x"
+			{
+				"gid" "9160827318558327851"
+				"size" "767486054"
+				"download" "643433728"
+			}
+			"v0_8_x"
+			{
+				"gid" "3774848013342397010"
+				"size" "730301984"
+				"download" "629986752"
+			}
+			"v0_8_0_20230511"
+			{
+				"gid" "4440302304678300812"
+				"size" "729649615"
+				"download" "629675008"
+			}
+			"v0_7_x"
+			{
+				"gid" "4416657653748965599"
+				"size" "729574606"
+				"download" "629663776"
+			}
+			"v0_7_1_20230124"
+			{
+				"gid" "8332122024472418492"
+				"size" "747284867"
+				"download" "625616544"
+			}
+			"v0_6_144_20221217"
+			{
+				"gid" "93528404743711343"
+				"size" "741127575"
+				"download" "614497504"
+			}
+			"v0_6_125_20221112"
+			{
+				"gid" "4208037224610513507"
+				"size" "738551127"
+				"download" "612469584"
+			}
+			"v0_6_103_20221011"
+			{
+				"gid" "5118308751500504103"
+				"size" "721020335"
+				"download" "606552976"
+			}
+			"v0_6_78_20220901"
+			{
+				"gid" "3557115590550314334"
+				"size" "720721892"
+				"download" "606375248"
+			}
+			"linux_debug"
+			{
+				"gid" "1905618928646636701"
+				"size" "906425141"
+				"download" "760584464"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17437973"
+			"timeupdated" "1740050011"
+		}
+		"v0_12_pre"
+		{
+			"buildid" "17542197"
+			"description" "Experimental updates for v0.12"
+			"timeupdated" "1740722681"
+		}
+		"old_version"
+		{
+			"buildid" "17362559"
+			"description" "Previous build"
+			"timeupdated" "1739801685"
+		}
+		"v0_11_x"
+		{
+			"buildid" "16224192"
+			"description" "Last version of v0.11.x before upgrade to v0.12"
+			"timeupdated" "1737655774"
+		}
+		"v0_10_x"
+		{
+			"buildid" "13976716"
+			"description" "Last version of v0.10.x before upgrade to v0.11"
+			"timeupdated" "1714906685"
+		}
+		"v0_9_x"
+		{
+			"buildid" "12065313"
+			"description" "Last version of v0.9.x before upgrade to v0.10"
+			"timeupdated" "1696258487"
+		}
+		"v0_8_x"
+		{
+			"buildid" "11284894"
+			"description" "Last version of v.0.8.x before upgrade to v0.9"
+			"timeupdated" "1686212662"
+		}
+		"v0_8_0_20230511"
+		{
+			"buildid" "11210093"
+			"description" "Archives: Major Update #2: Complex Planets"
+			"timeupdated" "1683823733"
+		}
+		"v0_7_x"
+		{
+			"buildid" "11151692"
+			"description" "Last version of v.0.7.x before upgrade to v0.8"
+			"timeupdated" "1683261245"
+		}
+		"v0_7_1_20230124"
+		{
+			"buildid" "10392468"
+			"description" "Archives: Major Update #1: Derelict Ships"
+			"timeupdated" "1674636264"
+		}
+		"v0_6_144_20221217"
+		{
+			"buildid" "10171382"
+			"description" "Archives: 2 months in EA"
+			"timeupdated" "1671390288"
+		}
+		"v0_6_125_20221112"
+		{
+			"buildid" "9923860"
+			"description" "Archives: 1 Month in EA"
+			"timeupdated" "1668344613"
+		}
+		"v0_6_103_20221011"
+		{
+			"buildid" "9699497"
+			"description" "Archives: launch day"
+			"timeupdated" "1666336329"
+		}
+		"v0_6_78_20220901"
+		{
+			"buildid" "9449127"
+			"description" "Archives: pre-release alpha"
+			"timeupdated" "1666335296"
+		}
+		"linux_debug"
+		{
+			"buildid" "16405146"
+			"description" "For solving Linux related issues"
+			"timeupdated" "1731583086"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Kodo Linija/Stardeus/Saves/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Kodo Linija/Stardeus/Saves"
+					"replace" ".config/unity3d/Kodo Linija/Stardeus/Saves/"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Kodo Linija/Stardeus/Saves"
+					"replace" "Kodo Linija/Stardeus/Saves/"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27711296"
+"_sha" "7b57a901944c335f3cd7bd19734ac8aaa4c8676f"
+"_size" "14757"
