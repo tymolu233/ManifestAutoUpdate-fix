@@ -1,0 +1,456 @@
+"appid" "1158160"
+"common"
+{
+	"name" "Coral Island"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "553361909bfd450790049a871ebf4b0573b365f9"
+	"logo_small" "553361909bfd450790049a871ebf4b0573b365f9_thumb"
+	"icon" "5399c1ca458f4d6c8cd5133de6f12e37ade5f194"
+	"clienticon" "90cb7e862200a91378e8f530e33ee5d74a452fde"
+	"clienttga" "badc9d92f0d88825a4630004f661888d906aff06"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"indonesian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1687392000"
+		"tested_build_id" "11484148"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "153ddc8eb755eaa1b94b592b5316a972acb715e5/capsule_231x87.jpg"
+		"thai" "82c2a50ea408e95a69dcefa29df5ed4d991c2ed9/capsule_231x87_thai.jpg"
+		"schinese" "e9e6ee4bd2f211341daba32aac9c96236c8d20f0/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"thai" "header_thai.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "39.38156359393231"
+			"height_pct" "47.3402992163382"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "39.38156359393231"
+				"height_pct" "47.3402992163382"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1732058286"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Stairway Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Humble Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Humble Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+		"5" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1699974544"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1158160"
+	"store_tags"
+	{
+		"0" "87918"
+		"1" "10235"
+		"2" "1654"
+		"3" "9551"
+		"4" "599"
+		"5" "22602"
+		"6" "122"
+		"7" "1702"
+		"8" "4747"
+		"9" "4182"
+		"10" "1643"
+		"11" "3810"
+		"12" "1695"
+		"13" "597"
+		"14" "21"
+		"15" "492"
+		"16" "15564"
+		"17" "5981"
+		"18" "4195"
+		"19" "44868"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "Stairway Games"
+	"publisher" "Humble Games"
+	"homepage" "https://www.stairwaygames.com/coral-island"
+	"listofdlc" "2273380,2471180,2537800,2561700,2626420"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Coral Island"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ProjectCoral.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "CORALBETA"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "13"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1158161"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6811142665861075279"
+				"size" "13274224139"
+				"download" "10274740864"
+			}
+		}
+	}
+	"2273380"
+	{
+		"dlcappid" "2273380"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8577500605315709614"
+				"size" "9"
+				"download" "64"
+			}
+		}
+	}
+	"2471180"
+	{
+		"dlcappid" "2471180"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1643256457515370317"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"2537800"
+	{
+		"dlcappid" "2537800"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9022386239993204092"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"2561700"
+	{
+		"dlcappid" "2561700"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7174135975303627316"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"2626420"
+	{
+		"dlcappid" "2626420"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6493947519583149268"
+				"size" "10"
+				"download" "64"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17306591"
+			"timeupdated" "1739196488"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1500000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ProjectCoral/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27707249"
+"_sha" "3f018f0f47ba553b0d2c47e5528bfe405d2069b6"
+"_size" "7828"
