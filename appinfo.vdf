@@ -1,0 +1,284 @@
+"appid" "1777430"
+"common"
+{
+	"name" "恋爱绮谭 不存在的真相"
+	"type" "Game"
+	"clienttga" "92a14bf5178c62e08cfdcfed705c00047825b886"
+	"icon" "ebfddbf30eec4841658960b167191fa68a2c0475"
+	"logo" "db2c8b5ecfb6569c268073fe48b96282f821e699"
+	"logo_small" "db2c8b5ecfb6569c268073fe48b96282f821e699_thumb"
+	"clienticon" "718fe0cfb321e36379515bfac00d85a2ac00652c"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1673308800"
+		"tested_build_id" "9965582"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "54.31738623103852"
+			"height_pct" "52.6595743447359"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "54.31738623103852"
+				"height_pct" "52.6595743447359"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1725288251"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Never Knows Best"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Never Knows Best"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "恋爱绮谭"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1666944963"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1777430"
+	"store_tags"
+	{
+		"0" "11014"
+		"1" "24003"
+		"2" "3799"
+		"3" "9551"
+		"4" "4726"
+		"5" "4947"
+		"6" "1742"
+		"7" "31275"
+		"8" "6971"
+		"9" "5716"
+		"10" "4085"
+		"11" "597"
+		"12" "5984"
+		"13" "5608"
+		"14" "21"
+		"15" "4182"
+		"16" "1667"
+		"17" "12095"
+		"18" "44868"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Never Knows Best"
+	"publisher" "Never Knows Best"
+	"homepage" "https://www.nkbgame.moe"
+	"listofdlc" "2166880"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Mystery Lover 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "MysteryLover2.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1777431"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2956417809677179444"
+				"size" "5805445639"
+				"download" "5695449728"
+			}
+		}
+	}
+	"2166880"
+	{
+		"dlcappid" "2166880"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2122362016234865167"
+				"size" "81304464"
+				"download" "82241392"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15072212"
+			"timeupdated" "1723361582"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Never Knowns Best/MysteryLover2/Utage/SaveMysteryLover"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27629372"
+"_sha" "ac6c709b731950d1f340e0952f8e7ae786be49e2"
+"_size" "4922"
