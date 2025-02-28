@@ -1,0 +1,4836 @@
+"appid" "394360"
+"common"
+{
+	"name" "Hearts of Iron IV"
+	"type" "Game"
+	"logo" "8e261ddeb8da5e057d0f765d8dd4833fb568fd61"
+	"logo_small" "8e261ddeb8da5e057d0f765d8dd4833fb568fd61_thumb"
+	"icon" "67b15e2336311b4b4f1eb5c802af0c0dbe644195"
+	"clienticon" "1a13011c8363b5160781d9bb16bcb392b07b69be"
+	"clienttga" "6999e8a9dde7f70dd1c9713d880ea24b89dcaa3a"
+	"clienticns" "2127fcee66f6136e2bd2c26f1cdd682f1610323d"
+	"linuxclienticon" "7a71b1bff21ec0a04a2a69e54baf5b5d85350590"
+	"oslist" "windows,macos,linux"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"russian" "1"
+	}
+	"osarch" ""
+	"osextended" "macos64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "394360_eula_0"
+			"name" "Hearts of Iron IV EULA"
+			"url" "https://store.steampowered.com//eula/394360_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1645574400"
+		"tested_build_id" "8200750"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Hearts of Iron IV"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "65.3175755373786"
+			"height_pct" "59.375"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "65.3175755373786"
+				"height_pct" "59.375"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1739207442"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Paradox Development Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paradox Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Hearts of Iron"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_27" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1465228620"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/hearts-of-iron-iv\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "394360"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "4150"
+		"2" "4364"
+		"3" "1678"
+		"4" "3987"
+		"5" "4168"
+		"6" "4598"
+		"7" "3859"
+		"8" "599"
+		"9" "1708"
+		"10" "7107"
+		"11" "4182"
+		"12" "1676"
+		"13" "6310"
+		"14" "3810"
+		"15" "1685"
+		"16" "17305"
+		"17" "1695"
+		"18" "3878"
+		"19" "19"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+	"review_score_bombs" "8"
+	"review_percentage_bombs" "91"
+}
+"extended"
+{
+	"developer" "Paradox Development Studio"
+	"publisher" "Paradox Interactive"
+	"homepage" "http://www.heartsofiron4.com/"
+	"listofdlc" "445630,460550,460551,460553,460554,460555,460556,460557,460558,460559,460600,460610,461800,472410,473130,530760,554840,584140,584141,616200,642010,702350,815460,1032150,1086480,1086481,1158100,1206030,1317230,1317250,1348660,1348661,1579991,1579992,1785140,1877010,1880650,1880660,2183930,2280250,2695150,2786480,2981720,3152780,3152790,3152800,3152810,3152820,3152840"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Hearts of Iron IV"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "dowser.exe"
+			"arguments" "-- "
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "dowser"
+			"arguments" "-- "
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "dowser"
+			"arguments" "-- "
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"6"
+		{
+			"executable" "hoi4.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "1.0.0 1.1.0 1.2.1 1.3.3 1.4.2 1.5.3 1.5.4 1.6.0 1.6.1 1.6.2 1.7.0 1.7.1"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (1.7.1 and older)"
+			}
+			"description" "Launch game (1.7.1 and older)"
+		}
+		"7"
+		{
+			"executable" "hoi4.app"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "1.0.0 1.1.0 1.2.1 1.3.3 1.4.2 1.5.3 1.5.4 1.6.0 1.6.1 1.6.2 1.7.0 1.7.1"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (1.7.1 and older)"
+			}
+			"description" "Launch game (1.7.1 and older)"
+		}
+		"8"
+		{
+			"executable" "hoi4"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "1.0.0 1.1.0 1.2.1 1.3.3 1.4.2 1.5.3 1.5.4 1.6.0 1.6.1 1.6.2 1.7.0 1.7.1"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (1.7.1 and older)"
+			}
+			"description" "Launch game (1.7.1 and older)"
+		}
+		"9"
+		{
+			"executable" "hoi4.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "public atlantis_rising chonky_cats open_beta preview 1.8.2 1.9.x 1.10.5 1.10.8 1.11.13 1.12.14 1.13.7 1.14.3 1.14.5 1.14.10 1.15.3"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (skip launcher)"
+			}
+			"description" "Launch game (skip launcher)"
+		}
+		"10"
+		{
+			"executable" "hoi4.app"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "public atlantis_rising chonky_cats open_beta preview 1.8.2 1.9.x 1.10.5 1.10.8 1.11.13 1.12.14 1.13.7 1.14.3 1.14.5 1.14.10 1.15.3"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (skip launcher)"
+			}
+			"description" "Launch game (skip launcher)"
+		}
+		"11"
+		{
+			"executable" "run_hoi4"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "public atlantis_rising chonky_cats open_beta preview 1.11.13 1.12.14 1.13.7 1.14.3 1.14.5 1.14.10 1.15.3"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (skip launcher)"
+			}
+			"description" "Launch game (skip launcher)"
+		}
+		"12"
+		{
+			"executable" "hoi4"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "1.8.2 1.9.x 1.10.5 1.10.8"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (skip launcher)"
+			}
+			"description" "Launch game (skip launcher)"
+		}
+		"13"
+		{
+			"executable" "hoi4.exe"
+			"arguments" "-nakama"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "1.13.7"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (Nakama MP)"
+			}
+			"description" "Launch game (Nakama MP)"
+		}
+		"14"
+		{
+			"executable" "hoi4.app"
+			"arguments" "-nakama"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "1.13.7"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (Nakama MP)"
+			}
+			"description" "Launch game (Nakama MP)"
+		}
+		"15"
+		{
+			"executable" "run_hoi4"
+			"arguments" "-nakama"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "1.13.7"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (Nakama MP)"
+			}
+			"description" "Launch game (Nakama MP)"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2109055582"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "394360"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"394361"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9206927126324819709"
+				"size" "5586869864"
+				"download" "2166293504"
+			}
+			"1.10.5"
+			{
+				"gid" "4670071568048156710"
+				"size" "2700564868"
+				"download" "1577676496"
+			}
+			"1.10.8"
+			{
+				"gid" "3715097459466463006"
+				"size" "2700981904"
+				"download" "1577791248"
+			}
+			"1.11.13"
+			{
+				"gid" "8074053429525743348"
+				"size" "3228994934"
+				"download" "1661167968"
+			}
+			"1.12.14"
+			{
+				"gid" "6211037240301408579"
+				"size" "4392534972"
+				"download" "1561897248"
+			}
+			"1.13.7"
+			{
+				"gid" "8614989336328077355"
+				"size" "4531165286"
+				"download" "1616793728"
+			}
+			"1.14.3"
+			{
+				"gid" "5513233476718655167"
+				"size" "4580041753"
+				"download" "1619374096"
+			}
+			"1.5.4"
+			{
+				"gid" "3966120666351077298"
+				"size" "1598574942"
+				"download" "792634784"
+			}
+			"1.6.2"
+			{
+				"gid" "4402386924026120032"
+				"size" "1702350541"
+				"download" "812697968"
+			}
+			"1.7.1"
+			{
+				"gid" "3872822298939081331"
+				"size" "1882473561"
+				"download" "990280160"
+			}
+			"1.8.2"
+			{
+				"gid" "8120309379775041364"
+				"size" "1884193445"
+				"download" "990422960"
+			}
+			"1.9.x"
+			{
+				"gid" "8579526566244980594"
+				"size" "2146388703"
+				"download" "1118259520"
+			}
+			"open_beta"
+			{
+				"gid" "1532313212829414571"
+				"size" "5174753516"
+				"download" "1991582160"
+			}
+			"1.14.10"
+			{
+				"gid" "1817501345071178936"
+				"size" "5175291684"
+				"download" "1991639472"
+			}
+			"1.14.5"
+			{
+				"gid" "1532313212829414571"
+				"size" "5174753516"
+				"download" "1991582160"
+			}
+			"1.15.3"
+			{
+				"gid" "5343003525977595054"
+				"size" "5566218230"
+				"download" "2149519536"
+			}
+		}
+	}
+	"394362"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3529844097066417920"
+				"size" "394521249"
+				"download" "222441184"
+			}
+			"1.10.5"
+			{
+				"gid" "2693807427824732566"
+				"size" "308679740"
+				"download" "148847264"
+			}
+			"1.10.8"
+			{
+				"gid" "2683302377776413731"
+				"size" "308530236"
+				"download" "148795776"
+			}
+			"1.11.13"
+			{
+				"gid" "1363657409787070632"
+				"size" "369659335"
+				"download" "180533328"
+			}
+			"1.12.14"
+			{
+				"gid" "2297323778560990099"
+				"size" "332771947"
+				"download" "169233872"
+			}
+			"1.13.7"
+			{
+				"gid" "3950900160064844803"
+				"size" "340238458"
+				"download" "171268816"
+			}
+			"1.14.3"
+			{
+				"gid" "4743505394163066360"
+				"size" "340266099"
+				"download" "171256144"
+			}
+			"1.5.4"
+			{
+				"gid" "6050128182006362927"
+				"size" "89597520"
+				"download" "32521488"
+			}
+			"1.6.2"
+			{
+				"gid" "5951557487191844408"
+				"size" "273033835"
+				"download" "85044112"
+			}
+			"1.7.1"
+			{
+				"gid" "6242035207507877023"
+				"size" "594556257"
+				"download" "137672752"
+			}
+			"1.8.2"
+			{
+				"gid" "4790852196429684298"
+				"size" "378155865"
+				"download" "172571376"
+			}
+			"1.9.x"
+			{
+				"gid" "696597126876991763"
+				"size" "375189568"
+				"download" "173092352"
+			}
+			"open_beta"
+			{
+				"gid" "4605813324151412025"
+				"size" "374517290"
+				"download" "203548240"
+			}
+			"1.14.10"
+			{
+				"gid" "4270094490140519197"
+				"size" "392680484"
+				"download" "221876256"
+			}
+			"1.14.5"
+			{
+				"gid" "4605813324151412025"
+				"size" "374517290"
+				"download" "203548240"
+			}
+			"1.15.3"
+			{
+				"gid" "7908666408759912361"
+				"size" "394492545"
+				"download" "222436096"
+			}
+		}
+	}
+	"394363"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2022156663759743960"
+				"size" "489050890"
+				"download" "239782912"
+			}
+			"1.10.5"
+			{
+				"gid" "3412281723888485091"
+				"size" "392782375"
+				"download" "169565296"
+			}
+			"1.10.8"
+			{
+				"gid" "2166022501330473726"
+				"size" "392823335"
+				"download" "169576352"
+			}
+			"1.11.13"
+			{
+				"gid" "4322976211471690333"
+				"size" "2120842213"
+				"download" "592000928"
+			}
+			"1.12.14"
+			{
+				"gid" "4262496448827099674"
+				"size" "535479547"
+				"download" "216426224"
+			}
+			"1.13.7"
+			{
+				"gid" "1707686500237826230"
+				"size" "556507702"
+				"download" "221282368"
+			}
+			"1.14.3"
+			{
+				"gid" "6320176871577107199"
+				"size" "556565039"
+				"download" "221296064"
+			}
+			"1.5.4"
+			{
+				"gid" "7396332731043275033"
+				"size" "150775725"
+				"download" "38248144"
+			}
+			"1.6.2"
+			{
+				"gid" "7269109782036745128"
+				"size" "389013816"
+				"download" "98714528"
+			}
+			"1.7.1"
+			{
+				"gid" "2156486346837718165"
+				"size" "557158819"
+				"download" "129611360"
+			}
+			"1.8.2"
+			{
+				"gid" "4480045690803468503"
+				"size" "653835611"
+				"download" "214571456"
+			}
+			"1.9.x"
+			{
+				"gid" "7779033753959113970"
+				"size" "511493738"
+				"download" "198680512"
+			}
+			"open_beta"
+			{
+				"gid" "5131471289149854170"
+				"size" "464219600"
+				"download" "217964304"
+			}
+			"1.14.10"
+			{
+				"gid" "775492873718527781"
+				"size" "484564434"
+				"download" "238500304"
+			}
+			"1.14.5"
+			{
+				"gid" "5131471289149854170"
+				"size" "464219600"
+				"download" "217964304"
+			}
+			"1.15.3"
+			{
+				"gid" "225945917276029570"
+				"size" "489071370"
+				"download" "239782928"
+			}
+		}
+	}
+	"394364"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6378350902353453425"
+				"size" "593421151"
+				"download" "403735568"
+			}
+			"1.10.5"
+			{
+				"gid" "3933612221058258241"
+				"size" "437420341"
+				"download" "277738096"
+			}
+			"1.10.8"
+			{
+				"gid" "6937727118690548725"
+				"size" "437450381"
+				"download" "277743392"
+			}
+			"1.11.13"
+			{
+				"gid" "4531586923749826713"
+				"size" "452095956"
+				"download" "206461440"
+			}
+			"1.12.14"
+			{
+				"gid" "3315912100661671285"
+				"size" "358102803"
+				"download" "185196416"
+			}
+			"1.13.7"
+			{
+				"gid" "1216548312390796027"
+				"size" "377404022"
+				"download" "188620528"
+			}
+			"1.14.3"
+			{
+				"gid" "1564117368020974366"
+				"size" "377465631"
+				"download" "188635600"
+			}
+			"1.5.4"
+			{
+				"gid" "3013673898907998580"
+				"size" "36645821"
+				"download" "9299088"
+			}
+			"1.6.2"
+			{
+				"gid" "6956710269941273528"
+				"size" "197477410"
+				"download" "58006416"
+			}
+			"1.7.1"
+			{
+				"gid" "1523469607995866024"
+				"size" "220730094"
+				"download" "63951536"
+			}
+			"1.8.2"
+			{
+				"gid" "2830427196439379083"
+				"size" "413223524"
+				"download" "250748672"
+			}
+			"1.9.x"
+			{
+				"gid" "2206341997819966542"
+				"size" "443301591"
+				"download" "278589104"
+			}
+			"open_beta"
+			{
+				"gid" "7392832668342275822"
+				"size" "531462357"
+				"download" "343817568"
+			}
+			"1.14.10"
+			{
+				"gid" "3103381617964285169"
+				"size" "590034839"
+				"download" "402904640"
+			}
+			"1.14.5"
+			{
+				"gid" "7392832668342275822"
+				"size" "531462357"
+				"download" "343817568"
+			}
+			"1.15.3"
+			{
+				"gid" "2949976515900143065"
+				"size" "593433503"
+				"download" "403736192"
+			}
+		}
+	}
+	"445630"
+	{
+		"dlcappid" "445630"
+	}
+	"460551"
+	{
+		"dlcappid" "460551"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5070469357698773981"
+				"size" "6428673"
+				"download" "2545488"
+			}
+			"1.10.5"
+			{
+				"gid" "5211901722678358481"
+				"size" "3576272"
+				"download" "3033440"
+			}
+			"1.10.8"
+			{
+				"gid" "5211901722678358481"
+				"size" "3576272"
+				"download" "3033440"
+			}
+			"1.11.13"
+			{
+				"gid" "7690456706749020203"
+				"size" "6428158"
+				"download" "2545264"
+			}
+			"1.12.14"
+			{
+				"gid" "5062160407846764873"
+				"size" "6428158"
+				"download" "2545264"
+			}
+			"1.13.7"
+			{
+				"gid" "3027180054083617135"
+				"size" "6428190"
+				"download" "2545280"
+			}
+			"1.14.3"
+			{
+				"gid" "3027180054083617135"
+				"size" "6428190"
+				"download" "2545280"
+			}
+			"1.5.4"
+			{
+				"gid" "2751779383741237642"
+				"size" "3488794"
+				"download" "2945936"
+			}
+			"1.6.2"
+			{
+				"gid" "2518349585427387408"
+				"size" "3488794"
+				"download" "2944848"
+			}
+			"1.7.1"
+			{
+				"gid" "2518349585427387408"
+				"size" "3488794"
+				"download" "2944848"
+			}
+			"1.8.2"
+			{
+				"gid" "7228037718628113478"
+				"size" "3532605"
+				"download" "2988640"
+			}
+			"1.9.x"
+			{
+				"gid" "5211901722678358481"
+				"size" "3576272"
+				"download" "3033440"
+			}
+			"open_beta"
+			{
+				"gid" "3027180054083617135"
+				"size" "6428190"
+				"download" "2545280"
+			}
+			"1.14.10"
+			{
+				"gid" "3027180054083617135"
+				"size" "6428190"
+				"download" "2545280"
+			}
+			"1.14.5"
+			{
+				"gid" "3027180054083617135"
+				"size" "6428190"
+				"download" "2545280"
+			}
+			"1.15.3"
+			{
+				"gid" "6480466163899852556"
+				"size" "6428187"
+				"download" "2545280"
+			}
+		}
+	}
+	"460555"
+	{
+		"dlcappid" "460555"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1359209068671023219"
+				"size" "5788700"
+				"download" "2062976"
+			}
+			"1.10.5"
+			{
+				"gid" "1665662445949244873"
+				"size" "2462467"
+				"download" "2442832"
+			}
+			"1.10.8"
+			{
+				"gid" "1665662445949244873"
+				"size" "2462467"
+				"download" "2442832"
+			}
+			"1.11.13"
+			{
+				"gid" "3458655825334790035"
+				"size" "5750614"
+				"download" "2046800"
+			}
+			"1.12.14"
+			{
+				"gid" "8793655838425267867"
+				"size" "5750614"
+				"download" "2046800"
+			}
+			"1.13.7"
+			{
+				"gid" "4040677094017342480"
+				"size" "5750710"
+				"download" "2046816"
+			}
+			"1.14.3"
+			{
+				"gid" "6773524260023482300"
+				"size" "5788111"
+				"download" "2062768"
+			}
+			"1.5.4"
+			{
+				"gid" "4644649664850177215"
+				"size" "2378176"
+				"download" "2357872"
+			}
+			"1.6.2"
+			{
+				"gid" "7343789929290468185"
+				"size" "2378176"
+				"download" "2357600"
+			}
+			"1.7.1"
+			{
+				"gid" "7343789929290468185"
+				"size" "2378176"
+				"download" "2357600"
+			}
+			"1.8.2"
+			{
+				"gid" "5895216135592145089"
+				"size" "2420389"
+				"download" "2399872"
+			}
+			"1.9.x"
+			{
+				"gid" "1665662445949244873"
+				"size" "2462467"
+				"download" "2442832"
+			}
+			"open_beta"
+			{
+				"gid" "6773524260023482300"
+				"size" "5788111"
+				"download" "2062768"
+			}
+			"1.14.10"
+			{
+				"gid" "6773524260023482300"
+				"size" "5788111"
+				"download" "2062768"
+			}
+			"1.14.5"
+			{
+				"gid" "6773524260023482300"
+				"size" "5788111"
+				"download" "2062768"
+			}
+			"1.15.3"
+			{
+				"gid" "6773524260023482300"
+				"size" "5788111"
+				"download" "2062768"
+			}
+		}
+	}
+	"460552"
+	{
+		"dlcappid" "460552"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2313465840000781788"
+				"size" "6292565"
+				"download" "6294000"
+			}
+			"1.10.5"
+			{
+				"gid" "2313465840000781788"
+				"size" "6292565"
+				"download" "6294000"
+			}
+			"1.10.8"
+			{
+				"gid" "2313465840000781788"
+				"size" "6292565"
+				"download" "6294000"
+			}
+			"1.11.13"
+			{
+				"gid" "2313465840000781788"
+				"size" "6292565"
+				"download" "6294000"
+			}
+			"1.12.14"
+			{
+				"gid" "2313465840000781788"
+				"size" "6292565"
+				"download" "6294000"
+			}
+			"1.13.7"
+			{
+				"gid" "2313465840000781788"
+				"size" "6292565"
+				"download" "6294000"
+			}
+			"1.14.3"
+			{
+				"gid" "2313465840000781788"
+				"size" "6292565"
+				"download" "6294000"
+			}
+			"1.5.4"
+			{
+				"gid" "2313465840000781788"
+				"size" "6292565"
+				"download" "6294000"
+			}
+			"1.6.2"
+			{
+				"gid" "2313465840000781788"
+				"size" "6292565"
+				"download" "6294000"
+			}
+			"1.7.1"
+			{
+				"gid" "2313465840000781788"
+				"size" "6292565"
+				"download" "6294000"
+			}
+			"1.8.2"
+			{
+				"gid" "2313465840000781788"
+				"size" "6292565"
+				"download" "6294000"
+			}
+			"1.9.x"
+			{
+				"gid" "2313465840000781788"
+				"size" "6292565"
+				"download" "6294000"
+			}
+			"open_beta"
+			{
+				"gid" "2313465840000781788"
+				"size" "6292565"
+				"download" "6294000"
+			}
+			"1.14.10"
+			{
+				"gid" "2313465840000781788"
+				"size" "6292565"
+				"download" "6294000"
+			}
+			"1.14.5"
+			{
+				"gid" "2313465840000781788"
+				"size" "6292565"
+				"download" "6294000"
+			}
+			"1.15.3"
+			{
+				"gid" "2313465840000781788"
+				"size" "6292565"
+				"download" "6294000"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "460552"
+		}
+	}
+	"460556"
+	{
+		"dlcappid" "460556"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8256401334023668610"
+				"size" "7002613"
+				"download" "2374336"
+			}
+			"1.10.5"
+			{
+				"gid" "4275027040772125772"
+				"size" "3045700"
+				"download" "3024688"
+			}
+			"1.10.8"
+			{
+				"gid" "4275027040772125772"
+				"size" "3045700"
+				"download" "3024688"
+			}
+			"1.11.13"
+			{
+				"gid" "4468005917776754298"
+				"size" "6977655"
+				"download" "2371360"
+			}
+			"1.12.14"
+			{
+				"gid" "6549217656504826576"
+				"size" "6977655"
+				"download" "2371360"
+			}
+			"1.13.7"
+			{
+				"gid" "1424004138895794698"
+				"size" "6984219"
+				"download" "2371440"
+			}
+			"1.14.3"
+			{
+				"gid" "6874229133441972458"
+				"size" "7001510"
+				"download" "2374144"
+			}
+			"1.5.4"
+			{
+				"gid" "2629636235525314000"
+				"size" "3008474"
+				"download" "2987184"
+			}
+			"1.6.2"
+			{
+				"gid" "3351198138515675543"
+				"size" "2959345"
+				"download" "2937216"
+			}
+			"1.7.1"
+			{
+				"gid" "3351198138515675543"
+				"size" "2959345"
+				"download" "2937216"
+			}
+			"1.8.2"
+			{
+				"gid" "4680730198169175097"
+				"size" "3002590"
+				"download" "2980544"
+			}
+			"1.9.x"
+			{
+				"gid" "4275027040772125772"
+				"size" "3045700"
+				"download" "3024688"
+			}
+			"open_beta"
+			{
+				"gid" "6874229133441972458"
+				"size" "7001510"
+				"download" "2374144"
+			}
+			"1.14.10"
+			{
+				"gid" "6874229133441972458"
+				"size" "7001510"
+				"download" "2374144"
+			}
+			"1.14.5"
+			{
+				"gid" "6874229133441972458"
+				"size" "7001510"
+				"download" "2374144"
+			}
+			"1.15.3"
+			{
+				"gid" "6874229133441972458"
+				"size" "7001510"
+				"download" "2374144"
+			}
+		}
+	}
+	"460554"
+	{
+		"dlcappid" "460554"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8025726969882667965"
+				"size" "4594752"
+				"download" "1870384"
+			}
+			"1.10.5"
+			{
+				"gid" "5213275730814657902"
+				"size" "2210035"
+				"download" "2200704"
+			}
+			"1.10.8"
+			{
+				"gid" "5851758251348123269"
+				"size" "4577914"
+				"download" "1869392"
+			}
+			"1.11.13"
+			{
+				"gid" "6025181772162385091"
+				"size" "4594068"
+				"download" "1870112"
+			}
+			"1.12.14"
+			{
+				"gid" "8235724704520886398"
+				"size" "4595033"
+				"download" "1870416"
+			}
+			"1.13.7"
+			{
+				"gid" "5718265557173372108"
+				"size" "4595077"
+				"download" "1870448"
+			}
+			"1.14.3"
+			{
+				"gid" "5718265557173372108"
+				"size" "4595077"
+				"download" "1870448"
+			}
+			"1.5.4"
+			{
+				"gid" "8927727147981882949"
+				"size" "2121688"
+				"download" "2112000"
+			}
+			"1.6.2"
+			{
+				"gid" "6586827579668111246"
+				"size" "2121688"
+				"download" "2111408"
+			}
+			"1.7.1"
+			{
+				"gid" "6586827579668111246"
+				"size" "2121688"
+				"download" "2111408"
+			}
+			"1.8.2"
+			{
+				"gid" "5642812745686175999"
+				"size" "2165934"
+				"download" "2155680"
+			}
+			"1.9.x"
+			{
+				"gid" "5213275730814657902"
+				"size" "2210035"
+				"download" "2200704"
+			}
+			"open_beta"
+			{
+				"gid" "5718265557173372108"
+				"size" "4595077"
+				"download" "1870448"
+			}
+			"1.14.10"
+			{
+				"gid" "5718265557173372108"
+				"size" "4595077"
+				"download" "1870448"
+			}
+			"1.14.5"
+			{
+				"gid" "5718265557173372108"
+				"size" "4595077"
+				"download" "1870448"
+			}
+			"1.15.3"
+			{
+				"gid" "5718265557173372108"
+				"size" "4595077"
+				"download" "1870448"
+			}
+		}
+	}
+	"460553"
+	{
+		"dlcappid" "460553"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "722034115866212654"
+				"size" "84369"
+				"download" "84800"
+			}
+			"1.10.5"
+			{
+				"gid" "722034115866212654"
+				"size" "84369"
+				"download" "84800"
+			}
+			"1.10.8"
+			{
+				"gid" "722034115866212654"
+				"size" "84369"
+				"download" "84800"
+			}
+			"1.11.13"
+			{
+				"gid" "722034115866212654"
+				"size" "84369"
+				"download" "84800"
+			}
+			"1.12.14"
+			{
+				"gid" "722034115866212654"
+				"size" "84369"
+				"download" "84800"
+			}
+			"1.13.7"
+			{
+				"gid" "722034115866212654"
+				"size" "84369"
+				"download" "84800"
+			}
+			"1.14.3"
+			{
+				"gid" "722034115866212654"
+				"size" "84369"
+				"download" "84800"
+			}
+			"1.5.4"
+			{
+				"gid" "7941547873576998652"
+				"size" "5011426"
+				"download" "4989648"
+			}
+			"1.6.2"
+			{
+				"gid" "8013968236650560934"
+				"size" "5011552"
+				"download" "4989408"
+			}
+			"1.7.1"
+			{
+				"gid" "8013968236650560934"
+				"size" "5011552"
+				"download" "4989408"
+			}
+			"1.8.2"
+			{
+				"gid" "8946002487388312807"
+				"size" "5053686"
+				"download" "5031552"
+			}
+			"1.9.x"
+			{
+				"gid" "5750434402170473818"
+				"size" "5095674"
+				"download" "5074512"
+			}
+			"open_beta"
+			{
+				"gid" "722034115866212654"
+				"size" "84369"
+				"download" "84800"
+			}
+			"1.14.10"
+			{
+				"gid" "722034115866212654"
+				"size" "84369"
+				"download" "84800"
+			}
+			"1.14.5"
+			{
+				"gid" "722034115866212654"
+				"size" "84369"
+				"download" "84800"
+			}
+			"1.15.3"
+			{
+				"gid" "722034115866212654"
+				"size" "84369"
+				"download" "84800"
+			}
+		}
+	}
+	"460550"
+	{
+		"dlcappid" "460550"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8501519268712826616"
+				"size" "7085757"
+				"download" "2926400"
+			}
+			"1.10.5"
+			{
+				"gid" "6088883190973485855"
+				"size" "3857865"
+				"download" "3541216"
+			}
+			"1.10.8"
+			{
+				"gid" "6088883190973485855"
+				"size" "3857865"
+				"download" "3541216"
+			}
+			"1.11.13"
+			{
+				"gid" "1847874349857413936"
+				"size" "7085526"
+				"download" "2926288"
+			}
+			"1.12.14"
+			{
+				"gid" "8354151057224320043"
+				"size" "7085526"
+				"download" "2926288"
+			}
+			"1.13.7"
+			{
+				"gid" "5922485064199238130"
+				"size" "7085705"
+				"download" "2926384"
+			}
+			"1.14.3"
+			{
+				"gid" "5922485064199238130"
+				"size" "7085705"
+				"download" "2926384"
+			}
+			"1.5.4"
+			{
+				"gid" "4634441113132585509"
+				"size" "3847087"
+				"download" "3471184"
+			}
+			"1.6.2"
+			{
+				"gid" "6957483691571578821"
+				"size" "3773970"
+				"download" "3456096"
+			}
+			"1.7.1"
+			{
+				"gid" "6957483691571578821"
+				"size" "3773970"
+				"download" "3456096"
+			}
+			"1.8.2"
+			{
+				"gid" "3790588066727128841"
+				"size" "3815986"
+				"download" "3498128"
+			}
+			"1.9.x"
+			{
+				"gid" "6088883190973485855"
+				"size" "3857865"
+				"download" "3541216"
+			}
+			"open_beta"
+			{
+				"gid" "5922485064199238130"
+				"size" "7085705"
+				"download" "2926384"
+			}
+			"1.14.10"
+			{
+				"gid" "8501519268712826616"
+				"size" "7085757"
+				"download" "2926400"
+			}
+			"1.14.5"
+			{
+				"gid" "5922485064199238130"
+				"size" "7085705"
+				"download" "2926384"
+			}
+			"1.15.3"
+			{
+				"gid" "8501519268712826616"
+				"size" "7085757"
+				"download" "2926400"
+			}
+		}
+	}
+	"460559"
+	{
+		"dlcappid" "460559"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5093762405086364885"
+				"size" "2505023"
+				"download" "2454768"
+			}
+			"1.10.5"
+			{
+				"gid" "5093762405086364885"
+				"size" "2505023"
+				"download" "2454768"
+			}
+			"1.10.8"
+			{
+				"gid" "5093762405086364885"
+				"size" "2505023"
+				"download" "2454768"
+			}
+			"1.11.13"
+			{
+				"gid" "5093762405086364885"
+				"size" "2505023"
+				"download" "2454768"
+			}
+			"1.12.14"
+			{
+				"gid" "5093762405086364885"
+				"size" "2505023"
+				"download" "2454768"
+			}
+			"1.13.7"
+			{
+				"gid" "5093762405086364885"
+				"size" "2505023"
+				"download" "2454768"
+			}
+			"1.14.3"
+			{
+				"gid" "5093762405086364885"
+				"size" "2505023"
+				"download" "2454768"
+			}
+			"1.5.4"
+			{
+				"gid" "4108480692636916415"
+				"size" "2418045"
+				"download" "2367312"
+			}
+			"1.6.2"
+			{
+				"gid" "6319936634159725744"
+				"size" "2418045"
+				"download" "2366992"
+			}
+			"1.7.1"
+			{
+				"gid" "6319936634159725744"
+				"size" "2418045"
+				"download" "2366992"
+			}
+			"1.8.2"
+			{
+				"gid" "8124883078712484633"
+				"size" "2461604"
+				"download" "2410640"
+			}
+			"1.9.x"
+			{
+				"gid" "5093762405086364885"
+				"size" "2505023"
+				"download" "2454768"
+			}
+			"open_beta"
+			{
+				"gid" "5093762405086364885"
+				"size" "2505023"
+				"download" "2454768"
+			}
+			"1.14.10"
+			{
+				"gid" "5093762405086364885"
+				"size" "2505023"
+				"download" "2454768"
+			}
+			"1.14.5"
+			{
+				"gid" "5093762405086364885"
+				"size" "2505023"
+				"download" "2454768"
+			}
+			"1.15.3"
+			{
+				"gid" "5093762405086364885"
+				"size" "2505023"
+				"download" "2454768"
+			}
+		}
+	}
+	"460557"
+	{
+		"dlcappid" "460557"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1925469376970094921"
+				"size" "44962050"
+				"download" "43103312"
+			}
+			"1.10.5"
+			{
+				"gid" "3605840514187325617"
+				"size" "65321491"
+				"download" "64299872"
+			}
+			"1.10.8"
+			{
+				"gid" "3605840514187325617"
+				"size" "65321491"
+				"download" "64299872"
+			}
+			"1.11.13"
+			{
+				"gid" "1925469376970094921"
+				"size" "44962050"
+				"download" "43103312"
+			}
+			"1.12.14"
+			{
+				"gid" "1925469376970094921"
+				"size" "44962050"
+				"download" "43103312"
+			}
+			"1.13.7"
+			{
+				"gid" "1925469376970094921"
+				"size" "44962050"
+				"download" "43103312"
+			}
+			"1.14.3"
+			{
+				"gid" "1925469376970094921"
+				"size" "44962050"
+				"download" "43103312"
+			}
+			"1.5.4"
+			{
+				"gid" "3311694387379456560"
+				"size" "65002353"
+				"download" "63980352"
+			}
+			"1.6.2"
+			{
+				"gid" "4229035167433096534"
+				"size" "65002353"
+				"download" "63980240"
+			}
+			"1.7.1"
+			{
+				"gid" "9000268372683942323"
+				"size" "65146865"
+				"download" "64123808"
+			}
+			"1.8.2"
+			{
+				"gid" "6004999785466600722"
+				"size" "65234246"
+				"download" "64211744"
+			}
+			"1.9.x"
+			{
+				"gid" "3605840514187325617"
+				"size" "65321491"
+				"download" "64299872"
+			}
+			"open_beta"
+			{
+				"gid" "1925469376970094921"
+				"size" "44962050"
+				"download" "43103312"
+			}
+			"1.14.10"
+			{
+				"gid" "1925469376970094921"
+				"size" "44962050"
+				"download" "43103312"
+			}
+			"1.14.5"
+			{
+				"gid" "1925469376970094921"
+				"size" "44962050"
+				"download" "43103312"
+			}
+			"1.15.3"
+			{
+				"gid" "1925469376970094921"
+				"size" "44962050"
+				"download" "43103312"
+			}
+		}
+	}
+	"460600"
+	{
+		"dlcappid" "460600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5730018487423468725"
+				"size" "6243153"
+				"download" "2480672"
+			}
+			"1.10.5"
+			{
+				"gid" "5779070589991622594"
+				"size" "3098882"
+				"download" "3078352"
+			}
+			"1.10.8"
+			{
+				"gid" "956057431172985026"
+				"size" "3148538"
+				"download" "3126480"
+			}
+			"1.11.13"
+			{
+				"gid" "5900750665522320607"
+				"size" "6358934"
+				"download" "2518784"
+			}
+			"1.12.14"
+			{
+				"gid" "141943012511913960"
+				"size" "6358931"
+				"download" "2518784"
+			}
+			"1.13.7"
+			{
+				"gid" "7107018102061367573"
+				"size" "6243288"
+				"download" "2480672"
+			}
+			"1.14.3"
+			{
+				"gid" "7107018102061367573"
+				"size" "6243288"
+				"download" "2480672"
+			}
+			"1.5.4"
+			{
+				"gid" "3537221246993906714"
+				"size" "2914041"
+				"download" "2891072"
+			}
+			"1.6.2"
+			{
+				"gid" "8928334145554003893"
+				"size" "2914041"
+				"download" "2890544"
+			}
+			"1.7.1"
+			{
+				"gid" "8928334145554003893"
+				"size" "2914041"
+				"download" "2890544"
+			}
+			"1.8.2"
+			{
+				"gid" "2343998769550166165"
+				"size" "3006519"
+				"download" "2983680"
+			}
+			"1.9.x"
+			{
+				"gid" "5779070589991622594"
+				"size" "3098882"
+				"download" "3078352"
+			}
+			"open_beta"
+			{
+				"gid" "7107018102061367573"
+				"size" "6243288"
+				"download" "2480672"
+			}
+			"1.14.10"
+			{
+				"gid" "7107018102061367573"
+				"size" "6243288"
+				"download" "2480672"
+			}
+			"1.14.5"
+			{
+				"gid" "7107018102061367573"
+				"size" "6243288"
+				"download" "2480672"
+			}
+			"1.15.3"
+			{
+				"gid" "5730018487423468725"
+				"size" "6243153"
+				"download" "2480672"
+			}
+		}
+	}
+	"460558"
+	{
+		"dlcappid" "460558"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5539894802210246877"
+				"size" "52305316"
+				"download" "38898032"
+			}
+			"1.10.5"
+			{
+				"gid" "7373854987923061021"
+				"size" "70627431"
+				"download" "58166592"
+			}
+			"1.10.8"
+			{
+				"gid" "7373854987923061021"
+				"size" "70627431"
+				"download" "58166592"
+			}
+			"1.11.13"
+			{
+				"gid" "5539894802210246877"
+				"size" "52305316"
+				"download" "38898032"
+			}
+			"1.12.14"
+			{
+				"gid" "5539894802210246877"
+				"size" "52305316"
+				"download" "38898032"
+			}
+			"1.13.7"
+			{
+				"gid" "5539894802210246877"
+				"size" "52305316"
+				"download" "38898032"
+			}
+			"1.14.3"
+			{
+				"gid" "5539894802210246877"
+				"size" "52305316"
+				"download" "38898032"
+			}
+			"1.5.4"
+			{
+				"gid" "6326479355985023568"
+				"size" "70288779"
+				"download" "57827744"
+			}
+			"1.6.2"
+			{
+				"gid" "7442413701511307551"
+				"size" "70288779"
+				"download" "57827648"
+			}
+			"1.7.1"
+			{
+				"gid" "7650724295535528666"
+				"size" "70466110"
+				"download" "58003760"
+			}
+			"1.8.2"
+			{
+				"gid" "6089579876498477214"
+				"size" "70546834"
+				"download" "58084976"
+			}
+			"1.9.x"
+			{
+				"gid" "7373854987923061021"
+				"size" "70627431"
+				"download" "58166592"
+			}
+			"open_beta"
+			{
+				"gid" "5539894802210246877"
+				"size" "52305316"
+				"download" "38898032"
+			}
+			"1.14.10"
+			{
+				"gid" "5539894802210246877"
+				"size" "52305316"
+				"download" "38898032"
+			}
+			"1.14.5"
+			{
+				"gid" "5539894802210246877"
+				"size" "52305316"
+				"download" "38898032"
+			}
+			"1.15.3"
+			{
+				"gid" "5539894802210246877"
+				"size" "52305316"
+				"download" "38898032"
+			}
+		}
+	}
+	"460610"
+	{
+		"dlcappid" "460610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2927863005866259404"
+				"size" "6508265"
+				"download" "2211840"
+			}
+			"1.10.5"
+			{
+				"gid" "3542725555069941661"
+				"size" "1329535"
+				"download" "1251776"
+			}
+			"1.10.8"
+			{
+				"gid" "3542725555069941661"
+				"size" "1329535"
+				"download" "1251776"
+			}
+			"1.11.13"
+			{
+				"gid" "3500745385979195241"
+				"size" "3638095"
+				"download" "996784"
+			}
+			"1.12.14"
+			{
+				"gid" "3500745385979195241"
+				"size" "3638095"
+				"download" "996784"
+			}
+			"1.13.7"
+			{
+				"gid" "3500745385979195241"
+				"size" "3638095"
+				"download" "996784"
+			}
+			"1.14.3"
+			{
+				"gid" "3500745385979195241"
+				"size" "3638095"
+				"download" "996784"
+			}
+			"1.5.4"
+			{
+				"gid" "6973857131137229701"
+				"size" "973340"
+				"download" "897344"
+			}
+			"1.6.2"
+			{
+				"gid" "1938860384459244256"
+				"size" "1025386"
+				"download" "949008"
+			}
+			"1.7.1"
+			{
+				"gid" "1938860384459244256"
+				"size" "1025386"
+				"download" "949008"
+			}
+			"1.8.2"
+			{
+				"gid" "1584337869883460128"
+				"size" "1068862"
+				"download" "992464"
+			}
+			"1.9.x"
+			{
+				"gid" "3154100295864601292"
+				"size" "1233480"
+				"download" "1158128"
+			}
+			"open_beta"
+			{
+				"gid" "3500745385979195241"
+				"size" "3638095"
+				"download" "996784"
+			}
+			"1.14.10"
+			{
+				"gid" "3500745385979195241"
+				"size" "3638095"
+				"download" "996784"
+			}
+			"1.14.5"
+			{
+				"gid" "3500745385979195241"
+				"size" "3638095"
+				"download" "996784"
+			}
+			"1.15.3"
+			{
+				"gid" "2927863005866259404"
+				"size" "6508265"
+				"download" "2211840"
+			}
+		}
+	}
+	"461800"
+	{
+		"dlcappid" "461800"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3156161663375823882"
+				"size" "55097518"
+				"download" "55079856"
+			}
+			"1.10.5"
+			{
+				"gid" "1700068178728910425"
+				"size" "54908254"
+				"download" "55244288"
+			}
+			"1.10.8"
+			{
+				"gid" "1700068178728910425"
+				"size" "54908254"
+				"download" "55244288"
+			}
+			"1.11.13"
+			{
+				"gid" "3156161663375823882"
+				"size" "55097518"
+				"download" "55079856"
+			}
+			"1.12.14"
+			{
+				"gid" "3156161663375823882"
+				"size" "55097518"
+				"download" "55079856"
+			}
+			"1.13.7"
+			{
+				"gid" "3156161663375823882"
+				"size" "55097518"
+				"download" "55079856"
+			}
+			"1.14.3"
+			{
+				"gid" "3156161663375823882"
+				"size" "55097518"
+				"download" "55079856"
+			}
+			"1.5.4"
+			{
+				"gid" "3923953619313674348"
+				"size" "54569401"
+				"download" "54904432"
+			}
+			"1.6.2"
+			{
+				"gid" "7125345833406081563"
+				"size" "54569401"
+				"download" "54904400"
+			}
+			"1.7.1"
+			{
+				"gid" "5818347695460670127"
+				"size" "54729656"
+				"download" "55064208"
+			}
+			"1.8.2"
+			{
+				"gid" "3287116019076977298"
+				"size" "54819013"
+				"download" "55154080"
+			}
+			"1.9.x"
+			{
+				"gid" "1700068178728910425"
+				"size" "54908254"
+				"download" "55244288"
+			}
+			"open_beta"
+			{
+				"gid" "3156161663375823882"
+				"size" "55097518"
+				"download" "55079856"
+			}
+			"1.14.10"
+			{
+				"gid" "3156161663375823882"
+				"size" "55097518"
+				"download" "55079856"
+			}
+			"1.14.5"
+			{
+				"gid" "3156161663375823882"
+				"size" "55097518"
+				"download" "55079856"
+			}
+			"1.15.3"
+			{
+				"gid" "3156161663375823882"
+				"size" "55097518"
+				"download" "55079856"
+			}
+		}
+	}
+	"471560"
+	{
+		"dlcappid" "471560"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6371823134000697462"
+				"size" "0"
+				"download" "0"
+			}
+			"1.10.5"
+			{
+				"gid" "6371823134000697462"
+				"size" "0"
+				"download" "0"
+			}
+			"1.10.8"
+			{
+				"gid" "6371823134000697462"
+				"size" "0"
+				"download" "0"
+			}
+			"1.11.13"
+			{
+				"gid" "6371823134000697462"
+				"size" "0"
+				"download" "0"
+			}
+			"1.12.14"
+			{
+				"gid" "6371823134000697462"
+				"size" "0"
+				"download" "0"
+			}
+			"1.13.7"
+			{
+				"gid" "6371823134000697462"
+				"size" "0"
+				"download" "0"
+			}
+			"1.14.3"
+			{
+				"gid" "6371823134000697462"
+				"size" "0"
+				"download" "0"
+			}
+			"1.5.4"
+			{
+				"gid" "6371823134000697462"
+				"size" "0"
+				"download" "0"
+			}
+			"1.6.2"
+			{
+				"gid" "6371823134000697462"
+				"size" "0"
+				"download" "0"
+			}
+			"1.7.1"
+			{
+				"gid" "6371823134000697462"
+				"size" "0"
+				"download" "0"
+			}
+			"1.8.2"
+			{
+				"gid" "6371823134000697462"
+				"size" "0"
+				"download" "0"
+			}
+			"1.9.x"
+			{
+				"gid" "6371823134000697462"
+				"size" "0"
+				"download" "0"
+			}
+			"open_beta"
+			{
+				"gid" "6371823134000697462"
+				"size" "0"
+				"download" "0"
+			}
+			"1.14.10"
+			{
+				"gid" "6371823134000697462"
+				"size" "0"
+				"download" "0"
+			}
+			"1.14.5"
+			{
+				"gid" "6371823134000697462"
+				"size" "0"
+				"download" "0"
+			}
+			"1.15.3"
+			{
+				"gid" "6371823134000697462"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"472411"
+	{
+		"dlcappid" "472411"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2210067973138152887"
+				"size" "19046521"
+				"download" "19252848"
+			}
+			"1.10.5"
+			{
+				"gid" "2210067973138152887"
+				"size" "19046521"
+				"download" "19252848"
+			}
+			"1.10.8"
+			{
+				"gid" "2210067973138152887"
+				"size" "19046521"
+				"download" "19252848"
+			}
+			"1.11.13"
+			{
+				"gid" "2210067973138152887"
+				"size" "19046521"
+				"download" "19252848"
+			}
+			"1.12.14"
+			{
+				"gid" "2210067973138152887"
+				"size" "19046521"
+				"download" "19252848"
+			}
+			"1.13.7"
+			{
+				"gid" "2210067973138152887"
+				"size" "19046521"
+				"download" "19252848"
+			}
+			"1.14.3"
+			{
+				"gid" "2210067973138152887"
+				"size" "19046521"
+				"download" "19252848"
+			}
+			"1.5.4"
+			{
+				"gid" "2210067973138152887"
+				"size" "19046521"
+				"download" "19252848"
+			}
+			"1.6.2"
+			{
+				"gid" "2210067973138152887"
+				"size" "19046521"
+				"download" "19252848"
+			}
+			"1.7.1"
+			{
+				"gid" "2210067973138152887"
+				"size" "19046521"
+				"download" "19252848"
+			}
+			"1.8.2"
+			{
+				"gid" "2210067973138152887"
+				"size" "19046521"
+				"download" "19252848"
+			}
+			"1.9.x"
+			{
+				"gid" "2210067973138152887"
+				"size" "19046521"
+				"download" "19252848"
+			}
+			"open_beta"
+			{
+				"gid" "2210067973138152887"
+				"size" "19046521"
+				"download" "19252848"
+			}
+			"1.14.10"
+			{
+				"gid" "2210067973138152887"
+				"size" "19046521"
+				"download" "19252848"
+			}
+			"1.14.5"
+			{
+				"gid" "2210067973138152887"
+				"size" "19046521"
+				"download" "19252848"
+			}
+			"1.15.3"
+			{
+				"gid" "2210067973138152887"
+				"size" "19046521"
+				"download" "19252848"
+			}
+		}
+	}
+	"472410"
+	{
+		"dlcappid" "472410"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1902430195696851694"
+				"size" "27264678"
+				"download" "27578464"
+			}
+			"1.10.5"
+			{
+				"gid" "1902430195696851694"
+				"size" "27264678"
+				"download" "27578464"
+			}
+			"1.10.8"
+			{
+				"gid" "1902430195696851694"
+				"size" "27264678"
+				"download" "27578464"
+			}
+			"1.11.13"
+			{
+				"gid" "1902430195696851694"
+				"size" "27264678"
+				"download" "27578464"
+			}
+			"1.12.14"
+			{
+				"gid" "1902430195696851694"
+				"size" "27264678"
+				"download" "27578464"
+			}
+			"1.13.7"
+			{
+				"gid" "1902430195696851694"
+				"size" "27264678"
+				"download" "27578464"
+			}
+			"1.14.3"
+			{
+				"gid" "1902430195696851694"
+				"size" "27264678"
+				"download" "27578464"
+			}
+			"1.5.4"
+			{
+				"gid" "1902430195696851694"
+				"size" "27264678"
+				"download" "27578464"
+			}
+			"1.6.2"
+			{
+				"gid" "1902430195696851694"
+				"size" "27264678"
+				"download" "27578464"
+			}
+			"1.7.1"
+			{
+				"gid" "1902430195696851694"
+				"size" "27264678"
+				"download" "27578464"
+			}
+			"1.8.2"
+			{
+				"gid" "1902430195696851694"
+				"size" "27264678"
+				"download" "27578464"
+			}
+			"1.9.x"
+			{
+				"gid" "1902430195696851694"
+				"size" "27264678"
+				"download" "27578464"
+			}
+			"open_beta"
+			{
+				"gid" "1902430195696851694"
+				"size" "27264678"
+				"download" "27578464"
+			}
+			"1.14.10"
+			{
+				"gid" "1902430195696851694"
+				"size" "27264678"
+				"download" "27578464"
+			}
+			"1.14.5"
+			{
+				"gid" "1902430195696851694"
+				"size" "27264678"
+				"download" "27578464"
+			}
+			"1.15.3"
+			{
+				"gid" "1902430195696851694"
+				"size" "27264678"
+				"download" "27578464"
+			}
+		}
+	}
+	"473130"
+	{
+		"dlcappid" "473130"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9072240424424475042"
+				"size" "30635576"
+				"download" "29845840"
+			}
+			"1.10.5"
+			{
+				"gid" "9072240424424475042"
+				"size" "30635576"
+				"download" "29845840"
+			}
+			"1.10.8"
+			{
+				"gid" "9072240424424475042"
+				"size" "30635576"
+				"download" "29845840"
+			}
+			"1.11.13"
+			{
+				"gid" "9072240424424475042"
+				"size" "30635576"
+				"download" "29845840"
+			}
+			"1.12.14"
+			{
+				"gid" "9072240424424475042"
+				"size" "30635576"
+				"download" "29845840"
+			}
+			"1.13.7"
+			{
+				"gid" "9072240424424475042"
+				"size" "30635576"
+				"download" "29845840"
+			}
+			"1.14.3"
+			{
+				"gid" "9072240424424475042"
+				"size" "30635576"
+				"download" "29845840"
+			}
+			"1.5.4"
+			{
+				"gid" "9072240424424475042"
+				"size" "30635576"
+				"download" "29845840"
+			}
+			"1.6.2"
+			{
+				"gid" "9072240424424475042"
+				"size" "30635576"
+				"download" "29845840"
+			}
+			"1.7.1"
+			{
+				"gid" "9072240424424475042"
+				"size" "30635576"
+				"download" "29845840"
+			}
+			"1.8.2"
+			{
+				"gid" "9072240424424475042"
+				"size" "30635576"
+				"download" "29845840"
+			}
+			"1.9.x"
+			{
+				"gid" "9072240424424475042"
+				"size" "30635576"
+				"download" "29845840"
+			}
+			"open_beta"
+			{
+				"gid" "9072240424424475042"
+				"size" "30635576"
+				"download" "29845840"
+			}
+			"1.14.10"
+			{
+				"gid" "9072240424424475042"
+				"size" "30635576"
+				"download" "29845840"
+			}
+			"1.14.5"
+			{
+				"gid" "9072240424424475042"
+				"size" "30635576"
+				"download" "29845840"
+			}
+			"1.15.3"
+			{
+				"gid" "9072240424424475042"
+				"size" "30635576"
+				"download" "29845840"
+			}
+		}
+	}
+	"486950"
+	{
+		"dlcappid" "486950"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2613510165549400531"
+				"size" "196679148"
+				"download" "185840432"
+			}
+			"1.10.5"
+			{
+				"gid" "2613510165549400531"
+				"size" "196679148"
+				"download" "185840432"
+			}
+			"1.10.8"
+			{
+				"gid" "2613510165549400531"
+				"size" "196679148"
+				"download" "185840432"
+			}
+			"1.11.13"
+			{
+				"gid" "2613510165549400531"
+				"size" "196679148"
+				"download" "185840432"
+			}
+			"1.12.14"
+			{
+				"gid" "2613510165549400531"
+				"size" "196679148"
+				"download" "185840432"
+			}
+			"1.13.7"
+			{
+				"gid" "2613510165549400531"
+				"size" "196679148"
+				"download" "185840432"
+			}
+			"1.14.3"
+			{
+				"gid" "2613510165549400531"
+				"size" "196679148"
+				"download" "185840432"
+			}
+			"1.5.4"
+			{
+				"gid" "2613510165549400531"
+				"size" "196679148"
+				"download" "185840432"
+			}
+			"1.6.2"
+			{
+				"gid" "2613510165549400531"
+				"size" "196679148"
+				"download" "185840432"
+			}
+			"1.7.1"
+			{
+				"gid" "2613510165549400531"
+				"size" "196679148"
+				"download" "185840432"
+			}
+			"1.8.2"
+			{
+				"gid" "2613510165549400531"
+				"size" "196679148"
+				"download" "185840432"
+			}
+			"1.9.x"
+			{
+				"gid" "2613510165549400531"
+				"size" "196679148"
+				"download" "185840432"
+			}
+			"open_beta"
+			{
+				"gid" "2613510165549400531"
+				"size" "196679148"
+				"download" "185840432"
+			}
+			"1.14.10"
+			{
+				"gid" "2613510165549400531"
+				"size" "196679148"
+				"download" "185840432"
+			}
+			"1.14.5"
+			{
+				"gid" "2613510165549400531"
+				"size" "196679148"
+				"download" "185840432"
+			}
+			"1.15.3"
+			{
+				"gid" "2613510165549400531"
+				"size" "196679148"
+				"download" "185840432"
+			}
+		}
+	}
+	"530760"
+	{
+		"dlcappid" "530760"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7737702241375883740"
+				"size" "0"
+				"download" "0"
+			}
+			"1.10.5"
+			{
+				"gid" "4666195672843289251"
+				"size" "120816992"
+				"download" "121776928"
+			}
+			"1.10.8"
+			{
+				"gid" "4666195672843289251"
+				"size" "120816992"
+				"download" "121776928"
+			}
+			"1.11.13"
+			{
+				"gid" "4151678125173159881"
+				"size" "153478604"
+				"download" "112968480"
+			}
+			"1.12.14"
+			{
+				"gid" "2773012737118546958"
+				"size" "153478601"
+				"download" "112968480"
+			}
+			"1.13.7"
+			{
+				"gid" "2319133111069509609"
+				"size" "153079718"
+				"download" "112867024"
+			}
+			"1.14.3"
+			{
+				"gid" "2319133111069509609"
+				"size" "153079718"
+				"download" "112867024"
+			}
+			"1.5.4"
+			{
+				"gid" "878719445279793654"
+				"size" "120638434"
+				"download" "121598224"
+			}
+			"1.6.2"
+			{
+				"gid" "2604625793559971898"
+				"size" "120638510"
+				"download" "121587344"
+			}
+			"1.7.1"
+			{
+				"gid" "9176533811012120331"
+				"size" "120638525"
+				"download" "121587408"
+			}
+			"1.8.2"
+			{
+				"gid" "1023064093605731792"
+				"size" "120727847"
+				"download" "121677264"
+			}
+			"1.9.x"
+			{
+				"gid" "4666195672843289251"
+				"size" "120816992"
+				"download" "121776928"
+			}
+			"open_beta"
+			{
+				"gid" "7737702241375883740"
+				"size" "0"
+				"download" "0"
+			}
+			"1.14.10"
+			{
+				"gid" "7737702241375883740"
+				"size" "0"
+				"download" "0"
+			}
+			"1.14.5"
+			{
+				"gid" "7737702241375883740"
+				"size" "0"
+				"download" "0"
+			}
+			"1.15.3"
+			{
+				"gid" "7737702241375883740"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"584140"
+	{
+		"dlcappid" "584140"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5338798216403972785"
+				"size" "0"
+				"download" "0"
+			}
+			"1.10.5"
+			{
+				"gid" "21596004957648536"
+				"size" "60028308"
+				"download" "60447840"
+			}
+			"1.10.8"
+			{
+				"gid" "21596004957648536"
+				"size" "60028308"
+				"download" "60447840"
+			}
+			"1.11.13"
+			{
+				"gid" "6146856851951848955"
+				"size" "82300363"
+				"download" "55549120"
+			}
+			"1.12.14"
+			{
+				"gid" "6146856851951848955"
+				"size" "82300363"
+				"download" "55549120"
+			}
+			"1.13.7"
+			{
+				"gid" "4390775195350523344"
+				"size" "82067066"
+				"download" "55493376"
+			}
+			"1.14.3"
+			{
+				"gid" "4390775195350523344"
+				"size" "82067066"
+				"download" "55493376"
+			}
+			"1.5.4"
+			{
+				"gid" "7269357683568990645"
+				"size" "59220733"
+				"download" "59587056"
+			}
+			"1.6.2"
+			{
+				"gid" "4728014263875854769"
+				"size" "59220762"
+				"download" "59589616"
+			}
+			"1.7.1"
+			{
+				"gid" "1735239810586604434"
+				"size" "59211152"
+				"download" "59580656"
+			}
+			"1.8.2"
+			{
+				"gid" "6607831827741077790"
+				"size" "59301587"
+				"download" "59671632"
+			}
+			"1.9.x"
+			{
+				"gid" "2001928201506800688"
+				"size" "59391916"
+				"download" "59762768"
+			}
+			"open_beta"
+			{
+				"gid" "5338798216403972785"
+				"size" "0"
+				"download" "0"
+			}
+			"1.14.10"
+			{
+				"gid" "5338798216403972785"
+				"size" "0"
+				"download" "0"
+			}
+			"1.14.5"
+			{
+				"gid" "5338798216403972785"
+				"size" "0"
+				"download" "0"
+			}
+			"1.15.3"
+			{
+				"gid" "5338798216403972785"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"584141"
+	{
+		"dlcappid" "584141"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9091240418552537754"
+				"size" "98937017"
+				"download" "99116544"
+			}
+			"1.10.5"
+			{
+				"gid" "3225429236292870331"
+				"size" "98728739"
+				"download" "99613488"
+			}
+			"1.10.8"
+			{
+				"gid" "3225429236292870331"
+				"size" "98728739"
+				"download" "99613488"
+			}
+			"1.11.13"
+			{
+				"gid" "9091240418552537754"
+				"size" "98937017"
+				"download" "99116544"
+			}
+			"1.12.14"
+			{
+				"gid" "9091240418552537754"
+				"size" "98937017"
+				"download" "99116544"
+			}
+			"1.13.7"
+			{
+				"gid" "9091240418552537754"
+				"size" "98937017"
+				"download" "99116544"
+			}
+			"1.14.3"
+			{
+				"gid" "9091240418552537754"
+				"size" "98937017"
+				"download" "99116544"
+			}
+			"1.5.4"
+			{
+				"gid" "6247762653745102789"
+				"size" "98386475"
+				"download" "99270272"
+			}
+			"1.6.2"
+			{
+				"gid" "4519944765546738916"
+				"size" "98386475"
+				"download" "99270192"
+			}
+			"1.7.1"
+			{
+				"gid" "7319618513852617883"
+				"size" "98546731"
+				"download" "99429968"
+			}
+			"1.8.2"
+			{
+				"gid" "2684008323933883870"
+				"size" "98637792"
+				"download" "99521568"
+			}
+			"1.9.x"
+			{
+				"gid" "3225429236292870331"
+				"size" "98728739"
+				"download" "99613488"
+			}
+			"open_beta"
+			{
+				"gid" "9091240418552537754"
+				"size" "98937017"
+				"download" "99116544"
+			}
+			"1.14.10"
+			{
+				"gid" "9091240418552537754"
+				"size" "98937017"
+				"download" "99116544"
+			}
+			"1.14.5"
+			{
+				"gid" "9091240418552537754"
+				"size" "98937017"
+				"download" "99116544"
+			}
+			"1.15.3"
+			{
+				"gid" "9091240418552537754"
+				"size" "98937017"
+				"download" "99116544"
+			}
+		}
+	}
+	"642010"
+	{
+		"dlcappid" "642010"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9068600408283108179"
+				"size" "22811435"
+				"download" "14368464"
+			}
+			"1.10.5"
+			{
+				"gid" "4058834590354517728"
+				"size" "17447056"
+				"download" "17395584"
+			}
+			"1.10.8"
+			{
+				"gid" "4058834590354517728"
+				"size" "17447056"
+				"download" "17395584"
+			}
+			"1.11.13"
+			{
+				"gid" "927953413259923245"
+				"size" "22811497"
+				"download" "14368480"
+			}
+			"1.12.14"
+			{
+				"gid" "927953413259923245"
+				"size" "22811497"
+				"download" "14368480"
+			}
+			"1.13.7"
+			{
+				"gid" "9068600408283108179"
+				"size" "22811435"
+				"download" "14368464"
+			}
+			"1.14.3"
+			{
+				"gid" "9068600408283108179"
+				"size" "22811435"
+				"download" "14368464"
+			}
+			"1.5.4"
+			{
+				"gid" "5997331913201894273"
+				"size" "17251300"
+				"download" "17196352"
+			}
+			"1.6.2"
+			{
+				"gid" "5927169193336674493"
+				"size" "17251321"
+				"download" "17198112"
+			}
+			"1.7.1"
+			{
+				"gid" "5927169193336674493"
+				"size" "17251321"
+				"download" "17198112"
+			}
+			"1.8.2"
+			{
+				"gid" "3377010741764062397"
+				"size" "17349249"
+				"download" "17296512"
+			}
+			"1.9.x"
+			{
+				"gid" "4058834590354517728"
+				"size" "17447056"
+				"download" "17395584"
+			}
+			"open_beta"
+			{
+				"gid" "9068600408283108179"
+				"size" "22811435"
+				"download" "14368464"
+			}
+			"1.14.10"
+			{
+				"gid" "9068600408283108179"
+				"size" "22811435"
+				"download" "14368464"
+			}
+			"1.14.5"
+			{
+				"gid" "9068600408283108179"
+				"size" "22811435"
+				"download" "14368464"
+			}
+			"1.15.3"
+			{
+				"gid" "9068600408283108179"
+				"size" "22811435"
+				"download" "14368464"
+			}
+		}
+	}
+	"702350"
+	{
+		"dlcappid" "702350"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7446681591222407330"
+				"size" "0"
+				"download" "0"
+			}
+			"1.10.5"
+			{
+				"gid" "6172324351752526092"
+				"size" "242947685"
+				"download" "245339456"
+			}
+			"1.10.8"
+			{
+				"gid" "6172324351752526092"
+				"size" "242947685"
+				"download" "245339456"
+			}
+			"1.11.13"
+			{
+				"gid" "7584667839114966039"
+				"size" "240811670"
+				"download" "174619296"
+			}
+			"1.12.14"
+			{
+				"gid" "3972822999803528123"
+				"size" "240846766"
+				"download" "174633696"
+			}
+			"1.13.7"
+			{
+				"gid" "6993203599097377666"
+				"size" "240831013"
+				"download" "174628016"
+			}
+			"1.14.3"
+			{
+				"gid" "6993203599097377666"
+				"size" "240831013"
+				"download" "174628016"
+			}
+			"1.5.4"
+			{
+				"gid" "2974963936093074161"
+				"size" "240444362"
+				"download" "242728912"
+			}
+			"1.6.2"
+			{
+				"gid" "5004245642906749470"
+				"size" "240492751"
+				"download" "242777456"
+			}
+			"1.7.1"
+			{
+				"gid" "2361466826863578425"
+				"size" "240492764"
+				"download" "242775024"
+			}
+			"1.8.2"
+			{
+				"gid" "8138787596021868536"
+				"size" "240582240"
+				"download" "242865008"
+			}
+			"1.9.x"
+			{
+				"gid" "348477482888630819"
+				"size" "240671598"
+				"download" "242957584"
+			}
+			"open_beta"
+			{
+				"gid" "7446681591222407330"
+				"size" "0"
+				"download" "0"
+			}
+			"1.14.10"
+			{
+				"gid" "7446681591222407330"
+				"size" "0"
+				"download" "0"
+			}
+			"1.14.5"
+			{
+				"gid" "7446681591222407330"
+				"size" "0"
+				"download" "0"
+			}
+			"1.15.3"
+			{
+				"gid" "7446681591222407330"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"815460"
+	{
+		"dlcappid" "815460"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "410391405777344444"
+				"size" "128887642"
+				"download" "77093408"
+			}
+			"1.10.5"
+			{
+				"gid" "1534839024001374598"
+				"size" "86274347"
+				"download" "86575952"
+			}
+			"1.10.8"
+			{
+				"gid" "2043546293988065096"
+				"size" "87762853"
+				"download" "88037840"
+			}
+			"1.11.13"
+			{
+				"gid" "7699563622728554659"
+				"size" "129057135"
+				"download" "77152272"
+			}
+			"1.12.14"
+			{
+				"gid" "1197682073298698650"
+				"size" "129057135"
+				"download" "77152272"
+			}
+			"1.13.7"
+			{
+				"gid" "786039548709530087"
+				"size" "128875221"
+				"download" "77095728"
+			}
+			"1.14.3"
+			{
+				"gid" "786039548709530087"
+				"size" "128875221"
+				"download" "77095728"
+			}
+			"1.6.2"
+			{
+				"gid" "1336704174588970584"
+				"size" "86088192"
+				"download" "86388256"
+			}
+			"1.7.1"
+			{
+				"gid" "2809861705675699913"
+				"size" "86089045"
+				"download" "86386112"
+			}
+			"1.8.2"
+			{
+				"gid" "1938160942847367734"
+				"size" "86181770"
+				"download" "86479408"
+			}
+			"1.9.x"
+			{
+				"gid" "1534839024001374598"
+				"size" "86274347"
+				"download" "86575952"
+			}
+			"open_beta"
+			{
+				"gid" "786039548709530087"
+				"size" "128875221"
+				"download" "77095728"
+			}
+			"1.14.10"
+			{
+				"gid" "786039548709530087"
+				"size" "128875221"
+				"download" "77095728"
+			}
+			"1.14.5"
+			{
+				"gid" "786039548709530087"
+				"size" "128875221"
+				"download" "77095728"
+			}
+			"1.15.3"
+			{
+				"gid" "2618500187674458983"
+				"size" "128887509"
+				"download" "77093408"
+			}
+		}
+	}
+	"1032150"
+	{
+		"dlcappid" "1032150"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6946175976150883270"
+				"size" "26640783"
+				"download" "26933920"
+			}
+			"1.10.5"
+			{
+				"gid" "6946175976150883270"
+				"size" "26640783"
+				"download" "26933920"
+			}
+			"1.10.8"
+			{
+				"gid" "6946175976150883270"
+				"size" "26640783"
+				"download" "26933920"
+			}
+			"1.11.13"
+			{
+				"gid" "6946175976150883270"
+				"size" "26640783"
+				"download" "26933920"
+			}
+			"1.12.14"
+			{
+				"gid" "6946175976150883270"
+				"size" "26640783"
+				"download" "26933920"
+			}
+			"1.13.7"
+			{
+				"gid" "6946175976150883270"
+				"size" "26640783"
+				"download" "26933920"
+			}
+			"1.14.3"
+			{
+				"gid" "6946175976150883270"
+				"size" "26640783"
+				"download" "26933920"
+			}
+			"1.6.2"
+			{
+				"gid" "6946175976150883270"
+				"size" "26640783"
+				"download" "26933920"
+			}
+			"1.7.1"
+			{
+				"gid" "6946175976150883270"
+				"size" "26640783"
+				"download" "26933920"
+			}
+			"1.8.2"
+			{
+				"gid" "6946175976150883270"
+				"size" "26640783"
+				"download" "26933920"
+			}
+			"1.9.x"
+			{
+				"gid" "6946175976150883270"
+				"size" "26640783"
+				"download" "26933920"
+			}
+			"open_beta"
+			{
+				"gid" "6946175976150883270"
+				"size" "26640783"
+				"download" "26933920"
+			}
+			"1.14.10"
+			{
+				"gid" "6946175976150883270"
+				"size" "26640783"
+				"download" "26933920"
+			}
+			"1.14.5"
+			{
+				"gid" "6946175976150883270"
+				"size" "26640783"
+				"download" "26933920"
+			}
+			"1.15.3"
+			{
+				"gid" "6946175976150883270"
+				"size" "26640783"
+				"download" "26933920"
+			}
+		}
+	}
+	"1086480"
+	{
+		"dlcappid" "1086480"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3607192483593308146"
+				"size" "79885148"
+				"download" "45067168"
+			}
+			"1.10.5"
+			{
+				"gid" "5099610364563000466"
+				"size" "52025669"
+				"download" "52252048"
+			}
+			"1.10.8"
+			{
+				"gid" "5099610364563000466"
+				"size" "52025669"
+				"download" "52252048"
+			}
+			"1.11.13"
+			{
+				"gid" "5891841610446368599"
+				"size" "79877732"
+				"download" "45065440"
+			}
+			"1.12.14"
+			{
+				"gid" "2290989421285857490"
+				"size" "79880295"
+				"download" "45066112"
+			}
+			"1.13.7"
+			{
+				"gid" "5022799520907360167"
+				"size" "79883054"
+				"download" "45066816"
+			}
+			"1.14.3"
+			{
+				"gid" "5022799520907360167"
+				"size" "79883054"
+				"download" "45066816"
+			}
+			"1.7.1"
+			{
+				"gid" "2394615482189632399"
+				"size" "51913645"
+				"download" "52138992"
+			}
+			"1.8.2"
+			{
+				"gid" "6051418730695007472"
+				"size" "51969723"
+				"download" "52195280"
+			}
+			"1.9.x"
+			{
+				"gid" "5099610364563000466"
+				"size" "52025669"
+				"download" "52252048"
+			}
+			"open_beta"
+			{
+				"gid" "5022799520907360167"
+				"size" "79883054"
+				"download" "45066816"
+			}
+			"1.14.10"
+			{
+				"gid" "6823815108453940090"
+				"size" "79883096"
+				"download" "45066816"
+			}
+			"1.14.5"
+			{
+				"gid" "5022799520907360167"
+				"size" "79883054"
+				"download" "45066816"
+			}
+			"1.15.3"
+			{
+				"gid" "6823815108453940090"
+				"size" "79883096"
+				"download" "45066816"
+			}
+		}
+	}
+	"1086481"
+	{
+		"dlcappid" "1086481"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2976309070803699085"
+				"size" "224801283"
+				"download" "223359696"
+			}
+			"1.10.5"
+			{
+				"gid" "5695660782649352534"
+				"size" "223042832"
+				"download" "225353728"
+			}
+			"1.10.8"
+			{
+				"gid" "5695660782649352534"
+				"size" "223042832"
+				"download" "225353728"
+			}
+			"1.11.13"
+			{
+				"gid" "2976309070803699085"
+				"size" "224801283"
+				"download" "223359696"
+			}
+			"1.12.14"
+			{
+				"gid" "2976309070803699085"
+				"size" "224801283"
+				"download" "223359696"
+			}
+			"1.13.7"
+			{
+				"gid" "2976309070803699085"
+				"size" "224801283"
+				"download" "223359696"
+			}
+			"1.14.3"
+			{
+				"gid" "2976309070803699085"
+				"size" "224801283"
+				"download" "223359696"
+			}
+			"1.7.1"
+			{
+				"gid" "4479408534741374494"
+				"size" "222851915"
+				"download" "225161520"
+			}
+			"1.8.2"
+			{
+				"gid" "3157370839208103350"
+				"size" "222947427"
+				"download" "225257520"
+			}
+			"1.9.x"
+			{
+				"gid" "5695660782649352534"
+				"size" "223042832"
+				"download" "225353728"
+			}
+			"open_beta"
+			{
+				"gid" "2976309070803699085"
+				"size" "224801283"
+				"download" "223359696"
+			}
+			"1.14.10"
+			{
+				"gid" "2976309070803699085"
+				"size" "224801283"
+				"download" "223359696"
+			}
+			"1.14.5"
+			{
+				"gid" "2976309070803699085"
+				"size" "224801283"
+				"download" "223359696"
+			}
+			"1.15.3"
+			{
+				"gid" "2976309070803699085"
+				"size" "224801283"
+				"download" "223359696"
+			}
+		}
+	}
+	"1158100"
+	{
+		"dlcappid" "1158100"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5440102712983193215"
+				"size" "133999186"
+				"download" "81278000"
+			}
+			"1.10.5"
+			{
+				"gid" "4094612458324750915"
+				"size" "79780413"
+				"download" "80083360"
+			}
+			"1.10.8"
+			{
+				"gid" "7442537801533451387"
+				"size" "88167274"
+				"download" "88157248"
+			}
+			"1.11.13"
+			{
+				"gid" "2255009457523215198"
+				"size" "127243327"
+				"download" "78872336"
+			}
+			"1.12.14"
+			{
+				"gid" "229581627228788135"
+				"size" "129007882"
+				"download" "79518976"
+			}
+			"1.13.7"
+			{
+				"gid" "7277721503560601075"
+				"size" "129928634"
+				"download" "79831968"
+			}
+			"1.14.3"
+			{
+				"gid" "2178891329183947814"
+				"size" "131898318"
+				"download" "80520208"
+			}
+			"1.9.x"
+			{
+				"gid" "4094612458324750915"
+				"size" "79780413"
+				"download" "80083360"
+			}
+			"open_beta"
+			{
+				"gid" "2178891329183947814"
+				"size" "131898318"
+				"download" "80520208"
+			}
+			"1.14.10"
+			{
+				"gid" "2178891329183947814"
+				"size" "131898318"
+				"download" "80520208"
+			}
+			"1.14.5"
+			{
+				"gid" "2178891329183947814"
+				"size" "131898318"
+				"download" "80520208"
+			}
+			"1.15.3"
+			{
+				"gid" "5440102712983193215"
+				"size" "133999186"
+				"download" "81278000"
+			}
+		}
+	}
+	"1206030"
+	{
+		"dlcappid" "1206030"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1987662999103413623"
+				"size" "47767666"
+				"download" "47924368"
+			}
+			"1.10.5"
+			{
+				"gid" "9180850110745184435"
+				"size" "47812497"
+				"download" "48107168"
+			}
+			"1.10.8"
+			{
+				"gid" "9180850110745184435"
+				"size" "47812497"
+				"download" "48107168"
+			}
+			"1.11.13"
+			{
+				"gid" "1987662999103413623"
+				"size" "47767666"
+				"download" "47924368"
+			}
+			"1.12.14"
+			{
+				"gid" "1987662999103413623"
+				"size" "47767666"
+				"download" "47924368"
+			}
+			"1.13.7"
+			{
+				"gid" "1987662999103413623"
+				"size" "47767666"
+				"download" "47924368"
+			}
+			"1.14.3"
+			{
+				"gid" "1987662999103413623"
+				"size" "47767666"
+				"download" "47924368"
+			}
+			"1.9.x"
+			{
+				"gid" "9180850110745184435"
+				"size" "47812497"
+				"download" "48107168"
+			}
+			"open_beta"
+			{
+				"gid" "1987662999103413623"
+				"size" "47767666"
+				"download" "47924368"
+			}
+			"1.14.10"
+			{
+				"gid" "1987662999103413623"
+				"size" "47767666"
+				"download" "47924368"
+			}
+			"1.14.5"
+			{
+				"gid" "1987662999103413623"
+				"size" "47767666"
+				"download" "47924368"
+			}
+			"1.15.3"
+			{
+				"gid" "1987662999103413623"
+				"size" "47767666"
+				"download" "47924368"
+			}
+		}
+	}
+	"1317230"
+	{
+		"dlcappid" "1317230"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6425920729490125353"
+				"size" "75313755"
+				"download" "40998160"
+			}
+			"1.10.5"
+			{
+				"gid" "4180898429097471787"
+				"size" "43343146"
+				"download" "43536288"
+			}
+			"1.10.8"
+			{
+				"gid" "4180898429097471787"
+				"size" "43343146"
+				"download" "43536288"
+			}
+			"1.11.13"
+			{
+				"gid" "4965716728827830647"
+				"size" "75300200"
+				"download" "40999344"
+			}
+			"1.12.14"
+			{
+				"gid" "8100982128069658698"
+				"size" "75300889"
+				"download" "40999712"
+			}
+			"1.13.7"
+			{
+				"gid" "4960870817994719940"
+				"size" "75322512"
+				"download" "40997872"
+			}
+			"1.14.3"
+			{
+				"gid" "4960870817994719940"
+				"size" "75322512"
+				"download" "40997872"
+			}
+			"1.9.x"
+			{
+				"gid" "4180898429097471787"
+				"size" "43343146"
+				"download" "43536288"
+			}
+			"open_beta"
+			{
+				"gid" "4960870817994719940"
+				"size" "75322512"
+				"download" "40997872"
+			}
+			"1.14.10"
+			{
+				"gid" "4960870817994719940"
+				"size" "75322512"
+				"download" "40997872"
+			}
+			"1.14.5"
+			{
+				"gid" "4960870817994719940"
+				"size" "75322512"
+				"download" "40997872"
+			}
+			"1.15.3"
+			{
+				"gid" "1532322212133859273"
+				"size" "75322512"
+				"download" "40997872"
+			}
+		}
+	}
+	"1317250"
+	{
+		"dlcappid" "1317250"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7288185317835895146"
+				"size" "201644929"
+				"download" "202171616"
+			}
+			"1.10.5"
+			{
+				"gid" "1244644554637336354"
+				"size" "201494325"
+				"download" "204092096"
+			}
+			"1.10.8"
+			{
+				"gid" "1244644554637336354"
+				"size" "201494325"
+				"download" "204092096"
+			}
+			"1.11.13"
+			{
+				"gid" "7288185317835895146"
+				"size" "201644929"
+				"download" "202171616"
+			}
+			"1.12.14"
+			{
+				"gid" "7288185317835895146"
+				"size" "201644929"
+				"download" "202171616"
+			}
+			"1.13.7"
+			{
+				"gid" "7288185317835895146"
+				"size" "201644929"
+				"download" "202171616"
+			}
+			"1.14.3"
+			{
+				"gid" "7288185317835895146"
+				"size" "201644929"
+				"download" "202171616"
+			}
+			"1.9.x"
+			{
+				"gid" "1244644554637336354"
+				"size" "201494325"
+				"download" "204092096"
+			}
+			"open_beta"
+			{
+				"gid" "7288185317835895146"
+				"size" "201644929"
+				"download" "202171616"
+			}
+			"1.14.10"
+			{
+				"gid" "7288185317835895146"
+				"size" "201644929"
+				"download" "202171616"
+			}
+			"1.14.5"
+			{
+				"gid" "7288185317835895146"
+				"size" "201644929"
+				"download" "202171616"
+			}
+			"1.15.3"
+			{
+				"gid" "7288185317835895146"
+				"size" "201644929"
+				"download" "202171616"
+			}
+		}
+	}
+	"1348661"
+	{
+		"dlcappid" "1348661"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4914149560107160285"
+				"size" "402997973"
+				"download" "279569792"
+			}
+			"1.11.13"
+			{
+				"gid" "652439425334072249"
+				"size" "403739157"
+				"download" "279853264"
+			}
+			"1.12.14"
+			{
+				"gid" "652439425334072249"
+				"size" "403739157"
+				"download" "279853264"
+			}
+			"1.13.7"
+			{
+				"gid" "652439425334072249"
+				"size" "403739157"
+				"download" "279853264"
+			}
+			"1.14.3"
+			{
+				"gid" "652439425334072249"
+				"size" "403739157"
+				"download" "279853264"
+			}
+			"open_beta"
+			{
+				"gid" "652439425334072249"
+				"size" "403739157"
+				"download" "279853264"
+			}
+			"1.14.10"
+			{
+				"gid" "652439425334072249"
+				"size" "403739157"
+				"download" "279853264"
+			}
+			"1.14.5"
+			{
+				"gid" "652439425334072249"
+				"size" "403739157"
+				"download" "279853264"
+			}
+			"1.15.3"
+			{
+				"gid" "4914149560107160285"
+				"size" "402997973"
+				"download" "279569792"
+			}
+		}
+	}
+	"1348660"
+	{
+		"dlcappid" "1348660"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6509297046587316394"
+				"size" "167124228"
+				"download" "90925184"
+			}
+			"1.10.5"
+			{
+				"gid" "5944426649265866778"
+				"size" "123942754"
+				"download" "116693168"
+			}
+			"1.10.8"
+			{
+				"gid" "4458648066039003702"
+				"size" "124889023"
+				"download" "117665552"
+			}
+			"1.11.13"
+			{
+				"gid" "5260992841349830628"
+				"size" "166681131"
+				"download" "90766704"
+			}
+			"1.12.14"
+			{
+				"gid" "292671133155573426"
+				"size" "166681126"
+				"download" "90766608"
+			}
+			"1.13.7"
+			{
+				"gid" "3550101128291945916"
+				"size" "166712712"
+				"download" "90766640"
+			}
+			"1.14.3"
+			{
+				"gid" "3550101128291945916"
+				"size" "166712712"
+				"download" "90766640"
+			}
+			"1.9.x"
+			{
+				"gid" "5944426649265866778"
+				"size" "123942754"
+				"download" "116693168"
+			}
+			"open_beta"
+			{
+				"gid" "8665445613802732805"
+				"size" "166712586"
+				"download" "90766624"
+			}
+			"1.14.10"
+			{
+				"gid" "8665445613802732805"
+				"size" "166712586"
+				"download" "90766624"
+			}
+			"1.14.5"
+			{
+				"gid" "8665445613802732805"
+				"size" "166712586"
+				"download" "90766624"
+			}
+			"1.15.3"
+			{
+				"gid" "6509297046587316394"
+				"size" "167124228"
+				"download" "90925184"
+			}
+		}
+	}
+	"1579991"
+	{
+		"dlcappid" "1579991"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4853703491766354163"
+				"size" "324379325"
+				"download" "239682240"
+			}
+			"1.10.8"
+			{
+				"gid" "5094391270543953382"
+				"size" "278874713"
+				"download" "273268528"
+			}
+			"1.11.13"
+			{
+				"gid" "8824812400118739983"
+				"size" "324355242"
+				"download" "239681152"
+			}
+			"1.12.14"
+			{
+				"gid" "1917307567181179388"
+				"size" "324363771"
+				"download" "239681952"
+			}
+			"1.13.7"
+			{
+				"gid" "4853703491766354163"
+				"size" "324379325"
+				"download" "239682240"
+			}
+			"1.14.3"
+			{
+				"gid" "4853703491766354163"
+				"size" "324379325"
+				"download" "239682240"
+			}
+			"open_beta"
+			{
+				"gid" "4853703491766354163"
+				"size" "324379325"
+				"download" "239682240"
+			}
+			"1.14.10"
+			{
+				"gid" "4853703491766354163"
+				"size" "324379325"
+				"download" "239682240"
+			}
+			"1.14.5"
+			{
+				"gid" "4853703491766354163"
+				"size" "324379325"
+				"download" "239682240"
+			}
+			"1.15.3"
+			{
+				"gid" "4853703491766354163"
+				"size" "324379325"
+				"download" "239682240"
+			}
+		}
+	}
+	"1579992"
+	{
+		"dlcappid" "1579992"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3899943207732974810"
+				"size" "141008752"
+				"download" "141304736"
+			}
+			"1.10.8"
+			{
+				"gid" "8817638853828702364"
+				"size" "140595960"
+				"download" "142416384"
+			}
+			"1.11.13"
+			{
+				"gid" "3899943207732974810"
+				"size" "141008752"
+				"download" "141304736"
+			}
+			"1.12.14"
+			{
+				"gid" "3899943207732974810"
+				"size" "141008752"
+				"download" "141304736"
+			}
+			"1.13.7"
+			{
+				"gid" "3899943207732974810"
+				"size" "141008752"
+				"download" "141304736"
+			}
+			"1.14.3"
+			{
+				"gid" "3899943207732974810"
+				"size" "141008752"
+				"download" "141304736"
+			}
+			"open_beta"
+			{
+				"gid" "3899943207732974810"
+				"size" "141008752"
+				"download" "141304736"
+			}
+			"1.14.10"
+			{
+				"gid" "3899943207732974810"
+				"size" "141008752"
+				"download" "141304736"
+			}
+			"1.14.5"
+			{
+				"gid" "3899943207732974810"
+				"size" "141008752"
+				"download" "141304736"
+			}
+			"1.15.3"
+			{
+				"gid" "3899943207732974810"
+				"size" "141008752"
+				"download" "141304736"
+			}
+		}
+	}
+	"1785140"
+	{
+		"dlcappid" "1785140"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6522478170353755615"
+				"size" "9796862"
+				"download" "9815200"
+			}
+			"1.11.13"
+			{
+				"gid" "6522478170353755615"
+				"size" "9796862"
+				"download" "9815200"
+			}
+			"1.12.14"
+			{
+				"gid" "6522478170353755615"
+				"size" "9796862"
+				"download" "9815200"
+			}
+			"1.13.7"
+			{
+				"gid" "6522478170353755615"
+				"size" "9796862"
+				"download" "9815200"
+			}
+			"1.14.3"
+			{
+				"gid" "6522478170353755615"
+				"size" "9796862"
+				"download" "9815200"
+			}
+			"open_beta"
+			{
+				"gid" "6522478170353755615"
+				"size" "9796862"
+				"download" "9815200"
+			}
+			"1.14.10"
+			{
+				"gid" "6522478170353755615"
+				"size" "9796862"
+				"download" "9815200"
+			}
+			"1.14.5"
+			{
+				"gid" "6522478170353755615"
+				"size" "9796862"
+				"download" "9815200"
+			}
+			"1.15.3"
+			{
+				"gid" "6522478170353755615"
+				"size" "9796862"
+				"download" "9815200"
+			}
+		}
+	}
+	"1880650"
+	{
+		"dlcappid" "1880650"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2881652224025065782"
+				"size" "275186518"
+				"download" "172129120"
+			}
+			"1.12.14"
+			{
+				"gid" "7403801109932988770"
+				"size" "275139068"
+				"download" "172101040"
+			}
+			"1.13.7"
+			{
+				"gid" "6224180542659168393"
+				"size" "275484351"
+				"download" "172226512"
+			}
+			"1.14.3"
+			{
+				"gid" "2050844080156943750"
+				"size" "275484511"
+				"download" "172228432"
+			}
+			"open_beta"
+			{
+				"gid" "2050844080156943750"
+				"size" "275484511"
+				"download" "172228432"
+			}
+			"1.14.10"
+			{
+				"gid" "2050844080156943750"
+				"size" "275484511"
+				"download" "172228432"
+			}
+			"1.14.5"
+			{
+				"gid" "2050844080156943750"
+				"size" "275484511"
+				"download" "172228432"
+			}
+			"1.15.3"
+			{
+				"gid" "2881652224025065782"
+				"size" "275186518"
+				"download" "172129120"
+			}
+		}
+	}
+	"1880660"
+	{
+		"dlcappid" "1880660"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4988491499032973356"
+				"size" "10086753"
+				"download" "10098832"
+			}
+			"1.12.14"
+			{
+				"gid" "700152585092051426"
+				"size" "10086753"
+				"download" "10098832"
+			}
+			"1.13.7"
+			{
+				"gid" "700152585092051426"
+				"size" "10086753"
+				"download" "10098832"
+			}
+			"1.14.3"
+			{
+				"gid" "700152585092051426"
+				"size" "10086753"
+				"download" "10098832"
+			}
+			"open_beta"
+			{
+				"gid" "700152585092051426"
+				"size" "10086753"
+				"download" "10098832"
+			}
+			"1.14.10"
+			{
+				"gid" "700152585092051426"
+				"size" "10086753"
+				"download" "10098832"
+			}
+			"1.14.5"
+			{
+				"gid" "700152585092051426"
+				"size" "10086753"
+				"download" "10098832"
+			}
+			"1.15.3"
+			{
+				"gid" "4988491499032973356"
+				"size" "10086753"
+				"download" "10098832"
+			}
+		}
+	}
+	"2183930"
+	{
+		"dlcappid" "2183930"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4192730313780314309"
+				"size" "279191346"
+				"download" "196141040"
+			}
+			"1.12.14"
+			{
+				"gid" "4390429526039501544"
+				"size" "276401286"
+				"download" "195176512"
+			}
+			"1.13.7"
+			{
+				"gid" "1569917909992977253"
+				"size" "278100734"
+				"download" "195645136"
+			}
+			"1.14.3"
+			{
+				"gid" "1569917909992977253"
+				"size" "278100734"
+				"download" "195645136"
+			}
+			"open_beta"
+			{
+				"gid" "559287323635879450"
+				"size" "278100734"
+				"download" "195645056"
+			}
+			"1.14.10"
+			{
+				"gid" "7443439779424050564"
+				"size" "278101046"
+				"download" "195645088"
+			}
+			"1.14.5"
+			{
+				"gid" "559287323635879450"
+				"size" "278100734"
+				"download" "195645056"
+			}
+			"1.15.3"
+			{
+				"gid" "4192730313780314309"
+				"size" "279191346"
+				"download" "196141040"
+			}
+		}
+	}
+	"2280250"
+	{
+		"dlcappid" "2280250"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7444547289093685424"
+				"size" "2632068"
+				"download" "2617328"
+			}
+			"1.12.14"
+			{
+				"gid" "6450241386641283338"
+				"size" "2632068"
+				"download" "2617328"
+			}
+			"1.13.7"
+			{
+				"gid" "4018940521704089063"
+				"size" "2632068"
+				"download" "2617328"
+			}
+			"1.14.3"
+			{
+				"gid" "4018940521704089063"
+				"size" "2632068"
+				"download" "2617328"
+			}
+			"open_beta"
+			{
+				"gid" "4018940521704089063"
+				"size" "2632068"
+				"download" "2617328"
+			}
+			"1.14.10"
+			{
+				"gid" "4018940521704089063"
+				"size" "2632068"
+				"download" "2617328"
+			}
+			"1.14.5"
+			{
+				"gid" "4018940521704089063"
+				"size" "2632068"
+				"download" "2617328"
+			}
+			"1.15.3"
+			{
+				"gid" "7444547289093685424"
+				"size" "2632068"
+				"download" "2617328"
+			}
+		}
+	}
+	"2695150"
+	{
+		"dlcappid" "2695150"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "760253061485977093"
+				"size" "178769241"
+				"download" "105846112"
+			}
+			"1.14.3"
+			{
+				"gid" "760253061485977093"
+				"size" "178769241"
+				"download" "105846112"
+			}
+			"open_beta"
+			{
+				"gid" "760253061485977093"
+				"size" "178769241"
+				"download" "105846112"
+			}
+			"1.14.10"
+			{
+				"gid" "760253061485977093"
+				"size" "178769241"
+				"download" "105846112"
+			}
+			"1.14.5"
+			{
+				"gid" "760253061485977093"
+				"size" "178769241"
+				"download" "105846112"
+			}
+			"1.15.3"
+			{
+				"gid" "760253061485977093"
+				"size" "178769241"
+				"download" "105846112"
+			}
+		}
+	}
+	"2786480"
+	{
+		"dlcappid" "2786480"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8313682920677057791"
+				"size" "3853476"
+				"download" "3832336"
+			}
+			"1.14.3"
+			{
+				"gid" "1223655233042187759"
+				"size" "3853476"
+				"download" "3832336"
+			}
+			"open_beta"
+			{
+				"gid" "1223655233042187759"
+				"size" "3853476"
+				"download" "3832336"
+			}
+			"1.14.10"
+			{
+				"gid" "1223655233042187759"
+				"size" "3853476"
+				"download" "3832336"
+			}
+			"1.14.5"
+			{
+				"gid" "1223655233042187759"
+				"size" "3853476"
+				"download" "3832336"
+			}
+			"1.15.3"
+			{
+				"gid" "8313682920677057791"
+				"size" "3853476"
+				"download" "3832336"
+			}
+		}
+	}
+	"2981720"
+	{
+		"dlcappid" "2981720"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8350764759760957135"
+				"size" "12747540"
+				"download" "3831712"
+			}
+			"1.14.10"
+			{
+				"gid" "8350764759760957135"
+				"size" "12747540"
+				"download" "3831712"
+			}
+			"1.15.3"
+			{
+				"gid" "8350764759760957135"
+				"size" "12747540"
+				"download" "3831712"
+			}
+		}
+	}
+	"3152820"
+	{
+		"dlcappid" "3152820"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1596881281335130695"
+				"size" "4197319"
+				"download" "2139904"
+			}
+			"1.14.10"
+			{
+				"gid" "53811942839000020"
+				"size" "4197197"
+				"download" "2139792"
+			}
+			"1.15.3"
+			{
+				"gid" "4535279330163558530"
+				"size" "4197197"
+				"download" "2139792"
+			}
+		}
+	}
+	"3152840"
+	{
+		"dlcappid" "3152840"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9149762591470507585"
+				"size" "1733550"
+				"download" "1724208"
+			}
+			"1.14.10"
+			{
+				"gid" "1460140448185131415"
+				"size" "1733550"
+				"download" "1724208"
+			}
+			"1.15.3"
+			{
+				"gid" "9149762591470507585"
+				"size" "1733550"
+				"download" "1724208"
+			}
+		}
+	}
+	"3152780"
+	{
+		"dlcappid" "3152780"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3145844851996616273"
+				"size" "395610741"
+				"download" "253293392"
+			}
+			"1.15.3"
+			{
+				"gid" "8717061150301020523"
+				"size" "395617002"
+				"download" "253299248"
+			}
+		}
+	}
+	"3152790"
+	{
+		"dlcappid" "3152790"
+		"manifests"
+		{
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17075581"
+			"timeupdated" "1737468001"
+		}
+		"1.10.5"
+		{
+			"buildid" "6513881"
+			"description" "Collie (Old)"
+			"timeupdated" "1622665603"
+		}
+		"1.10.8"
+		{
+			"buildid" "7337794"
+			"description" "Collie Anniversary (Old)"
+			"timeupdated" "1636706044"
+		}
+		"1.11.13"
+		{
+			"buildid" "9324400"
+			"description" "Barbarossa (Old)"
+			"timeupdated" "1663845034"
+		}
+		"1.12.14"
+		{
+			"buildid" "12405907"
+			"description" "Avalanche (Old)"
+			"timeupdated" "1696961779"
+		}
+		"1.13.7"
+		{
+			"buildid" "13209680"
+			"description" "Stella Polaris (Old)"
+			"timeupdated" "1709811236"
+		}
+		"1.14.3"
+		{
+			"buildid" "13788539"
+			"description" "Bolivar (Old)"
+			"timeupdated" "1712069585"
+		}
+		"1.5.4"
+		{
+			"buildid" "2895913"
+			"description" "Cornflakes (Old)"
+			"timeupdated" "1550581529"
+		}
+		"1.6.2"
+		{
+			"buildid" "3698640"
+			"description" "Ironclad (Old)"
+			"timeupdated" "1554292576"
+		}
+		"1.7.1"
+		{
+			"buildid" "3948182"
+			"description" "Hydra (Old)"
+			"timeupdated" "1561535030"
+		}
+		"1.8.2"
+		{
+			"buildid" "4649066"
+			"description" "Fork (Old)"
+			"timeupdated" "1581346021"
+		}
+		"1.9.x"
+		{
+			"buildid" "5841295"
+			"description" "Husky (Old)"
+			"timeupdated" "1605606292"
+		}
+		"open_beta"
+		{
+			"buildid" "14111852"
+			"description" "Open Beta"
+			"timeupdated" "1713542777"
+		}
+		"1.14.10"
+		{
+			"buildid" "16033080"
+			"description" "Bolivar (Old)"
+			"timeupdated" "1729583970"
+		}
+		"1.14.5"
+		{
+			"buildid" "14111852"
+			"description" "Bolivar (Old)"
+			"timeupdated" "1717570559"
+		}
+		"1.15.3"
+		{
+			"buildid" "16721020"
+			"description" "Kaiser (Old)"
+			"timeupdated" "1737546975"
+		}
+	}
+	"privatebranches" "1"
+	"appmanagesdlc" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "27700890"
+"_sha" "1d04ba2826c48d16606b5cf4ab9fb2d234a03038"
+"_size" "86365"
