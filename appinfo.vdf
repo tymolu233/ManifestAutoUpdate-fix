@@ -1,0 +1,330 @@
+"appid" "1262350"
+"common"
+{
+	"name" "SIGNALIS"
+	"type" "Game"
+	"clienticon" "09e02e2713e459ed2d351a1c2d2e464026b38481"
+	"clienttga" "59b7d36b2cfcb19db28486dfb073a4a9d0a4cbef"
+	"icon" "a59153e59c9040d8a8561d78285106d88715ee20"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "e4eea01b5189925e6ea95d5636627fed016798c6"
+	"logo_small" "e4eea01b5189925e6ea95d5636627fed016798c6_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1667520000"
+		"tested_build_id" "9758990"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "89.0203696508853"
+			"height_pct" "77.68072706403862"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "89.0203696508853"
+				"height_pct" "77.68072706403862"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1684085312"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "rose-engine"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Humble Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "PLAYISM"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Humble Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1666879177"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1262350"
+	"store_tags"
+	{
+		"0" "3978"
+		"1" "1721"
+		"2" "7208"
+		"3" "3942"
+		"4" "4166"
+		"5" "7432"
+		"6" "4342"
+		"7" "5716"
+		"8" "5030"
+		"9" "4182"
+		"10" "44868"
+		"11" "4115"
+		"12" "1664"
+		"13" "4667"
+		"14" "19"
+		"15" "21"
+		"16" "4145"
+		"17" "1774"
+		"18" "4106"
+		"19" "3814"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "rose-engine"
+	"publisher" "Humble Games"
+	"homepage" "http://rose-engine.org/signalis/"
+}
+"config"
+{
+	"installdir" "SIGNALIS"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SIGNALIS.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65528"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1262351"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4905045499626634313"
+				"size" "1015426620"
+				"download" "715225488"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15862770"
+			"timeupdated" "1728590795"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "50000000000"
+	"maxnumfiles" "2000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SIGNALIS_Data/save/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27646099"
+"_sha" "2d2a61c78a0ed808ead9f0aa5fe758fc7eeb9b90"
+"_size" "5566"
