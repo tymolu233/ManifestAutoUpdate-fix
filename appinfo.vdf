@@ -1,0 +1,435 @@
+"appid" "311260"
+"common"
+{
+	"name" "The Guild 3"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"icon" "bdb40d843313fdc4ec1652dcc6613272f884da90"
+	"logo" "5840fb4b1b7f1e6ac9fa601aa3cec32e8da7ef24"
+	"logo_small" "5840fb4b1b7f1e6ac9fa601aa3cec32e8da7ef24_thumb"
+	"clienticon" "67555819fcf670dff114dc11d4c7d2157ac0376c"
+	"clienttga" "a84e944479ac5ad1c4f7acb7896bae220e442c3a"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1669939200"
+		"tested_build_id" "9409633"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "The Guild 3"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "73.3372228704784"
+			"height_pct" "60.63880313464736"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "73.3372228704784"
+				"height_pct" "60.63880313464736"
+			}
+		}
+	}
+	"store_asset_mtime" "1655299281"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Purple Lamp"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "GolemLabs"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "THQ Nordic"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "The Guild"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "THQ Nordic"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "3"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1655225626"
+	"metacritic_score" "65"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/the-guild-3\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "311260"
+	"store_tags"
+	{
+		"0" "4695"
+		"1" "10235"
+		"2" "4172"
+		"3" "599"
+		"4" "9"
+		"5" "122"
+		"6" "3859"
+		"7" "1695"
+		"8" "3810"
+		"9" "1643"
+		"10" "4182"
+		"11" "4754"
+		"12" "1662"
+		"13" "12472"
+		"14" "4202"
+		"15" "8945"
+		"16" "3987"
+		"17" "493"
+		"18" "1676"
+		"19" "21"
+	}
+	"review_score" "5"
+	"review_percentage" "61"
+}
+"extended"
+{
+	"developer" "Purple Lamp"
+	"publisher" "THQ Nordic"
+	"homepage" "https://theguildgame.com/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "The Guild 3"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Guild3.exe"
+			"description" "Launch the Guild 3"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "Guild3.exe"
+			"arguments" "-safemode"
+			"description" "The Guild 3 SafeMode"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "Guild3Editor.exe"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Map editor"
+			}
+			"description" "Map editor"
+		}
+		"4"
+		{
+			"executable" "Modding/Guild3ModLauncher.exe"
+			"workingdir" "Modding"
+			"description_loc"
+			{
+				"english" "Launch Mod Launcher"
+			}
+			"description" "Launch Mod Launcher"
+		}
+	}
+}
+"depots"
+{
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,spanish,russian"
+	"311261"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "953346985233521036"
+				"size" "4801626647"
+				"download" "3804325056"
+			}
+		}
+	}
+	"311262"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"workshopdepot" "311260"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12036682"
+			"timeupdated" "1693326713"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "Guild3/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27114216"
+"_sha" "142956227c1dda57789daccc153a68f53dfc0b78"
+"_size" "7355"
