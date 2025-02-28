@@ -1,0 +1,519 @@
+"appid" "330020"
+"common"
+{
+	"name" "Children of Morta"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "f5f9f815fb8d2c447ed86cdfb6edadfa064c0343"
+	"clienttga" "393fb29424b48c4d20c1e9617842084e31f9ffc1"
+	"icon" "29e179c5c7ac3aa6d3fb15ca5b19fd1124af4e7b"
+	"oslist" "windows,macos,linux"
+	"logo" "48042591b504bc4d3eaa258407431243d3953ec4"
+	"logo_small" "48042591b504bc4d3eaa258407431243d3953ec4_thumb"
+	"osarch" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"osextended" "macos64"
+	"clienticns" "c0982832cd87c3ae93eea285b29c329a4b0ce8ec"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1651276800"
+		"tested_build_id" "8334433"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Children of Morta"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "30.879120879120876"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "30.879120879120876"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1701878728"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Dead Mage"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "11 bit studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "11 bit studios"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_15" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_23" "1"
+		"category_44" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_38" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"persian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1567515720"
+	"metacritic_score" "82"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/children-of-morta\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "330020"
+	"store_tags"
+	{
+		"0" "3859"
+		"1" "1716"
+		"2" "3964"
+		"3" "1646"
+		"4" "3843"
+		"5" "42804"
+		"6" "122"
+		"7" "3959"
+		"8" "3841"
+		"9" "1720"
+		"10" "19"
+		"11" "1742"
+		"12" "4182"
+		"13" "1685"
+		"14" "4231"
+		"15" "3871"
+		"16" "5851"
+		"17" "5125"
+		"18" "1684"
+		"19" "4106"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Dead Mage"
+	"publisher" "11 bit studios"
+	"homepage" "http://www.childrenofmorta.com/"
+	"listofdlc" "1317160,1648880"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "ChildrenOfMorta"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ChildrenOfMorta.exe"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "ChildrenOfMorta.app"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "ChildrenOfMorta"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1906478272"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,spanish,schinese,russian,polish,turkish,brazilian"
+	"hasdepotsindlc" "0"
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"330021"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4606985130426915900"
+				"size" "1854404638"
+				"download" "1433705056"
+			}
+		}
+	}
+	"330022"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4076267414139895734"
+				"size" "1871356768"
+				"download" "1434312384"
+			}
+		}
+	}
+	"330023"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7753140511382431254"
+				"size" "1741323934"
+				"download" "1336724272"
+			}
+		}
+	}
+	"330024"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7281937126606251578"
+				"size" "9728"
+				"download" "4128"
+			}
+		}
+	}
+	"1317160"
+	{
+		"dlcappid" "1317160"
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9017478250715199651"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"330026"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"dlcappid" "1317160"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6822150715540450746"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"330027"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"dlcappid" "1317160"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2686645784613825353"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8334433"
+			"timeupdated" "1646755343"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "256000000"
+	"maxnumfiles" "20"
+}
+"_missing_token" "False"
+"_change_number" "27105673"
+"_sha" "50b4213bfa07208846bdea9bb86bd91a02afed50"
+"_size" "8654"
