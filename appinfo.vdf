@@ -1,0 +1,925 @@
+"appid" "690790"
+"common"
+{
+	"name" "DiRT Rally 2.0"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"icon" "bd4cc20090b66b8e5a992a1ab67e3de0bef177da"
+	"logo" "02a669eaa3bcc297070910cda27e889b07ba754e"
+	"logo_small" "02a669eaa3bcc297070910cda27e889b07ba754e_thumb"
+	"clienttga" "4f8b800a776cbcb9a00a6dfa4be7fbd3b1e82c09"
+	"clienticon" "1035a23b66517798077252a6b7b443f98b1725bc"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "690790_eula_0"
+			"name" "DiRT Rally 2.0 EULA"
+			"url" "https://store.steampowered.com//eula/690790_eula_0"
+		}
+	}
+	"playareavr"
+	{
+		"seated" "1"
+	}
+	"openvrsupport" "1"
+	"othervrsupport" "1"
+	"othervrsupport_rift_13" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1667260800"
+		"tested_build_id" "6444206"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "DiRT Rally 2.0"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "46"
+			"height_pct" "58"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "46"
+				"height_pct" "58"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1615221095"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Codemasters"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Codemasters"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Electronic Arts"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Codemasters"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "DiRT"
+		}
+	}
+	"primary_genre" "9"
+	"genres"
+	{
+		"0" "9"
+		"1" "28"
+		"2" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_49" "1"
+		"category_8" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1551139320"
+	"metacritic_score" "84"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/dirt-rally-20\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "690790"
+	"store_tags"
+	{
+		"0" "699"
+		"1" "1100687"
+		"2" "599"
+		"3" "3859"
+		"4" "21978"
+		"5" "1644"
+		"6" "701"
+		"7" "7622"
+		"8" "4175"
+		"9" "4182"
+		"10" "4026"
+		"11" "3839"
+		"12" "7481"
+		"13" "1695"
+		"14" "1685"
+		"15" "29363"
+		"16" "5350"
+		"17" "8075"
+		"18" "19"
+		"19" "21"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+	"mastersubs_granting_app" "1289670"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"anti_cheat_support_url" ""
+	"developer" "Codemasters"
+	"publisher" "Codemasters"
+	"homepage" "http://www.dirtrally2.com"
+	"listofdlc" "977660,988660,988661,988662,988670,988671,988680,988820,1004840,1004870,1004871,1004880,1004881,1004890,1004891,1004892,1004893,1004894,1004900,1004920,1004921,1004930,1004940,1004950,1004960,1004970,1004980,1004990,1005010,1005020,1005030,1036470,1118250,1118251,1118260,1118261,1118262,1118263,1118264,1118265,1118270,1118271,1118272,1118273,1118274,1118275,1118280,1118281,1118282,1118283,1118284,1118285,1118286,1118287,1118288,1118290,1118291,1118292,1118293,1118294,1142800,1211480"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "DiRT Rally 2.0"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "dirtrally2.exe"
+			"arguments" "-novr"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "dirtrally2.exe"
+			"arguments" "-logging"
+			"description" "RP17 - Logging"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "devtest"
+			}
+		}
+		"2"
+		{
+			"executable" "dirtrally2_qa.exe"
+			"description" "RP17 - QA"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "devtest"
+			}
+		}
+		"3"
+		{
+			"executable" "dirtrally2_qa.exe"
+			"arguments" "-logging"
+			"description" "RP17 - QA - Logging"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "devtest"
+			}
+		}
+		"4"
+		{
+			"executable" "dirtrally2.exe"
+			"arguments" "-vr open"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "devtest3"
+			}
+		}
+		"5"
+		{
+			"executable" "dirtrally2.exe"
+			"arguments" "-useoculussdk"
+			"description" "Oculus SDK"
+			"type" "othervr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "devtest"
+			}
+		}
+		"6"
+		{
+			"executable" "dirtrally2.exe"
+			"description" "DiRT Rally 2.0"
+			"type" "vr"
+		}
+		"7"
+		{
+			"executable" "dirtrally2.exe"
+			"arguments" "-novr"
+			"description" "DiRT Rally 2.0"
+			"type" "default"
+			"config"
+			{
+				"betakey" "qatestbranch"
+			}
+		}
+		"8"
+		{
+			"executable" "dirtrally2_qa.exe"
+			"description" "DR2 - QA"
+			"type" "option3"
+			"config"
+			{
+				"betakey" "qatestbranch"
+			}
+		}
+		"9"
+		{
+			"executable" "dirtrally2.exe"
+			"arguments" "-useoculussdk"
+			"type" "othervr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,japanese,polish,brazilian"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"690791"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8686885309488368555"
+				"size" "16667774233"
+				"download" "16625992368"
+			}
+		}
+	}
+	"690792"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4408182593951867177"
+				"size" "24668160"
+				"download" "8489664"
+			}
+		}
+	}
+	"690793"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7862744183675449162"
+				"size" "42006607"
+				"download" "15719328"
+			}
+		}
+	}
+	"690794"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "140664630075338429"
+				"size" "11707150674"
+				"download" "10834459376"
+			}
+		}
+	}
+	"690795"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6152701538376316402"
+				"size" "4028863146"
+				"download" "3708551120"
+			}
+		}
+	}
+	"690796"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5177698062175283153"
+				"size" "4937525412"
+				"download" "4637700720"
+			}
+		}
+	}
+	"690797"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5191693106685464446"
+				"size" "4605202050"
+				"download" "4126958112"
+			}
+		}
+	}
+	"690798"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4668670909653897918"
+				"size" "5946013989"
+				"download" "5621724960"
+			}
+		}
+	}
+	"690799"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4438738795134699694"
+				"size" "4164482418"
+				"download" "3831081424"
+			}
+		}
+	}
+	"939883"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6775270195344734644"
+				"size" "6426085203"
+				"download" "5989039488"
+			}
+		}
+	}
+	"939884"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "591077615613640105"
+				"size" "1108436277"
+				"download" "1111124448"
+			}
+		}
+	}
+	"939885"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9128435499164207835"
+				"size" "2213990069"
+				"download" "2229940432"
+			}
+		}
+	}
+	"939886"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6687593820984025421"
+				"size" "926492440"
+				"download" "931671616"
+			}
+		}
+	}
+	"939887"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7536545564649662169"
+				"size" "1005597419"
+				"download" "1008294016"
+			}
+		}
+	}
+	"939888"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3729427381119955317"
+				"size" "898473018"
+				"download" "903240768"
+			}
+		}
+	}
+	"939889"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2201105350167418927"
+				"size" "883551966"
+				"download" "888338656"
+			}
+		}
+	}
+	"977661"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3806616963286021545"
+				"size" "981010677"
+				"download" "984731776"
+			}
+		}
+	}
+	"977662"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2913589459752426828"
+				"size" "1030135258"
+				"download" "1035843632"
+			}
+		}
+	}
+	"977663"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7933427068550952239"
+				"size" "7719242850"
+				"download" "7818592608"
+			}
+		}
+	}
+	"977664"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4346122280047190183"
+				"size" "4717109378"
+				"download" "4780179968"
+			}
+		}
+	}
+	"977665"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5805022767122943285"
+				"size" "4823775346"
+				"download" "4888623600"
+			}
+		}
+	}
+	"977666"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7421727578757735809"
+				"size" "1222398417"
+				"download" "1238678800"
+			}
+		}
+	}
+	"977667"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8094159985011189473"
+				"size" "6578713666"
+				"download" "6666549504"
+			}
+		}
+	}
+	"977668"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "208238115072787668"
+				"size" "1256169745"
+				"download" "1272280336"
+			}
+		}
+	}
+	"977669"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1305813921932269257"
+				"size" "2994703473"
+				"download" "3034843312"
+			}
+		}
+	}
+	"988663"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4680467482414372261"
+				"size" "5116028898"
+				"download" "5184091520"
+			}
+		}
+	}
+	"988664"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7280761127559040451"
+				"size" "1051261921"
+				"download" "1061590048"
+			}
+		}
+	}
+	"988665"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3137744002291191619"
+				"size" "6512598610"
+				"download" "6600001968"
+			}
+		}
+	}
+	"988666"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4666520335455950521"
+				"size" "1268820689"
+				"download" "1283278992"
+			}
+		}
+	}
+	"988667"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3632654337120754339"
+				"size" "1045917761"
+				"download" "1060093696"
+			}
+		}
+	}
+	"988668"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4060341024140888923"
+				"size" "5731840834"
+				"download" "5809275728"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6444206"
+			"timeupdated" "1617872562"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "27048707"
+"_sha" "982729ce4ad472349d8324be588df6471935880b"
+"_size" "14118"
