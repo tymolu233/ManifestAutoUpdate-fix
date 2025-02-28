@@ -1,0 +1,308 @@
+"appid" "1859280"
+"common"
+{
+	"name" "7 Days to End with You"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1859280_eula_0"
+			"name" "You\'ll be dead in seven days. EULA"
+			"url" "https://store.steampowered.com//eula/1859280_eula_0"
+			"version" "1"
+		}
+	}
+	"logo" "91d8797f1400f7216c4bc2b3c364da7e26a4f7e4"
+	"logo_small" "91d8797f1400f7216c4bc2b3c364da7e26a4f7e4_thumb"
+	"icon" "60af6889af0d78105d3d611e1a1a43843d68d97e"
+	"clienttga" "476714f8677947fc2abc4c12214c357214226e22"
+	"linuxclienticon" "01f5918acf4ace118429e0d2417acd3ceaaa93fd"
+	"clienticon" "e4f7231fefcb142f390d0ded494b97b8c4ee7d21"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1656633600"
+		"tested_build_id" "8197242"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "63.60465116279073"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "63.60465116279073"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1674720509"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Lizardry"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PLAYISM"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "PLAYISM"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1644161284"
+	"community_hub_visible" "1"
+	"gameid" "1859280"
+	"store_tags"
+	{
+		"0" "4486"
+		"1" "1664"
+		"2" "1674"
+		"3" "3799"
+		"4" "24003"
+		"5" "4947"
+		"6" "8369"
+		"7" "11014"
+		"8" "31275"
+		"9" "6426"
+		"10" "6971"
+		"11" "15172"
+		"12" "597"
+		"13" "599"
+		"14" "3964"
+		"15" "1684"
+		"16" "5030"
+		"17" "5716"
+		"18" "4166"
+		"19" "5186"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Lizardry"
+	"publisher" "PLAYISM"
+}
+"config"
+{
+	"installdir" "7 Days to End with You"
+	"uselaunchcommandline" "1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Seven Days to End with You.exe"
+		}
+	}
+}
+"depots"
+{
+	"1859281"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4597766693869208638"
+				"size" "111032905"
+				"download" "25524880"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10486412"
+			"timeupdated" "1675842398"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Lizardry/Seven Days to End with You"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27707597"
+"_sha" "d50ec68999997227c8be064af0ffe08f7d59cba6"
+"_size" "5170"
