@@ -1,0 +1,244 @@
+"appid" "496460"
+"common"
+{
+	"name" "Life is Feudal: Forest Village"
+	"type" "Game"
+	"oslist" "windows"
+	"clienticon" "bb4335805bcf901a1093c1b3479f059091cbb8aa"
+	"clienttga" "528bc8cadf69a7c96a0dc41d5ecf83dadd76a7c6"
+	"icon" "a573416150a927e1cb21ce41c1844562e376264f"
+	"logo" "bde8adcddd3399025ed9679b943288721f9b86ae"
+	"logo_small" "bde8adcddd3399025ed9679b943288721f9b86ae_thumb"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1662076800"
+		"tested_build_id" "5323129"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Life is Feudal: Forest Village"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_733cfd27a32c0eb2c46958ad5f695c646d6f85ec.jpg"
+	"store_asset_mtime" "1563464658"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mindillusion"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bitbox Ltd."
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1495782000"
+	"steam_release_date" "1495824735"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "496460"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "220585"
+		"2" "9"
+		"3" "8945"
+		"4" "4172"
+		"5" "599"
+		"6" "1662"
+		"7" "1643"
+		"8" "1695"
+		"9" "4182"
+		"10" "3810"
+		"11" "492"
+		"12" "1702"
+		"13" "3859"
+		"14" "12472"
+		"15" "493"
+		"16" "7332"
+		"17" "1685"
+	}
+	"review_score" "5"
+	"review_percentage" "66"
+}
+"extended"
+{
+	"developer" "Mindillusion"
+	"publisher" "Bitbox Ltd."
+	"homepage" "http://lifeisfeudal.com/fv"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Life is Feudal Forest Village"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ForestVillage.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"496461"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1280200325672706298"
+				"size" "337456454"
+				"download" "314252240"
+			}
+		}
+	}
+	"workshopdepot" "496460"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5323129"
+			"timeupdated" "1595525531"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "save"
+			"pattern" "*.lvl"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27117942"
+"_sha" "ad8d46907dc7f42821dc9e481b6cdb11a08993e6"
+"_size" "4016"
