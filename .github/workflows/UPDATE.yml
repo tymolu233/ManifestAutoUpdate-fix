@@ -57,5 +57,5 @@ jobs:
       - run: |
           git config --local user.name github-actions[bot]
           git config --local user.email 41898282+github-actions[bot]@users.noreply.github.com
-          python main.py -l ${{ github.event.inputs.level || 'INFO' }} -p ${{ github.event.inputs.pool || 8 }} -r ${{ github.event.inputs.retry || 3 }} -t ${{ github.event.inputs.time || 1 }} -k ${{ secrets.KEY }} -u ${{ github.event.inputs.args }}
+          python main.py -l ${{ github.event.inputs.level || 'INFO' }} -u ${{ github.event.inputs.args }} -p ${{ github.event.inputs.pool || 8 }} -r ${{ github.event.inputs.retry || 3 }} -t ${{ github.event.inputs.time || 1 }} -k ${{ secrets.KEY }}
         shell: bash
