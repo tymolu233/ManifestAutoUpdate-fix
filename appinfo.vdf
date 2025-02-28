@@ -1,0 +1,473 @@
+"appid" "407130"
+"common"
+{
+	"name" "Tank Mechanic Simulator"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"logo" "2ffab91660a555e8994a52ce24b5fc548ec084c6"
+	"logo_small" "2ffab91660a555e8994a52ce24b5fc548ec084c6_thumb"
+	"icon" "7ef16830a263fcb73fb7fd410e99ed899f139df5"
+	"clienttga" "e4a8c0f601004ccb4f5dc2c95c6da30f10f2a40b"
+	"clienticon" "4cfe2ddd3eff69cd32805eeedf938cc5fd12968e"
+	"languages"
+	{
+		"english" "1"
+	}
+	"osextended" "macos64,macosnotarized"
+	"name_localized"
+	{
+		"schinese" "后勤模拟器"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1652227200"
+		"tested_build_id" "8515853"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "40.38175656475925"
+			"height_pct" "66.07767826559888"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "40.38175656475925"
+				"height_pct" "66.07767826559888"
+			}
+		}
+	}
+	"store_asset_mtime" "1686053551"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "DeGenerals S.A."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PlayWay S.A."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "PlayWay S.A."
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1582214400"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "407130"
+	"store_tags"
+	{
+		"0" "13276"
+		"1" "599"
+		"2" "4150"
+		"3" "4175"
+		"4" "4182"
+		"5" "3839"
+		"6" "1643"
+		"7" "1654"
+		"8" "19"
+		"9" "492"
+		"10" "12472"
+		"11" "5900"
+		"12" "1702"
+		"13" "4695"
+		"14" "597"
+		"15" "3834"
+		"16" "8945"
+		"17" "21"
+		"18" "4166"
+		"19" "5350"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "DeGenerals S.A."
+	"publisher" "PlayWay S.A."
+	"homepage" "https://degenerals.com/en/our-games#tms"
+	"listofdlc" "1065400,1485420"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "TankMechanicSimulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TankMechanicSimulator.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "TankMechanicSimulator.app/Contents/MacOS/TankMechanicSimulator"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "TMS_Manual_EN.pdf"
+			"type" "manual"
+			"description_loc"
+			{
+				"english" "Tank Mechanic Simulator Manual"
+			}
+			"description" "Tank Mechanic Simulator Manual"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"workshopdepot" "407130"
+	"hasdepotsindlc" "1"
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"407131"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8463733943601823355"
+				"size" "14017760866"
+				"download" "7181470256"
+			}
+		}
+	}
+	"407132"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4270416266453424738"
+				"size" "14068595690"
+				"download" "7228490160"
+			}
+		}
+	}
+	"1485420"
+	{
+		"dlcappid" "1485420"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4335612246499551889"
+				"size" "990187640"
+				"download" "816026288"
+			}
+		}
+	}
+	"1485421"
+	{
+		"dlcappid" "1485420"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2925331946354259482"
+				"size" "990067777"
+				"download" "828931040"
+			}
+		}
+	}
+	"1065403"
+	{
+		"dlcappid" "1065400"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7261908628318877109"
+				"size" "1105037996"
+				"download" "935594064"
+			}
+		}
+	}
+	"1065404"
+	{
+		"dlcappid" "1065400"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2506715127746311030"
+				"size" "1104897674"
+				"download" "939582096"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17118246"
+			"timeupdated" "1737729345"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"3"
+		{
+			"root" "gameinstall"
+			"path" "TankMechanicSimulator_Data/StreamingAssets/Profiles"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27150962"
+"_sha" "24e953c9dc12659ec61c45981fa445e912f646ef"
+"_size" "7819"
