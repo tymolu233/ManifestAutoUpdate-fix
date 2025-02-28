@@ -1,0 +1,57 @@
+"appid" "3020880"
+"common"
+{
+	"name" "Esports Godfather: Mod Tool"
+	"type" "Tool"
+	"parent" "1278540"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "c3b14dd1f5b0fba9df4cee80d9d828a28468e8b3"
+	"clienticon" "17962c55e43d216a0f34ce9f48d9dbb4d331353a"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"name_localized"
+	{
+		"schinese" "电竞教父：开发工具"
+	}
+	"gameid" "3020880"
+}
+"config"
+{
+	"installdir" "Esports Godfather Modding Tools"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ModTool.exe"
+		}
+	}
+}
+"depots"
+{
+	"3020881"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2624210469594394456"
+				"size" "190685520"
+				"download" "57274240"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16905867"
+			"timeupdated" "1735990191"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26860567"
+"_sha" "1478475bc1e2117c6b821aca3e58bfde64bd1dcb"
+"_size" "889"
