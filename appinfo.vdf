@@ -1,0 +1,347 @@
+"appid" "1388870"
+"common"
+{
+	"name" "Arcade Paradise"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "1d68f2ad283baa0e8dfd7d530143444d97116224"
+	"logo_small" "1d68f2ad283baa0e8dfd7d530143444d97116224_thumb"
+	"icon" "ac25c5efc168344d3ad3772bb3d5615085b16ea3"
+	"clienticon" "d72ec7537ad18666359e21a87d506ac2841c9583"
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"clienttga" "13ce71c67bc771104f0c13e94e192e91cd40b943"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1660348800"
+		"tested_build_id" "9237160"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-4"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "42.48010871709445"
+			"height_pct" "90.6460262803768"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "42.48010871709445"
+				"height_pct" "90.6460262803768"
+			}
+		}
+	}
+	"store_asset_mtime" "1723141621"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Nosebleed Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Wired Productions"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Wired Productions"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_45" "1"
+		"category_46" "1"
+		"category_2" "1"
+		"category_49" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_44" "1"
+		"category_28" "1"
+		"category_1" "1"
+		"category_29" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1660221752"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1388870"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "1773"
+		"2" "12472"
+		"3" "6691"
+		"4" "1719"
+		"5" "4004"
+		"6" "4106"
+		"7" "3839"
+		"8" "4191"
+		"9" "5154"
+		"10" "4136"
+		"11" "4175"
+		"12" "599"
+		"13" "3964"
+		"14" "3916"
+		"15" "13190"
+		"16" "8945"
+		"17" "1775"
+		"18" "3841"
+		"19" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Nosebleed Interactive"
+	"publisher" "Wired Productions"
+	"listofdlc" "1986510,1986511,1986512,2217400,2217401,2217402,2217403,2217404"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Arcade"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ArcadeParadise.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1388871"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1935481441203547414"
+				"size" "4559187739"
+				"download" "2404439072"
+			}
+		}
+	}
+	"1388872"
+	{
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11156322"
+			"timeupdated" "1684414185"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Nosebleed Interactive/Arcade Paradise/{64BitSteamID}"
+			"pattern" "*.dat"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27027798"
+"_sha" "013ac759310d1d2ae0219a1f6a5c8402e3bc1550"
+"_size" "5971"
