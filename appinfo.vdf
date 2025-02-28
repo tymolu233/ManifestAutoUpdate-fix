@@ -1,0 +1,350 @@
+"appid" "620980"
+"common"
+{
+	"name" "Beat Saber"
+	"type" "Game"
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"standing" "1"
+		"seated" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "1ca2ff74b31ddc87b1e315b2e68e479b5457c21a"
+	"clienttga" "13c6c55d8ec1aabfbd932af7a67e807375fe5d6b"
+	"icon" "d2922f271fca9579ecdcc07408cee13d87ca4148"
+	"logo" "50236854af053376cd6ff6df5d59236f18ec2d37"
+	"logo_small" "50236854af053376cd6ff6df5d59236f18ec2d37_thumb"
+	"releasestate" "released"
+	"openvrsupport" "1"
+	"openvr_controller_bindings"
+	{
+		"0"
+		{
+			"controller_type" "knuckles"
+			"url" "vr-input-workshop://1756315520"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"japanese" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1644278400"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Beat Saber"
+	"small_capsule"
+	{
+		"english" "dddad91299b1b422677f8f4b44cb601cd9f14a35/capsule_231x87.jpg"
+		"japanese" "55ce91495759ef72d188dde94262326733096edc/capsule_231x87_japanese.jpg"
+		"koreana" "374b308b586bad19d11eb03347f3caf8eb0770e4/capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"koreana" "header_koreana.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ko,ja"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en,ko,ja"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "49"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "49"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"koreana" "library_header_koreana.jpg"
+				"japanese" "library_header_japanese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1725546461"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Beat Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Beat Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+	}
+	"category"
+	{
+		"category_25" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_2" "1"
+		"category_52" "1"
+		"category_54" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1558472100"
+	"metacritic_score" "93"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/beat-saber\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "620980"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "21978"
+		"1" "1752"
+		"2" "1621"
+		"3" "1669"
+		"4" "1734"
+		"5" "4182"
+		"6" "3839"
+		"7" "4026"
+		"8" "3859"
+		"9" "492"
+		"10" "4608"
+		"11" "19"
+		"12" "701"
+		"13" "1756"
+		"14" "4295"
+		"15" "597"
+		"16" "8253"
+		"17" "1775"
+		"18" "5310"
+		"19" "493"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Beat Games"
+	"publisher" "Beat Games"
+	"homepage" "http://beatsaber.com"
+	"listofdlc" "1048870,1048871,1048872,1048873,1048874,1048875,1048876,1048877,1048878,1048879,1099560,1099561,1099562,1099563,1099580,1099581,1099582,1099583,1099584,1099585,1167660,1167661,1167662,1167663,1181770,1181771,1181772,1181773,1181774,1181775,1209130,1209131,1209132,1209133,1209134,1209135,1267590,1267591,1267592,1267593,1267594,1375360,1375361,1375362,1375363,1375364,1375365,1375366,1375367,1375368,1375369,1375370,1463160,1463190,1463220,1463230,1463240,1463241,1463250,1463251,1463260,1463261,1463270,1463271"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Beat Saber"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Beat Saber.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"620981"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2468336483467342711"
+				"size" "1513600713"
+				"download" "1333543040"
+			}
+			"1.34.2_legacy"
+			{
+				"gid" "8045892568861450718"
+				"size" "1812152411"
+				"download" "1075772512"
+			}
+			"legacy1.29.1_unity_ver2019.4.28f1"
+			{
+				"gid" "886973241045584398"
+				"size" "1649013467"
+				"download" "955867936"
+			}
+			"legacy1.37.1_unity_v2021.3.16f1"
+			{
+				"gid" "9129356330007601179"
+				"size" "1407132430"
+				"download" "1255859376"
+			}
+		}
+	}
+	"854440"
+	{
+		"dlcappid" "854440"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17489406"
+			"timeupdated" "1740671492"
+		}
+		"1.34.2_legacy"
+		{
+			"buildid" "12890561"
+			"timeupdated" "1707745493"
+		}
+		"legacy1.29.1_unity_ver2019.4.28f1"
+		{
+			"buildid" "10902660"
+			"description" "pre unity upgrade build"
+			"timeupdated" "1682506938"
+		}
+		"legacy1.37.1_unity_v2021.3.16f1"
+		{
+			"buildid" "14911276"
+			"description" "unity upgrade Aug6 2024"
+			"timeupdated" "1722930508"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27708228"
+"_sha" "52fcc624f3438328e020c278c4f62430f87851c7"
+"_size" "6923"
