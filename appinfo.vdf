@@ -1,0 +1,691 @@
+"appid" "1222670"
+"common"
+{
+	"name" "The Sims™ 4"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "f972f7624b8e98135c71fe4b04cd87cf22329ec9"
+	"clienttga" "084acb4a80e53ab0cd67e8dc02ae19101f693a85"
+	"icon" "ca6bc8b2411bce4a2cd325ab75f0204bc3a4ad98"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1222670_eula_0"
+			"name" "The Sims™ 4 EULA"
+			"url" "https://store.steampowered.com//eula/1222670_eula_0"
+		}
+	}
+	"logo" "5cf3a2e8d2dff4c4e4966ce07feb18382a5079ca"
+	"logo_small" "5cf3a2e8d2dff4c4e4966ce07feb18382a5079ca_thumb"
+	"exfgls" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1724889600"
+		"tested_build_id" "15242720"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"latam" "capsule_231x87_latam.jpg"
+		"german" "capsule_231x87_german.jpg"
+		"french" "capsule_231x87_french.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,es-419,de,fr,pl"
+		"library_hero" "en"
+		"library_logo" "en,de,fr,pl"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "23.946124081317862"
+			"height_pct" "45.18764383167259"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"latam" "library_600x900_latam.jpg"
+				"german" "library_600x900_german.jpg"
+				"french" "library_600x900_french.jpg"
+				"polish" "library_600x900_polish.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"latam" "library_600x900_latam_2x.jpg"
+				"german" "library_600x900_german_2x.jpg"
+				"french" "library_600x900_french_2x.jpg"
+				"polish" "library_600x900_polish_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"german" "logo_german.png"
+				"french" "logo_french.png"
+				"polish" "logo_polish.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"german" "logo_german_2x.png"
+				"french" "logo_french_2x.png"
+				"polish" "logo_polish_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "23.946124081317862"
+				"height_pct" "45.18764383167259"
+			}
+		}
+	}
+	"store_asset_mtime" "1740177317"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Maxis"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Electronic Arts"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "The Sims™"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "28"
+		"3" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_29" "1"
+		"category_42" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1409641200"
+	"steam_release_date" "1592506560"
+	"community_hub_visible" "1"
+	"gameid" "1222670"
+	"store_tags"
+	{
+		"0" "10235"
+		"1" "4747"
+		"2" "113"
+		"3" "1643"
+		"4" "4947"
+		"5" "599"
+		"6" "3810"
+		"7" "4182"
+		"8" "9551"
+		"9" "1654"
+		"10" "597"
+		"11" "4175"
+		"12" "4136"
+		"13" "5350"
+		"14" "1684"
+		"15" "4726"
+		"16" "9204"
+		"17" "21"
+		"18" "4195"
+		"19" "6650"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+	"mastersubs_granting_app" "1289670"
+}
+"extended"
+{
+	"onquitdemomsg" "https://steamstore-a.akamaihd.net/message/4463125051111153535/"
+	"developer" "Maxis"
+	"publisher" "Electronic Arts"
+	"homepage" "https://www.ea.com/games/the-sims/the-sims-4"
+	"isfreeapp" "1"
+	"aliases" "TS4"
+	"listofdlc" "1235720,1235721,1235722,1235730,1235731,1235732,1235733,1235734,1235740,1235741,1235742,1235743,1235744,1235745,1235746,1235747,1235750,1235751,1235752,1235753,1235754,1235755,1235756,1235757,1235758,1235759,1235760,1235761,1235762,1235763,1235764,1235765,1235766,1235767,1240380,1250920,1271130,1271131,1271132,1271133,1301020,1301021,1368570,1368571,1368572,1458150,1458151,1458152,1458153,1458154,1458155,1561770,1621460,1621470,1621471,1621473,1621474,1621475,1621476,1622460,1776780,1816550,1904370,1904390"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "The Sims 4"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "link2ea://launchgame/1222670\?platform=steam&theme=ts4"
+			"type" "none"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2187497150"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1222671"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2797575349458003114"
+				"size" "25012614680"
+				"download" "23555490592"
+			}
+		}
+	}
+	"1222672"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5986994695576400327"
+				"size" "10297214"
+				"download" "9648384"
+			}
+		}
+	}
+	"1222673"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3782531626528096944"
+				"size" "12334823"
+				"download" "11562544"
+			}
+		}
+	}
+	"1222674"
+	{
+		"config"
+		{
+			"language" "danish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "836072857999571562"
+				"size" "10276539"
+				"download" "9621440"
+			}
+		}
+	}
+	"1222675"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3854717339502946560"
+				"size" "11043584"
+				"download" "10335856"
+			}
+		}
+	}
+	"1222676"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3163279835619676040"
+				"size" "11914759"
+				"download" "11196848"
+			}
+		}
+	}
+	"1222677"
+	{
+		"config"
+		{
+			"language" "finnish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2901017574112160"
+				"size" "11652664"
+				"download" "10969296"
+			}
+		}
+	}
+	"1222678"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4587183913701049513"
+				"size" "11522943"
+				"download" "10794784"
+			}
+		}
+	}
+	"1222679"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6748723039787828412"
+				"size" "11273550"
+				"download" "10560848"
+			}
+		}
+	}
+	"1235723"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4070405845684420495"
+				"size" "11680487"
+				"download" "10941520"
+			}
+		}
+	}
+	"1235724"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "60066004703461135"
+				"size" "14888974"
+				"download" "14103808"
+			}
+		}
+	}
+	"1235725"
+	{
+		"config"
+		{
+			"language" "dutch"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2366910770474663761"
+				"size" "11412504"
+				"download" "10723936"
+			}
+		}
+	}
+	"1235726"
+	{
+		"config"
+		{
+			"language" "norwegian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9223228737283109057"
+				"size" "10646978"
+				"download" "9995504"
+			}
+		}
+	}
+	"1235727"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1529678380048683931"
+				"size" "11821402"
+				"download" "11051536"
+			}
+		}
+	}
+	"1235728"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4911875657404823552"
+				"size" "11335470"
+				"download" "10677248"
+			}
+		}
+	}
+	"1235729"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7696808560113779481"
+				"size" "13218687"
+				"download" "12313584"
+			}
+		}
+	}
+	"1235735"
+	{
+		"config"
+		{
+			"language" "swedish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3595423721698402783"
+				"size" "10201083"
+				"download" "9527504"
+			}
+		}
+	}
+	"1235736"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3771503302017553706"
+				"size" "12324659"
+				"download" "11657872"
+			}
+		}
+	}
+	"1235737"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1741462926017897360"
+				"size" "14349384"
+				"download" "13652848"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,danish,dutch,finnish,norwegian,swedish,czech,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17443684"
+			"timeupdated" "1740506532"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "50"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Electronic Arts\\The Sims 4\\saves"
+			"pattern" "*.save"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27701091"
+"_sha" "01d0d6b34df2ee42019f88c710dee2e383abbd49"
+"_size" "11640"
