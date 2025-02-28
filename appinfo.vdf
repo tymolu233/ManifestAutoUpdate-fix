@@ -1,0 +1,407 @@
+"appid" "1016800"
+"common"
+{
+	"name" "Chernobylite Complete Edition"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "f2edf900f107da0a69270903fea62b5f765bc4e4"
+	"logo_small" "f2edf900f107da0a69270903fea62b5f765bc4e4_thumb"
+	"icon" "3c733253b4956d49f8bea1aee92ce29abc1cd2d9"
+	"clienticon" "7538c47b66c1a749bef11717b5d9c69d466b3291"
+	"clienttga" "8c976839e489d40cdb9d0e5f6cc58d632feb9188"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1738022400"
+		"tested_build_id" "17033461"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Chernobylite"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "44.906895814497396"
+			"height_pct" "87.0398520213786"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "44.906895814497396"
+				"height_pct" "87.0398520213786"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1736870083"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "The Farm 51"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "The Farm 51"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Chernobylite"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_43" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"full_audio" "true"
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1627466160"
+	"metacritic_score" "75"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/chernobylite\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1016800"
+	"store_tags"
+	{
+		"0" "3835"
+		"1" "1662"
+		"2" "1667"
+		"3" "122"
+		"4" "4166"
+		"5" "4182"
+		"6" "21"
+		"7" "3839"
+		"8" "3834"
+		"9" "3978"
+		"10" "7332"
+		"11" "3942"
+		"12" "599"
+		"13" "1687"
+		"14" "1702"
+		"15" "4106"
+		"16" "4175"
+		"17" "10808"
+		"18" "6869"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+	"review_score_bombs" "8"
+	"review_percentage_bombs" "82"
+}
+"extended"
+{
+	"developer" "The Farm 51"
+	"publisher" "The Farm 51"
+	"homepage" "https://www.chernobylgame.com/"
+	"listofdlc" "1640500,1701200,1797280,1845330,1903090,1935250,1958580,2094140,2184830,3017050"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Chernobylite"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ChernobylGame.exe"
+			"type" "default"
+		}
+		"10"
+		{
+			"executable" "ChernobylGame.exe"
+			"arguments" "-dx12"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Chernobylite Enhanced Edition (DirectX 12)"
+			}
+			"description" "Chernobylite Enhanced Edition (DirectX 12)"
+		}
+		"11"
+		{
+			"executable" "ChernobylGame.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "1"
+	"1016801"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5026200692860711757"
+				"size" "40253308368"
+				"download" "38592464576"
+			}
+		}
+	}
+	"1083080"
+	{
+		"dlcappid" "1083080"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17033461"
+			"timeupdated" "1737462431"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ChernobylGame/Saved/SaveGames"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27210918"
+"_sha" "6f7b2780d791ac64b7ab7d30086b6981cbaf6fd4"
+"_size" "6994"
