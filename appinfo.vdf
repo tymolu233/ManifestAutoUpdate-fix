@@ -1,0 +1,395 @@
+"appid" "2205850"
+"common"
+{
+	"name" "Dwarves: Glory, Death and Loot"
+	"type" "Game"
+	"icon" "3029f3aa7ce5fa9f99427611debe64d8943a1396"
+	"linuxclienticon" "187000895ebf578ef819be38596a266c82d00718"
+	"clienticon" "7b8c29fb3a4224d98424416306b229bc1796b7df"
+	"clienttga" "4c0290e7573f78e26bd796a8b9b31a8a88b12bdf"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "矮人军团自走棋"
+		"japanese" "ドワーフオートバトル"
+		"koreana" "드워프 오토체스"
+	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1694044800"
+		"tested_build_id" "12000425"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "ecbea50f94dbd3e85f2c04fae42450ffdfa46006/capsule_231x87.jpg"
+		"schinese" "1949ee07e752344190fda3878fec39bce20ff32e/capsule_231x87_schinese.jpg"
+		"tchinese" "9278cadfa708118aac4f07d73a32f8eaa35e1cf4/capsule_231x87_tchinese.jpg"
+		"japanese" "78917d898b024869228002fa8fb67c4e3a0ead91/capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw,ja"
+		"library_hero" "en,zh-cn,zh-tw,ja"
+		"library_hero_blur" "zh-cn,zh-tw,ja"
+		"library_logo" "en,zh-cn,zh-tw,ja"
+		"library_header" "zh-cn,zh-tw,en,ja"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "42.5904317386231"
+			"height_pct" "47.94585609118975"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "1325dcb7d1e459073d49318a888bb0cb39c258fb/library_600x900.jpg"
+				"schinese" "f7bebb6a521faabfc27dc20f0fabbb609b5f4a78/library_600x900_schinese.jpg"
+				"tchinese" "1454a5aed81ccf29639f78f07e2dd76db05d4d8c/library_600x900_tchinese.jpg"
+				"japanese" "7df0a50ffc42a2d93a205aa1d4f351f6d47d4110/library_600x900_japanese.jpg"
+			}
+			"image2x"
+			{
+				"english" "1325dcb7d1e459073d49318a888bb0cb39c258fb/library_600x900_2x.jpg"
+				"schinese" "f7bebb6a521faabfc27dc20f0fabbb609b5f4a78/library_600x900_schinese_2x.jpg"
+				"tchinese" "1454a5aed81ccf29639f78f07e2dd76db05d4d8c/library_600x900_tchinese_2x.jpg"
+				"japanese" "7df0a50ffc42a2d93a205aa1d4f351f6d47d4110/library_600x900_japanese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "a422c28f152219a0d8733d5d191670566a572b7e/library_hero_schinese.jpg"
+				"tchinese" "a422c28f152219a0d8733d5d191670566a572b7e/library_hero_tchinese.jpg"
+				"japanese" "a422c28f152219a0d8733d5d191670566a572b7e/library_hero_japanese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "a422c28f152219a0d8733d5d191670566a572b7e/library_hero_schinese_2x.jpg"
+				"tchinese" "a422c28f152219a0d8733d5d191670566a572b7e/library_hero_tchinese_2x.jpg"
+				"japanese" "a422c28f152219a0d8733d5d191670566a572b7e/library_hero_japanese_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"schinese" "a422c28f152219a0d8733d5d191670566a572b7e/library_hero_blur_schinese.jpg"
+				"tchinese" "a422c28f152219a0d8733d5d191670566a572b7e/library_hero_blur_tchinese.jpg"
+				"japanese" "a422c28f152219a0d8733d5d191670566a572b7e/library_hero_blur_japanese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "42.5904317386231"
+				"height_pct" "47.94585609118975"
+			}
+			"image"
+			{
+				"english" "9d98800dbc0920fb6654b8611e36b74b13bd138e/logo.png"
+				"schinese" "f751c9063210b818edcdd251756f752be5fb90c9/logo_schinese.png"
+				"tchinese" "15fda8ec6733edc9e5fe27023e5a95e4821a3952/logo_tchinese.png"
+				"japanese" "4db1a8571adc5e8354edb252d874ba45ac0465f3/logo_japanese.png"
+			}
+			"image2x"
+			{
+				"english" "9d98800dbc0920fb6654b8611e36b74b13bd138e/logo_2x.png"
+				"schinese" "f751c9063210b818edcdd251756f752be5fb90c9/logo_schinese_2x.png"
+				"tchinese" "15fda8ec6733edc9e5fe27023e5a95e4821a3952/logo_tchinese_2x.png"
+				"japanese" "4db1a8571adc5e8354edb252d874ba45ac0465f3/logo_japanese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "f2cf2f6a2c4191ea43121442802420ff91bc7864/library_header_schinese.jpg"
+				"tchinese" "2bbf50910cd33d41d75d170ed2af2daa026e0c0b/library_header_tchinese.jpg"
+				"english" "bd5e265b490cf95cc89275ed5cf8fd945157b002/library_header.jpg"
+				"japanese" "84455eb203b7a6ad1dd884c7b0e96ff9268c35f3/library_header_japanese.jpg"
+			}
+			"image2x"
+			{
+				"english" "bd5e265b490cf95cc89275ed5cf8fd945157b002/library_header_2x.jpg"
+				"schinese" "f2cf2f6a2c4191ea43121442802420ff91bc7864/library_header_schinese_2x.jpg"
+				"tchinese" "2bbf50910cd33d41d75d170ed2af2daa026e0c0b/library_header_tchinese_2x.jpg"
+				"japanese" "84455eb203b7a6ad1dd884c7b0e96ff9268c35f3/library_header_japanese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734595896"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ichbinhamma"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "INSTINCT3"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Gamersky Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Gamersky Games"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "2"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_29" "1"
+		"category_15" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1692255515"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2205850"
+	"store_tags"
+	{
+		"0" "7918"
+		"1" "1084988"
+		"2" "122"
+		"3" "4747"
+		"4" "9"
+		"5" "1716"
+		"6" "21725"
+		"7" "6276"
+		"8" "3964"
+		"9" "3959"
+		"10" "5125"
+		"11" "597"
+		"12" "1684"
+		"13" "4236"
+		"14" "4182"
+		"15" "17305"
+		"16" "4057"
+		"17" "492"
+		"18" "1759"
+		"19" "3871"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "ichbinhamma"
+	"publisher" "INSTINCT3"
+}
+"config"
+{
+	"installdir" "Dwarves Glory, Death and Loot"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "dwarves.exe"
+		}
+	}
+}
+"depots"
+{
+	"2205851"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8185190522957737379"
+				"size" "708903238"
+				"download" "372822480"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17423298"
+			"timeupdated" "1739972526"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "ichbinhamma/dwarves/"
+			"pattern" "*.save"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27554981"
+"_sha" "1c2a6ea11981d42bbb2b7c32e584735e51f8ca10"
+"_size" "9020"
