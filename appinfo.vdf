@@ -1,0 +1,527 @@
+"appid" "600480"
+"common"
+{
+	"name" "Megaquarium"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "86a520e7705971d7f8743c8950abee78a22042c3"
+	"logo_small" "86a520e7705971d7f8743c8950abee78a22042c3_thumb"
+	"icon" "0ae9dbf6dd54e0de796f07b470a72d4a5c348b7b"
+	"clienticon" "bb9f346dac5c9e3a9970d8f4ff6c7c2808533b86"
+	"clienttga" "597d3350945ae1bdf445d401fc7629b70f5f92e4"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1646179200"
+		"tested_build_id" "7894800"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Megaquarium"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "46.538883111773146"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "46.538883111773146"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1705945783"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Twice Circled"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Twice Circled"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_30" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1536822060"
+	"metacritic_score" "69"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/megaquarium\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "600480"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "599"
+		"2" "1643"
+		"3" "3810"
+		"4" "12472"
+		"5" "9157"
+		"6" "916648"
+		"7" "4726"
+		"8" "1654"
+		"9" "8945"
+		"10" "492"
+		"11" "1669"
+		"12" "4695"
+		"13" "5350"
+		"14" "15564"
+		"15" "9"
+		"16" "4845"
+		"17" "4182"
+		"18" "5851"
+		"19" "4191"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Twice Circled"
+	"publisher" "Twice Circled"
+	"homepage" "http://www.megaquariumgame.com"
+	"listofdlc" "1315300,1339440,2574770"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Megaquarium"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Megaquarium.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Megaquarium.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Megaquarium.x86_64"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2270123223"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "600480"
+	"hasdepotsindlc" "0"
+	"baselanguages" "english"
+	"600481"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6332609995632173844"
+				"size" "519920025"
+				"download" "252381936"
+			}
+			"beta"
+			{
+				"gid" "6332609995632173844"
+				"size" "519920025"
+				"download" "252381936"
+			}
+		}
+	}
+	"600482"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6850385675377483384"
+				"size" "521895371"
+				"download" "252829392"
+			}
+			"beta"
+			{
+				"gid" "6850385675377483384"
+				"size" "521895371"
+				"download" "252829392"
+			}
+		}
+	}
+	"600483"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3985718066241916266"
+				"size" "531636664"
+				"download" "254279504"
+			}
+			"beta"
+			{
+				"gid" "3985718066241916266"
+				"size" "531636664"
+				"download" "254279504"
+			}
+		}
+	}
+	"1315300"
+	{
+		"dlcappid" "1315300"
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2419522766414517311"
+				"size" "69822199"
+				"download" "28662464"
+			}
+			"beta"
+			{
+				"gid" "2419522766414517311"
+				"size" "69822199"
+				"download" "28662464"
+			}
+		}
+	}
+	"1315301"
+	{
+		"dlcappid" "1315300"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6063619650681956326"
+				"size" "69822199"
+				"download" "28662464"
+			}
+			"beta"
+			{
+				"gid" "6063619650681956326"
+				"size" "69822199"
+				"download" "28662464"
+			}
+		}
+	}
+	"1339440"
+	{
+		"dlcappid" "1339440"
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6069528085749270868"
+				"size" "57464291"
+				"download" "21618736"
+			}
+			"beta"
+			{
+				"gid" "6069528085749270868"
+				"size" "57464291"
+				"download" "21618736"
+			}
+		}
+	}
+	"1339441"
+	{
+		"dlcappid" "1339440"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "345673800770966237"
+				"size" "57464291"
+				"download" "21618736"
+			}
+			"beta"
+			{
+				"gid" "345673800770966237"
+				"size" "57464291"
+				"download" "21618736"
+			}
+		}
+	}
+	"2574770"
+	{
+		"dlcappid" "2574770"
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2713715709974073370"
+				"size" "116364760"
+				"download" "43258064"
+			}
+			"beta"
+			{
+				"gid" "2713715709974073370"
+				"size" "116364760"
+				"download" "43258064"
+			}
+		}
+	}
+	"2574771"
+	{
+		"dlcappid" "2574770"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6132364421517374570"
+				"size" "116364760"
+				"download" "43258064"
+			}
+			"beta"
+			{
+				"gid" "6132364421517374570"
+				"size" "116364760"
+				"download" "43258064"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15035287"
+			"timeupdated" "1721120794"
+		}
+		"beta"
+		{
+			"buildid" "15035287"
+			"description" "Early access to new features. Unstable."
+			"timeupdated" "1721120709"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "5000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "4fda5eb7b6c1a468417a60fa9c30898d74d34c8d"
+"_size" "8667"
