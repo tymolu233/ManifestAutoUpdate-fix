@@ -1,0 +1,428 @@
+"appid" "1287840"
+"common"
+{
+	"name" "Disciples: Liberation"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "9df514f64e54ec553e21d87199a06f5d4bb7bf1b"
+	"logo_small" "9df514f64e54ec553e21d87199a06f5d4bb7bf1b_thumb"
+	"icon" "ac24bd94f536556d85b70efa1684354fd75d76b8"
+	"clienticon" "4f9e37c7d80476c650b4a2aeb52f7541528a7c26"
+	"clienttga" "32a2fcb077d00a521b40beb567c5337b83d4a73c"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1647993600"
+		"tested_build_id" "8350333"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "57.20013702412576"
+			"height_pct" "89.0634619816193"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "57.20013702412576"
+				"height_pct" "89.0634619816193"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1724744644"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Frima Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kalypso Media"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Disciples"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "3"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1634921340"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1287840"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "9"
+		"2" "4604"
+		"3" "7208"
+		"4" "21725"
+		"5" "1741"
+		"6" "6971"
+		"7" "14139"
+		"8" "1708"
+		"9" "5851"
+		"10" "4182"
+		"11" "4345"
+		"12" "1775"
+		"13" "12095"
+		"14" "4325"
+		"15" "4166"
+		"16" "1742"
+		"17" "1667"
+		"18" "4018"
+		"19" "17015"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"developer" "Frima Studio"
+	"publisher" "Kalypso Media"
+	"listofdlc" "1652430,1827250"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Disciples Liberation"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "LauncherDisciplesLiberation.exe"
+			"arguments" "--gamePid DL4"
+			"type" "config"
+			"description_loc"
+			{
+				"english" "with Kalypso Launcher"
+			}
+			"description" "with Kalypso Launcher"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1287841"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6311342484605063699"
+				"size" "10926327293"
+				"download" "7353455904"
+			}
+		}
+	}
+	"1287842"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8637970798559105326"
+				"size" "1269477442"
+				"download" "915650208"
+			}
+		}
+	}
+	"1287843"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1913400865197067564"
+				"size" "1257858982"
+				"download" "880501968"
+			}
+		}
+	}
+	"1287844"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5443093351191011311"
+				"size" "1293087482"
+				"download" "935641360"
+			}
+		}
+	}
+	"1287845"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+	}
+	"1287846"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+	}
+	"1287847"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+	}
+	"1287848"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2652314506444930257"
+				"size" "1419351561"
+				"download" "1055046928"
+			}
+		}
+	}
+	"1287849"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+	}
+	"1652430"
+	{
+		"dlcappid" "1652430"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3050274490486472047"
+				"size" "108739607"
+				"download" "101640784"
+			}
+		}
+	}
+	"1827250"
+	{
+		"dlcappid" "1827250"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8350333"
+			"timeupdated" "1647522037"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Kalypso Media/Disciples Liberation/Saves/{64BitSteamID}"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26903563"
+"_sha" "19503a45ef705429e7c6e4faf19186f11ee1b1f2"
+"_size" "6898"
