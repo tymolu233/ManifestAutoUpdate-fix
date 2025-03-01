@@ -1,0 +1,767 @@
+"appid" "368340"
+"common"
+{
+	"name" "CrossCode"
+	"type" "Game"
+	"logo" "ea0921b3ad5e783a881ce1c9a359ed902eea4851"
+	"logo_small" "ea0921b3ad5e783a881ce1c9a359ed902eea4851_thumb"
+	"icon" "188180728b733f64997d37d6ca92d1482405ca71"
+	"clienttga" "410b42e8f6fdf60afd4737de1724ebb6e03d486e"
+	"oslist" "windows,macos,linux"
+	"clienticon" "96048463cd3d89f7faf499b51725eac0d3280b81"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"japanese" "1"
+	}
+	"osarch" ""
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1658275200"
+		"tested_build_id" "8631542"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "CrossCode"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "54"
+			"height_pct" "55"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "54"
+				"height_pct" "55"
+			}
+		}
+	}
+	"store_asset_mtime" "1631623489"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Radical Fish Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Deck13"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "WhisperGames"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "DANGEN Entertainment"
+		}
+		"4"
+		{
+			"type" "publisher"
+			"name" "Mayflower Entertainment"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "Deck13 Spotlight"
+		}
+		"6"
+		{
+			"type" "franchise"
+			"name" "Focus Entertainment"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1537509600"
+	"metacritic_score" "86"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/crosscode\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "368340"
+	"store_tags"
+	{
+		"0" "4231"
+		"1" "3964"
+		"2" "122"
+		"3" "7208"
+		"4" "1664"
+		"5" "4182"
+		"6" "492"
+		"7" "1756"
+		"8" "3871"
+		"9" "1742"
+		"10" "21"
+		"11" "19"
+		"12" "4004"
+		"13" "4085"
+		"14" "3942"
+		"15" "4434"
+		"16" "4106"
+		"17" "4026"
+		"18" "4115"
+		"19" "1695"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Radical Fish Games"
+	"publisher" "Deck13"
+	"homepage" "http://www.cross-code.com"
+	"listofdlc" "960310,1517030,1585790"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "CrossCode"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CrossCode.exe"
+			"arguments" "--startedFromSteam"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "CrossCode"
+			"arguments" "--in-process-gpu --startedFromSteam"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "CrossCode.app"
+			"arguments" "--startedFromSteam"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "english"
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"368341"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3927393019217881865"
+				"size" "1000653392"
+				"download" "512682160"
+			}
+			"aprilfools2016"
+			{
+				"gid" "1180010439994701570"
+				"size" "140966059"
+				"download" "102184832"
+			}
+			"nwjs_old"
+			{
+				"gid" "4228202423099721243"
+				"size" "882635781"
+				"download" "476995680"
+			}
+			"speedrunner"
+			{
+				"gid" "3980115939652872606"
+				"size" "850538830"
+				"download" "426983424"
+			}
+		}
+	}
+	"368342"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4827934404552640655"
+				"size" "1222924598"
+				"download" "553957008"
+			}
+			"aprilfools2016"
+			{
+				"gid" "2908656401648221900"
+				"size" "189222281"
+				"download" "112700656"
+			}
+			"nwjs_old"
+			{
+				"gid" "258151084792068199"
+				"size" "976908798"
+				"download" "496768192"
+			}
+			"speedrunner"
+			{
+				"gid" "1901118165550054582"
+				"size" "898184632"
+				"download" "430126336"
+			}
+		}
+	}
+	"368343"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1605626617428248393"
+				"size" "1224222050"
+				"download" "549658544"
+			}
+			"aprilfools2016"
+			{
+				"gid" "3229596268579310718"
+				"size" "180290079"
+				"download" "111837952"
+			}
+			"nwjs_old"
+			{
+				"gid" "3310613811570465709"
+				"size" "966844486"
+				"download" "496567888"
+			}
+			"speedrunner"
+			{
+				"gid" "7253983787566467470"
+				"size" "892588436"
+				"download" "427763440"
+			}
+		}
+	}
+	"368344"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "484362191249278720"
+				"size" "1151967756"
+				"download" "554423008"
+			}
+			"aprilfools2016"
+			{
+				"gid" "2589629656556435167"
+				"size" "209158919"
+				"download" "106233968"
+			}
+			"nwjs_old"
+			{
+				"gid" "5174830078954917370"
+				"size" "957055617"
+				"download" "495134976"
+			}
+			"speedrunner"
+			{
+				"gid" "706141931606316835"
+				"size" "877087001"
+				"download" "432058160"
+			}
+		}
+	}
+	"368349"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6897918957549066317"
+				"size" "1022241480"
+				"download" "514584864"
+			}
+			"nwjs_old"
+			{
+				"gid" "679994552563076144"
+				"size" "882635781"
+				"download" "476562672"
+			}
+			"speedrunner"
+			{
+				"gid" "7830083108386638659"
+				"size" "869354698"
+				"download" "428404240"
+			}
+		}
+	}
+	"368345"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7374927339918629983"
+				"size" "1022394776"
+				"download" "514314928"
+			}
+			"nwjs_old"
+			{
+				"gid" "4829725051874767783"
+				"size" "882770293"
+				"download" "476276880"
+			}
+			"speedrunner"
+			{
+				"gid" "4954201910177673885"
+				"size" "869533594"
+				"download" "428159376"
+			}
+		}
+	}
+	"368346"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "32"
+		}
+	}
+	"368347"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+	}
+	"368348"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"916190"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9078418595481119991"
+				"size" "349193372"
+				"download" "349287696"
+			}
+			"nwjs_old"
+			{
+				"gid" "9078418595481119991"
+				"size" "349193372"
+				"download" "349287696"
+			}
+			"speedrunner"
+			{
+				"gid" "9078418595481119991"
+				"size" "349193372"
+				"download" "349287696"
+			}
+		}
+	}
+	"960310"
+	{
+		"dlcappid" "960310"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1938747516704495851"
+				"size" "118902"
+				"download" "106432"
+			}
+			"nwjs_old"
+			{
+				"gid" "1938747516704495851"
+				"size" "118902"
+				"download" "106432"
+			}
+			"speedrunner"
+			{
+				"gid" "1819462255576140614"
+				"size" "118327"
+				"download" "106288"
+			}
+		}
+	}
+	"916191"
+	{
+		"dlcappid" "960310"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9153021691655009916"
+				"size" "118902"
+				"download" "106432"
+			}
+			"nwjs_old"
+			{
+				"gid" "9153021691655009916"
+				"size" "118902"
+				"download" "106432"
+			}
+			"speedrunner"
+			{
+				"gid" "3498473320616428612"
+				"size" "118327"
+				"download" "106288"
+			}
+		}
+	}
+	"1517030"
+	{
+		"dlcappid" "1517030"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4342177751486568372"
+				"size" "40939242"
+				"download" "3666336"
+			}
+			"nwjs_old"
+			{
+				"gid" "4342177751486568372"
+				"size" "40939242"
+				"download" "3666336"
+			}
+		}
+	}
+	"1517031"
+	{
+		"dlcappid" "1517030"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1497618732334206285"
+				"size" "40939242"
+				"download" "3666336"
+			}
+			"nwjs_old"
+			{
+				"gid" "1497618732334206285"
+				"size" "40939242"
+				"download" "3666336"
+			}
+		}
+	}
+	"1585790"
+	{
+		"dlcappid" "1585790"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2845237873865804524"
+				"size" "1119404"
+				"download" "1064448"
+			}
+			"nwjs_old"
+			{
+				"gid" "2845237873865804524"
+				"size" "1119404"
+				"download" "1064448"
+			}
+		}
+	}
+	"1585791"
+	{
+		"dlcappid" "1585790"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9154997127068398914"
+				"size" "1119404"
+				"download" "1064448"
+			}
+			"nwjs_old"
+			{
+				"gid" "9154997127068398914"
+				"size" "1119404"
+				"download" "1064448"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11438847"
+			"timeupdated" "1686397404"
+		}
+		"aprilfools2016"
+		{
+			"buildid" "1052236"
+			"timeupdated" "1459588985"
+		}
+		"nwjs_old"
+		{
+			"buildid" "11439110"
+			"description" "Might crash less often."
+			"timeupdated" "1686397437"
+		}
+		"speedrunner"
+		{
+			"buildid" "5214329"
+			"timeupdated" "1593094339"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "."
+			"pattern" "cc.sav*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocal"
+			"addpath" "CrossCode"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" "CrossCode/Default"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".config/CrossCode/Default"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27106886"
+"_sha" "aa039d8f2f9748ef59b670a2a4797b4a2066e28e"
+"_size" "12589"
