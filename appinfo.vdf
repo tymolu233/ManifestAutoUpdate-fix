@@ -1,0 +1,1089 @@
+"appid" "1282590"
+"common"
+{
+	"name" "Train Sim World® 2"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "92db46b9b8fca9dd9462ef524c024ff0ff4dbc02"
+	"logo_small" "92db46b9b8fca9dd9462ef524c024ff0ff4dbc02_thumb"
+	"icon" "1ae9efd1d3e696051d6228d84ea74bbf13d5b2dc"
+	"clienticon" "9980af34a675e4e40c9833695267f321a0536c96"
+	"clienttga" "4f9534a07bb8b126f443221cb64a2d5e21ea5b04"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1654300800"
+		"tested_build_id" "8596856"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "seccomp,"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "41.93276857497439"
+			"height_pct" "34.09435168738898"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "41.93276857497439"
+				"height_pct" "34.09435168738898"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1662119115"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Dovetail Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Dovetail Games - TSW"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Train Sim World"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_15" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1597942740"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1282590"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "1616"
+		"2" "4175"
+		"3" "1644"
+		"4" "4182"
+		"5" "10383"
+		"6" "3839"
+		"7" "1654"
+		"8" "5350"
+		"9" "3968"
+		"10" "9204"
+		"11" "4166"
+		"12" "1100687"
+		"13" "21"
+		"14" "1695"
+		"15" "3859"
+		"16" "4026"
+		"17" "21978"
+		"18" "1685"
+		"19" "6650"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "Dovetail Games"
+	"publisher" "Dovetail Games - TSW"
+	"homepage" "http://trainsimworld.com/"
+	"gamemanualurl" "https://store.steampowered.com/manual/1282590/"
+	"listofdlc" "1304410,1304411,1304412,1304413,1304414,1304415,1304416,1304417,1304418,1304419,1304440,1304441,1304442,1304444,1304445,1304446,1304447,1304448,1304449,1304460,1304461,1304462,1304463,1304464,1304467,1304468,1304469,1418840,1418841,1418842,1418843,1418844,1418845,1418846,1418847,1418848,1418849,1490110,1490111,1490112,1490113,1490114,1490115,1490116,1490117,1490119,1664930,1664931,1664950,1664951,1664952,1664953,1664955,1664956,1664957,1664958"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Train Sim World 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WindowsNoEditor\\TS2Prototype.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,schinese,russian,polish"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1282591"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6157919993188448167"
+				"size" "14457826219"
+				"download" "13373471232"
+			}
+		}
+	}
+	"1304410"
+	{
+		"dlcappid" "1304410"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "930735823827706214"
+				"size" "4675513540"
+				"download" "4518676944"
+			}
+		}
+	}
+	"1304411"
+	{
+		"dlcappid" "1304411"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8576196314371238320"
+				"size" "3884777588"
+				"download" "3754603200"
+			}
+		}
+	}
+	"1304412"
+	{
+		"dlcappid" "1304412"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6777587697686398850"
+				"size" "1828659248"
+				"download" "1755029072"
+			}
+		}
+	}
+	"1304413"
+	{
+		"dlcappid" "1304413"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6113722166512876457"
+				"size" "3720428046"
+				"download" "3578656912"
+			}
+		}
+	}
+	"1304414"
+	{
+		"dlcappid" "1304414"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3492250715692701948"
+				"size" "4521627103"
+				"download" "4341706496"
+			}
+		}
+	}
+	"1304415"
+	{
+		"dlcappid" "1304415"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1252303919626997650"
+				"size" "4864451684"
+				"download" "4696803696"
+			}
+		}
+	}
+	"1304416"
+	{
+		"dlcappid" "1304416"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3699673405252258341"
+				"size" "88746330"
+				"download" "86204368"
+			}
+		}
+	}
+	"1304417"
+	{
+		"dlcappid" "1304417"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3884537667909140267"
+				"size" "3392900970"
+				"download" "3253630160"
+			}
+		}
+	}
+	"1304418"
+	{
+		"dlcappid" "1304418"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6762456534686421314"
+				"size" "237073679"
+				"download" "228396416"
+			}
+		}
+	}
+	"1304419"
+	{
+		"dlcappid" "1304419"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "893147273173260917"
+				"size" "153751555"
+				"download" "150589824"
+			}
+		}
+	}
+	"1304440"
+	{
+		"dlcappid" "1304440"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3356044620683779526"
+				"size" "86175793"
+				"download" "83183840"
+			}
+		}
+	}
+	"1304441"
+	{
+		"dlcappid" "1304441"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7022720986511472825"
+				"size" "232815679"
+				"download" "225547936"
+			}
+		}
+	}
+	"1304442"
+	{
+		"dlcappid" "1304442"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5036772500267136193"
+				"size" "4266339977"
+				"download" "4094404128"
+			}
+		}
+	}
+	"1304443"
+	{
+		"dlcappid" "1304443"
+	}
+	"1304444"
+	{
+		"dlcappid" "1304444"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4767810258535872367"
+				"size" "3804172014"
+				"download" "3691716208"
+			}
+		}
+	}
+	"1304445"
+	{
+		"dlcappid" "1304445"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8492486044942285046"
+				"size" "4491864145"
+				"download" "4305872432"
+			}
+		}
+	}
+	"1304446"
+	{
+		"dlcappid" "1304446"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4502142859695292683"
+				"size" "136329998"
+				"download" "133758064"
+			}
+		}
+	}
+	"1304447"
+	{
+		"dlcappid" "1304447"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4219248799338988282"
+				"size" "3930739090"
+				"download" "3745567024"
+			}
+		}
+	}
+	"1304448"
+	{
+		"dlcappid" "1304448"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4862776373226241452"
+				"size" "240215388"
+				"download" "229342656"
+			}
+		}
+	}
+	"1304449"
+	{
+		"dlcappid" "1304449"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8210201246077547206"
+				"size" "2510240089"
+				"download" "2366615952"
+			}
+		}
+	}
+	"1304460"
+	{
+		"dlcappid" "1304460"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5506125357159581032"
+				"size" "105304822"
+				"download" "102693232"
+			}
+		}
+	}
+	"1304461"
+	{
+		"dlcappid" "1304461"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "413785099872903911"
+				"size" "2877490604"
+				"download" "2741436512"
+			}
+		}
+	}
+	"1304462"
+	{
+		"dlcappid" "1304462"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1276960725392839096"
+				"size" "123394155"
+				"download" "120280064"
+			}
+		}
+	}
+	"1304463"
+	{
+		"dlcappid" "1304463"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4963999118186462702"
+				"size" "127911697"
+				"download" "124986624"
+			}
+		}
+	}
+	"1304464"
+	{
+		"dlcappid" "1304464"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4804298498828698261"
+				"size" "132243833"
+				"download" "128533920"
+			}
+		}
+	}
+	"1304467"
+	{
+		"dlcappid" "1304467"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6424164429199396738"
+				"size" "2380760737"
+				"download" "2120462976"
+			}
+		}
+	}
+	"1304468"
+	{
+		"dlcappid" "1304468"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1651750321795398742"
+				"size" "4513909931"
+				"download" "4361126832"
+			}
+		}
+	}
+	"1418840"
+	{
+		"dlcappid" "1418840"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8988213623692277695"
+				"size" "158523357"
+				"download" "154278704"
+			}
+		}
+	}
+	"1418841"
+	{
+		"dlcappid" "1418841"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2124616890671487846"
+				"size" "226074354"
+				"download" "219126816"
+			}
+		}
+	}
+	"1418842"
+	{
+		"dlcappid" "1418842"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6572337617891959736"
+				"size" "4006277047"
+				"download" "3859029712"
+			}
+		}
+	}
+	"1418848"
+	{
+		"dlcappid" "1418848"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4430984055730109160"
+				"size" "446887601"
+				"download" "429449488"
+			}
+		}
+	}
+	"1418849"
+	{
+		"dlcappid" "1418849"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "587954276564357901"
+				"size" "3801937606"
+				"download" "3667395232"
+			}
+		}
+	}
+	"1418843"
+	{
+		"dlcappid" "1418843"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5496348370662384378"
+				"size" "3884118283"
+				"download" "3609741888"
+			}
+		}
+	}
+	"1418844"
+	{
+		"dlcappid" "1418844"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4599092830031247259"
+				"size" "3756819548"
+				"download" "3660044976"
+			}
+		}
+	}
+	"1418845"
+	{
+		"dlcappid" "1418845"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4224550817574896880"
+				"size" "208190286"
+				"download" "203589440"
+			}
+		}
+	}
+	"1418846"
+	{
+		"dlcappid" "1418846"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6043793823999930957"
+				"size" "4681946522"
+				"download" "4531261584"
+			}
+		}
+	}
+	"1418847"
+	{
+		"dlcappid" "1418847"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8324394856334432039"
+				"size" "145118920"
+				"download" "139335760"
+			}
+		}
+	}
+	"1304469"
+	{
+		"dlcappid" "1304469"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4830633609159320764"
+				"size" "181174941"
+				"download" "177949312"
+			}
+		}
+	}
+	"1490113"
+	{
+		"dlcappid" "1490113"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "644597912338742144"
+				"size" "245889797"
+				"download" "226181904"
+			}
+		}
+	}
+	"1490111"
+	{
+		"dlcappid" "1490111"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6801813208449781936"
+				"size" "4640430559"
+				"download" "4486446992"
+			}
+		}
+	}
+	"1490110"
+	{
+		"dlcappid" "1490110"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "412799780902741957"
+				"size" "176760509"
+				"download" "169054288"
+			}
+		}
+	}
+	"1490112"
+	{
+		"dlcappid" "1490112"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6870904896006274250"
+				"size" "3202931279"
+				"download" "3081272976"
+			}
+		}
+	}
+	"1490116"
+	{
+		"dlcappid" "1490116"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1464508770814457792"
+				"size" "6868680408"
+				"download" "6688210928"
+			}
+		}
+	}
+	"1490114"
+	{
+		"dlcappid" "1490114"
+	}
+	"1490115"
+	{
+		"dlcappid" "1490115"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7635072947817347873"
+				"size" "7103436228"
+				"download" "6839450272"
+			}
+		}
+	}
+	"1490119"
+	{
+		"dlcappid" "1490119"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2346823073333175899"
+				"size" "5308207760"
+				"download" "5124775648"
+			}
+		}
+	}
+	"1490117"
+	{
+		"dlcappid" "1490117"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7062790980369982052"
+				"size" "5449795252"
+				"download" "5303216544"
+			}
+		}
+	}
+	"1490118"
+	{
+		"dlcappid" "1490118"
+	}
+	"1664931"
+	{
+		"dlcappid" "1664931"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4074281121624989147"
+				"size" "3334916753"
+				"download" "3205833456"
+			}
+		}
+	}
+	"1664930"
+	{
+		"dlcappid" "1664930"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5430880043414860097"
+				"size" "5544145454"
+				"download" "5302991040"
+			}
+		}
+	}
+	"1664953"
+	{
+		"dlcappid" "1664953"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3188330129638501734"
+				"size" "7113001183"
+				"download" "6924179888"
+			}
+		}
+	}
+	"1664951"
+	{
+		"dlcappid" "1664951"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1158677533338883131"
+				"size" "173982796"
+				"download" "170729056"
+			}
+		}
+	}
+	"1664952"
+	{
+		"dlcappid" "1664952"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6422523230047923868"
+				"size" "165666185"
+				"download" "161068832"
+			}
+		}
+	}
+	"1664950"
+	{
+		"dlcappid" "1664950"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4818529517680126438"
+				"size" "5801761823"
+				"download" "5651102352"
+			}
+		}
+	}
+	"1664959"
+	{
+		"dlcappid" "1664959"
+	}
+	"1664964"
+	{
+		"dlcappid" "1664964"
+	}
+	"1664962"
+	{
+		"dlcappid" "1664962"
+	}
+	"1664963"
+	{
+		"dlcappid" "1664963"
+	}
+	"1664958"
+	{
+		"dlcappid" "1664958"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3360764532191965584"
+				"size" "2968819081"
+				"download" "2683452096"
+			}
+		}
+	}
+	"1664957"
+	{
+		"dlcappid" "1664957"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7949405521755912156"
+				"size" "5171632336"
+				"download" "5005860576"
+			}
+		}
+	}
+	"1664961"
+	{
+		"dlcappid" "1664961"
+	}
+	"1664960"
+	{
+		"dlcappid" "1664960"
+	}
+	"1664967"
+	{
+		"dlcappid" "1664967"
+	}
+	"1664954"
+	{
+		"dlcappid" "1664954"
+	}
+	"1664956"
+	{
+		"dlcappid" "1664956"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3538898711059227953"
+				"size" "614750691"
+				"download" "594534256"
+			}
+		}
+	}
+	"1664955"
+	{
+		"dlcappid" "1664955"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3910662879686416343"
+				"size" "3719926410"
+				"download" "3589363184"
+			}
+		}
+	}
+	"1664966"
+	{
+		"dlcappid" "1664966"
+	}
+	"1664965"
+	{
+		"dlcappid" "1664965"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9225963"
+			"timeupdated" "1659445970"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26911203"
+"_sha" "b202425cb276247cd4ce063c2ed313195f36e5c6"
+"_size" "16898"
