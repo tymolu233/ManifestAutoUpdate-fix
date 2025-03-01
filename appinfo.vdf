@@ -1,0 +1,464 @@
+"appid" "1000360"
+"common"
+{
+	"name" "Hellish Quart"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "c082200d0778eabce3a74d80b516b505006989c7"
+	"logo_small" "c082200d0778eabce3a74d80b516b505006989c7_thumb"
+	"icon" "ad33c84f76613fa4e35fc3db71de6e20901af8be"
+	"clienttga" "3fc9aa0f4edc7f551b7b7e3512dd9df37893e5ee"
+	"clienticon" "26871b89a61c133b7e406e2768d1091a0681f63e"
+	"releasestate" "released"
+	"controllervr"
+	{
+		"xinput" "1"
+		"kbm" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+	}
+	"openvrsupport" "1"
+	"othervrsupport" "1"
+	"othervrsupport_rift_13" "1"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "8067378"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "8265abbd09fd500b06d41e56953da519d5f2bedf/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "25.66190594867105"
+			"height_pct" "79.43094057734886"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "25.66190594867105"
+				"height_pct" "79.43094057734886"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1739094721"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Kubold"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kubold"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_1" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_42" "1"
+		"category_41" "1"
+		"category_29" "1"
+		"category_60" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1613494560"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1000360"
+	"store_tags"
+	{
+		"0" "1743"
+		"1" "4608"
+		"2" "4191"
+		"3" "19"
+		"4" "6915"
+		"5" "6506"
+		"6" "1697"
+		"7" "1773"
+		"8" "4172"
+		"9" "3987"
+		"10" "7481"
+		"11" "21978"
+		"12" "4345"
+		"13" "4175"
+		"14" "1669"
+		"15" "3968"
+		"16" "4145"
+		"17" "3993"
+		"18" "7368"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"absolutemousecoordinates" "1"
+	"remoteplaytogethertestingbranches" "default"
+	"vrheadsetstreaming" "1"
+	"developer" "Kubold"
+	"publisher" "Kubold"
+	"homepage" "https://www.hellishquart.com"
+}
+"config"
+{
+	"installdir" "Hellish Quart"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Hellish Quart.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Hellish Quart"
+			}
+			"description" "Hellish Quart"
+		}
+		"1"
+		{
+			"executable" "Hellish Quart.exe"
+			"arguments" "--enable-vr"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Hellish Quart VR"
+			}
+			"description" "Hellish Quart VR"
+		}
+		"2"
+		{
+			"executable" "Hellish Quart.exe"
+			"arguments" "--enable-vr"
+			"type" "othervr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Hellish Quart VR"
+			}
+			"description" "Hellish Quart VR"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2499627424"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"1000361"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4381375209933495653"
+				"size" "14921918680"
+				"download" "7664048688"
+			}
+			"oldversion"
+			{
+				"gid" "5123359371692701402"
+				"size" "6682472710"
+				"download" "2923112448"
+			}
+			"oldversion2"
+			{
+				"gid" "6893377269474617730"
+				"size" "11124698417"
+				"download" "5430156896"
+			}
+			"oldversion3"
+			{
+				"gid" "4581055127693472488"
+				"size" "13046058152"
+				"download" "6191029168"
+			}
+			"oldversion4"
+			{
+				"gid" "2989871013164741742"
+				"size" "13419996969"
+				"download" "6406089088"
+			}
+			"oldversion5"
+			{
+				"gid" "3553641457987956521"
+				"size" "12921284614"
+				"download" "5942912592"
+			}
+			"oldversion6"
+			{
+				"gid" "4136333494913361815"
+				"size" "13656689824"
+				"download" "7027029872"
+			}
+			"test"
+			{
+				"gid" "4381375209933495653"
+				"size" "14921918680"
+				"download" "7664048688"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17495823"
+			"timeupdated" "1740468970"
+		}
+		"oldversion"
+		{
+			"buildid" "6425228"
+			"description" "From March 2021"
+			"timeupdated" "1648196198"
+		}
+		"oldversion2"
+		{
+			"buildid" "10810761"
+			"description" "From March 2023"
+			"timeupdated" "1707228995"
+		}
+		"oldversion3"
+		{
+			"buildid" "12976364"
+			"description" "From Dec 2023"
+			"timeupdated" "1707229129"
+		}
+		"oldversion4"
+		{
+			"buildid" "13466417"
+			"description" "From Feb 2024"
+			"timeupdated" "1708354997"
+		}
+		"oldversion5"
+		{
+			"buildid" "14096850"
+			"description" "From Apr 2024"
+			"timeupdated" "1718179573"
+		}
+		"oldversion6"
+		{
+			"buildid" "15927717"
+			"description" "From Nov 2024"
+			"timeupdated" "1732986994"
+		}
+		"test"
+		{
+			"buildid" "17495823"
+			"description" "Beta"
+			"timeupdated" "1740468015"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "15"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Kubold/Hellish Quart"
+			"pattern" "*.es3"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27651050"
+"_sha" "643f675e3c749a9269033f245362d15850b5d7d0"
+"_size" "8307"
