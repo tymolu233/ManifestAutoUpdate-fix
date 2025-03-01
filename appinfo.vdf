@@ -1,0 +1,806 @@
+"appid" "2054970"
+"common"
+{
+	"name" "Dragon\'s Dogma 2"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "f3d469e0d7a0e25ddd13db8ebf08f1c24d6478b0"
+	"clienticon" "a8eaa474f143bfdab634907e034ea6fa47086ccb"
+	"clienttga" "0c02d7c5b9790c444597578019b02937234b90d2"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2054970_eula_0"
+			"name" "Dragon\'s Dogma 2 EULA"
+			"url" "https://store.steampowered.com//eula/2054970_eula_0"
+			"version" "2"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1710979200"
+		"tested_build_id" "13678479"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Dragon\'s Dogma 2"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "23.186781828785556"
+			"height_pct" "41.66700658287976"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "23.186781828785556"
+				"height_pct" "41.66700658287976"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727763478"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CAPCOM Co., Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CAPCOM Co., Ltd."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Dragon\'s Dogma"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_60" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_61" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1711065600"
+	"metacritic_score" "88"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/dragons-dogma-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2054970"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "122"
+		"2" "4231"
+		"3" "1684"
+		"4" "19"
+		"5" "4182"
+		"6" "21"
+		"7" "4046"
+		"8" "4057"
+		"9" "4106"
+		"10" "4172"
+		"11" "4747"
+		"12" "4608"
+		"13" "1697"
+		"14" "3968"
+		"15" "7926"
+		"16" "3854"
+		"17" "3859"
+		"18" "4191"
+		"19" "6730"
+	}
+	"review_score" "5"
+	"review_percentage" "60"
+}
+"extended"
+{
+	"additional_dependencies"
+	{
+		"0"
+		{
+			"src_os" "windows"
+			"dest_os" "linux"
+			"h264" "1"
+		}
+	}
+	"developer" "CAPCOM Co., Ltd."
+	"publisher" "CAPCOM Co., Ltd."
+	"homepage" "https://www.dragonsdogma.com/2/"
+	"listofdlc" "2581000,2593170,2593180,2593190,2593200,2593210,2593220,2593230,2593240,2593250,2593260,2593270,2694820,2694830,2694840,2694850,2757060,2757080,2757090,2757120,2757130,2757140,2757170"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Dragons Dogma 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DD2.exe"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2054971"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4700353961762814567"
+				"size" "70743240221"
+				"download" "69273796672"
+			}
+		}
+	}
+	"2054972"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7877158511819024804"
+				"size" "70743240325"
+				"download" "69271629936"
+			}
+		}
+	}
+	"2054973"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8599559774821699236"
+				"size" "753387609"
+				"download" "359664064"
+			}
+		}
+	}
+	"2054974"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6732859399814637251"
+				"size" "757009497"
+				"download" "362191328"
+			}
+		}
+	}
+	"2581000"
+	{
+		"dlcappid" "2581000"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3326500289311024291"
+				"size" "551"
+				"download" "576"
+			}
+		}
+	}
+	"2593170"
+	{
+		"dlcappid" "2593170"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6723973524008089229"
+				"size" "551"
+				"download" "576"
+			}
+		}
+	}
+	"2593180"
+	{
+		"dlcappid" "2593180"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2634842059355884280"
+				"size" "14609"
+				"download" "13872"
+			}
+		}
+	}
+	"2593190"
+	{
+		"dlcappid" "2593190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7277756736244661036"
+				"size" "198079070"
+				"download" "179817312"
+			}
+		}
+	}
+	"2593200"
+	{
+		"dlcappid" "2593200"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3869936518091417960"
+				"size" "5301"
+				"download" "4864"
+			}
+		}
+	}
+	"2593210"
+	{
+		"dlcappid" "2593210"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5414532205501697728"
+				"size" "8751"
+				"download" "8016"
+			}
+		}
+	}
+	"2593220"
+	{
+		"dlcappid" "2593220"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7455982328362794134"
+				"size" "5787"
+				"download" "5344"
+			}
+		}
+	}
+	"2593230"
+	{
+		"dlcappid" "2593230"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7251928774923524569"
+				"size" "4289"
+				"download" "3856"
+			}
+		}
+	}
+	"2593240"
+	{
+		"dlcappid" "2593240"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "315069544162243504"
+				"size" "5219"
+				"download" "4768"
+			}
+		}
+	}
+	"2593250"
+	{
+		"dlcappid" "2593250"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "967135362921279442"
+				"size" "556"
+				"download" "576"
+			}
+		}
+	}
+	"2593260"
+	{
+		"dlcappid" "2593260"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "69183187290100698"
+				"size" "4770"
+				"download" "4336"
+			}
+		}
+	}
+	"2593270"
+	{
+		"dlcappid" "2593270"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2207132955792828001"
+				"size" "4829"
+				"download" "4384"
+			}
+		}
+	}
+	"2694820"
+	{
+		"dlcappid" "2694820"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5885578699773604089"
+				"size" "4762"
+				"download" "4320"
+			}
+		}
+	}
+	"2694830"
+	{
+		"dlcappid" "2694830"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1601933322779527921"
+				"size" "4762"
+				"download" "4320"
+			}
+		}
+	}
+	"2694840"
+	{
+		"dlcappid" "2694840"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "211900286292596559"
+				"size" "4759"
+				"download" "4320"
+			}
+		}
+	}
+	"2694850"
+	{
+		"dlcappid" "2694850"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8403226506099305605"
+				"size" "4761"
+				"download" "4320"
+			}
+		}
+	}
+	"2757060"
+	{
+		"dlcappid" "2757060"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "760063107766921264"
+				"size" "556"
+				"download" "576"
+			}
+		}
+	}
+	"2757080"
+	{
+		"dlcappid" "2757080"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5169243754881054003"
+				"size" "556"
+				"download" "576"
+			}
+		}
+	}
+	"2757090"
+	{
+		"dlcappid" "2757090"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3444076000364683673"
+				"size" "557"
+				"download" "576"
+			}
+		}
+	}
+	"2757100"
+	{
+		"dlcappid" "2757100"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3589438684669064439"
+				"size" "557"
+				"download" "576"
+			}
+		}
+	}
+	"2757110"
+	{
+		"dlcappid" "2757110"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6993325223339298221"
+				"size" "557"
+				"download" "576"
+			}
+		}
+	}
+	"2757120"
+	{
+		"dlcappid" "2757120"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1463489043546813420"
+				"size" "555"
+				"download" "576"
+			}
+		}
+	}
+	"2757130"
+	{
+		"dlcappid" "2757130"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "771876390790049210"
+				"size" "556"
+				"download" "576"
+			}
+		}
+	}
+	"2757140"
+	{
+		"dlcappid" "2757140"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1033236542373376685"
+				"size" "555"
+				"download" "576"
+			}
+		}
+	}
+	"2757150"
+	{
+		"dlcappid" "2757150"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4434377146123567945"
+				"size" "556"
+				"download" "576"
+			}
+		}
+	}
+	"2757160"
+	{
+		"dlcappid" "2757160"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3279848405850203304"
+				"size" "555"
+				"download" "576"
+			}
+		}
+	}
+	"2757170"
+	{
+		"dlcappid" "2757170"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3459631589371686775"
+				"size" "558"
+				"download" "576"
+			}
+		}
+	}
+	"2757180"
+	{
+		"dlcappid" "2757180"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5271075382477428458"
+				"size" "557"
+				"download" "576"
+			}
+		}
+	}
+	"2757190"
+	{
+		"dlcappid" "2757190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7353387220959454102"
+				"size" "556"
+				"download" "576"
+			}
+		}
+	}
+	"2757200"
+	{
+		"dlcappid" "2757200"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7794411242485950378"
+				"size" "557"
+				"download" "576"
+			}
+		}
+	}
+	"2757210"
+	{
+		"dlcappid" "2757210"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6663042780467633977"
+				"size" "557"
+				"download" "576"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17034813"
+			"timeupdated" "1738112463"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "200000000"
+	"maxnumfiles" "10"
+}
+"_missing_token" "False"
+"_change_number" "27707123"
+"_sha" "d3c85b12c596c160f709012a363ce82f770273b4"
+"_size" "12239"
