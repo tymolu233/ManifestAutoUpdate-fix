@@ -1,0 +1,243 @@
+"appid" "2130540"
+"common"
+{
+	"name" "目盲/Blind"
+	"type" "Game"
+	"icon" "9b5bf1f8729588db840b1eb9498365f1b8c2156d"
+	"clienticon" "cebf93f999b728344df6bff71aedc05112ca73cf"
+	"clienttga" "665cd3edccb05a64f8a3f8b20ccdac7c0681ba30"
+	"linuxclienticon" "cebf93f999b728344df6bff71aedc05112ca73cf"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1669801284"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "GOCORE"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "GOCORE"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1669465886"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2130540"
+	"store_tags"
+	{
+		"0" "7208"
+		"1" "3799"
+		"2" "9551"
+		"3" "1721"
+		"4" "5608"
+		"5" "4085"
+		"6" "6971"
+		"7" "3871"
+		"8" "5984"
+		"9" "122"
+		"10" "24003"
+		"11" "4947"
+		"12" "597"
+		"13" "4305"
+		"14" "5186"
+		"15" "5613"
+		"16" "1664"
+		"17" "1742"
+		"18" "31275"
+		"19" "5094"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "GOCORE"
+	"publisher" "GOCORE"
+	"listofdlc" "2425050"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "目盲Blind"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Blind.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2130541"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "710097791963416578"
+				"size" "2409063645"
+				"download" "1566807936"
+			}
+		}
+	}
+	"2425050"
+	{
+		"dlcappid" "2425050"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "10454567966294695"
+				"size" "6"
+				"download" "64"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"baselanguages" "schinese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15111251"
+			"timeupdated" "1721647115"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "GOCORE/Blind"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27561333"
+"_sha" "30146f9690c085fb50704e1586abf395047269d8"
+"_size" "3635"
