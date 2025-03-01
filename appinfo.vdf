@@ -1,0 +1,270 @@
+"appid" "2776450"
+"common"
+{
+	"name" "诸天刷宝录"
+	"type" "Game"
+	"icon" "c6e00f66fc6d52c48d5f64f631ff0423fdc647bd"
+	"clienticon" "e3947b5f357367d70dc8199b30d1a27f6d586e7f"
+	"clienttga" "52713473f15c1a51b94565c29740594b48451c1b"
+	"name_localized"
+	{
+		"english" "Multiverse Loot Hunter"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"schinese" "95cf797fe2628f03b5e84a6796f9ef2fa422010b/capsule_231x87_schinese.jpg"
+		"english" "7a81e51b8fe1bcae8e7cd8fe9815eb00ba27bc13/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "30.38049940546972"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "30.38049940546972"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729351342"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "游戏养家工作室"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "游戏养家工作室"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "小茫的挂机放置游戏集"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+		"5" "2"
+		"6" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1735869530"
+	"community_hub_visible" "1"
+	"gameid" "2776450"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "9"
+		"2" "4236"
+		"3" "615955"
+		"4" "4325"
+		"5" "21"
+		"6" "9564"
+		"7" "916648"
+		"8" "10679"
+		"9" "597"
+		"10" "493"
+		"11" "3959"
+		"12" "10695"
+		"13" "599"
+		"14" "17305"
+		"15" "492"
+		"16" "4305"
+		"17" "4182"
+		"18" "14139"
+		"19" "3964"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "游戏养家工作室"
+	"publisher" "游戏养家工作室"
+}
+"config"
+{
+	"installdir" "诸天刷宝录"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "game.exe"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"2776451"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "333847930922941104"
+				"size" "524208035"
+				"download" "349069968"
+			}
+			"compatibility"
+			{
+				"gid" "77838533930910650"
+				"size" "489244580"
+				"download" "337768880"
+			}
+		}
+	}
+	"2776452"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7049153464654453717"
+				"size" "459686816"
+				"download" "332886304"
+			}
+			"compatibility"
+			{
+				"gid" "7049153464654453717"
+				"size" "459686816"
+				"download" "332886304"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"baselanguages" "schinese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17555043"
+			"timeupdated" "1740791199"
+		}
+		"compatibility"
+		{
+			"buildid" "17531890"
+			"description" "无法进入游戏专用"
+			"timeupdated" "1740663896"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "savedir"
+			"pattern" "*.dat"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27731274"
+"_sha" "dfe6bdb8f83562d54df6b2d8cf136e3043342c31"
+"_size" "4363"
