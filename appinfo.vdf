@@ -1,0 +1,380 @@
+"appid" "1282210"
+"common"
+{
+	"name" "DEEMO -Reborn-"
+	"type" "Game"
+	"icon" "4e92244bab71fe9d63eda4ac44fbda76995e23c1"
+	"logo" "55450250c6d4ff9efb4d2bca12028d4e31d385dc"
+	"logo_small" "55450250c6d4ff9efb4d2bca12028d4e31d385dc_thumb"
+	"clienticon" "745bf2d4a66b09d5e906b16211ba08e8d1eaa7a7"
+	"clienttga" "622e7143c0a8f6a31e5d6483cbe865872e9938d9"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+	}
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"controllervr"
+	{
+		"oculus" "1"
+		"steamvr" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+	}
+	"openvrsupport" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1661299200"
+		"tested_build_id" "6292471"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "53.26721120186698"
+			"height_pct" "64.4383756827357"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "53.26721120186698"
+				"height_pct" "64.4383756827357"
+			}
+		}
+	}
+	"store_asset_mtime" "1667356718"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Rayark International Limited"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Rayark International Limited"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_52" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"german"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"russian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1599191160"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1282210"
+	"store_tags"
+	{
+		"0" "1752"
+		"1" "21"
+		"2" "1621"
+		"3" "1664"
+		"4" "5411"
+		"5" "4191"
+		"6" "5537"
+		"7" "1697"
+		"8" "4145"
+		"9" "9204"
+		"10" "19"
+		"11" "7208"
+		"12" "1710"
+		"13" "5613"
+		"14" "4182"
+		"15" "4166"
+		"16" "1684"
+		"17" "122"
+		"18" "21978"
+		"19" "4085"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Rayark International Limited"
+	"publisher" "Rayark International Limited"
+	"homepage" "https://deemo.com/reborn/en/"
+	"listofdlc" "1299090,1307540,1333390,1459820,1460620"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "DEEMO -Reborn-"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DEEMO -Reborn-.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "DEEMO -Reborn-.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamconfigurator3rdpartynative" "15"
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"1282212"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7190674072837493504"
+				"size" "7902216769"
+				"download" "4405890624"
+			}
+		}
+	}
+	"1282211"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8631664385588301650"
+				"size" "7372616491"
+				"download" "4169227456"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6292471"
+			"timeupdated" "1615172890"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "8"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Rayark/DEEMO -Reborn-/profiles/autosave/"
+			"pattern" "*"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Rayark/DEEMO -Reborn-/profiles/slot-0/"
+			"pattern" "*"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Rayark/DEEMO -Reborn-/profiles/slot-1/"
+			"pattern" "*"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Rayark/DEEMO -Reborn-/profiles/slot-2/"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26918576"
+"_sha" "0978377a0eba15dbb7c7283078cdfff177a63f96"
+"_size" "6570"
