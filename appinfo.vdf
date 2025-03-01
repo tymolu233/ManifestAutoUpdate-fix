@@ -1,0 +1,322 @@
+"appid" "1955830"
+"common"
+{
+	"name" "Touhou Hero of Ice Fairy"
+	"type" "Game"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "东方冰之勇者记"
+		"tchinese" "東方冰之勇者記"
+		"japanese" "東方アイスフェアリー勇者記"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "522301a61ddb0be2d5deaf097a8796511960f167"
+	"clienttga" "2ff36128f4ad71ae6f7cbb56388b96f6bf745135"
+	"clienticon" "76b56a72118a94d48a5142afa8873b89fdd12ab8"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1699488000"
+		"tested_build_id" "12599012"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "32.05263951840689"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "32.05263951840689"
+				"height_pct" "50"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733920959"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "GAMEPULSE 游戏脉冲"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "GAMEPULSE 游戏脉冲"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1712137942"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1955830"
+	"store_tags"
+	{
+		"0" "4885"
+		"1" "4085"
+		"2" "7208"
+		"3" "3798"
+		"4" "3959"
+		"5" "1625"
+		"6" "4434"
+		"7" "4726"
+		"8" "4711"
+		"9" "492"
+		"10" "1742"
+		"11" "3871"
+		"12" "4182"
+		"13" "122"
+		"14" "19"
+		"15" "21"
+		"16" "1774"
+		"17" "4106"
+		"18" "3993"
+		"19" "5984"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "GAMEPULSE 游戏脉冲"
+	"publisher" "GAMEPULSE 游戏脉冲"
+	"listofdlc" "2302890,3213970"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "东方冰之勇者记 ~ Touhou Hero of Ice Fairy"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Touhou Hero of Ice Fairy.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "english"
+	"1955831"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7853870276512995643"
+				"size" "2764680189"
+				"download" "2686710448"
+			}
+			"test"
+			{
+				"gid" "7853870276512995643"
+				"size" "2764680189"
+				"download" "2686710448"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17391990"
+			"timeupdated" "1740372966"
+		}
+		"test"
+		{
+			"buildid" "17391990"
+			"description" "October Update"
+			"timeupdated" "1739790870"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "SteamCloudDocuments"
+			"path" "DefaultCompany/AutocloudSample"
+			"pattern" "*"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "GAMEPULSE/Touhou Hero of Ice Fairy"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "27713509"
+"_sha" "ba8faef45d4eb23e585408521aab0a5cfae189e1"
+"_size" "6086"
