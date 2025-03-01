@@ -1,0 +1,243 @@
+"appid" "789770"
+"common"
+{
+	"name" "Starena"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"clienttga" "18eca1df4fc351329713a94987522dbac6f0af1e"
+	"clienticon" "16f184ba29ffb9078611c9b7909d04b45fab9407"
+	"icon" "491d546876c1c0205a0e013a7983cd16d1fdc9e2"
+	"logo" "60e857369729c74be0a59382debbc1cd640c296e"
+	"logo_small" "60e857369729c74be0a59382debbc1cd640c296e_thumb"
+	"name_localized"
+	{
+		"schinese" "星际角斗场"
+		"tchinese" "星際角鬥場"
+		"sc_schinese" "星际角斗场"
+	}
+	"releasestatesteamchina" "released"
+	"metacritic_name" "Starena"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "45.14702737296187"
+			"height_pct" "76.82260745666113"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "45.14702737296187"
+				"height_pct" "76.82260745666113"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1612611156"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Darksun Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Gamera Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Gamera Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_25" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1590047700"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "789770"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "492"
+		"2" "1732"
+		"3" "3942"
+		"4" "1719"
+		"5" "4182"
+		"6" "122"
+		"7" "4231"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Darksun Studio"
+	"publisher" "Gamera Games"
+}
+"config"
+{
+	"installdir" "Starena"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Starena.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"789771"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5445021611992489544"
+				"size" "1351293614"
+				"download" "383723248"
+			}
+		}
+	}
+	"workshopdepot" "789770"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6211141"
+			"timeupdated" "1612859047"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "256"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "DarkSunStudio/Starena/Data"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "DarkSunStudio/Starena"
+			"pattern" "control_settings.data"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "04e2b48a385b2f36c6160b6362026758f72e59ea"
+"_size" "4089"
