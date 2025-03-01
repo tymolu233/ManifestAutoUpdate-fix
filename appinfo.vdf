@@ -1,0 +1,170 @@
+"appid" "248670"
+"common"
+{
+	"name" "Worms Clan Wars - Speechbank Editor"
+	"section_type" "ownersonly"
+	"type" "Tool"
+	"releasestate" "released"
+	"parent" "241020"
+	"oslist" "windows"
+	"icon" "c5c09a76df241109bb543b767c0d3112a75c9f1f"
+	"clienttga" "d88b72d7dd0bd8855c6b0e6559e7f88a5a26c772"
+	"clienticon" "d33550bd8e88832a57b68521eabf692b2978c1c1"
+	"logo" "4c8974da6f0113e910ba69874c45f7e2034a9303"
+	"logo_small" "4c8974da6f0113e910ba69874c45f7e2034a9303_thumb"
+	"associations"
+	{
+	}
+	"gameid" "248670"
+	"exfgls" "9"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Worms Clan Wars - Speech Bank Editor"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SBEditor.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"248671"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6426024540369809959"
+				"size" "8073748"
+				"download" "0"
+			}
+		}
+	}
+	"248672"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5298503379231416879"
+				"size" "10"
+				"download" "0"
+			}
+		}
+	}
+	"248673"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8260415492627839578"
+				"size" "12"
+				"download" "0"
+			}
+		}
+	}
+	"248674"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6202536448022415304"
+				"size" "11"
+				"download" "0"
+			}
+		}
+	}
+	"248675"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6588343201139942908"
+				"size" "10"
+				"download" "0"
+			}
+		}
+	}
+	"248676"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4570958852598398662"
+				"size" "11"
+				"download" "0"
+			}
+		}
+	}
+	"markdlcdepots" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "120887"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "4d9faf44e511bfde8dc76edb97ebe31672964ea7"
+"_size" "2374"
