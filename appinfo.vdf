@@ -1,0 +1,76 @@
+"appid" "487710"
+"common"
+{
+	"name" "Worms W.M.D Editor"
+	"type" "Tool"
+	"parent" "327030"
+	"oslist" "windows"
+	"clienttga" "925ad1ffdbfbc374b38da1ed1d78a3c2170b0de0"
+	"clienticon" "8768399e337d799ef754c4c7f716987c79339a99"
+	"icon" "9f18090e88fd50a0a85a66a1a9872bd36c856b58"
+	"logo" "8b8160aadf22bcb7dd57f8a565822c9fc24eb2ae"
+	"logo_small" "8b8160aadf22bcb7dd57f8a565822c9fc24eb2ae_thumb"
+	"osarch" ""
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "487710"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "WormsWMDWorldEditor"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Worms W.M.D Editor.exe"
+			"description" "Launch World Editor"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Worms W.M.D World Editor.exe"
+			"description" "Launch World Editor QA_TESTING"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "qa_testing"
+			}
+		}
+	}
+}
+"depots"
+{
+	"487711"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3712163133821469252"
+				"size" "126888"
+				"download" "57968"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1271471"
+			"timeupdated" "1471944618"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "83aae42a0a9770d218375040fd662fdf9ae58f67"
+"_size" "1296"
