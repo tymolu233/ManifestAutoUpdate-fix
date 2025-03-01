@@ -1,0 +1,399 @@
+"appid" "260730"
+"common"
+{
+	"name" "Desperados - Wanted Dead or Alive"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"clienticon" "27611839d762512a9065b8e7e32dd74d12672627"
+	"clienttga" "4748a82b1e620900ed08145c01134f32bdc3013a"
+	"icon" "879f02dbc3521cd5fe27046747dc91e8a420c1a1"
+	"logo" "88b49e4a65040399c6dfa36512e4220024305170"
+	"logo_small" "88b49e4a65040399c6dfa36512e4220024305170_thumb"
+	"osarch" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1676332800"
+		"tested_build_id" "2959430"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Desperados: Wanted Dead or Alive"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1568713883"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Spellbound"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "THQ Nordic"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Desperados"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"original_release_date" "995871600"
+	"steam_release_date" "1384941180"
+	"metacritic_score" "78"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/desperados-wanted-dead-or-alive\?ftag=MCD-06-10aaa1f"
+	"community_hub_visible" "1"
+	"gameid" "260730"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1647"
+		"2" "1708"
+		"3" "5851"
+		"4" "19"
+		"5" "1687"
+		"6" "3813"
+		"7" "4182"
+		"8" "1693"
+		"9" "4166"
+		"10" "4161"
+		"11" "1676"
+		"12" "4026"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Spellbound"
+	"publisher" "THQ Nordic"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Desperados Wanted Dead or Alive"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "desperados.exe"
+			"description" "Launch Desperados Wanted Dead or Alive"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "desperados32"
+			"description" "Launch Desperados Wanted Dead or Alive"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"3"
+		{
+			"executable" "Desperados.app"
+			"description" "Launch Desperados Wanted Dead or Alive"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"baselanguages" "english,german,french,italian,spanish,russian"
+	"hasdepotsindlc" "0"
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"260731"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8883348394163131400"
+				"size" "1982044634"
+				"download" "1701421264"
+			}
+			"publicbeta"
+			{
+				"gid" "8883348394163131400"
+				"size" "1982044634"
+				"download" "1701421264"
+			}
+		}
+	}
+	"260738"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8956399286214579350"
+				"size" "1993457075"
+				"download" "1672795776"
+			}
+			"publicbeta"
+			{
+				"gid" "8956399286214579350"
+				"size" "1993457075"
+				"download" "1672795776"
+			}
+		}
+	}
+	"260739"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4628167066855842232"
+				"size" "1983662690"
+				"download" "1669246768"
+			}
+			"publicbeta"
+			{
+				"gid" "4628167066855842232"
+				"size" "1983662690"
+				"download" "1669246768"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2959430"
+			"timeupdated" "1532106452"
+		}
+		"publicbeta"
+		{
+			"buildid" "2959430"
+			"timeupdated" "1532010134"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "THQNordic/Desperados"
+			"pattern" "*.*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "THQNordic/Desperados"
+					"replace" ".local/share/THQNordic/Desperados"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "THQNordic/Desperados"
+					"replace" "THQNordic/Desperados"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27110810"
+"_sha" "67b37cb3dfe0e07a111d6546e3b2ecc23a7e26ec"
+"_size" "6915"
