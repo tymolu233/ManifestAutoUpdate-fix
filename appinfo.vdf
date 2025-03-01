@@ -1,0 +1,296 @@
+"appid" "270910"
+"common"
+{
+	"name" "Worms World Party Remastered"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"languages"
+	{
+		"english" "1"
+	}
+	"clienticon" "541bfa743de4f67db0c6898c956e0fb47767d225"
+	"clienttga" "16ea35d30b8e2aae98309ebc4c1cb9b7442284ac"
+	"icon" "989f5deafd08b7618bf2575a3ef18d5d027e3dab"
+	"logo" "cc307830d3be2cf8af1f03526aa4be42c45da629"
+	"logo_small" "cc307830d3be2cf8af1f03526aa4be42c45da629_thumb"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1646265600"
+		"tested_build_id" "821190"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Worms World Party Remastered"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "36.26309662398137"
+			"height_pct" "71.61777777777777"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "36.26309662398137"
+				"height_pct" "71.61777777777777"
+			}
+		}
+	}
+	"store_asset_mtime" "1649145162"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Team17 Digital Ltd"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Team17 Digital Ltd"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Team17 Digital"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1437062550"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "270910"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "19"
+		"2" "3859"
+		"3" "4136"
+		"4" "492"
+		"5" "1677"
+		"6" "1693"
+		"7" "7368"
+		"8" "3871"
+		"9" "4195"
+		"10" "4305"
+		"11" "5350"
+		"12" "5708"
+		"13" "1719"
+		"14" "1741"
+		"15" "4182"
+	}
+	"review_score" "5"
+	"review_percentage" "50"
+}
+"extended"
+{
+	"developer" "Team17 Digital Ltd"
+	"publisher" "Team17 Digital Ltd"
+	"gamemanualurl" "https://store.steampowered.com/manual/270910/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "WormsWorldParty"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "w2.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,spanish,danish,dutch,swedish"
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"270911"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4209377243013194096"
+				"size" "782877896"
+				"download" "493958416"
+			}
+		}
+	}
+	"358901"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8052329781998030569"
+				"size" "4605961"
+				"download" "3613600"
+			}
+		}
+		"dlcappid" "358901"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "821190"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "204800"
+	"maxnumfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "save"
+			"pattern" "WG.WWP"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27135052"
+"_sha" "67ae0a8f81ecc46dfd52d68b0a38d1784862611e"
+"_size" "4858"
