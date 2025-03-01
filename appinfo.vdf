@@ -1,0 +1,463 @@
+"appid" "1404210"
+"common"
+{
+	"name" "Red Dead Online"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "aaf761f87dae3e1970dafde3588ed8b10d8eeefe"
+	"logo_small" "aaf761f87dae3e1970dafde3588ed8b10d8eeefe_thumb"
+	"icon" "996e1730f1e06a557ce986f17b756823c402702d"
+	"clienticon" "f3a81328b32d48e57f193a1efffd7b314263abae"
+	"clienttga" "b1ff02c9eac25227d7571d75f5c8f47a481e5c75"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1652486400"
+		"tested_build_id" "7289806"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DisplayOutputHasNonblockingIssues"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"6"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"7"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "hidenvgpu,nativevulkanloader,"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "55.465116279069775"
+			"height_pct" "93.54072666824982"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "55.465116279069775"
+				"height_pct" "93.54072666824982"
+			}
+		}
+	}
+	"store_asset_mtime" "1614616035"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Rockstar Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Rockstar Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Red Dead Redemption"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_18" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1607112000"
+	"community_hub_visible" "1"
+	"gameid" "1404210"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "3859"
+		"2" "1647"
+		"3" "19"
+		"4" "21"
+		"5" "6041"
+		"6" "1774"
+		"7" "4175"
+		"8" "3843"
+		"9" "3814"
+		"10" "1775"
+		"11" "4747"
+		"12" "1742"
+		"13" "4182"
+		"14" "1685"
+		"15" "4667"
+		"16" "1754"
+		"17" "3839"
+		"18" "7481"
+		"19" "4345"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "RU,BY"
+	"developer" "Rockstar Games"
+	"publisher" "Rockstar Games"
+	"homepage" "https://www.rockstargames.com/reddeadredemption2/"
+}
+"config"
+{
+	"installdir" "Red Dead Redemption 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PlayRDR2.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2314353733"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1404212"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6565888796190562930"
+				"size" "746"
+				"download" "528"
+			}
+		}
+	}
+	"1174182"
+	{
+		"depotfromapp" "1174180"
+		"sharedinstall" "2"
+	}
+	"1174183"
+	{
+		"depotfromapp" "1174180"
+		"sharedinstall" "2"
+	}
+	"1174184"
+	{
+		"depotfromapp" "1174180"
+		"sharedinstall" "2"
+	}
+	"1174185"
+	{
+		"depotfromapp" "1174180"
+		"sharedinstall" "2"
+	}
+	"1174186"
+	{
+		"depotfromapp" "1174180"
+		"sharedinstall" "2"
+	}
+	"1404213"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1617268112162263207"
+				"size" "78804578319"
+				"download" "78293674288"
+			}
+		}
+	}
+	"1404214"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6516073506693398031"
+				"size" "390640"
+				"download" "174240"
+			}
+		}
+	}
+	"1404215"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2641505532977397346"
+				"size" "5460348964"
+				"download" "5242637968"
+			}
+		}
+	}
+	"1404216"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "802306040225063437"
+				"size" "17767404187"
+				"download" "16260484144"
+			}
+		}
+	}
+	"1404217"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "767864745497800488"
+				"size" "26009156930"
+				"download" "20901920112"
+			}
+		}
+	}
+	"1899671"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6920980794360204616"
+				"size" "228262668"
+				"download" "184801072"
+			}
+		}
+		"depotfromapp" "1899670"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13773437"
+			"timeupdated" "1710843159"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27725242"
+"_sha" "68105614c68e1adab89ac0120bce51d75b3e0e43"
+"_size" "7918"
