@@ -1,0 +1,516 @@
+"appid" "1227690"
+"common"
+{
+	"name" "Severed Steel"
+	"type" "Game"
+	"logo" "0edbcb77107b75ba63aa0a0e57702739fc384084"
+	"logo_small" "0edbcb77107b75ba63aa0a0e57702739fc384084_thumb"
+	"icon" "67b664a5cfd297a1444c75345e75a4d06dc3dcd8"
+	"clienticon" "73d5693c548d161b5151d5c7d868a02751422ef9"
+	"clienttga" "457f963499159eaf7db3427198997f2533f33f92"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"russian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1699315200"
+		"tested_build_id" "12607895"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "98.83720930232559"
+			"height_pct" "87.46141059130846"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "98.83720930232559"
+				"height_pct" "87.46141059130846"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1693240045"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Greylock Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Greylock Studio"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_25" "1"
+		"category_17" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1631896887"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1227690"
+	"store_tags"
+	{
+		"0" "1663"
+		"1" "5796"
+		"2" "4036"
+		"3" "19"
+		"4" "1774"
+		"5" "7208"
+		"6" "3839"
+		"7" "5363"
+		"8" "4252"
+		"9" "4182"
+		"10" "4115"
+		"11" "1732"
+		"12" "4191"
+		"13" "7948"
+		"14" "143739"
+		"15" "492"
+		"16" "4667"
+		"17" "8122"
+		"18" "5390"
+		"19" "5611"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Greylock Studio"
+	"publisher" "Greylock Studio"
+	"homepage" "https://www.greylockgamesstudio.com/"
+	"listofdlc" "1754230"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "SeveredSteel"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SeveredSteel.exe"
+			"arguments" "-noraytracing -d3d12"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "DirectX12 no RTX (best performance)"
+			}
+			"description" "DirectX12 no RTX (best performance)"
+		}
+		"1"
+		{
+			"executable" "SeveredSteel.exe"
+			"arguments" "-dx12"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "DirectX12 version (For RTX)"
+			}
+			"description" "DirectX12 version (For RTX)"
+		}
+		"3"
+		{
+			"executable" "SeveredSteel.exe"
+			"arguments" "-TYVC_UnlockAll"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "internal"
+			}
+			"description_loc"
+			{
+				"english" "Unlock all "
+			}
+			"description" "Unlock all "
+		}
+		"4"
+		{
+			"executable" "SeveredSteel.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "DirectX11 version"
+			}
+			"description" "DirectX11 version"
+		}
+		"5"
+		{
+			"executable" "SeveredSteel.exe"
+			"arguments" "-TYVC_UnlockAll"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "ultimatepreview"
+			}
+			"description_loc"
+			{
+				"english" "Unlock all "
+			}
+			"description" "Unlock all "
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "1227690"
+	"baselanguages" "english"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1227691"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7687532980808486604"
+				"size" "3214720789"
+				"download" "1449322816"
+			}
+			"oldleaderboards"
+			{
+				"gid" "7038995986383674598"
+				"size" "3172486968"
+				"download" "1431142736"
+			}
+			"ostupdate"
+			{
+				"gid" "8064998565269435593"
+				"size" "3214134883"
+				"download" "1449517520"
+			}
+		}
+	}
+	"1754230"
+	{
+		"dlcappid" "1754230"
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2121775993643672375"
+				"size" "12401807"
+				"download" "11516528"
+			}
+			"oldleaderboards"
+			{
+				"gid" "2121775993643672375"
+				"size" "12401807"
+				"download" "11516528"
+			}
+			"ostupdate"
+			{
+				"gid" "2121775993643672375"
+				"size" "12401807"
+				"download" "11516528"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16558843"
+			"timeupdated" "1732747680"
+		}
+		"oldleaderboards"
+		{
+			"buildid" "12212370"
+			"description" "last build witih old leaderboards"
+			"timeupdated" "1698415071"
+		}
+		"ostupdate"
+		{
+			"buildid" "13460196"
+			"description" "before the new loc update"
+			"timeupdated" "1727009985"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ThankYouVeryCool/Saved/SaveGames"
+			"pattern" "arcadesave_rel.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ThankYouVeryCool/Saved/SaveGames"
+			"pattern" "chapters_rel.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ThankYouVeryCool/Saved/SaveGames"
+			"pattern" "rogue_rel.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26963426"
+"_sha" "be8b94bf0bbe05de912d7f417cacf993a8bc75f4"
+"_size" "8910"
