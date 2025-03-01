@@ -1,0 +1,494 @@
+"appid" "464340"
+"common"
+{
+	"name" "Syberia 3"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"logo" "b048f9c8ab630535bb0825875d68a4e36cf19c2e"
+	"logo_small" "b048f9c8ab630535bb0825875d68a4e36cf19c2e_thumb"
+	"icon" "315067f1a55701dc6313a88dc99078a5fbf36689"
+	"clienticon" "5e365d9960990f9c0044434318fc6d3d9cbb7500"
+	"clienttga" "175371d256f62500b6fb337222c41e3d61460e4f"
+	"releasestate" "released"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"dutch" "1"
+		"czech" "1"
+	}
+	"clienticns" "d3347303ba5771546b95129c4d2bd508c4f35c53"
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1656633600"
+		"tested_build_id" "2270696"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"french" "header_french.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1613992847"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Microids"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Microids"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Syberia"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1492671600"
+	"steam_release_date" "1492703760"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "464340"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "1664"
+		"2" "1742"
+		"3" "1698"
+		"4" "7208"
+		"5" "4166"
+		"6" "4182"
+		"7" "1756"
+		"8" "1777"
+		"9" "1738"
+		"10" "1697"
+		"11" "5716"
+		"12" "7481"
+		"13" "769306"
+		"14" "1695"
+		"15" "6426"
+		"16" "1693"
+	}
+	"review_score" "5"
+	"review_percentage" "51"
+}
+"extended"
+{
+	"developer" "Microids"
+	"publisher" "Microids"
+	"listofdlc" "625350,673500"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Syberia3"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Syberia3.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "\\2016_08_09_Build_Hebdo_04_Demo_Gamescom\\Syberia3.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "gamescom2016"
+			}
+		}
+		"2"
+		{
+			"executable" "Hopital.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "igromir2016"
+			}
+		}
+		"3"
+		{
+			"executable" "Syberia3.exe"
+			"description" "Rating"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "rating"
+			}
+		}
+		"4"
+		{
+			"executable" "Syberia3.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"464341"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7982244913110705807"
+				"size" "40004776915"
+				"download" "19293140608"
+			}
+		}
+	}
+	"464342"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2756540042224457956"
+				"size" "40126611186"
+				"download" "19305886688"
+			}
+		}
+	}
+	"464343"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+	}
+	"464348"
+	{
+		"dlcappid" "625350"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2911362910171916233"
+				"size" "213665583"
+				"download" "177768976"
+			}
+		}
+	}
+	"464349"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4854806677921817850"
+				"size" "16884202"
+				"download" "16178128"
+			}
+		}
+	}
+	"464344"
+	{
+		"manifests"
+		{
+		}
+	}
+	"464345"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2270696"
+			"timeupdated" "1510233509"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Microids/Syberia3"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27531556"
+"_sha" "1b8de6a6485f1123cdb8ef278b3f1d337f8f5b91"
+"_size" "8025"
