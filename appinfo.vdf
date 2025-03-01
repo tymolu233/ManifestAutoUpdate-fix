@@ -1,0 +1,663 @@
+"appid" "403640"
+"common"
+{
+	"name" "Dishonored 2"
+	"type" "Game"
+	"oslist" "windows"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"logo" "77ba96bac923adf724e7cc0e847caedcd59b479d"
+	"logo_small" "77ba96bac923adf724e7cc0e847caedcd59b479d_thumb"
+	"icon" "6d6bac950a234764a353c518607dcd01973f5b65"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "403640_eula_0"
+			"name" "Dishonored 2 EULA"
+			"url" "http://store.steampowered.com//eula/403640_eula_0"
+		}
+	}
+	"osarch" "64"
+	"clienttga" "01c864b17baf1833240d49d0cdabcc1696aa3d1f"
+	"clienticon" "a7353bffe65192a4a87008380d49c0e2ff9327ca"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1676073600"
+		"tested_build_id" "3364416"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Dishonored 2"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "43"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "43"
+				"height_pct" "50"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1661871961"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Arkane Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bethesda Softworks"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_22" "1"
+		"category_23" "1"
+		"category_2" "1"
+		"category_29" "1"
+		"category_43" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1478851200"
+	"metacritic_score" "86"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/dishonored-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "403640"
+	"store_tags"
+	{
+		"0" "1687"
+		"1" "3839"
+		"2" "19"
+		"3" "4376"
+		"4" "4182"
+		"5" "1777"
+		"6" "1742"
+		"7" "4166"
+		"8" "7208"
+		"9" "4057"
+		"10" "4036"
+		"11" "10808"
+		"12" "1695"
+		"13" "21"
+		"14" "9204"
+		"15" "3834"
+		"16" "4345"
+		"17" "1756"
+		"18" "1680"
+		"19" "5030"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Arkane Studios"
+	"publisher" "Bethesda Softworks"
+	"homepage" "https://www.dishonored.com/"
+	"listofdlc" "531330"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Dishonored2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Dishonored2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "Dishonored2_x64Retail.exe"
+			"arguments" "+net_usePlatformBackend 1"
+			"description" "Dishonored 2 Retail"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "betahardware"
+			}
+		}
+		"4"
+		{
+			"executable" "Dishonored2_x64Retail.exe"
+			"arguments" "+net_usePlatformBackend 1"
+			"description" "Dishonored 2 x64 Retail"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "patch2"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2208365553"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollerconfigdetails"
+	{
+		"792125551"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,tchinese,russian,japanese,polish,brazilian"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"531330"
+	{
+		"dlcappid" "531330"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"531614"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5486426097765685887"
+				"size" "458763104"
+				"download" "167217728"
+			}
+		}
+	}
+	"531331"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2963729611279531718"
+				"size" "4360841508"
+				"download" "3813850064"
+			}
+		}
+	}
+	"531332"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "323898925697266621"
+				"size" "34798966426"
+				"download" "27137096352"
+			}
+		}
+	}
+	"531333"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3073290089482226863"
+				"size" "5645319103"
+				"download" "5276901904"
+			}
+		}
+	}
+	"531334"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1509347611848056991"
+				"size" "5660701821"
+				"download" "5298073344"
+			}
+		}
+	}
+	"531335"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8579808409801044094"
+				"size" "5757798160"
+				"download" "5393908736"
+			}
+		}
+	}
+	"531336"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4349704254291745693"
+				"size" "5852462553"
+				"download" "5489695392"
+			}
+		}
+	}
+	"531337"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2261057237457725075"
+				"size" "5855832785"
+				"download" "5479946288"
+			}
+		}
+	}
+	"531338"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1596516164424361891"
+				"size" "5736171268"
+				"download" "5364356464"
+			}
+		}
+	}
+	"531339"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4011700633239816288"
+				"size" "5758809821"
+				"download" "5383603216"
+			}
+		}
+	}
+	"531610"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7003273961168830067"
+				"size" "5856671554"
+				"download" "5487580320"
+			}
+		}
+	}
+	"531611"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8314867122492112307"
+				"size" "5768792417"
+				"download" "5394137312"
+			}
+		}
+	}
+	"531612"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "733220252853249822"
+				"size" "3697724270"
+				"download" "3603896992"
+			}
+		}
+	}
+	"531613"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3244959933273624495"
+				"size" "5522037402"
+				"download" "5074952496"
+			}
+		}
+	}
+	"531615"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6377159365043874055"
+				"size" "124204544"
+				"download" "36556000"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10778015"
+			"timeupdated" "1736438368"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "Arkane Studios/Dishonored2/base/savegame"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27277049"
+"_sha" "7f2089e8540b3ed40c0cf7341054054fabf5620b"
+"_size" "10780"
