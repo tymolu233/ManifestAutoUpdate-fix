@@ -1,0 +1,416 @@
+"appid" "1971650"
+"common"
+{
+	"name" "OCTOPATH TRAVELER II"
+	"type" "Game"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "d1cb51f99f6faee4d9313dd6f4037eb7a47250f3"
+	"clienttga" "c1f7dd20bc0156db5da928e73c1049e42f9706c1"
+	"name_localized"
+	{
+		"japanese" "オクトパストラベラー II"
+		"tchinese" "歧路旅人 II"
+		"schinese" "歧路旅人 II"
+		"koreana" "옥토패스 트래블러 II"
+	}
+	"icon" "7a90088ff3b521a0edcbd414fcd88361dd3d8b45"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1971650_eula_0"
+			"name" "OCTOPATH TRAVELER II EULA"
+			"url" "https://store.steampowered.com//eula/1971650_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1675814400"
+		"tested_build_id" "10441819"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50.96961861667744"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50.96961861667744"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1734424798"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Square Enix"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "ACQUIRE Corp."
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Square Enix"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "OCTOPATH TRAVELER"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1677257880"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1971650"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "1677"
+		"2" "4434"
+		"3" "4975"
+		"4" "10695"
+		"5" "1695"
+		"6" "1742"
+		"7" "4325"
+		"8" "6426"
+		"9" "3964"
+		"10" "4726"
+		"11" "9"
+		"12" "4085"
+		"13" "1684"
+		"14" "597"
+		"15" "4057"
+		"16" "21"
+		"17" "4166"
+		"18" "4182"
+		"19" "5608"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Square Enix"
+	"publisher" "Square Enix"
+	"listofdlc" "2133280"
+}
+"config"
+{
+	"installdir" "Octopath_Traveler2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Octopath_Traveler2\\Binaries\\Win64\\Octopath_Traveler2-Win64-Shipping.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Octopath_Traveler2\\Binaries\\Win64\\Octopath_Traveler2-Win64-Shipping.exe"
+			"type" "config"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "ship-qa-denuvo,ship-qa,ship-qa-release,ship-temporary,upd-ship-qa-release"
+			}
+			"description_loc"
+			{
+				"english" "ship launch only"
+			}
+			"description" "ship launch only"
+		}
+		"2"
+		{
+			"executable" "Octopath_Traveler2\\Binaries\\Win64\\Octopath_Traveler2.exe"
+			"type" "config"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev-qa-release,dev-qa,dev-test,dev-temporary,upd-dev-qa-release"
+			}
+			"description_loc"
+			{
+				"english" "dev launch only"
+			}
+			"description" "dev launch only"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "7"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2916273307"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,denuvo-submit,dev-qa,dev-qa-release,dev-temporary,dev-test,ship-qa,ship-qa-denuvo,ship-qa-release,ship-temporary,ship-test"
+			"use_action_block" "false"
+		}
+		"2916273793"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,denuvo-submit,dev-qa,dev-qa-release,dev-temporary,dev-test,ship-qa,ship-qa-denuvo,ship-qa-release,ship-temporary,ship-test"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1971651"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1880363709147535524"
+				"size" "7938319601"
+				"download" "7374720416"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13399590"
+			"timeupdated" "1717602888"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "14"
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Octopath_Traveler2/Steam/{64BitSteamID}/SaveGames/"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27555474"
+"_sha" "f51a69190a719aa8b16ece54e55d5121e1b81be8"
+"_size" "7789"
