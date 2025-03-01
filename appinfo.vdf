@@ -1,0 +1,271 @@
+"appid" "259280"
+"common"
+{
+	"name" "Earth 2150: The Moon Project"
+	"type" "Game"
+	"releasestate" "released"
+	"clienttga" "070a9e6d764b02c30a9be0518f6de4486fb4f153"
+	"clienticon" "72fe308e9c11359a85c712af1605b5ce99e3bbbc"
+	"icon" "fdddf09c13b7b5aa264f3203d7f6cab5bc919245"
+	"logo" "adf7a682c4aa463c1e1b5b4effd88d188c401a61"
+	"logo_small" "adf7a682c4aa463c1e1b5b4effd88d188c401a61_thumb"
+	"oslist" "windows,macos"
+	"associations"
+	{
+	}
+	"community_hub_visible" "1"
+	"gameid" "259280"
+	"store_tags"
+	{
+		"0" "9"
+	}
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Earth 2150 The Moon Project"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TheMoonProject.exe"
+			"description" "Earth 2150: The Moon Project"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Setup.exe"
+			"description" "Graphics settings"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "Earth 2150 The Moon Project.app"
+			"description" "Earth 2150: The Moon Project"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "Earth 2150 The Moon Project.app\\Setup.app"
+			"description" "Graphic Settings"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"baselanguages" ""
+	"259281"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5893483100979752377"
+				"size" "484455042"
+				"download" "0"
+			}
+		}
+	}
+	"259282"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9207084365265091839"
+				"size" "186962037"
+				"download" "0"
+			}
+		}
+	}
+	"259283"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6735040392343192714"
+				"size" "134600170"
+				"download" "0"
+			}
+		}
+	}
+	"259284"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6483132417284752122"
+				"size" "180665334"
+				"download" "0"
+			}
+		}
+	}
+	"259285"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "898437007799147299"
+				"size" "101104292"
+				"download" "0"
+			}
+		}
+	}
+	"259286"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5932794407004889820"
+				"size" "135616650"
+				"download" "0"
+			}
+		}
+	}
+	"259287"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "405472768482730913"
+				"size" "1156642692"
+				"download" "768199504"
+			}
+		}
+	}
+	"259288"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8144836237877133458"
+				"size" "1107262376"
+				"download" "736438576"
+			}
+		}
+	}
+	"259289"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3097363117407239575"
+				"size" "1154798438"
+				"download" "784075392"
+			}
+		}
+	}
+	"259290"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "701131474838700294"
+				"size" "1074270794"
+				"download" "711244464"
+			}
+		}
+	}
+	"259291"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4154082460316573894"
+				"size" "1096786996"
+				"download" "726873408"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "741524"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "1eb93246b0166df558cfec4cfb31a82f10ebed2c"
+"_size" "3923"
