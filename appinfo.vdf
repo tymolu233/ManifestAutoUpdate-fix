@@ -1,0 +1,355 @@
+"appid" "2013240"
+"common"
+{
+	"name" "Immortal Family"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "6512b2f9953ca8e96682cbcf9433dba15d9e941f"
+	"clienticon" "ad7edba92c74042114c33c7327802dc570883413"
+	"clienttga" "345c20f0cf63f7ea4083bb8f1b519adcc32b7f81"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "修仙家族模拟器"
+		"tchinese" "修仙家族模擬器"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1695427200"
+		"tested_build_id" "12246767"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-4"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "28.171995156401394"
+			"height_pct" "68.61538494313257"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "28.171995156401394"
+				"height_pct" "68.61538494313257"
+			}
+		}
+	}
+	"store_asset_mtime" "1720682300"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "一起来修仙工作室"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "方块游戏(CubeGame)"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "CubeGame"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1720750712"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2013240"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "9"
+		"2" "24003"
+		"3" "17305"
+		"4" "492"
+		"5" "8945"
+		"6" "379975"
+		"7" "597"
+		"8" "122"
+		"9" "12472"
+		"10" "5984"
+		"11" "3871"
+		"12" "4182"
+		"13" "4305"
+		"14" "4328"
+		"15" "1698"
+		"16" "493"
+		"17" "26921"
+		"18" "4474"
+		"19" "6915"
+	}
+	"review_score" "5"
+	"review_percentage" "55"
+}
+"extended"
+{
+	"deckresolutionoverride" "Default"
+	"developer" "一起来修仙工作室"
+	"publisher" "方块游戏(CubeGame)"
+}
+"config"
+{
+	"installdir" "修仙家族模拟器"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "修仙家族模拟器.exe"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"2013242"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7168323244484094641"
+				"size" "1065878888"
+				"download" "791199872"
+			}
+			"20231208"
+			{
+				"gid" "5377067622990267524"
+				"size" "860326729"
+				"download" "629684656"
+			}
+			"20240713"
+			{
+				"gid" "5767298388258827504"
+				"size" "958214522"
+				"download" "702607440"
+			}
+			"20241103"
+			{
+				"gid" "6570259829837923844"
+				"size" "1060767900"
+				"download" "784051152"
+			}
+		}
+	}
+	"2013243"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8059496636628464923"
+				"size" "1065878888"
+				"download" "791199872"
+			}
+			"20231208"
+			{
+				"gid" "6780589001285261692"
+				"size" "860326729"
+				"download" "629684656"
+			}
+			"20240713"
+			{
+				"gid" "7544989117943135789"
+				"size" "958214522"
+				"download" "702607440"
+			}
+			"20241103"
+			{
+				"gid" "4226070709544658806"
+				"size" "1060767900"
+				"download" "784051152"
+			}
+		}
+	}
+	"2013244"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16314978"
+			"timeupdated" "1730901454"
+		}
+		"20231208"
+		{
+			"buildid" "13132672"
+			"description" "仅限MOD制作人员使用"
+			"timeupdated" "1704857140"
+		}
+		"20240713"
+		{
+			"buildid" "15033676"
+			"description" "11月6号前老版本"
+			"timeupdated" "1730872922"
+		}
+		"20241103"
+		{
+			"buildid" "16277864"
+			"description" "通天飞舟版本（更新此版本会删档）"
+			"timeupdated" "1730607945"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "9000000000"
+	"maxnumfiles" "9999"
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" ""
+		}
+	}
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "windows.hash"
+			"pattern" "*.data"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26334895"
+"_sha" "8d6235dbeb5140815446d319750b8f16c12577f7"
+"_size" "6173"
