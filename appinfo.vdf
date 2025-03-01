@@ -1,0 +1,514 @@
+"appid" "350080"
+"common"
+{
+	"name" "Wolfenstein: The Old Blood "
+	"type" "Game"
+	"oslist" "windows"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+	}
+	"releasestate" "released"
+	"logo" "91b96f8e81a82dabe53c95fd8d93b5dcdbb60fec"
+	"logo_small" "91b96f8e81a82dabe53c95fd8d93b5dcdbb60fec_thumb"
+	"icon" "e45bc4d7a8233546c74f1cbba4e7d7a02bfc53a0"
+	"clienttga" "9df50ad71d226f6602640055fba3ec7ff727decb"
+	"clienticon" "4b9ad93d0595ee9b4dca6c81d1014f6577891fe7"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "350080_eula_0"
+			"name" "Wolfenstein: The Old Blood  EULA"
+			"url" "http://store.steampowered.com//eula/350080_eula_0"
+		}
+	}
+	"name_localized"
+	{
+		"german" "Wolfenstein: The Old Blood International Version"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1652745600"
+		"tested_build_id" "616161"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Wolfenstein: The Old Blood"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "74.8856073093485"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "74.8856073093485"
+			}
+		}
+	}
+	"store_asset_mtime" "1569958953"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "MachineGames"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bethesda Softworks"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Wolfenstein"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_18" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1430798400"
+	"metacritic_score" "76"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/wolfenstein-the-old-blood\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "350080"
+	"store_tags"
+	{
+		"0" "1663"
+		"1" "19"
+		"2" "4150"
+		"3" "4598"
+		"4" "1774"
+		"5" "4345"
+		"6" "4182"
+		"7" "1687"
+		"8" "3839"
+		"9" "1659"
+		"10" "4166"
+		"11" "1742"
+		"12" "1678"
+		"13" "21"
+		"14" "3942"
+		"15" "1667"
+		"16" "5228"
+		"17" "5611"
+		"18" "4136"
+		"19" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "MachineGames"
+	"publisher" "Bethesda Softworks"
+	"homepage" "http://www.wolfenstein.com"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Wolfenstein The Old Blood"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WolfOldBlood_x64.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,french,italian,spanish,russian,japanese,polish"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"350081"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3658162312912367835"
+				"size" "29894240"
+				"download" "16104672"
+			}
+		}
+	}
+	"350082"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4335676788146427624"
+				"size" "3267732113"
+				"download" "2983848448"
+			}
+		}
+	}
+	"350083"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3941819480996317401"
+				"size" "30842430408"
+				"download" "29177667680"
+			}
+		}
+	}
+	"350084"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3105296571696971976"
+				"size" "3515723552"
+				"download" "3421621184"
+			}
+		}
+	}
+	"350085"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3289886846327462723"
+				"size" "1044234360"
+				"download" "964368624"
+			}
+		}
+	}
+	"350086"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5943349276418071332"
+				"size" "255829823"
+				"download" "216928352"
+			}
+		}
+	}
+	"350191"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "661043554612757317"
+				"size" "3259727305"
+				"download" "2978189840"
+			}
+		}
+	}
+	"350192"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6056191850595467727"
+				"size" "3515723552"
+				"download" "3408739600"
+			}
+		}
+	}
+	"350193"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7482870845780400489"
+				"size" "990972364"
+				"download" "935976608"
+			}
+		}
+	}
+	"350087"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1871684190445975420"
+				"size" "255846204"
+				"download" "216848544"
+			}
+		}
+	}
+	"350088"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5185869354836954454"
+				"size" "255715116"
+				"download" "216747008"
+			}
+		}
+	}
+	"350089"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5725049165596563402"
+				"size" "255813429"
+				"download" "216904144"
+			}
+		}
+	}
+	"350190"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8573002634581631676"
+				"size" "258402079"
+				"download" "219350688"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "616161"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "6048576"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "MachineGames/Wolfenstein The Old Blood/base/savegame"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27610263"
+"_sha" "bc81bf36e1a97b70f2fe10522944e4810dcbcaed"
+"_size" "8221"
