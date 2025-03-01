@@ -1,0 +1,428 @@
+"appid" "1937500"
+"common"
+{
+	"name" "Let\'s School"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "ee8e8ba70a3f8b7f2eae27d052d872b6b87c602f"
+	"clienticon" "f0b5d027682ddd6036d48de9eb112e16f1597161"
+	"clienttga" "44e64390f54f374c589d759953fbe585c91b8d28"
+	"name_localized"
+	{
+		"schinese" "学园构想家"
+		"sc_schinese" "学园构想家"
+	}
+	"releasestatesteamchina" "prerelease"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1721952000"
+		"tested_build_id" "15072181"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "en,zh-cn"
+		"library_logo" "zh-cn,en"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "34.694885044943405"
+			"height_pct" "73.44628156415736"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "34.694885044943405"
+				"height_pct" "73.44628156415736"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1719483416"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pathea Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Pathea Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "PM Studios, inc."
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Pathea Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "PM Studios, inc."
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1690422600"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1937500"
+	"store_tags"
+	{
+		"0" "12472"
+		"1" "4328"
+		"2" "9"
+		"3" "599"
+		"4" "3810"
+		"5" "1643"
+		"6" "1036"
+		"7" "1100688"
+		"8" "4136"
+		"9" "30358"
+		"10" "1654"
+		"11" "5350"
+		"12" "4182"
+		"13" "16689"
+		"14" "1719"
+		"15" "4695"
+		"16" "4191"
+		"17" "1732"
+		"18" "492"
+		"19" "1695"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Pathea Games"
+	"publisher" "Pathea Games"
+	"listofdlc" "2802470,2901410"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Let\'s School"
+	"launch"
+	{
+		"3"
+		{
+			"executable" "学园构想家.exe"
+			"type" "default"
+			"config"
+			{
+				"betakey" "steam_china_only"
+			}
+			"description_loc"
+			{
+				"english" "老版本启动项"
+			}
+			"description" "老版本启动项"
+		}
+		"4"
+		{
+			"executable" "LetsSchool.exe"
+			"type" "default"
+			"description_loc"
+			{
+				"english" "新版本启动项"
+			}
+			"description" "新版本启动项"
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2054479888"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails" ""
+}
+"depots"
+{
+	"baselanguages" "english"
+	"workshopdepot" "1937500"
+	"1937501"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7172727564563361972"
+				"size" "2102495599"
+				"download" "582806304"
+			}
+		}
+	}
+	"1937502"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15689157"
+			"timeupdated" "1726284656"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "99999999999"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Pathea Games/LetsSchool/Saves"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Pathea Games/LetsSchool/Saves"
+					"replace" "unity.Pathea Games.LetsSchool/Saves"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Pathea Games/LetsSchool/Saves"
+					"replace" ".config/unity3d/Pathea Games/LetsSchool/Saves"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27651493"
+"_sha" "1f7241daea0dfd3f984e8a3843b250d4b6717db5"
+"_size" "7642"
