@@ -1,0 +1,394 @@
+"appid" "1158370"
+"common"
+{
+	"name" "Aragami 2"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "74498ef03e9546be823edca103b1eab181372e40"
+	"logo_small" "74498ef03e9546be823edca103b1eab181372e40_thumb"
+	"icon" "3589e89df12624cf87679f9c9c05ffef2a15b9af"
+	"clienticon" "f150d42a87317df9810d5b7b3de71a67f7c50f26"
+	"clienttga" "521ef2eabcbe8f1148c2ad086f993cf3bd4b75ca"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "荒神2"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"hungarian" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1648166400"
+		"tested_build_id" "8390529"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "45.3325554259043"
+			"height_pct" "64.8176284921001"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "45.3325554259043"
+				"height_pct" "64.8176284921001"
+			}
+		}
+	}
+	"store_asset_mtime" "1663351127"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Lince Works"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Lince Works"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Aragami"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"basque"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"catalan"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1631872800"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1158370"
+	"store_tags"
+	{
+		"0" "1687"
+		"1" "1688"
+		"2" "4376"
+		"3" "3843"
+		"4" "4508"
+		"5" "19"
+		"6" "4106"
+		"7" "1697"
+		"8" "4252"
+		"9" "4191"
+		"10" "4342"
+		"11" "1684"
+		"12" "4057"
+		"13" "1742"
+		"14" "4747"
+		"15" "3993"
+		"16" "6730"
+		"17" "1685"
+		"18" "3859"
+		"19" "4182"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "Lince Works"
+	"publisher" "Lince Works"
+	"homepage" "https://linceworks.com/games/aragami-2/"
+	"listofdlc" "1797210"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Aragami 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Aragami2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2261679006"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default,development,linceworks,linceworkstest"
+			"use_action_block" "false"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,turkish,brazilian"
+	"1158371"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2616944982249796489"
+				"size" "9385944487"
+				"download" "4518264160"
+			}
+			"difficulty"
+			{
+				"gid" "522527859241698724"
+				"size" "9355484605"
+				"download" "4509117536"
+			}
+		}
+	}
+	"1797210"
+	{
+		"dlcappid" "1797210"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3753149610649947386"
+				"size" "21126036"
+				"download" "17723248"
+			}
+			"difficulty"
+			{
+				"gid" "3753149610649947386"
+				"size" "21126036"
+				"download" "17723248"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9852913"
+			"timeupdated" "1668088740"
+		}
+		"difficulty"
+		{
+			"buildid" "8763423"
+			"description" "Difficulty modes beta"
+			"timeupdated" "1652971409"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "20000000"
+	"maxnumfiles" "5"
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "27178544"
+"_sha" "0445cfcae7ec6eea9b0beb44f87840fad42c31dc"
+"_size" "6942"
