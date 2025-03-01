@@ -1,0 +1,861 @@
+"appid" "240"
+"common"
+{
+	"clienticon" "554f4efec40d7f0fef58961d9a3c1da16fe38984"
+	"clienttga" "65112d7029c921ee2332c684d919b90d1c3fc511"
+	"name" "Counter-Strike: Source"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"bulgarian" "1"
+		"greek" "1"
+		"ukrainian" "1"
+	}
+	"logo" "ee97d0dbf3e5d5d59e69dc20b98ed9dc8cad5283"
+	"logo_small" "ee97d0dbf3e5d5d59e69dc20b98ed9dc8cad5283_thumb"
+	"icon" "9052fa60c496a1c03383b27687ec50f4bf0f0e10"
+	"metacritic_url" "pc/counterstrikesource"
+	"clienticns" "924befd0e735ea5a24ca9d4ffeb12b8f6842016d"
+	"oslist" "windows,macos,linux"
+	"linuxclienticon" "82d0783df6b899ea537b05c5a72aff12d0ba092b"
+	"osarch" ""
+	"osextended" ""
+	"type" "game"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1645833600"
+		"tested_build_id" "6946501"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Counter-Strike: Source"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "48.1224419083093"
+			"height_pct" "77.77777777777777"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "48.1224419083093"
+				"height_pct" "77.77777777777777"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1666823711"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Valve"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Valve"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_12" "1"
+		"category_8" "1"
+		"category_16" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_1" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1099296000"
+	"metacritic_score" "88"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/counter-strike-source\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "240"
+	"store_tags"
+	{
+		"0" "1774"
+		"1" "1663"
+		"2" "19"
+		"3" "3859"
+		"4" "5711"
+		"5" "3839"
+		"6" "3878"
+		"7" "1708"
+		"8" "1775"
+		"9" "5055"
+		"10" "4168"
+		"11" "1678"
+		"12" "9"
+		"13" "1669"
+		"14" "4182"
+		"15" "4026"
+		"16" "4166"
+		"17" "1662"
+		"18" "599"
+		"19" "3810"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Valve"
+	"directx_minver" "4.09.00.0903"
+	"gamedir" "cstrike"
+	"homepage" "http://www.steampowered.com/"
+	"icon" "steam/games/icon_css"
+	"icon2" "steam/games/icon_css_dull"
+	"loadallbeforelaunch" "1"
+	"noservers" "0"
+	"order" "2"
+	"primarycache" "242"
+	"serverbrowsername" "Counter-Strike: Source"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"vacmacmodulecache" "160"
+	"vacmodulecache" "202"
+	"vacmodulefilename" "sourceinit.dat"
+	"validoslist" "windows,macos,linux"
+	"deckresolutionoverride" "Native"
+	"developer_url" "http://www.valvesoftware.com/"
+	"publisher" "Valve"
+}
+"config"
+{
+	"signedfiles"
+	{
+		"client.dll" "30819D300D06092A864886F70D010101050003818B0030818702818100B1260881BDFE84463D88C6AB8DB914A2E593893C10508B8A5ABDF692E9A5419A3EDBAE86A052849983B75E3B425C18178B260003D857DF0B6505C6CF9C84F5859FCE3B63F1FB2D4818501F6C5FA4AD1430EEB081A74ABD74CD1F4AA1FCCA3B88DD0548AED34443CEB52444EAE9099AA4FE66B2E6224D02381C248025C7044079020111"
+		"server.dll" "30819D300D06092A864886F70D010101050003818B0030818702818100B1260881BDFE84463D88C6AB8DB914A2E593893C10508B8A5ABDF692E9A5419A3EDBAE86A052849983B75E3B425C18178B260003D857DF0B6505C6CF9C84F5859FCE3B63F1FB2D4818501F6C5FA4AD1430EEB081A74ABD74CD1F4AA1FCCA3B88DD0548AED34443CEB52444EAE9099AA4FE66B2E6224D02381C248025C7044079020111"
+		"engine.dll" "30819D300D06092A864886F70D010101050003818B0030818702818100B1260881BDFE84463D88C6AB8DB914A2E593893C10508B8A5ABDF692E9A5419A3EDBAE86A052849983B75E3B425C18178B260003D857DF0B6505C6CF9C84F5859FCE3B63F1FB2D4818501F6C5FA4AD1430EEB081A74ABD74CD1F4AA1FCCA3B88DD0548AED34443CEB52444EAE9099AA4FE66B2E6224D02381C248025C7044079020111"
+		"hl2.exe" "30819D300D06092A864886F70D010101050003818B0030818702818100B1260881BDFE84463D88C6AB8DB914A2E593893C10508B8A5ABDF692E9A5419A3EDBAE86A052849983B75E3B425C18178B260003D857DF0B6505C6CF9C84F5859FCE3B63F1FB2D4818501F6C5FA4AD1430EEB081A74ABD74CD1F4AA1FCCA3B88DD0548AED34443CEB52444EAE9099AA4FE66B2E6224D02381C248025C7044079020111"
+		"prec.dll" "30819D300D06092A864886F70D010101050003818B0030818702818100BA240326DFC66BFDC28782BD644FC3BAB284F4A07554E17A8DA6CCA0B4AFBFC9BAB2938846D7595BC7A560FF6215C670C74EEB9D118DE9FC0E8ED0A18DD24D8DBAE8B950C6C062BA5DEFDECB967745C53433839EB7B1A6CA340D0E48273E18AB87106FBD22AC32B2776092E924D3C414DC3328735E984E4A1B1B4E72B0F41017020111"
+		"sourcevr.dll" "30819D300D06092A864886F70D010101050003818B0030818702818100BA240326DFC66BFDC28782BD644FC3BAB284F4A07554E17A8DA6CCA0B4AFBFC9BAB2938846D7595BC7A560FF6215C670C74EEB9D118DE9FC0E8ED0A18DD24D8DBAE8B950C6C062BA5DEFDECB967745C53433839EB7B1A6CA340D0E48273E18AB87106FBD22AC32B2776092E924D3C414DC3328735E984E4A1B1B4E72B0F41017020111"
+	}
+	"systemprofile" "1"
+	"installdir" "Counter-Strike Source"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "cstrike.exe"
+			"arguments" "-steam"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"2"
+		{
+			"executable" "cstrike.sh"
+			"arguments" "-steam"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"4"
+		{
+			"executable" "cstrike_win64.exe"
+			"arguments" "-steam"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"5"
+		{
+			"executable" "hl2.exe"
+			"arguments" "-steam -game cstrike"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "previous_build"
+			}
+			"description_loc"
+			{
+				"english" "Play Previous Build Branch"
+			}
+			"description" "Play Previous Build Branch"
+		}
+		"6"
+		{
+			"executable" "hl2.sh"
+			"arguments" "-steam -game cstrike"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "previous_build"
+			}
+			"description_loc"
+			{
+				"english" "Play Previous Build Branch"
+			}
+			"description" "Play Previous Build Branch"
+		}
+	}
+	"uselaunchcommandline" "1"
+	"app_mappings"
+	{
+		"0"
+		{
+			"platform" "linux"
+			"tool" "SteamLinuxRuntime_sniper"
+		}
+	}
+}
+"depots"
+{
+	"241"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6941588918651947824"
+				"size" "4558841879"
+				"download" "2598233008"
+			}
+			"prerelease"
+			{
+				"gid" "6941588918651947824"
+				"size" "4558841879"
+				"download" "2598233008"
+			}
+			"previous_build"
+			{
+				"gid" "3261854995366250836"
+				"size" "4500132524"
+				"download" "2568675232"
+			}
+		}
+	}
+	"240"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8533645887610833256"
+				"size" "825745"
+				"download" "43168"
+			}
+			"prerelease"
+			{
+				"gid" "8533645887610833256"
+				"size" "825745"
+				"download" "43168"
+			}
+			"previous_build"
+			{
+				"gid" "8533645887610833256"
+				"size" "825745"
+				"download" "43168"
+			}
+		}
+	}
+	"232331"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4432809338483152243"
+				"size" "320769050"
+				"download" "118185520"
+			}
+			"prerelease"
+			{
+				"gid" "4432809338483152243"
+				"size" "320769050"
+				"download" "118185520"
+			}
+			"previous_build"
+			{
+				"gid" "7751288232347950736"
+				"size" "127929484"
+				"download" "53568704"
+			}
+		}
+	}
+	"232332"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6807356044053851705"
+				"size" "65050747"
+				"download" "15363072"
+			}
+			"prerelease"
+			{
+				"gid" "6807356044053851705"
+				"size" "65050747"
+				"download" "15363072"
+			}
+			"previous_build"
+			{
+				"gid" "1803963594427260807"
+				"size" "73765121"
+				"download" "21240000"
+			}
+		}
+	}
+	"232333"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1645363794472800391"
+				"size" "207719461"
+				"download" "61119024"
+			}
+			"prerelease"
+			{
+				"gid" "1645363794472800391"
+				"size" "207719461"
+				"download" "61119024"
+			}
+			"previous_build"
+			{
+				"gid" "8067518758157153958"
+				"size" "84255107"
+				"download" "29963264"
+			}
+		}
+	}
+	"209"
+	{
+		"config"
+		{
+			"lowviolence" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7603860182937987947"
+				"size" "50083"
+				"download" "13328"
+			}
+			"prerelease"
+			{
+				"gid" "7603860182937987947"
+				"size" "50083"
+				"download" "13328"
+			}
+			"previous_build"
+			{
+				"gid" "5452253894472573318"
+				"size" "47205"
+				"download" "14144"
+			}
+		}
+	}
+	"243"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1835504110476484771"
+				"size" "1317892"
+				"download" "719408"
+			}
+			"prerelease"
+			{
+				"gid" "1835504110476484771"
+				"size" "1317892"
+				"download" "719408"
+			}
+			"previous_build"
+			{
+				"gid" "1835504110476484771"
+				"size" "1317892"
+				"download" "719408"
+			}
+		}
+	}
+	"244"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2397366879656554698"
+				"size" "4941950"
+				"download" "4487360"
+			}
+			"prerelease"
+			{
+				"gid" "2397366879656554698"
+				"size" "4941950"
+				"download" "4487360"
+			}
+			"previous_build"
+			{
+				"gid" "2397366879656554698"
+				"size" "4941950"
+				"download" "4487360"
+			}
+		}
+	}
+	"245"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1233305780732056270"
+				"size" "1256938"
+				"download" "793824"
+			}
+			"prerelease"
+			{
+				"gid" "1233305780732056270"
+				"size" "1256938"
+				"download" "793824"
+			}
+			"previous_build"
+			{
+				"gid" "1233305780732056270"
+				"size" "1256938"
+				"download" "793824"
+			}
+		}
+	}
+	"246"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6261787322254519921"
+				"size" "1280875"
+				"download" "838352"
+			}
+			"prerelease"
+			{
+				"gid" "6261787322254519921"
+				"size" "1280875"
+				"download" "838352"
+			}
+			"previous_build"
+			{
+				"gid" "6261787322254519921"
+				"size" "1280875"
+				"download" "838352"
+			}
+		}
+	}
+	"247"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4044373373005100780"
+				"size" "39662"
+				"download" "8624"
+			}
+			"prerelease"
+			{
+				"gid" "4044373373005100780"
+				"size" "39662"
+				"download" "8624"
+			}
+			"previous_build"
+			{
+				"gid" "4044373373005100780"
+				"size" "39662"
+				"download" "8624"
+			}
+		}
+	}
+	"249"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3076947719490620423"
+				"size" "40308"
+				"download" "8848"
+			}
+			"prerelease"
+			{
+				"gid" "3076947719490620423"
+				"size" "40308"
+				"download" "8848"
+			}
+			"previous_build"
+			{
+				"gid" "3076947719490620423"
+				"size" "40308"
+				"download" "8848"
+			}
+		}
+	}
+	"250"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2152931097008442584"
+				"size" "39436"
+				"download" "8752"
+			}
+			"prerelease"
+			{
+				"gid" "2152931097008442584"
+				"size" "39436"
+				"download" "8752"
+			}
+			"previous_build"
+			{
+				"gid" "2152931097008442584"
+				"size" "39436"
+				"download" "8752"
+			}
+		}
+	}
+	"251"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6544129960018037718"
+				"size" "37081"
+				"download" "7344"
+			}
+			"prerelease"
+			{
+				"gid" "6544129960018037718"
+				"size" "37081"
+				"download" "7344"
+			}
+			"previous_build"
+			{
+				"gid" "6544129960018037718"
+				"size" "37081"
+				"download" "7344"
+			}
+		}
+	}
+	"252"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6388931415856337497"
+				"size" "37081"
+				"download" "7680"
+			}
+			"prerelease"
+			{
+				"gid" "6388931415856337497"
+				"size" "37081"
+				"download" "7680"
+			}
+			"previous_build"
+			{
+				"gid" "6388931415856337497"
+				"size" "37081"
+				"download" "7680"
+			}
+		}
+	}
+	"253"
+	{
+		"config"
+		{
+			"language" "thai"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8445493475793418996"
+				"size" "37081"
+				"download" "7360"
+			}
+			"prerelease"
+			{
+				"gid" "8445493475793418996"
+				"size" "37081"
+				"download" "7360"
+			}
+			"previous_build"
+			{
+				"gid" "8445493475793418996"
+				"size" "37081"
+				"download" "7360"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,greek"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17399420"
+			"timeupdated" "1739907731"
+		}
+		"prerelease"
+		{
+			"buildid" "17399420"
+			"description" "Latest available build"
+			"timeupdated" "1739907744"
+		}
+		"previous_build"
+		{
+			"buildid" "6946501"
+			"description" "Previous Build"
+			"timeupdated" "1739908503"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1048576"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "27642435"
+"_sha" "7c08ef3c5634d494071357bfe99d01f7c997ad90"
+"_size" "16458"
