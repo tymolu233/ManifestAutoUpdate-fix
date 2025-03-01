@@ -1,0 +1,465 @@
+"appid" "680420"
+"common"
+{
+	"name" "OUTRIDERS"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"logo" "1a6b16200c59b73bfa1f7a75532db76a15706f4a"
+	"logo_small" "1a6b16200c59b73bfa1f7a75532db76a15706f4a_thumb"
+	"clienticon" "92a45134a6f98c9f34bb7126095d0c02d7f23d68"
+	"clienttga" "93bbb552e8d5f7a25320575d5633a58b2f33b603"
+	"icon" "35088a2e2cbca86852288051fb34eac760577f83"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "680420_eula_0"
+			"name" "OUTRIDERS EULA"
+			"url" "https://store.steampowered.com//eula/680420_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1677628800"
+		"tested_build_id" "9346108"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Madness"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "56.18346904350361"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "56.18346904350361"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1707758381"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "People Can Fly"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Square Enix"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_29" "1"
+		"category_27" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1617292800"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "680420"
+	"store_tags"
+	{
+		"0" "353880"
+		"1" "122"
+		"2" "1685"
+		"3" "3814"
+		"4" "19"
+		"5" "21"
+		"6" "3859"
+		"7" "4236"
+		"8" "4182"
+		"9" "1774"
+		"10" "3843"
+		"11" "4345"
+		"12" "3942"
+		"13" "4667"
+		"14" "1695"
+		"15" "4747"
+		"16" "1697"
+		"17" "3835"
+		"18" "1742"
+		"19" "12095"
+	}
+	"review_score" "5"
+	"review_percentage" "66"
+}
+"extended"
+{
+	"developer" "People Can Fly"
+	"publisher" "Square Enix"
+	"homepage" "https://outriders.square-enix-games.com/en-gb/"
+	"listofdlc" "1228540,1785250"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "OUTRIDERS"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "OUTRIDERS-Win64-Shipping.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "ageratings,external-tech,image,madness-425,madness-425-stable,madness-demo,madness-engine-devqa,qautomation,see-compatqa,see-locqa,see-locqa2,see-nvidia,see-qa1,see-qa2,see-qa3,sels-community,sels-editoral,sels-msdelivery,sels-userresearch,sels-videocapture-latest,sels-videocapture-main,streams,see-qa4,sels-press"
+			}
+			"description_loc"
+			{
+				"english" "Review Shipping "
+			}
+			"description" "Review Shipping "
+		}
+		"1"
+		{
+			"executable" "Madness.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "ageratings,external-tech,image,madness-425,madness-demo,madness-engine-devqa,qautomation,see-compatqa,see-locqa,see-locqa2,see-nvidia,see-qa1,see-qa2,see-qa3,sels-community,sels-editoral,sels-msdelivery,sels-userresearch,sels-videocapture-latest,sels-videocapture-main,streams,see-qa4"
+			}
+			"description_loc"
+			{
+				"english" "Development"
+			}
+			"description" "Development"
+		}
+		"2"
+		{
+			"executable" "Madness-Win64-Test.exe"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "ageratings,external-tech,image,madness-425,madness-demo,madness-engine-devqa,qautomation,see-compatqa,see-locqa,see-locqa2,see-nvidia,see-qa1,see-qa2,see-qa3,sels-community,sels-editoral,sels-msdelivery,sels-userresearch,sels-videocapture-latest,sels-videocapture-main,streams,see-qa4,madness-425-stable"
+			}
+			"description_loc"
+			{
+				"english" "Test"
+			}
+			"description" "Test"
+		}
+		"3"
+		{
+			"executable" "OUTRIDERS-Win64-Shipping.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"steamdeck" "0"
+			}
+			"description_loc"
+			{
+				"english" "Outriders - DirectX12"
+			}
+			"description" "Outriders - DirectX12"
+		}
+		"4"
+		{
+			"executable" "OUTRIDERS-Win64-Shipping.exe"
+			"arguments" "-force -dx11 "
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Outriders - DirectX11"
+			}
+			"description" "Outriders - DirectX11"
+		}
+		"5"
+		{
+			"executable" "EAC_OUTRIDERS.exe"
+			"arguments" "-force -dx11"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "distribution"
+			}
+			"description_loc"
+			{
+				"english" "Outriders - DirectX11_test"
+			}
+			"description" "Outriders - DirectX11_test"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "1"
+	"680421"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1488416336443718863"
+				"size" "66059143056"
+				"download" "65426263040"
+			}
+		}
+	}
+	"680422"
+	{
+		"dlcappid" "883030"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9346108"
+			"timeupdated" "1661439618"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27105667"
+"_sha" "8ac589a2b71d204d81f0cbeb9c526231180cdef0"
+"_size" "8903"
