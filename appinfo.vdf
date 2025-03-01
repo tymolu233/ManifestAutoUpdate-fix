@@ -1,0 +1,321 @@
+"appid" "962730"
+"common"
+{
+	"name" "Skater XL"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"icon" "cfa29291556bc6ec4f9accc641d5e0ce2e1b1fa1"
+	"logo" "980d4a4a044237de2b3b21dbad0a54b78d417bcd"
+	"logo_small" "980d4a4a044237de2b3b21dbad0a54b78d417bcd_thumb"
+	"clienticon" "e7a2bf445414770cadaa7f889bb2639a3362c589"
+	"clienttga" "b54179bdc2cc258b33e823fc4f255a03bbe635f2"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "962730_eula_0"
+			"name" "Skater XL EULA"
+			"url" "https://store.steampowered.com//eula/962730_eula_0"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644451200"
+		"tested_build_id" "7152029"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Skater XL"
+	"nokeyboardmouse" "1"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "48.020954598370196"
+			"height_pct" "37.84136784611731"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "a3cb339c049cc45bafcded30a5d3b71c413e06bb/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "a3cb339c049cc45bafcded30a5d3b71c413e06bb/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "48.020954598370196"
+				"height_pct" "37.84136784611731"
+			}
+		}
+	}
+	"store_asset_mtime" "1727199697"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Easy Day Studios Pty Ltd"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Easy Day Studios Pty Ltd"
+		}
+	}
+	"primary_genre" "18"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "28"
+		"4" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_9" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"original_release_date" "1595919600"
+	"steam_release_date" "1595948551"
+	"metacritic_score" "56"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/skater-xl\?ftag=MCD-06-10aaa1f"
+	"community_hub_visible" "1"
+	"gameid" "962730"
+	"store_tags"
+	{
+		"0" "1753"
+		"1" "96359"
+		"2" "3859"
+		"3" "701"
+		"4" "3810"
+		"5" "3843"
+		"6" "1669"
+		"7" "3968"
+		"8" "4747"
+		"9" "599"
+		"10" "21"
+		"11" "5348"
+		"12" "7481"
+		"13" "19"
+		"14" "4182"
+		"15" "4175"
+		"16" "1695"
+		"17" "28444"
+		"18" "492"
+		"19" "7948"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Easy Day Studios Pty Ltd"
+	"publisher" "Easy Day Studios Pty Ltd"
+	"homepage" "http://www.skaterxl.com"
+	"listofdlc" "1952000"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Skater XL"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SkaterXL.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "alpha"
+			}
+		}
+	}
+}
+"depots"
+{
+	"962731"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "961873864225958869"
+				"size" "5441002558"
+				"download" "4360575680"
+			}
+			"alpha"
+			{
+				"gid" "3764407388590183995"
+				"size" "5537243136"
+				"download" "4438179536"
+			}
+			"beta"
+			{
+				"gid" "3961013457162400186"
+				"size" "5461048573"
+				"download" "4366004464"
+			}
+		}
+	}
+	"962732"
+	{
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14469161"
+			"timeupdated" "1716568934"
+		}
+		"alpha"
+		{
+			"buildid" "8987706"
+			"description" "alpha builds"
+			"timeupdated" "1656341849"
+		}
+		"beta"
+		{
+			"buildid" "13860539"
+			"description" "Open Beta"
+			"timeupdated" "1712344473"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27679840"
+"_sha" "38bbcac921d8fff44cb95057f82f0c716aa05645"
+"_size" "5825"
