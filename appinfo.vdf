@@ -1,0 +1,474 @@
+"appid" "327030"
+"common"
+{
+	"name" "Worms W.M.D"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"logo" "ac71a2058509b7b4f386961492d8c63f4da9ce0a"
+	"logo_small" "ac71a2058509b7b4f386961492d8c63f4da9ce0a_thumb"
+	"icon" "9f18090e88fd50a0a85a66a1a9872bd36c856b58"
+	"clienticon" "8768399e337d799ef754c4c7f716987c79339a99"
+	"clienttga" "925ad1ffdbfbc374b38da1ed1d78a3c2170b0de0"
+	"linuxclienticon" "9872126adc9400601d2e795f91b4b5fad343ab9e"
+	"clienticns" "e315195839274e31796bb51d84b9071a719163a4"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"osarch" ""
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1670630400"
+		"tested_build_id" "3974938"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Worms WMD"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "46"
+			"height_pct" "64"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "46"
+				"height_pct" "64"
+			}
+		}
+	}
+	"store_asset_mtime" "1725976978"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Team17"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Team17"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Team17"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_44" "1"
+		"category_43" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1471967340"
+	"metacritic_score" "79"
+	"metacritic_fullurl" "http://www.metacritic.com/game/pc/worms-wmd\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "327030"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "3859"
+		"2" "19"
+		"3" "1741"
+		"4" "4136"
+		"5" "7368"
+		"6" "3871"
+		"7" "1677"
+		"8" "1685"
+		"9" "1774"
+		"10" "4182"
+		"11" "1719"
+		"12" "3841"
+		"13" "1693"
+		"14" "597"
+		"15" "10397"
+		"16" "1625"
+		"17" "1678"
+		"18" "21"
+		"19" "4345"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Team17"
+	"publisher" "Team17"
+	"homepage" "http://www.team17.com/games/worms-wmd/"
+	"listofdlc" "497140"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "WormsWMD"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Worms W.M.D.exe"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Worms W.M.D.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "Worms W.M.Dx64"
+			"description" "Play Worms W.M.D"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "Run.sh"
+			"description" "Worms W.M.D (Run.sh)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2069462761"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "327030"
+	"baselanguages" "english,german,french,italian,spanish,schinese,russian,polish,brazilian"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"327031"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "441132619395654166"
+				"size" "5296962098"
+				"download" "1448956352"
+			}
+		}
+	}
+	"327032"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6201870775167005377"
+				"size" "72797752"
+				"download" "30969120"
+			}
+		}
+	}
+	"327033"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8258802658113446628"
+				"size" "5267679930"
+				"download" "1219390896"
+			}
+		}
+	}
+	"327035"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1122872474690374960"
+				"size" "5786535121"
+				"download" "1651795376"
+			}
+		}
+	}
+	"497140"
+	{
+		"dlcappid" "497140"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4299202741363665516"
+				"size" "182"
+				"download" "240"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3974938"
+			"timeupdated" "1563872165"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27103115"
+"_sha" "ef416aa4d7cb719a347f6d9c51b5fdddc981f568"
+"_size" "8211"
