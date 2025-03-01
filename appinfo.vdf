@@ -1,0 +1,436 @@
+"appid" "690830"
+"common"
+{
+	"name" "Foundation"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "237f5ad721d46efd245e16f66891a6d22b97d756"
+	"logo_small" "237f5ad721d46efd245e16f66891a6d22b97d756_thumb"
+	"icon" "4f5b6c66cb718578819bb92f40d0f2d616378892"
+	"clienticon" "35e88c134c1797099aeb93715f35755d34466e66"
+	"clienttga" "2e3561c1c44f607137a71c9353a307478bcfe372"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"greek" "1"
+		"ukrainian" "1"
+		"vietnamese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1645660800"
+		"tested_build_id" "7876943"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Foundation"
+	"small_capsule"
+	{
+		"english" "e8a4fa83732c06e592571d6406feb01d5c880dd0/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "56.06767794632438"
+			"height_pct" "90.27546900973641"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "af3329e8503df8bb1531fa523552c45f056efce3/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "af3329e8503df8bb1531fa523552c45f056efce3/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "cd2e80fea6df232a6ebdbde3f40d934dc5e31f4d/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "cd2e80fea6df232a6ebdbde3f40d934dc5e31f4d/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "cd2e80fea6df232a6ebdbde3f40d934dc5e31f4d/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "56.06767794632438"
+				"height_pct" "90.27546900973641"
+			}
+			"image"
+			{
+				"english" "f0ba8b2d2cae535909a74b75d7ff519903a6fc46/logo.png"
+			}
+			"image2x"
+			{
+				"english" "f0ba8b2d2cae535909a74b75d7ff519903a6fc46/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "1be2bbcdeccae1f80dafcb94978cf92a9fb9e0d8/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "1be2bbcdeccae1f80dafcb94978cf92a9fb9e0d8/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1738339030"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Polymorph Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Polymorph Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1738335769"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "690830"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "599"
+		"2" "4172"
+		"3" "9"
+		"4" "3810"
+		"5" "8945"
+		"6" "1654"
+		"7" "12472"
+		"8" "4166"
+		"9" "4695"
+		"10" "1643"
+		"11" "492"
+		"12" "4182"
+		"13" "220585"
+		"14" "7332"
+		"15" "1695"
+		"16" "1662"
+		"17" "1676"
+		"18" "6426"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Polymorph Games"
+	"publisher" "Polymorph Games"
+	"homepage" "https://www.polymorph.games"
+	"listofdlc" "3482250"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Foundation"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "foundation.exe"
+			"arguments" "-fullscreen"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"hasdepotsindlc" "0"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"690831"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8069443070975866247"
+				"size" "5781320722"
+				"download" "2747796624"
+			}
+			"early_access_1_9"
+			{
+				"gid" "3117281361283584658"
+				"size" "4820896592"
+				"download" "1971061488"
+			}
+			"modding_preview"
+			{
+				"gid" "9221317610509266076"
+				"size" "5781285667"
+				"download" "2747772032"
+			}
+			"previous_build"
+			{
+				"gid" "1604174191267771512"
+				"size" "5779841302"
+				"download" "2747416128"
+			}
+		}
+	}
+	"3482250"
+	{
+		"dlcappid" "3482250"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8199326432290963373"
+				"size" "21109576"
+				"download" "9952400"
+			}
+			"early_access_1_9"
+			{
+				"gid" "3708928960155406497"
+				"size" "0"
+				"download" "0"
+			}
+			"modding_preview"
+			{
+				"gid" "8199326432290963373"
+				"size" "21109576"
+				"download" "9952400"
+			}
+			"previous_build"
+			{
+				"gid" "5118978044172454584"
+				"size" "21108400"
+				"download" "9951680"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17490850"
+			"timeupdated" "1740585401"
+		}
+		"early_access_1_9"
+		{
+			"buildid" "17199741"
+			"description" "Early Access Last Build (1.9)"
+			"timeupdated" "1738334008"
+		}
+		"modding_preview"
+		{
+			"buildid" "17551681"
+			"description" "Modding Preview 1.0"
+			"timeupdated" "1740771684"
+		}
+		"previous_build"
+		{
+			"buildid" "17447127"
+			"description" "[Previous Build] If sometings goes wrong with the default build"
+			"timeupdated" "1740585379"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27724488"
+"_sha" "34643ed5e8a2082ee70c58f5282bbe01e6e0d8fd"
+"_size" "8055"
