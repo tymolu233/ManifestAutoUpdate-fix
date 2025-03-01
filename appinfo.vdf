@@ -1,0 +1,401 @@
+"appid" "2909400"
+"common"
+{
+	"name" "FINAL FANTASY VII REBIRTH"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"clienttga" "44a4a2ff563c478fa5f6ba87482d3f04cf8eb1a6"
+	"clienticon" "d3697ce75022287b2c209e61eaf280b8b6cdec31"
+	"icon" "3dacad0a047962a94501d9d028c095993c48ce8b"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2909400_eula_1"
+			"name" "FINAL FANTASY VII REBIRTH EULA"
+			"url" "https://store.steampowered.com//eula/2909400_eula_1"
+			"version" "1"
+		}
+	}
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1737072000"
+		"tested_build_id" "16993873"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "2"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "159fb57397e436d35ae20ba0f62ba7a7f2974cb9/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "64.69042585321655"
+			"height_pct" "56.94394262431782"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "771d94cceea4bf97bd8afeee5e09e31f15bd0196/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "771d94cceea4bf97bd8afeee5e09e31f15bd0196/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "38c7084026055fdf0e23c789645a70855da77d58/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "38c7084026055fdf0e23c789645a70855da77d58/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "38c7084026055fdf0e23c789645a70855da77d58/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "459032921d4e7feb869620bb4e861530e6c4db0a/logo.png"
+			}
+			"image2x"
+			{
+				"english" "459032921d4e7feb869620bb4e861530e6c4db0a/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "64.69042585321655"
+				"height_pct" "56.94394262431782"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "dc38327f6d5f5073ea0e2f4f2e6b41e00b39113c/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "dc38327f6d5f5073ea0e2f4f2e6b41e00b39113c/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737642626"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Square Enix"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Square Enix"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "FINAL FANTASY"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_61" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1737640871"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2909400"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "19"
+		"2" "21"
+		"3" "4182"
+		"4" "4434"
+		"5" "1695"
+		"6" "4231"
+		"7" "4106"
+		"8" "10695"
+		"9" "4777"
+		"10" "1742"
+		"11" "1697"
+		"12" "4145"
+		"13" "1684"
+		"14" "4175"
+		"15" "4166"
+		"16" "5984"
+		"17" "5608"
+		"18" "4057"
+		"19" "4085"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "Square Enix"
+	"publisher" "Square Enix"
+	"homepage" "https://ffvii.square-enix-games.com/games/rebirth"
+	"listofdlc" "3260630,3260650,3260660,3260670,3260680,3312260,3312270,3312280,3361450,3376810"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "FINAL FANTASY VII REBIRTH"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ff7rebirth.exe"
+		}
+	}
+	"steamcontrollertemplateindex" "3"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian,latam"
+	"hasdepotsindlc" "1"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2909401"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6144909281746209738"
+				"size" "164724235906"
+				"download" "154948182320"
+			}
+		}
+	}
+	"2909402"
+	{
+		"config"
+		{
+			"steamdeck" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3167767504618736987"
+				"size" "12"
+				"download" "64"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17345696"
+			"timeupdated" "1739527214"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "734003200"
+	"maxnumfiles" "32"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/FINAL FANTASY VII REBIRTH/Steam/{64BitSteamID}/"
+			"pattern" "ff7rebirthcommon.sav"
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/FINAL FANTASY VII REBIRTH/Steam/{64BitSteamID}/"
+			"pattern" "ff7rebirth0*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27729080"
+"_sha" "e6578ceda77081cc832e88f2afdeffbc034aa1e2"
+"_size" "7366"
