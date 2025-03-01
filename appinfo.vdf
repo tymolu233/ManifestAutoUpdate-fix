@@ -1,0 +1,467 @@
+"appid" "839770"
+"common"
+{
+	"name" "Phoenix Point"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosnotarized"
+	"clienticon" "bb36167368f18651cdae50c4889b8bea6e45ef4e"
+	"clienttga" "aaa7f1b8ad4d43d55905ed1b640bdcfa668af04b"
+	"icon" "81e1bd84f428691bfd6b698ce1034a9e17331c7a"
+	"logo" "267ae044bdb934e8996a6c83c007d545f104ce2c"
+	"logo_small" "267ae044bdb934e8996a6c83c007d545f104ce2c_thumb"
+	"clienticns" "4f7e35a34e5ef9809eee228d8fbe13fd18911ccf"
+	"linuxclienticon" "b32dc14e2b40b4e6dece130b1ce1586e62bcb0e4"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "839770_eula_0"
+			"name" "Phoenix Point: Year One Edition EULA"
+			"url" "https://store.steampowered.com//eula/839770_eula_0"
+			"version" "4"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1658361600"
+		"tested_build_id" "9133581"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Phoenix Point"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "34.74673143595601"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "34.74673143595601"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1657300132"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Snapshot Games Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Snapshot Games Inc."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Phoenix Point"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "3"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1607018400"
+	"metacritic_score" "74"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/phoenix-point\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "839770"
+	"store_tags"
+	{
+		"0" "1708"
+		"1" "1741"
+		"2" "4364"
+		"3" "122"
+		"4" "5125"
+		"5" "9"
+		"6" "1759"
+		"7" "3814"
+		"8" "6730"
+		"9" "1673"
+		"10" "4747"
+		"11" "3835"
+		"12" "1697"
+		"13" "1667"
+		"14" "3839"
+		"15" "5851"
+		"16" "12057"
+		"17" "21725"
+		"18" "4137"
+		"19" "4191"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"developer" "Snapshot Games Inc."
+	"publisher" "Snapshot Games Inc."
+	"homepage" "https://phoenixpoint.info/"
+	"listofdlc" "1357360,1357370,1357371,1357372,1357480,1619320,1622220,1622221"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Phoenix Point"
+	"steamconfigurator3rdpartynative" "13"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PhoenixPointWin64.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Phoenix Point"
+			}
+			"description" "Phoenix Point"
+		}
+		"1"
+		{
+			"executable" "PhoenixPointOSX.app\\Contents\\MacOS\\Phoenix Point"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Phoenix Point"
+			}
+			"description" "Phoenix Point"
+		}
+		"2"
+		{
+			"executable" "PhoenixPointWin64.exe"
+			"arguments" "-mods"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Phoenix Point with Mods"
+			}
+			"description" "Phoenix Point with Mods"
+		}
+		"3"
+		{
+			"executable" "PhoenixPointOSX.app\\Contents\\MacOS\\Phoenix Point"
+			"arguments" "-mods"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Phoenix Point with Mods"
+			}
+			"description" "Phoenix Point with Mods"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2307288357"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,preview,releasecandidate,testing"
+			"use_action_block" "false"
+		}
+		"2307309589"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,preview,releasecandidate,testing"
+			"use_action_block" "false"
+		}
+		"2307360297"
+		{
+			"controller_type" "controller_switch_pro"
+			"enabled_branches" "default,preview,releasecandidate,testing"
+			"use_action_block" "false"
+		}
+		"2815955027"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,preview,releasecandidate,testing"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"839771"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4857329902646086973"
+				"size" "36267009905"
+				"download" "17417610016"
+			}
+		}
+	}
+	"839772"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "848427886609726619"
+				"size" "40320441676"
+				"download" "20128610336"
+			}
+		}
+	}
+	"1357480"
+	{
+		"dlcappid" "1357480"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2726210276530381652"
+				"size" "716376226"
+				"download" "610331024"
+			}
+		}
+	}
+	"workshopdepot" "839770"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9233783"
+			"timeupdated" "1659628840"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "157286400"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Snapshot Games Inc/Phoenix Point/Steam/{64BitSteamID}"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Snapshot Games Inc/Phoenix Point/Steam/{64BitSteamID}"
+					"replace" "com.snapshotgames.phoenixpoint/Steam/{64BitSteamID}"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27280308"
+"_sha" "fa1dcc7cf522ed356e634c30b61bb901298ecf16"
+"_size" "8600"
