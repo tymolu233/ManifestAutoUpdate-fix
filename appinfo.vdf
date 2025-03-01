@@ -1,0 +1,372 @@
+"appid" "1003890"
+"common"
+{
+	"name" "Blacksad: Under the Skin"
+	"type" "Game"
+	"logo" "944f6762aa87e3e6e7b5cf751d00704deab498da"
+	"logo_small" "944f6762aa87e3e6e7b5cf751d00704deab498da_thumb"
+	"icon" "2fe287e8012c808c00a1028577ae2dff0481c69e"
+	"clienticon" "aecc2d193a5c0dc81795de238c798b1f5d970eb1"
+	"clienttga" "05d99bfbe4b32cabacb646fffeeb5c4b783f90a0"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"dutch" "1"
+	}
+	"osextended" "macos64,macosnotarized"
+	"name_localized"
+	{
+		"schinese" "黑猫侦探：深入本质"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644883200"
+		"tested_build_id" "4856371"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Blacksad"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50.53709538174752"
+			"height_pct" "93.80804586286246"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50.53709538174752"
+				"height_pct" "93.80804586286246"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1719405067"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pendulo Studios"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "YS Interactive"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Microids"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Microids"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1573718400"
+	"steam_release_date" "1573754258"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1003890"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "5613"
+		"2" "6426"
+		"3" "1742"
+		"4" "6052"
+		"5" "6378"
+		"6" "6971"
+		"7" "4182"
+		"8" "5716"
+		"9" "1751"
+		"10" "8369"
+		"11" "5611"
+		"12" "4145"
+		"13" "4166"
+		"14" "4559"
+		"15" "4667"
+		"16" "3834"
+		"17" "1664"
+		"18" "1698"
+		"19" "4195"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "Pendulo Studios"
+	"publisher" "Microids"
+}
+"config"
+{
+	"installdir" "Blacksad - Under the skin"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Blacksad.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Blacksad.app\\Contents\\MacOS\\Blacksad"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,spanish,russian,dutch"
+	"1003891"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5916688184056781134"
+				"size" "15546580768"
+				"download" "12502602816"
+			}
+		}
+	}
+	"1003892"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8199066994313957818"
+				"size" "15850154701"
+				"download" "12603956320"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15955197"
+			"timeupdated" "1730736662"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SavesDir"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26902549"
+"_sha" "b40e11b8cb7ed92c7787514b340bca5673992a34"
+"_size" "6232"
