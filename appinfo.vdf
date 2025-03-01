@@ -1,0 +1,155 @@
+"appid" "887860"
+"common"
+{
+	"name" "Insurgency: Sandstorm Community Test Environment"
+	"section_type" "ownersonly"
+	"type" "Game"
+	"releasestate" "unavailable"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienttga" "8eba259c22e90df29fd2f5f157b4394cd7074a9e"
+	"clienticon" "477a2e8f82a9f9f55d1f42529ad0f69f5765e51f"
+	"icon" "d60ba72a9478e916ebd60f58648f4a0a2bf8756c"
+	"clienticns" "403be5d999c33b8dfee9c29f59b7980bf7041110"
+	"linuxclienticon" "8bb975e4b086d076e9e930450a488401dc198a29"
+	"logo" "69b03299a072409285543abee15b58a74ded295a"
+	"logo_small" "69b03299a072409285543abee15b58a74ded295a_thumb"
+	"associations"
+	{
+	}
+	"gameid" "887860"
+	"exfgls" "8"
+	"store_tags"
+	{
+	}
+}
+"extended"
+{
+	"gamedir" "sandstorm"
+	"serverbrowsername" "Insurgency: Sandstorm (Closed Technical Alpha)"
+}
+"config"
+{
+	"installdir" "sandstorm_beta"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "InsurgencyEAC.exe"
+			"type" "default"
+		}
+		"1"
+		{
+			"executable" "InsurgencyEAC.exe"
+			"arguments" "-clickedreplay=373d2264-9310-48b2-ae53-e73f322f3bcb"
+			"description" "Town replay"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "focus_perf"
+			}
+		}
+		"2"
+		{
+			"executable" "InsurgencyEAC.exe"
+			"arguments" "-clickedreplay=f4fbf0e8-7bff-4a2b-bb41-277c686253a2"
+			"description" "Precinct replay"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "focus_perf"
+			}
+		}
+		"3"
+		{
+			"executable" "Insurgency.exe"
+			"arguments" "-noeac"
+			"description" "Sandstorm no EAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "unstable,unstable_test,unstable_shipping"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,turkish,brazilian"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"887861"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7273503393137229365"
+				"size" "272671248"
+				"download" "209674624"
+			}
+		}
+	}
+	"1575010"
+	{
+		"dlcappid" "1575010"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "303772630779096563"
+				"size" "272671248"
+				"download" "209674624"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7371809"
+			"timeupdated" "1631811623"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27716475"
+"_sha" "485966603f8705e74e434e94f1ed8cbebaaeab81"
+"_size" "2893"
