@@ -1,0 +1,375 @@
+"appid" "2103140"
+"common"
+{
+	"name" "Magicraft"
+	"type" "Game"
+	"icon" "d11359b9136bef5ea70d8878e0d296d6acc43dd0"
+	"clienticon" "3896a1f7da855b0c77f8aca7a030d81e298dcf46"
+	"clienttga" "1701a24f7c7e394bd4efcf9f9f9dc9b861c88d10"
+	"name_localized"
+	{
+		"english" "Magicraft"
+		"schinese" "魔法工艺 Magicraft"
+		"tchinese" "魔法工藝 Magicraft"
+		"koreana" "마법 공예 Magicraft"
+		"japanese" "マジッククラフト Magicraft"
+		"arabic" "حرفة سحرية Magicraft"
+		"czech" "kouzelnické řemeslo Magicraft"
+		"finnish" "taikuutta Magicraft"
+		"french" "artisanat magique Magicraft"
+		"german" "Zauberhandwerk Magicraft"
+		"hungarian" "varázsmesterség Magicraft"
+		"italian" "mestiere magico Magicraft"
+		"polish" "sztuki magiczne Magicraft"
+		"brazilian" "artesanato mágico Magicraft"
+		"russian" "магическое ремесло Magicraft"
+		"spanish" "artesanía mágica Magicraft"
+		"thai" "มายากล Magicraft"
+		"turkish" "sihirli zanaat Magicraft"
+		"sc_schinese" "魔法工艺"
+	}
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestatesteamchina" "prerelease"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1734998400"
+		"tested_build_id" "16781802"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "f5111e2c66b7bc16da6968a68f1f31af10c6bb51/capsule_231x87.jpg"
+		"schinese" "f2a27d2ef329b67ef6bc1cabc6a49b9941cb8273/capsule_231x87_schinese.jpg"
+		"tchinese" "11019a602e278aa4a1713313b77bec5810f162d0/capsule_231x87_tchinese.jpg"
+		"japanese" "3b1c247a15f082a95eae854148ddfd1c30c33d01/capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw,ja"
+		"library_hero" "zh-cn,en"
+		"library_hero_blur" "zh-cn,en"
+		"library_logo" "en,zh-cn,ko,zh-tw,ja"
+		"library_header" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.35855646100116"
+			"height_pct" "53.799572548088335"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "fbfc1abdf4245f1a3d992c7ec51639b3bb6c3f75/library_600x900.jpg"
+				"schinese" "ffb33b6ef54c6a0d79668f0d579c3e76ee1b248e/library_600x900_schinese.jpg"
+				"tchinese" "415bef27dc12a8c3d2f59042bac582a20114d6e0/library_600x900_tchinese.jpg"
+				"japanese" "0057e8c8b17cc65565607fe7444f7f8920f054a1/library_600x900_japanese.jpg"
+			}
+			"image2x"
+			{
+				"english" "fbfc1abdf4245f1a3d992c7ec51639b3bb6c3f75/library_600x900_2x.jpg"
+				"schinese" "ffb33b6ef54c6a0d79668f0d579c3e76ee1b248e/library_600x900_schinese_2x.jpg"
+				"tchinese" "415bef27dc12a8c3d2f59042bac582a20114d6e0/library_600x900_tchinese_2x.jpg"
+				"japanese" "0057e8c8b17cc65565607fe7444f7f8920f054a1/library_600x900_japanese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"schinese" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero_schinese.jpg"
+				"english" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero_schinese_2x.jpg"
+				"english" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"schinese" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero_blur_schinese.jpg"
+				"english" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "8ac815d6e196ab9443978dd6dbd0d9fccd97d433/logo.png"
+				"schinese" "8010d348eb3520a48c156a21b8351a89b6c33d20/logo_schinese.png"
+				"koreana" "57712d8f32d862fe71bc4ab97bbc13aa78119036/logo_koreana.png"
+				"tchinese" "89f3dce70ac6484acf931a37032fd4ead1170383/logo_tchinese.png"
+				"japanese" "132006acf1e075cd7caf48c0b7598fc7dbddffb4/logo_japanese.png"
+			}
+			"image2x"
+			{
+				"english" "8ac815d6e196ab9443978dd6dbd0d9fccd97d433/logo_2x.png"
+				"schinese" "8010d348eb3520a48c156a21b8351a89b6c33d20/logo_schinese_2x.png"
+				"koreana" "57712d8f32d862fe71bc4ab97bbc13aa78119036/logo_koreana_2x.png"
+				"tchinese" "9e1c9b9586cca89a017a795f2ba6b72b08b4ecca/logo_tchinese_2x.png"
+				"japanese" "813e067605d3b5b11e417c32fa00b261bb4c2ea9/logo_japanese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "38.35855646100116"
+				"height_pct" "53.799572548088335"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "bb4566c64ecd6147ba4ec6f0304e0c1b7b4fa918/library_header.jpg"
+				"schinese" "c1d370336933b4e9479f1b4e72990dea4add694c/library_header_schinese.jpg"
+				"tchinese" "77d5294bdd73f98e20d64a1755abc22abe7ee801/library_header_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "bb4566c64ecd6147ba4ec6f0304e0c1b7b4fa918/library_header_2x.jpg"
+				"schinese" "c1d370336933b4e9479f1b4e72990dea4add694c/library_header_schinese_2x.jpg"
+				"tchinese" "77d5294bdd73f98e20d64a1755abc22abe7ee801/library_header_tchinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737631283"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "波浪游戏 (Wave Game)"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "bilibili"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "bilibili"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1730514660"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2103140"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "3959"
+		"2" "353880"
+		"3" "4885"
+		"4" "1716"
+		"5" "17305"
+		"6" "122"
+		"7" "4791"
+		"8" "32322"
+		"9" "5125"
+		"10" "454187"
+		"11" "19"
+		"12" "7432"
+		"13" "4057"
+		"14" "1702"
+		"15" "21"
+		"16" "4182"
+		"17" "492"
+		"18" "4190"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "波浪游戏 (Wave Game)"
+	"publisher" "bilibili"
+	"homepage" "https://game.bilibili.com/magicraft/"
+}
+"config"
+{
+	"installdir" "Magicraft"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Magicraft.exe"
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65532"
+}
+"depots"
+{
+	"2103141"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "142245188621826107"
+				"size" "2403650508"
+				"download" "395959440"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17363966"
+			"timeupdated" "1739876863"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "bolang/Magicraft"
+			"pattern" "*.Json"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27714456"
+"_sha" "ae8a6e8f0dd7655a804d4a79c79ac8c89c2909f3"
+"_size" "9008"
