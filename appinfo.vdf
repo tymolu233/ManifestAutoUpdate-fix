@@ -1,0 +1,405 @@
+"appid" "2427700"
+"common"
+{
+	"name" "Backpack Battles"
+	"type" "Game"
+	"icon" "852629f282e0dfc3e12da56ed5692043665cf9d3"
+	"clienticon" "ef11fc6882a16e1dddfc04cd24830e11395fcc1c"
+	"clienttga" "583818a3142b4087f598fac5a8eaf7bd13b38850"
+	"clienticns" "0669a29e93f43515d5de76b2c44153c44d11a8e2"
+	"linuxclienticon" "b8fff07bce3797a72b3935e35194705c4165c90e"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "背包乱斗：福西法的宝藏 Backpack Battles"
+		"japanese" "バックパック・バトル"
+		"koreana" "백팩 배틀즈"
+		"tchinese" "背包亂鬥 Backpack Battles"
+		"sc_schinese" "背包乱斗：福西法的宝藏"
+	}
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"releasestatesteamchina" "prerelease"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1713916800"
+		"tested_build_id" "14142232"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"sc_schinese" "fd92d3fc23a49b3890e9a60815552f5bb3ca2de5/capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-xc"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "67.40883821882102"
+			"height_pct" "74.11538503996721"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"sc_schinese" "d11adc535239e512041f4bd492a016bde392c01e/library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"sc_schinese" "d11adc535239e512041f4bd492a016bde392c01e/library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "67.40883821882102"
+				"height_pct" "74.11538503996721"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+				"sc_schinese" "2127bfdc1dfe99cfb4f02da1ecaadb7287e2442e/library_header_sc_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737343929"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "PlayWithFurcifer"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PlayWithFurcifer"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "IndieArk"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "IndieArk"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1709891953"
+	"community_hub_visible" "1"
+	"gameid" "2427700"
+	"store_tags"
+	{
+		"0" "1084988"
+		"1" "6276"
+		"2" "9"
+		"3" "1775"
+		"4" "1091588"
+		"5" "17770"
+		"6" "3859"
+		"7" "492"
+		"8" "1708"
+		"9" "791774"
+		"10" "1677"
+		"11" "4236"
+		"12" "1716"
+		"13" "3993"
+		"14" "4711"
+		"15" "3871"
+		"16" "4726"
+		"17" "7208"
+		"18" "6815"
+		"19" "97376"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "PlayWithFurcifer"
+	"publisher" "PlayWithFurcifer"
+	"homepage" "https://playwithfurcifer.github.io/backpack-battles-presskit/"
+}
+"config"
+{
+	"installdir" "Backpack Battles"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BackpackBattles.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "BackpackBattles.x86_64"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamdecktouchscreen" "4"
+	"steamcontrollertemplateindex" "2"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "0"
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,koreana,schinese,japanese"
+	"workshopdepot" "2427700"
+	"2427701"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "942393516571378426"
+				"size" "273611875"
+				"download" "203091552"
+			}
+		}
+	}
+	"2427702"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1572154596535135466"
+				"size" "278398512"
+				"download" "205164176"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17544354"
+			"timeupdated" "1740736736"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"2"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Godot/app_userdata/Backpack Battles/{64BitSteamID}/full"
+			"pattern" "*.save"
+		}
+		"3"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Godot/app_userdata/Backpack Battles/{64BitSteamID}/full/backup"
+			"pattern" "*.save"
+		}
+		"4"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Godot/app_userdata/Backpack Battles/{64BitSteamID}/full"
+			"pattern" "*.db"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Godot/app_userdata/Backpack Battles"
+					"replace" ".local/share/godot/app_userdata/Backpack Battles"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27714495"
+"_sha" "6464bf3eb929fc1980664002087491963f41c780"
+"_size" "7735"
