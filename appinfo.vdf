@@ -1,0 +1,379 @@
+"appid" "981430"
+"common"
+{
+	"name" "Gordian Quest"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "190a682d6a0fafffc023854bee1c4d0a8f65a7f4"
+	"logo_small" "190a682d6a0fafffc023854bee1c4d0a8f65a7f4_thumb"
+	"icon" "60e5f7889780db9385165042f48f903b1756b45f"
+	"clienttga" "a767525913da5b6dbe0e4ad0d24087ad329cd48e"
+	"clienticon" "11546ff07d979fa697cbf60a7a5cb25a974d09db"
+	"linuxclienticon" "098433f371f84028676ab01eb8611724638cc888"
+	"name_localized"
+	{
+		"schinese" "高殿战记"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1692403200"
+		"tested_build_id" "11864707"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Gordian Quest"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "18.05147272191809"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "18.05147272191809"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1664209282"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mixed Realms Pte Ltd"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Swag Soft Holdings Pte Ltd"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Mixed Realms Pte Ltd"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Coconut Island Games"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_1" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1656003600"
+	"metacritic_score" "84"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/gordian-quest\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "981430"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "1666"
+		"2" "791774"
+		"3" "9"
+		"4" "21"
+		"5" "4711"
+		"6" "492"
+		"7" "1677"
+		"8" "1708"
+		"9" "1091588"
+		"10" "1775"
+		"11" "1684"
+		"12" "32322"
+		"13" "4325"
+		"14" "1716"
+		"15" "1741"
+		"16" "14139"
+		"17" "5125"
+		"18" "10695"
+		"19" "7556"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Mixed Realms Pte Ltd"
+	"publisher" "Mixed Realms Pte Ltd"
+	"homepage" "http://mixedrealms.com/gordian-quest/"
+}
+"config"
+{
+	"installdir" "GordianQuest"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GordianQuest.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"981431"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9155127372339053699"
+				"size" "3260756031"
+				"download" "1309365152"
+			}
+			"italian-lqa"
+			{
+				"gid" "1973366745047832608"
+				"size" "3491344681"
+				"download" "1274070544"
+			}
+			"bleeding-edge"
+			{
+				"gid" "7630779631982779039"
+				"size" "3277667536"
+				"download" "1314467152"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12188208"
+			"timeupdated" "1695016060"
+		}
+		"italian-lqa"
+		{
+			"buildid" "9324872"
+			"description" "Playtesting for Italian localization."
+			"timeupdated" "1660660215"
+		}
+		"bleeding-edge"
+		{
+			"buildid" "17004204"
+			"description" "Try out the latest features. Uses a separate save file. Expect things to break and change fast."
+			"timeupdated" "1740128783"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "MixedRealms\\GordianQuest\\"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27591075"
+"_sha" "6a72ebae8b669b535f5824a1ca8ec9cc5e042ee6"
+"_size" "6955"
