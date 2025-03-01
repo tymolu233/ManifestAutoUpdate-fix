@@ -1,0 +1,152 @@
+"appid" "2430930"
+"common"
+{
+	"name" "ARK: Survival Ascended Dedicated Server"
+	"type" "Tool"
+	"parent" "2399830"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "655cc2012105979c2b8e4821d568351c86b22be7"
+	"clienticon" "3c1546488725d43835e3a05645d3072e99e0c621"
+	"clienttga" "cd48da01ba019629a67ee8ddca05ae3bb7ff6835"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2430930_eula_0"
+			"name" "ARK: Survival Ascended Dedicated Server EULA"
+			"url" "https://store.steampowered.com//eula/2430930_eula_0"
+			"version" "1"
+		}
+	}
+	"releasestate" "released"
+	"freetodownload" "1"
+	"gameid" "2430930"
+}
+"config"
+{
+	"installdir" "ARK Survival Ascended Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "\\ShooterGame\\Binaries\\Win64\\ArkAscendedServer.exe"
+			"arguments" "TheIsland_WP\?listen"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch (Map: TheIsland)"
+			}
+			"description" "Launch (Map: TheIsland)"
+		}
+		"1"
+		{
+			"executable" "\\ShooterGame\\Binaries\\Win64\\ArkAscendedServer.exe"
+			"arguments" "TheIsland_WP\?listen -UseBattlEye"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch (Map: TheIsland, With BattlEye Anticheat)"
+			}
+			"description" "Launch (Map: TheIsland, With BattlEye Anticheat)"
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"2430931"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1723881853994469801"
+				"size" "32178838304"
+				"download" "29029787744"
+			}
+			"public_test_realm"
+			{
+				"gid" "3524248560130241701"
+				"size" "9429938918"
+				"download" "7603026672"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17522343"
+			"timeupdated" "1740679357"
+		}
+		"public_test_realm"
+		{
+			"buildid" "13353108"
+			"description" "Try out the new stuff"
+			"timeupdated" "1706926047"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27732790"
+"_sha" "c5e81592cbd72fe780605d968513478a5c0762ec"
+"_size" "2628"
