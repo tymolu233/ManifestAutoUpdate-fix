@@ -1,0 +1,489 @@
+"appid" "1054490"
+"common"
+{
+	"name" "Wingspan"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "11b54fc54ae3bc924381263d30b837f3713e348e"
+	"logo_small" "11b54fc54ae3bc924381263d30b837f3713e348e_thumb"
+	"icon" "f772edbe6cf20601bbf0d54ffb5fd7bddea3f10d"
+	"clienticon" "6784453259142f10205be38a78004e854fc2fa08"
+	"clienttga" "180c06bbc142966d12cd8b2dfcf7ca0deb2cf7df"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"polish" " WINGSPAN (NA SKRZYDŁACH)"
+		"german" "WINGSPAN (FLÜGELSCHLAG)"
+		"french" "WINGSPAN (À TIRE D\'AILES)"
+		"spanish" "WINGSPAN"
+		"english" "Wingspan"
+		"brazilian" "WINGSPAN"
+		"japanese" "WINGSPAN (ウイングスパン)"
+		"russian" "WINGSPAN (КРЫЛЬЯ)"
+		"schinese" "WINGSPAN (展翅翱翔)"
+		"czech" "WINGSPAN (NA KŘÍDLECH)"
+		"hungarian" "WINGSPAN (FESZTÁV)"
+		"italian" " WINGSPAN"
+		"koreana" "WINGSPAN (윙스팬)"
+		"ukrainian" "Wingspan (Крила)"
+	}
+	"clienticns" "bd8ccee5c1c759c3f6b1fe93a1eef1473eee0cc6"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1651104000"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Wingspan"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "573ceea5fe51726012c42da425d3e120917be51a/capsule_231x87.jpg"
+		"schinese" "be70f4db0cfe1eab390831c2648e2862ae02857f/capsule_231x87_schinese.jpg"
+		"tchinese" "be70f4db0cfe1eab390831c2648e2862ae02857f/capsule_231x87_tchinese.jpg"
+		"czech" "0ec76f7f38b0c79ec2920f161310383b379e7922/capsule_231x87_czech.jpg"
+		"french" "0c1fbf0ecfbe7b74aec38c8560d75b7dbc0585e6/capsule_231x87_french.jpg"
+		"german" "570c484595781a6c2ea94a61fb6cb98e03d97294/capsule_231x87_german.jpg"
+		"japanese" "049966df4409b18b26953a98c8eabbed0ec07c80/capsule_231x87_japanese.jpg"
+		"koreana" "d8ae378495f8b0f9d4bc2445c49ef251fa7144ea/capsule_231x87_koreana.jpg"
+		"polish" "d46b5d73f4fb4b8ff0ff279e1e109ab56340c6d3/capsule_231x87_polish.jpg"
+		"russian" "1b0915c20b40474c80236dc376f08fefa44416af/capsule_231x87_russian.jpg"
+		"thai" "b192e4d124313038b423a5d63f0c03a09c7994bc/capsule_231x87_thai.jpg"
+		"ukrainian" "a988689119e8da2a20d5ff528bd38bd5b39cecdd/capsule_231x87_ukrainian.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"czech" "header_czech.jpg"
+		"french" "header_french.jpg"
+		"german" "header_german.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+		"polish" "header_polish.jpg"
+		"russian" "header_russian.jpg"
+		"thai" "header_thai.jpg"
+		"ukrainian" "header_ukrainian.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,cs,fr,de,hu,ja,ko,pl,ru,uk"
+		"library_hero" "en,zh-cn,cs,uk"
+		"library_logo" "en,zh-cn,cs,fr,de,hu,ja,ko,pl,ru,uk"
+		"library_header" "zh-cn,cs,en,fr,de,ja,ko,pl,ru,th,uk,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"czech" "library_600x900_czech.jpg"
+				"french" "library_600x900_french.jpg"
+				"german" "library_600x900_german.jpg"
+				"hungarian" "library_600x900_hungarian.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"polish" "library_600x900_polish.jpg"
+				"russian" "library_600x900_russian.jpg"
+				"ukrainian" "library_600x900_ukrainian.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"czech" "library_600x900_czech_2x.jpg"
+				"french" "library_600x900_french_2x.jpg"
+				"german" "library_600x900_german_2x.jpg"
+				"hungarian" "library_600x900_hungarian_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"polish" "library_600x900_polish_2x.jpg"
+				"russian" "library_600x900_russian_2x.jpg"
+				"ukrainian" "library_600x900_ukrainian_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"czech" "library_hero_czech.jpg"
+				"ukrainian" "library_hero_ukrainian.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"czech" "logo_czech.png"
+				"french" "logo_french.png"
+				"german" "logo_german.png"
+				"hungarian" "logo_hungarian.png"
+				"japanese" "logo_japanese.png"
+				"koreana" "logo_koreana.png"
+				"polish" "logo_polish.png"
+				"russian" "logo_russian.png"
+				"ukrainian" "logo_ukrainian.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "4064d8b126caf7f340aa1a7516226f9d8ca555e0/library_header_schinese.jpg"
+				"czech" "83c39c9c8430de81effa4201e152dcd2e239bbf9/library_header_czech.jpg"
+				"english" "ffe446dc094a06a8254cb58a9e854a1f3b1f87bf/library_header.jpg"
+				"french" "19c70f223d70cf53a05fd4509f0d511fc829e75b/library_header_french.jpg"
+				"german" "0359982f04206bef7b3b59af65252d7bb63da339/library_header_german.jpg"
+				"japanese" "c0207712b02f492f1a2cce9414b11a5f456a899b/library_header_japanese.jpg"
+				"koreana" "35425044db1c8c7a978764829fca02db796cc0c1/library_header_koreana.jpg"
+				"polish" "29c9f99cdb277a410ceb1996d21beba2569ce4e9/library_header_polish.jpg"
+				"russian" "62d99bc0220582115f449459cccd49a1fee33be1/library_header_russian.jpg"
+				"thai" "5c6259a3e02a34c291989409fa03dbf350f852e1/library_header_thai.jpg"
+				"ukrainian" "4f2a4813ff0507efd83887772d7955b3dca4586e/library_header_ukrainian.jpg"
+				"tchinese" "4064d8b126caf7f340aa1a7516226f9d8ca555e0/library_header_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "4064d8b126caf7f340aa1a7516226f9d8ca555e0/library_header_schinese_2x.jpg"
+				"czech" "83c39c9c8430de81effa4201e152dcd2e239bbf9/library_header_czech_2x.jpg"
+				"english" "ffe446dc094a06a8254cb58a9e854a1f3b1f87bf/library_header_2x.jpg"
+				"french" "19c70f223d70cf53a05fd4509f0d511fc829e75b/library_header_french_2x.jpg"
+				"german" "0359982f04206bef7b3b59af65252d7bb63da339/library_header_german_2x.jpg"
+				"japanese" "c0207712b02f492f1a2cce9414b11a5f456a899b/library_header_japanese_2x.jpg"
+				"koreana" "35425044db1c8c7a978764829fca02db796cc0c1/library_header_koreana_2x.jpg"
+				"polish" "29c9f99cdb277a410ceb1996d21beba2569ce4e9/library_header_polish_2x.jpg"
+				"russian" "62d99bc0220582115f449459cccd49a1fee33be1/library_header_russian_2x.jpg"
+				"thai" "5c6259a3e02a34c291989409fa03dbf350f852e1/library_header_thai_2x.jpg"
+				"ukrainian" "4f2a4813ff0507efd83887772d7955b3dca4586e/library_header_ukrainian_2x.jpg"
+				"tchinese" "4064d8b126caf7f340aa1a7516226f9d8ca555e0/library_header_tchinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1739378984"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Monster Couch"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Monster Couch"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Stonemaier Games"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "indienova"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Monster Couch"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_44" "1"
+		"category_49" "1"
+		"category_25" "1"
+		"category_32" "1"
+		"category_29" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1600357940"
+	"metacritic_score" "84"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/wingspan\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1054490"
+	"store_tags"
+	{
+		"0" "1643"
+		"1" "1770"
+		"2" "1666"
+		"3" "1654"
+		"4" "9"
+		"5" "552282"
+		"6" "30358"
+		"7" "597"
+		"8" "17389"
+		"9" "1741"
+		"10" "4726"
+		"11" "1775"
+		"12" "4182"
+		"13" "8945"
+		"14" "4695"
+		"15" "7368"
+		"16" "3871"
+		"17" "1685"
+		"18" "3841"
+		"19" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default"
+	"developer" "Monster Couch"
+	"publisher" "Monster Couch"
+	"homepage" "https://www.monstercouch.com/wingspan/"
+	"listofdlc" "1741470,1816700,1962870,2924770,3320750,3362880"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Wingspan"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Wingspan.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Wingspan.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertemplateindex" "4"
+	"uselaunchcommandline" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2339263977"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1054491"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7319726090103369854"
+				"size" "1874322633"
+				"download" "1427196528"
+			}
+		}
+	}
+	"1054492"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3092354500241847914"
+				"size" "1976218767"
+				"download" "1451737872"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,ukrainian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17321501"
+			"timeupdated" "1739431039"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "5000"
+}
+"_missing_token" "False"
+"_change_number" "27720148"
+"_sha" "75daf6b052be5c4a7e3f9dafab134f877212def8"
+"_size" "12262"
