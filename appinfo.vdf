@@ -1,0 +1,154 @@
+"appid" "581330"
+"common"
+{
+	"name" "Insurgency: Sandstorm Dedicated Server"
+	"type" "Tool"
+	"parent" "581320"
+	"releasestate" "released"
+	"oslist" "linux"
+	"osarch" ""
+	"clienticon" "df54c9719cb2383dbbb29ec6b89b108c9dbe9f22"
+	"clienttga" "8eba259c22e90df29fd2f5f157b4394cd7074a9e"
+	"icon" "018d8f1d991e46846a25dd01cfd5b13b4ddfb26e"
+	"logo" "2d12877271f99129c04ac0cab8625b5abe7768a8"
+	"logo_small" "2d12877271f99129c04ac0cab8625b5abe7768a8_thumb"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "581330"
+}
+"config"
+{
+	"installdir" "sandstorm_server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "InsurgencyServer.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"581332"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "270306551696675326"
+				"size" "4783491782"
+				"download" "4099968144"
+			}
+		}
+	}
+	"581333"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "458030583916942013"
+				"size" "4743982567"
+				"download" "4016727136"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16603739"
+			"timeupdated" "1734022544"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27716686"
+"_sha" "4de37de40ae3918e4ee758ba918f5f77454d5cb2"
+"_size" "2226"
