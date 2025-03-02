@@ -1,0 +1,340 @@
+"appid" "1132030"
+"common"
+{
+	"name" "Trash Sailors"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "938a4cf0148caa5b2ab4dca92297646ac876b7a3"
+	"logo" "ff56fa286d512e17dcd8023868455c9c72bda3cf"
+	"logo_small" "ff56fa286d512e17dcd8023868455c9c72bda3cf_thumb"
+	"clienticon" "f2d441f9a289b7abe6cc65d03889535d49c491f7"
+	"clienttga" "3649162e949e1cee69f99de79b59d0efcc8cc26c"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "垃圾水手 "
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1646956800"
+		"tested_build_id" "8092588"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "59.0132710790013"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "59.0132710790013"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1665071038"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "fluckyMachine"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "tinyBuild"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "tinyBuild"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1639673925"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1132030"
+	"store_tags"
+	{
+		"0" "4840"
+		"1" "5350"
+		"2" "4305"
+		"3" "3843"
+		"4" "597"
+		"5" "4726"
+		"6" "19"
+		"7" "492"
+		"8" "4136"
+		"9" "3968"
+		"10" "3841"
+		"11" "1685"
+		"12" "7368"
+		"13" "3859"
+		"14" "1719"
+		"15" "4975"
+		"16" "4562"
+		"17" "13577"
+		"18" "1773"
+		"19" "1681"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"developer" "fluckyMachine"
+	"publisher" "tinyBuild"
+	"homepage" "https://www.trashsailors.com"
+}
+"config"
+{
+	"installdir" "Trash Sailors"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Trash Sailors.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"1132031"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6598034247019034487"
+				"size" "1794165015"
+				"download" "883623856"
+			}
+			"beta"
+			{
+				"gid" "1979952858389505928"
+				"size" "1477578335"
+				"download" "614513776"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10185831"
+			"timeupdated" "1672667171"
+		}
+		"beta"
+		{
+			"buildid" "5890328"
+			"timeupdated" "1606474371"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26962832"
+"_sha" "423994b57cfe9e6eeb0eeec47a09718e6585586c"
+"_size" "5722"
