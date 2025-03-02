@@ -1,0 +1,1004 @@
+"appid" "269950"
+"common"
+{
+	"name" "X-Plane 11"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"logo" "b08caa8e8b854a2de100e3915ddba4c614746a0c"
+	"logo_small" "b08caa8e8b854a2de100e3915ddba4c614746a0c_thumb"
+	"icon" "82f1ee9515d2c7fd45ebe664f89225cf90a5c6fb"
+	"clienticon" "beac5e16ef36ae93204b875355d365cbb6d164d3"
+	"clienttga" "0fea42176d6bea3ac7acd44769463cbd940177e3"
+	"clienticns" "cbf9234da88a6e2be023acc4bca0b70c3e6196f6"
+	"linuxclienticon" "f6582c9a3ee437eb25a37cc31481fca4b71f619a"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "269950_eula_0"
+			"name" "X-Plane 11 EULA"
+			"url" "http://store.steampowered.com//eula/269950_eula_0"
+		}
+	}
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+		"kbm" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+	}
+	"openvrsupport" "1"
+	"othervrsupport" "1"
+	"othervrsupport_rift_13" "1"
+	"osextended" "macos64,macosnotarized"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1663200000"
+		"tested_build_id" "6916183"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "X-Plane 11"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "34"
+			"height_pct" "25"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "34"
+				"height_pct" "25"
+			}
+		}
+	}
+	"store_asset_mtime" "1481141435"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Laminar Research"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Laminar Research"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_37" "1"
+		"category_18" "1"
+		"category_17" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_52" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1490857200"
+	"steam_release_date" "1490900100"
+	"community_hub_visible" "1"
+	"gameid" "269950"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "15045"
+		"2" "4175"
+		"3" "1695"
+		"4" "3859"
+		"5" "21978"
+		"6" "4182"
+		"7" "3968"
+		"8" "3839"
+		"9" "3810"
+		"10" "4166"
+		"11" "21"
+		"12" "1036"
+		"13" "1697"
+		"14" "5350"
+		"15" "3834"
+		"16" "19"
+		"17" "5411"
+		"18" "7481"
+		"19" "128"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Laminar Research"
+	"publisher" "Laminar Research"
+	"homepage" "http://x-plane.com"
+	"listofdlc" "582570,582571,582572,582573,582574,582575,582576,582577,582578,605780,614000,614001,614002,614003,614004,614005,614006,614007,614008,614009,623611,623613,623616,623617,623619,623620,636130,636131,636132,636133,636134,675340,675350,675351,675354,675355,675356,675357,675358,675359,841160,841161,841162,841163,841164,841165,841166,841167,841168,841169,854780,991060,991061,991062,991063,991064,991065,991066,991067,991068,991069,1117060,1122200,1122201"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "X-Plane 11"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "X-Plane-x86_64"
+			"description" "X-Plane"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Plane Maker-x86_64"
+			"description" "Plane Maker"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "Airfoil Maker-x86_64"
+			"description" "Airfoil Maker"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "X-Plane.exe"
+			"description" "X-Plane"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"4"
+		{
+			"executable" "Plane Maker.exe"
+			"description" "Plane Maker"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"5"
+		{
+			"executable" "Airfoil Maker.exe"
+			"description" "Airfoil Maker"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"6"
+		{
+			"executable" "X-Plane.app"
+			"description" "X-Plane"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+			}
+		}
+		"7"
+		{
+			"executable" "Plane Maker.app"
+			"description" "Plane Maker"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+			}
+		}
+		"8"
+		{
+			"executable" "Airfoil Maker.app"
+			"description" "Airfoil Maker"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"9"
+		{
+			"executable" "X-Plane.exe"
+			"arguments" "--force_vr"
+			"description" "X-Plane in VR mode"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"hasdepotsindlc" "1"
+	"269951"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7325512361576816357"
+				"size" "11562717584"
+				"download" "5589729872"
+			}
+			"public_beta"
+			{
+				"gid" "7325512361576816357"
+				"size" "11562717584"
+				"download" "5589729872"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "7325512361576816357"
+				"size" "11562717584"
+				"download" "5589729872"
+			}
+		}
+	}
+	"269952"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "356380006198431426"
+				"size" "43346808"
+				"download" "26361296"
+			}
+			"public_beta"
+			{
+				"gid" "356380006198431426"
+				"size" "43346808"
+				"download" "26361296"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "356380006198431426"
+				"size" "43346808"
+				"download" "26361296"
+			}
+		}
+	}
+	"269953"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8660653130989405548"
+				"size" "65739884"
+				"download" "17222624"
+			}
+			"public_beta"
+			{
+				"gid" "8660653130989405548"
+				"size" "65739884"
+				"download" "17222624"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "8660653130989405548"
+				"size" "65739884"
+				"download" "17222624"
+			}
+		}
+	}
+	"269954"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2670149314263583452"
+				"size" "98573449"
+				"download" "43399968"
+			}
+			"public_beta"
+			{
+				"gid" "2670149314263583452"
+				"size" "98573449"
+				"download" "43399968"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "2670149314263583452"
+				"size" "98573449"
+				"download" "43399968"
+			}
+		}
+	}
+	"269955"
+	{
+		"dlcappid" "582574"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2727342347951807962"
+				"size" "5791122058"
+				"download" "5870380912"
+			}
+			"public_beta"
+			{
+				"gid" "2727342347951807962"
+				"size" "5791122058"
+				"download" "5870380912"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "2727342347951807962"
+				"size" "5791122058"
+				"download" "5870380912"
+			}
+		}
+	}
+	"269956"
+	{
+		"dlcappid" "582574"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6860793715558995905"
+				"size" "4677824237"
+				"download" "4741842080"
+			}
+			"public_beta"
+			{
+				"gid" "6860793715558995905"
+				"size" "4677824237"
+				"download" "4741842080"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "6860793715558995905"
+				"size" "4677824237"
+				"download" "4741842080"
+			}
+		}
+	}
+	"269957"
+	{
+		"dlcappid" "582574"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3988594384900187752"
+				"size" "3453419675"
+				"download" "3500685632"
+			}
+			"public_beta"
+			{
+				"gid" "3988594384900187752"
+				"size" "3453419675"
+				"download" "3500685632"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "3988594384900187752"
+				"size" "3453419675"
+				"download" "3500685632"
+			}
+		}
+	}
+	"269958"
+	{
+		"dlcappid" "582574"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5117046840899343581"
+				"size" "3542826395"
+				"download" "3591311616"
+			}
+			"public_beta"
+			{
+				"gid" "5117046840899343581"
+				"size" "3542826395"
+				"download" "3591311616"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "5117046840899343581"
+				"size" "3542826395"
+				"download" "3591311616"
+			}
+		}
+	}
+	"269959"
+	{
+		"dlcappid" "582573"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8711423407807329356"
+				"size" "4917433117"
+				"download" "4984722896"
+			}
+			"public_beta"
+			{
+				"gid" "8711423407807329356"
+				"size" "4917433117"
+				"download" "4984722896"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "8711423407807329356"
+				"size" "4917433117"
+				"download" "4984722896"
+			}
+		}
+	}
+	"269960"
+	{
+		"dlcappid" "582573"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1498677766373217285"
+				"size" "3392750250"
+				"download" "3439184432"
+			}
+			"public_beta"
+			{
+				"gid" "1498677766373217285"
+				"size" "3392750250"
+				"download" "3439184432"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "1498677766373217285"
+				"size" "3392750250"
+				"download" "3439184432"
+			}
+		}
+	}
+	"269961"
+	{
+		"dlcappid" "582574"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7081820507643003318"
+				"size" "2952170452"
+				"download" "2992568992"
+			}
+			"public_beta"
+			{
+				"gid" "7081820507643003318"
+				"size" "2952170452"
+				"download" "2992568992"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "7081820507643003318"
+				"size" "2952170452"
+				"download" "2992568992"
+			}
+		}
+	}
+	"269962"
+	{
+		"dlcappid" "582575"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "265342050078527699"
+				"size" "5989410517"
+				"download" "6071382336"
+			}
+			"public_beta"
+			{
+				"gid" "265342050078527699"
+				"size" "5989410517"
+				"download" "6071382336"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "265342050078527699"
+				"size" "5989410517"
+				"download" "6071382336"
+			}
+		}
+	}
+	"269963"
+	{
+		"dlcappid" "582572"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8050313178545859684"
+				"size" "93791685"
+				"download" "95061808"
+			}
+			"public_beta"
+			{
+				"gid" "8050313178545859684"
+				"size" "93791685"
+				"download" "95061808"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "8050313178545859684"
+				"size" "93791685"
+				"download" "95061808"
+			}
+		}
+	}
+	"269964"
+	{
+		"dlcappid" "582572"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1467940864433336508"
+				"size" "1606281847"
+				"download" "1628248304"
+			}
+			"public_beta"
+			{
+				"gid" "1467940864433336508"
+				"size" "1606281847"
+				"download" "1628248304"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "1467940864433336508"
+				"size" "1606281847"
+				"download" "1628248304"
+			}
+		}
+	}
+	"269965"
+	{
+		"dlcappid" "582572"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5076648411996432081"
+				"size" "2479396470"
+				"download" "2513324144"
+			}
+			"public_beta"
+			{
+				"gid" "5076648411996432081"
+				"size" "2479396470"
+				"download" "2513324144"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "5076648411996432081"
+				"size" "2479396470"
+				"download" "2513324144"
+			}
+		}
+	}
+	"269966"
+	{
+		"dlcappid" "582571"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2746117775996144888"
+				"size" "4515077230"
+				"download" "4576856752"
+			}
+			"public_beta"
+			{
+				"gid" "2746117775996144888"
+				"size" "4515077230"
+				"download" "4576856752"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "2746117775996144888"
+				"size" "4515077230"
+				"download" "4576856752"
+			}
+		}
+	}
+	"269967"
+	{
+		"dlcappid" "582571"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2856978503792671502"
+				"size" "5033935497"
+				"download" "5102842448"
+			}
+			"public_beta"
+			{
+				"gid" "2856978503792671502"
+				"size" "5033935497"
+				"download" "5102842448"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "2856978503792671502"
+				"size" "5033935497"
+				"download" "5102842448"
+			}
+		}
+	}
+	"269968"
+	{
+		"dlcappid" "582571"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "898347258356818520"
+				"size" "7460038408"
+				"download" "7562157760"
+			}
+			"public_beta"
+			{
+				"gid" "898347258356818520"
+				"size" "7460038408"
+				"download" "7562157760"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "898347258356818520"
+				"size" "7460038408"
+				"download" "7562157760"
+			}
+		}
+	}
+	"269969"
+	{
+		"dlcappid" "582571"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8320135133436407083"
+				"size" "9167486883"
+				"download" "9292978768"
+			}
+			"public_beta"
+			{
+				"gid" "8320135133436407083"
+				"size" "9167486883"
+				"download" "9292978768"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "8320135133436407083"
+				"size" "9167486883"
+				"download" "9292978768"
+			}
+		}
+	}
+	"582579"
+	{
+		"dlcappid" "582571"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8968413032676684498"
+				"size" "5257174895"
+				"download" "5329152256"
+			}
+			"public_beta"
+			{
+				"gid" "8968413032676684498"
+				"size" "5257174895"
+				"download" "5329152256"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "8968413032676684498"
+				"size" "5257174895"
+				"download" "5329152256"
+			}
+		}
+	}
+	"605781"
+	{
+		"dlcappid" "582573"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2322238728618334302"
+				"size" "3047376341"
+				"download" "3089087856"
+			}
+			"public_beta"
+			{
+				"gid" "2322238728618334302"
+				"size" "3047376341"
+				"download" "3089087856"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "2322238728618334302"
+				"size" "3047376341"
+				"download" "3089087856"
+			}
+		}
+	}
+	"605782"
+	{
+		"dlcappid" "582570"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "322663683478124879"
+				"size" "3545698050"
+				"download" "3594233216"
+			}
+			"public_beta"
+			{
+				"gid" "322663683478124879"
+				"size" "3545698050"
+				"download" "3594233216"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "322663683478124879"
+				"size" "3545698050"
+				"download" "3594233216"
+			}
+		}
+	}
+	"605783"
+	{
+		"dlcappid" "582570"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9088991124629372613"
+				"size" "5763053780"
+				"download" "5841945872"
+			}
+			"public_beta"
+			{
+				"gid" "9088991124629372613"
+				"size" "5763053780"
+				"download" "5841945872"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "9088991124629372613"
+				"size" "5763053780"
+				"download" "5841945872"
+			}
+		}
+	}
+	"605784"
+	{
+		"dlcappid" "582570"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6567905901069919175"
+				"size" "4299488583"
+				"download" "4358344416"
+			}
+			"public_beta"
+			{
+				"gid" "6567905901069919175"
+				"size" "4299488583"
+				"download" "4358344416"
+			}
+			"unstable_public_beta"
+			{
+				"gid" "6567905901069919175"
+				"size" "4299488583"
+				"download" "4358344416"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6916183"
+			"timeupdated" "1625077734"
+		}
+		"public_beta"
+		{
+			"buildid" "6916183"
+			"description" "Public Beta"
+			"timeupdated" "1624480585"
+		}
+		"unstable_public_beta"
+		{
+			"buildid" "6916183"
+			"description" "Unstable Pre-Release Betas"
+			"timeupdated" "1624480601"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27104397"
+"_sha" "d4886b057f58aa3383822a40c0b498f401bdd0b6"
+"_size" "17797"
