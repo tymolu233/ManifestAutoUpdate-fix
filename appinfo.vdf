@@ -1,0 +1,411 @@
+"appid" "1681430"
+"common"
+{
+	"name" "RoboCop: Rogue City"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "4717f19c99830a1750e3a48020a106e47f33f57a"
+	"logo" "cdd9727e68f1ea204e4c0fa90aa4346d49c39fa2"
+	"logo_small" "cdd9727e68f1ea204e4c0fa90aa4346d49c39fa2_thumb"
+	"clienticon" "fb7f88621b164a00b511c1b6612d5dfb6471d010"
+	"clienttga" "48ab582b0c28fe0ac8b113e83f51877a415885ed"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"tchinese" "机械战警：暴戾都市"
+		"schinese" "机械战警：暴戾都市"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1698796800"
+		"tested_build_id" "12491628"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "RoboCop: Rogue City"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "85db636db2619f1edee7fb8b4985959b5f190add/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en,zh-tw"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "33300f856a9eec5c6dde2af6eb0de4f5d61cbaad/library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "33300f856a9eec5c6dde2af6eb0de4f5d61cbaad/library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"tchinese" "232cf0cdce439888f3f8eb2acad65f6e093f2644/library_hero_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"tchinese" "232cf0cdce439888f3f8eb2acad65f6e093f2644/library_hero_tchinese_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"images"
+			{
+				"tchinese" "232cf0cdce439888f3f8eb2acad65f6e093f2644/library_hero_blur_tchinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "860f0157c5276029e9d2557cc0442cf4b09a5ba5/logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "860f0157c5276029e9d2557cc0442cf4b09a5ba5/logo_tchinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"tchinese" "c5b69fbd31316e60a5b5a9f7112fb6f34a9e2f10/library_header_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"tchinese" "c5b69fbd31316e60a5b5a9f7112fb6f34a9e2f10/library_header_tchinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1726665606"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Teyon"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Nacon"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Nacon"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_57" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1698944390"
+	"metacritic_score" "76"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/robocop-rogue-city\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1681430"
+	"store_tags"
+	{
+		"0" "1663"
+		"1" "19"
+		"2" "3839"
+		"3" "4182"
+		"4" "1774"
+		"5" "1742"
+		"6" "4115"
+		"7" "4345"
+		"8" "21"
+		"9" "4166"
+		"10" "3942"
+		"11" "4667"
+		"12" "7948"
+		"13" "122"
+		"14" "4231"
+		"15" "5030"
+		"16" "5752"
+		"17" "6378"
+		"18" "4295"
+		"19" "5611"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Teyon"
+	"publisher" "Nacon"
+	"listofdlc" "2436840,2436841,2436842"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Robocop Rogue City"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RoboCop.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "3"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1681431"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4858361890033078280"
+				"size" "43091766766"
+				"download" "41605541344"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15692775"
+			"timeupdated" "1727707723"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "RoboCop/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27672336"
+"_sha" "d1f4dd237beed64d3d70d13595048406cc58e750"
+"_size" "7930"
