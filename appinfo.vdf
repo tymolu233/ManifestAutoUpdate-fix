@@ -1,0 +1,632 @@
+"appid" "494840"
+"common"
+{
+	"name" "UBOAT"
+	"type" "Game"
+	"logo" "923f57b31a28232038523edd3ed3143d37d2df17"
+	"logo_small" "923f57b31a28232038523edd3ed3143d37d2df17_thumb"
+	"icon" "456cd3ff98511c5874d3cb2492e0db1019610767"
+	"clienticon" "61927da288480d81b36508b7f6d641e8b0daf349"
+	"clienttga" "9c4f7551147d69160158ac53577255aaf7ac3c7c"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"czech" "1"
+		"turkish" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1657065600"
+		"tested_build_id" "7951008"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "UBOAT"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"polish" "capsule_231x87_polish.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"polish" "header_polish.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,pl"
+		"library_hero" "en,pl"
+		"library_logo" "en,pl"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "46.61610268378064"
+			"height_pct" "20.743291379719807"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"polish" "library_600x900_polish.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"polish" "library_600x900_polish_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"polish" "library_hero_polish.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"polish" "logo_polish.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "46.61610268378064"
+				"height_pct" "20.743291379719807"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1722756571"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Deep Water Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PlayWay S.A."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "PlayWay S.A."
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_30" "1"
+		"category_51" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1722611393"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "494840"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "4150"
+		"2" "19780"
+		"3" "4994"
+		"4" "4168"
+		"5" "6910"
+		"6" "1678"
+		"7" "4182"
+		"8" "1695"
+		"9" "4175"
+		"10" "3987"
+		"11" "19"
+		"12" "12472"
+		"13" "1669"
+		"14" "1774"
+		"15" "3968"
+		"16" "4711"
+		"17" "1676"
+		"18" "3810"
+		"19" "1662"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Deep Water Studio"
+	"publisher" "PlayWay S.A."
+	"listofdlc" "3129990"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "UBOAT"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "UBOAT Launcher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,czech,turkish,ukrainian"
+	"workshopdepot" "494840"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"494841"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2911931923346964392"
+				"size" "71210222303"
+				"download" "22489528752"
+			}
+			"2022.1"
+			{
+				"gid" "1810611750853804875"
+				"size" "41168734767"
+				"download" "12092606784"
+			}
+			"b114"
+			{
+				"gid" "7577028053139163652"
+				"size" "19875161299"
+				"download" "6049802848"
+			}
+			"b115"
+			{
+				"gid" "6834877771095815174"
+				"size" "21685083432"
+				"download" "6356417600"
+			}
+			"b116"
+			{
+				"gid" "2197161377064028489"
+				"size" "21685193474"
+				"download" "6356154992"
+			}
+			"b117"
+			{
+				"gid" "7267268578558913573"
+				"size" "21176662384"
+				"download" "6218580320"
+			}
+			"b118"
+			{
+				"gid" "3580916974153395455"
+				"size" "21176406913"
+				"download" "6218815984"
+			}
+			"b119"
+			{
+				"gid" "4562365494414916140"
+				"size" "21137580549"
+				"download" "6202889072"
+			}
+			"b120"
+			{
+				"gid" "1062611855849180838"
+				"size" "21243062299"
+				"download" "6181120224"
+			}
+			"b121"
+			{
+				"gid" "8048908087580883090"
+				"size" "21284133922"
+				"download" "6194572544"
+			}
+			"b122"
+			{
+				"gid" "4574785099097874553"
+				"size" "21292819969"
+				"download" "6193877168"
+			}
+			"b123"
+			{
+				"gid" "3343599546661803176"
+				"size" "21335172110"
+				"download" "6191763216"
+			}
+			"b124"
+			{
+				"gid" "4049019350987464657"
+				"size" "21100487175"
+				"download" "6181870704"
+			}
+			"b125"
+			{
+				"gid" "569192873471686886"
+				"size" "28809281416"
+				"download" "6961347136"
+			}
+			"b126"
+			{
+				"gid" "1040781054500424213"
+				"size" "28835739730"
+				"download" "6922238544"
+			}
+			"b127"
+			{
+				"gid" "1948833228395827445"
+				"size" "29322478240"
+				"download" "7315196464"
+			}
+			"b128"
+			{
+				"gid" "1482087197360468674"
+				"size" "30764536183"
+				"download" "7811589120"
+			}
+			"b129"
+			{
+				"gid" "210263168240505979"
+				"size" "30311199838"
+				"download" "8916373280"
+			}
+			"b130"
+			{
+				"gid" "1069642300700608335"
+				"size" "32378701695"
+				"download" "9467045248"
+			}
+			"b131"
+			{
+				"gid" "351012439864622659"
+				"size" "33132103671"
+				"download" "9772073168"
+			}
+			"2024.1"
+			{
+				"gid" "6754777951603406335"
+				"size" "70880340410"
+				"download" "22229765120"
+			}
+			"unstable"
+			{
+				"gid" "2911931923346964392"
+				"size" "71210222303"
+				"download" "22489528752"
+			}
+		}
+	}
+	"3129990"
+	{
+		"dlcappid" "3129990"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2357386198179483441"
+				"size" "10860701023"
+				"download" "3563341456"
+			}
+			"2024.1"
+			{
+				"gid" "8519753413349192138"
+				"size" "10860701023"
+				"download" "3566008480"
+			}
+			"unstable"
+			{
+				"gid" "2357386198179483441"
+				"size" "10860701023"
+				"download" "3563341456"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17488333"
+			"timeupdated" "1740425115"
+		}
+		"2022.1"
+		{
+			"buildid" "13275048"
+			"description" "The latest 2022.1 release."
+			"timeupdated" "1706218488"
+		}
+		"b114"
+		{
+			"buildid" "3781454"
+			"timeupdated" "1556720484"
+		}
+		"b115"
+		{
+			"buildid" "3784291"
+			"timeupdated" "1556796951"
+		}
+		"b116"
+		{
+			"buildid" "3785950"
+			"timeupdated" "1556902905"
+		}
+		"b117"
+		{
+			"buildid" "3791855"
+			"timeupdated" "1557058217"
+		}
+		"b118"
+		{
+			"buildid" "3795934"
+			"timeupdated" "1557261210"
+		}
+		"b119"
+		{
+			"buildid" "3830890"
+			"timeupdated" "1558036750"
+		}
+		"b120"
+		{
+			"buildid" "3848580"
+			"timeupdated" "1558557748"
+		}
+		"b121"
+		{
+			"buildid" "3960115"
+			"timeupdated" "1561630412"
+		}
+		"b122"
+		{
+			"buildid" "4012584"
+			"timeupdated" "1563209221"
+		}
+		"b123"
+		{
+			"buildid" "4078969"
+			"timeupdated" "1565116206"
+		}
+		"b124"
+		{
+			"buildid" "4168608"
+			"timeupdated" "1567711914"
+		}
+		"b125"
+		{
+			"buildid" "4529902"
+			"timeupdated" "1577510498"
+		}
+		"b126"
+		{
+			"buildid" "4706461"
+			"timeupdated" "1582820563"
+		}
+		"b127"
+		{
+			"buildid" "5188123"
+			"timeupdated" "1592601645"
+		}
+		"b128"
+		{
+			"buildid" "5885499"
+			"timeupdated" "1606401573"
+		}
+		"b129"
+		{
+			"buildid" "7511414"
+			"description" "The latest B129 release."
+			"timeupdated" "1633954877"
+		}
+		"b130"
+		{
+			"buildid" "7763618"
+			"description" "The latest B130 release."
+			"timeupdated" "1637701864"
+		}
+		"b131"
+		{
+			"buildid" "7951008"
+			"description" "The latest B131 release."
+			"timeupdated" "1640791254"
+		}
+		"2024.1"
+		{
+			"buildid" "16613532"
+			"description" "The latest 2024.1 release."
+			"timeupdated" "1737397671"
+		}
+		"unstable"
+		{
+			"buildid" "17488333"
+			"timeupdated" "1740425073"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "600"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Deep Water Studio/UBOAT/Saves"
+			"pattern" "*.save"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27733057"
+"_sha" "c8584677ad337ebb57db988554d653d58405221c"
+"_size" "10955"
