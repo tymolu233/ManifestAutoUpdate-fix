@@ -1,0 +1,219 @@
+"appid" "460870"
+"common"
+{
+	"name" "GOD EATER RESURRECTION"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+	}
+	"clienticon" "4160c61d33787461ffaa70bfda64986f11580368"
+	"clienttga" "9453d2aa338c1f9a205a6f633a1c9cc2a45bbdb8"
+	"icon" "0b3a9c5f24bbc389654d2f189093cafe3cad6e7a"
+	"oslist" "windows"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "460870_eula_0"
+			"name" "GOD EATER RESURRECTION EULA"
+			"url" "http://store.steampowered.com//eula/460870_eula_0"
+		}
+	}
+	"releasestate" "released"
+	"logo" "21326dd2e1bb95ec29c6314979a1c700b892df26"
+	"logo_small" "21326dd2e1bb95ec29c6314979a1c700b892df26_thumb"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644278400"
+		"tested_build_id" "1412844"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "GOD EATER RESURRECTION"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1469715769"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "BANDAI NAMCO Studio"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "SHIFT"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "QLOC"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "BANDAI NAMCO Entertainment"
+		}
+	}
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "460870"
+	"store_tags"
+	{
+		"0" "4085"
+		"1" "19"
+		"2" "122"
+		"3" "4434"
+		"4" "21"
+		"5" "4747"
+	}
+	"review_score" "6"
+	"review_percentage" "76"
+}
+"extended"
+{
+	"developer" "BANDAI NAMCO Studio"
+	"publisher" "BANDAI NAMCO Entertainment"
+	"homepage" "http://god-eater.com"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "GOD EATER RESURRECTION"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GER.exe"
+			"type" "none"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+}
+"depots"
+{
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"460871"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "92004508014967418"
+				"size" "15066014290"
+				"download" "9625918240"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,spanish,russian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1412844"
+			"timeupdated" "1478005528"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "157c832eb6303565031c4d67274be55571b1b77d"
+"_size" "3844"
