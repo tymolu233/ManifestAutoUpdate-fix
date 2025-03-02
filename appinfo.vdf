@@ -1,0 +1,773 @@
+"appid" "265300"
+"common"
+{
+	"name" "Lords Of The Fallen"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "b01d7d060da64430dbbc5195f26225f2e75c38b0"
+	"oslist" "windows"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+	}
+	"logo" "fdfdbc63bd9135077be18a47e8c74f293a9aab85"
+	"logo_small" "fdfdbc63bd9135077be18a47e8c74f293a9aab85_thumb"
+	"clienticon" "058a412f927c3413feeca0f0f77c6b75967a965b"
+	"clienttga" "66ed40386fd5a4c3de9e8cb2482c9379fab3eb16"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "265300_eula_0"
+			"name" "Lords Of The Fallen EULA"
+			"url" "http://store.steampowered.com//eula/265300_eula_0"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "561494"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "simultaneous_gamepad_mouse"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Lords of the Fallen"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "30"
+			"height_pct" "46"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "30"
+				"height_pct" "46"
+			}
+		}
+	}
+	"store_asset_mtime" "1661335814"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CI Games"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Deck 13"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "CI Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Lords of the Fallen"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1414479600"
+	"steam_release_date" "1414515480"
+	"metacritic_score" "75"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/lords-of-the-fallen\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "265300"
+	"store_tags"
+	{
+		"0" "29482"
+		"1" "4604"
+		"2" "122"
+		"3" "4231"
+		"4" "4026"
+		"5" "19"
+		"6" "1684"
+		"7" "4182"
+		"8" "3854"
+		"9" "1697"
+		"10" "21"
+		"11" "4667"
+		"12" "4172"
+		"13" "4342"
+		"14" "1742"
+		"15" "4166"
+		"16" "4057"
+		"17" "3834"
+		"18" "1695"
+		"19" "4711"
+	}
+	"review_score" "5"
+	"review_percentage" "59"
+}
+"extended"
+{
+	"developer" "CI Games"
+	"publisher" "CI Games"
+	"homepage" "http://lordsofthefallen.com"
+	"gamemanualurl" "https://store.steampowered.com/manual/265300/"
+	"listofdlc" "317200,317201,317202,317203,317208,327270,328820,328821,333800"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Lords Of The Fallen"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin\\LordsOfTheFallen.exe"
+			"description" "Launch Game"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamvrsupport" "1"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"265301"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7905046317612923185"
+				"size" "1005528929"
+				"download" "948167488"
+			}
+			"local"
+			{
+				"gid" "3076420759557702864"
+				"size" "765516745"
+				"download" "9559385918"
+			}
+		}
+	}
+	"265302"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2359815101674573080"
+				"size" "15736119040"
+				"download" "7978445040"
+			}
+			"local"
+			{
+				"gid" "5272371537574977175"
+				"size" "17511545776"
+				"download" "14323495104"
+			}
+		}
+	}
+	"265316"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4410549840181328694"
+				"size" "388794799"
+				"download" "239731184"
+			}
+		}
+	}
+	"265303"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "76134850200360425"
+				"size" "68"
+				"download" "176"
+			}
+			"local"
+			{
+				"gid" "8744669662792115053"
+				"size" "68"
+				"download" "5"
+			}
+		}
+	}
+	"265304"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1361738946563076695"
+				"size" "82506916"
+				"download" "81713888"
+			}
+			"local"
+			{
+				"gid" "7158828442353638956"
+				"size" "75501988"
+				"download" "778153093"
+			}
+		}
+	}
+	"265305"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5155832538433534152"
+				"size" "77749220"
+				"download" "77521616"
+			}
+			"local"
+			{
+				"gid" "8732570614666560181"
+				"size" "71163236"
+				"download" "177700568"
+			}
+		}
+	}
+	"265306"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "220223821160172368"
+				"size" "70"
+				"download" "176"
+			}
+			"local"
+			{
+				"gid" "8876763125919832467"
+				"size" "70"
+				"download" "59575392"
+			}
+		}
+	}
+	"265307"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "527897649142321825"
+				"size" "71"
+				"download" "176"
+			}
+			"local"
+			{
+				"gid" "2298769788454847390"
+				"size" "71"
+				"download" "5"
+			}
+		}
+	}
+	"265308"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "241237181000872130"
+				"size" "69"
+				"download" "176"
+			}
+			"local"
+			{
+				"gid" "8437476820646427062"
+				"size" "69"
+				"download" "59576184"
+			}
+		}
+	}
+	"265309"
+	{
+		"config"
+		{
+			"language" "portuguese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "42432522227109004"
+				"size" "73"
+				"download" "176"
+			}
+			"local"
+			{
+				"gid" "5963949134694288003"
+				"size" "73"
+				"download" "59575392"
+			}
+		}
+	}
+	"265310"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "301477073122420552"
+				"size" "72"
+				"download" "192"
+			}
+			"local"
+			{
+				"gid" "746167982989819450"
+				"size" "72"
+				"download" "5"
+			}
+		}
+	}
+	"265311"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "15340818657253694"
+				"size" "70"
+				"download" "176"
+			}
+			"local"
+			{
+				"gid" "1225011510152661645"
+				"size" "70"
+				"download" "59576624"
+			}
+		}
+	}
+	"265312"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "305528228803234547"
+				"size" "70"
+				"download" "176"
+			}
+			"local"
+			{
+				"gid" "1664232488527960900"
+				"size" "70"
+				"download" "5"
+			}
+		}
+	}
+	"265313"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "631956162832714361"
+				"size" "70"
+				"download" "176"
+			}
+			"local"
+			{
+				"gid" "4175098644856719909"
+				"size" "70"
+				"download" "59576096"
+			}
+		}
+	}
+	"265314"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "546455079445471600"
+				"size" "70"
+				"download" "176"
+			}
+		}
+	}
+	"265315"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "807704766770780871"
+				"size" "69"
+				"download" "176"
+			}
+		}
+	}
+	"265318"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "111880251374583999"
+				"size" "69"
+				"download" "176"
+			}
+		}
+	}
+	"265319"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5351626885346793271"
+				"size" "6890884957"
+				"download" "5696473824"
+			}
+		}
+	}
+	"265317"
+	{
+	}
+	"327270"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1321609013280020670"
+				"size" "580628109"
+				"download" "536348384"
+			}
+		}
+		"dlcappid" "327270"
+	}
+	"317204"
+	{
+		"dlcappid" "317204"
+	}
+	"317205"
+	{
+		"dlcappid" "317205"
+	}
+	"317206"
+	{
+		"dlcappid" "317206"
+	}
+	"317207"
+	{
+		"dlcappid" "317207"
+	}
+	"317202"
+	{
+		"dlcappid" "317202"
+	}
+	"317203"
+	{
+		"dlcappid" "317203"
+	}
+	"317208"
+	{
+		"dlcappid" "317208"
+	}
+	"317201"
+	{
+		"dlcappid" "317201"
+	}
+	"317200"
+	{
+		"dlcappid" "317200"
+	}
+	"328820"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7495831261684265723"
+				"size" "51447903"
+				"download" "84081550012"
+			}
+		}
+		"dlcappid" "328820"
+	}
+	"328821"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3249891583808968474"
+				"size" "3658968"
+				"download" "20"
+			}
+		}
+		"dlcappid" "328821"
+	}
+	"333800"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3814487574597001593"
+				"size" "1340190760"
+				"download" "1170891040"
+			}
+		}
+		"dlcappid" "333800"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "561494"
+		}
+		"local"
+		{
+			"buildid" "382364"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27502418"
+"_sha" "6c922055f1ef2ba666cfa26c6f1c219db8aa3710"
+"_size" "11598"
