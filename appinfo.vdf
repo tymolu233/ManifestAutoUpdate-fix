@@ -1,0 +1,743 @@
+"appid" "1264250"
+"common"
+{
+	"name" "Fishing: North Atlantic"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "885c7c7fba816352aac7540857d6a9eb1ed2ff99"
+	"logo_small" "885c7c7fba816352aac7540857d6a9eb1ed2ff99_thumb"
+	"icon" "aac886276fbdf7b3220ee7d425f30ceb69223f88"
+	"clienttga" "29a27ac852fceb7069236b57cb65da29a8c7ad19"
+	"clienticon" "e34cf5e9d2011b880189135396b5bdd188de4519"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1264250_eula_0"
+			"name" "Fishing: North Atlantic EULA"
+			"url" "https://store.steampowered.com//eula/1264250_eula_0"
+			"version" "2"
+		}
+	}
+	"releasestate" "released"
+	"name_localized"
+	{
+		"sc_schinese" "钓鱼：北大西洋"
+	}
+	"releasestatesteamchina" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1717632000"
+		"tested_build_id" "13562731"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-xc"
+		"library_hero" "en"
+		"library_logo" "en,zh-xc"
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"image2x"
+			{
+				"sc_schinese" "logo_sc_schinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1683092872"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Misc Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Misc Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1264250"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "15564"
+		"2" "6910"
+		"3" "1695"
+		"4" "4182"
+		"5" "3810"
+		"6" "3834"
+		"7" "4175"
+		"8" "3839"
+		"9" "16689"
+		"10" "4191"
+		"11" "3859"
+		"12" "1697"
+		"13" "5230"
+		"14" "13577"
+		"15" "1685"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "Misc Games"
+	"publisher" "Misc Games"
+	"homepage" "https://fishingnorthatlantic.com/"
+	"listofdlc" "1602660,2231830"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Fishing North Atlantic"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FNA.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"hasdepotsindlc" "0"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1264251"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9132090305696491358"
+				"size" "11770292671"
+				"download" "11414734896"
+			}
+		}
+	}
+	"1264252"
+	{
+		"config"
+		{
+			"language" "english"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8953107235105912665"
+				"size" "37"
+				"download" "80"
+			}
+		}
+	}
+	"1264253"
+	{
+		"config"
+		{
+			"language" "german"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4827961330915497256"
+				"size" "35"
+				"download" "80"
+			}
+		}
+	}
+	"1264254"
+	{
+		"config"
+		{
+			"language" "french"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1662857354358152560"
+				"size" "35"
+				"download" "80"
+			}
+		}
+	}
+	"1264255"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4519532691214672603"
+				"size" "35"
+				"download" "80"
+			}
+		}
+	}
+	"1264256"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "433931395900173664"
+				"size" "36"
+				"download" "80"
+			}
+		}
+	}
+	"1264257"
+	{
+		"config"
+		{
+			"language" "norwegian"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5362488748297469990"
+				"size" "36"
+				"download" "80"
+			}
+		}
+	}
+	"1264258"
+	{
+		"config"
+		{
+			"language" "russian"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3913652947469407803"
+				"size" "35"
+				"download" "80"
+			}
+		}
+	}
+	"1264259"
+	{
+		"config"
+		{
+			"language" "polish"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2384971945522824573"
+				"size" "35"
+				"download" "80"
+			}
+		}
+	}
+	"1372080"
+	{
+		"config"
+		{
+			"language" "italian"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8713258610715836695"
+				"size" "35"
+				"download" "80"
+			}
+		}
+	}
+	"1372081"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5122824395520945839"
+				"size" "41"
+				"download" "96"
+			}
+		}
+	}
+	"1372082"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "347717410955120045"
+				"size" "41"
+				"download" "96"
+			}
+		}
+	}
+	"1372083"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4778653049854068771"
+				"size" "36"
+				"download" "80"
+			}
+		}
+	}
+	"1372084"
+	{
+		"config"
+		{
+			"language" "turkish"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3582161491271968951"
+				"size" "36"
+				"download" "80"
+			}
+		}
+	}
+	"1372085"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2878572793519998549"
+				"size" "36"
+				"download" "80"
+			}
+		}
+	}
+	"1372086"
+	{
+		"config"
+		{
+			"language" "danish"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3788258283629324345"
+				"size" "36"
+				"download" "80"
+			}
+		}
+	}
+	"1372087"
+	{
+		"config"
+		{
+			"language" "swedish"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5303433591948602839"
+				"size" "36"
+				"download" "80"
+			}
+		}
+	}
+	"1372088"
+	{
+		"config"
+		{
+			"language" "finnish"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8343335192921384289"
+				"size" "36"
+				"download" "80"
+			}
+		}
+	}
+	"1372089"
+	{
+		"config"
+		{
+			"language" "greek"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5646426656304088163"
+				"size" "36"
+				"download" "80"
+			}
+		}
+	}
+	"1467820"
+	{
+		"config"
+		{
+			"language" "hungarian"
+			"realm" "steamglobal"
+		}
+	}
+	"1602660"
+	{
+		"dlcappid" "1602660"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3939973561317824830"
+				"size" "819752365"
+				"download" "743114224"
+			}
+		}
+	}
+	"2231830"
+	{
+		"dlcappid" "2231830"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1393972262666063780"
+				"size" "938130138"
+				"download" "703283312"
+			}
+		}
+	}
+	"1467821"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3047555412916744646"
+				"size" "14222886361"
+				"download" "13207839664"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13562731"
+			"timeupdated" "1709026739"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "30"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "FNA/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27346423"
+"_sha" "fa4115c5e4a454faa080c6596606fab155ba10ed"
+"_size" "11232"
