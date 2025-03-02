@@ -1,0 +1,258 @@
+"appid" "700580"
+"common"
+{
+	"name" "Rust - Staging Branch"
+	"type" "Beta"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"logo" "d83228eaef6c95c244976b6dc6ab357e6c7f0911"
+	"logo_small" "d83228eaef6c95c244976b6dc6ab357e6c7f0911_thumb"
+	"clienttga" "35c8e5a3ad4b435df025910d95f24e49a64dbb7b"
+	"clienticon" "acf87ad23570b3c81f8c9cfc19544a07edd8b632"
+	"icon" "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c"
+	"clienticns" "abb808c6e7bb5e97119f0ae1a80cdd7681fecfc2"
+	"linuxclienticon" "fdd1ccf5c2013cf6fc87eb0876affd64ba5e938b"
+	"requireskbmouse" "1"
+	"osarch" "64"
+	"osextended" "macos64"
+	"parent" "252490"
+	"associations"
+	{
+	}
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "700580"
+	"exfgls" "9"
+}
+"config"
+{
+	"installdir" "RustStaging"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "rust.exe"
+			"arguments" "-logfile output_log.txt -timestamps -disable-gpu-skinning +nexus.serverlistenabled 1"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+		"1"
+		{
+			"executable" "./rust.app"
+			"arguments" "-logfile output_log.txt -timestamps -disable-gpu-skinning --normal-rendering +nexus.serverlistenabled 1"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+		"2"
+		{
+			"executable" "rust"
+			"arguments" "-logfile output_log.txt -timestamps -disable-gpu-skinning +nexus.serverlistenabled 1"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"700581"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8803537484633666874"
+				"size" "38629175537"
+				"download" "21679356128"
+			}
+			"2021.3.29"
+			{
+				"gid" "9021919204274340210"
+				"size" "29007248203"
+				"download" "17274265648"
+			}
+			"crash"
+			{
+				"gid" "6544165040415151734"
+				"size" "17642197804"
+				"download" "9150407856"
+			}
+			"aux02"
+			{
+				"gid" "7161350893729282574"
+				"size" "38628452604"
+				"download" "21679038208"
+			}
+			"main"
+			{
+				"gid" "577747283629286540"
+				"size" "38636633455"
+				"download" "21682565472"
+			}
+		}
+	}
+	"700582"
+	{
+		"sharedinstall" ""
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "592728651268486514"
+				"size" "887865213"
+				"download" "478180592"
+			}
+			"2021.3.29"
+			{
+				"gid" "2926565576496631824"
+				"size" "936275836"
+				"download" "562871632"
+			}
+			"crash"
+			{
+				"gid" "6643408220322733983"
+				"size" "603349952"
+				"download" "318946912"
+			}
+			"aux02"
+			{
+				"gid" "290369584163834412"
+				"size" "851622397"
+				"download" "470590640"
+			}
+			"main"
+			{
+				"gid" "8901149233259159071"
+				"size" "886706482"
+				"download" "477843952"
+			}
+		}
+	}
+	"700583"
+	{
+		"sharedinstall" ""
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5391016123788955648"
+				"size" "8341861162"
+				"download" "2881884688"
+			}
+			"2021.3.29"
+			{
+				"gid" "4586948001370832567"
+				"size" "5793760199"
+				"download" "1936644144"
+			}
+			"crash"
+			{
+				"gid" "8971463725738639198"
+				"size" "3106614358"
+				"download" "1012075248"
+			}
+			"aux02"
+			{
+				"gid" "1686720267532408226"
+				"size" "0"
+				"download" "0"
+			}
+			"main"
+			{
+				"gid" "3256348866077993614"
+				"size" "8341931699"
+				"download" "2881892368"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17549278"
+			"timeupdated" "1740763332"
+		}
+		"2021.3.29"
+		{
+			"buildid" "13466514"
+			"description" "Unity 2021.3.29"
+			"timeupdated" "1708012363"
+		}
+		"crash"
+		{
+			"buildid" "6485627"
+			"description" "troubleshoot"
+			"timeupdated" "1617450529"
+		}
+		"aux02"
+		{
+			"buildid" "17526814"
+			"description" "upandcoming"
+			"timeupdated" "1740640023"
+		}
+		"main"
+		{
+			"buildid" "17564808"
+			"timeupdated" "1740914168"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "2000"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "cfg"
+			"pattern" "keys.cfg"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "cfg"
+			"pattern" "favorites.cfg"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27741199"
+"_sha" "7477866f36ce4211176844e960a92e2ec1441a01"
+"_size" "4664"
