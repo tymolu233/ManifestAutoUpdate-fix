@@ -1,0 +1,992 @@
+"appid" "285920"
+"common"
+{
+	"name" "TerraTech"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"logo" "80f64464c045ad185462ba22538a3520b0c86407"
+	"logo_small" "80f64464c045ad185462ba22538a3520b0c86407_thumb"
+	"icon" "d1ad24a148c2b08b48e13f97bb43681aa19b0a85"
+	"clienttga" "1b473c39ca07e2255d4deed8e1203a5e9b3cf145"
+	"clienticon" "c08bf1758c8fb782ed28659e5d5ef99434adf3e1"
+	"clienticns" "29e50a588e318887680dd2d53fc189d4cabe39c9"
+	"linuxclienticon" "ae4e3373f5510346318563db59dc851d9edadcd1"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"czech" "1"
+	}
+	"osextended" "macos64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "285920_eula_0"
+			"name" "TerraTech EULA"
+			"url" "https://store.steampowered.com//eula/285920_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1663632000"
+		"tested_build_id" "8746950"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "UntitledApp"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "43"
+			"height_pct" "42"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "43"
+				"height_pct" "42"
+			}
+		}
+	}
+	"store_asset_mtime" "1708114327"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Payload Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Payload Studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "TerraTech"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_29" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1533912960"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "285920"
+	"store_tags"
+	{
+		"0" "1643"
+		"1" "3810"
+		"2" "1695"
+		"3" "1100689"
+		"4" "3859"
+		"5" "5752"
+		"6" "1702"
+		"7" "19"
+		"8" "1662"
+		"9" "21"
+		"10" "4182"
+		"11" "3834"
+		"12" "9"
+		"13" "493"
+		"14" "492"
+		"15" "3968"
+		"16" "11104"
+		"17" "3843"
+		"18" "1697"
+		"19" "1775"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Payload Studios"
+	"publisher" "Payload Studios"
+	"homepage" "http://www.terratechgame.com"
+	"listofdlc" "331930,361530,1054780,1055440,1055550,1080910,1080911,1090730,1199630,1289390,1475870,1475880,1751530"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "TerraTech"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "EOSBootstrapper.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "public"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+		"4"
+		{
+			"executable" "TerraTechLinux64.x86_64"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"5"
+		{
+			"executable" "TerraTechOSX64.app"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+			}
+		}
+		"10"
+		{
+			"executable" "EOSBootstrapper.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "tt_unstable"
+			}
+		}
+		"17"
+		{
+			"executable" "TerraTechWin64.exe"
+			"arguments" "disable_crossplay"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "without Crossplay"
+			}
+			"description" "without Crossplay"
+		}
+		"18"
+		{
+			"executable" "TerraTechLinux64.x86_64"
+			"arguments" "disable_crossplay"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "without Crossplay"
+			}
+			"description" "without Crossplay"
+		}
+		"19"
+		{
+			"executable" "TerraTechOSX64.app"
+			"arguments" "disable_crossplay"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "without Crossplay"
+			}
+			"description" "without Crossplay"
+		}
+		"20"
+		{
+			"executable" "EOSBootstrapper.exe"
+			"arguments" "-epicsandboxid=p-dxrteuc3vjbdgtp6gwhdwlewlffrtn"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "payload"
+			}
+		}
+		"21"
+		{
+			"executable" "EOSBootstrapper.exe"
+			"arguments" "-epicsandboxid=p-sgf8fnjbpr3jrcnat83r3x59597ws4"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "projplan"
+			}
+		}
+		"22"
+		{
+			"executable" "EOSBootstrapper.exe"
+			"arguments" "-epicsandboxid=p-dxrteuc3vjbdgtp6gwhdwlewlffrtn"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "eos_crossplay"
+			}
+		}
+	}
+	"usemms" "1"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"baselanguages" ""
+	"workshopdepot" "285920"
+	"hasdepotsindlc" "0"
+	"285926"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1064623632418576299"
+				"size" "734190491"
+				"download" "504358784"
+			}
+			"1.3.3"
+			{
+				"gid" "2616533350944094151"
+				"size" "1192156236"
+				"download" "384038544"
+			}
+			"previous_stable_version"
+			{
+				"gid" "1046717171661145614"
+				"size" "734190491"
+				"download" "504355696"
+			}
+			"tt_unstable"
+			{
+				"gid" "1064623632418576299"
+				"size" "734190491"
+				"download" "504358784"
+			}
+		}
+	}
+	"331931"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2400785291162766445"
+				"size" "716825819"
+				"download" "493986736"
+			}
+			"1.3.3"
+			{
+				"gid" "6547464896509313007"
+				"size" "1175688003"
+				"download" "376729920"
+			}
+			"previous_stable_version"
+			{
+				"gid" "2980166013580225190"
+				"size" "670793923"
+				"download" "481355424"
+			}
+			"tt_unstable"
+			{
+				"gid" "2400785291162766445"
+				"size" "716825819"
+				"download" "493986736"
+			}
+		}
+	}
+	"285935"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "579647158099204128"
+				"size" "742541573"
+				"download" "508443552"
+			}
+			"1.3.3"
+			{
+				"gid" "6223874646572883770"
+				"size" "1196871120"
+				"download" "388943792"
+			}
+			"previous_stable_version"
+			{
+				"gid" "5624477351300598350"
+				"size" "742541573"
+				"download" "508446608"
+			}
+			"tt_unstable"
+			{
+				"gid" "579647158099204128"
+				"size" "742541573"
+				"download" "508443552"
+			}
+		}
+	}
+	"331930"
+	{
+		"dlcappid" "331930"
+		"config"
+		{
+			"osarch" "64"
+		}
+	}
+	"285928"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "331930"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7848802023609883411"
+				"size" "16564460"
+				"download" "14339248"
+			}
+			"1.3.3"
+			{
+				"gid" "1646820436035909139"
+				"size" "14664085"
+				"download" "14865040"
+			}
+			"previous_stable_version"
+			{
+				"gid" "7848802023609883411"
+				"size" "16564460"
+				"download" "14339248"
+			}
+			"tt_unstable"
+			{
+				"gid" "7848802023609883411"
+				"size" "16564460"
+				"download" "14339248"
+			}
+		}
+	}
+	"331932"
+	{
+		"dlcappid" "331930"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3892862278193919978"
+				"size" "16553536"
+				"download" "14333312"
+			}
+			"1.3.3"
+			{
+				"gid" "5716012047753641156"
+				"size" "14746105"
+				"download" "14947904"
+			}
+			"previous_stable_version"
+			{
+				"gid" "3892862278193919978"
+				"size" "16553536"
+				"download" "14333312"
+			}
+			"tt_unstable"
+			{
+				"gid" "3892862278193919978"
+				"size" "16553536"
+				"download" "14333312"
+			}
+		}
+	}
+	"285937"
+	{
+		"dlcappid" "331930"
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "731761642183003315"
+				"size" "16623087"
+				"download" "14388880"
+			}
+			"1.3.3"
+			{
+				"gid" "8940464083940603565"
+				"size" "15731748"
+				"download" "15947104"
+			}
+			"previous_stable_version"
+			{
+				"gid" "731761642183003315"
+				"size" "16623087"
+				"download" "14388880"
+			}
+			"tt_unstable"
+			{
+				"gid" "731761642183003315"
+				"size" "16623087"
+				"download" "14388880"
+			}
+		}
+	}
+	"361530"
+	{
+		"dlcappid" "361530"
+		"config"
+		{
+			"osarch" "64"
+		}
+	}
+	"285931"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "361530"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3406230439613560423"
+				"size" "1173"
+				"download" "992"
+			}
+			"1.3.3"
+			{
+				"gid" "5508231965844998212"
+				"size" "812"
+				"download" "864"
+			}
+			"previous_stable_version"
+			{
+				"gid" "3406230439613560423"
+				"size" "1173"
+				"download" "992"
+			}
+			"tt_unstable"
+			{
+				"gid" "3406230439613560423"
+				"size" "1173"
+				"download" "992"
+			}
+		}
+	}
+	"331933"
+	{
+		"dlcappid" "361530"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "335304412215093405"
+				"size" "1170"
+				"download" "992"
+			}
+			"1.3.3"
+			{
+				"gid" "7499150616157123271"
+				"size" "810"
+				"download" "864"
+			}
+			"previous_stable_version"
+			{
+				"gid" "335304412215093405"
+				"size" "1170"
+				"download" "992"
+			}
+			"tt_unstable"
+			{
+				"gid" "335304412215093405"
+				"size" "1170"
+				"download" "992"
+			}
+		}
+	}
+	"285939"
+	{
+		"dlcappid" "361530"
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4437344106417726738"
+				"size" "1173"
+				"download" "992"
+			}
+			"1.3.3"
+			{
+				"gid" "6925653860420789217"
+				"size" "812"
+				"download" "864"
+			}
+			"previous_stable_version"
+			{
+				"gid" "4437344106417726738"
+				"size" "1173"
+				"download" "992"
+			}
+			"tt_unstable"
+			{
+				"gid" "4437344106417726738"
+				"size" "1173"
+				"download" "992"
+			}
+		}
+	}
+	"1080910"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"dlcappid" "1080910"
+	}
+	"1054780"
+	{
+		"dlcappid" "1054780"
+		"config"
+		{
+			"osarch" "64"
+		}
+	}
+	"1055440"
+	{
+		"dlcappid" "1055440"
+		"config"
+		{
+			"osarch" "64"
+		}
+	}
+	"1080911"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"dlcappid" "1080911"
+	}
+	"1055550"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"dlcappid" "1055550"
+	}
+	"1199630"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"dlcappid" "1199630"
+	}
+	"285921"
+	{
+		"dlcappid" "1199630"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"285922"
+	{
+		"dlcappid" "1199630"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+	}
+	"285923"
+	{
+		"dlcappid" "1199630"
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+	}
+	"1090730"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"dlcappid" "1090730"
+	}
+	"1289390"
+	{
+		"dlcappid" "1289390"
+		"config"
+		{
+			"osarch" "64"
+		}
+	}
+	"1475870"
+	{
+		"dlcappid" "1475870"
+		"config"
+		{
+			"osarch" "64"
+		}
+	}
+	"1475880"
+	{
+		"dlcappid" "1475880"
+		"config"
+		{
+			"osarch" "64"
+		}
+	}
+	"1751530"
+	{
+		"dlcappid" "1751530"
+		"config"
+		{
+			"osarch" "64"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17319321"
+			"timeupdated" "1739275806"
+		}
+		"1.3.3"
+		{
+			"buildid" "4279663"
+			"description" "Version 1.3.3"
+			"timeupdated" "1574093538"
+		}
+		"previous_stable_version"
+		{
+			"buildid" "17251196"
+			"description" "1.6.4.2"
+			"timeupdated" "1739275747"
+		}
+		"tt_unstable"
+		{
+			"buildid" "17319321"
+			"description" "Work-in-progress version"
+			"timeupdated" "1739275761"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "TerraTech/{64BitSteamID}"
+			"pattern" "*.*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgDataHome"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"2"
+		{
+			"root" "WinMyDocuments"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinMyDocuments"
+			"addpath" "My Games/"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27459118"
+"_sha" "2407cf48eed857116a41712030c2775ce80abde8"
+"_size" "16342"
