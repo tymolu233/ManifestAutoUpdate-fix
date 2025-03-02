@@ -1,0 +1,634 @@
+"appid" "310950"
+"common"
+{
+	"name" "Street Fighter V"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"logo" "dc8c23570a919e8f2ac14b87d21b169bf740b12d"
+	"logo_small" "dc8c23570a919e8f2ac14b87d21b169bf740b12d_thumb"
+	"clienticon" "2f5fc6b348c1c00ab398970ee848cc36aedd7ca3"
+	"clienttga" "55874b8a989a3dd20c9d13c8c29811c04d4b9f1b"
+	"icon" "ea0db9dc61e606b544fa30d21d31354998ca1f95"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1674086400"
+		"tested_build_id" "9205136"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"metacritic_name" "Street Fighter V: Arcade Edition"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "29.66257606624302"
+			"height_pct" "33.38888763792713"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "29.66257606624302"
+				"height_pct" "33.38888763792713"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1671156557"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CAPCOM Co., Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CAPCOM Co., Ltd."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Street Fighter"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_43" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1455598800"
+	"metacritic_score" "89"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/street-fighter-v-arcade-edition\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "310950"
+	"store_tags"
+	{
+		"0" "1743"
+		"1" "19"
+		"2" "4736"
+		"3" "3859"
+		"4" "3878"
+		"5" "1773"
+		"6" "7368"
+		"7" "5055"
+		"8" "4085"
+		"9" "7481"
+		"10" "4975"
+		"11" "4182"
+		"12" "1756"
+		"13" "1693"
+		"14" "3871"
+		"15" "6650"
+		"16" "7208"
+		"17" "4158"
+		"18" "12095"
+		"19" "4136"
+	}
+	"review_score" "5"
+	"review_percentage" "67"
+}
+"extended"
+{
+	"onquitdemomsg" "https://steamstore-a.akamaihd.net/message/8517887505412390895/"
+	"developer" "CAPCOM Co., Ltd."
+	"publisher" "CAPCOM Co., Ltd."
+	"homepage" "http://www.streetfighter.com/"
+	"listofdlc" "425110,439410,444700,475230,480520,480530,480540,480550,590750,691300,700850,700851,750310,780660,789460,807400,807401,863180,863181,863182,893320,893321,906440,971240,971241,971242,971243,971250,971251,971252,971260,989970,995950,1009400,1025060,1025061,1060990,1061020,1061030,1061040,1061050,1061060,1061070,1075990,1075991,1075993,1075994,1075995,1075996,1075997,1075998,1075999,1076000,1117540,1117541,1150190,1150191,1150192,1150194,1150195,1172540,1233100,1405400,1405401"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "StreetFighterV"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "StreetFighterV.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "StreetFighterV.exe"
+			"arguments" "-lowspec"
+			"description" "Street Fighter V(Low spec mode)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "13"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2078334241"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"310951"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4281346506506612445"
+				"size" "48872767681"
+				"download" "46971752816"
+			}
+			"baseline"
+			{
+				"gid" "1775174980198657137"
+				"size" "7390086336"
+				"download" "6745468336"
+			}
+		}
+	}
+	"310952"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5579393335594350391"
+				"size" "4"
+				"download" "48"
+			}
+			"baseline"
+			{
+				"gid" "5579393335594350391"
+				"size" "4"
+				"download" "48"
+			}
+		}
+	}
+	"310953"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "665527672323223830"
+				"size" "4"
+				"download" "48"
+			}
+			"baseline"
+			{
+				"gid" "665527672323223830"
+				"size" "4"
+				"download" "48"
+			}
+		}
+	}
+	"310954"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"310955"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"425110"
+	{
+		"dlcappid" "425110"
+		"config"
+		{
+			"language" ""
+		}
+	}
+	"439410"
+	{
+		"dlcappid" "439410"
+		"config"
+		{
+			"language" ""
+		}
+	}
+	"444680"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4334708473715125456"
+				"size" "378724129"
+				"download" "379014512"
+			}
+		}
+	}
+	"444700"
+	{
+		"dlcappid" "444700"
+		"config"
+		{
+			"language" ""
+			"optionaldlc" "444700"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3169776747803578923"
+				"size" "1989933854"
+				"download" "2014087344"
+			}
+		}
+	}
+	"475230"
+	{
+		"dlcappid" "475230"
+		"config"
+		{
+			"language" ""
+			"optionaldlc" "475230"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2258455590697043247"
+				"size" "8951643221"
+				"download" "8039709344"
+			}
+		}
+	}
+	"807290"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5114511160089983206"
+				"size" "655149598"
+				"download" "572026496"
+			}
+		}
+	}
+	"807400"
+	{
+		"dlcappid" "807400"
+		"config"
+		{
+			"language" ""
+			"optionaldlc" "807400"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5582558023706848715"
+				"size" "1822349186"
+				"download" "1755928464"
+			}
+		}
+	}
+	"807401"
+	{
+		"dlcappid" "807401"
+		"config"
+		{
+			"language" ""
+			"optionaldlc" "807401"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7619456806871334916"
+				"size" "871683155"
+				"download" "746047584"
+			}
+		}
+	}
+	"1172540"
+	{
+		"dlcappid" "1172540"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1561420009549394100"
+				"size" "16548388"
+				"download" "16515872"
+			}
+		}
+	}
+	"1474240"
+	{
+		"dlcappid" "1474240"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7393267258824001410"
+				"size" "10241644"
+				"download" "10236160"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13173604"
+			"timeupdated" "1705467751"
+		}
+		"baseline"
+		{
+			"buildid" "892552"
+		}
+	}
+	"privatebranches" "1"
+	"appmanagesdlc" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "StreetFighterV/Saved/SaveGames"
+			"pattern" "GameProgressSave.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27105704"
+"_sha" "d55df3a2cf7810cbc80e1e8a8d39ee32048a5502"
+"_size" "10859"
