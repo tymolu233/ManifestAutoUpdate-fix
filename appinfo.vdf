@@ -1,0 +1,1153 @@
+"appid" "209660"
+"common"
+{
+	"name" "Call of Duty: Advanced Warfare - Multiplayer"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "a0306bcf727ce144ae43681a886fdaa038ec0472"
+	"clienttga" "9a6735621fdc0efdaa1bc6f64cefff18007ace22"
+	"icon" "aab8b39ef63c54af5497b55aa104d5c7ec860fd9"
+	"logo" "5d7c7294f3fd8e8aa4263d8a754d46759e8250b4"
+	"logo_small" "5d7c7294f3fd8e8aa4263d8a754d46759e8250b4_thumb"
+	"oslist" "windows"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"controller_support" "full"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1654819200"
+		"tested_build_id" "4023914"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "simultaneous_gamepad_mouse"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Call of Duty: Advanced Warfare - Multiplayer"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_101172dd16fc318668589aa1638dcf5d6f3f4e8a.jpg"
+	"store_asset_mtime" "1410369064"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Sledgehammer Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Activision"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "209660"
+	"store_tags"
+	{
+		"0" "1638"
+		"1" "19"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"no_revenue_accumlation" "1"
+	"vacmacmodulecache" "160"
+	"vacmodulecache" "202"
+	"vacmodulefilename" "sourceinit.dat"
+	"no_revenue_accumulation" "1"
+	"developer" "Sledgehammer Games"
+	"publisher" "Activision"
+	"homepage" "http://www.callofduty.com"
+	"listofdlc" "317660,318790,318791,318792,318793,318794,318795,318796,318797,318798,318799,318800,318801,318802,318803,318804,318805,324230,331060,331061,331062,331063,331064,331065,331066,331067,331068,331069,331070,331071,331072,333080,333081,333082,333083,333084,333087,333088,334220,334221,343590,343591,343592,343593,343594,343595,343596,343597,343598,343599,343600,343610,343611,343612,343613,343614,343615"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "s1_mp64_ship.exe"
+			"description" "Launch"
+			"vacmodulefilename" "resource\\sourceinit.dat"
+			"config"
+			{
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "s1_mp64_ship.exe"
+			"arguments" "+survival 1"
+			"description" "Call of Duty: Advanced Warfare - Exo"
+			"config"
+			{
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "s1_mp64_ship.exe"
+			"arguments" "+zombiesMode 1"
+			"description" "Call of Duty: Advanced Warfare - Exo Zombies"
+			"config"
+			{
+				"osarch" "64"
+			}
+		}
+	}
+	"installdir" "Call of Duty Advanced Warfare"
+}
+"depots"
+{
+	"baselanguages" ""
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"310340"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3027530553092813409"
+				"size" "29457373"
+				"download" "26548480"
+			}
+			"local"
+			{
+				"gid" "2394792123669769652"
+				"size" "29404245"
+				"download" "92255720"
+			}
+		}
+	}
+	"310341"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7286983045129950292"
+				"size" "4551243744"
+				"download" "3615735184"
+			}
+			"local"
+			{
+				"gid" "1376294965267386507"
+				"size" "3702082200"
+				"download" "488134218873"
+			}
+		}
+	}
+	"310342"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1115818459498978172"
+				"size" "4722797205"
+				"download" "4479962944"
+			}
+			"local"
+			{
+				"gid" "8754623041630389641"
+				"size" "3338535382"
+				"download" "58070922045"
+			}
+		}
+	}
+	"310343"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4656459945361775496"
+				"size" "1150863494"
+				"download" "1105524848"
+			}
+			"local"
+			{
+				"gid" "1720035365432066214"
+				"size" "1031401418"
+				"download" "38246701417"
+			}
+		}
+	}
+	"310344"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7897001590783896843"
+				"size" "1234816169"
+				"download" "1183934240"
+			}
+			"local"
+			{
+				"gid" "5308054978206099948"
+				"size" "1106682587"
+				"download" "33613327071"
+			}
+		}
+	}
+	"310345"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9099835492590448163"
+				"size" "1282318897"
+				"download" "1238215296"
+			}
+			"local"
+			{
+				"gid" "4547801649616396695"
+				"size" "1158626645"
+				"download" "40965420868"
+			}
+		}
+	}
+	"310346"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4175828202668702430"
+				"size" "1401938615"
+				"download" "1349229776"
+			}
+			"local"
+			{
+				"gid" "7152045825948680425"
+				"size" "1265833942"
+				"download" "41461878947"
+			}
+		}
+	}
+	"310347"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8041230264893351577"
+				"size" "1274295249"
+				"download" "1229731504"
+			}
+			"local"
+			{
+				"gid" "6854225534807907108"
+				"size" "1153034248"
+				"download" "39013739968"
+			}
+		}
+	}
+	"310348"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "518742459434836003"
+				"size" "1265519787"
+				"download" "1219065360"
+			}
+			"local"
+			{
+				"gid" "2583761287987366068"
+				"size" "1141306041"
+				"download" "45248886574"
+			}
+		}
+	}
+	"310349"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5769306992028928151"
+				"size" "1125452658"
+				"download" "1080236800"
+			}
+			"local"
+			{
+				"gid" "674283085054743144"
+				"size" "1005903326"
+				"download" "57794678453"
+			}
+		}
+	}
+	"310350"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4216143337600581329"
+				"size" "1150833110"
+				"download" "1105394816"
+			}
+			"local"
+			{
+				"gid" "5946779799872116279"
+				"size" "1030865178"
+				"download" "31588266377"
+			}
+		}
+	}
+	"310351"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1373781635064905469"
+				"size" "15625354048"
+				"download" "14454181184"
+			}
+			"local"
+			{
+				"gid" "1373781635064905469"
+				"size" "15625354048"
+				"download" "156025907295"
+			}
+		}
+	}
+	"310352"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3190197747840803077"
+				"size" "10165564759"
+				"download" "8562174384"
+			}
+			"local"
+			{
+				"gid" "5766731962178567684"
+				"size" "8661132754"
+				"download" "80490174156"
+			}
+		}
+	}
+	"310353"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1786374612997832970"
+				"size" "13733513972"
+				"download" "12486736176"
+			}
+			"local"
+			{
+				"gid" "5114541698079263014"
+				"size" "10238515124"
+				"download" "109284671759"
+			}
+		}
+	}
+	"318790"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1858867507944457961"
+				"size" "552046078"
+				"download" "490540688"
+			}
+			"local"
+			{
+				"gid" "1858867507944457961"
+				"size" "552046078"
+				"download" "3313648364"
+			}
+		}
+		"dlcappid" "318790"
+	}
+	"318791"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1768298366781761218"
+				"size" "6400716381"
+				"download" "5394085264"
+			}
+		}
+		"dlcappid" "318791"
+	}
+	"347770"
+	{
+		"dlcappid" "318791"
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "392449385480523482"
+				"size" "255508821"
+				"download" "253862944"
+			}
+		}
+	}
+	"347771"
+	{
+		"dlcappid" "318791"
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3314416001015546544"
+				"size" "218368694"
+				"download" "215830400"
+			}
+		}
+	}
+	"347772"
+	{
+		"dlcappid" "318791"
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "94956196535018115"
+				"size" "274685344"
+				"download" "273152032"
+			}
+		}
+	}
+	"347773"
+	{
+		"dlcappid" "318791"
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1023154477557006801"
+				"size" "308010212"
+				"download" "306891920"
+			}
+		}
+	}
+	"347774"
+	{
+		"dlcappid" "318791"
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3957741259512798010"
+				"size" "255117981"
+				"download" "253256336"
+			}
+		}
+	}
+	"347775"
+	{
+		"dlcappid" "318791"
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2782106135952647496"
+				"size" "334128483"
+				"download" "333235008"
+			}
+		}
+	}
+	"347776"
+	{
+		"dlcappid" "318791"
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1837819544278475801"
+				"size" "255508821"
+				"download" "253862928"
+			}
+		}
+	}
+	"347777"
+	{
+		"dlcappid" "318791"
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "474175569052515799"
+				"size" "255508821"
+				"download" "253862944"
+			}
+		}
+	}
+	"318792"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5542785062311499763"
+				"size" "5433792241"
+				"download" "4482801424"
+			}
+		}
+		"dlcappid" "318792"
+	}
+	"317661"
+	{
+		"dlcappid" "318792"
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4974123719394549476"
+				"size" "275660883"
+				"download" "273931984"
+			}
+		}
+	}
+	"317662"
+	{
+		"dlcappid" "318792"
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "64346122590985239"
+				"size" "231332322"
+				"download" "229262880"
+			}
+		}
+	}
+	"317663"
+	{
+		"dlcappid" "318792"
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "356177234792779318"
+				"size" "291855694"
+				"download" "290377904"
+			}
+		}
+	}
+	"317664"
+	{
+		"dlcappid" "318792"
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8480471138799758813"
+				"size" "340458229"
+				"download" "339575984"
+			}
+		}
+	}
+	"317665"
+	{
+		"dlcappid" "318792"
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2384865611222065689"
+				"size" "276024835"
+				"download" "273908800"
+			}
+		}
+	}
+	"317666"
+	{
+		"dlcappid" "318792"
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6245220386026814238"
+				"size" "359833785"
+				"download" "359301296"
+			}
+		}
+	}
+	"317667"
+	{
+		"dlcappid" "318792"
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2158361324073601944"
+				"size" "275660883"
+				"download" "273931936"
+			}
+		}
+	}
+	"317668"
+	{
+		"dlcappid" "318792"
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2169729678511789913"
+				"size" "275660883"
+				"download" "273932080"
+			}
+		}
+	}
+	"318793"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2176153660918059816"
+				"size" "5443003138"
+				"download" "4484931840"
+			}
+		}
+		"dlcappid" "318793"
+	}
+	"324231"
+	{
+		"dlcappid" "318793"
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2538506173373403673"
+				"size" "270287410"
+				"download" "268786864"
+			}
+		}
+	}
+	"324232"
+	{
+		"dlcappid" "318793"
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3114571272841566902"
+				"size" "232797667"
+				"download" "230606176"
+			}
+		}
+	}
+	"324233"
+	{
+		"dlcappid" "318793"
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3162429864754162241"
+				"size" "283694041"
+				"download" "282591008"
+			}
+		}
+	}
+	"324234"
+	{
+		"dlcappid" "318793"
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4812724123055684709"
+				"size" "326212279"
+				"download" "325488672"
+			}
+		}
+	}
+	"324235"
+	{
+		"dlcappid" "318793"
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3130606459462990314"
+				"size" "285797765"
+				"download" "284371968"
+			}
+		}
+	}
+	"324236"
+	{
+		"dlcappid" "318793"
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2796631653398813720"
+				"size" "317056454"
+				"download" "316274544"
+			}
+		}
+	}
+	"324237"
+	{
+		"dlcappid" "318793"
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1223770653333683354"
+				"size" "270287410"
+				"download" "268786848"
+			}
+		}
+	}
+	"324238"
+	{
+		"dlcappid" "318793"
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2026236127874058503"
+				"size" "270287410"
+				"download" "268786992"
+			}
+		}
+	}
+	"318794"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "901586032961765427"
+				"size" "5897168238"
+				"download" "4935802848"
+			}
+		}
+		"dlcappid" "318794"
+	}
+	"334461"
+	{
+		"dlcappid" "318794"
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7877729103290591318"
+				"size" "376820284"
+				"download" "374649600"
+			}
+		}
+	}
+	"334462"
+	{
+		"dlcappid" "318794"
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2889345427151274804"
+				"size" "341858933"
+				"download" "334278832"
+			}
+		}
+	}
+	"334463"
+	{
+		"dlcappid" "318794"
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7604787201923219397"
+				"size" "392578881"
+				"download" "391853632"
+			}
+		}
+	}
+	"334464"
+	{
+		"dlcappid" "318794"
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4690471876936054489"
+				"size" "459062267"
+				"download" "453355760"
+			}
+		}
+	}
+	"334465"
+	{
+		"dlcappid" "318794"
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3164960295677674124"
+				"size" "413194850"
+				"download" "406319280"
+			}
+		}
+	}
+	"334466"
+	{
+		"dlcappid" "318794"
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8381701963760406591"
+				"size" "424575773"
+				"download" "423799888"
+			}
+		}
+	}
+	"334467"
+	{
+		"dlcappid" "318794"
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5183992592900461375"
+				"size" "376820284"
+				"download" "374649824"
+			}
+		}
+	}
+	"334468"
+	{
+		"dlcappid" "318794"
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6286407237860024022"
+				"size" "376820284"
+				"download" "374649696"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4023914"
+			"timeupdated" "1565888621"
+		}
+		"local"
+		{
+			"buildid" "473726"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "14680064"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "players2"
+			"pattern" "keys_mp.cfg"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "players2"
+			"pattern" "*.s1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27167167"
+"_sha" "47200f6c85bf813b580630470c1fe69269b34c1f"
+"_size" "17558"
