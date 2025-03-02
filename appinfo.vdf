@@ -1,0 +1,226 @@
+"appid" "1831250"
+"common"
+{
+	"name" "WasteLand Express 废土快递"
+	"type" "Game"
+	"logo" "16af4f649897b3024708cc12d4a6e90f1be3b498"
+	"logo_small" "16af4f649897b3024708cc12d4a6e90f1be3b498_thumb"
+	"icon" "5475ad911ef9f534a6478171b5954698a080a484"
+	"clienticon" "599cc5e036ce2784ddb09cd6b0726f7ae9051881"
+	"clienttga" "87d4d859b325e93fbe2e6150d7085cd29b01d60c"
+	"clienticns" "dae936016485d51c78e08d2695263e4ed527e89c"
+	"linuxclienticon" "beaf845d73178be4fe3e9901605006752d720503"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "76.82701240457698"
+			"height_pct" "64.00189214758754"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "76.82701240457698"
+				"height_pct" "64.00189214758754"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1664353329"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "中子星游戏研究所"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" " NPC Entertainment"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1666921656"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1831250"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "17305"
+		"2" "3964"
+		"3" "3835"
+		"4" "16689"
+		"5" "1742"
+		"6" "4182"
+		"7" "122"
+		"8" "492"
+		"9" "4202"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "中子星游戏研究所"
+	"publisher" " NPC Entertainment"
+	"homepage" "https://www.taptap.com/app/202815"
+	"listofdlc" "2336570"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "WasteLand Express"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WastelandExpress.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"workshopdepot" "1831250"
+	"hasdepotsindlc" "1"
+	"1831251"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4283044514370165582"
+				"size" "2071391015"
+				"download" "220930384"
+			}
+		}
+	}
+	"2336570"
+	{
+		"dlcappid" "2336570"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2520189728072862169"
+				"size" "2071391015"
+				"download" "221074864"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17555682"
+			"timeupdated" "1740796843"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "NeutronStar/WastelandExpress"
+			"pattern" "*.json"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27729023"
+"_sha" "b4f937f712470e8648e1311794a3d0e3cb0b3c51"
+"_size" "3929"
