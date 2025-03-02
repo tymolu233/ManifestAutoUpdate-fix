@@ -1,0 +1,388 @@
+"appid" "1065310"
+"common"
+{
+	"name" "Evil West"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "efe88d8b70cf4ba856c4251b069a58ae5951b87a"
+	"clienttga" "ec879877158d9620fa99bf7b3c58ae9727b4f458"
+	"icon" "0d24177a5b9035fefc7a568fc90ba6d6949c6b0d"
+	"logo" "6b98766c3f35734843105e257a0c524dc5c26320"
+	"logo_small" "6b98766c3f35734843105e257a0c524dc5c26320_thumb"
+	"name_localized"
+	{
+		"schinese" "暗邪西部"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1669248000"
+		"tested_build_id" "9899706"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "59.512976542812446"
+			"height_pct" "95.45576730256734"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "59.512976542812446"
+				"height_pct" "95.45576730256734"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1669115921"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Flying Wild Hog"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Focus Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Focus Entertainment"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Evil West"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_55" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1669071594"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1065310"
+	"store_tags"
+	{
+		"0" "4158"
+		"1" "1647"
+		"2" "4106"
+		"3" "1685"
+		"4" "3814"
+		"5" "3955"
+		"6" "1742"
+		"7" "4018"
+		"8" "9541"
+		"9" "4345"
+		"10" "19"
+		"11" "3859"
+		"12" "4182"
+		"13" "1646"
+		"14" "3843"
+		"15" "4667"
+		"16" "1697"
+		"17" "1774"
+		"18" "122"
+		"19" "21"
+	}
+	"review_score" "6"
+	"review_percentage" "74"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"developer" "Flying Wild Hog"
+	"publisher" "Focus Entertainment"
+	"homepage" "https://www.focus-entmt.com/games/evil-west"
+	"listofdlc" "1997840"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Evil West"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "EvilWest.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Start new EvilWest.exe"
+			}
+			"description" "Start new EvilWest.exe"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "12"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1065311"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7110952012124972666"
+				"size" "35837520811"
+				"download" "34699746624"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11649430"
+			"timeupdated" "1693988606"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "HighMoon/Saved/SaveGames"
+			"pattern" "PlayerStateSave*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27261367"
+"_sha" "72577885c5f4da36d27d6d089026ea5cb015b937"
+"_size" "6713"
