@@ -1,0 +1,263 @@
+"appid" "448780"
+"common"
+{
+	"name" "Sixtieth Kilometer"
+	"type" "Game"
+	"oslist" "windows,linux"
+	"logo" "2d57a6f331076f72d1aaccc276b8a7fe5795c53e"
+	"logo_small" "2d57a6f331076f72d1aaccc276b8a7fe5795c53e_thumb"
+	"icon" "7539cfd2177b8d49ece8becd9c8d1904412c82ad"
+	"clienttga" "9ce410cf3e30773b699464d7421aa5deaf97c7e7"
+	"clienticon" "a2150111b415de087a071fbbe688027b41ec43da"
+	"releasestate" "released"
+	"osarch" ""
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1693267200"
+		"tested_build_id" "1702836"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Sixtieth Kilometer"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"russian" "header_russian.jpg"
+	}
+	"store_screenshot" "ss_92e8e39514c4d03fc69a1be6dba44a152717219e.jpg"
+	"store_asset_mtime" "1667036232"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Talentplace"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "KishMish Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1472135852"
+	"community_hub_visible" "1"
+	"gameid" "448780"
+	"store_tags"
+	{
+		"0" "3799"
+		"1" "492"
+		"2" "21"
+		"3" "597"
+		"4" "3835"
+		"5" "4182"
+		"6" "6650"
+		"7" "1667"
+		"8" "1721"
+		"9" "4166"
+		"10" "12095"
+		"11" "1742"
+		"12" "6426"
+		"13" "4486"
+		"14" "6971"
+		"15" "4085"
+		"16" "3942"
+		"17" "3978"
+		"18" "4667"
+		"19" "5611"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "Talentplace"
+	"publisher" "KishMish Games"
+	"homepage" "https://kishmish-games.com"
+	"listofdlc" "611110"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Sixtieth Kilometer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "60_km.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "60_km.sh"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "DLC\\80_km.exe"
+			"description" "Eightieth Kilometer"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "611110"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "english,russian"
+	"448781"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "319512707776708506"
+				"size" "368718113"
+				"download" "322988368"
+			}
+		}
+	}
+	"448782"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1514204593457113881"
+				"size" "386583761"
+				"download" "327320096"
+			}
+		}
+	}
+	"448785"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"611110"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1629153733765594125"
+				"size" "102257170"
+				"download" "78757488"
+			}
+		}
+		"dlcappid" "611110"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1702836"
+			"timeupdated" "1574874324"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27126010"
+"_sha" "cdf6ebef9e49645cb89970387f4cc28a0c796e26"
+"_size" "4536"
