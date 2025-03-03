@@ -1,0 +1,702 @@
+"appid" "259340"
+"common"
+{
+	"name" "Chicken Shoot Gold"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "a63b0c0f7c3c253f9a5de82f5ac9d5ba87919d57"
+	"clienttga" "7e0c8e30a67dbb476acaa9ef8b5c8c07a2e7ee32"
+	"icon" "ca8e0a426fe9291796c7e0da218126e491efa164"
+	"logo" "1d1c47ad42acb36a88d14637fea4b2d8b42621d4"
+	"logo_small" "1d1c47ad42acb36a88d14637fea4b2d8b42621d4_thumb"
+	"oslist" "windows,macos"
+	"exfgls" "1"
+	"name_localized"
+	{
+		"polish" "Kurka Wodna 2 + 3"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1654732800"
+		"tested_build_id" "782886"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Chicken Shoot Gold"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "47.95396419437341"
+			"height_pct" "63.19444444444446"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "47.95396419437341"
+				"height_pct" "63.19444444444446"
+			}
+		}
+	}
+	"store_asset_mtime" "1577616394"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ToonTRAXX Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Topware Interactive"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_29" "1"
+		"category_23" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1067673600"
+	"community_hub_visible" "1"
+	"gameid" "259340"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "597"
+		"2" "492"
+		"3" "1721"
+		"4" "1774"
+		"5" "6650"
+	}
+	"review_score" "5"
+	"review_percentage" "67"
+}
+"extended"
+{
+	"legacykeyregistrylocation" "HKEY_CURRENT_USER\\Software\\Valve\\TestApp259340\\SteamKey"
+	"legacykeyregistrationmethod" "registry"
+	"supportscdkeycopytoclipboard" "1"
+	"showcdkeyonlaunch" "1"
+	"developer" "ToonTRAXX Studios"
+	"publisher" "Topware Interactive"
+	"homepage" "http://www.chickenshoot.com/"
+	"gamemanualurl" "https://store.steampowered.com/manual/259340/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Chicken Shoot"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Kurka.exe"
+			"description" "Chicken Shoot 1"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Chicken Shoot Gold.app"
+			"description" "Chicken Shoot Gold"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "ddc.cmd"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "986211"
+			}
+			"description_loc"
+			{
+				"english" "Digital Deluxe Content"
+			}
+			"description" "Digital Deluxe Content"
+		}
+		"3"
+		{
+			"executable" "ddc"
+			"config"
+			{
+				"oslist" "macos"
+				"ownsdlc" "986211"
+			}
+			"description_loc"
+			{
+				"english" "Digital Deluxe Content"
+			}
+			"description" "Digital Deluxe Content"
+		}
+		"4"
+		{
+			"executable" "ddc_xdg"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Digital Deluxe Content"
+			}
+			"description" "Digital Deluxe Content"
+		}
+		"5"
+		{
+			"executable" "cs2_ddc.cmd"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "986210"
+			}
+			"description_loc"
+			{
+				"english" "CS2 Digital Deluxe Content"
+			}
+			"description" "CS2 Digital Deluxe Content"
+		}
+		"6"
+		{
+			"executable" "CS2_ddc"
+			"config"
+			{
+				"oslist" "macos"
+				"ownsdlc" "986210"
+			}
+			"description_loc"
+			{
+				"english" "CS2 Digital Deluxe Content"
+			}
+			"description" "CS2 Digital Deluxe Content"
+		}
+		"7"
+		{
+			"executable" "CS2_ddc_xdg"
+			"config"
+			{
+				"oslist" "linux"
+				"ownsdlc" "986210"
+			}
+			"description_loc"
+			{
+				"english" "CS2 Digital Deluxe Content"
+			}
+			"description" "CS2 Digital Deluxe Content"
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"baselanguages" ""
+	"hasdepotsindlc" "1"
+	"259341"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2809129182787836225"
+				"size" "277870734"
+				"download" "0"
+			}
+		}
+	}
+	"259342"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2335684518379726608"
+				"size" "10407489"
+				"download" "0"
+			}
+		}
+	}
+	"259343"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "190234511862022959"
+				"size" "1402028"
+				"download" "0"
+			}
+		}
+	}
+	"259344"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7816633385285515819"
+				"size" "1417831"
+				"download" "0"
+			}
+		}
+	}
+	"259345"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1568961595909509283"
+				"size" "1398621"
+				"download" "0"
+			}
+		}
+	}
+	"259346"
+	{
+		"config"
+		{
+			"language" "hungarian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7025180234428117306"
+				"size" "1398618"
+				"download" "0"
+			}
+		}
+	}
+	"259347"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1177562239144235647"
+				"size" "1377588"
+				"download" "0"
+			}
+		}
+	}
+	"259348"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7541463759895698248"
+				"size" "1351825"
+				"download" "0"
+			}
+		}
+	}
+	"259349"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2018319735315802945"
+				"size" "1338329"
+				"download" "0"
+			}
+		}
+	}
+	"259350"
+	{
+		"config"
+		{
+			"language" "czech"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7676604328725451854"
+				"size" "1369686"
+				"download" "0"
+			}
+		}
+	}
+	"259351"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6530222496731590300"
+				"size" "748997241"
+				"download" "334119760"
+			}
+		}
+	}
+	"259352"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1616248178886735950"
+				"size" "747972422"
+				"download" "333126064"
+			}
+		}
+	}
+	"259353"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5442551208553185217"
+				"size" "747982433"
+				"download" "333142256"
+			}
+		}
+	}
+	"259354"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9180025433950921896"
+				"size" "747962870"
+				"download" "333126256"
+			}
+		}
+	}
+	"259355"
+	{
+		"config"
+		{
+			"language" "hungarian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5440674813529919010"
+				"size" "747962895"
+				"download" "333139024"
+			}
+		}
+	}
+	"259356"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7817985658613784063"
+				"size" "747948003"
+				"download" "333125936"
+			}
+		}
+	}
+	"259357"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7643927916428923071"
+				"size" "747916098"
+				"download" "333110528"
+			}
+		}
+	}
+	"259358"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5563249947335706480"
+				"size" "747902576"
+				"download" "333114416"
+			}
+		}
+	}
+	"259359"
+	{
+		"config"
+		{
+			"language" "czech"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3319068532153169319"
+				"size" "747940067"
+				"download" "333129904"
+			}
+		}
+	}
+	"986211"
+	{
+		"dlcappid" "986211"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2531280789780318179"
+				"size" "150765988"
+				"download" "146522112"
+			}
+		}
+	}
+	"986210"
+	{
+		"dlcappid" "986210"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8788975906093018"
+				"size" "150766000"
+				"download" "146522128"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16824331"
+			"timeupdated" "1734794168"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "5000000000"
+	"maxnumfiles" "999"
+}
+"_missing_token" "False"
+"_change_number" "27130158"
+"_sha" "eb7f83077b8cf26d39f31cf27ae862fde4b0a3e8"
+"_size" "11048"
