@@ -1,0 +1,407 @@
+"appid" "1867510"
+"common"
+{
+	"name" "WrestleQuest"
+	"type" "Game"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "传奇摔角手"
+	}
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "d01a0970ce6e8535d1614598076a660e5524e6bc"
+	"clienticon" "c1318e0860e181f9ccb1def59d00f5fa7eb8068f"
+	"clienttga" "5e707b5dfa293261a5e778821c183c61987abf1a"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"schinese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1726012800"
+		"tested_build_id" "15388309"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "40.382323726923346"
+			"height_pct" "75.8594956416137"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "40.382323726923346"
+				"height_pct" "75.8594956416137"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "d7f7fb41528ee60f361ae39473d0c2da268cdd19/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "d7f7fb41528ee60f361ae39473d0c2da268cdd19/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729701604"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mega Cat Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Skybound Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Skybound Games"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1692677111"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1867510"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "4325"
+		"2" "4434"
+		"3" "10695"
+		"4" "21"
+		"5" "47827"
+		"6" "1684"
+		"7" "3964"
+		"8" "1742"
+		"9" "4231"
+		"10" "7743"
+		"11" "6691"
+		"12" "6426"
+		"13" "3993"
+		"14" "4726"
+		"15" "3871"
+		"16" "4182"
+		"17" "4136"
+		"18" "4004"
+		"19" "3916"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "Mega Cat Studios"
+	"publisher" "Skybound Games"
+	"homepage" "https://wrestlequest.com/"
+}
+"config"
+{
+	"installdir" "WrestleQuest"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WrestleQuest.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "WrestleQuest.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1867511"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1280385194431431525"
+				"size" "11180144750"
+				"download" "1574619776"
+			}
+		}
+	}
+	"1867512"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6383692353841647246"
+				"size" "11173542329"
+				"download" "1574298032"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15388309"
+			"timeupdated" "1723766663"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Mega Cat Studios/WrestleQuest/{64BitSteamID}"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Mega Cat Studios/WrestleQuest/{64BitSteamID}"
+					"replace" ".config/unity3d/Mega Cat Studios/WrestleQuest/{64BitSteamID}"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26845279"
+"_sha" "2c81460e6c94a195c33e5d232d444c84d7a1ac7e"
+"_size" "6947"
