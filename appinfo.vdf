@@ -1,0 +1,451 @@
+"appid" "259360"
+"common"
+{
+	"name" "Chicken Shoot 2"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "8b97db62075d27b03e61713779608ae715393d7d"
+	"logo_small" "8b97db62075d27b03e61713779608ae715393d7d_thumb"
+	"clienticon" "60243b4e53f9ea567a3668c8b99e6a180a1efcca"
+	"clienttga" "b80cce950816785b139dd7653d2db22b0eb4bd12"
+	"icon" "d618bfced27b87a885e814635c674e8de5877503"
+	"exfgls" "1"
+	"oslist" "windows,macos"
+	"associations"
+	{
+	}
+	"community_hub_visible" "1"
+	"gameid" "259360"
+}
+"extended"
+{
+	"legacykeyregistrylocation" "HKEY_CURRENT_USER\\Software\\Valve\\TestApp259360\\SteamKey"
+	"legacykeyregistrationmethod" "registry"
+	"supportscdkeycopytoclipboard" "1"
+	"showcdkeyonlaunch" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Chicken Shoot 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Kurka.exe"
+			"description" "Chicken Shoot 2"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Chicken Shoot 2.app"
+			"description" "Chicken Shoot 2"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "cs2_ddc.cmd"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "986210"
+			}
+			"description_loc"
+			{
+				"english" "CS2 Digital Deluxe Content"
+			}
+			"description" "CS2 Digital Deluxe Content"
+		}
+		"3"
+		{
+			"executable" "CS2_ddc"
+			"config"
+			{
+				"oslist" "macos"
+				"ownsdlc" "986210"
+			}
+			"description_loc"
+			{
+				"english" "CS2 Digital Deluxe Content"
+			}
+			"description" "CS2 Digital Deluxe Content"
+		}
+		"4"
+		{
+			"executable" "CS2_ddc_xdg"
+			"config"
+			{
+				"oslist" "linux"
+				"ownsdlc" "986210"
+			}
+			"description_loc"
+			{
+				"english" "CS2 Digital Deluxe Content"
+			}
+			"description" "CS2 Digital Deluxe Content"
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"baselanguages" ""
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"259361"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "961969642886073641"
+				"size" "378057526"
+				"download" "0"
+			}
+		}
+	}
+	"259362"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3963435221843624724"
+				"size" "9263690"
+				"download" "0"
+			}
+		}
+	}
+	"259363"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "462688416601688935"
+				"size" "1403837"
+				"download" "0"
+			}
+		}
+	}
+	"259364"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9145773418268626961"
+				"size" "1419640"
+				"download" "0"
+			}
+		}
+	}
+	"259365"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2945759384517466005"
+				"size" "1400430"
+				"download" "0"
+			}
+		}
+	}
+	"259366"
+	{
+		"config"
+		{
+			"language" "hungarian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3524337637485793723"
+				"size" "1400427"
+				"download" "0"
+			}
+		}
+	}
+	"259367"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1952556367338380777"
+				"size" "1379397"
+				"download" "0"
+			}
+		}
+	}
+	"259368"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6046660744209387672"
+				"size" "1353634"
+				"download" "0"
+			}
+		}
+	}
+	"259369"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9129455755587774637"
+				"size" "1340138"
+				"download" "0"
+			}
+		}
+	}
+	"259370"
+	{
+		"config"
+		{
+			"language" "czech"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8160833055200793121"
+				"size" "1371495"
+				"download" "0"
+			}
+		}
+	}
+	"259371"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3360398868604472692"
+				"size" "855689693"
+				"download" "384594880"
+			}
+		}
+	}
+	"259372"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2024912535730784480"
+				"size" "847829624"
+				"download" "377640352"
+			}
+		}
+	}
+	"259373"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4542826120732950252"
+				"size" "847852072"
+				"download" "377659008"
+			}
+		}
+	}
+	"259374"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6488210481394918564"
+				"size" "847832376"
+				"download" "377629344"
+			}
+		}
+	}
+	"259375"
+	{
+		"config"
+		{
+			"language" "hungarian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7369345885957434754"
+				"size" "847832389"
+				"download" "377644688"
+			}
+		}
+	}
+	"259376"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6318761994274793858"
+				"size" "847811337"
+				"download" "377631248"
+			}
+		}
+	}
+	"259377"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8716121031080082211"
+				"size" "847785592"
+				"download" "377615488"
+			}
+		}
+	}
+	"259378"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1388881065200488532"
+				"size" "847764816"
+				"download" "377618160"
+			}
+		}
+	}
+	"259379"
+	{
+		"config"
+		{
+			"language" "czech"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5551354809180859806"
+				"size" "847803574"
+				"download" "377635408"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "784327"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "5000000000"
+	"maxnumfiles" "999"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "c86ff5f99fa017eae8cfe56717341c194f2023aa"
+"_size" "6486"
