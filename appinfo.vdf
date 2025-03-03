@@ -1,0 +1,86 @@
+"appid" "347380"
+"common"
+{
+	"name" "Homeworld Remastered Toolkit"
+	"type" "Tool"
+	"oslist" "windows"
+	"logo" "ad15f748a735ac074a757869fced509218536ceb"
+	"logo_small" "ad15f748a735ac074a757869fced509218536ceb_thumb"
+	"icon" "dc2fa87a159093ce0b75b453885a0d4d10ed7a83"
+	"clienttga" "56e5f476a5bb0a1655f571a9b8d52e6f4108f839"
+	"clienticon" "7e863489988fc891b76fe61a4d7ed2b01a66cbd4"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "347380"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Homeworld"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GBXTools\\WorkshopTool\\WorkshopTool.exe"
+			"description" "Run Homeworld Remastered Tool"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229003"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"347381"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5946091293115369622"
+				"size" "5638122"
+				"download" "1328496"
+			}
+		}
+	}
+	"workshopdepot" "347380"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1186731"
+			"timeupdated" "1466202919"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "27448362"
+"_sha" "a8a16b1c4dd7ab3bee0d57dba5e70024c8673d3f"
+"_size" "1371"
