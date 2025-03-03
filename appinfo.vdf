@@ -1,0 +1,442 @@
+"appid" "1217060"
+"common"
+{
+	"name" "Gunfire Reborn"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"vietnamese" "1"
+	}
+	"icon" "446d10e4c62466203a4c60e3416d4307048710b8"
+	"name_localized"
+	{
+		"schinese" "枪火重生"
+		"tchinese" "槍火重生"
+	}
+	"clienticon" "9c74bb8013b76618f35183c445841564041f1cd3"
+	"clienttga" "41f56c44c5359a5a639dc8b86c39d93913cd3cae"
+	"logo" "a5f120a81017aad06abc75d9356f4a952aadc88c"
+	"logo_small" "a5f120a81017aad06abc75d9356f4a952aadc88c_thumb"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1217060_eula_0"
+			"name" "Gunfire Reborn EULA"
+			"url" "https://store.steampowered.com//eula/1217060_eula_0"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1688515200"
+		"tested_build_id" "11594185"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "25a88737e5cee7a4e6c9069062fab424ba681e69/capsule_231x87_schinese.jpg"
+		"english" "3f15cdfc5fbbac6a10c79720fe6e45ce1138a01f/capsule_231x87.jpg"
+		"tchinese" "1f1db923f44c88d9c6bd23706427bed38ddfe7c6/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-tw,zh-cn,en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "zh-tw,zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "13.6274940730776"
+			"height_pct" "82.98611111111111"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"tchinese" "1bea000e395358f830f1e5dadd36d5156ae3356c/library_600x900_tchinese.jpg"
+				"schinese" "2fa00ff995a6e68864707b836c64e22c8bf17dcf/library_600x900_schinese.jpg"
+				"english" "0d9ce9505ffc83ab0c2964395fa95dea8a97d0d2/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "0d9ce9505ffc83ab0c2964395fa95dea8a97d0d2/library_600x900_2x.jpg"
+				"schinese" "2fa00ff995a6e68864707b836c64e22c8bf17dcf/library_600x900_schinese_2x.jpg"
+				"tchinese" "1bea000e395358f830f1e5dadd36d5156ae3356c/library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "8c547560ea88b038d7b29ff18009118a47c00fc7/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "8c547560ea88b038d7b29ff18009118a47c00fc7/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "8c547560ea88b038d7b29ff18009118a47c00fc7/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "13.6274940730776"
+				"height_pct" "82.98611111111111"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"tchinese" "f993bc8bc957fa20cff90385892e67d35e25429e/library_header_tchinese.jpg"
+				"schinese" "9d471c080e49e16b925434fcce4dc93c21809092/library_header_schinese.jpg"
+				"english" "68aa769370868aef4ca6fee7197c0c18523e84c1/library_header.jpg"
+			}
+			"image2x"
+			{
+				"tchinese" "f993bc8bc957fa20cff90385892e67d35e25429e/library_header_tchinese_2x.jpg"
+				"schinese" "9d471c080e49e16b925434fcce4dc93c21809092/library_header_schinese_2x.jpg"
+				"english" "68aa769370868aef4ca6fee7197c0c18523e84c1/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737034745"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Duoyi Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Duoyi Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "枪火"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Gunfire"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_2" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1637202586"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1217060"
+	"store_tags"
+	{
+		"0" "3959"
+		"1" "1663"
+		"2" "3843"
+		"3" "1716"
+		"4" "1685"
+		"5" "3859"
+		"6" "353880"
+		"7" "492"
+		"8" "19"
+		"9" "122"
+		"10" "21"
+		"11" "1774"
+		"12" "42804"
+		"13" "3839"
+		"14" "1720"
+		"15" "4711"
+		"16" "4182"
+		"17" "1734"
+		"18" "493"
+		"19" "4236"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Duoyi Games"
+	"publisher" "Duoyi Games"
+	"homepage" "https://gfr.yijoys.com/en/"
+	"listofdlc" "2111850,2430400,3063250"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Gunfire Reborn"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Gunfire Reborn.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2193670323"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1217061"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2204332342236783174"
+				"size" "3925749807"
+				"download" "2856543760"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17329769"
+			"timeupdated" "1739325819"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "41943040"
+	"maxnumfiles" "21"
+}
+"_missing_token" "False"
+"_change_number" "27646099"
+"_sha" "4c6dd488a13ccd482a78ed689fc971d7a2b6f09a"
+"_size" "8672"
