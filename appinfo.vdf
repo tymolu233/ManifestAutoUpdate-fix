@@ -1,0 +1,449 @@
+"appid" "1135230"
+"common"
+{
+	"name" "Ember Knights"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "76e570ab00521fa73aa9fb19c81e10f76f7beb77"
+	"logo_small" "76e570ab00521fa73aa9fb19c81e10f76f7beb77_thumb"
+	"icon" "6309ed12efcbdc62ef1d1c00175d2a0398d4eb39"
+	"clienticon" "0456df2ba54cadb5766720e1c9a7ace12d3ad6de"
+	"clienttga" "53af25d782d562bcebc2284efe37b36ac8fb6373"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1135230_eula_1"
+			"name" "Ember Knights EULA"
+			"url" "https://store.steampowered.com//eula/1135230_eula_1"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1655251200"
+		"tested_build_id" "8835939"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-3"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "nomfdxgiman,"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "55b3dce9db532590e42a35a8ad3853786bdf6267/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "2.0489509849921177"
+			"height_pct" "-1.1250000000000142"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "71d38e7aaaf9940c51df44b419dce52b55ee2c17/library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "71d38e7aaaf9940c51df44b419dce52b55ee2c17/library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "43ead6187d028a9014c96926b68249889be42c6d/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "43ead6187d028a9014c96926b68249889be42c6d/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "43ead6187d028a9014c96926b68249889be42c6d/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "2.0489509849921177"
+				"height_pct" "-1.1250000000000142"
+			}
+			"image2x"
+			{
+				"english" "d10ef1e674eb8dd54a6d0cdf186211da3de44f99/logo_2x.png"
+			}
+			"image"
+			{
+				"english" "d10ef1e674eb8dd54a6d0cdf186211da3de44f99/logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "1344b887d616cd5ef638ac972a21193d20b6d095/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "1344b887d616cd5ef638ac972a21193d20b6d095/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1736434169"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Doom Turtle"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Twin Sails Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Twin Sails Interactive"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1689681645"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1135230"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "3959"
+		"2" "3964"
+		"3" "1685"
+		"4" "3859"
+		"5" "1720"
+		"6" "3843"
+		"7" "1646"
+		"8" "3841"
+		"9" "122"
+		"10" "5125"
+		"11" "21"
+		"12" "19"
+		"13" "3871"
+		"14" "4182"
+		"15" "1716"
+		"16" "7368"
+		"17" "4791"
+		"18" "3993"
+		"19" "6426"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,sandbox"
+	"developer" "Doom Turtle"
+	"publisher" "Twin Sails Interactive"
+	"homepage" "https://doomturtle.ca/"
+	"listofdlc" "2948140"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "EmberKnights"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "EmberKnights_64.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "EmberKnights.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"3"
+		{
+			"executable" "EmberKnights.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"uselaunchcommandline" "1"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65524"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"hasdepotsindlc" "1"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1135232"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8293687531653199778"
+				"size" "1061310226"
+				"download" "769105216"
+			}
+		}
+	}
+	"1135231"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4282928667131848033"
+				"size" "178036344"
+				"download" "71031776"
+			}
+		}
+	}
+	"1135233"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "865315344378060855"
+				"size" "273631877"
+				"download" "113159040"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16802980"
+			"timeupdated" "1734629311"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1048576"
+	"maxnumfiles" "8"
+}
+"_missing_token" "False"
+"_change_number" "27726655"
+"_sha" "496f846dc90e689d181fb6d229dfc7c07e674842"
+"_size" "8060"
