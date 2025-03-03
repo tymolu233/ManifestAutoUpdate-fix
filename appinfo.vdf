@@ -1,0 +1,287 @@
+"appid" "525480"
+"common"
+{
+	"name" ".hack//G.U. Last Recode"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"clienttga" "0a05b57819709dcc48c99d92650d247e5c08c39d"
+	"clienticon" "33326439d3eec2f79810420075fe478a2b787021"
+	"icon" "dd92e278dbabb5765a0b220d97228dc66d993f06"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "525480_eula_0"
+			"name" ".hack//G.U. Last Recode EULA"
+			"url" "http://store.steampowered.com//eula/525480_eula_0"
+		}
+	}
+	"logo" "68fd602aaecb0fe79de317d301e39beb52e59bcc"
+	"logo_small" "68fd602aaecb0fe79de317d301e39beb52e59bcc_thumb"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1656633600"
+		"tested_build_id" "8104077"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"metacritic_name" ".hack//G.U. Last Recode"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_5f779085f75ee51a5f36891cd0605c02f0e8e79a.jpg"
+	"store_asset_mtime" "1517328759"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CyberConnect2"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bandai Namco Entertainment"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_43" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"full_audio" "true"
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1509728616"
+	"metacritic_score" "69"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/hackgu-last-recode\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "525480"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "4434"
+		"2" "4085"
+		"3" "4182"
+		"4" "1742"
+		"5" "4231"
+		"6" "1756"
+		"7" "19"
+		"8" "1684"
+		"9" "1646"
+		"10" "1693"
+		"11" "21"
+		"12" "1695"
+		"13" "5708"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "CyberConnect2"
+	"publisher" "Bandai Namco Entertainment"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "hackGU"
+	"steamcontrollertemplateindex" "1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "hackGU.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollerconfigdetails"
+	{
+		"1117381897"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,compat,dev-test,developper,qa-loc,qa-loc-debug"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,tchinese,japanese"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"525481"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5381719385143195991"
+				"size" "41655986721"
+				"download" "35605643792"
+			}
+		}
+	}
+	"525482"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2041863943685320039"
+				"size" "41797610801"
+				"download" "35742308240"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8104077"
+			"timeupdated" "1646841608"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "80000000"
+	"maxnumfiles" "400"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "savedata"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "27028407"
+"_sha" "6c94fcdd718c15615f8721f442b4d33b289c3caf"
+"_size" "5285"
