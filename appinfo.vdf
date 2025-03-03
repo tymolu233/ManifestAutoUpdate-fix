@@ -1,0 +1,6827 @@
+"appid" "391220"
+"common"
+{
+	"name" "Rise of the Tomb Raider"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"icon" "0b8a37f32ed2b7c934be8aa94d53f71e274c6497"
+	"logo" "5270d12abfc683e6f1d39e7ac0b6f2db366e7209"
+	"logo_small" "5270d12abfc683e6f1d39e7ac0b6f2db366e7209_thumb"
+	"clienttga" "c38b9d0f2af797391312bdc9e7340b2bbb78a101"
+	"clienticon" "f8f1a7ea1cf92ee980736028ab5a18ab195ae429"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"brazilian" "1"
+	}
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "391220_eula_0"
+			"name" "Rise of the Tomb Raider EULA"
+			"url" "http://store.steampowered.com//eula/391220_eula_0"
+			"version" "4"
+		}
+	}
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+		"xinput" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+	}
+	"clienticns" "b57bb8374b0717da6d35b922724e17cfb3187565"
+	"openvrsupport" "1"
+	"osarch" ""
+	"linuxclienticon" "17b035924bc818a412a473e6b89374238468ef88"
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1644969600"
+		"tested_build_id" "7554357"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DeviceCompatibilityWarningsShown"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Rise of the Tomb Raider"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1709834230"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Crystal Dynamics"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Eidos-Montréal"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Feral Interactive (Mac)"
+		}
+		"3"
+		{
+			"type" "developer"
+			"name" "Feral Interactive (Linux)"
+		}
+		"4"
+		{
+			"type" "developer"
+			"name" "Nixxes"
+		}
+		"5"
+		{
+			"type" "publisher"
+			"name" "Crystal Dynamics"
+		}
+		"6"
+		{
+			"type" "publisher"
+			"name" "Feral Interactive (Mac)"
+		}
+		"7"
+		{
+			"type" "publisher"
+			"name" "Feral Interactive (Linux)"
+		}
+		"8"
+		{
+			"type" "franchise"
+			"name" "Tomb Raider"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_25" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_43" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_52" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1454000400"
+	"metacritic_score" "86"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/rise-of-the-tomb-raider\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "391220"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "19"
+		"2" "7208"
+		"3" "4182"
+		"4" "1697"
+		"5" "3834"
+		"6" "1695"
+		"7" "4106"
+		"8" "1742"
+		"9" "1662"
+		"10" "1664"
+		"11" "1687"
+		"12" "4166"
+		"13" "3814"
+		"14" "4036"
+		"15" "1774"
+		"16" "122"
+		"17" "3859"
+		"18" "1756"
+		"19" "4559"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"overlaywindowblacklist" "_FERAL_LAUNCHER_WINDOW"
+	"developer" "Crystal Dynamics"
+	"publisher" "Crystal Dynamics"
+	"homepage" "http://www.tombraider.com/us/"
+	"gamemanualurl" "https://store.steampowered.com/manual/391220/"
+	"listofdlc" "418680,418690,418700,418710,418720,418750,418760,418770,418780,418790,418800,418810,419110,437800,505540,526660,541750"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Rise of the Tomb Raider"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ROTTR.exe"
+			"description" "Launch TR2 GM"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "TR2_x64_final.exe"
+			"description" "Launch TR2 Final"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "437290"
+			}
+		}
+		"2"
+		{
+			"executable" "TR2_x64_release.exe"
+			"arguments" "-archive -norootchange -mainmenu -noassert -launcher"
+			"description" "Launch TR2 Release"
+			"type" "none"
+			"config"
+			{
+				"osarch" "64"
+				"ownsdlc" "437290"
+			}
+		}
+		"4"
+		{
+			"executable" "ROTTR_prot.exe"
+			"description" "Launch ROTTR Protected"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "437290"
+			}
+		}
+		"5"
+		{
+			"executable" "ROTTR_orig.exe"
+			"description" "Launch ROTTR Original GM"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "437290"
+			}
+		}
+		"6"
+		{
+			"executable" "ROTTR.exe"
+			"arguments" "-nolauncher -vr"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "505540"
+			}
+		}
+		"7"
+		{
+			"executable" "Rise of the Tomb Raider.app"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"8"
+		{
+			"executable" "RiseOfTheTombRaider.sh"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1885155721"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"391221"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4794078318850798771"
+				"size" "22732888935"
+				"download" "20997449888"
+			}
+			"build1026"
+			{
+				"gid" "7331073347914314720"
+				"size" "22732934423"
+				"download" "20999595936"
+			}
+			"build610_1"
+			{
+				"gid" "7863973738271302031"
+				"size" "18836469367"
+				"download" "17635476176"
+			}
+			"build616_5"
+			{
+				"gid" "6446995264167623849"
+				"size" "18891576567"
+				"download" "17681619616"
+			}
+			"build623_2"
+			{
+				"gid" "4560706094222199472"
+				"size" "18896249143"
+				"download" "17686291840"
+			}
+			"build629_3"
+			{
+				"gid" "90415757476905423"
+				"size" "19409909159"
+				"download" "18158356832"
+			}
+			"build638_8"
+			{
+				"gid" "372358064500639995"
+				"size" "19410157127"
+				"download" "18158634800"
+			}
+			"build647_2"
+			{
+				"gid" "8523932023986311988"
+				"size" "19615312503"
+				"download" "18336988608"
+			}
+			"build668_1"
+			{
+				"gid" "1726535410819229594"
+				"size" "19471250983"
+				"download" "18183691072"
+			}
+			"build751_5"
+			{
+				"gid" "3648639607442025077"
+				"size" "20427130500"
+				"download" "19034778336"
+			}
+			"build753_1"
+			{
+				"gid" "8955416164157750536"
+				"size" "20427165300"
+				"download" "19034796480"
+			}
+			"build753_2"
+			{
+				"gid" "5518588051818665102"
+				"size" "20427155124"
+				"download" "19034786688"
+			}
+			"build767_2"
+			{
+				"gid" "4856855227671276072"
+				"size" "20443149215"
+				"download" "19038934416"
+			}
+			"build770.1"
+			{
+				"gid" "4856855227671276072"
+				"size" "20443149215"
+				"download" "19038934416"
+			}
+			"build811.3"
+			{
+				"gid" "8779363854807317030"
+				"size" "20836572751"
+				"download" "19240609440"
+			}
+			"build813"
+			{
+				"gid" "8159764758726036937"
+				"size" "20836638479"
+				"download" "19240621328"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "4794078318850798771"
+				"size" "22732888935"
+				"download" "20997449888"
+			}
+		}
+	}
+	"391222"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5844778674994925496"
+				"size" "269541768"
+				"download" "34823696"
+			}
+			"build1026"
+			{
+				"gid" "7398734959076747600"
+				"size" "270481320"
+				"download" "35609248"
+			}
+			"build610_1"
+			{
+				"gid" "2065050179397943638"
+				"size" "94368968"
+				"download" "75739104"
+			}
+			"build616_5"
+			{
+				"gid" "8560274900376693019"
+				"size" "87421128"
+				"download" "68437616"
+			}
+			"build623_2"
+			{
+				"gid" "1932277802841971033"
+				"size" "92425928"
+				"download" "73081216"
+			}
+			"build629_3"
+			{
+				"gid" "8053026895387186586"
+				"size" "93340520"
+				"download" "73983936"
+			}
+			"build638_8"
+			{
+				"gid" "8448073619745100315"
+				"size" "129570632"
+				"download" "76889152"
+			}
+			"build647_2"
+			{
+				"gid" "964572979795663201"
+				"size" "126641656"
+				"download" "72734464"
+			}
+			"build668_1"
+			{
+				"gid" "3878272143771977998"
+				"size" "169368944"
+				"download" "74843856"
+			}
+			"build751_5"
+			{
+				"gid" "2758263364914629727"
+				"size" "177011568"
+				"download" "83214560"
+			}
+			"build753_1"
+			{
+				"gid" "1612884986954499282"
+				"size" "183149368"
+				"download" "80250704"
+			}
+			"build753_2"
+			{
+				"gid" "2302653201065717680"
+				"size" "186455864"
+				"download" "83108656"
+			}
+			"build767_2"
+			{
+				"gid" "2966125911560078695"
+				"size" "186089512"
+				"download" "81893536"
+			}
+			"build770.1"
+			{
+				"gid" "1839826937785381231"
+				"size" "191853788"
+				"download" "83986784"
+			}
+			"build811.3"
+			{
+				"gid" "2932340685516287700"
+				"size" "192910220"
+				"download" "84358112"
+			}
+			"build813"
+			{
+				"gid" "1664782144858563847"
+				"size" "197006352"
+				"download" "87337136"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "606752656517512863"
+				"size" "270481320"
+				"download" "35609728"
+			}
+		}
+	}
+	"391223"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1584369543637364543"
+				"size" "558765574"
+				"download" "116875312"
+			}
+			"build1026"
+			{
+				"gid" "885773626183717800"
+				"size" "670884870"
+				"download" "142359056"
+			}
+			"build610_1"
+			{
+				"gid" "4944493609569900812"
+				"size" "1683405378"
+				"download" "321266032"
+			}
+			"build616_5"
+			{
+				"gid" "8989652335161725730"
+				"size" "1782634562"
+				"download" "340657056"
+			}
+			"build623_2"
+			{
+				"gid" "2128132398551095128"
+				"size" "1775210970"
+				"download" "332408896"
+			}
+			"build629_3"
+			{
+				"gid" "7160485913472318208"
+				"size" "1673642586"
+				"download" "315084864"
+			}
+			"build638_8"
+			{
+				"gid" "536426435171881137"
+				"size" "1564808838"
+				"download" "290226560"
+			}
+			"build647_2"
+			{
+				"gid" "6251268403521594340"
+				"size" "1579161734"
+				"download" "297297616"
+			}
+			"build668_1"
+			{
+				"gid" "3657251688889268430"
+				"size" "1860785798"
+				"download" "344389728"
+			}
+			"build751_5"
+			{
+				"gid" "895751314203430330"
+				"size" "2092412038"
+				"download" "369720032"
+			}
+			"build753_1"
+			{
+				"gid" "2396417471550028891"
+				"size" "2098708614"
+				"download" "374652496"
+			}
+			"build753_2"
+			{
+				"gid" "7409872461390506482"
+				"size" "2095793286"
+				"download" "369950448"
+			}
+			"build767_2"
+			{
+				"gid" "4888886282105449321"
+				"size" "780488678"
+				"download" "115018688"
+			}
+			"build770.1"
+			{
+				"gid" "4194522810675626173"
+				"size" "782492710"
+				"download" "116825056"
+			}
+			"build811.3"
+			{
+				"gid" "4068731959938585814"
+				"size" "896128038"
+				"download" "137984944"
+			}
+			"build813"
+			{
+				"gid" "5718341343244768070"
+				"size" "897788454"
+				"download" "138511648"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "7082602118967675362"
+				"size" "670884870"
+				"download" "139699184"
+			}
+		}
+	}
+	"418700"
+	{
+		"dlcappid" "418700"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "898782230419067554"
+				"size" "397"
+				"download" "256"
+			}
+			"build1026"
+			{
+				"gid" "898782230419067554"
+				"size" "397"
+				"download" "256"
+			}
+			"build610_1"
+			{
+				"gid" "898782230419067554"
+				"size" "397"
+				"download" "256"
+			}
+			"build616_5"
+			{
+				"gid" "898782230419067554"
+				"size" "397"
+				"download" "256"
+			}
+			"build623_2"
+			{
+				"gid" "898782230419067554"
+				"size" "397"
+				"download" "256"
+			}
+			"build629_3"
+			{
+				"gid" "898782230419067554"
+				"size" "397"
+				"download" "256"
+			}
+			"build638_8"
+			{
+				"gid" "898782230419067554"
+				"size" "397"
+				"download" "256"
+			}
+			"build647_2"
+			{
+				"gid" "898782230419067554"
+				"size" "397"
+				"download" "256"
+			}
+			"build668_1"
+			{
+				"gid" "898782230419067554"
+				"size" "397"
+				"download" "256"
+			}
+			"build751_5"
+			{
+				"gid" "898782230419067554"
+				"size" "397"
+				"download" "256"
+			}
+			"build753_1"
+			{
+				"gid" "898782230419067554"
+				"size" "397"
+				"download" "256"
+			}
+			"build753_2"
+			{
+				"gid" "898782230419067554"
+				"size" "397"
+				"download" "256"
+			}
+			"build767_2"
+			{
+				"gid" "898782230419067554"
+				"size" "397"
+				"download" "256"
+			}
+			"build770.1"
+			{
+				"gid" "898782230419067554"
+				"size" "397"
+				"download" "256"
+			}
+			"build811.3"
+			{
+				"gid" "898782230419067554"
+				"size" "397"
+				"download" "256"
+			}
+			"build813"
+			{
+				"gid" "898782230419067554"
+				"size" "397"
+				"download" "256"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "898782230419067554"
+				"size" "397"
+				"download" "256"
+			}
+		}
+	}
+	"418690"
+	{
+		"dlcappid" "418690"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "65115631254540684"
+				"size" "375"
+				"download" "240"
+			}
+			"build1026"
+			{
+				"gid" "65115631254540684"
+				"size" "375"
+				"download" "240"
+			}
+			"build610_1"
+			{
+				"gid" "65115631254540684"
+				"size" "375"
+				"download" "240"
+			}
+			"build616_5"
+			{
+				"gid" "65115631254540684"
+				"size" "375"
+				"download" "240"
+			}
+			"build623_2"
+			{
+				"gid" "65115631254540684"
+				"size" "375"
+				"download" "240"
+			}
+			"build629_3"
+			{
+				"gid" "65115631254540684"
+				"size" "375"
+				"download" "240"
+			}
+			"build638_8"
+			{
+				"gid" "65115631254540684"
+				"size" "375"
+				"download" "240"
+			}
+			"build647_2"
+			{
+				"gid" "65115631254540684"
+				"size" "375"
+				"download" "240"
+			}
+			"build668_1"
+			{
+				"gid" "65115631254540684"
+				"size" "375"
+				"download" "240"
+			}
+			"build751_5"
+			{
+				"gid" "65115631254540684"
+				"size" "375"
+				"download" "240"
+			}
+			"build753_1"
+			{
+				"gid" "65115631254540684"
+				"size" "375"
+				"download" "240"
+			}
+			"build753_2"
+			{
+				"gid" "65115631254540684"
+				"size" "375"
+				"download" "240"
+			}
+			"build767_2"
+			{
+				"gid" "65115631254540684"
+				"size" "375"
+				"download" "240"
+			}
+			"build770.1"
+			{
+				"gid" "65115631254540684"
+				"size" "375"
+				"download" "240"
+			}
+			"build811.3"
+			{
+				"gid" "65115631254540684"
+				"size" "375"
+				"download" "240"
+			}
+			"build813"
+			{
+				"gid" "65115631254540684"
+				"size" "375"
+				"download" "240"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "65115631254540684"
+				"size" "375"
+				"download" "240"
+			}
+		}
+	}
+	"418710"
+	{
+		"dlcappid" "418710"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "51443339483951151"
+				"size" "387"
+				"download" "256"
+			}
+			"build1026"
+			{
+				"gid" "51443339483951151"
+				"size" "387"
+				"download" "256"
+			}
+			"build610_1"
+			{
+				"gid" "51443339483951151"
+				"size" "387"
+				"download" "256"
+			}
+			"build616_5"
+			{
+				"gid" "51443339483951151"
+				"size" "387"
+				"download" "256"
+			}
+			"build623_2"
+			{
+				"gid" "51443339483951151"
+				"size" "387"
+				"download" "256"
+			}
+			"build629_3"
+			{
+				"gid" "51443339483951151"
+				"size" "387"
+				"download" "256"
+			}
+			"build638_8"
+			{
+				"gid" "51443339483951151"
+				"size" "387"
+				"download" "256"
+			}
+			"build647_2"
+			{
+				"gid" "51443339483951151"
+				"size" "387"
+				"download" "256"
+			}
+			"build668_1"
+			{
+				"gid" "51443339483951151"
+				"size" "387"
+				"download" "256"
+			}
+			"build751_5"
+			{
+				"gid" "51443339483951151"
+				"size" "387"
+				"download" "256"
+			}
+			"build753_1"
+			{
+				"gid" "51443339483951151"
+				"size" "387"
+				"download" "256"
+			}
+			"build753_2"
+			{
+				"gid" "51443339483951151"
+				"size" "387"
+				"download" "256"
+			}
+			"build767_2"
+			{
+				"gid" "51443339483951151"
+				"size" "387"
+				"download" "256"
+			}
+			"build770.1"
+			{
+				"gid" "51443339483951151"
+				"size" "387"
+				"download" "256"
+			}
+			"build811.3"
+			{
+				"gid" "51443339483951151"
+				"size" "387"
+				"download" "256"
+			}
+			"build813"
+			{
+				"gid" "51443339483951151"
+				"size" "387"
+				"download" "256"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "51443339483951151"
+				"size" "387"
+				"download" "256"
+			}
+		}
+	}
+	"418680"
+	{
+		"dlcappid" "418680"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "378942671148969575"
+				"size" "371"
+				"download" "240"
+			}
+			"build1026"
+			{
+				"gid" "378942671148969575"
+				"size" "371"
+				"download" "240"
+			}
+			"build610_1"
+			{
+				"gid" "378942671148969575"
+				"size" "371"
+				"download" "240"
+			}
+			"build616_5"
+			{
+				"gid" "378942671148969575"
+				"size" "371"
+				"download" "240"
+			}
+			"build623_2"
+			{
+				"gid" "378942671148969575"
+				"size" "371"
+				"download" "240"
+			}
+			"build629_3"
+			{
+				"gid" "378942671148969575"
+				"size" "371"
+				"download" "240"
+			}
+			"build638_8"
+			{
+				"gid" "378942671148969575"
+				"size" "371"
+				"download" "240"
+			}
+			"build647_2"
+			{
+				"gid" "378942671148969575"
+				"size" "371"
+				"download" "240"
+			}
+			"build668_1"
+			{
+				"gid" "378942671148969575"
+				"size" "371"
+				"download" "240"
+			}
+			"build751_5"
+			{
+				"gid" "378942671148969575"
+				"size" "371"
+				"download" "240"
+			}
+			"build753_1"
+			{
+				"gid" "378942671148969575"
+				"size" "371"
+				"download" "240"
+			}
+			"build753_2"
+			{
+				"gid" "378942671148969575"
+				"size" "371"
+				"download" "240"
+			}
+			"build767_2"
+			{
+				"gid" "378942671148969575"
+				"size" "371"
+				"download" "240"
+			}
+			"build770.1"
+			{
+				"gid" "378942671148969575"
+				"size" "371"
+				"download" "240"
+			}
+			"build811.3"
+			{
+				"gid" "378942671148969575"
+				"size" "371"
+				"download" "240"
+			}
+			"build813"
+			{
+				"gid" "378942671148969575"
+				"size" "371"
+				"download" "240"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "378942671148969575"
+				"size" "371"
+				"download" "240"
+			}
+		}
+	}
+	"418730"
+	{
+		"dlcappid" "418730"
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"418750"
+	{
+		"dlcappid" "418750"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4490860606175189512"
+				"size" "426"
+				"download" "272"
+			}
+			"build1026"
+			{
+				"gid" "4490860606175189512"
+				"size" "426"
+				"download" "272"
+			}
+			"build610_1"
+			{
+				"gid" "4490860606175189512"
+				"size" "426"
+				"download" "272"
+			}
+			"build616_5"
+			{
+				"gid" "4490860606175189512"
+				"size" "426"
+				"download" "272"
+			}
+			"build623_2"
+			{
+				"gid" "4490860606175189512"
+				"size" "426"
+				"download" "272"
+			}
+			"build629_3"
+			{
+				"gid" "4490860606175189512"
+				"size" "426"
+				"download" "272"
+			}
+			"build638_8"
+			{
+				"gid" "4490860606175189512"
+				"size" "426"
+				"download" "272"
+			}
+			"build647_2"
+			{
+				"gid" "4490860606175189512"
+				"size" "426"
+				"download" "272"
+			}
+			"build668_1"
+			{
+				"gid" "4490860606175189512"
+				"size" "426"
+				"download" "272"
+			}
+			"build751_5"
+			{
+				"gid" "4490860606175189512"
+				"size" "426"
+				"download" "272"
+			}
+			"build753_1"
+			{
+				"gid" "4490860606175189512"
+				"size" "426"
+				"download" "272"
+			}
+			"build753_2"
+			{
+				"gid" "4490860606175189512"
+				"size" "426"
+				"download" "272"
+			}
+			"build767_2"
+			{
+				"gid" "4490860606175189512"
+				"size" "426"
+				"download" "272"
+			}
+			"build770.1"
+			{
+				"gid" "4490860606175189512"
+				"size" "426"
+				"download" "272"
+			}
+			"build811.3"
+			{
+				"gid" "4490860606175189512"
+				"size" "426"
+				"download" "272"
+			}
+			"build813"
+			{
+				"gid" "4490860606175189512"
+				"size" "426"
+				"download" "272"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "4490860606175189512"
+				"size" "426"
+				"download" "272"
+			}
+		}
+	}
+	"418740"
+	{
+		"dlcappid" "418740"
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"418790"
+	{
+		"dlcappid" "418790"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4863695610568968480"
+				"size" "553832200"
+				"download" "400921536"
+			}
+			"build1026"
+			{
+				"gid" "4863695610568968480"
+				"size" "553832200"
+				"download" "400921536"
+			}
+			"build610_1"
+			{
+				"gid" "4863695610568968480"
+				"size" "553832200"
+				"download" "400921536"
+			}
+			"build616_5"
+			{
+				"gid" "4863695610568968480"
+				"size" "553832200"
+				"download" "400921536"
+			}
+			"build623_2"
+			{
+				"gid" "4863695610568968480"
+				"size" "553832200"
+				"download" "400921536"
+			}
+			"build629_3"
+			{
+				"gid" "4863695610568968480"
+				"size" "553832200"
+				"download" "400921536"
+			}
+			"build638_8"
+			{
+				"gid" "4863695610568968480"
+				"size" "553832200"
+				"download" "400921536"
+			}
+			"build647_2"
+			{
+				"gid" "4863695610568968480"
+				"size" "553832200"
+				"download" "400921536"
+			}
+			"build668_1"
+			{
+				"gid" "4863695610568968480"
+				"size" "553832200"
+				"download" "400921536"
+			}
+			"build751_5"
+			{
+				"gid" "4863695610568968480"
+				"size" "553832200"
+				"download" "400921536"
+			}
+			"build753_1"
+			{
+				"gid" "4863695610568968480"
+				"size" "553832200"
+				"download" "400921536"
+			}
+			"build753_2"
+			{
+				"gid" "4863695610568968480"
+				"size" "553832200"
+				"download" "400921536"
+			}
+			"build767_2"
+			{
+				"gid" "4863695610568968480"
+				"size" "553832200"
+				"download" "400921536"
+			}
+			"build770.1"
+			{
+				"gid" "4863695610568968480"
+				"size" "553832200"
+				"download" "400921536"
+			}
+			"build811.3"
+			{
+				"gid" "4863695610568968480"
+				"size" "553832200"
+				"download" "400921536"
+			}
+			"build813"
+			{
+				"gid" "4863695610568968480"
+				"size" "553832200"
+				"download" "400921536"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "4863695610568968480"
+				"size" "553832200"
+				"download" "400921536"
+			}
+		}
+	}
+	"418780"
+	{
+		"dlcappid" "418780"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7818447123364089517"
+				"size" "414"
+				"download" "256"
+			}
+			"build1026"
+			{
+				"gid" "7818447123364089517"
+				"size" "414"
+				"download" "256"
+			}
+			"build610_1"
+			{
+				"gid" "7818447123364089517"
+				"size" "414"
+				"download" "256"
+			}
+			"build616_5"
+			{
+				"gid" "7818447123364089517"
+				"size" "414"
+				"download" "256"
+			}
+			"build623_2"
+			{
+				"gid" "7818447123364089517"
+				"size" "414"
+				"download" "256"
+			}
+			"build629_3"
+			{
+				"gid" "7818447123364089517"
+				"size" "414"
+				"download" "256"
+			}
+			"build638_8"
+			{
+				"gid" "7818447123364089517"
+				"size" "414"
+				"download" "256"
+			}
+			"build647_2"
+			{
+				"gid" "7818447123364089517"
+				"size" "414"
+				"download" "256"
+			}
+			"build668_1"
+			{
+				"gid" "7818447123364089517"
+				"size" "414"
+				"download" "256"
+			}
+			"build751_5"
+			{
+				"gid" "7818447123364089517"
+				"size" "414"
+				"download" "256"
+			}
+			"build753_1"
+			{
+				"gid" "7818447123364089517"
+				"size" "414"
+				"download" "256"
+			}
+			"build753_2"
+			{
+				"gid" "7818447123364089517"
+				"size" "414"
+				"download" "256"
+			}
+			"build767_2"
+			{
+				"gid" "7818447123364089517"
+				"size" "414"
+				"download" "256"
+			}
+			"build770.1"
+			{
+				"gid" "7818447123364089517"
+				"size" "414"
+				"download" "256"
+			}
+			"build811.3"
+			{
+				"gid" "7818447123364089517"
+				"size" "414"
+				"download" "256"
+			}
+			"build813"
+			{
+				"gid" "7818447123364089517"
+				"size" "414"
+				"download" "256"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "7818447123364089517"
+				"size" "414"
+				"download" "256"
+			}
+		}
+	}
+	"418770"
+	{
+		"dlcappid" "418770"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8227735745325821939"
+				"size" "430"
+				"download" "256"
+			}
+			"build1026"
+			{
+				"gid" "8227735745325821939"
+				"size" "430"
+				"download" "256"
+			}
+			"build610_1"
+			{
+				"gid" "8227735745325821939"
+				"size" "430"
+				"download" "256"
+			}
+			"build616_5"
+			{
+				"gid" "8227735745325821939"
+				"size" "430"
+				"download" "256"
+			}
+			"build623_2"
+			{
+				"gid" "8227735745325821939"
+				"size" "430"
+				"download" "256"
+			}
+			"build629_3"
+			{
+				"gid" "8227735745325821939"
+				"size" "430"
+				"download" "256"
+			}
+			"build638_8"
+			{
+				"gid" "8227735745325821939"
+				"size" "430"
+				"download" "256"
+			}
+			"build647_2"
+			{
+				"gid" "8227735745325821939"
+				"size" "430"
+				"download" "256"
+			}
+			"build668_1"
+			{
+				"gid" "8227735745325821939"
+				"size" "430"
+				"download" "256"
+			}
+			"build751_5"
+			{
+				"gid" "8227735745325821939"
+				"size" "430"
+				"download" "256"
+			}
+			"build753_1"
+			{
+				"gid" "8227735745325821939"
+				"size" "430"
+				"download" "256"
+			}
+			"build753_2"
+			{
+				"gid" "8227735745325821939"
+				"size" "430"
+				"download" "256"
+			}
+			"build767_2"
+			{
+				"gid" "8227735745325821939"
+				"size" "430"
+				"download" "256"
+			}
+			"build770.1"
+			{
+				"gid" "8227735745325821939"
+				"size" "430"
+				"download" "256"
+			}
+			"build811.3"
+			{
+				"gid" "8227735745325821939"
+				"size" "430"
+				"download" "256"
+			}
+			"build813"
+			{
+				"gid" "8227735745325821939"
+				"size" "430"
+				"download" "256"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "8227735745325821939"
+				"size" "430"
+				"download" "256"
+			}
+		}
+	}
+	"418760"
+	{
+		"dlcappid" "418760"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9102585270140874084"
+				"size" "418"
+				"download" "256"
+			}
+			"build1026"
+			{
+				"gid" "9102585270140874084"
+				"size" "418"
+				"download" "256"
+			}
+			"build610_1"
+			{
+				"gid" "9102585270140874084"
+				"size" "418"
+				"download" "256"
+			}
+			"build616_5"
+			{
+				"gid" "9102585270140874084"
+				"size" "418"
+				"download" "256"
+			}
+			"build623_2"
+			{
+				"gid" "9102585270140874084"
+				"size" "418"
+				"download" "256"
+			}
+			"build629_3"
+			{
+				"gid" "9102585270140874084"
+				"size" "418"
+				"download" "256"
+			}
+			"build638_8"
+			{
+				"gid" "9102585270140874084"
+				"size" "418"
+				"download" "256"
+			}
+			"build647_2"
+			{
+				"gid" "9102585270140874084"
+				"size" "418"
+				"download" "256"
+			}
+			"build668_1"
+			{
+				"gid" "9102585270140874084"
+				"size" "418"
+				"download" "256"
+			}
+			"build751_5"
+			{
+				"gid" "9102585270140874084"
+				"size" "418"
+				"download" "256"
+			}
+			"build753_1"
+			{
+				"gid" "9102585270140874084"
+				"size" "418"
+				"download" "256"
+			}
+			"build753_2"
+			{
+				"gid" "9102585270140874084"
+				"size" "418"
+				"download" "256"
+			}
+			"build767_2"
+			{
+				"gid" "9102585270140874084"
+				"size" "418"
+				"download" "256"
+			}
+			"build770.1"
+			{
+				"gid" "9102585270140874084"
+				"size" "418"
+				"download" "256"
+			}
+			"build811.3"
+			{
+				"gid" "9102585270140874084"
+				"size" "418"
+				"download" "256"
+			}
+			"build813"
+			{
+				"gid" "9102585270140874084"
+				"size" "418"
+				"download" "256"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "9102585270140874084"
+				"size" "418"
+				"download" "256"
+			}
+		}
+	}
+	"418800"
+	{
+		"dlcappid" "418800"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1128899172093090204"
+				"size" "1238879151"
+				"download" "988577072"
+			}
+			"build1026"
+			{
+				"gid" "1128899172093090204"
+				"size" "1238879151"
+				"download" "988577072"
+			}
+			"build610_1"
+			{
+				"gid" "1128899172093090204"
+				"size" "1238879151"
+				"download" "988577072"
+			}
+			"build616_5"
+			{
+				"gid" "1128899172093090204"
+				"size" "1238879151"
+				"download" "988577072"
+			}
+			"build623_2"
+			{
+				"gid" "1128899172093090204"
+				"size" "1238879151"
+				"download" "988577072"
+			}
+			"build629_3"
+			{
+				"gid" "1128899172093090204"
+				"size" "1238879151"
+				"download" "988577072"
+			}
+			"build638_8"
+			{
+				"gid" "1128899172093090204"
+				"size" "1238879151"
+				"download" "988577072"
+			}
+			"build647_2"
+			{
+				"gid" "1128899172093090204"
+				"size" "1238879151"
+				"download" "988577072"
+			}
+			"build668_1"
+			{
+				"gid" "1128899172093090204"
+				"size" "1238879151"
+				"download" "988577072"
+			}
+			"build751_5"
+			{
+				"gid" "1128899172093090204"
+				"size" "1238879151"
+				"download" "988577072"
+			}
+			"build753_1"
+			{
+				"gid" "1128899172093090204"
+				"size" "1238879151"
+				"download" "988577072"
+			}
+			"build753_2"
+			{
+				"gid" "1128899172093090204"
+				"size" "1238879151"
+				"download" "988577072"
+			}
+			"build767_2"
+			{
+				"gid" "1128899172093090204"
+				"size" "1238879151"
+				"download" "988577072"
+			}
+			"build770.1"
+			{
+				"gid" "1128899172093090204"
+				"size" "1238879151"
+				"download" "988577072"
+			}
+			"build811.3"
+			{
+				"gid" "1128899172093090204"
+				"size" "1238879151"
+				"download" "988577072"
+			}
+			"build813"
+			{
+				"gid" "1128899172093090204"
+				"size" "1238879151"
+				"download" "988577072"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "1128899172093090204"
+				"size" "1238879151"
+				"download" "988577072"
+			}
+		}
+	}
+	"418810"
+	{
+		"dlcappid" "418810"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9124905136754144422"
+				"size" "618986484"
+				"download" "458156976"
+			}
+			"build1026"
+			{
+				"gid" "2754049657568175333"
+				"size" "618986484"
+				"download" "458157360"
+			}
+			"build610_1"
+			{
+				"gid" "7932697094859267928"
+				"size" "230"
+				"download" "208"
+			}
+			"build616_5"
+			{
+				"gid" "7932697094859267928"
+				"size" "230"
+				"download" "208"
+			}
+			"build623_2"
+			{
+				"gid" "7932697094859267928"
+				"size" "230"
+				"download" "208"
+			}
+			"build629_3"
+			{
+				"gid" "7932697094859267928"
+				"size" "230"
+				"download" "208"
+			}
+			"build638_8"
+			{
+				"gid" "7932697094859267928"
+				"size" "230"
+				"download" "208"
+			}
+			"build647_2"
+			{
+				"gid" "1158568183430913835"
+				"size" "719128756"
+				"download" "557699520"
+			}
+			"build668_1"
+			{
+				"gid" "3437068953382734971"
+				"size" "718847140"
+				"download" "557380544"
+			}
+			"build751_5"
+			{
+				"gid" "8551695293951421511"
+				"size" "616932500"
+				"download" "456502256"
+			}
+			"build753_1"
+			{
+				"gid" "2040214187581675856"
+				"size" "616932516"
+				"download" "456500000"
+			}
+			"build753_2"
+			{
+				"gid" "7477114878335321042"
+				"size" "616932516"
+				"download" "456499632"
+			}
+			"build767_2"
+			{
+				"gid" "7697463739640311411"
+				"size" "616918692"
+				"download" "456498640"
+			}
+			"build770.1"
+			{
+				"gid" "7697463739640311411"
+				"size" "616918692"
+				"download" "456498640"
+			}
+			"build811.3"
+			{
+				"gid" "8421496455179981817"
+				"size" "616919044"
+				"download" "456565488"
+			}
+			"build813"
+			{
+				"gid" "4224542094573082462"
+				"size" "616919044"
+				"download" "456566624"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "9124905136754144422"
+				"size" "618986484"
+				"download" "458156976"
+			}
+		}
+	}
+	"419110"
+	{
+		"dlcappid" "419110"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4202803323130042"
+				"size" "385"
+				"download" "272"
+			}
+			"build1026"
+			{
+				"gid" "4202803323130042"
+				"size" "385"
+				"download" "272"
+			}
+			"build610_1"
+			{
+				"gid" "4202803323130042"
+				"size" "385"
+				"download" "272"
+			}
+			"build616_5"
+			{
+				"gid" "4202803323130042"
+				"size" "385"
+				"download" "272"
+			}
+			"build623_2"
+			{
+				"gid" "4202803323130042"
+				"size" "385"
+				"download" "272"
+			}
+			"build629_3"
+			{
+				"gid" "4202803323130042"
+				"size" "385"
+				"download" "272"
+			}
+			"build638_8"
+			{
+				"gid" "4202803323130042"
+				"size" "385"
+				"download" "272"
+			}
+			"build647_2"
+			{
+				"gid" "4202803323130042"
+				"size" "385"
+				"download" "272"
+			}
+			"build668_1"
+			{
+				"gid" "4202803323130042"
+				"size" "385"
+				"download" "272"
+			}
+			"build751_5"
+			{
+				"gid" "4202803323130042"
+				"size" "385"
+				"download" "272"
+			}
+			"build753_1"
+			{
+				"gid" "4202803323130042"
+				"size" "385"
+				"download" "272"
+			}
+			"build753_2"
+			{
+				"gid" "4202803323130042"
+				"size" "385"
+				"download" "272"
+			}
+			"build767_2"
+			{
+				"gid" "4202803323130042"
+				"size" "385"
+				"download" "272"
+			}
+			"build770.1"
+			{
+				"gid" "4202803323130042"
+				"size" "385"
+				"download" "272"
+			}
+			"build811.3"
+			{
+				"gid" "4202803323130042"
+				"size" "385"
+				"download" "272"
+			}
+			"build813"
+			{
+				"gid" "4202803323130042"
+				"size" "385"
+				"download" "272"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "4202803323130042"
+				"size" "385"
+				"download" "272"
+			}
+		}
+	}
+	"419100"
+	{
+		"dlcappid" "419100"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2121619271757494249"
+				"size" "366"
+				"download" "240"
+			}
+			"build1026"
+			{
+				"gid" "2121619271757494249"
+				"size" "366"
+				"download" "240"
+			}
+			"build610_1"
+			{
+				"gid" "2121619271757494249"
+				"size" "366"
+				"download" "240"
+			}
+			"build616_5"
+			{
+				"gid" "2121619271757494249"
+				"size" "366"
+				"download" "240"
+			}
+			"build623_2"
+			{
+				"gid" "2121619271757494249"
+				"size" "366"
+				"download" "240"
+			}
+			"build629_3"
+			{
+				"gid" "2121619271757494249"
+				"size" "366"
+				"download" "240"
+			}
+			"build638_8"
+			{
+				"gid" "2121619271757494249"
+				"size" "366"
+				"download" "240"
+			}
+			"build647_2"
+			{
+				"gid" "2121619271757494249"
+				"size" "366"
+				"download" "240"
+			}
+			"build668_1"
+			{
+				"gid" "2121619271757494249"
+				"size" "366"
+				"download" "240"
+			}
+			"build751_5"
+			{
+				"gid" "2121619271757494249"
+				"size" "366"
+				"download" "240"
+			}
+			"build753_1"
+			{
+				"gid" "2121619271757494249"
+				"size" "366"
+				"download" "240"
+			}
+			"build753_2"
+			{
+				"gid" "2121619271757494249"
+				"size" "366"
+				"download" "240"
+			}
+			"build767_2"
+			{
+				"gid" "2121619271757494249"
+				"size" "366"
+				"download" "240"
+			}
+			"build770.1"
+			{
+				"gid" "2121619271757494249"
+				"size" "366"
+				"download" "240"
+			}
+			"build811.3"
+			{
+				"gid" "2121619271757494249"
+				"size" "366"
+				"download" "240"
+			}
+			"build813"
+			{
+				"gid" "2121619271757494249"
+				"size" "366"
+				"download" "240"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "2121619271757494249"
+				"size" "366"
+				"download" "240"
+			}
+		}
+	}
+	"391224"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "717555914580032111"
+				"size" "864015276"
+				"download" "652173280"
+			}
+			"build1026"
+			{
+				"gid" "717555914580032111"
+				"size" "864015276"
+				"download" "652173280"
+			}
+			"build610_1"
+			{
+				"gid" "354441992986180780"
+				"size" "864015224"
+				"download" "652173200"
+			}
+			"build616_5"
+			{
+				"gid" "354441992986180780"
+				"size" "864015224"
+				"download" "652173200"
+			}
+			"build623_2"
+			{
+				"gid" "354441992986180780"
+				"size" "864015224"
+				"download" "652173200"
+			}
+			"build629_3"
+			{
+				"gid" "354441992986180780"
+				"size" "864015224"
+				"download" "652173200"
+			}
+			"build638_8"
+			{
+				"gid" "354441992986180780"
+				"size" "864015224"
+				"download" "652173200"
+			}
+			"build647_2"
+			{
+				"gid" "354441992986180780"
+				"size" "864015224"
+				"download" "652173200"
+			}
+			"build668_1"
+			{
+				"gid" "354441992986180780"
+				"size" "864015224"
+				"download" "652173200"
+			}
+			"build751_5"
+			{
+				"gid" "354441992986180780"
+				"size" "864015224"
+				"download" "652173200"
+			}
+			"build753_1"
+			{
+				"gid" "354441992986180780"
+				"size" "864015224"
+				"download" "652173200"
+			}
+			"build753_2"
+			{
+				"gid" "354441992986180780"
+				"size" "864015224"
+				"download" "652173200"
+			}
+			"build767_2"
+			{
+				"gid" "717555914580032111"
+				"size" "864015276"
+				"download" "652173280"
+			}
+			"build770.1"
+			{
+				"gid" "717555914580032111"
+				"size" "864015276"
+				"download" "652173280"
+			}
+			"build811.3"
+			{
+				"gid" "717555914580032111"
+				"size" "864015276"
+				"download" "652173280"
+			}
+			"build813"
+			{
+				"gid" "717555914580032111"
+				"size" "864015276"
+				"download" "652173280"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "717555914580032111"
+				"size" "864015276"
+				"download" "652173280"
+			}
+		}
+	}
+	"391225"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2037862665887144967"
+				"size" "846171132"
+				"download" "634011536"
+			}
+			"build1026"
+			{
+				"gid" "2037862665887144967"
+				"size" "846171132"
+				"download" "634011536"
+			}
+			"build610_1"
+			{
+				"gid" "7383902195121168187"
+				"size" "846171080"
+				"download" "634011456"
+			}
+			"build616_5"
+			{
+				"gid" "7383902195121168187"
+				"size" "846171080"
+				"download" "634011456"
+			}
+			"build623_2"
+			{
+				"gid" "7383902195121168187"
+				"size" "846171080"
+				"download" "634011456"
+			}
+			"build629_3"
+			{
+				"gid" "7383902195121168187"
+				"size" "846171080"
+				"download" "634011456"
+			}
+			"build638_8"
+			{
+				"gid" "7383902195121168187"
+				"size" "846171080"
+				"download" "634011456"
+			}
+			"build647_2"
+			{
+				"gid" "7383902195121168187"
+				"size" "846171080"
+				"download" "634011456"
+			}
+			"build668_1"
+			{
+				"gid" "7383902195121168187"
+				"size" "846171080"
+				"download" "634011456"
+			}
+			"build751_5"
+			{
+				"gid" "7383902195121168187"
+				"size" "846171080"
+				"download" "634011456"
+			}
+			"build753_1"
+			{
+				"gid" "7383902195121168187"
+				"size" "846171080"
+				"download" "634011456"
+			}
+			"build753_2"
+			{
+				"gid" "7383902195121168187"
+				"size" "846171080"
+				"download" "634011456"
+			}
+			"build767_2"
+			{
+				"gid" "2037862665887144967"
+				"size" "846171132"
+				"download" "634011536"
+			}
+			"build770.1"
+			{
+				"gid" "2037862665887144967"
+				"size" "846171132"
+				"download" "634011536"
+			}
+			"build811.3"
+			{
+				"gid" "2037862665887144967"
+				"size" "846171132"
+				"download" "634011536"
+			}
+			"build813"
+			{
+				"gid" "2037862665887144967"
+				"size" "846171132"
+				"download" "634011536"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "2037862665887144967"
+				"size" "846171132"
+				"download" "634011536"
+			}
+		}
+	}
+	"391226"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3228472152809892595"
+				"size" "856412156"
+				"download" "636047088"
+			}
+			"build1026"
+			{
+				"gid" "3228472152809892595"
+				"size" "856412156"
+				"download" "636047088"
+			}
+			"build610_1"
+			{
+				"gid" "3322553251484749194"
+				"size" "856412104"
+				"download" "636047008"
+			}
+			"build616_5"
+			{
+				"gid" "3322553251484749194"
+				"size" "856412104"
+				"download" "636047008"
+			}
+			"build623_2"
+			{
+				"gid" "3322553251484749194"
+				"size" "856412104"
+				"download" "636047008"
+			}
+			"build629_3"
+			{
+				"gid" "3322553251484749194"
+				"size" "856412104"
+				"download" "636047008"
+			}
+			"build638_8"
+			{
+				"gid" "3322553251484749194"
+				"size" "856412104"
+				"download" "636047008"
+			}
+			"build647_2"
+			{
+				"gid" "3322553251484749194"
+				"size" "856412104"
+				"download" "636047008"
+			}
+			"build668_1"
+			{
+				"gid" "3322553251484749194"
+				"size" "856412104"
+				"download" "636047008"
+			}
+			"build751_5"
+			{
+				"gid" "3322553251484749194"
+				"size" "856412104"
+				"download" "636047008"
+			}
+			"build753_1"
+			{
+				"gid" "3322553251484749194"
+				"size" "856412104"
+				"download" "636047008"
+			}
+			"build753_2"
+			{
+				"gid" "3322553251484749194"
+				"size" "856412104"
+				"download" "636047008"
+			}
+			"build767_2"
+			{
+				"gid" "3228472152809892595"
+				"size" "856412156"
+				"download" "636047088"
+			}
+			"build770.1"
+			{
+				"gid" "3228472152809892595"
+				"size" "856412156"
+				"download" "636047088"
+			}
+			"build811.3"
+			{
+				"gid" "3228472152809892595"
+				"size" "856412156"
+				"download" "636047088"
+			}
+			"build813"
+			{
+				"gid" "3228472152809892595"
+				"size" "856412156"
+				"download" "636047088"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "3228472152809892595"
+				"size" "856412156"
+				"download" "636047088"
+			}
+		}
+	}
+	"391227"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2311075211562466793"
+				"size" "858033212"
+				"download" "636278800"
+			}
+			"build1026"
+			{
+				"gid" "2311075211562466793"
+				"size" "858033212"
+				"download" "636278800"
+			}
+			"build610_1"
+			{
+				"gid" "8306050511781814675"
+				"size" "858033160"
+				"download" "636278720"
+			}
+			"build616_5"
+			{
+				"gid" "8306050511781814675"
+				"size" "858033160"
+				"download" "636278720"
+			}
+			"build623_2"
+			{
+				"gid" "8306050511781814675"
+				"size" "858033160"
+				"download" "636278720"
+			}
+			"build629_3"
+			{
+				"gid" "8306050511781814675"
+				"size" "858033160"
+				"download" "636278720"
+			}
+			"build638_8"
+			{
+				"gid" "8306050511781814675"
+				"size" "858033160"
+				"download" "636278720"
+			}
+			"build647_2"
+			{
+				"gid" "8306050511781814675"
+				"size" "858033160"
+				"download" "636278720"
+			}
+			"build668_1"
+			{
+				"gid" "8306050511781814675"
+				"size" "858033160"
+				"download" "636278720"
+			}
+			"build751_5"
+			{
+				"gid" "8306050511781814675"
+				"size" "858033160"
+				"download" "636278720"
+			}
+			"build753_1"
+			{
+				"gid" "8306050511781814675"
+				"size" "858033160"
+				"download" "636278720"
+			}
+			"build753_2"
+			{
+				"gid" "8306050511781814675"
+				"size" "858033160"
+				"download" "636278720"
+			}
+			"build767_2"
+			{
+				"gid" "2311075211562466793"
+				"size" "858033212"
+				"download" "636278800"
+			}
+			"build770.1"
+			{
+				"gid" "2311075211562466793"
+				"size" "858033212"
+				"download" "636278800"
+			}
+			"build811.3"
+			{
+				"gid" "2311075211562466793"
+				"size" "858033212"
+				"download" "636278800"
+			}
+			"build813"
+			{
+				"gid" "2311075211562466793"
+				"size" "858033212"
+				"download" "636278800"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "2311075211562466793"
+				"size" "858033212"
+				"download" "636278800"
+			}
+		}
+	}
+	"391228"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3447789117748845745"
+				"size" "854303516"
+				"download" "637537632"
+			}
+			"build1026"
+			{
+				"gid" "3447789117748845745"
+				"size" "854303516"
+				"download" "637537632"
+			}
+			"build610_1"
+			{
+				"gid" "1425809976127217708"
+				"size" "854303464"
+				"download" "637537552"
+			}
+			"build616_5"
+			{
+				"gid" "1425809976127217708"
+				"size" "854303464"
+				"download" "637537552"
+			}
+			"build623_2"
+			{
+				"gid" "1425809976127217708"
+				"size" "854303464"
+				"download" "637537552"
+			}
+			"build629_3"
+			{
+				"gid" "1425809976127217708"
+				"size" "854303464"
+				"download" "637537552"
+			}
+			"build638_8"
+			{
+				"gid" "1425809976127217708"
+				"size" "854303464"
+				"download" "637537552"
+			}
+			"build647_2"
+			{
+				"gid" "1425809976127217708"
+				"size" "854303464"
+				"download" "637537552"
+			}
+			"build668_1"
+			{
+				"gid" "1425809976127217708"
+				"size" "854303464"
+				"download" "637537552"
+			}
+			"build751_5"
+			{
+				"gid" "1425809976127217708"
+				"size" "854303464"
+				"download" "637537552"
+			}
+			"build753_1"
+			{
+				"gid" "1425809976127217708"
+				"size" "854303464"
+				"download" "637537552"
+			}
+			"build753_2"
+			{
+				"gid" "1425809976127217708"
+				"size" "854303464"
+				"download" "637537552"
+			}
+			"build767_2"
+			{
+				"gid" "3447789117748845745"
+				"size" "854303516"
+				"download" "637537632"
+			}
+			"build770.1"
+			{
+				"gid" "3447789117748845745"
+				"size" "854303516"
+				"download" "637537632"
+			}
+			"build811.3"
+			{
+				"gid" "3447789117748845745"
+				"size" "854303516"
+				"download" "637537632"
+			}
+			"build813"
+			{
+				"gid" "3447789117748845745"
+				"size" "854303516"
+				"download" "637537632"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "3447789117748845745"
+				"size" "854303516"
+				"download" "637537632"
+			}
+		}
+	}
+	"391229"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7526916024548181027"
+				"size" "838812636"
+				"download" "626422032"
+			}
+			"build1026"
+			{
+				"gid" "7526916024548181027"
+				"size" "838812636"
+				"download" "626422032"
+			}
+			"build610_1"
+			{
+				"gid" "2177686572215112190"
+				"size" "838812584"
+				"download" "626421952"
+			}
+			"build616_5"
+			{
+				"gid" "2177686572215112190"
+				"size" "838812584"
+				"download" "626421952"
+			}
+			"build623_2"
+			{
+				"gid" "2177686572215112190"
+				"size" "838812584"
+				"download" "626421952"
+			}
+			"build629_3"
+			{
+				"gid" "2177686572215112190"
+				"size" "838812584"
+				"download" "626421952"
+			}
+			"build638_8"
+			{
+				"gid" "2177686572215112190"
+				"size" "838812584"
+				"download" "626421952"
+			}
+			"build647_2"
+			{
+				"gid" "2177686572215112190"
+				"size" "838812584"
+				"download" "626421952"
+			}
+			"build668_1"
+			{
+				"gid" "2177686572215112190"
+				"size" "838812584"
+				"download" "626421952"
+			}
+			"build751_5"
+			{
+				"gid" "2177686572215112190"
+				"size" "838812584"
+				"download" "626421952"
+			}
+			"build753_1"
+			{
+				"gid" "2177686572215112190"
+				"size" "838812584"
+				"download" "626421952"
+			}
+			"build753_2"
+			{
+				"gid" "2177686572215112190"
+				"size" "838812584"
+				"download" "626421952"
+			}
+			"build767_2"
+			{
+				"gid" "7526916024548181027"
+				"size" "838812636"
+				"download" "626422032"
+			}
+			"build770.1"
+			{
+				"gid" "7526916024548181027"
+				"size" "838812636"
+				"download" "626422032"
+			}
+			"build811.3"
+			{
+				"gid" "7526916024548181027"
+				"size" "838812636"
+				"download" "626422032"
+			}
+			"build813"
+			{
+				"gid" "7526916024548181027"
+				"size" "838812636"
+				"download" "626422032"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "7526916024548181027"
+				"size" "838812636"
+				"download" "626422032"
+			}
+		}
+	}
+	"391230"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8160262224150489223"
+				"size" "855682104"
+				"download" "640351568"
+			}
+			"build1026"
+			{
+				"gid" "8160262224150489223"
+				"size" "855682104"
+				"download" "640351568"
+			}
+			"build610_1"
+			{
+				"gid" "3090749734865773492"
+				"size" "851107480"
+				"download" "636717456"
+			}
+			"build616_5"
+			{
+				"gid" "3090749734865773492"
+				"size" "851107480"
+				"download" "636717456"
+			}
+			"build623_2"
+			{
+				"gid" "3090749734865773492"
+				"size" "851107480"
+				"download" "636717456"
+			}
+			"build629_3"
+			{
+				"gid" "3090749734865773492"
+				"size" "851107480"
+				"download" "636717456"
+			}
+			"build638_8"
+			{
+				"gid" "3090749734865773492"
+				"size" "851107480"
+				"download" "636717456"
+			}
+			"build647_2"
+			{
+				"gid" "3090749734865773492"
+				"size" "851107480"
+				"download" "636717456"
+			}
+			"build668_1"
+			{
+				"gid" "3090749734865773492"
+				"size" "851107480"
+				"download" "636717456"
+			}
+			"build751_5"
+			{
+				"gid" "3090749734865773492"
+				"size" "851107480"
+				"download" "636717456"
+			}
+			"build753_1"
+			{
+				"gid" "3837043429352597434"
+				"size" "855682052"
+				"download" "640351488"
+			}
+			"build753_2"
+			{
+				"gid" "3837043429352597434"
+				"size" "855682052"
+				"download" "640351488"
+			}
+			"build767_2"
+			{
+				"gid" "8160262224150489223"
+				"size" "855682104"
+				"download" "640351568"
+			}
+			"build770.1"
+			{
+				"gid" "8160262224150489223"
+				"size" "855682104"
+				"download" "640351568"
+			}
+			"build811.3"
+			{
+				"gid" "8160262224150489223"
+				"size" "855682104"
+				"download" "640351568"
+			}
+			"build813"
+			{
+				"gid" "8160262224150489223"
+				"size" "855682104"
+				"download" "640351568"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "8160262224150489223"
+				"size" "855682104"
+				"download" "640351568"
+			}
+		}
+	}
+	"391231"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7389939237148851516"
+				"size" "836482044"
+				"download" "612869680"
+			}
+			"build1026"
+			{
+				"gid" "7389939237148851516"
+				"size" "836482044"
+				"download" "612869680"
+			}
+			"build610_1"
+			{
+				"gid" "1400295781665314077"
+				"size" "836481992"
+				"download" "612869600"
+			}
+			"build616_5"
+			{
+				"gid" "1400295781665314077"
+				"size" "836481992"
+				"download" "612869600"
+			}
+			"build623_2"
+			{
+				"gid" "1400295781665314077"
+				"size" "836481992"
+				"download" "612869600"
+			}
+			"build629_3"
+			{
+				"gid" "1400295781665314077"
+				"size" "836481992"
+				"download" "612869600"
+			}
+			"build638_8"
+			{
+				"gid" "1400295781665314077"
+				"size" "836481992"
+				"download" "612869600"
+			}
+			"build647_2"
+			{
+				"gid" "1400295781665314077"
+				"size" "836481992"
+				"download" "612869600"
+			}
+			"build668_1"
+			{
+				"gid" "1400295781665314077"
+				"size" "836481992"
+				"download" "612869600"
+			}
+			"build751_5"
+			{
+				"gid" "1400295781665314077"
+				"size" "836481992"
+				"download" "612869600"
+			}
+			"build753_1"
+			{
+				"gid" "1400295781665314077"
+				"size" "836481992"
+				"download" "612869600"
+			}
+			"build753_2"
+			{
+				"gid" "1400295781665314077"
+				"size" "836481992"
+				"download" "612869600"
+			}
+			"build767_2"
+			{
+				"gid" "7389939237148851516"
+				"size" "836482044"
+				"download" "612869680"
+			}
+			"build770.1"
+			{
+				"gid" "7389939237148851516"
+				"size" "836482044"
+				"download" "612869680"
+			}
+			"build811.3"
+			{
+				"gid" "7389939237148851516"
+				"size" "836482044"
+				"download" "612869680"
+			}
+			"build813"
+			{
+				"gid" "7389939237148851516"
+				"size" "836482044"
+				"download" "612869680"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "7389939237148851516"
+				"size" "836482044"
+				"download" "612869680"
+			}
+		}
+	}
+	"391232"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6995233117885027935"
+				"size" "840141420"
+				"download" "629360784"
+			}
+			"build1026"
+			{
+				"gid" "6995233117885027935"
+				"size" "840141420"
+				"download" "629360784"
+			}
+			"build610_1"
+			{
+				"gid" "2242198962723269127"
+				"size" "840141368"
+				"download" "629360704"
+			}
+			"build616_5"
+			{
+				"gid" "2242198962723269127"
+				"size" "840141368"
+				"download" "629360704"
+			}
+			"build623_2"
+			{
+				"gid" "2242198962723269127"
+				"size" "840141368"
+				"download" "629360704"
+			}
+			"build629_3"
+			{
+				"gid" "2242198962723269127"
+				"size" "840141368"
+				"download" "629360704"
+			}
+			"build638_8"
+			{
+				"gid" "2242198962723269127"
+				"size" "840141368"
+				"download" "629360704"
+			}
+			"build647_2"
+			{
+				"gid" "2242198962723269127"
+				"size" "840141368"
+				"download" "629360704"
+			}
+			"build668_1"
+			{
+				"gid" "2242198962723269127"
+				"size" "840141368"
+				"download" "629360704"
+			}
+			"build751_5"
+			{
+				"gid" "2242198962723269127"
+				"size" "840141368"
+				"download" "629360704"
+			}
+			"build753_1"
+			{
+				"gid" "2242198962723269127"
+				"size" "840141368"
+				"download" "629360704"
+			}
+			"build753_2"
+			{
+				"gid" "2242198962723269127"
+				"size" "840141368"
+				"download" "629360704"
+			}
+			"build767_2"
+			{
+				"gid" "6995233117885027935"
+				"size" "840141420"
+				"download" "629360784"
+			}
+			"build770.1"
+			{
+				"gid" "6995233117885027935"
+				"size" "840141420"
+				"download" "629360784"
+			}
+			"build811.3"
+			{
+				"gid" "6995233117885027935"
+				"size" "840141420"
+				"download" "629360784"
+			}
+			"build813"
+			{
+				"gid" "6995233117885027935"
+				"size" "840141420"
+				"download" "629360784"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "6995233117885027935"
+				"size" "840141420"
+				"download" "629360784"
+			}
+		}
+	}
+	"391233"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3407217971734066887"
+				"size" "850650524"
+				"download" "614822064"
+			}
+			"build1026"
+			{
+				"gid" "3407217971734066887"
+				"size" "850650524"
+				"download" "614822064"
+			}
+			"build610_1"
+			{
+				"gid" "1386290745168988109"
+				"size" "850650472"
+				"download" "614821984"
+			}
+			"build616_5"
+			{
+				"gid" "1386290745168988109"
+				"size" "850650472"
+				"download" "614821984"
+			}
+			"build623_2"
+			{
+				"gid" "1386290745168988109"
+				"size" "850650472"
+				"download" "614821984"
+			}
+			"build629_3"
+			{
+				"gid" "1386290745168988109"
+				"size" "850650472"
+				"download" "614821984"
+			}
+			"build638_8"
+			{
+				"gid" "1386290745168988109"
+				"size" "850650472"
+				"download" "614821984"
+			}
+			"build647_2"
+			{
+				"gid" "1386290745168988109"
+				"size" "850650472"
+				"download" "614821984"
+			}
+			"build668_1"
+			{
+				"gid" "1386290745168988109"
+				"size" "850650472"
+				"download" "614821984"
+			}
+			"build751_5"
+			{
+				"gid" "1386290745168988109"
+				"size" "850650472"
+				"download" "614821984"
+			}
+			"build753_1"
+			{
+				"gid" "1386290745168988109"
+				"size" "850650472"
+				"download" "614821984"
+			}
+			"build753_2"
+			{
+				"gid" "1386290745168988109"
+				"size" "850650472"
+				"download" "614821984"
+			}
+			"build767_2"
+			{
+				"gid" "3407217971734066887"
+				"size" "850650524"
+				"download" "614822064"
+			}
+			"build770.1"
+			{
+				"gid" "3407217971734066887"
+				"size" "850650524"
+				"download" "614822064"
+			}
+			"build811.3"
+			{
+				"gid" "3407217971734066887"
+				"size" "850650524"
+				"download" "614822064"
+			}
+			"build813"
+			{
+				"gid" "3407217971734066887"
+				"size" "850650524"
+				"download" "614822064"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "3407217971734066887"
+				"size" "850650524"
+				"download" "614822064"
+			}
+		}
+	}
+	"391234"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6791409369597795897"
+				"size" "842982508"
+				"download" "610278176"
+			}
+			"build1026"
+			{
+				"gid" "6791409369597795897"
+				"size" "842982508"
+				"download" "610278176"
+			}
+			"build610_1"
+			{
+				"gid" "7644353386870782186"
+				"size" "842982456"
+				"download" "610278096"
+			}
+			"build616_5"
+			{
+				"gid" "7644353386870782186"
+				"size" "842982456"
+				"download" "610278096"
+			}
+			"build623_2"
+			{
+				"gid" "7644353386870782186"
+				"size" "842982456"
+				"download" "610278096"
+			}
+			"build629_3"
+			{
+				"gid" "7644353386870782186"
+				"size" "842982456"
+				"download" "610278096"
+			}
+			"build638_8"
+			{
+				"gid" "7644353386870782186"
+				"size" "842982456"
+				"download" "610278096"
+			}
+			"build647_2"
+			{
+				"gid" "7644353386870782186"
+				"size" "842982456"
+				"download" "610278096"
+			}
+			"build668_1"
+			{
+				"gid" "7644353386870782186"
+				"size" "842982456"
+				"download" "610278096"
+			}
+			"build751_5"
+			{
+				"gid" "7644353386870782186"
+				"size" "842982456"
+				"download" "610278096"
+			}
+			"build753_1"
+			{
+				"gid" "7644353386870782186"
+				"size" "842982456"
+				"download" "610278096"
+			}
+			"build753_2"
+			{
+				"gid" "7644353386870782186"
+				"size" "842982456"
+				"download" "610278096"
+			}
+			"build767_2"
+			{
+				"gid" "6791409369597795897"
+				"size" "842982508"
+				"download" "610278176"
+			}
+			"build770.1"
+			{
+				"gid" "6791409369597795897"
+				"size" "842982508"
+				"download" "610278176"
+			}
+			"build811.3"
+			{
+				"gid" "6791409369597795897"
+				"size" "842982508"
+				"download" "610278176"
+			}
+			"build813"
+			{
+				"gid" "6791409369597795897"
+				"size" "842982508"
+				"download" "610278176"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "6791409369597795897"
+				"size" "842982508"
+				"download" "610278176"
+			}
+		}
+	}
+	"391235"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "928597437214822380"
+				"size" "856990444"
+				"download" "644914640"
+			}
+			"build1026"
+			{
+				"gid" "928597437214822380"
+				"size" "856990444"
+				"download" "644914640"
+			}
+			"build610_1"
+			{
+				"gid" "1269310743637860708"
+				"size" "856990392"
+				"download" "644914560"
+			}
+			"build616_5"
+			{
+				"gid" "1269310743637860708"
+				"size" "856990392"
+				"download" "644914560"
+			}
+			"build623_2"
+			{
+				"gid" "1269310743637860708"
+				"size" "856990392"
+				"download" "644914560"
+			}
+			"build629_3"
+			{
+				"gid" "1269310743637860708"
+				"size" "856990392"
+				"download" "644914560"
+			}
+			"build638_8"
+			{
+				"gid" "1269310743637860708"
+				"size" "856990392"
+				"download" "644914560"
+			}
+			"build647_2"
+			{
+				"gid" "1269310743637860708"
+				"size" "856990392"
+				"download" "644914560"
+			}
+			"build668_1"
+			{
+				"gid" "1269310743637860708"
+				"size" "856990392"
+				"download" "644914560"
+			}
+			"build751_5"
+			{
+				"gid" "1269310743637860708"
+				"size" "856990392"
+				"download" "644914560"
+			}
+			"build753_1"
+			{
+				"gid" "1269310743637860708"
+				"size" "856990392"
+				"download" "644914560"
+			}
+			"build753_2"
+			{
+				"gid" "1269310743637860708"
+				"size" "856990392"
+				"download" "644914560"
+			}
+			"build767_2"
+			{
+				"gid" "928597437214822380"
+				"size" "856990444"
+				"download" "644914640"
+			}
+			"build770.1"
+			{
+				"gid" "928597437214822380"
+				"size" "856990444"
+				"download" "644914640"
+			}
+			"build811.3"
+			{
+				"gid" "928597437214822380"
+				"size" "856990444"
+				"download" "644914640"
+			}
+			"build813"
+			{
+				"gid" "928597437214822380"
+				"size" "856990444"
+				"download" "644914640"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "928597437214822380"
+				"size" "856990444"
+				"download" "644914640"
+			}
+		}
+	}
+	"391236"
+	{
+		"config"
+		{
+			"language" "dutch"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "56077480204299671"
+				"size" "0"
+				"download" "0"
+			}
+			"build1026"
+			{
+				"gid" "56077480204299671"
+				"size" "0"
+				"download" "0"
+			}
+			"build610_1"
+			{
+				"gid" "56077480204299671"
+				"size" "0"
+				"download" "0"
+			}
+			"build616_5"
+			{
+				"gid" "56077480204299671"
+				"size" "0"
+				"download" "0"
+			}
+			"build623_2"
+			{
+				"gid" "56077480204299671"
+				"size" "0"
+				"download" "0"
+			}
+			"build629_3"
+			{
+				"gid" "56077480204299671"
+				"size" "0"
+				"download" "0"
+			}
+			"build638_8"
+			{
+				"gid" "56077480204299671"
+				"size" "0"
+				"download" "0"
+			}
+			"build647_2"
+			{
+				"gid" "56077480204299671"
+				"size" "0"
+				"download" "0"
+			}
+			"build668_1"
+			{
+				"gid" "56077480204299671"
+				"size" "0"
+				"download" "0"
+			}
+			"build751_5"
+			{
+				"gid" "56077480204299671"
+				"size" "0"
+				"download" "0"
+			}
+			"build753_1"
+			{
+				"gid" "56077480204299671"
+				"size" "0"
+				"download" "0"
+			}
+			"build753_2"
+			{
+				"gid" "56077480204299671"
+				"size" "0"
+				"download" "0"
+			}
+			"build767_2"
+			{
+				"gid" "56077480204299671"
+				"size" "0"
+				"download" "0"
+			}
+			"build770.1"
+			{
+				"gid" "56077480204299671"
+				"size" "0"
+				"download" "0"
+			}
+			"build811.3"
+			{
+				"gid" "56077480204299671"
+				"size" "0"
+				"download" "0"
+			}
+			"build813"
+			{
+				"gid" "56077480204299671"
+				"size" "0"
+				"download" "0"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "56077480204299671"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"391237"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3363089993390661518"
+				"size" "856261740"
+				"download" "640450576"
+			}
+			"build1026"
+			{
+				"gid" "3363089993390661518"
+				"size" "856261740"
+				"download" "640450576"
+			}
+			"build610_1"
+			{
+				"gid" "2608123707708096443"
+				"size" "856261688"
+				"download" "640450496"
+			}
+			"build616_5"
+			{
+				"gid" "2608123707708096443"
+				"size" "856261688"
+				"download" "640450496"
+			}
+			"build623_2"
+			{
+				"gid" "2608123707708096443"
+				"size" "856261688"
+				"download" "640450496"
+			}
+			"build629_3"
+			{
+				"gid" "2608123707708096443"
+				"size" "856261688"
+				"download" "640450496"
+			}
+			"build638_8"
+			{
+				"gid" "2608123707708096443"
+				"size" "856261688"
+				"download" "640450496"
+			}
+			"build647_2"
+			{
+				"gid" "2608123707708096443"
+				"size" "856261688"
+				"download" "640450496"
+			}
+			"build668_1"
+			{
+				"gid" "2608123707708096443"
+				"size" "856261688"
+				"download" "640450496"
+			}
+			"build751_5"
+			{
+				"gid" "2608123707708096443"
+				"size" "856261688"
+				"download" "640450496"
+			}
+			"build753_1"
+			{
+				"gid" "2608123707708096443"
+				"size" "856261688"
+				"download" "640450496"
+			}
+			"build753_2"
+			{
+				"gid" "2608123707708096443"
+				"size" "856261688"
+				"download" "640450496"
+			}
+			"build767_2"
+			{
+				"gid" "3363089993390661518"
+				"size" "856261740"
+				"download" "640450576"
+			}
+			"build770.1"
+			{
+				"gid" "3363089993390661518"
+				"size" "856261740"
+				"download" "640450576"
+			}
+			"build811.3"
+			{
+				"gid" "3363089993390661518"
+				"size" "856261740"
+				"download" "640450576"
+			}
+			"build813"
+			{
+				"gid" "3363089993390661518"
+				"size" "856261740"
+				"download" "640450576"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "3363089993390661518"
+				"size" "856261740"
+				"download" "640450576"
+			}
+		}
+	}
+	"391238"
+	{
+		"dlcappid" "437800"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5737154611580587931"
+				"size" "213"
+				"download" "192"
+			}
+			"build1026"
+			{
+				"gid" "5737154611580587931"
+				"size" "213"
+				"download" "192"
+			}
+			"build610_1"
+			{
+				"gid" "5737154611580587931"
+				"size" "213"
+				"download" "192"
+			}
+			"build616_5"
+			{
+				"gid" "5737154611580587931"
+				"size" "213"
+				"download" "192"
+			}
+			"build623_2"
+			{
+				"gid" "5737154611580587931"
+				"size" "213"
+				"download" "192"
+			}
+			"build629_3"
+			{
+				"gid" "5737154611580587931"
+				"size" "213"
+				"download" "192"
+			}
+			"build638_8"
+			{
+				"gid" "5737154611580587931"
+				"size" "213"
+				"download" "192"
+			}
+			"build647_2"
+			{
+				"gid" "5737154611580587931"
+				"size" "213"
+				"download" "192"
+			}
+			"build668_1"
+			{
+				"gid" "5737154611580587931"
+				"size" "213"
+				"download" "192"
+			}
+			"build751_5"
+			{
+				"gid" "5737154611580587931"
+				"size" "213"
+				"download" "192"
+			}
+			"build753_1"
+			{
+				"gid" "5737154611580587931"
+				"size" "213"
+				"download" "192"
+			}
+			"build753_2"
+			{
+				"gid" "5737154611580587931"
+				"size" "213"
+				"download" "192"
+			}
+			"build767_2"
+			{
+				"gid" "5737154611580587931"
+				"size" "213"
+				"download" "192"
+			}
+			"build770.1"
+			{
+				"gid" "5737154611580587931"
+				"size" "213"
+				"download" "192"
+			}
+			"build811.3"
+			{
+				"gid" "5737154611580587931"
+				"size" "213"
+				"download" "192"
+			}
+			"build813"
+			{
+				"gid" "5737154611580587931"
+				"size" "213"
+				"download" "192"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "5737154611580587931"
+				"size" "213"
+				"download" "192"
+			}
+		}
+	}
+	"391239"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6943434998710716879"
+				"size" "195766684"
+				"download" "172888592"
+			}
+			"build1026"
+			{
+				"gid" "6943434998710716879"
+				"size" "195766684"
+				"download" "172888592"
+			}
+			"build610_1"
+			{
+				"gid" "1267163227465610677"
+				"size" "195461148"
+				"download" "172681200"
+			}
+			"build616_5"
+			{
+				"gid" "1267163227465610677"
+				"size" "195461148"
+				"download" "172681200"
+			}
+			"build623_2"
+			{
+				"gid" "1267163227465610677"
+				"size" "195461148"
+				"download" "172681200"
+			}
+			"build629_3"
+			{
+				"gid" "1267163227465610677"
+				"size" "195461148"
+				"download" "172681200"
+			}
+			"build638_8"
+			{
+				"gid" "1267163227465610677"
+				"size" "195461148"
+				"download" "172681200"
+			}
+			"build647_2"
+			{
+				"gid" "1267163227465610677"
+				"size" "195461148"
+				"download" "172681200"
+			}
+			"build668_1"
+			{
+				"gid" "1267163227465610677"
+				"size" "195461148"
+				"download" "172681200"
+			}
+			"build751_5"
+			{
+				"gid" "4099256420770038513"
+				"size" "195766632"
+				"download" "172888512"
+			}
+			"build753_1"
+			{
+				"gid" "4099256420770038513"
+				"size" "195766632"
+				"download" "172888512"
+			}
+			"build753_2"
+			{
+				"gid" "4099256420770038513"
+				"size" "195766632"
+				"download" "172888512"
+			}
+			"build767_2"
+			{
+				"gid" "6943434998710716879"
+				"size" "195766684"
+				"download" "172888592"
+			}
+			"build770.1"
+			{
+				"gid" "6943434998710716879"
+				"size" "195766684"
+				"download" "172888592"
+			}
+			"build811.3"
+			{
+				"gid" "6943434998710716879"
+				"size" "195766684"
+				"download" "172888592"
+			}
+			"build813"
+			{
+				"gid" "6943434998710716879"
+				"size" "195766684"
+				"download" "172888592"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "6943434998710716879"
+				"size" "195766684"
+				"download" "172888592"
+			}
+		}
+	}
+	"505540"
+	{
+		"dlcappid" "505540"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "280490579396787619"
+				"size" "1897461476"
+				"download" "1671937664"
+			}
+			"build1026"
+			{
+				"gid" "5281924109299227137"
+				"size" "1897461476"
+				"download" "1671936432"
+			}
+			"build751_5"
+			{
+				"gid" "1071118176117234611"
+				"size" "1875962708"
+				"download" "1656537296"
+			}
+			"build753_1"
+			{
+				"gid" "7653705988075643202"
+				"size" "1875962788"
+				"download" "1656538432"
+			}
+			"build753_2"
+			{
+				"gid" "8821136758681029535"
+				"size" "1875962788"
+				"download" "1656537424"
+			}
+			"build767_2"
+			{
+				"gid" "7220603037958960926"
+				"size" "1875935092"
+				"download" "1656538016"
+			}
+			"build770.1"
+			{
+				"gid" "7220603037958960926"
+				"size" "1875935092"
+				"download" "1656538016"
+			}
+			"build811.3"
+			{
+				"gid" "7592296982342467142"
+				"size" "1893896708"
+				"download" "1668451008"
+			}
+			"build813"
+			{
+				"gid" "5505063216334654974"
+				"size" "1893897380"
+				"download" "1668455008"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "280490579396787619"
+				"size" "1897461476"
+				"download" "1671937664"
+			}
+		}
+	}
+	"541750"
+	{
+		"dlcappid" "541750"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2547732432675892584"
+				"size" "302"
+				"download" "240"
+			}
+			"build1026"
+			{
+				"gid" "2547732432675892584"
+				"size" "302"
+				"download" "240"
+			}
+			"build753_1"
+			{
+				"gid" "4776368936258768878"
+				"size" "302"
+				"download" "240"
+			}
+			"build753_2"
+			{
+				"gid" "2547732432675892584"
+				"size" "302"
+				"download" "240"
+			}
+			"build767_2"
+			{
+				"gid" "2547732432675892584"
+				"size" "302"
+				"download" "240"
+			}
+			"build770.1"
+			{
+				"gid" "2547732432675892584"
+				"size" "302"
+				"download" "240"
+			}
+			"build811.3"
+			{
+				"gid" "2547732432675892584"
+				"size" "302"
+				"download" "240"
+			}
+			"build813"
+			{
+				"gid" "2547732432675892584"
+				"size" "302"
+				"download" "240"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "2547732432675892584"
+				"size" "302"
+				"download" "240"
+			}
+		}
+	}
+	"406201"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2449526556645486645"
+				"size" "20471816605"
+				"download" "18896497168"
+			}
+			"build1026"
+			{
+				"gid" "2449526556645486645"
+				"size" "20471816605"
+				"download" "18896497168"
+			}
+			"build813"
+			{
+				"gid" "2449526556645486645"
+				"size" "20471816605"
+				"download" "18896497168"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "2449526556645486645"
+				"size" "20471816605"
+				"download" "18896497168"
+			}
+		}
+	}
+	"406202"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2105459422924640653"
+				"size" "194021043"
+				"download" "110903808"
+			}
+			"build1026"
+			{
+				"gid" "2105459422924640653"
+				"size" "194021043"
+				"download" "110903808"
+			}
+			"build813"
+			{
+				"gid" "2105459422924640653"
+				"size" "194021043"
+				"download" "110903808"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "2105459422924640653"
+				"size" "194021043"
+				"download" "110903808"
+			}
+		}
+	}
+	"406203"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"406204"
+	{
+		"dlcappid" "418700"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "235011932828729614"
+				"size" "397"
+				"download" "256"
+			}
+			"build1026"
+			{
+				"gid" "235011932828729614"
+				"size" "397"
+				"download" "256"
+			}
+			"build813"
+			{
+				"gid" "235011932828729614"
+				"size" "397"
+				"download" "256"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "235011932828729614"
+				"size" "397"
+				"download" "256"
+			}
+		}
+	}
+	"406205"
+	{
+		"dlcappid" "418690"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "92092700736411187"
+				"size" "375"
+				"download" "240"
+			}
+			"build1026"
+			{
+				"gid" "92092700736411187"
+				"size" "375"
+				"download" "240"
+			}
+			"build813"
+			{
+				"gid" "92092700736411187"
+				"size" "375"
+				"download" "240"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "92092700736411187"
+				"size" "375"
+				"download" "240"
+			}
+		}
+	}
+	"406206"
+	{
+		"dlcappid" "418710"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "86883524746510348"
+				"size" "387"
+				"download" "256"
+			}
+			"build1026"
+			{
+				"gid" "86883524746510348"
+				"size" "387"
+				"download" "256"
+			}
+			"build813"
+			{
+				"gid" "86883524746510348"
+				"size" "387"
+				"download" "256"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "86883524746510348"
+				"size" "387"
+				"download" "256"
+			}
+		}
+	}
+	"406207"
+	{
+		"dlcappid" "418680"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "207342535593864879"
+				"size" "371"
+				"download" "240"
+			}
+			"build1026"
+			{
+				"gid" "207342535593864879"
+				"size" "371"
+				"download" "240"
+			}
+			"build813"
+			{
+				"gid" "207342535593864879"
+				"size" "371"
+				"download" "240"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "207342535593864879"
+				"size" "371"
+				"download" "240"
+			}
+		}
+	}
+	"406208"
+	{
+		"dlcappid" "418730"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "746610439938017140"
+				"size" "387"
+				"download" "256"
+			}
+			"build1026"
+			{
+				"gid" "746610439938017140"
+				"size" "387"
+				"download" "256"
+			}
+			"build813"
+			{
+				"gid" "746610439938017140"
+				"size" "387"
+				"download" "256"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "746610439938017140"
+				"size" "387"
+				"download" "256"
+			}
+		}
+	}
+	"406209"
+	{
+		"dlcappid" "418750"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "165830735221096045"
+				"size" "426"
+				"download" "272"
+			}
+			"build1026"
+			{
+				"gid" "165830735221096045"
+				"size" "426"
+				"download" "272"
+			}
+			"build813"
+			{
+				"gid" "165830735221096045"
+				"size" "426"
+				"download" "272"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "165830735221096045"
+				"size" "426"
+				"download" "272"
+			}
+		}
+	}
+	"418681"
+	{
+		"dlcappid" "418740"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "256325867979355363"
+				"size" "387"
+				"download" "256"
+			}
+			"build1026"
+			{
+				"gid" "256325867979355363"
+				"size" "387"
+				"download" "256"
+			}
+			"build813"
+			{
+				"gid" "256325867979355363"
+				"size" "387"
+				"download" "256"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "256325867979355363"
+				"size" "387"
+				"download" "256"
+			}
+		}
+	}
+	"418682"
+	{
+		"dlcappid" "418790"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1028611266795863913"
+				"size" "553832200"
+				"download" "400378576"
+			}
+			"build1026"
+			{
+				"gid" "1028611266795863913"
+				"size" "553832200"
+				"download" "400378576"
+			}
+			"build813"
+			{
+				"gid" "1028611266795863913"
+				"size" "553832200"
+				"download" "400378576"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "1028611266795863913"
+				"size" "553832200"
+				"download" "400378576"
+			}
+		}
+	}
+	"418683"
+	{
+		"dlcappid" "418780"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "755832660793684514"
+				"size" "414"
+				"download" "256"
+			}
+			"build1026"
+			{
+				"gid" "755832660793684514"
+				"size" "414"
+				"download" "256"
+			}
+			"build813"
+			{
+				"gid" "755832660793684514"
+				"size" "414"
+				"download" "256"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "755832660793684514"
+				"size" "414"
+				"download" "256"
+			}
+		}
+	}
+	"418684"
+	{
+		"dlcappid" "418770"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "234748042072976737"
+				"size" "430"
+				"download" "256"
+			}
+			"build1026"
+			{
+				"gid" "234748042072976737"
+				"size" "430"
+				"download" "256"
+			}
+			"build813"
+			{
+				"gid" "234748042072976737"
+				"size" "430"
+				"download" "256"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "234748042072976737"
+				"size" "430"
+				"download" "256"
+			}
+		}
+	}
+	"418685"
+	{
+		"dlcappid" "418760"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "688684846377209851"
+				"size" "418"
+				"download" "256"
+			}
+			"build1026"
+			{
+				"gid" "688684846377209851"
+				"size" "418"
+				"download" "256"
+			}
+			"build813"
+			{
+				"gid" "688684846377209851"
+				"size" "418"
+				"download" "256"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "688684846377209851"
+				"size" "418"
+				"download" "256"
+			}
+		}
+	}
+	"418686"
+	{
+		"dlcappid" "418800"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "72631022377414561"
+				"size" "1238879151"
+				"download" "988589872"
+			}
+			"build1026"
+			{
+				"gid" "72631022377414561"
+				"size" "1238879151"
+				"download" "988589872"
+			}
+			"build813"
+			{
+				"gid" "72631022377414561"
+				"size" "1238879151"
+				"download" "988589872"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "72631022377414561"
+				"size" "1238879151"
+				"download" "988589872"
+			}
+		}
+	}
+	"418687"
+	{
+		"dlcappid" "418810"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "873409895737513332"
+				"size" "616919044"
+				"download" "456703504"
+			}
+			"build1026"
+			{
+				"gid" "873409895737513332"
+				"size" "616919044"
+				"download" "456703504"
+			}
+			"build813"
+			{
+				"gid" "873409895737513332"
+				"size" "616919044"
+				"download" "456703504"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "873409895737513332"
+				"size" "616919044"
+				"download" "456703504"
+			}
+		}
+	}
+	"418688"
+	{
+		"dlcappid" "419110"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "57474434102667673"
+				"size" "385"
+				"download" "272"
+			}
+			"build1026"
+			{
+				"gid" "57474434102667673"
+				"size" "385"
+				"download" "272"
+			}
+			"build813"
+			{
+				"gid" "57474434102667673"
+				"size" "385"
+				"download" "272"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "57474434102667673"
+				"size" "385"
+				"download" "272"
+			}
+		}
+	}
+	"418689"
+	{
+		"dlcappid" "419100"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "16034772061691267"
+				"size" "366"
+				"download" "240"
+			}
+			"build1026"
+			{
+				"gid" "16034772061691267"
+				"size" "366"
+				"download" "240"
+			}
+			"build813"
+			{
+				"gid" "16034772061691267"
+				"size" "366"
+				"download" "240"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "16034772061691267"
+				"size" "366"
+				"download" "240"
+			}
+		}
+	}
+	"418691"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "263178854118548478"
+				"size" "864015276"
+				"download" "652173280"
+			}
+			"build1026"
+			{
+				"gid" "263178854118548478"
+				"size" "864015276"
+				"download" "652173280"
+			}
+			"build813"
+			{
+				"gid" "263178854118548478"
+				"size" "864015276"
+				"download" "652173280"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "263178854118548478"
+				"size" "864015276"
+				"download" "652173280"
+			}
+		}
+	}
+	"418692"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "17026752736112632"
+				"size" "846171132"
+				"download" "634011536"
+			}
+			"build1026"
+			{
+				"gid" "17026752736112632"
+				"size" "846171132"
+				"download" "634011536"
+			}
+			"build813"
+			{
+				"gid" "17026752736112632"
+				"size" "846171132"
+				"download" "634011536"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "17026752736112632"
+				"size" "846171132"
+				"download" "634011536"
+			}
+		}
+	}
+	"418693"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "205345161368202436"
+				"size" "856412156"
+				"download" "636047088"
+			}
+			"build1026"
+			{
+				"gid" "205345161368202436"
+				"size" "856412156"
+				"download" "636047088"
+			}
+			"build813"
+			{
+				"gid" "205345161368202436"
+				"size" "856412156"
+				"download" "636047088"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "205345161368202436"
+				"size" "856412156"
+				"download" "636047088"
+			}
+		}
+	}
+	"418694"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "169309165006712900"
+				"size" "858033212"
+				"download" "636278800"
+			}
+			"build1026"
+			{
+				"gid" "169309165006712900"
+				"size" "858033212"
+				"download" "636278800"
+			}
+			"build813"
+			{
+				"gid" "169309165006712900"
+				"size" "858033212"
+				"download" "636278800"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "169309165006712900"
+				"size" "858033212"
+				"download" "636278800"
+			}
+		}
+	}
+	"418695"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "159807319806050175"
+				"size" "854303516"
+				"download" "637537632"
+			}
+			"build1026"
+			{
+				"gid" "159807319806050175"
+				"size" "854303516"
+				"download" "637537632"
+			}
+			"build813"
+			{
+				"gid" "159807319806050175"
+				"size" "854303516"
+				"download" "637537632"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "159807319806050175"
+				"size" "854303516"
+				"download" "637537632"
+			}
+		}
+	}
+	"418696"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "287462484679590851"
+				"size" "838812636"
+				"download" "626422032"
+			}
+			"build1026"
+			{
+				"gid" "287462484679590851"
+				"size" "838812636"
+				"download" "626422032"
+			}
+			"build813"
+			{
+				"gid" "287462484679590851"
+				"size" "838812636"
+				"download" "626422032"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "287462484679590851"
+				"size" "838812636"
+				"download" "626422032"
+			}
+		}
+	}
+	"418697"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "24259875548083893"
+				"size" "855682104"
+				"download" "640351568"
+			}
+			"build1026"
+			{
+				"gid" "24259875548083893"
+				"size" "855682104"
+				"download" "640351568"
+			}
+			"build813"
+			{
+				"gid" "24259875548083893"
+				"size" "855682104"
+				"download" "640351568"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "24259875548083893"
+				"size" "855682104"
+				"download" "640351568"
+			}
+		}
+	}
+	"418698"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "358921103046038785"
+				"size" "836482044"
+				"download" "612869680"
+			}
+			"build1026"
+			{
+				"gid" "358921103046038785"
+				"size" "836482044"
+				"download" "612869680"
+			}
+			"build813"
+			{
+				"gid" "358921103046038785"
+				"size" "836482044"
+				"download" "612869680"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "358921103046038785"
+				"size" "836482044"
+				"download" "612869680"
+			}
+		}
+	}
+	"418699"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "23918736631012744"
+				"size" "840141420"
+				"download" "629360784"
+			}
+			"build1026"
+			{
+				"gid" "23918736631012744"
+				"size" "840141420"
+				"download" "629360784"
+			}
+			"build813"
+			{
+				"gid" "23918736631012744"
+				"size" "840141420"
+				"download" "629360784"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "23918736631012744"
+				"size" "840141420"
+				"download" "629360784"
+			}
+		}
+	}
+	"418701"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "484963426894976687"
+				"size" "850650524"
+				"download" "614822064"
+			}
+			"build1026"
+			{
+				"gid" "484963426894976687"
+				"size" "850650524"
+				"download" "614822064"
+			}
+			"build813"
+			{
+				"gid" "484963426894976687"
+				"size" "850650524"
+				"download" "614822064"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "484963426894976687"
+				"size" "850650524"
+				"download" "614822064"
+			}
+		}
+	}
+	"418702"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "55177290492148553"
+				"size" "842982508"
+				"download" "610278176"
+			}
+			"build1026"
+			{
+				"gid" "55177290492148553"
+				"size" "842982508"
+				"download" "610278176"
+			}
+			"build813"
+			{
+				"gid" "55177290492148553"
+				"size" "842982508"
+				"download" "610278176"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "55177290492148553"
+				"size" "842982508"
+				"download" "610278176"
+			}
+		}
+	}
+	"418703"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "146868625520025557"
+				"size" "856990444"
+				"download" "644914640"
+			}
+			"build1026"
+			{
+				"gid" "146868625520025557"
+				"size" "856990444"
+				"download" "644914640"
+			}
+			"build813"
+			{
+				"gid" "146868625520025557"
+				"size" "856990444"
+				"download" "644914640"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "146868625520025557"
+				"size" "856990444"
+				"download" "644914640"
+			}
+		}
+	}
+	"418704"
+	{
+		"config"
+		{
+			"language" "dutch"
+			"oslist" "macos"
+		}
+	}
+	"418705"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "659327018627932221"
+				"size" "856261740"
+				"download" "640450576"
+			}
+			"build1026"
+			{
+				"gid" "659327018627932221"
+				"size" "856261740"
+				"download" "640450576"
+			}
+			"build813"
+			{
+				"gid" "659327018627932221"
+				"size" "856261740"
+				"download" "640450576"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "659327018627932221"
+				"size" "856261740"
+				"download" "640450576"
+			}
+		}
+	}
+	"418706"
+	{
+		"dlcappid" "437800"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "298905414625688581"
+				"size" "213"
+				"download" "192"
+			}
+			"build1026"
+			{
+				"gid" "298905414625688581"
+				"size" "213"
+				"download" "192"
+			}
+			"build813"
+			{
+				"gid" "298905414625688581"
+				"size" "213"
+				"download" "192"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "298905414625688581"
+				"size" "213"
+				"download" "192"
+			}
+		}
+	}
+	"418707"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6272051870745712588"
+				"size" "187277188"
+				"download" "166492624"
+			}
+			"build1026"
+			{
+				"gid" "6272051870745712588"
+				"size" "187277188"
+				"download" "166492624"
+			}
+			"build813"
+			{
+				"gid" "6272051870745712588"
+				"size" "187277188"
+				"download" "166492624"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "6272051870745712588"
+				"size" "187277188"
+				"download" "166492624"
+			}
+		}
+	}
+	"418708"
+	{
+		"dlcappid" "505540"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "451826079657370082"
+				"size" "1893897380"
+				"download" "1668509376"
+			}
+			"build1026"
+			{
+				"gid" "451826079657370082"
+				"size" "1893897380"
+				"download" "1668509376"
+			}
+			"build813"
+			{
+				"gid" "451826079657370082"
+				"size" "1893897380"
+				"download" "1668509376"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "451826079657370082"
+				"size" "1893897380"
+				"download" "1668509376"
+			}
+		}
+	}
+	"418709"
+	{
+		"dlcappid" "541750"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "519081546379224304"
+				"size" "302"
+				"download" "240"
+			}
+			"build1026"
+			{
+				"gid" "519081546379224304"
+				"size" "302"
+				"download" "240"
+			}
+			"build813"
+			{
+				"gid" "519081546379224304"
+				"size" "302"
+				"download" "240"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "519081546379224304"
+				"size" "302"
+				"download" "240"
+			}
+		}
+	}
+	"418711"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5640750343099000175"
+				"size" "20471816605"
+				"download" "18894962688"
+			}
+			"build1026"
+			{
+				"gid" "5640750343099000175"
+				"size" "20471816605"
+				"download" "18894962688"
+			}
+			"build813"
+			{
+				"gid" "5640750343099000175"
+				"size" "20471816605"
+				"download" "18894962688"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "4462311119421337161"
+				"size" "20471816605"
+				"download" "18894962688"
+			}
+		}
+	}
+	"418712"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7392977764999912661"
+				"size" "366801058"
+				"download" "161001904"
+			}
+			"build1026"
+			{
+				"gid" "7392977764999912661"
+				"size" "366801058"
+				"download" "161001904"
+			}
+			"build813"
+			{
+				"gid" "7392977764999912661"
+				"size" "366801058"
+				"download" "161001904"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "6404906760900791970"
+				"size" "369117971"
+				"download" "160802336"
+			}
+		}
+	}
+	"418713"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+	}
+	"418714"
+	{
+		"dlcappid" "418700"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "65951016426039747"
+				"size" "397"
+				"download" "256"
+			}
+			"build1026"
+			{
+				"gid" "65951016426039747"
+				"size" "397"
+				"download" "256"
+			}
+			"build813"
+			{
+				"gid" "65951016426039747"
+				"size" "397"
+				"download" "256"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "8564584055037880914"
+				"size" "397"
+				"download" "256"
+			}
+		}
+	}
+	"418715"
+	{
+		"dlcappid" "418690"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "54789389209863147"
+				"size" "375"
+				"download" "240"
+			}
+			"build1026"
+			{
+				"gid" "54789389209863147"
+				"size" "375"
+				"download" "240"
+			}
+			"build813"
+			{
+				"gid" "54789389209863147"
+				"size" "375"
+				"download" "240"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "5286509071363054247"
+				"size" "375"
+				"download" "240"
+			}
+		}
+	}
+	"418716"
+	{
+		"dlcappid" "418710"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "255044434464154730"
+				"size" "387"
+				"download" "256"
+			}
+			"build1026"
+			{
+				"gid" "255044434464154730"
+				"size" "387"
+				"download" "256"
+			}
+			"build813"
+			{
+				"gid" "255044434464154730"
+				"size" "387"
+				"download" "256"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "6507804530218291296"
+				"size" "387"
+				"download" "256"
+			}
+		}
+	}
+	"418717"
+	{
+		"dlcappid" "418680"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "196087258367907"
+				"size" "371"
+				"download" "240"
+			}
+			"build1026"
+			{
+				"gid" "196087258367907"
+				"size" "371"
+				"download" "240"
+			}
+			"build813"
+			{
+				"gid" "196087258367907"
+				"size" "371"
+				"download" "240"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "7980274267976690508"
+				"size" "371"
+				"download" "240"
+			}
+		}
+	}
+	"418718"
+	{
+		"dlcappid" "418730"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "12374941091954185"
+				"size" "387"
+				"download" "256"
+			}
+			"build1026"
+			{
+				"gid" "12374941091954185"
+				"size" "387"
+				"download" "256"
+			}
+			"build813"
+			{
+				"gid" "12374941091954185"
+				"size" "387"
+				"download" "256"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "2774741366056458266"
+				"size" "387"
+				"download" "256"
+			}
+		}
+	}
+	"418719"
+	{
+		"dlcappid" "418750"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "190060527985473319"
+				"size" "426"
+				"download" "272"
+			}
+			"build1026"
+			{
+				"gid" "190060527985473319"
+				"size" "426"
+				"download" "272"
+			}
+			"build813"
+			{
+				"gid" "190060527985473319"
+				"size" "426"
+				"download" "272"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "7086817450254809922"
+				"size" "426"
+				"download" "272"
+			}
+		}
+	}
+	"418721"
+	{
+		"dlcappid" "418740"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "798501252079313609"
+				"size" "387"
+				"download" "256"
+			}
+			"build1026"
+			{
+				"gid" "798501252079313609"
+				"size" "387"
+				"download" "256"
+			}
+			"build813"
+			{
+				"gid" "798501252079313609"
+				"size" "387"
+				"download" "256"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "1732208769708094196"
+				"size" "387"
+				"download" "256"
+			}
+		}
+	}
+	"418722"
+	{
+		"dlcappid" "418790"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "170564897590864783"
+				"size" "553832200"
+				"download" "400378576"
+			}
+			"build1026"
+			{
+				"gid" "170564897590864783"
+				"size" "553832200"
+				"download" "400378576"
+			}
+			"build813"
+			{
+				"gid" "170564897590864783"
+				"size" "553832200"
+				"download" "400378576"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "8864412107253113198"
+				"size" "553832200"
+				"download" "400378576"
+			}
+		}
+	}
+	"418723"
+	{
+		"dlcappid" "418780"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "292573332135546896"
+				"size" "414"
+				"download" "256"
+			}
+			"build1026"
+			{
+				"gid" "292573332135546896"
+				"size" "414"
+				"download" "256"
+			}
+			"build813"
+			{
+				"gid" "292573332135546896"
+				"size" "414"
+				"download" "256"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "3322112773004386746"
+				"size" "414"
+				"download" "256"
+			}
+		}
+	}
+	"418724"
+	{
+		"dlcappid" "418770"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1332933314892876"
+				"size" "430"
+				"download" "256"
+			}
+			"build1026"
+			{
+				"gid" "1332933314892876"
+				"size" "430"
+				"download" "256"
+			}
+			"build813"
+			{
+				"gid" "1332933314892876"
+				"size" "430"
+				"download" "256"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "6313772299008499702"
+				"size" "430"
+				"download" "256"
+			}
+		}
+	}
+	"418725"
+	{
+		"dlcappid" "418760"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "87354691823539208"
+				"size" "418"
+				"download" "256"
+			}
+			"build1026"
+			{
+				"gid" "87354691823539208"
+				"size" "418"
+				"download" "256"
+			}
+			"build813"
+			{
+				"gid" "87354691823539208"
+				"size" "418"
+				"download" "256"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "1875451216389292350"
+				"size" "418"
+				"download" "256"
+			}
+		}
+	}
+	"418726"
+	{
+		"dlcappid" "418800"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "10904134873385159"
+				"size" "1238879151"
+				"download" "988589872"
+			}
+			"build1026"
+			{
+				"gid" "10904134873385159"
+				"size" "1238879151"
+				"download" "988589872"
+			}
+			"build813"
+			{
+				"gid" "10904134873385159"
+				"size" "1238879151"
+				"download" "988589872"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "9111630355272063601"
+				"size" "1238879151"
+				"download" "988589872"
+			}
+		}
+	}
+	"418727"
+	{
+		"dlcappid" "418810"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "243497959333404937"
+				"size" "616919044"
+				"download" "456703504"
+			}
+			"build1026"
+			{
+				"gid" "243497959333404937"
+				"size" "616919044"
+				"download" "456703504"
+			}
+			"build813"
+			{
+				"gid" "243497959333404937"
+				"size" "616919044"
+				"download" "456703504"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "3543531259565939109"
+				"size" "616919044"
+				"download" "456703504"
+			}
+		}
+	}
+	"418728"
+	{
+		"dlcappid" "419110"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "625379033836074028"
+				"size" "385"
+				"download" "272"
+			}
+			"build1026"
+			{
+				"gid" "625379033836074028"
+				"size" "385"
+				"download" "272"
+			}
+			"build813"
+			{
+				"gid" "625379033836074028"
+				"size" "385"
+				"download" "272"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "430526479258354849"
+				"size" "385"
+				"download" "272"
+			}
+		}
+	}
+	"418729"
+	{
+		"dlcappid" "419100"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "679335130406358239"
+				"size" "366"
+				"download" "240"
+			}
+			"build1026"
+			{
+				"gid" "679335130406358239"
+				"size" "366"
+				"download" "240"
+			}
+			"build813"
+			{
+				"gid" "679335130406358239"
+				"size" "366"
+				"download" "240"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "4542198956227389194"
+				"size" "366"
+				"download" "240"
+			}
+		}
+	}
+	"418731"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "19708515709860292"
+				"size" "864015276"
+				"download" "652173280"
+			}
+			"build1026"
+			{
+				"gid" "19708515709860292"
+				"size" "864015276"
+				"download" "652173280"
+			}
+			"build813"
+			{
+				"gid" "19708515709860292"
+				"size" "864015276"
+				"download" "652173280"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "1009315834409494715"
+				"size" "864015276"
+				"download" "652173280"
+			}
+		}
+	}
+	"418732"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "220152240934282361"
+				"size" "846171132"
+				"download" "634011536"
+			}
+			"build1026"
+			{
+				"gid" "220152240934282361"
+				"size" "846171132"
+				"download" "634011536"
+			}
+			"build813"
+			{
+				"gid" "220152240934282361"
+				"size" "846171132"
+				"download" "634011536"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "4670168333733327578"
+				"size" "846171132"
+				"download" "634011536"
+			}
+		}
+	}
+	"418733"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "194460484124545610"
+				"size" "856412156"
+				"download" "636047088"
+			}
+			"build1026"
+			{
+				"gid" "194460484124545610"
+				"size" "856412156"
+				"download" "636047088"
+			}
+			"build813"
+			{
+				"gid" "194460484124545610"
+				"size" "856412156"
+				"download" "636047088"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "5654754318239446946"
+				"size" "856412156"
+				"download" "636047088"
+			}
+		}
+	}
+	"418734"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "15774690292967377"
+				"size" "858033212"
+				"download" "636278800"
+			}
+			"build1026"
+			{
+				"gid" "15774690292967377"
+				"size" "858033212"
+				"download" "636278800"
+			}
+			"build813"
+			{
+				"gid" "15774690292967377"
+				"size" "858033212"
+				"download" "636278800"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "7915164163740992717"
+				"size" "858033212"
+				"download" "636278800"
+			}
+		}
+	}
+	"418735"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "444076963789533616"
+				"size" "854303516"
+				"download" "637537632"
+			}
+			"build1026"
+			{
+				"gid" "444076963789533616"
+				"size" "854303516"
+				"download" "637537632"
+			}
+			"build813"
+			{
+				"gid" "444076963789533616"
+				"size" "854303516"
+				"download" "637537632"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "6530328662310499691"
+				"size" "854303516"
+				"download" "637537632"
+			}
+		}
+	}
+	"418736"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "667678225186524344"
+				"size" "838812636"
+				"download" "626422032"
+			}
+			"build1026"
+			{
+				"gid" "667678225186524344"
+				"size" "838812636"
+				"download" "626422032"
+			}
+			"build813"
+			{
+				"gid" "667678225186524344"
+				"size" "838812636"
+				"download" "626422032"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "951960150261577566"
+				"size" "838812636"
+				"download" "626422032"
+			}
+		}
+	}
+	"418737"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "231418129521000173"
+				"size" "855682104"
+				"download" "640351568"
+			}
+			"build1026"
+			{
+				"gid" "231418129521000173"
+				"size" "855682104"
+				"download" "640351568"
+			}
+			"build813"
+			{
+				"gid" "231418129521000173"
+				"size" "855682104"
+				"download" "640351568"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "8838674444945017850"
+				"size" "855682104"
+				"download" "640351568"
+			}
+		}
+	}
+	"418738"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "213576900245979111"
+				"size" "836482044"
+				"download" "612869680"
+			}
+			"build1026"
+			{
+				"gid" "213576900245979111"
+				"size" "836482044"
+				"download" "612869680"
+			}
+			"build813"
+			{
+				"gid" "213576900245979111"
+				"size" "836482044"
+				"download" "612869680"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "4608803916266323155"
+				"size" "836482044"
+				"download" "612869680"
+			}
+		}
+	}
+	"418739"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "498821977448874064"
+				"size" "840141420"
+				"download" "629360784"
+			}
+			"build1026"
+			{
+				"gid" "498821977448874064"
+				"size" "840141420"
+				"download" "629360784"
+			}
+			"build813"
+			{
+				"gid" "498821977448874064"
+				"size" "840141420"
+				"download" "629360784"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "8174586418350487117"
+				"size" "840141420"
+				"download" "629360784"
+			}
+		}
+	}
+	"418741"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "284893599092064941"
+				"size" "850650524"
+				"download" "614822064"
+			}
+			"build1026"
+			{
+				"gid" "284893599092064941"
+				"size" "850650524"
+				"download" "614822064"
+			}
+			"build813"
+			{
+				"gid" "284893599092064941"
+				"size" "850650524"
+				"download" "614822064"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "10664195929992551"
+				"size" "850650524"
+				"download" "614822064"
+			}
+		}
+	}
+	"418742"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "182010283594917688"
+				"size" "842982508"
+				"download" "610278176"
+			}
+			"build1026"
+			{
+				"gid" "182010283594917688"
+				"size" "842982508"
+				"download" "610278176"
+			}
+			"build813"
+			{
+				"gid" "182010283594917688"
+				"size" "842982508"
+				"download" "610278176"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "8374682135655248449"
+				"size" "842982508"
+				"download" "610278176"
+			}
+		}
+	}
+	"418743"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "333814133725336179"
+				"size" "856990444"
+				"download" "644914640"
+			}
+			"build1026"
+			{
+				"gid" "333814133725336179"
+				"size" "856990444"
+				"download" "644914640"
+			}
+			"build813"
+			{
+				"gid" "333814133725336179"
+				"size" "856990444"
+				"download" "644914640"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "7757713346449129205"
+				"size" "856990444"
+				"download" "644914640"
+			}
+		}
+	}
+	"418744"
+	{
+		"config"
+		{
+			"language" "dutch"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5674783858863345085"
+				"size" "0"
+				"download" "0"
+			}
+			"build1026"
+			{
+				"gid" "5674783858863345085"
+				"size" "0"
+				"download" "0"
+			}
+			"build813"
+			{
+				"gid" "5674783858863345085"
+				"size" "0"
+				"download" "0"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "5674783858863345085"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"418745"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "356187523817903614"
+				"size" "856261740"
+				"download" "640450576"
+			}
+			"build1026"
+			{
+				"gid" "356187523817903614"
+				"size" "856261740"
+				"download" "640450576"
+			}
+			"build813"
+			{
+				"gid" "356187523817903614"
+				"size" "856261740"
+				"download" "640450576"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "3141061753082281843"
+				"size" "856261740"
+				"download" "640450576"
+			}
+		}
+	}
+	"418746"
+	{
+		"dlcappid" "437800"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "188953858239603301"
+				"size" "213"
+				"download" "192"
+			}
+			"build1026"
+			{
+				"gid" "188953858239603301"
+				"size" "213"
+				"download" "192"
+			}
+			"build813"
+			{
+				"gid" "188953858239603301"
+				"size" "213"
+				"download" "192"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "1096908095690768828"
+				"size" "213"
+				"download" "192"
+			}
+		}
+	}
+	"418747"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "312637269899635799"
+				"size" "187277188"
+				"download" "166492624"
+			}
+			"build1026"
+			{
+				"gid" "312637269899635799"
+				"size" "187277188"
+				"download" "166492624"
+			}
+			"build813"
+			{
+				"gid" "312637269899635799"
+				"size" "187277188"
+				"download" "166492624"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "2847720228839548502"
+				"size" "187277188"
+				"download" "166492624"
+			}
+		}
+	}
+	"418748"
+	{
+		"dlcappid" "505540"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "140386892066141374"
+				"size" "1893897380"
+				"download" "1668509376"
+			}
+			"build1026"
+			{
+				"gid" "140386892066141374"
+				"size" "1893897380"
+				"download" "1668509376"
+			}
+			"build813"
+			{
+				"gid" "140386892066141374"
+				"size" "1893897380"
+				"download" "1668509376"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "5413139059194524872"
+				"size" "1893897380"
+				"download" "1668509376"
+			}
+		}
+	}
+	"418749"
+	{
+		"dlcappid" "541750"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "73052998062838263"
+				"size" "302"
+				"download" "240"
+			}
+			"build1026"
+			{
+				"gid" "73052998062838263"
+				"size" "302"
+				"download" "240"
+			}
+			"build813"
+			{
+				"gid" "73052998062838263"
+				"size" "302"
+				"download" "240"
+			}
+			"linux_vulkan_fix"
+			{
+				"gid" "14752322115496216"
+				"size" "302"
+				"download" "240"
+			}
+		}
+	}
+	"418751"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"418752"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9575745"
+			"timeupdated" "1664300114"
+		}
+		"build1026"
+		{
+			"buildid" "7763383"
+			"description" "build1026"
+			"timeupdated" "1638886356"
+		}
+		"build610_1"
+		{
+			"buildid" "1047236"
+			"description" "Build 610.1"
+			"timeupdated" "1459288918"
+		}
+		"build616_5"
+		{
+			"buildid" "1047233"
+			"description" "Build 616.5"
+			"timeupdated" "1459288897"
+		}
+		"build623_2"
+		{
+			"buildid" "1047232"
+			"description" "Build 623.2"
+			"timeupdated" "1459288871"
+		}
+		"build629_3"
+		{
+			"buildid" "1047229"
+			"description" "Build 629.3"
+			"timeupdated" "1459288826"
+		}
+		"build638_8"
+		{
+			"buildid" "1047225"
+			"description" "Build 638.8"
+			"timeupdated" "1459288790"
+		}
+		"build647_2"
+		{
+			"buildid" "1050665"
+			"description" "Build 647.2"
+			"timeupdated" "1467966860"
+		}
+		"build668_1"
+		{
+			"buildid" "1218412"
+			"description" "Build 668.1"
+			"timeupdated" "1476179070"
+		}
+		"build751_5"
+		{
+			"buildid" "1380292"
+			"description" "Build 751.5"
+			"timeupdated" "1476781043"
+		}
+		"build753_1"
+		{
+			"buildid" "1390434"
+			"description" "Build 753.1"
+			"timeupdated" "1477385133"
+		}
+		"build753_2"
+		{
+			"buildid" "1401990"
+			"description" "Build 753.2"
+			"timeupdated" "1484821744"
+		}
+		"build767_2"
+		{
+			"buildid" "1574441"
+			"description" "Build 767.2"
+			"timeupdated" "1496133474"
+		}
+		"build770.1"
+		{
+			"buildid" "1802903"
+			"description" "Build 770.1"
+			"timeupdated" "1512496200"
+		}
+		"build811.3"
+		{
+			"buildid" "2334073"
+			"description" "Build 811.3"
+			"timeupdated" "1513340059"
+		}
+		"build813"
+		{
+			"buildid" "7554357"
+			"description" "build813"
+			"timeupdated" "1634574796"
+		}
+		"linux_vulkan_fix"
+		{
+			"buildid" "8822409"
+			"description" "beta for vulkan fixes"
+			"timeupdated" "1653658007"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27103127"
+"_sha" "c5d1d6876166134a684ec2ff4db4d65358c2d8bd"
+"_size" "116847"
