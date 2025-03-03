@@ -1,0 +1,453 @@
+"appid" "875210"
+"common"
+{
+	"name" "三国群英传8 Kingdom Heroes 8"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "2ec9d04aac33e26c3104738c154d7d48c7e16f15"
+	"logo_small" "2ec9d04aac33e26c3104738c154d7d48c7e16f15_thumb"
+	"icon" "75987aeb152d5abb00f26a5b91a6f72c10b4ef4c"
+	"clienttga" "be4c9d23b2ca51b035f8f0edc896f240d59acb95"
+	"clienticon" "28ad06f25272f990a65e4b10960fb490361772ef"
+	"releasestate" "released"
+	"clienticns" "9fe5241d09fbfd0b8a7832e284ebebdddd706c77"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "三国群英传8"
+		"tchinese" "三國群英傳8"
+		"english" "Kingdom Heroes 8"
+		"japanese" "三国群英伝8"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1655424000"
+		"tested_build_id" "8477986"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-tw,zh-cn,en"
+		"library_hero" "en"
+		"library_logo" "zh-tw,zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.310335741904396"
+			"height_pct" "49.21194960975609"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"tchinese" "library_600x900_tchinese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "38.310335741904396"
+				"height_pct" "49.21194960975609"
+			}
+			"image"
+			{
+				"tchinese" "logo_tchinese.png"
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"tchinese" "logo_tchinese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1648785643"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "USERJOY Technology Co.,Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "USERJOY Technology Co.,Ltd."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "三國群英傳"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "USERJOY"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "USERJOY Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1610456159"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "875210"
+	"store_tags"
+	{
+		"0" "1676"
+		"1" "21725"
+		"2" "3813"
+		"3" "1678"
+		"4" "17305"
+		"5" "3987"
+		"6" "4364"
+		"7" "4747"
+		"8" "9"
+		"9" "4328"
+		"10" "122"
+		"11" "3871"
+		"12" "4191"
+		"13" "19"
+		"14" "599"
+		"15" "4175"
+		"16" "1708"
+		"17" "4004"
+		"18" "3993"
+		"19" "4182"
+	}
+	"review_score" "5"
+	"review_percentage" "54"
+}
+"extended"
+{
+	"developer" "USERJOY Technology Co.,Ltd."
+	"publisher" "USERJOY Technology Co.,Ltd."
+	"homepage" "http://sg8.fhyx.com/"
+	"listofdlc" "1453620,1711770,1711771,1711772,1711773"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Heroes of the Three Kingdoms 8"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SG8.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamconfigurator3rdpartynative" "3"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2362728457"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese,tchinese,japanese"
+	"hasdepotsindlc" "1"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"875211"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6229093796036390276"
+				"size" "8096290291"
+				"download" "4099142112"
+			}
+		}
+	}
+	"1453620"
+	{
+		"dlcappid" "1453620"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5625404617300774685"
+				"size" "1248262"
+				"download" "1231808"
+			}
+		}
+	}
+	"1711770"
+	{
+		"dlcappid" "1711770"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4143662556020706157"
+				"size" "6652538"
+				"download" "6647520"
+			}
+		}
+	}
+	"1711771"
+	{
+		"dlcappid" "1711771"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4561422194455695105"
+				"size" "870609"
+				"download" "879408"
+			}
+		}
+	}
+	"1711772"
+	{
+		"dlcappid" "1711772"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1446201969490650404"
+				"size" "8694772"
+				"download" "8726704"
+			}
+		}
+	}
+	"1711773"
+	{
+		"dlcappid" "1711773"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "818572497661969632"
+				"size" "859097"
+				"download" "867536"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10012892"
+			"timeupdated" "1669359731"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "UserJoy/SG8/Save/{64BitSteamID}"
+			"pattern" "*.bytes"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "UserJoy/SG8/GlobalSave/{64BitSteamID}"
+			"pattern" "*.bytes"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27001591"
+"_sha" "3cba69bd866d7206b9f2e0a3d109601eb89aa2a4"
+"_size" "7806"
