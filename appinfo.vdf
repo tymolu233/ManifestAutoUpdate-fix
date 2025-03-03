@@ -1,0 +1,318 @@
+"appid" "897220"
+"common"
+{
+	"name" "Summer Pockets"
+	"type" "Game"
+	"logo" "73bb2600f9e51189f8b95e904219cfa73a9e7a13"
+	"logo_small" "73bb2600f9e51189f8b95e904219cfa73a9e7a13_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"icon" "7ef305395bfdb297e6bc3760a253cc7fd7d801cb"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"japanese" "1"
+	}
+	"clienticon" "5ef2d1da2722ca4221fac160ffb0899f2015b70b"
+	"clienttga" "89c07fce25b3493e01c6e05980ca92bc34ee2b4f"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1645574400"
+		"tested_build_id" "5058530"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DeviceCompatibilityWarningsShown"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Summer Pockets"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"japanese" "header_japanese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1647933191"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "VisualArts/Key"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "VisualArts"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"japanese"
+		{
+			"full_audio" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1530255600"
+	"steam_release_date" "1580967981"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "897220"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "597"
+		"2" "3799"
+		"3" "5608"
+		"4" "4085"
+		"5" "1756"
+		"6" "1742"
+		"7" "9551"
+		"8" "4947"
+		"9" "599"
+		"10" "12095"
+		"11" "6650"
+		"12" "6971"
+		"13" "4182"
+		"14" "1719"
+	}
+	"review_score" "9"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"developer" "VisualArts/Key"
+	"publisher" "VisualArts"
+	"homepage" "http://key.visualarts.gr.jp/summer/"
+	"listofdlc" "1287020"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Summer Pockets"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SiglusEngine_Steam.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"897221"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1750798451025288683"
+				"size" "8371624248"
+				"download" "6887157488"
+			}
+		}
+	}
+	"1287020"
+	{
+		"dlcappid" "1287020"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4099443751847322173"
+				"size" "44822276"
+				"download" "41551584"
+			}
+		}
+	}
+	"897222"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "616948952209071108"
+				"size" "8393643083"
+				"download" "6894420144"
+			}
+		}
+	}
+	"897223"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8364739"
+			"timeupdated" "1647237332"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "450"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "savedata_en"
+			"pattern" "*.*"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "savedata"
+			"pattern" "*.*"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "savedata_zh"
+			"pattern" "*.*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27325139"
+"_sha" "61c1a848ca0e3539cd7b85cb073a2f46abd14696"
+"_size" "5269"
