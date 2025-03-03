@@ -1,0 +1,124 @@
+"appid" "2465200"
+"common"
+{
+	"name" "Sons Of The Forest Dedicated Server"
+	"type" "Tool"
+	"parent" "1326470"
+	"icon" "3e382029f4751a9c377bcd0996a2ee7306c45e73"
+	"clienticon" "e594128a02ce8385574471e8196659eb66287400"
+	"clienttga" "16a283da838739c6d5215ca742f10c5bafc50ba9"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"freetodownload" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1687543286"
+	"associations"
+	{
+	}
+	"steam_release_date" "1687565100"
+	"gameid" "2465200"
+}
+"config"
+{
+	"installdir" "Sons Of The Forest Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "StartSOTFDedicated.bat"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"2465201"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2298676701233136390"
+				"size" "3356589914"
+				"download" "1670305920"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17079974"
+			"timeupdated" "1737481627"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27139953"
+"_sha" "849280568b717e780f9335460a25e23b544fb3af"
+"_size" "1831"
