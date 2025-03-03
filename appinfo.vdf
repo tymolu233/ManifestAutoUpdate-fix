@@ -1,0 +1,444 @@
+"appid" "1202130"
+"common"
+{
+	"name" "Starship Troopers: Terran Command"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "b2a9abd0c58b5334a56e0763026ace71b8bc5f97"
+	"clienttga" "de49ddf9643389cb6d3411135307b04f01ab97f7"
+	"icon" "fc6f4f10d302a4e316bdb7f015492e63d2fff9c1"
+	"logo" "14116ebae7116ab8f1ccfdfaf62fe38bf376a177"
+	"logo_small" "14116ebae7116ab8f1ccfdfaf62fe38bf376a177_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1202130_eula_0"
+			"name" "Starship Troopers - Terran Command EULA"
+			"url" "https://store.steampowered.com//eula/1202130_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1667865600"
+		"tested_build_id" "9244807"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "80.50139358642096"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "80.50139358642096"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733759710"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "The Artistocrats"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Slitherine Ltd."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Starship Troopers: Terran Command"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1655398795"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1202130"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1676"
+		"2" "4182"
+		"3" "4168"
+		"4" "1708"
+		"5" "1678"
+		"6" "3942"
+		"7" "4161"
+		"8" "8945"
+		"9" "4684"
+		"10" "1673"
+		"11" "4711"
+		"12" "1756"
+		"13" "7926"
+		"14" "1645"
+		"15" "4345"
+		"16" "11333"
+		"17" "599"
+		"18" "3813"
+		"19" "19"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "The Artistocrats"
+	"publisher" "Slitherine Ltd."
+	"gamemanualurl" "https://store.steampowered.com/manual/1202130/"
+	"listofdlc" "2139990,2139991"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Starship Troopers - Terran Command"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Launcher.exe"
+			"type" "default"
+		}
+		"2"
+		{
+			"executable" "Starship Troopers.exe"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "artistocratstest sony dynamicmusic artistocratsintermediate publicdemotest pressdemotest beta"
+			}
+			"description_loc"
+			{
+				"english" "Starship Troopers (w/o launcher)"
+			}
+			"description" "Starship Troopers (w/o launcher)"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "1202130"
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1202131"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8255112250723465482"
+				"size" "9098984978"
+				"download" "5077364624"
+			}
+			"beta"
+			{
+				"gid" "2443785277404438618"
+				"size" "9780163837"
+				"download" "5304158464"
+			}
+		}
+	}
+	"1202132"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "132371135838060783"
+				"size" "23633041"
+				"download" "19623152"
+			}
+			"beta"
+			{
+				"gid" "1463184071040901048"
+				"size" "16177808"
+				"download" "12591568"
+			}
+		}
+	}
+	"2139990"
+	{
+		"dlcappid" "2139990"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4464821010379409615"
+				"size" "2348107286"
+				"download" "1549619232"
+			}
+			"beta"
+			{
+				"gid" "7213066288241155000"
+				"size" "2337080042"
+				"download" "1544461008"
+			}
+		}
+	}
+	"2139991"
+	{
+		"dlcappid" "2139991"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6990598532766292276"
+				"size" "2883585710"
+				"download" "1571120160"
+			}
+			"beta"
+			{
+				"gid" "6136088250808700873"
+				"size" "2755288074"
+				"download" "1530898640"
+			}
+		}
+	}
+	"3454110"
+	{
+		"dlcappid" "3454110"
+		"manifests"
+		{
+			"beta"
+			{
+				"gid" "3259924294343755912"
+				"size" "232271790"
+				"download" "102077824"
+			}
+		}
+	}
+	"3454120"
+	{
+		"dlcappid" "3454120"
+		"manifests"
+		{
+			"beta"
+			{
+				"gid" "8813853181673598251"
+				"size" "1046812008"
+				"download" "396714736"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15741283"
+			"timeupdated" "1726739875"
+		}
+		"beta"
+		{
+			"buildid" "17041799"
+			"description" "Territory Mode Open Beta"
+			"timeupdated" "1737132361"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "5000000000"
+	"maxnumfiles" "5000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Starship Troopers/Saves"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Starship Troopers/PlayerData"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27611545"
+"_sha" "0d0e59749020759e84ea6efa74db205b63c49ca7"
+"_size" "7667"
