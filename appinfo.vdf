@@ -1,0 +1,191 @@
+"appid" "1017410"
+"common"
+{
+	"name" "Tetra Project - 原石计划"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"icon" "578665e90387836b1cd682a8975e16d0e77dca95"
+	"logo" "285c50fcd95410cfcd921ee0b924bd09500a5a0b"
+	"logo_small" "285c50fcd95410cfcd921ee0b924bd09500a5a0b_thumb"
+	"clienticon" "6b4cdee7c8562e81801b8a676ca0e93098059dfc"
+	"clienttga" "f3945bc95748c9f3e4e74da804897ff163099441"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "原石计划"
+	}
+	"restricted_countries" "DE"
+	"metacritic_name" "Tetra Project - 原石计划"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "41.843908379865354"
+			"height_pct" "36.09231334241503"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "41.843908379865354"
+				"height_pct" "36.09231334241503"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1605869359"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "AliveGameStudio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "AliveGameStudio"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1569254220"
+	"community_hub_visible" "1"
+	"gameid" "1017410"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "9"
+		"2" "493"
+		"3" "1666"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "AliveGameStudio"
+	"publisher" "AliveGameStudio"
+	"homepage" "http://www.AliveGameStudio.com"
+}
+"config"
+{
+	"installdir" "Tetra Project"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TetraProject.exe"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "1017410"
+	"baselanguages" "english,schinese"
+	"1017411"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4614482892069728914"
+				"size" "497527871"
+				"download" "153310032"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5910076"
+			"timeupdated" "1606901358"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "AliveGameStudio/TetraProject"
+			"pattern" "*.data"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26997904"
+"_sha" "3842ea0317fe9e6df108ef268a51780ec8fdc328"
+"_size" "3085"
