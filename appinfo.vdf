@@ -1,0 +1,534 @@
+"appid" "2144740"
+"common"
+{
+	"name" "Ghostrunner 2"
+	"type" "Game"
+	"icon" "39fc0a6b7051f744c725f1fc518a8996b859e86d"
+	"clienticon" "3aafaebfa6d7b27f963ea70897dcc68897ab3259"
+	"clienttga" "be3193c40e871d2319a9acc907d53eced446e71b"
+	"name_localized"
+	{
+		"schinese" "幽灵行者 2（Ghostrunner 2）"
+		"tchinese" "《幽影行者 2》 Ghostrunner 2"
+		"koreana" "고스트러너 2 (Ghostrunner 2)"
+	}
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1699920000"
+		"tested_build_id" "12661877"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Ghostrunner 2"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"english" "2553a29b164258cb9de5dc87565e94bff88e9108/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,ko,zh-cn,zh-tw"
+		"library_hero" "en,ja,ko,zh-cn,zh-tw"
+		"library_logo" "en,ja,ko,zh-cn,zh-tw"
+		"library_header" "en,ja,ko,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "99.53434225844006"
+			"height_pct" "56.385185185185136"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"japanese" "library_hero_japanese.jpg"
+				"koreana" "library_hero_koreana.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "99.53434225844006"
+				"height_pct" "56.385185185185136"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"japanese" "logo_japanese.png"
+				"koreana" "logo_koreana.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"japanese" "logo_japanese_2x.png"
+				"koreana" "logo_koreana_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"japanese" "library_header_japanese.jpg"
+				"koreana" "library_header_koreana.jpg"
+				"schinese" "library_header_schinese.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1736280624"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "One More Level"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "505 Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "505 Games Official"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_18" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1698331994"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/ghostrunner-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2144740"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "4115"
+		"2" "8666"
+		"3" "1646"
+		"4" "1734"
+		"5" "3839"
+		"6" "4026"
+		"7" "4608"
+		"8" "4667"
+		"9" "11104"
+		"10" "1621"
+		"11" "21"
+		"12" "4106"
+		"13" "3835"
+		"14" "4182"
+		"15" "3993"
+		"16" "1688"
+		"17" "198913"
+		"18" "1743"
+		"19" "9"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "One More Level"
+	"publisher" "505 Games"
+	"homepage" "https://ghostrunnergame.com/"
+	"listofdlc" "2573290,2573300,2573310,2574920,2691130,2769320,2988270,3092910,3232490"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Ghostrunner 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Ghostrunner2.exe"
+			"arguments" "-STEAM"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "with DirectX 11"
+			}
+			"description" "with DirectX 11"
+		}
+		"1"
+		{
+			"executable" "Ghostrunner2.exe"
+			"arguments" "-STEAM -dx12 -noraytracing"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "with DirectX 12"
+			}
+			"description" "with DirectX 12"
+		}
+		"2"
+		{
+			"executable" "Ghostrunner2.exe"
+			"arguments" "-STEAM -dx12"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "nvidia_development"
+			}
+			"description_loc"
+			{
+				"english" "with DirectX 12 + RT"
+			}
+			"description" "with DirectX 12 + RT"
+		}
+		"3"
+		{
+			"executable" "Ghostrunner2.exe"
+			"arguments" "-STEAM -dx12"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "internal_tests"
+			}
+			"description_loc"
+			{
+				"english" "with DirectX 12 + RT"
+			}
+			"description" "with DirectX 12 + RT"
+		}
+		"4"
+		{
+			"executable" "Ghostrunner2.exe"
+			"arguments" "-STEAM -dx12"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "nvidia_shipping"
+			}
+			"description_loc"
+			{
+				"english" "with DirectX 12 + RT"
+			}
+			"description" "with DirectX 12 + RT"
+		}
+		"5"
+		{
+			"executable" "Ghostrunner2.exe"
+			"arguments" "-STEAM -dx12"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "beta"
+			}
+			"description_loc"
+			{
+				"english" "with DirectX 12 + RT"
+			}
+			"description" "with DirectX 12 + RT"
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229000"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2144741"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5236436374264945035"
+				"size" "74990469915"
+				"download" "29046790896"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16083277"
+			"timeupdated" "1730297129"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Ghostrunner2/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "Ghostrunner2/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26897869"
+"_sha" "aee6d4a589854a8e364e9fa6e7bc1ec01e03828b"
+"_size" "10185"
