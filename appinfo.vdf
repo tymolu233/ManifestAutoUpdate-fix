@@ -1,0 +1,458 @@
+"appid" "2273430"
+"common"
+{
+	"name" "BlazBlue Entropy Effect"
+	"type" "Game"
+	"icon" "060539eb9cbd6121e431a0c580ba1d52e2b0edd0"
+	"linuxclienticon" "c376ac67041201ee7ce3393a0636ce00552f6473"
+	"clienticns" "c815495f7bf9fc8152ff7723f06924f46bdde610"
+	"clienttga" "de3755e8c0756baea5c58cec6318fd9ac618dcf0"
+	"clienticon" "fe7f2b9e8f06502314eba02348ed79e237397f86"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"english" "BlazBlue Entropy Effect"
+		"japanese" "BlazBlue Entropy Effect"
+		"schinese" "苍翼：混沌效应"
+		"sc_schinese" "苍翼：混沌效应"
+		"tchinese" "蒼翼：混沌效應"
+	}
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosnotarized"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"japanese" "1"
+	}
+	"releasestatesteamchina" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1697760000"
+		"tested_build_id" "12263810"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "c72b546bde63de7a2a2e22a6742ab903dfd72fb4/capsule_231x87_schinese.jpg"
+		"english" "ff92805cffd49fbcf6473b2928d5f1588df36c19/capsule_231x87.jpg"
+		"tchinese" "70180c723cb1286f85187e5c7686395447c10136/capsule_231x87_tchinese.jpg"
+		"sc_schinese" "c72b546bde63de7a2a2e22a6742ab903dfd72fb4/capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw,zh-xc"
+		"library_hero" "en,zh-cn,zh-tw,zh-xc"
+		"library_hero_blur" "en,zh-cn,zh-tw,zh-xc"
+		"library_logo" "en,zh-cn"
+		"library_header" "zh-cn,en,zh-tw,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "41.03608847497088"
+			"height_pct" "90.5013505892131"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "fe242e88c41d7425c5269d4f5e49d5eebe82565d/library_600x900.jpg"
+				"schinese" "1b255fe70f3bfefcb65e66d1a5e286ed28672b1a/library_600x900_schinese.jpg"
+				"tchinese" "e5e87447b1d8cc00ade7e8bb76750a0a71395d41/library_600x900_tchinese.jpg"
+				"sc_schinese" "1b255fe70f3bfefcb65e66d1a5e286ed28672b1a/library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "fe242e88c41d7425c5269d4f5e49d5eebe82565d/library_600x900_2x.jpg"
+				"schinese" "1b255fe70f3bfefcb65e66d1a5e286ed28672b1a/library_600x900_schinese_2x.jpg"
+				"tchinese" "e5e87447b1d8cc00ade7e8bb76750a0a71395d41/library_600x900_tchinese_2x.jpg"
+				"sc_schinese" "1b255fe70f3bfefcb65e66d1a5e286ed28672b1a/library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "25c92a8b5f99b70cb13a140752df80c91d9460f1/library_hero_2x.jpg"
+				"schinese" "25c92a8b5f99b70cb13a140752df80c91d9460f1/library_hero_schinese_2x.jpg"
+				"tchinese" "25c92a8b5f99b70cb13a140752df80c91d9460f1/library_hero_tchinese_2x.jpg"
+				"sc_schinese" "25c92a8b5f99b70cb13a140752df80c91d9460f1/library_hero_sc_schinese_2x.jpg"
+			}
+			"image"
+			{
+				"english" "25c92a8b5f99b70cb13a140752df80c91d9460f1/library_hero.jpg"
+				"schinese" "25c92a8b5f99b70cb13a140752df80c91d9460f1/library_hero_schinese.jpg"
+				"tchinese" "25c92a8b5f99b70cb13a140752df80c91d9460f1/library_hero_tchinese.jpg"
+				"sc_schinese" "25c92a8b5f99b70cb13a140752df80c91d9460f1/library_hero_sc_schinese.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "25c92a8b5f99b70cb13a140752df80c91d9460f1/library_hero_blur.jpg"
+				"schinese" "25c92a8b5f99b70cb13a140752df80c91d9460f1/library_hero_blur_schinese.jpg"
+				"tchinese" "25c92a8b5f99b70cb13a140752df80c91d9460f1/library_hero_blur_tchinese.jpg"
+				"sc_schinese" "25c92a8b5f99b70cb13a140752df80c91d9460f1/library_hero_blur_sc_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "d772af3db9ac030260447dd23faaf79e5fbeb29a/logo.png"
+				"schinese" "41579da0c1b2e8c994e0a2f8949d2b3139cc8746/logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "d772af3db9ac030260447dd23faaf79e5fbeb29a/logo_2x.png"
+				"schinese" "41579da0c1b2e8c994e0a2f8949d2b3139cc8746/logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "41.03608847497088"
+				"height_pct" "90.5013505892131"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "08928842af38bc87c3d2f5eba21a4b03fae6de01/library_header_schinese.jpg"
+				"english" "4bf630a0f0ea35fbfe2310a1a835f13a6318fb1d/library_header.jpg"
+				"tchinese" "24ea122bc3f88f320817b7c3c2c5d2055e772a33/library_header_tchinese.jpg"
+				"sc_schinese" "08928842af38bc87c3d2f5eba21a4b03fae6de01/library_header_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "08928842af38bc87c3d2f5eba21a4b03fae6de01/library_header_schinese_2x.jpg"
+				"english" "4bf630a0f0ea35fbfe2310a1a835f13a6318fb1d/library_header_2x.jpg"
+				"tchinese" "24ea122bc3f88f320817b7c3c2c5d2055e772a33/library_header_tchinese_2x.jpg"
+				"sc_schinese" "08928842af38bc87c3d2f5eba21a4b03fae6de01/library_header_sc_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737382096"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "91Act"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "91Act"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_48" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1706666160"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2273430"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "4106"
+		"2" "3871"
+		"3" "19"
+		"4" "1625"
+		"5" "4711"
+		"6" "3964"
+		"7" "3835"
+		"8" "4115"
+		"9" "4085"
+		"10" "5125"
+		"11" "492"
+		"12" "1742"
+		"13" "6971"
+		"14" "1646"
+		"15" "4182"
+		"16" "4736"
+		"17" "21"
+		"18" "5379"
+		"19" "3877"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "91Act"
+	"publisher" "91Act"
+	"listofdlc" "2771130,3085820,3422870"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "BlazblueEntropyEffect"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BlazblueEntropyEffect.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "BlazBlueEntropyEffect.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "start by app"
+				"sc_schinese" "start by app"
+			}
+			"description" "start by app"
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "65520"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,schinese,japanese"
+	"hasdepotsindlc" "1"
+	"2273431"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2176713419216199097"
+				"size" "9751732325"
+				"download" "8436308304"
+			}
+			"bbee-ea"
+			{
+				"gid" "1181538358703119718"
+				"size" "5527866314"
+				"download" "4686327248"
+			}
+		}
+	}
+	"2273432"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2522808253179858166"
+				"size" "9758078544"
+				"download" "8425361872"
+			}
+			"bbee-ea"
+			{
+				"gid" "8289491013708764854"
+				"size" "5795480466"
+				"download" "4739167264"
+			}
+		}
+	}
+	"2771130"
+	{
+		"dlcappid" "2771130"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8440413603119081723"
+				"size" "132709570"
+				"download" "132753472"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17497028"
+			"timeupdated" "1740540534"
+		}
+		"bbee-ea"
+		{
+			"sc_schinese" "Early Access"
+			"buildid" "12847799"
+			"description" "Early Access"
+			"timeupdated" "1706080711"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "4194304"
+	"maxnumfiles" "200"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "91Act/BlazBlueEntropyEffect/Save"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "91Act/BlazBlueEntropyEffect/Global"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "91Act/BlazBlueEntropyEffect/Steam/{Steam3AccountID}/Save"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27751006"
+"_sha" "d69c5740229535a0f3a121fe7d4e27d9e39d4455"
+"_size" "10557"
