@@ -1,0 +1,345 @@
+"appid" "1658290"
+"common"
+{
+	"name" "Eiyuden Chronicle: Rising"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "39d4a575122f821ccf49dbe94dcf87e3406d74d4"
+	"logo_small" "39d4a575122f821ccf49dbe94dcf87e3406d74d4_thumb"
+	"icon" "449ec8f09bf72c9f8e00c113c1e12a7c70a86de4"
+	"clienticon" "1ba37fa095122b451195912102ed4b3d06a3644b"
+	"clienttga" "c8f8b0471a7a53d7bf5bb1060ff7191693c57ffd"
+	"name_localized"
+	{
+		"japanese" "百英雄伝 Rising"
+		"schinese" "Eiyuden Chronicle: Rising 百英雄传：崛起"
+		"tchinese" "《百英雄傳: 崛起》Eiyuden Chronicle: Rising"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1654732800"
+		"tested_build_id" "8638189"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en,zh-tw,ja,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "100"
+			"height_pct" "58.96461648064594"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "58.96461648064594"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"tchinese" "logo_tchinese.png"
+				"japanese" "logo_japanese.png"
+				"schinese" "logo_schinese.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1682104280"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "NatsumeAtari"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "505 Games "
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "505 Games Official"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1652197305"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1658290"
+	"store_tags"
+	{
+		"0" "4231"
+		"1" "21"
+		"2" "122"
+		"3" "4434"
+		"4" "4106"
+		"5" "4975"
+		"6" "1720"
+		"7" "19"
+		"8" "3964"
+		"9" "4182"
+		"10" "492"
+		"11" "1742"
+		"12" "3798"
+		"13" "597"
+		"14" "1773"
+		"15" "4328"
+		"16" "3834"
+		"17" "4085"
+		"18" "3871"
+		"19" "1643"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "NatsumeAtari"
+	"publisher" "505 Games "
+	"homepage" "https://eiyudenchronicle.com/"
+}
+"config"
+{
+	"installdir" "Eiyuden Chronicle Rising"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Eiyuden Chronicle Rising.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2585103177"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default,dayonepatch,developmentbranch,lqabranch,qabranch"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "65532"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"1658291"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3415712790031470585"
+				"size" "4597705635"
+				"download" "1695768448"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8900289"
+			"timeupdated" "1655818907"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "30"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "505 Games S_p_A/Eiyuden Chronicle Rising/{64BitSteamID}"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26845279"
+"_sha" "e08fb18eed3d02fd9e374300e529691808ffec97"
+"_size" "6209"
