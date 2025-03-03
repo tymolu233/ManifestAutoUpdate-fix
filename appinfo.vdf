@@ -1,0 +1,73 @@
+"appid" "2202100"
+"common"
+{
+	"name" "Infection Free Zone - Map Editor"
+	"type" "Tool"
+	"parent" "1465460"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "6dd2cdf8e734305c8e26ebe06702c73199770fa4"
+	"clienttga" "4b01e8181b6158bb0d25736ceb0d719f2c024b2d"
+	"icon" "6e82a51e1c8aa34a6ecb405504f91f5535a310ea"
+	"releasestate" "released"
+	"gameid" "2202100"
+}
+"config"
+{
+	"installdir" "Infection Free Zone - Map Editor"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "MapEditor/Map Editor.exe"
+		}
+	}
+}
+"depots"
+{
+	"2202101"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3361248092856654521"
+				"size" "604310247"
+				"download" "276792848"
+			}
+			"previous"
+			{
+				"gid" "2115736171809715576"
+				"size" "604139721"
+				"download" "279630528"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16724148"
+			"timeupdated" "1734534512"
+		}
+		"previous"
+		{
+			"buildid" "15434180"
+			"description" "previous default build"
+			"timeupdated" "1724347362"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "1000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "27700803"
+"_sha" "668ece2146f9e886fe49942d0d25b79e0ccbbd20"
+"_size" "1210"
