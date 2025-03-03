@@ -1,0 +1,3142 @@
+"appid" "1248130"
+"common"
+{
+	"name" "Farming Simulator 22"
+	"type" "Game"
+	"releasestate" "released"
+	"name_localized"
+	{
+	}
+	"logo" "41fd3830e29d63a80bc644bb4ea2faef51e7ca6f"
+	"logo_small" "41fd3830e29d63a80bc644bb4ea2faef51e7ca6f_thumb"
+	"icon" "ed60ecbebf2754934c023553e0485919bc44ccbb"
+	"clienttga" "17b7b0e0970735ff0a8d523c277b6b14284916c2"
+	"clienticon" "5de64a809089c37cf9b2ac499468bec32e4b3b05"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1651622400"
+		"tested_build_id" "8595864"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "48.95348837209302"
+			"height_pct" "46.5803847067205"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "48.95348837209302"
+				"height_pct" "46.5803847067205"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1700054593"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Giants Software"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Giants Software"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Farming Simulator"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_43" "1"
+		"category_27" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1637567340"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1248130"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "87918"
+		"2" "1685"
+		"3" "3859"
+		"4" "22602"
+		"5" "1669"
+		"6" "12472"
+		"7" "3810"
+		"8" "4191"
+		"9" "3839"
+		"10" "4695"
+		"11" "1695"
+		"12" "3843"
+		"13" "5350"
+		"14" "9204"
+		"15" "4747"
+		"16" "30358"
+		"17" "6041"
+		"18" "1697"
+		"19" "13190"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Giants Software"
+	"publisher" "Giants Software"
+	"homepage" "https://farming-simulator.com/"
+	"listofdlc" "1673990,1731910,1767680,1767690,1767691,1879480,1967740,1988850,1992250,2024410,2052720,2060460,2118730,2118740,2171790,2178810,2243160,2243170,2243180,2243190,2243200,2620980,2834020"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Farming Simulator 22"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "x64/FarmingSimulator2022Game.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Farming Simulator 2022.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,czech,romanian,turkish,brazilian,latam"
+	"1248131"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "828510169982133884"
+				"size" "28721701368"
+				"download" "16188659856"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "295048824557191019"
+				"size" "28299325706"
+				"download" "15901310288"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "7328124579569836736"
+				"size" "28305475249"
+				"download" "15905630688"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "1411610651512503284"
+				"size" "28386563318"
+				"download" "15951243680"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "3716837165391668369"
+				"size" "28580481630"
+				"download" "16068016608"
+			}
+			"release1.2.0.2"
+			{
+				"gid" "5984490175258437373"
+				"size" "25546472636"
+				"download" "14018017952"
+			}
+			"release1.3.1.0"
+			{
+				"gid" "4549861310869866872"
+				"size" "25815174762"
+				"download" "14171748800"
+			}
+			"release1.4.1.0"
+			{
+				"gid" "5756593100203170568"
+				"size" "25945699396"
+				"download" "14231128016"
+			}
+			"release1.5.0.0"
+			{
+				"gid" "9071541371840089392"
+				"size" "25950044002"
+				"download" "14231479936"
+			}
+			"release1.6.0.0"
+			{
+				"gid" "6061261261474753438"
+				"size" "26009629946"
+				"download" "14271942304"
+			}
+			"release1.7.1.0"
+			{
+				"gid" "2560193971316201135"
+				"size" "26278531627"
+				"download" "14407668592"
+			}
+			"release1.8.1.0"
+			{
+				"gid" "173405995440907046"
+				"size" "26475270916"
+				"download" "14491034272"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "7997576977114836353"
+				"size" "26475503796"
+				"download" "14491492528"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "5504282175600645233"
+				"size" "26520930011"
+				"download" "14515877504"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "7182713332781111982"
+				"size" "26742291367"
+				"download" "14642240016"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "4038433988806740854"
+				"size" "28653653061"
+				"download" "16107731312"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "828510169982133884"
+				"size" "28721701368"
+				"download" "16188659856"
+			}
+		}
+	}
+	"1248132"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3500327048525161053"
+				"size" "27956719885"
+				"download" "15612945200"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "5620592195080790754"
+				"size" "27545913826"
+				"download" "15349169344"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "2188400618339798868"
+				"size" "27552470313"
+				"download" "15352018176"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "1452322951189008587"
+				"size" "27600100681"
+				"download" "15377109840"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "1108605395125173972"
+				"size" "27801022460"
+				"download" "15504609712"
+			}
+			"release1.2.0.2"
+			{
+				"gid" "4309475066111760635"
+				"size" "24930854637"
+				"download" "13534422480"
+			}
+			"release1.3.1.0"
+			{
+				"gid" "5762078332074198457"
+				"size" "25191747331"
+				"download" "13680529008"
+			}
+			"release1.4.1.0"
+			{
+				"gid" "2909610951510263036"
+				"size" "25321220016"
+				"download" "13739563456"
+			}
+			"release1.5.0.0"
+			{
+				"gid" "5781194782976016701"
+				"size" "25322518770"
+				"download" "13738699696"
+			}
+			"release1.6.0.0"
+			{
+				"gid" "8754662838967517703"
+				"size" "25382469593"
+				"download" "13779067280"
+			}
+			"release1.7.1.0"
+			{
+				"gid" "2084033850442902843"
+				"size" "25668552259"
+				"download" "13927490096"
+			}
+			"release1.8.1.0"
+			{
+				"gid" "364923235437959839"
+				"size" "25798122263"
+				"download" "14002707952"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "2302830810747976983"
+				"size" "25801518058"
+				"download" "14005876240"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "2862469117143070858"
+				"size" "25835636685"
+				"download" "14015396544"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "7261619780600999143"
+				"size" "26027230248"
+				"download" "14118359088"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "3177884745719770516"
+				"size" "27800229289"
+				"download" "15503783680"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "3500327048525161053"
+				"size" "27956719885"
+				"download" "15612945200"
+			}
+		}
+	}
+	"1248133"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4618561879047779171"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "4618561879047779171"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "4618561879047779171"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "4618561879047779171"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "4618561879047779171"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.2.0.2"
+			{
+				"gid" "4618561879047779171"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.3.1.0"
+			{
+				"gid" "4618561879047779171"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.4.1.0"
+			{
+				"gid" "4618561879047779171"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.5.0.0"
+			{
+				"gid" "4618561879047779171"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.6.0.0"
+			{
+				"gid" "4618561879047779171"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.7.1.0"
+			{
+				"gid" "4618561879047779171"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.8.1.0"
+			{
+				"gid" "4618561879047779171"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "4618561879047779171"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "4618561879047779171"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "4618561879047779171"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "4618561879047779171"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "4618561879047779171"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1248134"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3422070113579301620"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "3422070113579301620"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "3422070113579301620"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "3422070113579301620"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "3422070113579301620"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.2.0.2"
+			{
+				"gid" "3422070113579301620"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.3.1.0"
+			{
+				"gid" "3422070113579301620"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.4.1.0"
+			{
+				"gid" "3422070113579301620"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.5.0.0"
+			{
+				"gid" "3422070113579301620"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.6.0.0"
+			{
+				"gid" "3422070113579301620"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.7.1.0"
+			{
+				"gid" "3422070113579301620"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.8.1.0"
+			{
+				"gid" "3422070113579301620"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "3422070113579301620"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "3422070113579301620"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "3422070113579301620"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "3422070113579301620"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "3422070113579301620"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1248135"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4475626736983645437"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "4475626736983645437"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "4475626736983645437"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "4475626736983645437"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "4475626736983645437"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.2.0.2"
+			{
+				"gid" "4475626736983645437"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.3.1.0"
+			{
+				"gid" "4475626736983645437"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.4.1.0"
+			{
+				"gid" "4475626736983645437"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.5.0.0"
+			{
+				"gid" "4475626736983645437"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.6.0.0"
+			{
+				"gid" "4475626736983645437"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.7.1.0"
+			{
+				"gid" "4475626736983645437"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.8.1.0"
+			{
+				"gid" "4475626736983645437"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "4475626736983645437"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "4475626736983645437"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "4475626736983645437"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "4475626736983645437"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "4475626736983645437"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1248136"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6834781470726443073"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "6834781470726443073"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "6834781470726443073"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "6834781470726443073"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "6834781470726443073"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.2.0.2"
+			{
+				"gid" "6834781470726443073"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.3.1.0"
+			{
+				"gid" "6834781470726443073"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.4.1.0"
+			{
+				"gid" "6834781470726443073"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.5.0.0"
+			{
+				"gid" "6834781470726443073"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.6.0.0"
+			{
+				"gid" "6834781470726443073"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.7.1.0"
+			{
+				"gid" "6834781470726443073"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.8.1.0"
+			{
+				"gid" "6834781470726443073"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "6834781470726443073"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "6834781470726443073"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "6834781470726443073"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "6834781470726443073"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "6834781470726443073"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1248137"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1922945346341920237"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "1922945346341920237"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "1922945346341920237"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "1922945346341920237"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "1922945346341920237"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.2.0.2"
+			{
+				"gid" "1922945346341920237"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.3.1.0"
+			{
+				"gid" "1922945346341920237"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.4.1.0"
+			{
+				"gid" "1922945346341920237"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.5.0.0"
+			{
+				"gid" "1922945346341920237"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.6.0.0"
+			{
+				"gid" "1922945346341920237"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.7.1.0"
+			{
+				"gid" "1922945346341920237"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.8.1.0"
+			{
+				"gid" "1922945346341920237"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "1922945346341920237"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "1922945346341920237"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "1922945346341920237"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "1922945346341920237"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "1922945346341920237"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1248138"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9092994224644967653"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "9092994224644967653"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "9092994224644967653"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "9092994224644967653"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "9092994224644967653"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.2.0.2"
+			{
+				"gid" "9092994224644967653"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.3.1.0"
+			{
+				"gid" "9092994224644967653"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.4.1.0"
+			{
+				"gid" "9092994224644967653"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.5.0.0"
+			{
+				"gid" "9092994224644967653"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.6.0.0"
+			{
+				"gid" "9092994224644967653"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.7.1.0"
+			{
+				"gid" "9092994224644967653"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.8.1.0"
+			{
+				"gid" "9092994224644967653"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "9092994224644967653"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "9092994224644967653"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "9092994224644967653"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "9092994224644967653"
+				"size" "0"
+				"download" "0"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "9092994224644967653"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1248139"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+	}
+	"1673991"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+	}
+	"1673992"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+	}
+	"1673993"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+	}
+	"1673994"
+	{
+		"config"
+		{
+			"language" "portuguese"
+		}
+	}
+	"1673995"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+	}
+	"1673996"
+	{
+		"config"
+		{
+			"language" "danish"
+		}
+	}
+	"1673997"
+	{
+		"config"
+		{
+			"language" "dutch"
+		}
+	}
+	"1673998"
+	{
+		"config"
+		{
+			"language" "finnish"
+		}
+	}
+	"1673999"
+	{
+		"config"
+		{
+			"language" "norwegian"
+		}
+	}
+	"1731911"
+	{
+		"config"
+		{
+			"language" "swedish"
+		}
+	}
+	"1731912"
+	{
+		"config"
+		{
+			"language" "hungarian"
+		}
+	}
+	"1731913"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+	}
+	"1731914"
+	{
+		"config"
+		{
+			"language" "romanian"
+		}
+	}
+	"1731915"
+	{
+		"config"
+		{
+			"language" "turkish"
+		}
+	}
+	"1731916"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+	}
+	"1731917"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+	}
+	"1673990"
+	{
+		"dlcappid" "1673990"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1062251328472408350"
+				"size" "119972352"
+				"download" "89090080"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "1062251328472408350"
+				"size" "119972352"
+				"download" "89090080"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "1062251328472408350"
+				"size" "119972352"
+				"download" "89090080"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "1062251328472408350"
+				"size" "119972352"
+				"download" "89090080"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "1062251328472408350"
+				"size" "119972352"
+				"download" "89090080"
+			}
+			"release1.2.0.2"
+			{
+				"gid" "5105209424920884626"
+				"size" "119943680"
+				"download" "89056592"
+			}
+			"release1.3.1.0"
+			{
+				"gid" "1062251328472408350"
+				"size" "119972352"
+				"download" "89090080"
+			}
+			"release1.4.1.0"
+			{
+				"gid" "1062251328472408350"
+				"size" "119972352"
+				"download" "89090080"
+			}
+			"release1.5.0.0"
+			{
+				"gid" "1062251328472408350"
+				"size" "119972352"
+				"download" "89090080"
+			}
+			"release1.6.0.0"
+			{
+				"gid" "1062251328472408350"
+				"size" "119972352"
+				"download" "89090080"
+			}
+			"release1.7.1.0"
+			{
+				"gid" "1062251328472408350"
+				"size" "119972352"
+				"download" "89090080"
+			}
+			"release1.8.1.0"
+			{
+				"gid" "1062251328472408350"
+				"size" "119972352"
+				"download" "89090080"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "1062251328472408350"
+				"size" "119972352"
+				"download" "89090080"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "1062251328472408350"
+				"size" "119972352"
+				"download" "89090080"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "1062251328472408350"
+				"size" "119972352"
+				"download" "89090080"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "1062251328472408350"
+				"size" "119972352"
+				"download" "89090080"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "1062251328472408350"
+				"size" "119972352"
+				"download" "89090080"
+			}
+		}
+	}
+	"1767680"
+	{
+		"dlcappid" "1767680"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3234084343676613818"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "3234084343676613818"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "3234084343676613818"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "3234084343676613818"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "3234084343676613818"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.2.0.2"
+			{
+				"gid" "3234084343676613818"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.3.1.0"
+			{
+				"gid" "3234084343676613818"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.4.1.0"
+			{
+				"gid" "3234084343676613818"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.5.0.0"
+			{
+				"gid" "3234084343676613818"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.6.0.0"
+			{
+				"gid" "3234084343676613818"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.7.1.0"
+			{
+				"gid" "3234084343676613818"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.8.1.0"
+			{
+				"gid" "3234084343676613818"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "3234084343676613818"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "3234084343676613818"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "3234084343676613818"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "3234084343676613818"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "3234084343676613818"
+				"size" "73728"
+				"download" "13408"
+			}
+		}
+	}
+	"1767690"
+	{
+		"dlcappid" "1767690"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8570258775106909972"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "8570258775106909972"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "8570258775106909972"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "8570258775106909972"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "8570258775106909972"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.2.0.2"
+			{
+				"gid" "8570258775106909972"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.3.1.0"
+			{
+				"gid" "8570258775106909972"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.4.1.0"
+			{
+				"gid" "8570258775106909972"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.5.0.0"
+			{
+				"gid" "8570258775106909972"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.6.0.0"
+			{
+				"gid" "8570258775106909972"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.7.1.0"
+			{
+				"gid" "8570258775106909972"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.8.1.0"
+			{
+				"gid" "8570258775106909972"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "8570258775106909972"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "8570258775106909972"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "8570258775106909972"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "8570258775106909972"
+				"size" "73728"
+				"download" "13408"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "8570258775106909972"
+				"size" "73728"
+				"download" "13408"
+			}
+		}
+	}
+	"1767691"
+	{
+		"dlcappid" "1767691"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5870147096462724396"
+				"size" "73728"
+				"download" "13360"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "5870147096462724396"
+				"size" "73728"
+				"download" "13360"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "5870147096462724396"
+				"size" "73728"
+				"download" "13360"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "5870147096462724396"
+				"size" "73728"
+				"download" "13360"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "5870147096462724396"
+				"size" "73728"
+				"download" "13360"
+			}
+			"release1.2.0.2"
+			{
+				"gid" "5870147096462724396"
+				"size" "73728"
+				"download" "13360"
+			}
+			"release1.3.1.0"
+			{
+				"gid" "5870147096462724396"
+				"size" "73728"
+				"download" "13360"
+			}
+			"release1.4.1.0"
+			{
+				"gid" "5870147096462724396"
+				"size" "73728"
+				"download" "13360"
+			}
+			"release1.5.0.0"
+			{
+				"gid" "5870147096462724396"
+				"size" "73728"
+				"download" "13360"
+			}
+			"release1.6.0.0"
+			{
+				"gid" "5870147096462724396"
+				"size" "73728"
+				"download" "13360"
+			}
+			"release1.7.1.0"
+			{
+				"gid" "5870147096462724396"
+				"size" "73728"
+				"download" "13360"
+			}
+			"release1.8.1.0"
+			{
+				"gid" "5870147096462724396"
+				"size" "73728"
+				"download" "13360"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "5870147096462724396"
+				"size" "73728"
+				"download" "13360"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "5870147096462724396"
+				"size" "73728"
+				"download" "13360"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "5870147096462724396"
+				"size" "73728"
+				"download" "13360"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "5870147096462724396"
+				"size" "73728"
+				"download" "13360"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "5870147096462724396"
+				"size" "73728"
+				"download" "13360"
+			}
+		}
+	}
+	"1879480"
+	{
+		"dlcappid" "1879480"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5011842175521273659"
+				"size" "230761472"
+				"download" "181124320"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "5011842175521273659"
+				"size" "230761472"
+				"download" "181124320"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "5011842175521273659"
+				"size" "230761472"
+				"download" "181124320"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "5011842175521273659"
+				"size" "230761472"
+				"download" "181124320"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "5011842175521273659"
+				"size" "230761472"
+				"download" "181124320"
+			}
+			"release1.3.1.0"
+			{
+				"gid" "781236089368186800"
+				"size" "232373760"
+				"download" "182649696"
+			}
+			"release1.4.1.0"
+			{
+				"gid" "781236089368186800"
+				"size" "232373760"
+				"download" "182649696"
+			}
+			"release1.5.0.0"
+			{
+				"gid" "3354470656539562060"
+				"size" "230771712"
+				"download" "181134064"
+			}
+			"release1.6.0.0"
+			{
+				"gid" "3354470656539562060"
+				"size" "230771712"
+				"download" "181134064"
+			}
+			"release1.7.1.0"
+			{
+				"gid" "5011842175521273659"
+				"size" "230761472"
+				"download" "181124320"
+			}
+			"release1.8.1.0"
+			{
+				"gid" "5011842175521273659"
+				"size" "230761472"
+				"download" "181124320"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "5011842175521273659"
+				"size" "230761472"
+				"download" "181124320"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "5011842175521273659"
+				"size" "230761472"
+				"download" "181124320"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "5011842175521273659"
+				"size" "230761472"
+				"download" "181124320"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "5011842175521273659"
+				"size" "230761472"
+				"download" "181124320"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "5011842175521273659"
+				"size" "230761472"
+				"download" "181124320"
+			}
+		}
+	}
+	"1967740"
+	{
+		"dlcappid" "1967740"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9177020325140251542"
+				"size" "141666304"
+				"download" "102800416"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "9177020325140251542"
+				"size" "141666304"
+				"download" "102800416"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "9177020325140251542"
+				"size" "141666304"
+				"download" "102800416"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "9177020325140251542"
+				"size" "141666304"
+				"download" "102800416"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "9177020325140251542"
+				"size" "141666304"
+				"download" "102800416"
+			}
+			"release1.5.0.0"
+			{
+				"gid" "1367753496235140888"
+				"size" "141643264"
+				"download" "102774416"
+			}
+			"release1.6.0.0"
+			{
+				"gid" "9177020325140251542"
+				"size" "141666304"
+				"download" "102800416"
+			}
+			"release1.7.1.0"
+			{
+				"gid" "9177020325140251542"
+				"size" "141666304"
+				"download" "102800416"
+			}
+			"release1.8.1.0"
+			{
+				"gid" "9177020325140251542"
+				"size" "141666304"
+				"download" "102800416"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "9177020325140251542"
+				"size" "141666304"
+				"download" "102800416"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "9177020325140251542"
+				"size" "141666304"
+				"download" "102800416"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "9177020325140251542"
+				"size" "141666304"
+				"download" "102800416"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "9177020325140251542"
+				"size" "141666304"
+				"download" "102800416"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "9177020325140251542"
+				"size" "141666304"
+				"download" "102800416"
+			}
+		}
+	}
+	"1988850"
+	{
+		"dlcappid" "1988850"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6832232227991319596"
+				"size" "380427264"
+				"download" "253703088"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "4053748421660988780"
+				"size" "394455040"
+				"download" "267293216"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "4053748421660988780"
+				"size" "394455040"
+				"download" "267293216"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "4053748421660988780"
+				"size" "394455040"
+				"download" "267293216"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "6832232227991319596"
+				"size" "380427264"
+				"download" "253703088"
+			}
+			"release1.6.0.0"
+			{
+				"gid" "4469368706014263554"
+				"size" "394315776"
+				"download" "267136720"
+			}
+			"release1.7.1.0"
+			{
+				"gid" "4053748421660988780"
+				"size" "394455040"
+				"download" "267293216"
+			}
+			"release1.8.1.0"
+			{
+				"gid" "4053748421660988780"
+				"size" "394455040"
+				"download" "267293216"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "4053748421660988780"
+				"size" "394455040"
+				"download" "267293216"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "4053748421660988780"
+				"size" "394455040"
+				"download" "267293216"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "4053748421660988780"
+				"size" "394455040"
+				"download" "267293216"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "6832232227991319596"
+				"size" "380427264"
+				"download" "253703088"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "6832232227991319596"
+				"size" "380427264"
+				"download" "253703088"
+			}
+		}
+	}
+	"1992250"
+	{
+		"dlcappid" "1992250"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3202945344734599974"
+				"size" "117081600"
+				"download" "80425712"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "3202945344734599974"
+				"size" "117081600"
+				"download" "80425712"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "3202945344734599974"
+				"size" "117081600"
+				"download" "80425712"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "3202945344734599974"
+				"size" "117081600"
+				"download" "80425712"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "3202945344734599974"
+				"size" "117081600"
+				"download" "80425712"
+			}
+			"release1.7.1.0"
+			{
+				"gid" "6535987393353949651"
+				"size" "117066240"
+				"download" "80424704"
+			}
+			"release1.8.1.0"
+			{
+				"gid" "6535987393353949651"
+				"size" "117066240"
+				"download" "80424704"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "6535987393353949651"
+				"size" "117066240"
+				"download" "80424704"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "3202945344734599974"
+				"size" "117081600"
+				"download" "80425712"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "3202945344734599974"
+				"size" "117081600"
+				"download" "80425712"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "3202945344734599974"
+				"size" "117081600"
+				"download" "80425712"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "3202945344734599974"
+				"size" "117081600"
+				"download" "80425712"
+			}
+		}
+	}
+	"2052720"
+	{
+		"dlcappid" "2052720"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2308112217163877561"
+				"size" "994855424"
+				"download" "688632448"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "1970345726854531727"
+				"size" "994914816"
+				"download" "688690736"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "1970345726854531727"
+				"size" "994914816"
+				"download" "688690736"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "1970345726854531727"
+				"size" "994914816"
+				"download" "688690736"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "1970345726854531727"
+				"size" "994914816"
+				"download" "688690736"
+			}
+			"release1.7.1.0"
+			{
+				"gid" "2592360576723784500"
+				"size" "902192640"
+				"download" "619740736"
+			}
+			"release1.8.1.0"
+			{
+				"gid" "8940847879116171378"
+				"size" "902339584"
+				"download" "619748784"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "8940847879116171378"
+				"size" "902339584"
+				"download" "619748784"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "8940847879116171378"
+				"size" "902339584"
+				"download" "619748784"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "1970345726854531727"
+				"size" "994914816"
+				"download" "688690736"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "2308112217163877561"
+				"size" "994855424"
+				"download" "688632448"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "2308112217163877561"
+				"size" "994855424"
+				"download" "688632448"
+			}
+		}
+	}
+	"2024410"
+	{
+		"dlcappid" "2024410"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5703765128383730924"
+				"size" "3997022720"
+				"download" "3382920240"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "5703765128383730924"
+				"size" "3997022720"
+				"download" "3382920240"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "5703765128383730924"
+				"size" "3997022720"
+				"download" "3382920240"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "5703765128383730924"
+				"size" "3997022720"
+				"download" "3382920240"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "5703765128383730924"
+				"size" "3997022720"
+				"download" "3382920240"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "5458720951687344443"
+				"size" "3960203264"
+				"download" "3348744384"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "5703765128383730924"
+				"size" "3997022720"
+				"download" "3382920240"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "5703765128383730924"
+				"size" "3997022720"
+				"download" "3382920240"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "5703765128383730924"
+				"size" "3997022720"
+				"download" "3382920240"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "5703765128383730924"
+				"size" "3997022720"
+				"download" "3382920240"
+			}
+		}
+	}
+	"2060460"
+	{
+		"dlcappid" "2060460"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6400597163278892789"
+				"size" "71339008"
+				"download" "55454880"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "6400597163278892789"
+				"size" "71339008"
+				"download" "55454880"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "6400597163278892789"
+				"size" "71339008"
+				"download" "55454880"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "6400597163278892789"
+				"size" "71339008"
+				"download" "55454880"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "6400597163278892789"
+				"size" "71339008"
+				"download" "55454880"
+			}
+			"release1.7.1.0"
+			{
+				"gid" "6400597163278892789"
+				"size" "71339008"
+				"download" "55454880"
+			}
+			"release1.8.1.0"
+			{
+				"gid" "6400597163278892789"
+				"size" "71339008"
+				"download" "55454880"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "6400597163278892789"
+				"size" "71339008"
+				"download" "55454880"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "6400597163278892789"
+				"size" "71339008"
+				"download" "55454880"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "6400597163278892789"
+				"size" "71339008"
+				"download" "55454880"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "6400597163278892789"
+				"size" "71339008"
+				"download" "55454880"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "6400597163278892789"
+				"size" "71339008"
+				"download" "55454880"
+			}
+		}
+	}
+	"2118730"
+	{
+		"dlcappid" "2118730"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6735190368104136657"
+				"size" "40960"
+				"download" "35088"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "6735190368104136657"
+				"size" "40960"
+				"download" "35088"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "6735190368104136657"
+				"size" "40960"
+				"download" "35088"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "6735190368104136657"
+				"size" "40960"
+				"download" "35088"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "6735190368104136657"
+				"size" "40960"
+				"download" "35088"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "6735190368104136657"
+				"size" "40960"
+				"download" "35088"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "6735190368104136657"
+				"size" "40960"
+				"download" "35088"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "6735190368104136657"
+				"size" "40960"
+				"download" "35088"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "6735190368104136657"
+				"size" "40960"
+				"download" "35088"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "6735190368104136657"
+				"size" "40960"
+				"download" "35088"
+			}
+		}
+	}
+	"2118740"
+	{
+		"dlcappid" "2118740"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3092276717910398577"
+				"size" "40960"
+				"download" "35056"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "3092276717910398577"
+				"size" "40960"
+				"download" "35056"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "3092276717910398577"
+				"size" "40960"
+				"download" "35056"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "3092276717910398577"
+				"size" "40960"
+				"download" "35056"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "3092276717910398577"
+				"size" "40960"
+				"download" "35056"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "3092276717910398577"
+				"size" "40960"
+				"download" "35056"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "3092276717910398577"
+				"size" "40960"
+				"download" "35056"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "3092276717910398577"
+				"size" "40960"
+				"download" "35056"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "3092276717910398577"
+				"size" "40960"
+				"download" "35056"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "3092276717910398577"
+				"size" "40960"
+				"download" "35056"
+			}
+		}
+	}
+	"2171790"
+	{
+		"dlcappid" "2171790"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2537414244908965707"
+				"size" "40960"
+				"download" "35104"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "2537414244908965707"
+				"size" "40960"
+				"download" "35104"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "2537414244908965707"
+				"size" "40960"
+				"download" "35104"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "2537414244908965707"
+				"size" "40960"
+				"download" "35104"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "2537414244908965707"
+				"size" "40960"
+				"download" "35104"
+			}
+			"release1.8.1.0"
+			{
+				"gid" "2537414244908965707"
+				"size" "40960"
+				"download" "35104"
+			}
+			"release1.8.2.0"
+			{
+				"gid" "2537414244908965707"
+				"size" "40960"
+				"download" "35104"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "2537414244908965707"
+				"size" "40960"
+				"download" "35104"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "2537414244908965707"
+				"size" "40960"
+				"download" "35104"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "2537414244908965707"
+				"size" "40960"
+				"download" "35104"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "2537414244908965707"
+				"size" "40960"
+				"download" "35104"
+			}
+		}
+	}
+	"2243160"
+	{
+		"dlcappid" "2243160"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2115387195750703084"
+				"size" "384012800"
+				"download" "296147104"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "8935877607918737836"
+				"size" "383718400"
+				"download" "296824240"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "8935877607918737836"
+				"size" "383718400"
+				"download" "296824240"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "8935877607918737836"
+				"size" "383718400"
+				"download" "296824240"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "2115387195750703084"
+				"size" "384012800"
+				"download" "296147104"
+			}
+			"release1.9.0.0"
+			{
+				"gid" "8935877607918737836"
+				"size" "383718400"
+				"download" "296824240"
+			}
+			"release1.9.1.0"
+			{
+				"gid" "8935877607918737836"
+				"size" "383718400"
+				"download" "296824240"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "2115387195750703084"
+				"size" "384012800"
+				"download" "296147104"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "2115387195750703084"
+				"size" "384012800"
+				"download" "296147104"
+			}
+		}
+	}
+	"2243170"
+	{
+		"dlcappid" "2243170"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7610373529691780140"
+				"size" "450280448"
+				"download" "326569808"
+			}
+			"release1.10.1.0"
+			{
+				"gid" "7610373529691780140"
+				"size" "450280448"
+				"download" "326569808"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "7610373529691780140"
+				"size" "450280448"
+				"download" "326569808"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "7610373529691780140"
+				"size" "450280448"
+				"download" "326569808"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "7610373529691780140"
+				"size" "450280448"
+				"download" "326569808"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "7610373529691780140"
+				"size" "450280448"
+				"download" "326569808"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "7610373529691780140"
+				"size" "450280448"
+				"download" "326569808"
+			}
+		}
+	}
+	"2243180"
+	{
+		"dlcappid" "2243180"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5715031455963173775"
+				"size" "1235662848"
+				"download" "989587568"
+			}
+			"release1.11.0.0"
+			{
+				"gid" "1437384513228786614"
+				"size" "1232844800"
+				"download" "987390000"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "3177222048279343822"
+				"size" "1235687424"
+				"download" "989616400"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "5715031455963173775"
+				"size" "1235662848"
+				"download" "989587568"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "5715031455963173775"
+				"size" "1235662848"
+				"download" "989587568"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "5715031455963173775"
+				"size" "1235662848"
+				"download" "989587568"
+			}
+		}
+	}
+	"2243190"
+	{
+		"dlcappid" "2243190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8191973273789748966"
+				"size" "358215680"
+				"download" "262965856"
+			}
+			"release1.12.0.0"
+			{
+				"gid" "8191973273789748966"
+				"size" "358215680"
+				"download" "262965856"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "8191973273789748966"
+				"size" "358215680"
+				"download" "262965856"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "8191973273789748966"
+				"size" "358215680"
+				"download" "262965856"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "8191973273789748966"
+				"size" "358215680"
+				"download" "262965856"
+			}
+		}
+	}
+	"2243200"
+	{
+		"dlcappid" "2243200"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7525337098517332911"
+				"size" "3302638080"
+				"download" "2851467328"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "5420641246812147677"
+				"size" "3299031552"
+				"download" "2847811168"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "5420641246812147677"
+				"size" "3299031552"
+				"download" "2847811168"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "7525337098517332911"
+				"size" "3302638080"
+				"download" "2851467328"
+			}
+		}
+	}
+	"2620980"
+	{
+		"dlcappid" "2620980"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3199981134047764534"
+				"size" "40960"
+				"download" "35088"
+			}
+			"release1.13.1.0"
+			{
+				"gid" "3199981134047764534"
+				"size" "40960"
+				"download" "35088"
+			}
+			"release1.13.1.1"
+			{
+				"gid" "3199981134047764534"
+				"size" "40960"
+				"download" "35088"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "3199981134047764534"
+				"size" "40960"
+				"download" "35088"
+			}
+		}
+	}
+	"2834020"
+	{
+		"dlcappid" "2834020"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1967441239416157837"
+				"size" "349764608"
+				"download" "230782176"
+			}
+			"release1.14.0.0"
+			{
+				"gid" "1967441239416157837"
+				"size" "349764608"
+				"download" "230782176"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14439757"
+			"timeupdated" "1716882797"
+		}
+		"release1.10.1.0"
+		{
+			"buildid" "11356716"
+			"description" "Version 1.10.1.0"
+			"timeupdated" "1686050908"
+		}
+		"release1.11.0.0"
+		{
+			"buildid" "11488029"
+			"description" "Version 1.11.0.0"
+			"timeupdated" "1690187927"
+		}
+		"release1.12.0.0"
+		{
+			"buildid" "12659574"
+			"description" "Version 1.12.0.0"
+			"timeupdated" "1699526170"
+		}
+		"release1.13.1.0"
+		{
+			"buildid" "12672937"
+			"description" "Version 1.13.1.0"
+			"timeupdated" "1699632567"
+		}
+		"release1.2.0.2"
+		{
+			"buildid" "7921104"
+			"description" "Version 1.2.0.2"
+			"timeupdated" "1645692016"
+		}
+		"release1.3.1.0"
+		{
+			"buildid" "8346614"
+			"description" "Version 1.3.1.0"
+			"timeupdated" "1649147021"
+		}
+		"release1.4.1.0"
+		{
+			"buildid" "8595864"
+			"description" "Version 1.4.1.0\t"
+			"timeupdated" "1651481627"
+		}
+		"release1.5.0.0"
+		{
+			"buildid" "8761252"
+			"description" "Version 1.5.0.0"
+			"timeupdated" "1653390560"
+		}
+		"release1.6.0.0"
+		{
+			"buildid" "9000052"
+			"description" "Version 1.6.0.0"
+			"timeupdated" "1656331012"
+		}
+		"release1.7.1.0"
+		{
+			"buildid" "9458760"
+			"description" "Version 1.7.1.0"
+			"timeupdated" "1662453322"
+		}
+		"release1.8.1.0"
+		{
+			"buildid" "9801735"
+			"description" "Version 1.8.1.0"
+			"timeupdated" "1666773699"
+		}
+		"release1.8.2.0"
+		{
+			"buildid" "9868461"
+			"description" "Version 1.8.2.0"
+			"timeupdated" "1668418413"
+		}
+		"release1.9.0.0"
+		{
+			"buildid" "10523517"
+			"description" "Version 1.9.0.0"
+			"timeupdated" "1678787253"
+		}
+		"release1.9.1.0"
+		{
+			"buildid" "10992689"
+			"description" "Version 1.9.1.0"
+			"timeupdated" "1682412098"
+		}
+		"release1.13.1.1"
+		{
+			"buildid" "13196140"
+			"description" "Version 1.13.1.1"
+			"timeupdated" "1705498857"
+		}
+		"release1.14.0.0"
+		{
+			"buildid" "14439757"
+			"description" "Version 1.14.0.0"
+			"timeupdated" "1716882681"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "MacAppSupport"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinMyDocuments"
+			"addpath" "My Games/"
+		}
+	}
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/"
+			"pattern" "inputBinding.xml"
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame1/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame2/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame3/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"4"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame4/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"5"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame5/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"6"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame6/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"7"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame7/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"8"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame8/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"9"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame9/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"10"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame10/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"11"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame11/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"12"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame12/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"13"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame13/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"14"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame14/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"15"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame15/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"16"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame16/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"17"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame17/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"18"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame18/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"19"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame19/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"20"
+		{
+			"root" "MacAppSupport"
+			"path" "FarmingSimulator2022/savegame20/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26900250"
+"_sha" "57ba9c0f8dbac6dc2a2d26ea8e845ea5df17dc09"
+"_size" "56301"
