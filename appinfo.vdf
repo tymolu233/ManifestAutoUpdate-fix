@@ -1,0 +1,425 @@
+"appid" "2527500"
+"common"
+{
+	"name" "MiSide"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticns" "474c73e3b57b15b29b89aee3919d178987b69191"
+	"clienttga" "be2f1be5588c503eda918ae95592739bd2cc5c98"
+	"clienticon" "eaca42193d2c61f6211b19d5792b2c15703ea6f0"
+	"icon" "c262acd97d45a10d3102cb654dace25af7b05977"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "米塔 MiSide"
+		"japanese" "MiSide : ミサイド"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+		"vietnamese" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1734998400"
+		"tested_build_id" "16702566"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"japanese" "26205ffb38e31782ed354fe6081c115299ca34ac/capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "49.37897359086521"
+			"height_pct" "60.22137403832496"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.37897359086521"
+				"height_pct" "60.22137403832496"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "a62ac6e644c27d4faad6eccf4100a4ee60113986/library_header.jpg"
+				"schinese" "a8ad263e7d90853d8a9adc87e8b7672f6f99d2d8/library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733985758"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "AIHASTO"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "IndieArk"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Shochiku (Japan)"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "IndieArk"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"persian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"serbian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"filipino"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"croatian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1733889557"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2527500"
+	"store_tags"
+	{
+		"0" "1721"
+		"1" "4726"
+		"2" "1742"
+		"3" "1667"
+		"4" "3839"
+		"5" "4182"
+		"6" "4191"
+		"7" "12095"
+		"8" "4166"
+		"9" "4064"
+		"10" "15172"
+		"11" "21"
+		"12" "5984"
+		"13" "1664"
+		"14" "599"
+		"15" "10235"
+		"16" "122"
+		"17" "3871"
+		"18" "1738"
+		"19" "5673"
+	}
+	"review_score" "9"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"developer" "AIHASTO"
+	"publisher" "IndieArk"
+}
+"config"
+{
+	"installdir" "MiSide"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "MiSideFull.exe"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese,tchinese,russian,japanese"
+	"2527501"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6403597305556111734"
+				"size" "3256517564"
+				"download" "1317477136"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17368075"
+			"timeupdated" "1739544300"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+}
+"_missing_token" "False"
+"_change_number" "27741889"
+"_sha" "20148a9a3c0a2f303f2a0bfb87acb7f8a335e8e6"
+"_size" "7311"
