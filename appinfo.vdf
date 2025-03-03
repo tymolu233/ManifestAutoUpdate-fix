@@ -1,0 +1,188 @@
+"appid" "676760"
+"common"
+{
+	"name" "Noise"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"controllervr"
+	{
+		"kbm" "1"
+		"xinput" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+	}
+	"clienticon" "fc64a0c3b72fa147e1abe8c74434be66c7633057"
+	"clienttga" "2a4bc540cc9090725e80c386a0d5934f8b0843dc"
+	"icon" "728d270713f2998bd370055d4fd07914c6560912"
+	"logo" "5a44e7caf281686dbf671cac2d609e4bb9316bfe"
+	"logo_small" "5a44e7caf281686dbf671cac2d609e4bb9316bfe_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"russian" "1"
+	}
+	"openvrsupport" "1"
+	"othervrsupport" "1"
+	"othervrsupport_rift_13" "1"
+	"metacritic_name" "Noise"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_837a4fa20f7be8cb0dcc8aeaefcc0abdb22776d6.jpg"
+	"store_asset_mtime" "1667035204"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Talentplace"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "KishMish Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_13" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1570982640"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "676760"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "492"
+		"2" "1667"
+		"3" "21978"
+		"4" "4166"
+		"5" "5716"
+		"6" "493"
+		"7" "3839"
+		"8" "5179"
+		"9" "19"
+		"10" "1664"
+		"11" "1710"
+		"12" "1719"
+		"13" "1721"
+		"14" "1659"
+		"15" "1693"
+		"16" "5611"
+		"17" "5673"
+		"18" "12472"
+		"19" "15339"
+	}
+	"review_score" "5"
+	"review_percentage" "53"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Talentplace"
+	"publisher" "KishMish Games"
+	"homepage" "https://kishmish-games.com"
+}
+"config"
+{
+	"installdir" "Noise"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Noise.exe"
+			"description" "Desktop Mode"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Noise.exe"
+			"description" "VR Mode"
+			"type" "othervr"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "Noise.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"676761"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8755570255786838115"
+				"size" "2331127691"
+				"download" "936265248"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2436181"
+			"timeupdated" "1515939174"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "8622357e9217b55ee93a34a197b212b11d92c18b"
+"_size" "2978"
