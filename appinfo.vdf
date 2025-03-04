@@ -1,0 +1,449 @@
+"appid" "389140"
+"common"
+{
+	"name" "Horizon Chase Turbo"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"clienticon" "f58f7d27886cd7e06e5f441298b229e7f6846e64"
+	"clienttga" "63b41952961feeb6e5a50f3bab9247a402961714"
+	"icon" "7d5515de452bd5060cef7b8bd1d576131782c969"
+	"logo" "514560d12aaddbb8529c4e22e6cdb4f5091c7e0a"
+	"logo_small" "514560d12aaddbb8529c4e22e6cdb4f5091c7e0a_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"releasestate" "released"
+	"linuxclienticon" "d59c99a62ca0c4abf7611e4325115b5036cefffa"
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644883200"
+		"tested_build_id" "7784016"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Horizon Chase Turbo"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "22.684415447753324"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "22.684415447753324"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1681755148"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "AQUIRIS"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "AQUIRIS"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Horizon Chase"
+		}
+	}
+	"primary_genre" "9"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "9"
+		"4" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_33" "1"
+		"category_44" "1"
+		"category_43" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_35" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1526369820"
+	"metacritic_score" "76"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/horizon-chase-turbo\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "389140"
+	"store_tags"
+	{
+		"0" "699"
+		"1" "1773"
+		"2" "492"
+		"3" "597"
+		"4" "4004"
+		"5" "701"
+		"6" "19"
+		"7" "7368"
+		"8" "1756"
+		"9" "4840"
+		"10" "10816"
+		"11" "3841"
+		"12" "4182"
+		"13" "14720"
+		"14" "1644"
+		"15" "6691"
+		"16" "4305"
+		"17" "3859"
+		"18" "3916"
+		"19" "3965"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "AQUIRIS"
+	"publisher" "AQUIRIS"
+	"homepage" "http://www.horizonchaseturbo.com/"
+	"listofdlc" "863520,1137940,1174880,1608540"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Horizon Chase"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HorizonChase.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "HorizonChase.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "HorizonChase.x86"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+		"3"
+		{
+			"executable" "HorizonChase.x86_64"
+			"description" "Horizon Chase (x64)"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1907130168"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"389141"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9067936065361603496"
+				"size" "1313715377"
+				"download" "475199072"
+			}
+		}
+	}
+	"389142"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2524206730772579375"
+				"size" "1321711945"
+				"download" "478244080"
+			}
+		}
+	}
+	"389143"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3714985678090877526"
+				"size" "1354185332"
+				"download" "488245152"
+			}
+		}
+	}
+	"863520"
+	{
+		"dlcappid" "863520"
+	}
+	"389144"
+	{
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10903314"
+			"timeupdated" "1680281968"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Aquiris/HorizonChaseTurbo/{64BitSteamID}"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Aquiris/HorizonChaseTurbo/{64BitSteamID}"
+					"replace" "Aquiris/HorizonChaseTurbo/{64BitSteamID}"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Aquiris/HorizonChaseTurbo/{64BitSteamID}"
+					"replace" "unity.Aquiris.HorizonChaseTurbo/{64BitSteamID}"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27540797"
+"_sha" "f108600cbfac8d8906d0bf6bb829a5c4d430e6c1"
+"_size" "7629"
