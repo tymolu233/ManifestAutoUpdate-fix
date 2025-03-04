@@ -1,0 +1,368 @@
+"appid" "1123830"
+"common"
+{
+	"name" "Farm Manager 2021"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "ff2ab20373b9a2a67ab982215a247ddc76bd7c63"
+	"logo_small" "ff2ab20373b9a2a67ab982215a247ddc76bd7c63_thumb"
+	"icon" "5a9d18ef0bf29c91c0078a69655df7a55046009b"
+	"clienticon" "86aee68deaa0b83912fbe2e28c2be7014082a41c"
+	"clienttga" "d8436b7a9e472d1aa3fe2684a7b006a67d5b2a14"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"turkish" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1653004800"
+		"tested_build_id" "8620673"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1721218035"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Cleversan Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PlayWay S.A."
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Sim Farm S.A."
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Farm Manager"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1620313260"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1123830"
+	"store_tags"
+	{
+		"0" "4520"
+		"1" "12472"
+		"2" "4328"
+		"3" "597"
+		"4" "1654"
+		"5" "87918"
+		"6" "599"
+		"7" "1643"
+		"8" "3810"
+		"9" "16689"
+		"10" "22602"
+		"11" "492"
+		"12" "4175"
+		"13" "4695"
+		"14" "615955"
+		"15" "9"
+		"16" "5851"
+		"17" "8945"
+		"18" "6276"
+		"19" "4182"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Cleversan Games"
+	"publisher" "PlayWay S.A."
+	"homepage" "https://www.facebook.com/farmmanagergames/"
+	"listofdlc" "1707430,1741390,2159830"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Farm Manager 2021"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FarmManager21.exe"
+			"description" "Run Farm Manager 2021"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2762432690"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "steamdeck"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "65535"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1123831"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6894222353726511623"
+				"size" "6475089046"
+				"download" "3355247008"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16803008"
+			"timeupdated" "1734634987"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "2680000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Cleversan/FarmManager21/saves"
+			"pattern" "*.save"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Cleversan/FarmManager21/saves"
+			"pattern" "*.savedata"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26947598"
+"_sha" "82b4497faf39e63c073844824232f4881c125754"
+"_size" "6220"
