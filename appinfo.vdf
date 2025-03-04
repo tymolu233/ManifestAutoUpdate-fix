@@ -1,0 +1,463 @@
+"appid" "699130"
+"common"
+{
+	"name" "World War Z"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienttga" "84c33868a40176a686138af3c530e998c66c8b00"
+	"logo" "8ddd59c7472385b6c6d68446254911fded2a117e"
+	"logo_small" "8ddd59c7472385b6c6d68446254911fded2a117e_thumb"
+	"icon" "0f9e81a6be6e3f5d2a40551ee3aaf63329048b7a"
+	"languages"
+	{
+		"english" "1"
+		"russian" "1"
+	}
+	"clienticon" "031966373e4d45c2a83816580597a651c822dd38"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "699130_eula_0"
+			"name" "World War Z: Aftermath EULA"
+			"url" "https://store.steampowered.com//eula/699130_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1653004800"
+		"tested_build_id" "8493108"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "45d7b33709e18280f68a8504861296453f41e932/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "8df6e0e79fa1423d05157b76ce8a76ec4d6e6158/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "8df6e0e79fa1423d05157b76ce8a76ec4d6e6158/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "eb278dad7c4801b8975fd7e08c11bf0bf96f0531/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "eb278dad7c4801b8975fd7e08c11bf0bf96f0531/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "a1886f984827408d3bf8736832c291c8df44d368/logo.png"
+			}
+			"image2x"
+			{
+				"english" "a1886f984827408d3bf8736832c291c8df44d368/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "cc46384861ce2be97ef925d3bc422aa264034eb5/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733932271"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Saber Interactive Inc"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Saber Interactive Inc"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "World War Z"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1632227520"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "699130"
+	"store_tags"
+	{
+		"0" "1659"
+		"1" "3859"
+		"2" "3843"
+		"3" "19"
+		"4" "1685"
+		"5" "4182"
+		"6" "1774"
+		"7" "3814"
+		"8" "6730"
+		"9" "1663"
+		"10" "3978"
+		"11" "4345"
+		"12" "3835"
+		"13" "5765"
+		"14" "4747"
+		"15" "3839"
+		"16" "4667"
+		"17" "1697"
+		"18" "1667"
+		"19" "3993"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Saber Interactive Inc"
+	"publisher" "Saber Interactive Inc"
+	"homepage" "https://wwzgame.com/"
+	"listofdlc" "1640650,1708020,2170270,2226070,2243210,2313390,2475060,2540380,2614650,2614660,2962180,3100200,3245120,3245130"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "WWZ"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "en_us\\client\\bin\\pc\\wwzRetail.exe"
+			"workingdir" "en_us\\client\\bin\\pc\\"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Retail"
+			}
+			"description" "Retail"
+		}
+		"2"
+		{
+			"executable" "en_us\\client\\bin\\pc\\wwzRelease.exe"
+			"workingdir" "en_us\\client\\bin\\pc\\"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "beta_home,references"
+			}
+			"description_loc"
+			{
+				"english" "Release"
+			}
+			"description" "Release"
+		}
+		"3"
+		{
+			"executable" "en_us\\client\\bin\\pc\\wwzProfile.exe"
+			"workingdir" "en_us\\client\\bin\\pc\\"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "fh_branch"
+			}
+			"description_loc"
+			{
+				"english" "Profile"
+			}
+			"description" "Profile"
+		}
+		"4"
+		{
+			"executable" "en_us\\client\\bin\\pc\\wwzProfile.exe"
+			"workingdir" "en_us\\client\\bin\\pc\\"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sbr_qa_main,references"
+			}
+			"description_loc"
+			{
+				"english" "Profile"
+			}
+			"description" "Profile"
+		}
+		"5"
+		{
+			"executable" "en_us\\client\\bin\\pc\\wwzProfile.exe"
+			"workingdir" "en_us\\client\\bin\\pc\\"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "kochprostest"
+			}
+			"description_loc"
+			{
+				"english" "Profile"
+			}
+			"description" "Profile"
+		}
+		"6"
+		{
+			"executable" "en_us\\client\\bin\\pc\\wwzProfile.exe"
+			"workingdir" "en_us\\client\\bin\\pc\\"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hm2_playtest"
+			}
+			"description_loc"
+			{
+				"english" "Profile"
+			}
+			"description" "Profile"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2627804454"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"2627810252"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,sbr_qa_main,sbr_qa_stable"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,russian"
+	"699131"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9175752277943165031"
+				"size" "71624788396"
+				"download" "45351150848"
+			}
+		}
+	}
+	"699132"
+	{
+		"manifests"
+		{
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17063995"
+			"timeupdated" "1737968339"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1048576"
+	"maxnumfiles" "16"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SavesDir"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27771662"
+"_sha" "38223f541b863c28a13ee4c5c0f4dfcb8112562f"
+"_size" "8435"
