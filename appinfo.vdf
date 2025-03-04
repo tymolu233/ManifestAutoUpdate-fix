@@ -1,0 +1,329 @@
+"appid" "989770"
+"common"
+{
+	"name" "Biker Garage: Mechanic Simulator"
+	"type" "Game"
+	"logo" "816125ec4a2c9bbe666dfc851c85a87f1c748b9b"
+	"logo_small" "816125ec4a2c9bbe666dfc851c85a87f1c748b9b_thumb"
+	"icon" "6f3b8f76969a1b5e20ef7061a122d81b54a0779c"
+	"clienticon" "b154f362c23c24e8d205ba825f83c0308a4be96d"
+	"clienttga" "2269d6541e47f79c0338565a8ea7d146d22dd710"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1685664000"
+		"tested_build_id" "7460831"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-2"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Biker Garage"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "67.92782305005821"
+			"height_pct" "70.10074074074073"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "67.92782305005821"
+				"height_pct" "70.10074074074073"
+			}
+		}
+	}
+	"store_asset_mtime" "1613071490"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "BeardedBrothers.games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "BeardedBrothers.games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "BBG Simulators"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "9"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1574963912"
+	"community_hub_visible" "1"
+	"gameid" "989770"
+	"store_tags"
+	{
+		"0" "699"
+		"1" "198913"
+		"2" "492"
+		"3" "599"
+		"4" "123332"
+		"5" "12472"
+		"6" "3810"
+		"7" "1644"
+		"8" "4175"
+		"9" "4182"
+		"10" "1643"
+		"11" "1036"
+		"12" "4695"
+		"13" "3839"
+		"14" "9"
+		"15" "1702"
+		"16" "5363"
+		"17" "10397"
+		"18" "3968"
+		"19" "597"
+	}
+	"review_score" "5"
+	"review_percentage" "69"
+}
+"extended"
+{
+	"developer" "BeardedBrothers.games"
+	"publisher" "BeardedBrothers.games"
+	"listofdlc" "1210200,1227560,1258490,1341350,1341351"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Biker Garage"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BikerGarage.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"989771"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6713270098296339430"
+				"size" "8723083011"
+				"download" "3395797440"
+			}
+			"tests"
+			{
+				"gid" "2605728716277091113"
+				"size" "10081225415"
+				"download" "3341368512"
+			}
+		}
+	}
+	"989772"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "247488206789851893"
+				"size" "8723083011"
+				"download" "3395937456"
+			}
+			"tests"
+			{
+				"gid" "5475800359118507164"
+				"size" "10081225415"
+				"download" "3341108160"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7460831"
+			"timeupdated" "1634740723"
+		}
+		"tests"
+		{
+			"buildid" "5939141"
+			"timeupdated" "1607448620"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27371948"
+"_sha" "ab8d4c765e4c6fdef3a9e1dfdf3fcf4dd722a99e"
+"_size" "5653"
