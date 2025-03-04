@@ -1,0 +1,444 @@
+"appid" "1874000"
+"common"
+{
+	"name" "Life is Strange: Double Exposure"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "d2892b41655974f7472c656685f1e912c3c61b65"
+	"clienttga" "8618dd145e2968a72f8edc37de68175d71191cf7"
+	"icon" "c428ff3626c5896b2a0b1f441a04c0985c4d311a"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1874000_eula_0"
+			"name" "Life is Strange: Double Exposure EULA"
+			"url" "https://store.steampowered.com//eula/1874000_eula_0"
+			"version" "1"
+		}
+	}
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1733961600"
+		"tested_build_id" "16503811"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "2"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "b225a16e4e2c4a9069fc87609fc34df9f65c7943/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "113.54166666666666"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "113.54166666666666"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737640007"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Deck Nine Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Square Enix"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Life is Strange"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_59" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1730217432"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1874000"
+	"store_tags"
+	{
+		"0" "6426"
+		"1" "44868"
+		"2" "7208"
+		"3" "1742"
+		"4" "4486"
+		"5" "4947"
+		"6" "1697"
+		"7" "19"
+		"8" "5716"
+		"9" "5984"
+		"10" "5608"
+		"11" "4166"
+		"12" "21"
+		"13" "4252"
+		"14" "4145"
+		"15" "10808"
+		"16" "4182"
+		"17" "7702"
+		"18" "6971"
+		"19" "1756"
+	}
+	"review_score" "5"
+	"review_percentage" "69"
+}
+"extended"
+{
+	"developer" "Deck Nine Games"
+	"publisher" "Square Enix"
+	"homepage" "https://www.lifeisstrange.com"
+	"listofdlc" "3012890,3012900"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "LifeIsStrangeDoubleExposure"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "LifeIsStrangeDoubleExposure.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Chronos.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "d9qa2,se_brand, se_agerating"
+			}
+			"description_loc"
+			{
+				"english" "Life Is Strange Double Exposure (Old Exe)"
+			}
+			"description" "Life Is Strange Double Exposure (Old Exe)"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2432972288"
+		{
+			"controller_type" "controller_generic"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "7"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1874001"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9166149230958407956"
+				"size" "23847398905"
+				"download" "22903477520"
+			}
+		}
+	}
+	"3012900"
+	{
+		"dlcappid" "3012900"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3019501993210592537"
+				"size" "690384268"
+				"download" "679670048"
+			}
+		}
+	}
+	"3012890"
+	{
+		"dlcappid" "3012890"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1847795318691811584"
+				"size" "430251924"
+				"download" "422743920"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16503811"
+			"timeupdated" "1733414301"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "30"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games\\LifeIsStrangeDoubleExposure\\Steam\\Saved"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27704390"
+"_sha" "b4b8737e0bfa9757557c081ec02dfbb996b9e137"
+"_size" "7666"
