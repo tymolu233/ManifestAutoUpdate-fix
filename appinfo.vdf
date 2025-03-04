@@ -1,0 +1,452 @@
+"appid" "976890"
+"common"
+{
+	"name" "Hidden Deep"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "85f71db686a8b1137b4fb9f26c148123583283e0"
+	"logo_small" "85f71db686a8b1137b4fb9f26c148123583283e0_thumb"
+	"icon" "e4556d203c63771d827b67b06e4b048f5a1dbd34"
+	"clienticon" "2d1b22af56af55883de6a37e6faa0d7e0bfd2b4c"
+	"clienttga" "1062102e5c51e04a501acfdc2b6d41ca970256d1"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "Hidden Deep 幽闭深渊"
+		"tchinese" "Hidden Deep 幽閉深淵"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1670889600"
+		"tested_build_id" "10027143"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "54.41860465116279"
+			"height_pct" "92.17525528378057"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "54.41860465116279"
+				"height_pct" "92.17525528378057"
+			}
+		}
+	}
+	"store_asset_mtime" "1737977842"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Cogwheel Software"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Daedalic Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Daedalic Entertainment"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_29" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1643047380"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "976890"
+	"store_tags"
+	{
+		"0" "1774"
+		"1" "3968"
+		"2" "5379"
+		"3" "19"
+		"4" "1673"
+		"5" "4342"
+		"6" "1667"
+		"7" "4064"
+		"8" "5716"
+		"9" "3871"
+		"10" "1664"
+		"11" "4106"
+		"12" "3859"
+		"13" "1685"
+		"14" "3834"
+		"15" "5981"
+		"16" "3942"
+		"17" "4182"
+		"18" "14720"
+		"19" "4166"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,biz-preview,demo-testing,experimental,gmc-testing-1,gmc-testing-2,hands-on,loca,milestone,preview,release-candidate,review,testing,testing-transfer"
+	"developer" "Cogwheel Software"
+	"publisher" "Daedalic Entertainment"
+	"homepage" "https://www.hiddendeepgame.com"
+	"listofdlc" "1670550"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Hidden Deep"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "hdeep.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "hdeep_NG.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "aderow"
+			}
+			"description_loc"
+			{
+				"english" "Play Hidden Deep 64"
+			}
+			"description" "Play Hidden Deep 64"
+		}
+		"2"
+		{
+			"executable" "open_bonus_win.bat"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "1670550"
+			}
+			"description_loc"
+			{
+				"english" "Bonus content"
+			}
+			"description" "Bonus content"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"976891"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3672969895460789572"
+				"size" "1468957971"
+				"download" "1360975136"
+			}
+			"legacy-public"
+			{
+				"gid" "2904953256307857779"
+				"size" "1458210938"
+				"download" "1350553136"
+			}
+			"experimental-public"
+			{
+				"gid" "1505113900411494425"
+				"size" "1534186974"
+				"download" "1425356576"
+			}
+		}
+	}
+	"1670550"
+	{
+		"dlcappid" "1670550"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3011372649278130353"
+				"size" "47356689"
+				"download" "43397136"
+			}
+			"legacy-public"
+			{
+				"gid" "3011372649278130353"
+				"size" "47356689"
+				"download" "43397136"
+			}
+			"experimental-public"
+			{
+				"gid" "3011372649278130353"
+				"size" "47356689"
+				"download" "43397136"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14174691"
+			"timeupdated" "1714066476"
+		}
+		"legacy-public"
+		{
+			"buildid" "11633655"
+			"description" "latest stable version for optional rollback"
+			"timeupdated" "1701712230"
+		}
+		"experimental-public"
+		{
+			"buildid" "17069174"
+			"description" "unstable builds and previews"
+			"timeupdated" "1737403608"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Daedalic Entertainment GmbH/Hidden Deep/CloudData"
+			"pattern" "*.dat"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27700278"
+"_sha" "c8c9a4393a354f90e157e7d51ba669cb549d2e51"
+"_size" "8081"
