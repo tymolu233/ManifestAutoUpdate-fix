@@ -1,0 +1,306 @@
+"appid" "2501600"
+"common"
+{
+	"name" "DICEOMANCER"
+	"type" "Game"
+	"name_localized"
+	{
+		"schinese" "骰子浪游者"
+	}
+	"icon" "93a9fe2e422ffa45f892f5b468224dd6638a4b6b"
+	"clienticon" "28a3a8e76aae97ba0cc218afd20c96b195ac09a5"
+	"clienttga" "d4a4680e608851656046b2be85a9971d94e8825b"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"brazilian" "1"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "en"
+		"library_logo" "zh-cn,en"
+		"library_header" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "34.37701743060036"
+			"height_pct" "89.93055555555557"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "34.37701743060036"
+				"height_pct" "89.93055555555557"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "library_header_schinese.jpg"
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732252636"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "超厚皮猪猪 Ultra Piggy Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Gamera Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Gamera Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1728543107"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2501600"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1666"
+		"2" "791774"
+		"3" "4305"
+		"4" "1091588"
+		"5" "3839"
+		"6" "32322"
+		"7" "1716"
+		"8" "4182"
+		"9" "492"
+		"10" "597"
+		"11" "7556"
+		"12" "3959"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "超厚皮猪猪 Ultra Piggy Studio"
+	"publisher" "Gamera Games"
+}
+"config"
+{
+	"installdir" "DICEOMANCER"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Diceomancer.exe"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"2501602"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"2501601"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3406983573300482725"
+				"size" "4847344656"
+				"download" "464027888"
+			}
+			"optimize"
+			{
+				"gid" "2785216145134446345"
+				"size" "4139195698"
+				"download" "409487632"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16801852"
+			"timeupdated" "1734618411"
+		}
+		"optimize"
+		{
+			"buildid" "16063525"
+			"description" "performance optimize"
+			"timeupdated" "1729071075"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "UltraPiggyStudio\\Diceomancer\\FULLVERSAVE"
+			"pattern" "*.xml"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "UltraPiggyStudio\\Diceomancer\\FULLVERSAVE"
+					"replace" "UltraPiggyStudio/Diceomancer/FULLVERSAVE"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "UltraPiggyStudio\\Diceomancer\\FULLVERSAVE"
+					"replace" ".config/unity3d/FULLVERSAVE"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27629372"
+"_sha" "c698006a9b1eb5ba164d13bca47a091e358e5784"
+"_size" "5022"
