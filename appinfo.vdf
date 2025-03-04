@@ -1,0 +1,663 @@
+"appid" "1868140"
+"common"
+{
+	"name" "DAVE THE DIVER"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "2f19d6889f66eae88e8b5a36727d560ec88a00cb"
+	"clienticns" "26213a80822b38e1381b5e3c989f36475b3793f2"
+	"linuxclienticon" "77d995e9c0e6fc1b103875c185dbc9ffaaa09e23"
+	"clienticon" "ac24c6922f55c7dd7ab535f871c9adff300e6feb"
+	"clienttga" "2d5bfa23d57ee80d4aad588727cee6f10763db9c"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"name_localized"
+	{
+		"koreana" "데이브 더 다이버"
+		"japanese" "デイヴ・ザ・ダイバー"
+		"schinese" "潜水员戴夫 DAVE THE DIVER"
+		"tchinese" "潛水員戴夫 DAVE THE DIVER"
+		"spanish" "DAVE THE DIVER"
+		"german" "DAVE THE DIVER"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1670457600"
+		"tested_build_id" "10006101"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Dave the Diver"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "cfdc3d184fb5f3cbf9fff9b25bb1bce6f1baf673/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1734352298"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "MINTROCKET"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "MINTROCKET"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1687942826"
+	"metacritic_score" "90"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/dave-the-diver\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1868140"
+	"store_tags"
+	{
+		"0" "3964"
+		"1" "597"
+		"2" "12472"
+		"3" "21"
+		"4" "1654"
+		"5" "122"
+		"6" "15564"
+		"7" "3834"
+		"8" "9157"
+		"9" "599"
+		"10" "4182"
+		"11" "87918"
+		"12" "1742"
+		"13" "3871"
+		"14" "3959"
+		"15" "1702"
+		"16" "4136"
+		"17" "22602"
+		"18" "19"
+		"19" "492"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "MINTROCKET"
+	"publisher" "MINTROCKET"
+	"homepage" "https://mintrocketgames.com/"
+	"listofdlc" "2492320,2677020,2841140"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Dave the Diver"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DaveTheDiver.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "DaveTheDiver.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "nightly"
+			}
+			"description_loc"
+			{
+				"english" "내부 테스트 브랜치"
+			}
+			"description" "내부 테스트 브랜치"
+		}
+		"2"
+		{
+			"executable" "DaveTheDiver.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "develop"
+			}
+			"description_loc"
+			{
+				"english" "개발용"
+			}
+			"description" "개발용"
+		}
+		"3"
+		{
+			"executable" "ProjectDR.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "build_fgt"
+			}
+			"description_loc"
+			{
+				"english" "FGT 빌드"
+			}
+			"description" "FGT 빌드"
+		}
+		"4"
+		{
+			"executable" "DaveTheDiver.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "preview"
+			}
+			"description_loc"
+			{
+				"english" "Preview 빌드"
+			}
+			"description" "Preview 빌드"
+		}
+		"5"
+		{
+			"executable" "ProjectDR.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "build_fgt_qa"
+			}
+			"description_loc"
+			{
+				"english" "FGT QA빌드"
+			}
+			"description" "FGT QA빌드"
+		}
+		"6"
+		{
+			"executable" "DaveTheDiver.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "anticheat_qa"
+			}
+			"description_loc"
+			{
+				"english" "보안 QA 빌드"
+			}
+			"description" "보안 QA 빌드"
+		}
+		"7"
+		{
+			"executable" "DaveTheDiver.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "master_dev"
+			}
+			"description_loc"
+			{
+				"english" "마스터 브랜치 개발팀 테스트 빌드"
+			}
+			"description" "마스터 브랜치 개발팀 테스트 빌드"
+		}
+		"8"
+		{
+			"executable" "DaveTheDiver.app"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "develop_mac"
+			}
+			"description_loc"
+			{
+				"english" "Mac 개발"
+			}
+			"description" "Mac 개발"
+		}
+		"9"
+		{
+			"executable" "DaveTheDiver.app"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "nightly"
+			}
+			"description_loc"
+			{
+				"english" "Mac QA용"
+			}
+			"description" "Mac QA용"
+		}
+		"10"
+		{
+			"executable" "DaveTheDiver.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "language_qa"
+			}
+			"description_loc"
+			{
+				"english" "언어 검수용"
+			}
+			"description" "언어 검수용"
+		}
+		"11"
+		{
+			"executable" "DaveTheDiver.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"12"
+		{
+			"executable" "DaveTheDiver.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "master_qa"
+			}
+			"description_loc"
+			{
+				"english" "마스터 브랜치 QA 테스트 빌드"
+			}
+			"description" "마스터 브랜치 QA 테스트 빌드"
+		}
+		"13"
+		{
+			"executable" "DaveTheDiver.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "steam_dev"
+			}
+			"description_loc"
+			{
+				"english" "Dev"
+			}
+			"description" "Dev"
+		}
+		"14"
+		{
+			"executable" "DaveTheDiver.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "steam_qa"
+			}
+			"description_loc"
+			{
+				"english" "QA"
+			}
+			"description" "QA"
+		}
+		"15"
+		{
+			"executable" "DaveTheDiver.app"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "steam_qa"
+			}
+			"description_loc"
+			{
+				"english" "QA"
+			}
+			"description" "QA"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1868141"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7380859001826027695"
+				"size" "2928263724"
+				"download" "2279334832"
+			}
+		}
+	}
+	"1868142"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "543986071272294672"
+				"size" "3433874712"
+				"download" "2346175600"
+			}
+		}
+	}
+	"2463870"
+	{
+		"dlcappid" "2463870"
+	}
+	"2492320"
+	{
+		"dlcappid" "2492320"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5353918478084439550"
+				"size" "489645473"
+				"download" "394016640"
+			}
+		}
+	}
+	"2677020"
+	{
+		"dlcappid" "2677020"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4601295752502381046"
+				"size" "28718155"
+				"download" "21045520"
+			}
+		}
+	}
+	"2677021"
+	{
+		"dlcappid" "2677020"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6006332928101851349"
+				"size" "28717195"
+				"download" "21054480"
+			}
+		}
+	}
+	"2841140"
+	{
+		"dlcappid" "2841140"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5336291521302219749"
+				"size" "77141541"
+				"download" "68650160"
+			}
+		}
+	}
+	"2841141"
+	{
+		"dlcappid" "2841140"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7119888563448799754"
+				"size" "77142800"
+				"download" "68660912"
+			}
+		}
+	}
+	"3543180"
+	{
+		"dlcappid" "3543180"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+		}
+	}
+	"3543181"
+	{
+		"dlcappid" "3543180"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16984561"
+			"timeupdated" "1736756976"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "50"
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "27765590"
+"_sha" "c975af6087b1cad47b7a1782a6125cf319f695b1"
+"_size" "11052"
