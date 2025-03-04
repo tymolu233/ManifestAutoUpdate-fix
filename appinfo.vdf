@@ -1,0 +1,940 @@
+"appid" "314650"
+"common"
+{
+	"name" "SpaceEngine"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"icon" "816f69ec91e4735aed80253f536438699c8e065d"
+	"logo" "24f3a6f8f9fe0f8d5b4138be7b75126e6d01554c"
+	"logo_small" "24f3a6f8f9fe0f8d5b4138be7b75126e6d01554c_thumb"
+	"clienttga" "9fcd5eaad03711254b4ad9502adb6abe639f4c6b"
+	"clienticon" "15300b9a1aae70ad97ea057ba686a84037612d41"
+	"controllervr"
+	{
+		"kbm" "1"
+		"steamvr" "1"
+		"oculus" "1"
+		"xinput" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+		"standing" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "314650_eula_0"
+			"name" "SpaceEngine EULA"
+			"url" "http://store.steampowered.com//eula/314650_eula_0"
+			"version" "1"
+		}
+	}
+	"osarch" "64"
+	"openvr_controller_bindings"
+	{
+		"0"
+		{
+			"controller_type" "knuckles"
+			"url" "vr-input-workshop://1780975394"
+		}
+	}
+	"openvr_action_manifest_path" "config\\VR\\action_manifest.json"
+	"openvrsupport" "1"
+	"othervrsupport" "1"
+	"othervrsupport_rift_13" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1645574400"
+		"tested_build_id" "7056433"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "SpaceEngine"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "47.933035371753256"
+			"height_pct" "31.443137157028005"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "47.933035371753256"
+				"height_pct" "31.443137157028005"
+			}
+		}
+	}
+	"store_asset_mtime" "1707946072"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Cosmographic Software"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Cosmographic Software"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_31" "1"
+		"category_18" "1"
+		"category_30" "1"
+		"category_52" "1"
+		"category_51" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1560240185"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "314650"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "597"
+		"2" "3942"
+		"3" "3810"
+		"4" "1755"
+		"5" "15045"
+		"6" "4191"
+		"7" "16598"
+		"8" "5794"
+		"9" "4175"
+		"10" "4305"
+		"11" "1036"
+		"12" "599"
+		"13" "1654"
+		"14" "4166"
+		"15" "4295"
+		"16" "492"
+		"17" "4182"
+		"18" "5125"
+		"19" "3834"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"vrheadsetstreaming" "0"
+	"developer" "Cosmographic Software"
+	"publisher" "Cosmographic Software"
+	"homepage" "https://spaceengine.org/"
+	"listofdlc" "500460,500461,1026970,1083090,1083280,1083281,1083282,1083283,1084070,1084071,1084072,1084073"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "SpaceEngine"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "system\\SpaceEngine.exe"
+			"arguments" "-mode=2D"
+			"workingdir" "system"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Desktop"
+			}
+			"description" "Desktop"
+		}
+		"2"
+		{
+			"executable" "system\\SpaceEngine.exe"
+			"arguments" "-mode=VR_Oculus"
+			"workingdir" "system"
+			"description" "Oculus Rift"
+			"type" "othervr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "system\\SpaceEngine.exe"
+			"arguments" "-mode=VR_OpenVR"
+			"workingdir" "system"
+			"description" "Steam VR (HTC Vive & Mixed Reality)"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"4"
+		{
+			"executable" "system\\LaunchPad.exe"
+			"workingdir" "system"
+			"description" "Workshop configuration and uploading tool"
+			"type" "config"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,ukrainian,latam"
+	"workshopdepot" "314650"
+	"hasdepotsindlc" "0"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229020"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"314651"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1844768652483422631"
+				"size" "4278123610"
+				"download" "4099023744"
+			}
+			"0.990.39"
+			{
+				"gid" "3142674547714852647"
+				"size" "4348365532"
+				"download" "4185030800"
+			}
+			"0.990.42"
+			{
+				"gid" "2760865503305585118"
+				"size" "4223309143"
+				"download" "4044272416"
+			}
+			"0.990.43"
+			{
+				"gid" "7246531645628956928"
+				"size" "4238739107"
+				"download" "4058786064"
+			}
+			"beta"
+			{
+				"gid" "1844768652483422631"
+				"size" "4278123610"
+				"download" "4099023744"
+			}
+		}
+	}
+	"314652"
+	{
+		"dlcappid" "1026970"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5779092358763680922"
+				"size" "112991"
+				"download" "74240"
+			}
+			"0.990.39"
+			{
+				"gid" "3338156644967407966"
+				"size" "824070"
+				"download" "767168"
+			}
+			"0.990.42"
+			{
+				"gid" "7936558202731913412"
+				"size" "69448"
+				"download" "63360"
+			}
+			"0.990.43"
+			{
+				"gid" "7936558202731913412"
+				"size" "69448"
+				"download" "63360"
+			}
+			"beta"
+			{
+				"gid" "5779092358763680922"
+				"size" "112991"
+				"download" "74240"
+			}
+		}
+	}
+	"1083280"
+	{
+		"dlcappid" "1083280"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8510632610939927459"
+				"size" "8614977084"
+				"download" "8569333952"
+			}
+			"0.990.39"
+			{
+				"gid" "8510632610939927459"
+				"size" "8614977084"
+				"download" "8569333952"
+			}
+			"0.990.42"
+			{
+				"gid" "8510632610939927459"
+				"size" "8614977084"
+				"download" "8569333952"
+			}
+			"0.990.43"
+			{
+				"gid" "8510632610939927459"
+				"size" "8614977084"
+				"download" "8569333952"
+			}
+			"beta"
+			{
+				"gid" "8510632610939927459"
+				"size" "8614977084"
+				"download" "8569333952"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "1083280"
+		}
+	}
+	"1083281"
+	{
+		"dlcappid" "1083281"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9197983649330277505"
+				"size" "7990320114"
+				"download" "8016430512"
+			}
+			"0.990.39"
+			{
+				"gid" "9197983649330277505"
+				"size" "7990320114"
+				"download" "8016430512"
+			}
+			"0.990.42"
+			{
+				"gid" "9197983649330277505"
+				"size" "7990320114"
+				"download" "8016430512"
+			}
+			"0.990.43"
+			{
+				"gid" "9197983649330277505"
+				"size" "7990320114"
+				"download" "8016430512"
+			}
+			"beta"
+			{
+				"gid" "9197983649330277505"
+				"size" "7990320114"
+				"download" "8016430512"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "1083281"
+		}
+	}
+	"1083282"
+	{
+		"dlcappid" "1083282"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2970938524001137730"
+				"size" "12051727922"
+				"download" "11949831120"
+			}
+			"0.990.39"
+			{
+				"gid" "2970938524001137730"
+				"size" "12051727922"
+				"download" "11949831120"
+			}
+			"0.990.42"
+			{
+				"gid" "2970938524001137730"
+				"size" "12051727922"
+				"download" "11949831120"
+			}
+			"0.990.43"
+			{
+				"gid" "2970938524001137730"
+				"size" "12051727922"
+				"download" "11949831120"
+			}
+			"beta"
+			{
+				"gid" "2970938524001137730"
+				"size" "12051727922"
+				"download" "11949831120"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "1083282"
+		}
+	}
+	"1083090"
+	{
+		"dlcappid" "1083090"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5219538218060513843"
+				"size" "11460833643"
+				"download" "11411179712"
+			}
+			"0.990.39"
+			{
+				"gid" "5219538218060513843"
+				"size" "11460833643"
+				"download" "11411179712"
+			}
+			"0.990.42"
+			{
+				"gid" "5219538218060513843"
+				"size" "11460833643"
+				"download" "11411179712"
+			}
+			"0.990.43"
+			{
+				"gid" "5219538218060513843"
+				"size" "11460833643"
+				"download" "11411179712"
+			}
+			"beta"
+			{
+				"gid" "5219538218060513843"
+				"size" "11460833643"
+				"download" "11411179712"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "1083090"
+		}
+	}
+	"1083283"
+	{
+		"dlcappid" "1083283"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5698374406326038219"
+				"size" "6746093370"
+				"download" "6748493152"
+			}
+			"0.990.39"
+			{
+				"gid" "897663916760779258"
+				"size" "6731081402"
+				"download" "6733707552"
+			}
+			"0.990.42"
+			{
+				"gid" "5698374406326038219"
+				"size" "6746093370"
+				"download" "6748493152"
+			}
+			"0.990.43"
+			{
+				"gid" "5698374406326038219"
+				"size" "6746093370"
+				"download" "6748493152"
+			}
+			"beta"
+			{
+				"gid" "5698374406326038219"
+				"size" "6746093370"
+				"download" "6748493152"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "1083283"
+		}
+	}
+	"1084070"
+	{
+		"dlcappid" "1084070"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "496546756710566953"
+				"size" "1603047431"
+				"download" "1607384656"
+			}
+			"0.990.39"
+			{
+				"gid" "496546756710566953"
+				"size" "1603047431"
+				"download" "1607384656"
+			}
+			"0.990.42"
+			{
+				"gid" "496546756710566953"
+				"size" "1603047431"
+				"download" "1607384656"
+			}
+			"0.990.43"
+			{
+				"gid" "496546756710566953"
+				"size" "1603047431"
+				"download" "1607384656"
+			}
+			"beta"
+			{
+				"gid" "496546756710566953"
+				"size" "1603047431"
+				"download" "1607384656"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "1084070"
+		}
+	}
+	"1084071"
+	{
+		"dlcappid" "1084071"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "833767364554154356"
+				"size" "1374567983"
+				"download" "1373303200"
+			}
+			"0.990.39"
+			{
+				"gid" "833767364554154356"
+				"size" "1374567983"
+				"download" "1373303200"
+			}
+			"0.990.42"
+			{
+				"gid" "833767364554154356"
+				"size" "1374567983"
+				"download" "1373303200"
+			}
+			"0.990.43"
+			{
+				"gid" "833767364554154356"
+				"size" "1374567983"
+				"download" "1373303200"
+			}
+			"beta"
+			{
+				"gid" "833767364554154356"
+				"size" "1374567983"
+				"download" "1373303200"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "1084071"
+		}
+	}
+	"1084072"
+	{
+		"dlcappid" "1084072"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5140223970971573087"
+				"size" "2092007113"
+				"download" "2084827968"
+			}
+			"0.990.39"
+			{
+				"gid" "3833989111923400513"
+				"size" "1995108319"
+				"download" "1987464688"
+			}
+			"0.990.42"
+			{
+				"gid" "5140223970971573087"
+				"size" "2092007113"
+				"download" "2084827968"
+			}
+			"0.990.43"
+			{
+				"gid" "5140223970971573087"
+				"size" "2092007113"
+				"download" "2084827968"
+			}
+			"beta"
+			{
+				"gid" "5140223970971573087"
+				"size" "2092007113"
+				"download" "2084827968"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "1084072"
+		}
+	}
+	"500460"
+	{
+		"dlcappid" "500460"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3189285653431760897"
+				"size" "253540195"
+				"download" "253518608"
+			}
+			"0.990.39"
+			{
+				"gid" "3189285653431760897"
+				"size" "253540195"
+				"download" "253518608"
+			}
+			"0.990.42"
+			{
+				"gid" "3189285653431760897"
+				"size" "253540195"
+				"download" "253518608"
+			}
+			"0.990.43"
+			{
+				"gid" "3189285653431760897"
+				"size" "253540195"
+				"download" "253518608"
+			}
+			"beta"
+			{
+				"gid" "3189285653431760897"
+				"size" "253540195"
+				"download" "253518608"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "500460"
+		}
+	}
+	"500461"
+	{
+		"dlcappid" "500461"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2450226639022630521"
+				"size" "355870383"
+				"download" "356396160"
+			}
+			"0.990.39"
+			{
+				"gid" "2450226639022630521"
+				"size" "355870383"
+				"download" "356396160"
+			}
+			"0.990.42"
+			{
+				"gid" "2450226639022630521"
+				"size" "355870383"
+				"download" "356396160"
+			}
+			"0.990.43"
+			{
+				"gid" "2450226639022630521"
+				"size" "355870383"
+				"download" "356396160"
+			}
+			"beta"
+			{
+				"gid" "2450226639022630521"
+				"size" "355870383"
+				"download" "356396160"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "500461"
+		}
+	}
+	"1084073"
+	{
+		"dlcappid" "1084073"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2553329663166142444"
+				"size" "241083214"
+				"download" "239652352"
+			}
+			"0.990.39"
+			{
+				"gid" "5912165968161056068"
+				"size" "481827429"
+				"download" "478551440"
+			}
+			"0.990.42"
+			{
+				"gid" "2553329663166142444"
+				"size" "241083214"
+				"download" "239652352"
+			}
+			"0.990.43"
+			{
+				"gid" "2553329663166142444"
+				"size" "241083214"
+				"download" "239652352"
+			}
+			"beta"
+			{
+				"gid" "2553329663166142444"
+				"size" "241083214"
+				"download" "239652352"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "1084073"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17521520"
+			"timeupdated" "1741024025"
+		}
+		"0.990.39"
+		{
+			"buildid" "4531769"
+			"description" "for very old Intel graphics users"
+			"timeupdated" "1589064980"
+		}
+		"0.990.42"
+		{
+			"buildid" "5822996"
+			"description" "for most Intel graphics users"
+			"timeupdated" "1626798204"
+		}
+		"0.990.43"
+		{
+			"buildid" "8762451"
+			"description" "previous version"
+			"timeupdated" "1671185901"
+		}
+		"beta"
+		{
+			"buildid" "17521520"
+			"description" "public beta branch"
+			"timeupdated" "1740681122"
+		}
+	}
+	"privatebranches" "1"
+	"appmanagesdlc" "1"
+}
+"ufs"
+{
+	"quota" "99435456000"
+	"maxnumfiles" "2500"
+}
+"_missing_token" "False"
+"_change_number" "27758829"
+"_sha" "bce1ca69636a521ae73afb4a5d6c77688e6d85da"
+"_size" "16220"
