@@ -1,0 +1,119 @@
+"appid" "428790"
+"common"
+{
+	"name" "The Divinity Engine Enhanced Edition"
+	"section_type" "ownersonly"
+	"type" "Tool"
+	"releasestate" "released"
+	"logo" "4e6d09ea2106beeb3ea6a481755a702f71987baf"
+	"logo_small" "4e6d09ea2106beeb3ea6a481755a702f71987baf_thumb"
+	"icon" "822ff912b2e464fbebbedf7a75ae1eb24921f16b"
+	"clienttga" "21ca2b6d083ee2a219852579d96572ef279f5fc2"
+	"clienticon" "2f42cea42b452bad35569be5f83ce1c21ff7a8b3"
+	"oslist" "windows"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "428790_eula_0"
+			"name" "The Divinty Engine Enhanced Edition EULA"
+			"url" "http://store.steampowered.com//eula/428790_eula_0"
+		}
+	}
+	"associations"
+	{
+	}
+	"gameid" "428790"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "The Divinty Engine Enhanced Edition"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TheDivinityEngine.exe"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"428791"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3095167427658641544"
+				"size" "116028032"
+				"download" "34268480"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1045826"
+			"timeupdated" "1459422757"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "926cbd3f645ca18fdb2cacb68925135332f36ccb"
+"_size" "1875"
