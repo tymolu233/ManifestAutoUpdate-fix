@@ -1,0 +1,386 @@
+"appid" "1079260"
+"common"
+{
+	"name" "Fireworks Mania"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "21f464dd83c5add4f35e7e623f68a7698e2a614e"
+	"logo_small" "21f464dd83c5add4f35e7e623f68a7698e2a614e_thumb"
+	"icon" "a936d3047fe636e11d51f62317e945cf1a27401a"
+	"clienttga" "9ef6398aaa807bada31767caeb08609277c07fd5"
+	"clienticon" "f2af6a15dc459f267b535936dcd01dbe8aee90a1"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1644278400"
+		"tested_build_id" "8032812"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Fireworks Mania - An Explosive Simulator"
+	"small_capsule"
+	{
+		"english" "e317a0fa42ef7fed323961f54b1e03d936011b7d/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50.29171528588095"
+			"height_pct" "63.90406079316075"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "85157a1df7fd21e5aedda21be9e9c023777598fb/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "85157a1df7fd21e5aedda21be9e9c023777598fb/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "561884d2c1d5c51d12a10cc588c75398b7f59e67/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "561884d2c1d5c51d12a10cc588c75398b7f59e67/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "561884d2c1d5c51d12a10cc588c75398b7f59e67/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50.29171528588095"
+				"height_pct" "63.90406079316075"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "a9d8f29598a3dede46f2a9888ee743d874e3d2db/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "a9d8f29598a3dede46f2a9888ee743d874e3d2db/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732999367"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Laumania ApS"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Laumania ApS"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"lithuanian"
+		{
+			"supported" "true"
+		}
+		"belarusian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1608220829"
+	"community_hub_visible" "1"
+	"gameid" "1079260"
+	"store_tags"
+	{
+		"0" "3810"
+		"1" "3859"
+		"2" "4182"
+		"3" "3834"
+		"4" "1643"
+		"5" "3968"
+		"6" "4191"
+		"7" "3839"
+		"8" "4136"
+		"9" "19"
+		"10" "597"
+		"11" "599"
+		"12" "4195"
+		"13" "1719"
+		"14" "4166"
+		"15" "5363"
+		"16" "492"
+		"17" "1669"
+		"18" "4234"
+		"19" "1663"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Laumania ApS"
+	"publisher" "Laumania ApS"
+}
+"config"
+{
+	"installdir" "Fireworks Mania"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Fireworks Mania.exe"
+			"description" "Default"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"1079261"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5174361083434259674"
+				"size" "1168278393"
+				"download" "267260960"
+			}
+			"experimental"
+			{
+				"gid" "5174361083434259674"
+				"size" "1168278393"
+				"download" "267260960"
+			}
+			"v2024.10.5"
+			{
+				"gid" "2378809925652682806"
+				"size" "1476845521"
+				"download" "306817936"
+			}
+			"v2021.6.2"
+			{
+				"gid" "5969806323198583127"
+				"size" "667215615"
+				"download" "116345984"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17199801"
+			"timeupdated" "1738332949"
+		}
+		"experimental"
+		{
+			"buildid" "17199801"
+			"description" "Public experimental branch for testing out new things"
+			"timeupdated" "1738332930"
+		}
+		"v2024.10.5"
+		{
+			"buildid" "16079925"
+			"description" "\tIn case you want to go back to before multiplayer support"
+			"timeupdated" "1729162824"
+		}
+		"v2021.6.2"
+		{
+			"buildid" "6988476"
+			"description" "In case you want to go back to before mod support"
+			"timeupdated" "1639832351"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27757860"
+"_sha" "c3723be2b4046df82afbf2a9caa1ad410c5dd993"
+"_size" "6772"
