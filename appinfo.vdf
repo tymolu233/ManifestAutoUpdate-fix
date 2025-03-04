@@ -1,0 +1,411 @@
+"appid" "2849080"
+"common"
+{
+	"name" "Kingdom Rush 5: Alliance TD"
+	"type" "Game"
+	"icon" "148cc4725b57caf7afdc374e58520deae8cc0175"
+	"clienttga" "6edfade5c4aa107b65424ccce92ca7c4bb24d6b0"
+	"clienticon" "6e5b2fbb857447109f24aeb16836385d2c956bc5"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "王国保卫战 5：联盟"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2849080_eula_0"
+			"name" "Kingdom Rush Alliance EULA"
+			"url" "https://store.steampowered.com//eula/2849080_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1738627200"
+		"tested_build_id" "17204950"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "2ce743872996dcc98153d14475817b0b4fe9198f/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "50.646456982746884"
+			"height_pct" "90.2777777777778"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "50.646456982746884"
+				"height_pct" "90.2777777777778"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1738778926"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ironhide Game Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Ironhide Game Studio"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Ironhide Game Studio"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1721908848"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2849080"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1645"
+		"2" "3871"
+		"3" "4562"
+		"4" "4195"
+		"5" "4182"
+		"6" "1684"
+		"7" "4046"
+		"8" "1643"
+		"9" "4136"
+		"10" "492"
+		"11" "4172"
+		"12" "19"
+		"13" "21"
+		"14" "1719"
+		"15" "4057"
+		"16" "4342"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Ironhide Game Studio"
+	"publisher" "Ironhide Game Studio"
+	"homepage" "https://www.kingdomrushalliance.com/"
+	"listofdlc" "3368630"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Kingdom Rush Alliance"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Kingdom Rush Alliance.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Kingdom Rush Alliance.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2849081"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2986433879215574901"
+				"size" "4090472"
+				"download" "4098672"
+			}
+			"beta"
+			{
+				"gid" "2986433879215574901"
+				"size" "4090472"
+				"download" "4098672"
+			}
+		}
+	}
+	"2849082"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2100462919727972686"
+				"size" "1030978105"
+				"download" "1022854256"
+			}
+			"beta"
+			{
+				"gid" "9135767889170780576"
+				"size" "1175192951"
+				"download" "1162050208"
+			}
+		}
+	}
+	"2849083"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5784737105813418242"
+				"size" "1041804565"
+				"download" "1025880048"
+			}
+			"beta"
+			{
+				"gid" "2514517421171967269"
+				"size" "1186019147"
+				"download" "1164015680"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17285507"
+			"timeupdated" "1739116896"
+		}
+		"beta"
+		{
+			"buildid" "17211106"
+			"description" "Public beta testing branch"
+			"timeupdated" "1738454062"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "3145728"
+	"maxnumfiles" "16"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "kingdom_rush_alliance"
+			"pattern" "slot*.lua"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "kingdom_rush_alliance"
+					"replace" "kingdom_rush_alliance"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27724586"
+"_sha" "cecb443253b5867218130719d341122e8188cec3"
+"_size" "6848"
