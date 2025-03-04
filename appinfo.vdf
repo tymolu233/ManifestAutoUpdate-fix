@@ -1,0 +1,811 @@
+"appid" "647830"
+"common"
+{
+	"name" "LEGO® MARVEL Super Heroes 2"
+	"type" "Game"
+	"logo" "36a44b39d692a06114b6dc82da15a03f25d0d362"
+	"logo_small" "36a44b39d692a06114b6dc82da15a03f25d0d362_thumb"
+	"icon" "d9b911462b336dd60ddd44c4f7728fe84468c5a6"
+	"clienttga" "b5bae861e24c90cec1babc3070cabe7c2a4da8b8"
+	"clienticon" "dd19a2239012262a6a0df289fbf7f3259d70e8cd"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"arabic" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "647830_eula_0"
+			"name" "LEGO® MARVEL Super Heroes 2 EULA"
+			"url" "http://store.steampowered.com//eula/647830_eula_0"
+		}
+	}
+	"clienticns" "46fc6e865c646d5b18ecdf249f76a40f3b1d28b9"
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "2999097"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "LEGO® Marvel Super Heroes 2"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "32"
+			"height_pct" "70"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "32"
+				"height_pct" "70"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1635187776"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "TT Games"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Feral Interactive (Mac)"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Warner Bros. Interactive"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Feral Interactive (Mac)"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "WB Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_24" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_9" "1"
+		"category_43" "1"
+		"category_44" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_1" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1510682400"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "647830"
+	"store_tags"
+	{
+		"0" "1736"
+		"1" "3859"
+		"2" "1695"
+		"3" "1671"
+		"4" "1685"
+		"5" "19"
+		"6" "21"
+		"7" "3841"
+		"8" "4136"
+		"9" "5350"
+		"10" "4182"
+		"11" "1719"
+		"12" "4747"
+		"13" "4106"
+		"14" "7481"
+		"15" "3810"
+		"16" "1680"
+		"17" "1751"
+		"18" "1742"
+		"19" "1664"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "TT Games"
+	"publisher" "Warner Bros. Interactive"
+	"gamemanualurl" "https://store.steampowered.com/manual/647830/"
+	"listofdlc" "720680,720690,720700,720710,720740,720750,720760,720770,720780,720790,720800"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "LEGO Marvel Super Heroes 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "LEGOMARVEL2_DX11.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "LEGO Marvel Super Heroes 2.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1911042811"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,polish,danish,dutch,arabic,brazilian"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"647832"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1385161526314108903"
+				"size" "6513542459"
+				"download" "6081091440"
+			}
+		}
+	}
+	"647831"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5965521086700220253"
+				"size" "16960102684"
+				"download" "16596997872"
+			}
+		}
+	}
+	"720680"
+	{
+		"dlcappid" "720680"
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"720690"
+	{
+		"dlcappid" "720690"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7033888648310222256"
+				"size" "16193048"
+				"download" "15122304"
+			}
+		}
+	}
+	"720700"
+	{
+		"dlcappid" "720700"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4775217440581817335"
+				"size" "10016408"
+				"download" "9008368"
+			}
+		}
+	}
+	"720710"
+	{
+		"dlcappid" "720710"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "485449380180783032"
+				"size" "15431874"
+				"download" "14349120"
+			}
+		}
+	}
+	"720740"
+	{
+		"dlcappid" "720740"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1353619425740085163"
+				"size" "51286354"
+				"download" "44694704"
+			}
+		}
+	}
+	"720750"
+	{
+		"dlcappid" "720750"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1888887533676001921"
+				"size" "278153498"
+				"download" "272676480"
+			}
+		}
+	}
+	"720760"
+	{
+		"dlcappid" "720760"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5902867774596382035"
+				"size" "272969490"
+				"download" "250804192"
+			}
+		}
+	}
+	"720770"
+	{
+		"dlcappid" "720770"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4981604606286056305"
+				"size" "226510176"
+				"download" "221852128"
+			}
+		}
+	}
+	"720780"
+	{
+		"dlcappid" "720780"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8645336107451270808"
+				"size" "218372546"
+				"download" "210997712"
+			}
+		}
+	}
+	"720790"
+	{
+		"dlcappid" "720790"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8726584658480813647"
+				"size" "259710364"
+				"download" "255180512"
+			}
+		}
+	}
+	"720800"
+	{
+		"dlcappid" "720800"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5206031916402256411"
+				"size" "269808170"
+				"download" "261786848"
+			}
+		}
+	}
+	"647833"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3361848894693898969"
+				"size" "6599209612"
+				"download" "6129434528"
+			}
+		}
+	}
+	"647834"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4114990725168557317"
+				"size" "16960102684"
+				"download" "16593858864"
+			}
+		}
+	}
+	"647835"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "720680"
+	}
+	"647836"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "720690"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "857604071228218319"
+				"size" "16193048"
+				"download" "15122224"
+			}
+		}
+	}
+	"647837"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "720700"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2059182679703116941"
+				"size" "10016408"
+				"download" "9008512"
+			}
+		}
+	}
+	"647838"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "720710"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6970099974074040490"
+				"size" "15431874"
+				"download" "14346512"
+			}
+		}
+	}
+	"647839"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "720740"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "271860907645590480"
+				"size" "51286354"
+				"download" "44604160"
+			}
+		}
+	}
+	"720681"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "720750"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3860462249257089716"
+				"size" "278153498"
+				"download" "272612336"
+			}
+		}
+	}
+	"720682"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "720760"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4943955818124008236"
+				"size" "272969490"
+				"download" "250891136"
+			}
+		}
+	}
+	"720683"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "720770"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5190234725548376766"
+				"size" "226510176"
+				"download" "221852656"
+			}
+		}
+	}
+	"720684"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "720780"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5624394650040612053"
+				"size" "218372546"
+				"download" "210997680"
+			}
+		}
+	}
+	"720685"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "720790"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4165873059692979172"
+				"size" "259710364"
+				"download" "255180608"
+			}
+		}
+	}
+	"720686"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "720800"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4727594298775227038"
+				"size" "269808170"
+				"download" "261785776"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2999097"
+			"timeupdated" "1533203487"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "27002737"
+"_sha" "f8d882f430dddd02b519dbb4991bac99fbe5a1e9"
+"_size" "12476"
