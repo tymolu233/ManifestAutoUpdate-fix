@@ -1,0 +1,656 @@
+"appid" "1128920"
+"common"
+{
+	"name" "EVERSPACE™ 2"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "8c85afd78e1ecfd907b495b2651dc227a3a0a47f"
+	"logo" "b43c376c3e54263fbb08946b85c4eba5c2abce65"
+	"logo_small" "b43c376c3e54263fbb08946b85c4eba5c2abce65_thumb"
+	"clienticon" "088c88948b71c2bc62ce4bc181fef191d956c3d6"
+	"clienttga" "5365a8c6ccc20df1a6ce17e0f41658bd7fc0095f"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1128920_eula_0"
+			"name" "EVERSPACE™ 2 EULA"
+			"url" "https://store.steampowered.com//eula/1128920_eula_0"
+			"version" "1"
+		}
+	}
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "永恒空间2"
+		"tchinese" "永恒空间2"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1695427200"
+		"tested_build_id" "11753700"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-4"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "EVERSPACE 2"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"koreana" "header_koreana.jpg"
+		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ko,ja,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,ko,ja,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"koreana" "logo_koreana.png"
+				"japanese" "logo_japanese.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"japanese" "logo_japanese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1714328379"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ROCKFISH Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ROCKFISH Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "EVERSPACE™"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1680799740"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/everspace-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1128920"
+	"store_tags"
+	{
+		"0" "1774"
+		"1" "1755"
+		"2" "4236"
+		"3" "3834"
+		"4" "353880"
+		"5" "1695"
+		"6" "4231"
+		"7" "4106"
+		"8" "1742"
+		"9" "21"
+		"10" "19"
+		"11" "6730"
+		"12" "3993"
+		"13" "599"
+		"14" "122"
+		"15" "15045"
+		"16" "4182"
+		"17" "3814"
+		"18" "1697"
+		"19" "3942"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "ROCKFISH Games"
+	"publisher" "ROCKFISH Games"
+	"homepage" "https://everspace.game"
+	"listofdlc" "2606620,2873460,2873470,2911770,2915570"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "EVERSPACE™ 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Everspace2.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "EVERSPACE™ 2 - DirectX 12"
+			}
+			"description" "EVERSPACE™ 2 - DirectX 12"
+		}
+		"2"
+		{
+			"executable" "Everspace2.exe"
+			"arguments" "-dx11"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "EVERSPACE™ 2 - DirectX 11"
+			}
+			"description" "EVERSPACE™ 2 - DirectX 11"
+		}
+		"3"
+		{
+			"executable" "Everspace2.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"4"
+		{
+			"executable" "The Art of EVERSPACE™ 2.pdf"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "2606620"
+			}
+			"description_loc"
+			{
+				"english" "Open Digital Artbook"
+				"german" "Digitales Artbook öffnen"
+			}
+			"description" "Open Digital Artbook"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2361257447"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,dev_branch,preview_branch,qa_branch"
+			"use_action_block" "false"
+		}
+		"2361299790"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,dev_branch,preview_branch,qa_branch"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,czech,brazilian,latam"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1128921"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3891424963955743868"
+				"size" "35400986243"
+				"download" "30743604208"
+			}
+		}
+	}
+	"1128922"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8554032321995029812"
+				"size" "34483546557"
+				"download" "31682125424"
+			}
+		}
+	}
+	"2606620"
+	{
+		"dlcappid" "2606620"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "195865514797556095"
+				"size" "607075697"
+				"download" "599821072"
+			}
+		}
+	}
+	"2873460"
+	{
+		"dlcappid" "2873460"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7415357329579237865"
+				"size" "424868882"
+				"download" "418097664"
+			}
+		}
+	}
+	"2873470"
+	{
+		"dlcappid" "2873470"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2400209119289260242"
+				"size" "5448997896"
+				"download" "5198993088"
+			}
+		}
+	}
+	"1128923"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"steamdeck" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2278166748315113962"
+				"size" "35400986243"
+				"download" "30792147696"
+			}
+		}
+	}
+	"2873461"
+	{
+		"dlcappid" "2873460"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3623310737991872776"
+				"size" "423820362"
+				"download" "418049600"
+			}
+		}
+	}
+	"2873471"
+	{
+		"dlcappid" "2873470"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "253350956780648251"
+				"size" "5345172840"
+				"download" "5145538320"
+			}
+		}
+	}
+	"2911771"
+	{
+		"dlcappid" "2911770"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4235370435524516347"
+				"size" "1659"
+				"download" "1264"
+			}
+		}
+	}
+	"2911772"
+	{
+		"dlcappid" "2911770"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "938197630289205625"
+				"size" "1667"
+				"download" "1264"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16407650"
+			"timeupdated" "1731596276"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1048576000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ES2\\Saved\\SaveGames"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "LinuxHome"
+			"path" ".config/Epic/ES2/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "ES2\\Saved\\SaveGames"
+					"replace" "Epic/ES2/Saved/SaveGames"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27768867"
+"_sha" "26432011a033a06cc35b98827cc251486367275f"
+"_size" "11626"
