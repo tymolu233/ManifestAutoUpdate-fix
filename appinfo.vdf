@@ -1,0 +1,338 @@
+"appid" "1142390"
+"common"
+{
+	"name" "Remothered: Broken Porcelain "
+	"type" "Game"
+	"logo" "5c68d04f8b0be2a2d2bacd9aa3ff679388caa112"
+	"logo_small" "5c68d04f8b0be2a2d2bacd9aa3ff679388caa112_thumb"
+	"icon" "e69ba8a6c6894de7c590760fdbf3a24184024c90"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "cbbb964561df6130e174fc1c17a3a929a7001498"
+	"clienttga" "245adcee085156145142f1f6b83e4857a0a91283"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1659657600"
+		"tested_build_id" "6469204"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50.1750291715286"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50.1750291715286"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1620834840"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Stormind Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Stormind Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Remothered"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Horror"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Action"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_43" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1602593872"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1142390"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "4667"
+		"2" "4345"
+		"3" "1667"
+		"4" "7208"
+		"5" "3978"
+		"6" "1687"
+		"7" "1697"
+		"8" "4182"
+		"9" "21"
+		"10" "1662"
+		"11" "1702"
+		"12" "1742"
+		"13" "9994"
+		"14" "492"
+		"15" "1721"
+		"16" "4166"
+		"17" "1756"
+		"18" "44868"
+	}
+	"review_score" "5"
+	"review_percentage" "59"
+}
+"extended"
+{
+	"developer" "Stormind Games"
+	"publisher" "Stormind Games"
+	"homepage" "http://www.remothered.com/media/remothered-broken-porcelain/"
+}
+"config"
+{
+	"installdir" "Remothered Broken Porcelain"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Remothered2.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1142391"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1164647022309836"
+				"size" "7878851798"
+				"download" "7609214112"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6469204"
+			"timeupdated" "1617382695"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "45"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Remothered2/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26907435"
+"_sha" "73efe350c26d34c71205c41fe88c114e2d6612b9"
+"_size" "5760"
