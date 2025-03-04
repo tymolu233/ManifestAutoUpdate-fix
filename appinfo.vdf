@@ -1,0 +1,746 @@
+"appid" "365360"
+"common"
+{
+	"name" "Battle Brothers"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"clienticon" "9f266d84932d0220506791c7727564185fe17b69"
+	"clienttga" "3c2c8a0e5aab024c5af4e73993a31e95ea270b24"
+	"icon" "b99db2c64ea125ff01c2d31583ff560a834e999c"
+	"logo" "1d71147b28f3182b2d15164260fa5a4253cb6022"
+	"logo_small" "1d71147b28f3182b2d15164260fa5a4253cb6022_thumb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "365360_eula_0"
+			"name" "Battle Brothers EULA"
+			"url" "http://store.steampowered.com//eula/365360_eula_0"
+		}
+	}
+	"name_localized"
+	{
+		"schinese" "战场兄弟 Battle Brothers"
+		"tchinese" "戰場兄弟 Battle Brothers"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "6780851"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Battle Brothers"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1667298490"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Overhype Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Overhype Studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Overhype Studios"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1490338800"
+	"steam_release_date" "1490374200"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/battle-brothers\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "365360"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "122"
+		"2" "4172"
+		"3" "1695"
+		"4" "1741"
+		"5" "14139"
+		"6" "1678"
+		"7" "3810"
+		"8" "4747"
+		"9" "1708"
+		"10" "19"
+		"11" "21725"
+		"12" "599"
+		"13" "4711"
+		"14" "4325"
+		"15" "1669"
+		"16" "1677"
+		"17" "4182"
+		"18" "3987"
+		"19" "21"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "Overhype Studios"
+	"publisher" "Overhype Studios"
+	"homepage" "http://battlebrothersgame.com/"
+	"listofdlc" "365381,365382,732460,961930,986090,1067690,1067750,1361280,1362330,1910050"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Battle Brothers"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "win32\\BattleBrothers.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "win32\\BattleBrothers.exe"
+			"arguments" "-reset"
+			"description" "Reset Configuration"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "Extras\\Lore & Art Book.pdf"
+			"description" "Open Digital Lore & Art Book"
+			"type" "none"
+			"config"
+			{
+				"ownsdlc" "365381"
+			}
+		}
+		"3"
+		{
+			"executable" "Extras\\The Caretaker - A Battle Brothers Comic.pdf"
+			"config"
+			{
+				"ownsdlc" "1910050"
+			}
+			"description_loc"
+			{
+				"english" "Open The Caretaker - A Battle Brothers Comic"
+			}
+			"description" "Open The Caretaker - A Battle Brothers Comic"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1865289578"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"365361"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8977077612802674522"
+				"size" "1363029322"
+				"download" "1133708384"
+			}
+			"1.1.x"
+			{
+				"gid" "7598099831852355230"
+				"size" "1235982871"
+				"download" "1037839664"
+			}
+			"1.2.x"
+			{
+				"gid" "1307921549856235594"
+				"size" "1275890778"
+				"download" "1031892944"
+			}
+			"1.3.x"
+			{
+				"gid" "4528801126724201175"
+				"size" "1232552273"
+				"download" "1015138000"
+			}
+			"1.4.x"
+			{
+				"gid" "8299897327965473841"
+				"size" "1355814861"
+				"download" "1127272544"
+			}
+			"1.5.0"
+			{
+				"gid" "8977077612802674522"
+				"size" "1363029322"
+				"download" "1133708384"
+			}
+		}
+	}
+	"365381"
+	{
+		"dlcappid" "365381"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2442013431067946371"
+				"size" "11295974"
+				"download" "10096352"
+			}
+			"1.1.x"
+			{
+				"gid" "2442013431067946371"
+				"size" "11295974"
+				"download" "10096352"
+			}
+			"1.2.x"
+			{
+				"gid" "2442013431067946371"
+				"size" "11295974"
+				"download" "10096352"
+			}
+			"1.3.x"
+			{
+				"gid" "2442013431067946371"
+				"size" "11295974"
+				"download" "10096352"
+			}
+			"1.4.x"
+			{
+				"gid" "2442013431067946371"
+				"size" "11295974"
+				"download" "10096352"
+			}
+			"1.5.0"
+			{
+				"gid" "2442013431067946371"
+				"size" "11295974"
+				"download" "10096352"
+			}
+		}
+	}
+	"365382"
+	{
+		"dlcappid" "365382"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4497212939262597716"
+				"size" "5770"
+				"download" "3920"
+			}
+			"1.1.x"
+			{
+				"gid" "5832054726554828197"
+				"size" "5770"
+				"download" "3920"
+			}
+			"1.2.x"
+			{
+				"gid" "4497212939262597716"
+				"size" "5770"
+				"download" "3920"
+			}
+			"1.3.x"
+			{
+				"gid" "4497212939262597716"
+				"size" "5770"
+				"download" "3920"
+			}
+			"1.4.x"
+			{
+				"gid" "4497212939262597716"
+				"size" "5770"
+				"download" "3920"
+			}
+			"1.5.0"
+			{
+				"gid" "4497212939262597716"
+				"size" "5770"
+				"download" "3920"
+			}
+		}
+	}
+	"732460"
+	{
+		"dlcappid" "732460"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7710260447017320527"
+				"size" "1517"
+				"download" "1136"
+			}
+			"1.1.x"
+			{
+				"gid" "3406273854384072877"
+				"size" "12984628"
+				"download" "10198976"
+			}
+			"1.2.x"
+			{
+				"gid" "7710260447017320527"
+				"size" "1517"
+				"download" "1136"
+			}
+			"1.3.x"
+			{
+				"gid" "7710260447017320527"
+				"size" "1517"
+				"download" "1136"
+			}
+			"1.4.x"
+			{
+				"gid" "7710260447017320527"
+				"size" "1517"
+				"download" "1136"
+			}
+			"1.5.0"
+			{
+				"gid" "7710260447017320527"
+				"size" "1517"
+				"download" "1136"
+			}
+		}
+	}
+	"961930"
+	{
+		"dlcappid" "961930"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4519483112451416244"
+				"size" "95329421"
+				"download" "68360496"
+			}
+			"1.2.x"
+			{
+				"gid" "8352780600228480980"
+				"size" "4351"
+				"download" "3824"
+			}
+			"1.3.x"
+			{
+				"gid" "4519483112451416244"
+				"size" "95329421"
+				"download" "68360496"
+			}
+			"1.4.x"
+			{
+				"gid" "4519483112451416244"
+				"size" "95329421"
+				"download" "68360496"
+			}
+			"1.5.0"
+			{
+				"gid" "4519483112451416244"
+				"size" "95329421"
+				"download" "68360496"
+			}
+		}
+	}
+	"986090"
+	{
+		"dlcappid" "986090"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2073278951594053444"
+				"size" "1522"
+				"download" "1136"
+			}
+			"1.2.x"
+			{
+				"gid" "730172029711597677"
+				"size" "1430"
+				"download" "1056"
+			}
+			"1.3.x"
+			{
+				"gid" "2073278951594053444"
+				"size" "1522"
+				"download" "1136"
+			}
+			"1.4.x"
+			{
+				"gid" "2073278951594053444"
+				"size" "1522"
+				"download" "1136"
+			}
+			"1.5.0"
+			{
+				"gid" "2073278951594053444"
+				"size" "1522"
+				"download" "1136"
+			}
+		}
+	}
+	"1067690"
+	{
+		"dlcappid" "1067690"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5969268974658547535"
+				"size" "14967496"
+				"download" "10413840"
+			}
+			"1.3.x"
+			{
+				"gid" "7562301137028663881"
+				"size" "14967260"
+				"download" "10413360"
+			}
+			"1.4.x"
+			{
+				"gid" "5969268974658547535"
+				"size" "14967496"
+				"download" "10413840"
+			}
+			"1.5.0"
+			{
+				"gid" "5969268974658547535"
+				"size" "14967496"
+				"download" "10413840"
+			}
+		}
+	}
+	"1067750"
+	{
+		"dlcappid" "1067750"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "66624925374145362"
+				"size" "1526"
+				"download" "1136"
+			}
+			"1.3.x"
+			{
+				"gid" "66624925374145362"
+				"size" "1526"
+				"download" "1136"
+			}
+			"1.4.x"
+			{
+				"gid" "66624925374145362"
+				"size" "1526"
+				"download" "1136"
+			}
+			"1.5.0"
+			{
+				"gid" "66624925374145362"
+				"size" "1526"
+				"download" "1136"
+			}
+		}
+	}
+	"1361280"
+	{
+		"dlcappid" "1361280"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6237496906187000595"
+				"size" "155163776"
+				"download" "100850512"
+			}
+			"1.4.x"
+			{
+				"gid" "4067354269160217057"
+				"size" "155163704"
+				"download" "100850192"
+			}
+			"1.5.0"
+			{
+				"gid" "6237496906187000595"
+				"size" "155163776"
+				"download" "100850512"
+			}
+		}
+	}
+	"1362330"
+	{
+		"dlcappid" "1362330"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "191256620143658519"
+				"size" "1522"
+				"download" "1120"
+			}
+			"1.4.x"
+			{
+				"gid" "191256620143658519"
+				"size" "1522"
+				"download" "1120"
+			}
+			"1.5.0"
+			{
+				"gid" "191256620143658519"
+				"size" "1522"
+				"download" "1120"
+			}
+		}
+	}
+	"1910050"
+	{
+		"dlcappid" "1910050"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "791638025242219165"
+				"size" "66946007"
+				"download" "65745056"
+			}
+			"1.5.0"
+			{
+				"gid" "791638025242219165"
+				"size" "66946007"
+				"download" "65745056"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12000954"
+			"timeupdated" "1692693018"
+		}
+		"1.1.x"
+		{
+			"buildid" "2562010"
+			"description" "Version 1.1.x of Battle Brothers"
+			"timeupdated" "1542904891"
+		}
+		"1.2.x"
+		{
+			"buildid" "3613980"
+			"description" "Version 1.2.x of Battle Brothers"
+			"timeupdated" "1557158629"
+		}
+		"1.3.x"
+		{
+			"buildid" "4132318"
+			"description" "Version 1.3.x of Battle Brothers"
+			"timeupdated" "1593602508"
+		}
+		"1.4.x"
+		{
+			"buildid" "6780851"
+			"description" "Version 1.4.x of Battle Brothers"
+			"timeupdated" "1646832872"
+		}
+		"1.5.0"
+		{
+			"buildid" "12000954"
+			"description" "Version 1.5.0 of Battle Brothers"
+			"timeupdated" "1737122978"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "600000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Battle Brothers/savegames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "savegames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27707597"
+"_sha" "c54cf782e7a15b2d364f68f9956d5951c5e27bf2"
+"_size" "12921"
