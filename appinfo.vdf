@@ -1,0 +1,392 @@
+"appid" "1041720"
+"common"
+{
+	"name" "Kingdoms of Amalur: Re-Reckoning"
+	"type" "Game"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"clienttga" "02d462245b68af93c4e29cc415c2eb2b2923fb51"
+	"logo" "d3ee428da9afe4a7ef2c2ba9e745733c1984e3c3"
+	"logo_small" "d3ee428da9afe4a7ef2c2ba9e745733c1984e3c3_thumb"
+	"icon" "1f49b37c0b59f48f45477931504e790b1bfcf88d"
+	"clienticon" "66e35b0ff7239d7f04c30710df7fc0a221cdd2be"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1679443200"
+		"tested_build_id" "10619381"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "71.27760626929471"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "71.27760626929471"
+			}
+		}
+	}
+	"store_asset_mtime" "1639473299"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "KAIKO"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Big Huge Games"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "38 Studios"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "THQ Nordic"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Kingdoms of Amalur"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "THQ Nordic"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1599584400"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1041720"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "19"
+		"2" "1684"
+		"3" "4231"
+		"4" "4182"
+		"5" "1695"
+		"6" "4747"
+		"7" "3993"
+		"8" "1646"
+		"9" "4166"
+		"10" "1697"
+		"11" "21"
+		"12" "4345"
+		"13" "1742"
+		"14" "1743"
+		"15" "4236"
+		"16" "6426"
+		"17" "4057"
+		"18" "5708"
+		"19" "3859"
+	}
+	"review_score" "6"
+	"review_percentage" "76"
+}
+"extended"
+{
+	"developer" "KAIKO"
+	"publisher" "THQ Nordic"
+	"listofdlc" "1278260"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Kingdoms of Amalur Re-Reckoning"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "koa.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Reckoning.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "original"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2265908190"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,schinese,russian,japanese"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1041722"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"1041721"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5908969417997115625"
+				"size" "47630549084"
+				"download" "42257958048"
+			}
+			"publicbeta"
+			{
+				"gid" "5908969417997115625"
+				"size" "47630549084"
+				"download" "42257958048"
+			}
+		}
+	}
+	"1278260"
+	{
+		"dlcappid" "1278260"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2202970019104823585"
+				"size" "0"
+				"download" "0"
+			}
+			"publicbeta"
+			{
+				"gid" "2202970019104823585"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10619381"
+			"timeupdated" "1679066935"
+		}
+		"publicbeta"
+		{
+			"buildid" "10619381"
+			"timeupdated" "1679066953"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "589068288"
+	"maxnumfiles" "133"
+}
+"_missing_token" "False"
+"_change_number" "27730098"
+"_sha" "a810f4d092572702959d21b7a628cbf4a88be900"
+"_size" "6540"
