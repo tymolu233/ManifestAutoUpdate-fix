@@ -1,0 +1,378 @@
+"appid" "842100"
+"common"
+{
+	"name" "Daymare: 1998"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "7a47d69a3df96d8e4e1d7628b81b0918d8c20805"
+	"logo_small" "7a47d69a3df96d8e4e1d7628b81b0918d8c20805_thumb"
+	"icon" "d47d0706a0e0d4763cd2394ed6e17805dac30fe4"
+	"clienticon" "6ae483bdb9e138bc52fdb89cc41c3cec130a5347"
+	"clienttga" "526763a9045fe749be2d07bd4ec791a4b83cb64a"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "842100_eula_0"
+			"name" "Daymare: 1998 EULA"
+			"url" "https://store.steampowered.com//eula/842100_eula_0"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "5184426"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"metacritic_name" "Daymare: 1998"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "30.816641888181238"
+			"height_pct" "68.48257364938948"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "30.816641888181238"
+				"height_pct" "68.48257364938948"
+			}
+		}
+	}
+	"store_asset_mtime" "1667407546"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Invader Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Destructive Creations"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "All in! Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Daymare"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_43" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"german"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"russian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"french"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1568703600"
+	"metacritic_score" "62"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/daymare-1998\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "842100"
+	"store_tags"
+	{
+		"0" "1659"
+		"1" "19"
+		"2" "3978"
+		"3" "1667"
+		"4" "21"
+		"5" "492"
+		"6" "1697"
+		"7" "4345"
+		"8" "4667"
+		"9" "3814"
+		"10" "1662"
+		"11" "4182"
+		"12" "6650"
+		"13" "1774"
+		"14" "6276"
+		"15" "12095"
+		"16" "4026"
+		"17" "1695"
+	}
+	"review_score" "5"
+	"review_percentage" "69"
+}
+"extended"
+{
+	"developer" "Invader Studios"
+	"publisher" "Destructive Creations"
+	"homepage" "https://www.daymarethegame.com"
+}
+"config"
+{
+	"installdir" "Daymare 1998"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Daymare_MASTER.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"1873678235"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"1873681599"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"1873686115"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "11"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"842101"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1123923986562136782"
+				"size" "23147764990"
+				"download" "22669962256"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5184426"
+			"timeupdated" "1592582669"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "15000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Daymare_MASTER/Saved"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26999254"
+"_sha" "d100a7981b29aa59c3a6c72e1eb52b71b10e230a"
+"_size" "6498"
