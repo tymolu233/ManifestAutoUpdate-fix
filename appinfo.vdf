@@ -1,0 +1,966 @@
+"appid" "373420"
+"common"
+{
+	"name" "Divinity: Original Sin Enhanced Edition"
+	"type" "Game"
+	"logo" "4e6d09ea2106beeb3ea6a481755a702f71987baf"
+	"logo_small" "4e6d09ea2106beeb3ea6a481755a702f71987baf_thumb"
+	"icon" "822ff912b2e464fbebbedf7a75ae1eb24921f16b"
+	"clienticon" "2f42cea42b452bad35569be5f83ce1c21ff7a8b3"
+	"clienttga" "21ca2b6d083ee2a219852579d96572ef279f5fc2"
+	"clienticns" "f0888d57221f7c8eca8f4f00c5a83ba901d466de"
+	"oslist" "windows,macos,linux"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "373420_eula_0"
+			"name" "Divinity: Original Sin Enhanced Edition EULA"
+			"url" "http://store.steampowered.com//eula/373420_eula_0"
+		}
+	}
+	"releasestate" "released"
+	"linuxclienticon" "3054dd742c4f0c1c86bbf966d19f774e7a89cfed"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"brazilian" "1"
+	}
+	"osarch" ""
+	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1674691200"
+		"tested_build_id" "9676486"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "heapdelayfree,"
+		}
+	}
+	"metacritic_name" "Divinity: Original Sin Enhanced Edition"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "41"
+			"height_pct" "58"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "41"
+				"height_pct" "58"
+			}
+		}
+	}
+	"store_asset_mtime" "1568725710"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Larian Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Larian Studios"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_27" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_13" "1"
+		"category_23" "1"
+		"category_24" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_44" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1445954640"
+	"metacritic_score" "94"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/divinity-original-sin-enhanced-edition\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "373420"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "1677"
+		"2" "1685"
+		"3" "21"
+		"4" "1684"
+		"5" "10695"
+		"6" "9"
+		"7" "1742"
+		"8" "4325"
+		"9" "4747"
+		"10" "4474"
+		"11" "1695"
+		"12" "3841"
+		"13" "4182"
+		"14" "5851"
+		"15" "3859"
+		"16" "492"
+		"17" "1741"
+		"18" "1756"
+		"19" "10816"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Larian Studios"
+	"publisher" "Larian Studios"
+	"homepage" "http://www.divinityoriginalsin-enhanced.com/"
+	"gamemanualurl" "https://store.steampowered.com/manual/373420/"
+	"listofdlc" "409550,409551"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Divinity Original Sin Enhanced Edition"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Shipping/EoCApp.exe"
+			"description" "Launch"
+			"workingdir" "Shipping"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Divinity - Original Sin.app"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "runner.sh"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1911711579"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"373421"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4560166878102415523"
+				"size" "10687621098"
+				"download" "9944315136"
+			}
+		}
+	}
+	"375780"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "622776614905823671"
+				"size" "10330610892"
+				"download" "9764672176"
+			}
+		}
+	}
+	"375781"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4061686067692639885"
+				"size" "10346853095"
+				"download" "9756567328"
+			}
+		}
+	}
+	"373422"
+	{
+		"config"
+		{
+			"language" "english"
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8965719272450851433"
+				"size" "2067248"
+				"download" "1848704"
+			}
+		}
+	}
+	"373423"
+	{
+		"config"
+		{
+			"language" "polish"
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1273053272505120331"
+				"size" "7804116"
+				"download" "7357104"
+			}
+		}
+	}
+	"373424"
+	{
+		"config"
+		{
+			"language" "french"
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "110863380625442673"
+				"size" "2267120"
+				"download" "2037216"
+			}
+		}
+	}
+	"373425"
+	{
+		"config"
+		{
+			"language" "german"
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4690895569410933411"
+				"size" "2203694"
+				"download" "1977792"
+			}
+		}
+	}
+	"373426"
+	{
+		"config"
+		{
+			"language" "russian"
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6895136332731886171"
+				"size" "3160217"
+				"download" "2620656"
+			}
+		}
+	}
+	"373427"
+	{
+		"config"
+		{
+			"language" "italian"
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1719711380606482756"
+				"size" "2458610"
+				"download" "2204208"
+			}
+		}
+	}
+	"373428"
+	{
+		"config"
+		{
+			"language" "czech"
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5862769964340590843"
+				"size" "22092099"
+				"download" "14408304"
+			}
+		}
+	}
+	"373429"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2969491288942900301"
+				"size" "2120686"
+				"download" "1900960"
+			}
+		}
+	}
+	"375782"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7781098520213136189"
+				"size" "2067232"
+				"download" "1848704"
+			}
+		}
+	}
+	"375783"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4032059601956158017"
+				"size" "7804100"
+				"download" "7357104"
+			}
+		}
+	}
+	"375784"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8959266346786671273"
+				"size" "2267104"
+				"download" "2037216"
+			}
+		}
+	}
+	"375785"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "763261338948009092"
+				"size" "2203678"
+				"download" "1977792"
+			}
+		}
+	}
+	"375786"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4613936634541458324"
+				"size" "3160201"
+				"download" "2620656"
+			}
+		}
+	}
+	"375787"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7349715882155199288"
+				"size" "2458594"
+				"download" "2204208"
+			}
+		}
+	}
+	"375788"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1712360150818983404"
+				"size" "2120670"
+				"download" "1900960"
+			}
+		}
+	}
+	"375789"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8529276564398333696"
+				"size" "2067232"
+				"download" "1848704"
+			}
+		}
+	}
+	"409554"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4298144731851036380"
+				"size" "7804100"
+				"download" "7357104"
+			}
+		}
+	}
+	"409555"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3759899224489792863"
+				"size" "2267104"
+				"download" "2037216"
+			}
+		}
+	}
+	"409556"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8480134848316256323"
+				"size" "2203678"
+				"download" "1977792"
+			}
+		}
+	}
+	"409557"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4528384314073459525"
+				"size" "3160201"
+				"download" "2620656"
+			}
+		}
+	}
+	"409558"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6077387269645268506"
+				"size" "2458594"
+				"download" "2204208"
+			}
+		}
+	}
+	"409559"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2168091732876799474"
+				"size" "2120670"
+				"download" "1900960"
+			}
+		}
+	}
+	"409550"
+	{
+		"dlcappid" "409550"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4776449948631029223"
+				"size" "399480142"
+				"download" "254428960"
+			}
+		}
+	}
+	"409551"
+	{
+		"dlcappid" "409551"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4189212746583973665"
+				"size" "52212090"
+				"download" "46370080"
+			}
+		}
+	}
+	"435540"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "902767677134892802"
+				"size" "130484773"
+				"download" "123960928"
+			}
+		}
+	}
+	"435541"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "963376309395011924"
+				"size" "130484773"
+				"download" "123960928"
+			}
+		}
+	}
+	"435542"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2778622403733318852"
+				"size" "130484773"
+				"download" "123960928"
+			}
+		}
+	}
+	"435543"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"435544"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "macos"
+		}
+	}
+	"435545"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "linux"
+		}
+	}
+	"435546"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6443393619886461576"
+				"size" "4823493"
+				"download" "4262048"
+			}
+		}
+	}
+	"435547"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8649157713262697291"
+				"size" "2062208"
+				"download" "1846480"
+			}
+		}
+	}
+	"435548"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2094013255880015531"
+				"size" "2062208"
+				"download" "1846480"
+			}
+		}
+	}
+	"435549"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6432648313668845294"
+				"size" "2062208"
+				"download" "1846480"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9676486"
+			"timeupdated" "1665155082"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27103127"
+"_sha" "b4959d8a8ad49c67b73677ee34c7f69328bc897b"
+"_size" "14637"
