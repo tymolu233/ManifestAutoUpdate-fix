@@ -1,0 +1,294 @@
+"appid" "823500"
+"common"
+{
+	"name" "BONEWORKS"
+	"type" "Game"
+	"releasestate" "released"
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+	}
+	"openvrsupport" "1"
+	"clienttga" "c3bb66f9e8e9a8395cef0e9e0167702ed86224df"
+	"clienticon" "65b56091f9eb677b232032e73a0146eb19b87f9d"
+	"icon" "9b62f85582df2290373d034b585d683c0e66993e"
+	"logo" "63e0c6bd97b41b4b39bdef9c3cbd9b26a24ac138"
+	"logo_small" "63e0c6bd97b41b4b39bdef9c3cbd9b26a24ac138_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "823500_eula_0"
+			"name" "BONEWORKS EULA"
+			"url" "https://store.steampowered.com//eula/823500_eula_0"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1644278400"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "BONEWORKS"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "55.535303097126814"
+			"height_pct" "65.98119538698994"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "55.535303097126814"
+				"height_pct" "65.98119538698994"
+			}
+		}
+	}
+	"store_asset_mtime" "1573235532"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Stress Level Zero"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Stress Level Zero"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_52" "1"
+		"category_54" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1576000720"
+	"metacritic_score" "72"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/boneworks\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "823500"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "21978"
+		"1" "3968"
+		"2" "19"
+		"3" "3810"
+		"4" "1774"
+		"5" "4182"
+		"6" "1756"
+		"7" "21"
+		"8" "1664"
+		"9" "3839"
+		"10" "599"
+		"11" "4175"
+		"12" "1663"
+		"13" "4667"
+		"14" "492"
+		"15" "1667"
+		"16" "4036"
+		"17" "3942"
+		"18" "4345"
+		"19" "4136"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"vrheadsetstreaming" "0"
+	"developer" "Stress Level Zero"
+	"publisher" "Stress Level Zero"
+	"homepage" "http://www.stresslevelzero.com"
+}
+"config"
+{
+	"installdir" "BONEWORKS"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BONEWORKS\\BONEWORKS.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"823501"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5927460188866243002"
+				"size" "16532235889"
+				"download" "6753338112"
+			}
+			"beta"
+			{
+				"gid" "5927460188866243002"
+				"size" "16532235889"
+				"download" "6753338112"
+			}
+		}
+	}
+	"823502"
+	{
+		"config"
+		{
+			"language" ""
+		}
+	}
+	"823503"
+	{
+		"config"
+		{
+			"language" ""
+		}
+	}
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6051516"
+			"timeupdated" "1610067736"
+		}
+		"beta"
+		{
+			"buildid" "6051516"
+			"timeupdated" "1610044458"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "27277049"
+"_sha" "e408c3392104099ca62b21a34f3ca3484c1ca5b1"
+"_size" "4885"
