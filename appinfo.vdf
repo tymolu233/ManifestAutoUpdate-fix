@@ -1,0 +1,631 @@
+"appid" "1088850"
+"common"
+{
+	"name" "Marvel\'s Guardians of the Galaxy"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "23436719610dc608702af12effbed939e4af9d3a"
+	"clienttga" "a34ddf317371b6c6bdb974a4aef59d3370036330"
+	"icon" "8aec558b5e9c3aa185869d438f78200a2d4bf885"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"logo" "047d67c97b0bf281723beb4c683f3fb2dbabe474"
+	"logo_small" "047d67c97b0bf281723beb4c683f3fb2dbabe474_thumb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1088850_eula_0"
+			"name" "Marvel\'s Guardians of the Galaxy EULA"
+			"url" "https://store.steampowered.com//eula/1088850_eula_0"
+			"version" "8"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1735084800"
+		"tested_build_id" "10413039"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "28.064516129032256"
+			"height_pct" "82.63888888888889"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "28.064516129032256"
+				"height_pct" "82.63888888888889"
+			}
+		}
+	}
+	"store_asset_mtime" "1660684770"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Eidos-Montréal"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Eidos Interactive Corp."
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1635264240"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1088850"
+	"store_tags"
+	{
+		"0" "4182"
+		"1" "1742"
+		"2" "19"
+		"3" "1671"
+		"4" "4106"
+		"5" "3814"
+		"6" "6426"
+		"7" "1719"
+		"8" "3942"
+		"9" "3834"
+		"10" "21"
+		"11" "1755"
+		"12" "1774"
+		"13" "4145"
+		"14" "1756"
+		"15" "4166"
+		"16" "1673"
+		"17" "122"
+		"18" "3859"
+		"19" "1695"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Eidos-Montréal"
+	"publisher" "Eidos Interactive Corp."
+	"homepage" "https://www.gotggame.com"
+	"listofdlc" "1619190,1619191,1651480,1739140,1802230"
+}
+"config"
+{
+	"installdir" "Marvel\'s Guardians of the Galaxy"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin\\gotg.exe"
+			"workingdir" "bin\\"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,arabic,latam"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1088852"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "883883770076497119"
+				"size" "705485126"
+				"download" "344540592"
+			}
+		}
+	}
+	"1088853"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4233867890940432634"
+				"size" "2001738885"
+				"download" "323214816"
+			}
+		}
+	}
+	"1088854"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2869030969867946936"
+				"size" "645009424"
+				"download" "478505040"
+			}
+		}
+	}
+	"1088855"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3356496688599590702"
+				"size" "948134941"
+				"download" "926563600"
+			}
+		}
+	}
+	"1088856"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7495124789942393280"
+				"size" "1002417854"
+				"download" "978631152"
+			}
+		}
+	}
+	"1088857"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4643297027783108358"
+				"size" "996073908"
+				"download" "975141440"
+			}
+		}
+	}
+	"1088858"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1098437716958632149"
+				"size" "1011878013"
+				"download" "988904592"
+			}
+		}
+	}
+	"1088859"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4078626998302900105"
+				"size" "977431083"
+				"download" "954881440"
+			}
+		}
+	}
+	"1507730"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8804142966400379685"
+				"size" "987991034"
+				"download" "964795712"
+			}
+		}
+	}
+	"1507731"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5385423668488448236"
+				"size" "959537193"
+				"download" "938236832"
+			}
+		}
+	}
+	"1507732"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7066285968732076610"
+				"size" "959334832"
+				"download" "934771312"
+			}
+		}
+	}
+	"1507733"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1825794766511732525"
+				"size" "948598815"
+				"download" "927437360"
+			}
+		}
+	}
+	"1507734"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "836054567129931224"
+				"size" "645009424"
+				"download" "478508016"
+			}
+		}
+	}
+	"1507735"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4377075944002457670"
+				"size" "645009424"
+				"download" "478486080"
+			}
+		}
+	}
+	"1507736"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "774065928903829710"
+				"size" "645009424"
+				"download" "478484688"
+			}
+		}
+	}
+	"1507737"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9076001828047499406"
+				"size" "645009424"
+				"download" "478506624"
+			}
+		}
+	}
+	"1619191"
+	{
+		"dlcappid" "1619191"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7733539840491623640"
+				"size" "6662"
+				"download" "2368"
+			}
+		}
+	}
+	"1619190"
+	{
+		"dlcappid" "1619190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7239391781827319858"
+				"size" "6618"
+				"download" "2336"
+			}
+		}
+	}
+	"1651480"
+	{
+		"dlcappid" "1651480"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1031927654853023705"
+				"size" "6479"
+				"download" "2304"
+			}
+		}
+	}
+	"1088851"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6686799393439602216"
+				"size" "71275681971"
+				"download" "21578922224"
+			}
+		}
+	}
+	"1739140"
+	{
+		"dlcappid" "1739140"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2058567624234068976"
+				"size" "6443"
+				"download" "2304"
+			}
+		}
+	}
+	"1802230"
+	{
+		"dlcappid" "1802230"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4026017625854196958"
+				"size" "359338282"
+				"download" "348565200"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10413039"
+			"timeupdated" "1676998831"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "10"
+}
+"_missing_token" "False"
+"_change_number" "27507697"
+"_sha" "5e4dad4b0e71a9bbb234a8007c3fe733cf818dec"
+"_size" "10081"
