@@ -1,0 +1,198 @@
+"appid" "1329740"
+"common"
+{
+	"name" "Police Stories – Level Editor"
+	"type" "Tool"
+	"parent" "539470"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosnotarized"
+	"clienticon" "d7bf23ff403451ed6f6ce7a58b7f03f305e9e1cc"
+	"clienttga" "ab71f7aac188c56cc441233573965fa5ecbad6d6"
+	"icon" "9e61d49c7b410162571bb99ea9cb391939721af1"
+	"logo" "1f1f804bf52de8db9f070f170369148ed3ac84b8"
+	"logo_small" "1f1f804bf52de8db9f070f170369148ed3ac84b8_thumb"
+	"releasestate" "released"
+	"freetodownload" "1"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mighty Morgan"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" " HypeTrain Digital"
+		}
+	}
+	"steam_release_date" "1597675800"
+	"gameid" "1329740"
+}
+"extended"
+{
+	"developer" "Mighty Morgan"
+	"publisher" " HypeTrain Digital"
+	"gamemanualurl" "https://store.steampowered.com/manual/1329740/"
+}
+"config"
+{
+	"installdir" "Police Stories - Missions Creator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Police Stories – Missions Creator.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Police Stories – Missions Creator.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Police Stories – Missions Creator.x64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "Police Stories – Level Editor - Manual.pdf"
+			"type" "manual"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1329741"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4765236158534174834"
+				"size" "82875695"
+				"download" "26436976"
+			}
+		}
+	}
+	"1329742"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2078125191728781650"
+				"size" "79988008"
+				"download" "25919552"
+			}
+		}
+	}
+	"1329743"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6349607556499118465"
+				"size" "88676898"
+				"download" "27024000"
+			}
+		}
+	}
+	"1329744"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9033158574329969258"
+				"size" "1192485"
+				"download" "1073712"
+			}
+		}
+	}
+	"workshopdepot" "1329740"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6955901"
+			"timeupdated" "1625040576"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "8500"
+}
+"_missing_token" "False"
+"_change_number" "26997904"
+"_sha" "4c017d2efd59e15ee6e6f6e9dfa3c44ba81524f5"
+"_size" "3114"
