@@ -1,0 +1,581 @@
+"appid" "1164250"
+"common"
+{
+	"name" "Model Builder: Complete Edition"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "a84695b1c2f3f6d0b467b07a8f869aaf252b675d"
+	"clienttga" "6d16fe8ee71706fecb2eaee2b88c8822fc2c446e"
+	"icon" "b8f1bb776ed6a984d88a32193eee9db979170937"
+	"clienticns" "7e94e635ce317d8008272da510c09011d649a1f2"
+	"logo" "dfc49395819405e9d5232925959f150fe6dcc033"
+	"logo_small" "dfc49395819405e9d5232925959f150fe6dcc033_thumb"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "胶佬模拟器"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1164250_eula_0"
+			"name" "Model Builder EULA"
+			"url" "https://store.steampowered.com//eula/1164250_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1660867200"
+		"tested_build_id" "8867450"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Model Builder"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "zh-cn,en,ja,ko"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+				"japanese" "logo_japanese.png"
+				"koreana" "logo_koreana.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+				"japanese" "logo_japanese_2x.png"
+				"koreana" "logo_koreana_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1719406620"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Moonlit S.A."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Green Man Gaming Publishing"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Green Man Gaming Publishing"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1644339660"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1164250"
+	"store_tags"
+	{
+		"0" "9204"
+		"1" "3810"
+		"2" "5382"
+		"3" "13276"
+		"4" "4821"
+		"5" "92092"
+		"6" "4168"
+		"7" "1643"
+		"8" "1678"
+		"9" "4191"
+		"10" "599"
+		"11" "597"
+		"12" "3942"
+		"13" "5350"
+		"14" "1654"
+		"15" "4150"
+		"16" "198913"
+		"17" "1755"
+		"18" "19780"
+		"19" "1036"
+	}
+	"review_score" "6"
+	"review_percentage" "74"
+}
+"extended"
+{
+	"developer" "Moonlit S.A."
+	"publisher" "Green Man Gaming Publishing"
+	"homepage" "http://modelbuilder.game"
+	"listofdlc" "1938590,1970360,2021030,2055330,2098110,2138320,2138321,2324250,2644980,2825630,2925160"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Model Builder"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Model Builder.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "english"
+	"workshopdepot" "1164250"
+	"1164251"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4673428734292625881"
+				"size" "17387247457"
+				"download" "11690954272"
+			}
+		}
+	}
+	"1918010"
+	{
+		"dlcappid" "1918010"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7589580524203302189"
+				"size" "43564885"
+				"download" "38396192"
+			}
+		}
+	}
+	"1938590"
+	{
+		"dlcappid" "1938590"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "761959542407243777"
+				"size" "354623580"
+				"download" "274192160"
+			}
+		}
+	}
+	"1970360"
+	{
+		"dlcappid" "1970360"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5403335223343229887"
+				"size" "536029979"
+				"download" "447485632"
+			}
+		}
+	}
+	"2021030"
+	{
+		"dlcappid" "2021030"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2113086243751074825"
+				"size" "96451236"
+				"download" "83047680"
+			}
+		}
+	}
+	"2055330"
+	{
+		"dlcappid" "2055330"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8860839677389247892"
+				"size" "465628300"
+				"download" "396771632"
+			}
+		}
+	}
+	"2098110"
+	{
+		"dlcappid" "2098110"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8128480862595692505"
+				"size" "357762115"
+				"download" "287384912"
+			}
+		}
+	}
+	"2138320"
+	{
+		"dlcappid" "2138320"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8880902698989761942"
+				"size" "319983647"
+				"download" "250065888"
+			}
+		}
+	}
+	"2138321"
+	{
+		"dlcappid" "2138321"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5318652619558426484"
+				"size" "79266"
+				"download" "57888"
+			}
+		}
+	}
+	"2324250"
+	{
+		"dlcappid" "2324250"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3484335257638916941"
+				"size" "332053933"
+				"download" "277651216"
+			}
+		}
+	}
+	"2644980"
+	{
+		"dlcappid" "2644980"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2683734014235491293"
+				"size" "326203912"
+				"download" "257703392"
+			}
+		}
+	}
+	"2825630"
+	{
+		"dlcappid" "2825630"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3777065947939258489"
+				"size" "574745405"
+				"download" "462984800"
+			}
+		}
+	}
+	"2925160"
+	{
+		"dlcappid" "2925160"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5501003154878020863"
+				"size" "344478283"
+				"download" "279626384"
+			}
+		}
+	}
+	"2925180"
+	{
+		"dlcappid" "2925180"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7942245802031881572"
+				"size" "344478283"
+				"download" "279626384"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14995077"
+			"timeupdated" "1720723669"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "27642074"
+"_sha" "93d63ff8a4109e05cd8435cb3c58d6f471f4bb41"
+"_size" "9654"
