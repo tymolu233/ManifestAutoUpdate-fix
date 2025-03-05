@@ -1,0 +1,754 @@
+"appid" "1151340"
+"common"
+{
+	"name" "Fallout 76"
+	"type" "Game"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"clienticon" "86af4fb54a9d10d3f16903ca9b3b1c255c466f0e"
+	"clienttga" "e1e04ad6d96f4f952e05252cf691675b453ad7ec"
+	"icon" "81185120c1c1a4b26442828b25bbb58aec8d734c"
+	"logo" "d7e736ae2e5c83bbd0b34b9893fc7562d0ec6003"
+	"logo_small" "d7e736ae2e5c83bbd0b34b9893fc7562d0ec6003_thumb"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"exfgls" "1"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1674000000"
+		"tested_build_id" "10066824"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "63d6123610658adb5acd4d1b0991236dd83c3109/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "48.71034707334951"
+			"height_pct" "65.1982901923534"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "33df4e8e20c42e9a223bed08a6dec6f0fb5d0588/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "33df4e8e20c42e9a223bed08a6dec6f0fb5d0588/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "3bb17d0af372ece562120058e44a7cba14026a9f/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "3bb17d0af372ece562120058e44a7cba14026a9f/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "3bb17d0af372ece562120058e44a7cba14026a9f/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "48.71034707334951"
+				"height_pct" "65.1982901923534"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "c4f7d703808c37977dfd0d896b7f6d353af69315/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "c4f7d703808c37977dfd0d896b7f6d353af69315/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733250093"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bethesda Game Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bethesda Softworks"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Fallout"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_20" "1"
+		"category_18" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1586862000"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1151340"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "3859"
+		"2" "3835"
+		"3" "19995"
+		"4" "122"
+		"5" "4845"
+		"6" "1662"
+		"7" "7332"
+		"8" "1685"
+		"9" "1774"
+		"10" "1667"
+		"11" "1754"
+		"12" "1663"
+		"13" "3834"
+		"14" "4182"
+		"15" "4345"
+		"16" "4667"
+		"17" "4166"
+		"18" "1756"
+		"19" "493"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"onquitdemomsg" "https://steamstore-a.akamaihd.net/message/1694179794025928414/"
+	"developer" "Bethesda Game Studios"
+	"publisher" "Bethesda Softworks"
+	"homepage" "https://fallout.bethesda.net/en/"
+	"listofdlc" "1158670,1202520,1224340,1224341,1224350,1343770,1460140,1905070,1905071,1905072,1905073,2096110,2655310,2975970,3232920"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Fallout76"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Fallout76.exe"
+			"type" "default"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2208414931"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam"
+	"1151341"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8272253521725822006"
+				"size" "111691871"
+				"download" "56315280"
+			}
+			"local"
+			{
+				"gid" "4647036848423179743"
+				"size" "87836672"
+				"download" "22011728"
+			}
+		}
+	}
+	"1151342"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8378263434494349960"
+				"size" "89736247238"
+				"download" "82864043680"
+			}
+			"local"
+			{
+				"gid" "8342734771322416842"
+				"size" "56867313882"
+				"download" "53832662176"
+			}
+		}
+	}
+	"1151343"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7732663470051049182"
+				"size" "3570439934"
+				"download" "3014860736"
+			}
+			"local"
+			{
+				"gid" "5234734955339374268"
+				"size" "2999352845"
+				"download" "2537109216"
+			}
+		}
+	}
+	"1151344"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9196549548646568789"
+				"size" "13533071"
+				"download" "2800432"
+			}
+			"local"
+			{
+				"gid" "7165789806267752779"
+				"size" "13533071"
+				"download" "2800432"
+			}
+		}
+	}
+	"1151345"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5078302672843423189"
+				"size" "3645"
+				"download" "1280"
+			}
+			"local"
+			{
+				"gid" "3926043021509597303"
+				"size" "3208"
+				"download" "1392"
+			}
+		}
+	}
+	"1151346"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2832465999998246697"
+				"size" "233126637"
+				"download" "231561264"
+			}
+			"local"
+			{
+				"gid" "6401739813430068498"
+				"size" "233126188"
+				"download" "231561392"
+			}
+		}
+	}
+	"1151347"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4414919089812537615"
+				"size" "233116741"
+				"download" "231554912"
+			}
+			"local"
+			{
+				"gid" "992120775884439176"
+				"size" "233116292"
+				"download" "231555040"
+			}
+		}
+	}
+	"1151348"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2977622786274441546"
+				"size" "3367335893"
+				"download" "2302158032"
+			}
+			"local"
+			{
+				"gid" "7243738156767865498"
+				"size" "1548024426"
+				"download" "1188020272"
+			}
+		}
+	}
+	"1151349"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2262321380038784743"
+				"size" "3550738308"
+				"download" "2417194016"
+			}
+			"local"
+			{
+				"gid" "4311488046912051828"
+				"size" "1661708453"
+				"download" "1279298768"
+			}
+		}
+	}
+	"1158671"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1513225771236822748"
+				"size" "3496175758"
+				"download" "2386127808"
+			}
+			"local"
+			{
+				"gid" "4602310599651653419"
+				"size" "1603086915"
+				"download" "1239958768"
+			}
+		}
+	}
+	"1158672"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "106534501126006646"
+				"size" "3497611728"
+				"download" "2405729936"
+			}
+			"local"
+			{
+				"gid" "6422745876291429263"
+				"size" "1333806660"
+				"download" "1131478720"
+			}
+		}
+	}
+	"1158673"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8911988216595717978"
+				"size" "233119053"
+				"download" "231547424"
+			}
+			"local"
+			{
+				"gid" "980781255604282104"
+				"size" "233118604"
+				"download" "231547536"
+			}
+		}
+	}
+	"1158674"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "24588312325382086"
+				"size" "233127645"
+				"download" "231561040"
+			}
+			"local"
+			{
+				"gid" "310450104132768274"
+				"size" "233127196"
+				"download" "231561152"
+			}
+		}
+	}
+	"1158675"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6885213305705792517"
+				"size" "233120083"
+				"download" "231563856"
+			}
+			"local"
+			{
+				"gid" "2952870897367060775"
+				"size" "233119634"
+				"download" "231563968"
+			}
+		}
+	}
+	"1158676"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8486372183252903372"
+				"size" "233124973"
+				"download" "231547408"
+			}
+			"local"
+			{
+				"gid" "5018266896595452940"
+				"size" "233124524"
+				"download" "231547520"
+			}
+		}
+	}
+	"1158677"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7034697338055459574"
+				"size" "3502200894"
+				"download" "2367073760"
+			}
+			"local"
+			{
+				"gid" "1466665496438162328"
+				"size" "1615160701"
+				"download" "1234713120"
+			}
+		}
+	}
+	"1158678"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9024049741087442286"
+				"size" "233126035"
+				"download" "231561744"
+			}
+			"local"
+			{
+				"gid" "316463032392795421"
+				"size" "1848283051"
+				"download" "1466273584"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17042658"
+			"timeupdated" "1737474519"
+		}
+		"local"
+		{
+			"buildid" "4735078"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1583178231"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27780203"
+"_sha" "15695e9212c9bda632ae14029b34266709100a0d"
+"_size" "12688"
