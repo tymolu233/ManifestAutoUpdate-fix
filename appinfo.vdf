@@ -1,0 +1,142 @@
+"appid" "361580"
+"common"
+{
+	"name" "Wreckfest Dedicated Server"
+	"type" "Tool"
+	"parent" "228380"
+	"logo" "13f6074af0fee36a42410a9bee71443b0db5486b"
+	"logo_small" "13f6074af0fee36a42410a9bee71443b0db5486b_thumb"
+	"icon" "2c93b44a991870cff51b8f77096969201771d2e9"
+	"clienttga" "d1f643e4867de974d5e4dde253ce5159f133986e"
+	"clienticon" "ee8be8f5d1185588eb91dabead08fc20071fa02a"
+	"oslist" "windows"
+	"osarch" ""
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "361580_eula_0"
+			"name" "Wreckfest Dedicated Server EULA"
+			"url" "https://store.steampowered.com//eula/361580_eula_0"
+		}
+	}
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "361580"
+}
+"extended"
+{
+	"gamedir" "wreckfest"
+	"serverbrowsername" "Wreckfest"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Wreckfest Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "start_server.bat"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"361581"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3726030351482866097"
+				"size" "5963184616"
+				"download" "5299601936"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17145474"
+			"timeupdated" "1738527943"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "27279952"
+"_sha" "41ef6605c8f94b0ba812ac505248b1f99d02fa86"
+"_size" "2148"
