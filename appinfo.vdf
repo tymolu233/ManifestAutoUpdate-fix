@@ -1,0 +1,253 @@
+"appid" "461870"
+"common"
+{
+	"name" "Police Simulator: Patrol Duty"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "8b15c1d13e995bb2dccd21b3b78711c209dcc3b8"
+	"logo_small" "8b15c1d13e995bb2dccd21b3b78711c209dcc3b8_thumb"
+	"clienticon" "d89f73396890730773620b405392e38ec65ce350"
+	"clienttga" "53ea951ca5fd112caad31782596a3f574a9c6082"
+	"icon" "235a79dbea5c0b9889081ea74d25e212a5008c17"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "461870_eula_0"
+			"name" "Police Simulator EULA"
+			"url" "https://store.steampowered.com//eula/461870_eula_0"
+		}
+	}
+	"metacritic_name" "Police Simulator 18"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "53.16380119882777"
+			"height_pct" "58.680555555555564"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "53.16380119882777"
+				"height_pct" "58.680555555555564"
+			}
+		}
+	}
+	"store_asset_mtime" "1683202501"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bigmoon Entertainment"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_38" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1560848438"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "461870"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "1695"
+		"2" "11333"
+		"3" "3859"
+		"4" "6378"
+		"5" "4175"
+		"6" "1685"
+		"7" "19"
+		"8" "4182"
+		"9" "1644"
+		"10" "3839"
+		"11" "5030"
+		"12" "21"
+		"13" "7208"
+		"14" "1721"
+		"15" "4667"
+	}
+	"review_score" "5"
+	"review_percentage" "52"
+}
+"extended"
+{
+	"developer" "Bigmoon Entertainment"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Police Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PoliceSimulator.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"461871"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8257850844176613783"
+				"size" "7632113589"
+				"download" "7312005856"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4909107"
+			"timeupdated" "1611147255"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "20000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Police/{64BitSteamID}/savedata"
+			"pattern" "*.*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27103768"
+"_sha" "51d619d68aed6763b432dc4719bdeb5e8299d7d6"
+"_size" "4002"
