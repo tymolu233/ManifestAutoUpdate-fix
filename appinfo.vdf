@@ -1,0 +1,356 @@
+"appid" "661790"
+"common"
+{
+	"name" "Witch Hunt"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienticon" "f689cff156e16712592e190322386416e5a338ff"
+	"clienttga" "58d15efe1d3a5d93c9ec1698995969e8f24c2353"
+	"icon" "7ccdcd64b4aed9cd9579b2c77d7de296641bc185"
+	"logo" "6328ee21514a87b09a391e0d16d0da8141bbe4ea"
+	"logo_small" "6328ee21514a87b09a391e0d16d0da8141bbe4ea_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1648684800"
+		"tested_build_id" "6898447"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Witch Hunt"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "78.9780515196571"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "78.9780515196571"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1605382972"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Gua"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Gua"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Gua\'s games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1535994757"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "661790"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "3978"
+		"2" "19"
+		"3" "1662"
+		"4" "4166"
+		"5" "1695"
+		"6" "1663"
+		"7" "10808"
+		"8" "21"
+		"9" "4182"
+		"10" "1774"
+		"11" "9564"
+		"12" "1721"
+		"13" "3839"
+		"14" "3834"
+		"15" "4236"
+		"16" "3952"
+		"17" "4026"
+		"18" "4345"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "Gua"
+	"publisher" "Gua"
+	"homepage" "http://vintsevych.com/"
+}
+"config"
+{
+	"installdir" "Witch Hunt"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Witch_Hunt.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"661791"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6314363322055468596"
+				"size" "2558303945"
+				"download" "1133276576"
+			}
+			"v106_old_grass_render"
+			{
+				"gid" "5337825425130920700"
+				"size" "2828304159"
+				"download" "1219150032"
+			}
+			"v118_deadzone"
+			{
+				"gid" "4357229813861955938"
+				"size" "2616682525"
+				"download" "1147586256"
+			}
+			"version_082"
+			{
+				"gid" "4363049217192650005"
+				"size" "2987741592"
+				"download" "1278822448"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6898447"
+			"timeupdated" "1624098865"
+		}
+		"v106_old_grass_render"
+		{
+			"buildid" "4026160"
+			"timeupdated" "1571110557"
+		}
+		"v118_deadzone"
+		{
+			"buildid" "5406208"
+			"timeupdated" "1597300618"
+		}
+		"version_082"
+		{
+			"buildid" "2890461"
+			"description" "Build with old Darkness sense logic."
+			"timeupdated" "1529975653"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Andrii Vintsevych/Witch Hunt"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27014150"
+"_sha" "7ac0bdd7c3ecffe1e9b880b2cdc0c7fe80215f1a"
+"_size" "6040"
