@@ -1,0 +1,373 @@
+"appid" "2113920"
+"common"
+{
+	"name" "The Legend of Heroes: Kuro no Kiseki Ⅱ -CRIMSON SiN-"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"japanese" "英雄伝説 黎の軌跡Ⅱ-CRIMSON SiN-"
+		"schinese" "英雄传说 黎之轨迹Ⅱ -绯红原罪-"
+		"tchinese" "英雄傳說 黎之軌跡Ⅱ -緋紅原罪-"
+		"english" "The Legend of Heroes: Kuro no Kiseki Ⅱ -CRIMSON SiN-\t"
+		"koreana" "영웅전설 여의 궤적 Ⅱ -CRIMSON SiN-"
+	}
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"clienticon" "d013764efc5b6139630df141b07a6dd940b85118"
+	"clienttga" "d370a390414a3ec5e1115008a0843b1ec8d6f170"
+	"icon" "3a70f0467cef39d04e5e9d0a2f0bef8dec4a1083"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1676073600"
+		"tested_build_id" "10389945"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-tw,ko"
+		"library_hero" "en,zh-tw,ko"
+		"library_logo" "en,zh-tw,ko"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "33.994637424308735"
+			"height_pct" "83.96346209662525"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+				"koreana" "library_hero_koreana.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"tchinese" "library_hero_tchinese_2x.jpg"
+				"koreana" "library_hero_koreana_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"tchinese" "logo_tchinese.png"
+				"koreana" "logo_koreana.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"koreana" "logo_koreana_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "33.994637424308735"
+				"height_pct" "83.96346209662525"
+			}
+		}
+	}
+	"store_asset_mtime" "1738817551"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Nihon Falcom"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Clouded Leopard Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "The Legend of Heroes"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Sen no Kiseki"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Zero no Kiseki"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "Ao no Kiseki"
+		}
+		"6"
+		{
+			"type" "franchise"
+			"name" "Hajimari no Kiseki"
+		}
+		"7"
+		{
+			"type" "franchise"
+			"name" "Kuro no Kiseki"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1674658800"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2113920"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "4434"
+		"2" "11014"
+		"3" "10695"
+		"4" "3799"
+		"5" "14139"
+		"6" "4191"
+		"7" "4726"
+		"8" "4085"
+		"9" "1684"
+		"10" "4947"
+		"11" "5608"
+		"12" "51306"
+		"13" "4325"
+		"14" "5094"
+		"15" "1742"
+		"16" "4182"
+		"17" "1677"
+		"18" "8461"
+		"19" "5230"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "Nihon Falcom"
+	"publisher" "Clouded Leopard Entertainment"
+	"listofdlc" "2252080,2252081,2252082,2252090,2252091,2252092,2252093,2252094,2252095,2252096,2252097,2252098,2252099,2252110,2252111,2252112,2252113,2252114,2252120,2252121,2252122,2252123,2252124,2252125,2252126,2252127,2252128,2252129,2252130,2252131,2252132,2252133,2252134,2252150,2252151,2252152,2252153,2252154,2252155,2252156,2252160,2252161,2252162,2252163,2252164,2252165,2252166,2252167,2252168,2252169,2252210,2252211,2252212,2252213,2252214,2252215,2252216,2252217,2252218,2252219,2252230,2252231,2252232,2252233"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "THE LEGEND OF HEROES KURO NO KISEKI2"
+	"steamcontrollertemplateindex" "3"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ed9.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "launcher/Launcher.exe"
+			"type" "config"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"koreana" "설정 도구"
+				"tchinese" "設定工具"
+				"japanese" "設定ツール"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2113921"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8792013703185739847"
+				"size" "16797902827"
+				"download" "16358630160"
+			}
+		}
+	}
+	"baselanguages" "koreana,tchinese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16257954"
+			"timeupdated" "1730415315"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "CLE/Kuro_no_Kiseki2/savedata"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27509053"
+"_sha" "8a265f1188cdd52954594e22c966e4cf94af2c05"
+"_size" "7476"
