@@ -1,0 +1,359 @@
+"appid" "1063980"
+"common"
+{
+	"name" "Hell Architect"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"icon" "784f289de8c1aa9c2c0096bb898f39281ee154c0"
+	"logo" "6bb3f3f3ba32f2dd3ad4e27fcb47819fcb9524c4"
+	"logo_small" "6bb3f3f3ba32f2dd3ad4e27fcb47819fcb9524c4_thumb"
+	"clienticon" "c298ab9f686bf95a3c73cfeb30e7e05df217c83c"
+	"clienttga" "f50c7ebd8d87be3985cc77f3c07362642999b948"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"osextended" "macos64,macosapplesilicon"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1666224000"
+		"tested_build_id" "9162439"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "14.431313815958077"
+			"height_pct" "57.900769149581784"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "14.431313815958077"
+				"height_pct" "57.900769149581784"
+			}
+		}
+	}
+	"store_asset_mtime" "1640258962"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Woodland Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Leonardo Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Woodland Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1629291360"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1063980"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "220585"
+		"2" "7332"
+		"3" "3810"
+		"4" "12472"
+		"5" "5300"
+		"6" "1643"
+		"7" "5923"
+		"8" "3871"
+		"9" "9"
+		"10" "19995"
+		"11" "4195"
+		"12" "9541"
+		"13" "4695"
+		"14" "1719"
+		"15" "8945"
+		"16" "1702"
+		"17" "4182"
+		"18" "599"
+		"19" "492"
+	}
+	"review_score" "5"
+	"review_percentage" "69"
+}
+"extended"
+{
+	"developer" "Woodland Games"
+	"publisher" "Leonardo Interactive"
+	"listofdlc" "1819360"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Hell Architect"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HellArchitect.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "HellArchitect.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "HellArchitect.app"
+			"arguments" "-force-glcore"
+			"type" "option3"
+			"config"
+			{
+				"betakey" "woodland_inside_mac"
+			}
+			"description_loc"
+			{
+				"english" "Force OpenGL Core"
+			}
+			"description" "Force OpenGL Core"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"1063981"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1862259269499192493"
+				"size" "2318977618"
+				"download" "692865888"
+			}
+		}
+	}
+	"1063982"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1330044887015253485"
+				"size" "2313511768"
+				"download" "692150496"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9162439"
+			"timeupdated" "1658391289"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26951327"
+"_sha" "8f0ebf17cf9ead8cae53a47f0252d80764c3c056"
+"_size" "6073"
