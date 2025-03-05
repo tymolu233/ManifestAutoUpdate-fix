@@ -1,0 +1,327 @@
+"appid" "878670"
+"common"
+{
+	"name" "Shenmue III"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "9a9bfa275ed5303384b2274e512dbfb1e120df85"
+	"logo_small" "9a9bfa275ed5303384b2274e512dbfb1e120df85_thumb"
+	"icon" "702884f006b9a426eda18c7ed9a17707dfda1572"
+	"clienticon" "d38f6f7bd3100c44ecd0a5933b5e6b72bc0061d8"
+	"clienttga" "c4dc4640eea205f4cd451aa74e88d30848a80c8e"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1647043200"
+		"tested_build_id" "5920564"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Shenmue III"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "55.17129928894636"
+			"height_pct" "94.44444444444446"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "55.17129928894636"
+				"height_pct" "94.44444444444446"
+			}
+		}
+	}
+	"store_asset_mtime" "1605540765"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "YS Net"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ININ"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Shenmue"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1605772800"
+	"steam_release_date" "1605808840"
+	"metacritic_score" "69"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/shenmue-iii\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "878670"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "19"
+		"2" "6915"
+		"3" "1695"
+		"4" "1742"
+		"5" "4182"
+		"6" "1697"
+		"7" "4559"
+		"8" "3965"
+		"9" "5153"
+		"10" "122"
+		"11" "4085"
+		"12" "4166"
+		"13" "7782"
+		"14" "1743"
+		"15" "599"
+		"16" "4434"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"developer" "YS Net"
+	"publisher" "ININ"
+	"listofdlc" "1047200,1047201,1047202,1166190,1166191,1166192,1166193,1166194,1166195,1166196,1166197,1166198,1166199,1166220,1166221,1166222,1166223,1166224,1166225"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "ShenmueIII"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Shenmue3.exe"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"878671"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5065668737828223269"
+				"size" "53499128803"
+				"download" "30549026608"
+			}
+		}
+	}
+	"1047200"
+	{
+		"dlcappid" "1047200"
+	}
+	"1047201"
+	{
+		"dlcappid" "1047201"
+	}
+	"1047202"
+	{
+		"dlcappid" "1047202"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5920564"
+			"timeupdated" "1610463521"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27003510"
+"_sha" "e932b13eeb6b4d689b76a8785110a3bf56ee4c51"
+"_size" "5751"
