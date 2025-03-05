@@ -1,0 +1,4162 @@
+"appid" "1938090"
+"common"
+{
+	"name" "Call of Duty®"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "62d857e14896e4f7010ebedc8842b1e48898a18c"
+	"clienttga" "526e5ae3576ff7c87d09f7152579d43fb1ef5f48"
+	"icon" "8eaf32220060344996cbf11f697a4f4be943e5f3"
+	"name_localized"
+	{
+		"koreana" "콜 오브 듀티®"
+		"schinese" "使命召唤®"
+		"tchinese" "《決勝時刻®》"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"community_visible_stats" "1"
+	"exfgls" "1"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"aicontenttype" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1670284800"
+		"tested_build_id" "9729023"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedAntiCheat_Other"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,zh-tw,zh-cn,ko,ja"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "36.04849720884962"
+			"height_pct" "81.98292613652578"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "9b1d2408f86ec7b6f1e05d176fa6c2646bd8c540/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "9b1d2408f86ec7b6f1e05d176fa6c2646bd8c540/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "eaa6af8b3d61f47b8b37be1f4f3e13d5c73a9d27/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "eaa6af8b3d61f47b8b37be1f4f3e13d5c73a9d27/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "eaa6af8b3d61f47b8b37be1f4f3e13d5c73a9d27/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "36.04849720884962"
+				"height_pct" "81.98292613652578"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"tchinese" "logo_tchinese.png"
+				"schinese" "logo_schinese.png"
+				"koreana" "logo_koreana.png"
+				"japanese" "c8d421966ed5db762e6d25fb1e8c7ec9ef3078d4/logo_japanese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"koreana" "logo_koreana_2x.png"
+				"japanese" "c8d421966ed5db762e6d25fb1e8c7ec9ef3078d4/logo_japanese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "2222c4ae1e0258924f641daf869ee9c93953cfeb/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "2222c4ae1e0258924f641daf869ee9c93953cfeb/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1738089798"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Treyarch"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Raven Software"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Beenox"
+		}
+		"3"
+		{
+			"type" "developer"
+			"name" "High Moon Studios"
+		}
+		"4"
+		{
+			"type" "developer"
+			"name" "Activision Shanghai"
+		}
+		"5"
+		{
+			"type" "developer"
+			"name" "Sledgehammer Games"
+		}
+		"6"
+		{
+			"type" "developer"
+			"name" "Infinity Ward"
+		}
+		"7"
+		{
+			"type" "developer"
+			"name" "Demonware"
+		}
+		"8"
+		{
+			"type" "developer"
+			"name" "Toys for Bob"
+		}
+		"9"
+		{
+			"type" "publisher"
+			"name" "Activision"
+		}
+		"10"
+		{
+			"type" "franchise"
+			"name" "Call of Duty"
+		}
+		"11"
+		{
+			"type" "franchise"
+			"name" "Modern Warfare"
+		}
+		"12"
+		{
+			"type" "franchise"
+			"name" "Modern Warfare II"
+		}
+		"13"
+		{
+			"type" "franchise"
+			"name" "Modern Warfare III"
+		}
+		"14"
+		{
+			"type" "franchise"
+			"name" "Black Ops"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_27" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_13" "1"
+		"category_35" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1666929600"
+	"community_hub_visible" "1"
+	"gameid" "1938090"
+	"store_tags"
+	{
+		"0" "1663"
+		"1" "3859"
+		"2" "1774"
+		"3" "4182"
+		"4" "19"
+		"5" "4168"
+		"6" "3839"
+		"7" "1678"
+		"8" "5673"
+		"9" "1708"
+		"10" "4667"
+		"11" "1685"
+		"12" "4175"
+		"13" "1742"
+		"14" "4166"
+		"15" "5611"
+		"16" "3843"
+		"17" "4345"
+		"18" "3814"
+		"19" "1697"
+	}
+	"review_score" "5"
+	"review_percentage" "58"
+}
+"extended"
+{
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "RU,BY"
+	"developer" "Treyarch"
+	"publisher" "Activision"
+	"homepage" "https://www.callofduty.com/"
+	"aliases" "mw2"
+	"listofdlc" "1962660,1962661,1962662,1962663,2014260,2021990,2053670,2053671,2062850,2120530,2127790,2127791,2137910,2139260,2139261,2139262,2139263,2139264,2139265,2139266,2139267,2139268,2139269,2139270,2139271,2139272,2170970,2228970,2278280,2316850,2332010,2332011,2332012,2332013,2332014,2332015,2332016,2332017,2332018,2332019,2332020,2332021,2354080,2387940,2396440,2396490,2433000,2451950,2459970,2493660,2519060,2519070,2519090,2519100,2531820,2534810,2540870,2540890,2540900,2540910,2540920,2573900,2596430,2596440"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Call of Duty HQ"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bootstrapper.exe"
+			"arguments" "cod.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch Bootstrapper.exe"
+			}
+			"description" "Launch Bootstrapper.exe"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" ""
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1938091"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2742104746092727433"
+				"size" "748671209"
+				"download" "442074528"
+			}
+			"local"
+			{
+				"gid" "7073109254292645340"
+				"size" "12"
+				"download" "64"
+			}
+		}
+	}
+	"1938092"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6846226700142306566"
+				"size" "20513130716"
+				"download" "20093736400"
+			}
+		}
+	}
+	"1938093"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4605444784041015851"
+				"size" "115517188"
+				"download" "105875792"
+			}
+		}
+	}
+	"1938094"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8992965901154001134"
+				"size" "111802880"
+				"download" "102243952"
+			}
+		}
+	}
+	"1938095"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8474311868592260141"
+				"size" "114788192"
+				"download" "105106272"
+			}
+		}
+	}
+	"1938096"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2286291804258466061"
+				"size" "118530228"
+				"download" "108008176"
+			}
+		}
+	}
+	"1938097"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8067993587448263406"
+				"size" "116064592"
+				"download" "106408640"
+			}
+		}
+	}
+	"1938098"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1958297274631542099"
+				"size" "260430544"
+				"download" "150683984"
+			}
+		}
+	}
+	"1938099"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4183593935282122779"
+				"size" "114590300"
+				"download" "105046240"
+			}
+		}
+	}
+	"1962664"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6409998455532768620"
+				"size" "114464948"
+				"download" "104760096"
+			}
+		}
+	}
+	"1962665"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1215296322692322333"
+				"size" "258034440"
+				"download" "150916320"
+			}
+		}
+	}
+	"1962666"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8074930431920854560"
+				"size" "142602984"
+				"download" "133227056"
+			}
+		}
+	}
+	"1962667"
+	{
+		"config"
+		{
+			"language" "arabic"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8602471508512711023"
+				"size" "230281176"
+				"download" "122986320"
+			}
+		}
+	}
+	"1962668"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5923473078402713416"
+				"size" "368335776"
+				"download" "229467264"
+			}
+		}
+	}
+	"1962669"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2032295204856512148"
+				"size" "251827608"
+				"download" "140898448"
+			}
+		}
+	}
+	"2014030"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5160636021516892122"
+				"size" "252662636"
+				"download" "142795120"
+			}
+		}
+	}
+	"2014031"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8845475583041124914"
+				"size" "12627016"
+				"download" "11977344"
+			}
+		}
+	}
+	"2021995"
+	{
+		"config"
+		{
+			"language" "thai"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3520831864640805859"
+				"size" "1003104004"
+				"download" "843448336"
+			}
+		}
+	}
+	"1962660"
+	{
+		"dlcappid" "1962660"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1881025345466919833"
+				"size" "26622454588"
+				"download" "26263740096"
+			}
+			"local"
+			{
+				"gid" "7225433652865844625"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"2014032"
+	{
+		"dlcappid" "1962660"
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8165693513555598489"
+				"size" "842880860"
+				"download" "760722752"
+			}
+		}
+	}
+	"2014033"
+	{
+		"dlcappid" "1962660"
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5496472913774157035"
+				"size" "858337836"
+				"download" "775259056"
+			}
+		}
+	}
+	"2014034"
+	{
+		"dlcappid" "1962660"
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9131028561714965839"
+				"size" "880597968"
+				"download" "798023360"
+			}
+		}
+	}
+	"2014035"
+	{
+		"dlcappid" "1962660"
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4575164632125270435"
+				"size" "881321144"
+				"download" "799083056"
+			}
+		}
+	}
+	"2014036"
+	{
+		"dlcappid" "1962660"
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "615626128054967869"
+				"size" "904426132"
+				"download" "821896336"
+			}
+		}
+	}
+	"2014037"
+	{
+		"dlcappid" "1962660"
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7732357790714145010"
+				"size" "2535555060"
+				"download" "1494701952"
+			}
+		}
+	}
+	"2014038"
+	{
+		"dlcappid" "1962660"
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8083313959628885776"
+				"size" "881263348"
+				"download" "798498944"
+			}
+		}
+	}
+	"2014039"
+	{
+		"dlcappid" "1962660"
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7539351315576236109"
+				"size" "895491828"
+				"download" "812132736"
+			}
+		}
+	}
+	"2014040"
+	{
+		"dlcappid" "1962660"
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6051329893902867378"
+				"size" "1699832972"
+				"download" "879374848"
+			}
+		}
+	}
+	"2014041"
+	{
+		"dlcappid" "1962660"
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8406617230144562458"
+				"size" "856869840"
+				"download" "774884768"
+			}
+		}
+	}
+	"2014042"
+	{
+		"dlcappid" "1962660"
+		"config"
+		{
+			"language" "arabic"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1186686335422472733"
+				"size" "1686702848"
+				"download" "866001840"
+			}
+		}
+	}
+	"2014043"
+	{
+		"dlcappid" "1962660"
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7818932155953946620"
+				"size" "2588386304"
+				"download" "1540654176"
+			}
+		}
+	}
+	"2014044"
+	{
+		"dlcappid" "1962660"
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1131499643490903509"
+				"size" "2557108692"
+				"download" "1516193936"
+			}
+		}
+	}
+	"2014045"
+	{
+		"dlcappid" "1962660"
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "250389668936381538"
+				"size" "2585718144"
+				"download" "1546812368"
+			}
+		}
+	}
+	"2021996"
+	{
+		"dlcappid" "1962660"
+		"config"
+		{
+			"language" "thai"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1233855202296627576"
+				"size" "842880860"
+				"download" "760708416"
+			}
+		}
+	}
+	"1962661"
+	{
+		"dlcappid" "1962661"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8277862087861775956"
+				"size" "64113381617"
+				"download" "62496282496"
+			}
+			"local"
+			{
+				"gid" "7893885472411373437"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"2014046"
+	{
+		"dlcappid" "1962661"
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1833215114066254245"
+				"size" "2240286116"
+				"download" "1926760624"
+			}
+		}
+	}
+	"2014047"
+	{
+		"dlcappid" "1962661"
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6556851757829983268"
+				"size" "2334389156"
+				"download" "2023106336"
+			}
+		}
+	}
+	"2014048"
+	{
+		"dlcappid" "1962661"
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8701937661404167625"
+				"size" "2534664680"
+				"download" "2220137904"
+			}
+		}
+	}
+	"2014049"
+	{
+		"dlcappid" "1962661"
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4018164015761258206"
+				"size" "2525876488"
+				"download" "2216131776"
+			}
+		}
+	}
+	"2014050"
+	{
+		"dlcappid" "1962661"
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7821771693762905973"
+				"size" "2673822792"
+				"download" "2359884192"
+			}
+		}
+	}
+	"2014051"
+	{
+		"dlcappid" "1962661"
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1541413402423127149"
+				"size" "6645117296"
+				"download" "3763483632"
+			}
+		}
+	}
+	"2014052"
+	{
+		"dlcappid" "1962661"
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3083334399884466690"
+				"size" "2480092924"
+				"download" "2174194256"
+			}
+		}
+	}
+	"2014053"
+	{
+		"dlcappid" "1962661"
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8203539355857100869"
+				"size" "2655485072"
+				"download" "2342661344"
+			}
+		}
+	}
+	"2014054"
+	{
+		"dlcappid" "1962661"
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2297546451863420587"
+				"size" "4506443972"
+				"download" "1998298816"
+			}
+		}
+	}
+	"2014055"
+	{
+		"dlcappid" "1962661"
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2350833995543360803"
+				"size" "2271889368"
+				"download" "1958779504"
+			}
+		}
+	}
+	"2014056"
+	{
+		"dlcappid" "1962661"
+		"config"
+		{
+			"language" "arabic"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7248272312823830897"
+				"size" "4482681508"
+				"download" "1973984624"
+			}
+		}
+	}
+	"2014057"
+	{
+		"dlcappid" "1962661"
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5946120460115233846"
+				"size" "6952561252"
+				"download" "4075235792"
+			}
+		}
+	}
+	"2014058"
+	{
+		"dlcappid" "1962661"
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7453767771947000630"
+				"size" "6987283808"
+				"download" "4115859168"
+			}
+		}
+	}
+	"2014059"
+	{
+		"dlcappid" "1962661"
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1877732758860215811"
+				"size" "7110753836"
+				"download" "4246756336"
+			}
+		}
+	}
+	"2021998"
+	{
+		"dlcappid" "1962661"
+		"config"
+		{
+			"language" "thai"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2051592838367363625"
+				"size" "4722907608"
+				"download" "2975918656"
+			}
+		}
+	}
+	"1962662"
+	{
+		"dlcappid" "1962662"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2937638577938161127"
+				"size" "53216622613"
+				"download" "51883369936"
+			}
+			"local"
+			{
+				"gid" "3022494183077718074"
+				"size" "8"
+				"download" "64"
+			}
+		}
+	}
+	"2014060"
+	{
+		"dlcappid" "1962662"
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3214049091914724370"
+				"size" "2608391408"
+				"download" "2256278096"
+			}
+		}
+	}
+	"2014061"
+	{
+		"dlcappid" "1962662"
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8767231696839048012"
+				"size" "2717452108"
+				"download" "2367929696"
+			}
+		}
+	}
+	"2014062"
+	{
+		"dlcappid" "1962662"
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7559321650025279775"
+				"size" "2921836116"
+				"download" "2569129104"
+			}
+		}
+	}
+	"2014063"
+	{
+		"dlcappid" "1962662"
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7235733989228342364"
+				"size" "2910769656"
+				"download" "2563308784"
+			}
+		}
+	}
+	"2014064"
+	{
+		"dlcappid" "1962662"
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1502924441552142199"
+				"size" "3074981016"
+				"download" "2723207104"
+			}
+		}
+	}
+	"2014065"
+	{
+		"dlcappid" "1962662"
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4464908837329529985"
+				"size" "7749752664"
+				"download" "4424023216"
+			}
+		}
+	}
+	"2014066"
+	{
+		"dlcappid" "1962662"
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8842403881402971982"
+				"size" "2873344332"
+				"download" "2528857120"
+			}
+		}
+	}
+	"2014067"
+	{
+		"dlcappid" "1962662"
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7187159096843345687"
+				"size" "3047626600"
+				"download" "2696030208"
+			}
+		}
+	}
+	"2014068"
+	{
+		"dlcappid" "1962662"
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5297896524589431939"
+				"size" "5242645484"
+				"download" "2329880352"
+			}
+		}
+	}
+	"2014069"
+	{
+		"dlcappid" "1962662"
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9086685280788758304"
+				"size" "2639931104"
+				"download" "2288225168"
+			}
+		}
+	}
+	"2014070"
+	{
+		"dlcappid" "1962662"
+		"config"
+		{
+			"language" "arabic"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5472288915151512026"
+				"size" "5219386920"
+				"download" "2306055696"
+			}
+		}
+	}
+	"2014071"
+	{
+		"dlcappid" "1962662"
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8392749391105510960"
+				"size" "8074685532"
+				"download" "4754591072"
+			}
+		}
+	}
+	"2014072"
+	{
+		"dlcappid" "1962662"
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7113357008415815856"
+				"size" "8108036116"
+				"download" "4792796560"
+			}
+		}
+	}
+	"2014073"
+	{
+		"dlcappid" "1962662"
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2269775831423495381"
+				"size" "8267237032"
+				"download" "4959757856"
+			}
+		}
+	}
+	"2021999"
+	{
+		"dlcappid" "1962662"
+		"config"
+		{
+			"language" "thai"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8107943437389566572"
+				"size" "5091012900"
+				"download" "2977993184"
+			}
+		}
+	}
+	"2139279"
+	{
+		"dlcappid" "1962662"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "969875945185066448"
+				"size" "1496564248"
+				"download" "835999312"
+			}
+		}
+	}
+	"2014264"
+	{
+		"dlcappid" "1962662"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3989989081634160212"
+				"size" "23671872"
+				"download" "21672656"
+			}
+		}
+	}
+	"2014265"
+	{
+		"dlcappid" "1962662"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4011549569490911964"
+				"size" "23717632"
+				"download" "21678800"
+			}
+		}
+	}
+	"2014266"
+	{
+		"dlcappid" "1962662"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6477787593649586226"
+				"size" "24561220"
+				"download" "22383280"
+			}
+		}
+	}
+	"1962663"
+	{
+		"dlcappid" "1962663"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5441550656635889883"
+				"size" "55117270841"
+				"download" "53784656944"
+			}
+			"local"
+			{
+				"gid" "462893508986840795"
+				"size" "8"
+				"download" "64"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "1962663"
+		}
+	}
+	"2014074"
+	{
+		"dlcappid" "1962663"
+		"config"
+		{
+			"language" "english"
+			"optionaldlc" "1962663"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1293993303215980897"
+				"size" "2343147176"
+				"download" "2015868912"
+			}
+		}
+	}
+	"2014075"
+	{
+		"dlcappid" "1962663"
+		"config"
+		{
+			"language" "french"
+			"optionaldlc" "1962663"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5448344679646951207"
+				"size" "2437428728"
+				"download" "2112340704"
+			}
+		}
+	}
+	"2014076"
+	{
+		"dlcappid" "1962663"
+		"config"
+		{
+			"language" "german"
+			"optionaldlc" "1962663"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "722877269927933804"
+				"size" "2637401912"
+				"download" "2309225200"
+			}
+		}
+	}
+	"2014077"
+	{
+		"dlcappid" "1962663"
+		"config"
+		{
+			"language" "italian"
+			"optionaldlc" "1962663"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5221769777174667450"
+				"size" "2629277608"
+				"download" "2305789376"
+			}
+		}
+	}
+	"2014078"
+	{
+		"dlcappid" "1962663"
+		"config"
+		{
+			"language" "spanish"
+			"optionaldlc" "1962663"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3157228437938153310"
+				"size" "2777191860"
+				"download" "2449495952"
+			}
+		}
+	}
+	"2014079"
+	{
+		"dlcappid" "1962663"
+		"config"
+		{
+			"language" "koreana"
+			"optionaldlc" "1962663"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8320793829438560761"
+				"size" "6953748936"
+				"download" "3879817968"
+			}
+		}
+	}
+	"2014080"
+	{
+		"dlcappid" "1962663"
+		"config"
+		{
+			"language" "brazilian"
+			"optionaldlc" "1962663"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6482005561158523070"
+				"size" "2582989480"
+				"download" "2263281696"
+			}
+		}
+	}
+	"2014081"
+	{
+		"dlcappid" "1962663"
+		"config"
+		{
+			"language" "latam"
+			"optionaldlc" "1962663"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1265433645403553186"
+				"size" "2758771244"
+				"download" "2432180976"
+			}
+		}
+	}
+	"2014082"
+	{
+		"dlcappid" "1962663"
+		"config"
+		{
+			"language" "tchinese"
+			"optionaldlc" "1962663"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4134030263707050849"
+				"size" "4712166076"
+				"download" "2093699360"
+			}
+		}
+	}
+	"2014083"
+	{
+		"dlcappid" "1962663"
+		"config"
+		{
+			"language" "schinese"
+			"optionaldlc" "1962663"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2153037166745216447"
+				"size" "2374735104"
+				"download" "2047878320"
+			}
+		}
+	}
+	"2014084"
+	{
+		"dlcappid" "1962663"
+		"config"
+		{
+			"language" "arabic"
+			"optionaldlc" "1962663"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6199812979276843624"
+				"size" "4688474136"
+				"download" "2066753376"
+			}
+		}
+	}
+	"2014085"
+	{
+		"dlcappid" "1962663"
+		"config"
+		{
+			"language" "japanese"
+			"optionaldlc" "1962663"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1342363803979862159"
+				"size" "7261651736"
+				"download" "4192008400"
+			}
+		}
+	}
+	"2014086"
+	{
+		"dlcappid" "1962663"
+		"config"
+		{
+			"language" "polish"
+			"optionaldlc" "1962663"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6149964833301647963"
+				"size" "7295844348"
+				"download" "4232035024"
+			}
+		}
+	}
+	"2014087"
+	{
+		"dlcappid" "1962663"
+		"config"
+		{
+			"language" "russian"
+			"optionaldlc" "1962663"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6477578686200995656"
+				"size" "7420584532"
+				"download" "4367057040"
+			}
+		}
+	}
+	"2053672"
+	{
+		"dlcappid" "1962663"
+		"config"
+		{
+			"language" "thai"
+			"optionaldlc" "1962663"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4253156427646940840"
+				"size" "4825768668"
+				"download" "2979470864"
+			}
+		}
+	}
+	"2014267"
+	{
+		"dlcappid" "1962663"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4253823458661490187"
+				"size" "28189936"
+				"download" "25694544"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "1962663"
+		}
+	}
+	"2014268"
+	{
+		"dlcappid" "1962663"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4494143870047267856"
+				"size" "28235400"
+				"download" "25700432"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "1962663"
+		}
+	}
+	"2014269"
+	{
+		"dlcappid" "1962663"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2526378280695356795"
+				"size" "29078804"
+				"download" "26404656"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "1962663"
+		}
+	}
+	"2014088"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3658690339779832260"
+				"size" "13247676"
+				"download" "12504624"
+			}
+		}
+	}
+	"2014089"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2157003631794629418"
+				"size" "7087312"
+				"download" "6320800"
+			}
+		}
+	}
+	"2014261"
+	{
+		"dlcappid" "1962661"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4022762607619368620"
+				"size" "23968688"
+				"download" "21707904"
+			}
+		}
+	}
+	"2014262"
+	{
+		"dlcappid" "1962661"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1064991509693273557"
+				"size" "24011960"
+				"download" "21711632"
+			}
+		}
+	}
+	"2014263"
+	{
+		"dlcappid" "1962661"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4487042358518239933"
+				"size" "24857548"
+				"download" "22418032"
+			}
+		}
+	}
+	"2021992"
+	{
+		"dlcappid" "1962660"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6121926673547912597"
+				"size" "28458116"
+				"download" "27615504"
+			}
+		}
+	}
+	"2021993"
+	{
+		"dlcappid" "1962660"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "722240479965813293"
+				"size" "28732904"
+				"download" "27894048"
+			}
+		}
+	}
+	"2021994"
+	{
+		"dlcappid" "1962660"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "856693918201087118"
+				"size" "25357692"
+				"download" "24522272"
+			}
+		}
+	}
+	"2519060"
+	{
+		"dlcappid" "2519060"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "487605897744276682"
+				"size" "62702414855"
+				"download" "61303462624"
+			}
+		}
+	}
+	"2021997"
+	{
+		"dlcappid" "2519060"
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4809317157420650992"
+				"size" "1582533320"
+				"download" "1401351184"
+			}
+		}
+	}
+	"2053673"
+	{
+		"dlcappid" "1962660"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8767290610351515800"
+				"size" "474145552"
+				"download" "311605616"
+			}
+		}
+	}
+	"2053674"
+	{
+		"dlcappid" "2519060"
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3864061333152206746"
+				"size" "1616799228"
+				"download" "1436878992"
+			}
+		}
+	}
+	"2053675"
+	{
+		"dlcappid" "2519060"
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8909678814971879822"
+				"size" "1713725744"
+				"download" "1533051824"
+			}
+		}
+	}
+	"2053676"
+	{
+		"dlcappid" "2519060"
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5314103330607669070"
+				"size" "1712443312"
+				"download" "1534278880"
+			}
+		}
+	}
+	"2053677"
+	{
+		"dlcappid" "2519060"
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8657153750042851782"
+				"size" "1782760400"
+				"download" "1603162880"
+			}
+		}
+	}
+	"2053678"
+	{
+		"dlcappid" "2519060"
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6979477318336273405"
+				"size" "4735652096"
+				"download" "2849098288"
+			}
+		}
+	}
+	"2053679"
+	{
+		"dlcappid" "2519060"
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1158851000255022767"
+				"size" "1698723744"
+				"download" "1520885344"
+			}
+		}
+	}
+	"2062851"
+	{
+		"dlcappid" "2519060"
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1763992003309925065"
+				"size" "1761276616"
+				"download" "1582261024"
+			}
+		}
+	}
+	"2062852"
+	{
+		"dlcappid" "2519060"
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4485380949325306031"
+				"size" "3188838632"
+				"download" "1536225136"
+			}
+		}
+	}
+	"2062853"
+	{
+		"dlcappid" "2519060"
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2744803523342796956"
+				"size" "1618404588"
+				"download" "1437690416"
+			}
+		}
+	}
+	"2062854"
+	{
+		"dlcappid" "2519060"
+		"config"
+		{
+			"language" "arabic"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6754675293930353254"
+				"size" "3166991560"
+				"download" "1513849824"
+			}
+		}
+	}
+	"2062855"
+	{
+		"dlcappid" "2519060"
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7433641287170331846"
+				"size" "4886906072"
+				"download" "2999813232"
+			}
+		}
+	}
+	"2062856"
+	{
+		"dlcappid" "2519060"
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7982557639301479924"
+				"size" "4863861600"
+				"download" "2989029248"
+			}
+		}
+	}
+	"2062857"
+	{
+		"dlcappid" "2519060"
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9135341695837335447"
+				"size" "4927944188"
+				"download" "3051601936"
+			}
+		}
+	}
+	"2062858"
+	{
+		"dlcappid" "2519060"
+		"config"
+		{
+			"language" "thai"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2076630245557958305"
+				"size" "2924510512"
+				"download" "2075185936"
+			}
+		}
+	}
+	"2062859"
+	{
+		"dlcappid" "2519060"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6206287200318024001"
+				"size" "9060588"
+				"download" "8016464"
+			}
+		}
+	}
+	"2120531"
+	{
+		"dlcappid" "2519060"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "419741852451501369"
+				"size" "9319636"
+				"download" "8160240"
+			}
+		}
+	}
+	"2120532"
+	{
+		"dlcappid" "2519060"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1635287099654389268"
+				"size" "10270772"
+				"download" "9002208"
+			}
+		}
+	}
+	"2120533"
+	{
+		"dlcappid" "2519070"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6952713725306700309"
+				"size" "86031617367"
+				"download" "85076284272"
+			}
+		}
+	}
+	"2120534"
+	{
+		"dlcappid" "2519070"
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5628090281493804875"
+				"size" "1510370624"
+				"download" "1331158784"
+			}
+		}
+	}
+	"2120535"
+	{
+		"dlcappid" "2519070"
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3111718341486069557"
+				"size" "1558435532"
+				"download" "1380309760"
+			}
+		}
+	}
+	"2120536"
+	{
+		"dlcappid" "2519070"
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5881905744561563462"
+				"size" "1678841436"
+				"download" "1500330896"
+			}
+		}
+	}
+	"2120537"
+	{
+		"dlcappid" "2519070"
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4933651794084033885"
+				"size" "1675045044"
+				"download" "1499155600"
+			}
+		}
+	}
+	"2120538"
+	{
+		"dlcappid" "2519070"
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8554788266378628780"
+				"size" "1748649244"
+				"download" "1571454960"
+			}
+		}
+	}
+	"2120539"
+	{
+		"dlcappid" "2519070"
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "358463578151061414"
+				"size" "4498249548"
+				"download" "2638161056"
+			}
+		}
+	}
+	"2127792"
+	{
+		"dlcappid" "2519070"
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7856768961330404906"
+				"size" "1654229092"
+				"download" "1478343568"
+			}
+		}
+	}
+	"2127793"
+	{
+		"dlcappid" "2519070"
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3473018069046077756"
+				"size" "1728089232"
+				"download" "1551734880"
+			}
+		}
+	}
+	"2127794"
+	{
+		"dlcappid" "2519070"
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5912066401810398631"
+				"size" "3032516448"
+				"download" "1378741616"
+			}
+		}
+	}
+	"2127795"
+	{
+		"dlcappid" "2519070"
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4049288171381644649"
+				"size" "1527998280"
+				"download" "1349036496"
+			}
+		}
+	}
+	"2127796"
+	{
+		"dlcappid" "2519070"
+		"config"
+		{
+			"language" "arabic"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6153612415701765153"
+				"size" "3022887976"
+				"download" "1368777504"
+			}
+		}
+	}
+	"2127797"
+	{
+		"dlcappid" "2519070"
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7287979044804094172"
+				"size" "4670369460"
+				"download" "2810898224"
+			}
+		}
+	}
+	"2127798"
+	{
+		"dlcappid" "2519070"
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1391198605003076615"
+				"size" "4683920356"
+				"download" "2831681744"
+			}
+		}
+	}
+	"2127799"
+	{
+		"dlcappid" "2519070"
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "256414442801467379"
+				"size" "4752754268"
+				"download" "2899393424"
+			}
+		}
+	}
+	"2134251"
+	{
+		"dlcappid" "2519070"
+		"config"
+		{
+			"language" "thai"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3848388189255325453"
+				"size" "2158170576"
+				"download" "1367795456"
+			}
+		}
+	}
+	"2134252"
+	{
+		"dlcappid" "2519070"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1294549245410577605"
+				"size" "10814484"
+				"download" "9478096"
+			}
+		}
+	}
+	"2134253"
+	{
+		"dlcappid" "2519070"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6440943887786995064"
+				"size" "11214612"
+				"download" "9851936"
+			}
+		}
+	}
+	"2134254"
+	{
+		"dlcappid" "2519070"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4236439540614208206"
+				"size" "14004012"
+				"download" "12467424"
+			}
+		}
+	}
+	"2134255"
+	{
+		"dlcappid" "2519080"
+	}
+	"2134256"
+	{
+		"dlcappid" "2519080"
+		"config"
+		{
+			"language" "english"
+		}
+	}
+	"2134257"
+	{
+		"dlcappid" "2519080"
+		"config"
+		{
+			"language" "french"
+		}
+	}
+	"2134258"
+	{
+		"dlcappid" "2519080"
+		"config"
+		{
+			"language" "german"
+		}
+	}
+	"2134259"
+	{
+		"dlcappid" "2519080"
+		"config"
+		{
+			"language" "italian"
+		}
+	}
+	"2137911"
+	{
+		"dlcappid" "2519080"
+		"config"
+		{
+			"language" "spanish"
+		}
+	}
+	"2137912"
+	{
+		"dlcappid" "2519080"
+		"config"
+		{
+			"language" "koreana"
+		}
+	}
+	"2137913"
+	{
+		"dlcappid" "2519080"
+		"config"
+		{
+			"language" "brazilian"
+		}
+	}
+	"2137914"
+	{
+		"dlcappid" "2519080"
+		"config"
+		{
+			"language" "latam"
+		}
+	}
+	"2137915"
+	{
+		"dlcappid" "2519080"
+		"config"
+		{
+			"language" "tchinese"
+		}
+	}
+	"2137916"
+	{
+		"dlcappid" "2519080"
+		"config"
+		{
+			"language" "schinese"
+		}
+	}
+	"2137917"
+	{
+		"dlcappid" "2519080"
+		"config"
+		{
+			"language" "arabic"
+		}
+	}
+	"2137918"
+	{
+		"dlcappid" "2519080"
+		"config"
+		{
+			"language" "japanese"
+		}
+	}
+	"2137919"
+	{
+		"dlcappid" "2519080"
+		"config"
+		{
+			"language" "polish"
+		}
+	}
+	"2139273"
+	{
+		"dlcappid" "2519080"
+		"config"
+		{
+			"language" "russian"
+		}
+	}
+	"2139274"
+	{
+		"dlcappid" "2519080"
+		"config"
+		{
+			"language" "thai"
+		}
+	}
+	"2139275"
+	{
+		"dlcappid" "2519080"
+	}
+	"2139276"
+	{
+		"dlcappid" "2519080"
+	}
+	"2139277"
+	{
+		"dlcappid" "2519080"
+	}
+	"2139278"
+	{
+		"dlcappid" "1962661"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7657452836173534255"
+				"size" "1496564248"
+				"download" "835999312"
+			}
+		}
+	}
+	"2170979"
+	{
+		"dlcappid" "2573900"
+		"config"
+		{
+			"language" "brazilian"
+			"optionaldlc" "2573900"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5034508925022718327"
+				"size" "488805724"
+				"download" "390893344"
+			}
+		}
+	}
+	"2228971"
+	{
+		"dlcappid" "2573900"
+		"config"
+		{
+			"language" "latam"
+			"optionaldlc" "2573900"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6427559171487231468"
+				"size" "497686668"
+				"download" "399138304"
+			}
+		}
+	}
+	"2228972"
+	{
+		"dlcappid" "2573900"
+		"config"
+		{
+			"language" "tchinese"
+			"optionaldlc" "2573900"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3831369770103033063"
+				"size" "908156916"
+				"download" "476747344"
+			}
+		}
+	}
+	"2228973"
+	{
+		"dlcappid" "2573900"
+		"config"
+		{
+			"language" "schinese"
+			"optionaldlc" "2573900"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7342211143962276754"
+				"size" "453890156"
+				"download" "356108256"
+			}
+		}
+	}
+	"2228974"
+	{
+		"dlcappid" "2573900"
+		"config"
+		{
+			"language" "arabic"
+			"optionaldlc" "2573900"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8408729141253535613"
+				"size" "908362064"
+				"download" "487522288"
+			}
+		}
+	}
+	"2228975"
+	{
+		"dlcappid" "2573900"
+		"config"
+		{
+			"language" "japanese"
+			"optionaldlc" "2573900"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6824027329305173027"
+				"size" "1393387764"
+				"download" "859625152"
+			}
+		}
+	}
+	"2228976"
+	{
+		"dlcappid" "2573900"
+		"config"
+		{
+			"language" "polish"
+			"optionaldlc" "2573900"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4322190664541834841"
+				"size" "908262468"
+				"download" "476873904"
+			}
+		}
+	}
+	"2228977"
+	{
+		"dlcappid" "2573900"
+		"config"
+		{
+			"language" "russian"
+			"optionaldlc" "2573900"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5024349417269221231"
+				"size" "908372932"
+				"download" "476947440"
+			}
+		}
+	}
+	"2228978"
+	{
+		"dlcappid" "2573900"
+		"config"
+		{
+			"language" "thai"
+			"optionaldlc" "2573900"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8009522872863261492"
+				"size" "454044736"
+				"download" "356244640"
+			}
+		}
+	}
+	"2228979"
+	{
+		"dlcappid" "2573900"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5529314337225799205"
+				"size" "77486940"
+				"download" "74695392"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "2573900"
+		}
+	}
+	"2278281"
+	{
+		"dlcappid" "2573900"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7450801958090549030"
+				"size" "69051944"
+				"download" "66456000"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "2573900"
+		}
+	}
+	"2278282"
+	{
+		"dlcappid" "2573900"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8113807793998760747"
+				"size" "72868484"
+				"download" "69928912"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "2573900"
+		}
+	}
+	"2278283"
+	{
+		"dlcappid" "1962663"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8411426152845967425"
+				"size" "1496564248"
+				"download" "835999312"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "1962663"
+		}
+	}
+	"2278284"
+	{
+		"dlcappid" "2573900"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6082193501051699870"
+				"size" "70585723364"
+				"download" "69043697792"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "2573900"
+		}
+	}
+	"2278285"
+	{
+		"dlcappid" "2573900"
+		"config"
+		{
+			"language" "english"
+			"optionaldlc" "2573900"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "694091637616526987"
+				"size" "454044736"
+				"download" "356244640"
+			}
+		}
+	}
+	"2278286"
+	{
+		"dlcappid" "2573900"
+		"config"
+		{
+			"language" "french"
+			"optionaldlc" "2573900"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2873339923164652148"
+				"size" "458752288"
+				"download" "361573552"
+			}
+		}
+	}
+	"2278287"
+	{
+		"dlcappid" "2573900"
+		"config"
+		{
+			"language" "german"
+			"optionaldlc" "2573900"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9113642404638721476"
+				"size" "506337880"
+				"download" "405609664"
+			}
+		}
+	}
+	"2278288"
+	{
+		"dlcappid" "2573900"
+		"config"
+		{
+			"language" "italian"
+			"optionaldlc" "2573900"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2466149349139783308"
+				"size" "495168968"
+				"download" "398707824"
+			}
+		}
+	}
+	"2278289"
+	{
+		"dlcappid" "2573900"
+		"config"
+		{
+			"language" "spanish"
+			"optionaldlc" "2573900"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4848589616462097981"
+				"size" "501474392"
+				"download" "404567632"
+			}
+		}
+	}
+	"2316851"
+	{
+		"dlcappid" "2573900"
+		"config"
+		{
+			"language" "koreana"
+			"optionaldlc" "2573900"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4339945470705751402"
+				"size" "908115880"
+				"download" "476693264"
+			}
+		}
+	}
+	"2625839"
+	{
+		"dlcappid" "2519060"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5089046894039923221"
+				"size" "1460466032"
+				"download" "797500672"
+			}
+		}
+	}
+	"2790690"
+	{
+		"dlcappid" "2790690"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5978953370581222989"
+				"size" "82756242516"
+				"download" "81141084416"
+			}
+		}
+	}
+	"2790691"
+	{
+		"dlcappid" "2790690"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5186956170553434934"
+				"size" "54930332"
+				"download" "53450032"
+			}
+		}
+	}
+	"2790692"
+	{
+		"dlcappid" "2790690"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6894824635856128337"
+				"size" "60961104"
+				"download" "59333152"
+			}
+		}
+	}
+	"2790693"
+	{
+		"dlcappid" "2790690"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6770818084275444070"
+				"size" "59226180"
+				"download" "57712208"
+			}
+		}
+	}
+	"2790694"
+	{
+		"dlcappid" "2790690"
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6927697158239209336"
+				"size" "455207348"
+				"download" "381510896"
+			}
+		}
+	}
+	"2790695"
+	{
+		"dlcappid" "2790690"
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "216256810705067797"
+				"size" "460945220"
+				"download" "387760656"
+			}
+		}
+	}
+	"2790696"
+	{
+		"dlcappid" "2790690"
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4000687999442701010"
+				"size" "498433684"
+				"download" "422685792"
+			}
+		}
+	}
+	"2790697"
+	{
+		"dlcappid" "2790690"
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4010796506201191566"
+				"size" "484289804"
+				"download" "412706816"
+			}
+		}
+	}
+	"2790698"
+	{
+		"dlcappid" "2790690"
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5382100549014693113"
+				"size" "491271896"
+				"download" "419373504"
+			}
+		}
+	}
+	"2790699"
+	{
+		"dlcappid" "2790690"
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "317107530791087779"
+				"size" "910490508"
+				"download" "501251264"
+			}
+		}
+	}
+	"2790671"
+	{
+		"dlcappid" "2790690"
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7507614206173913410"
+				"size" "478981744"
+				"download" "406650704"
+			}
+		}
+	}
+	"2790672"
+	{
+		"dlcappid" "2790690"
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6661047456608859023"
+				"size" "485728908"
+				"download" "412649184"
+			}
+		}
+	}
+	"2790673"
+	{
+		"dlcappid" "2790690"
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "913048781209995130"
+				"size" "910519040"
+				"download" "501312688"
+			}
+		}
+	}
+	"2790674"
+	{
+		"dlcappid" "2790690"
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2814041622057762104"
+				"size" "455150356"
+				"download" "381450768"
+			}
+		}
+	}
+	"2790675"
+	{
+		"dlcappid" "2790690"
+		"config"
+		{
+			"language" "arabic"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8994140578219850230"
+				"size" "910676216"
+				"download" "500694272"
+			}
+		}
+	}
+	"2790676"
+	{
+		"dlcappid" "2790690"
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6194812515863187518"
+				"size" "1389461720"
+				"download" "859426208"
+			}
+		}
+	}
+	"2790677"
+	{
+		"dlcappid" "2790690"
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6962034017470001882"
+				"size" "910590012"
+				"download" "505588176"
+			}
+		}
+	}
+	"2790678"
+	{
+		"dlcappid" "2790690"
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1402178942731582114"
+				"size" "910678824"
+				"download" "501437856"
+			}
+		}
+	}
+	"2790679"
+	{
+		"dlcappid" "2790690"
+		"config"
+		{
+			"language" "thai"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5501136190419614642"
+				"size" "455207348"
+				"download" "381510896"
+			}
+		}
+	}
+	"3203419"
+	{
+		"dlcappid" "2933620"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "43835507422202216"
+				"size" "718378208"
+				"download" "436010176"
+			}
+		}
+	}
+	"3203418"
+	{
+		"dlcappid" "2933620"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5154497432221190879"
+				"size" "77456532390"
+				"download" "76576949136"
+			}
+		}
+	}
+	"3203417"
+	{
+		"dlcappid" "2933620"
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3938892871567820795"
+				"size" "1450471820"
+				"download" "1286338352"
+			}
+		}
+	}
+	"3203416"
+	{
+		"dlcappid" "2933620"
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2952277610325504254"
+				"size" "1371848072"
+				"download" "1224904848"
+			}
+		}
+	}
+	"3203415"
+	{
+		"dlcappid" "2933620"
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1626495300593585995"
+				"size" "1432364372"
+				"download" "1282865488"
+			}
+		}
+	}
+	"3203414"
+	{
+		"dlcappid" "2933620"
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3208514216625600909"
+				"size" "1418404616"
+				"download" "1272605312"
+			}
+		}
+	}
+	"3203413"
+	{
+		"dlcappid" "2933620"
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "436658240438443439"
+				"size" "1441345188"
+				"download" "1295269424"
+			}
+		}
+	}
+	"3203412"
+	{
+		"dlcappid" "2933620"
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "386466215466838958"
+				"size" "2803378304"
+				"download" "1571547616"
+			}
+		}
+	}
+	"3203411"
+	{
+		"dlcappid" "2933620"
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "432632098146453121"
+				"size" "1414982872"
+				"download" "1269086448"
+			}
+		}
+	}
+	"3203409"
+	{
+		"dlcappid" "2933620"
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2582486053711001609"
+				"size" "1436944608"
+				"download" "1290034256"
+			}
+		}
+	}
+	"3203408"
+	{
+		"dlcappid" "2933620"
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8350976886926562756"
+				"size" "2819953520"
+				"download" "1589249856"
+			}
+		}
+	}
+	"3203407"
+	{
+		"dlcappid" "2933620"
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9020205240263088089"
+				"size" "1369416560"
+				"download" "1221479488"
+			}
+		}
+	}
+	"3203406"
+	{
+		"dlcappid" "2933620"
+		"config"
+		{
+			"language" "arabic"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4884791125121852550"
+				"size" "2792175808"
+				"download" "1560457616"
+			}
+		}
+	}
+	"3203405"
+	{
+		"dlcappid" "2933620"
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "207249234643661570"
+				"size" "4214944572"
+				"download" "2645321328"
+			}
+		}
+	}
+	"3203404"
+	{
+		"dlcappid" "2933620"
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1756182837454103482"
+				"size" "2793019972"
+				"download" "1559707120"
+			}
+		}
+	}
+	"3203403"
+	{
+		"dlcappid" "2933620"
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7419133806311979844"
+				"size" "2793273220"
+				"download" "1563964832"
+			}
+		}
+	}
+	"3203402"
+	{
+		"dlcappid" "2933620"
+		"config"
+		{
+			"language" "thai"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1443076234533678963"
+				"size" "1450471820"
+				"download" "1286338352"
+			}
+		}
+	}
+	"3203401"
+	{
+		"dlcappid" "2933620"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8065449867547130069"
+				"size" "59171152"
+				"download" "57406400"
+			}
+		}
+	}
+	"3203399"
+	{
+		"dlcappid" "2933620"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2194130420016715487"
+				"size" "57092612"
+				"download" "55373664"
+			}
+		}
+	}
+	"3203398"
+	{
+		"dlcappid" "2933620"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3727007641502212615"
+				"size" "57262304"
+				"download" "55381568"
+			}
+		}
+	}
+	"3203397"
+	{
+		"dlcappid" "2933630"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1432017238554566556"
+				"size" "82756242516"
+				"download" "81140713264"
+			}
+		}
+	}
+	"3203396"
+	{
+		"dlcappid" "2933630"
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7185090916171264078"
+				"size" "455207348"
+				"download" "381511088"
+			}
+		}
+	}
+	"3203395"
+	{
+		"dlcappid" "2933630"
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7370339432311910158"
+				"size" "460945220"
+				"download" "387760720"
+			}
+		}
+	}
+	"3203394"
+	{
+		"dlcappid" "2933630"
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7069201447519861941"
+				"size" "498433684"
+				"download" "422687136"
+			}
+		}
+	}
+	"3203393"
+	{
+		"dlcappid" "2933630"
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5204168319468998807"
+				"size" "484289804"
+				"download" "412705344"
+			}
+		}
+	}
+	"3203392"
+	{
+		"dlcappid" "2933630"
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4274898337671316533"
+				"size" "491271896"
+				"download" "419375184"
+			}
+		}
+	}
+	"3203391"
+	{
+		"dlcappid" "2933630"
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6777445578000637282"
+				"size" "910490508"
+				"download" "508252320"
+			}
+		}
+	}
+	"3203389"
+	{
+		"dlcappid" "2933630"
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1215007283651433397"
+				"size" "478981744"
+				"download" "406653936"
+			}
+		}
+	}
+	"3203388"
+	{
+		"dlcappid" "2933630"
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3309954830983878916"
+				"size" "485728908"
+				"download" "412650176"
+			}
+		}
+	}
+	"3203387"
+	{
+		"dlcappid" "2933630"
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4372017318311216565"
+				"size" "910519040"
+				"download" "501312880"
+			}
+		}
+	}
+	"3203386"
+	{
+		"dlcappid" "2933630"
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4093331056077487272"
+				"size" "455150356"
+				"download" "381450960"
+			}
+		}
+	}
+	"3203385"
+	{
+		"dlcappid" "2933630"
+		"config"
+		{
+			"language" "arabic"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5384336922054923012"
+				"size" "910676216"
+				"download" "509887808"
+			}
+		}
+	}
+	"3203384"
+	{
+		"dlcappid" "2933630"
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5128569194075464694"
+				"size" "1389461720"
+				"download" "866556720"
+			}
+		}
+	}
+	"3203383"
+	{
+		"dlcappid" "2933630"
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4885539485222619641"
+				"size" "910590012"
+				"download" "505602400"
+			}
+		}
+	}
+	"3203382"
+	{
+		"dlcappid" "2933630"
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5344343778223128240"
+				"size" "910678824"
+				"download" "503546992"
+			}
+		}
+	}
+	"3203381"
+	{
+		"dlcappid" "2933630"
+		"config"
+		{
+			"language" "thai"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3169415560261723902"
+				"size" "455207348"
+				"download" "381511088"
+			}
+		}
+	}
+	"3180219"
+	{
+		"dlcappid" "2933630"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8254640884671605817"
+				"size" "54930332"
+				"download" "53450032"
+			}
+		}
+	}
+	"3180218"
+	{
+		"dlcappid" "2933630"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1916910064901199949"
+				"size" "59226180"
+				"download" "57712208"
+			}
+		}
+	}
+	"3180217"
+	{
+		"dlcappid" "2933630"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4682215707815539876"
+				"size" "60961104"
+				"download" "59333152"
+			}
+		}
+	}
+	"3180216"
+	{
+		"dlcappid" "2519070"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4944388257821414887"
+				"size" "726938472"
+				"download" "455159216"
+			}
+		}
+	}
+	"3180215"
+	{
+		"dlcappid" "2573900"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9117093287145650616"
+				"size" "32"
+				"download" "80"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "2573900"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17555893"
+			"timeupdated" "1741107657"
+		}
+		"local"
+		{
+			"buildid" "8518761"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1649372846"
+		}
+	}
+	"privatebranches" "1"
+	"appmanagesdlc" "1"
+}
+"_missing_token" "False"
+"_change_number" "27785618"
+"_sha" "07710ca8d277e6e4a6abfa91d13c75f998dcdbba"
+"_size" "59440"
