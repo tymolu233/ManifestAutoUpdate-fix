@@ -1,0 +1,460 @@
+"appid" "228380"
+"common"
+{
+	"name" "Wreckfest"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"logo" "fc3677b393f079d86032afcb53c1fea87a070575"
+	"logo_small" "fc3677b393f079d86032afcb53c1fea87a070575_thumb"
+	"icon" "2c93b44a991870cff51b8f77096969201771d2e9"
+	"clienttga" "d1f643e4867de974d5e4dde253ce5159f133986e"
+	"clienticon" "ee8be8f5d1185588eb91dabead08fc20071fa02a"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "228380_eula_0"
+			"name" "Next Car Game EULA"
+			"url" "http://store.steampowered.com/eula/228380_eula_0"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"finnish" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1647043200"
+		"tested_build_id" "8230360"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Wreckfest"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "45"
+			"height_pct" "63"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "45"
+				"height_pct" "63"
+			}
+		}
+	}
+	"store_asset_mtime" "1660367967"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bugbear"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "THQ Nordic"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Wreckfest"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "THQ Nordic"
+		}
+	}
+	"primary_genre" "9"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "9"
+		"3" "28"
+		"4" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_18" "1"
+		"category_25" "1"
+		"category_30" "1"
+		"category_15" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_49" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1528995480"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/wreckfest\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "228380"
+	"store_tags"
+	{
+		"0" "699"
+		"1" "5363"
+		"2" "1100687"
+		"3" "599"
+		"4" "3859"
+		"5" "1644"
+		"6" "3968"
+		"7" "19"
+		"8" "492"
+		"9" "701"
+		"10" "4182"
+		"11" "4175"
+		"12" "4136"
+		"13" "1773"
+		"14" "493"
+		"15" "3810"
+		"16" "1697"
+		"17" "1685"
+		"18" "1695"
+		"19" "4166"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"checkpkgstate" "1"
+	"developer" "Bugbear"
+	"gamedir" "wreckfest"
+	"homepage" "http://www.wreckfestgame.com"
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateComingSoonNoPreload"
+	"visibleonlywhensubscribed" "1"
+	"showcdkeyonlaunch" "1"
+	"serverbrowsername" "Wreckfest"
+	"publisher" "THQ Nordic"
+	"listofdlc" "272830,272880,272910,884740,893310,1131170,1135430,1135431,1135432,1135433,1135434,1135435,1135436,1135437,1135438,1399410,1399411,1399412,1413450"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Wreckfest"
+	"usemms" "1"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Wreckfest_x64.exe"
+			"description" "Wreckfest (64-bit)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "Wreckfest.exe"
+			"description" "Wreckfest (32-bit)"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"3"
+		{
+			"executable" "Wreckfest_x64.exe"
+			"arguments" "-disable_mods"
+			"description" "Wreckfest (64-bit) with mods disabled"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"workshopdepot" "228380"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,finnish,brazilian"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228381"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3017425792384820539"
+				"size" "34162267810"
+				"download" "28775827184"
+			}
+			"community_preconsole"
+			{
+				"gid" "8923598062264066568"
+				"size" "14359542597"
+				"download" "11775952400"
+			}
+			"community_preencrypt"
+			{
+				"gid" "2436019204131962596"
+				"size" "31765006539"
+				"download" "28082528880"
+			}
+			"community_prehealthbars"
+			{
+				"gid" "948871620417719312"
+				"size" "7215351167"
+				"download" "5697818480"
+			}
+		}
+	}
+	"272880"
+	{
+		"dlcappid" "272880"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8165984606867483938"
+				"size" "243865577"
+				"download" "216389264"
+			}
+			"community_preconsole"
+			{
+				"gid" "8165984606867483938"
+				"size" "243865577"
+				"download" "216389264"
+			}
+			"community_preencrypt"
+			{
+				"gid" "8165984606867483938"
+				"size" "243865577"
+				"download" "216389264"
+			}
+			"community_prehealthbars"
+			{
+				"gid" "8165984606867483938"
+				"size" "243865577"
+				"download" "216389264"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16986367"
+			"timeupdated" "1738527866"
+		}
+		"community_preconsole"
+		{
+			"buildid" "3487034"
+			"description" "community_preconsole"
+			"timeupdated" "1632913060"
+		}
+		"community_preencrypt"
+		{
+			"buildid" "6864837"
+			"description" "community_preencrypt"
+			"timeupdated" "1632914470"
+		}
+		"community_prehealthbars"
+		{
+			"buildid" "7444993"
+			"description" "community_prehealthbars"
+			"timeupdated" "1632914504"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "200000000"
+	"maxnumfiles" "2000"
+}
+"_missing_token" "False"
+"_change_number" "27330219"
+"_sha" "4314e33ba521c2c11ff17c144102b1117d57a73c"
+"_size" "8239"
