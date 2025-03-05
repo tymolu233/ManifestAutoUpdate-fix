@@ -1,0 +1,264 @@
+"appid" "1325890"
+"common"
+{
+	"name" "SILT"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "e1f5b2b56e18fdf057f97fcf1b913b55afd927df"
+	"logo_small" "e1f5b2b56e18fdf057f97fcf1b913b55afd927df_thumb"
+	"icon" "ca018ce1798e236ab5dc35d00d0aa19ec0183513"
+	"clienttga" "dd5a490d3dec89fed0a91aa54dbac746e0b6567d"
+	"clienticon" "5e3d6439fdcf11c2c764b7a9ff03204dc551cdc3"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "SILT - 黯海"
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "51.511627906976756"
+			"height_pct" "76.9769650914272"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "51.511627906976756"
+				"height_pct" "76.9769650914272"
+			}
+		}
+	}
+	"store_asset_mtime" "1661962741"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Spiral Circus Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Fireshine Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Fireshine Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1654072650"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1325890"
+	"store_tags"
+	{
+		"0" "1664"
+		"1" "21"
+		"2" "4166"
+		"3" "1667"
+		"4" "4342"
+		"5" "1710"
+		"6" "492"
+		"7" "6815"
+		"8" "5537"
+		"9" "9157"
+		"10" "4145"
+		"11" "3798"
+		"12" "3834"
+		"13" "4604"
+		"14" "11014"
+		"15" "1714"
+		"16" "3871"
+		"17" "15277"
+		"18" "4182"
+		"19" "1697"
+	}
+	"review_score" "6"
+	"review_percentage" "76"
+}
+"extended"
+{
+	"developer" "Spiral Circus Games"
+	"publisher" "Fireshine Games"
+}
+"config"
+{
+	"installdir" "Silt"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Silt.exe"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"1325891"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4626389268150316160"
+				"size" "5529536705"
+				"download" "4774369152"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9261144"
+			"timeupdated" "1661854298"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "100"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Spiral Circus/Silt/STEAMUSER{Steam3AccountID}/Saved Games"
+			"pattern" "*.json"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27296452"
+"_sha" "b4d2e6938f34a9b0db950c8c5511c2e6f8ea9c69"
+"_size" "4103"
