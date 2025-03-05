@@ -1,0 +1,68 @@
+"appid" "550140"
+"common"
+{
+	"name" "Call of Duty: Black Ops III - Remote Console"
+	"type" "Tool"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"icon" "65952f7f21dcd717da121e2657588f49dbfb8b38"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "550140_eula_0"
+			"name" "Call of Duty: Black Ops III - Remote Console EULA"
+			"url" "http://store.steampowered.com//eula/550140_eula_0"
+		}
+	}
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "550140"
+}
+"config"
+{
+	"installdir" "Call of Duty Black Ops III"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BlackOpsRcon.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"550141"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7784184670399704962"
+				"size" "947200"
+				"download" "334336"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1422910"
+			"timeupdated" "1481738283"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "c1fd971e2b7ac28289c4083b36ece5c0e7d2ece5"
+"_size" "999"
