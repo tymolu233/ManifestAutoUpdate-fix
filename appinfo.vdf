@@ -1,0 +1,420 @@
+"appid" "1708520"
+"common"
+{
+	"name" "F1® Manager 2022"
+	"type" "Game"
+	"clienticon" "ecc265bfafcc11a61ac078eaf235fc1766de796e"
+	"clienttga" "b81a9c65eb8eabad0b076ca94173d16f65960c96"
+	"icon" "0750e8e24b6712488cb4b98acebb4fc6c029cfae"
+	"logo" "58f88a7f05e720a25d8e51ca68bf465accc134ba"
+	"logo_small" "58f88a7f05e720a25d8e51ca68bf465accc134ba_thumb"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1708520_eula_0"
+			"name" "F1 Manager 2022 EULA"
+			"url" "https://store.steampowered.com//eula/1708520_eula_0"
+			"version" "3"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"app_retired_publisher_request" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1661558400"
+		"tested_build_id" "9364827"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "F1 Manager 2022"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "59.814565682669524"
+			"height_pct" "47.2355879143327"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "59.814565682669524"
+				"height_pct" "47.2355879143327"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1684324065"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Frontier Developments"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Frontier Developments"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1661868041"
+	"metacritic_score" "79"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/f1-manager-2022\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1708520"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "9"
+		"2" "12472"
+		"3" "4175"
+		"4" "4182"
+		"5" "1100687"
+		"6" "701"
+		"7" "1708"
+		"8" "16689"
+		"9" "9204"
+		"10" "1644"
+		"11" "4191"
+		"12" "4695"
+		"13" "6426"
+		"14" "6730"
+		"15" "8945"
+		"16" "5711"
+		"17" "5350"
+		"18" "699"
+		"19" "6625"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"onquitdemomsg" "https://steamstore-a.akamaihd.net/message/6174585501686475958/"
+	"developer" "Frontier Developments"
+	"publisher" "Frontier Developments"
+	"homepage" "https://www.f1manager.com"
+}
+"config"
+{
+	"installdir" "F1Manager2022"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "F1Manager22.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1708521"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7023775666497361782"
+				"size" "21217265398"
+				"download" "20284845136"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,spanish,schinese,russian,japanese,polish,dutch,turkish,brazilian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10488829"
+			"timeupdated" "1678186800"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1024000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "F1Manager22/Saved/SaveGames"
+			"pattern" "autosave.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "F1Manager22/Saved/SaveGames"
+			"pattern" "save*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "F1Manager22/Saved/SaveGames"
+			"pattern" "autosave.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"3"
+		{
+			"root" "WinAppDataLocal"
+			"path" "F1Manager22/Saved/SaveGames"
+			"pattern" "save*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26845279"
+"_sha" "0f2dbbf66d1e94ad851467115b986fa90915fb4d"
+"_size" "7565"
