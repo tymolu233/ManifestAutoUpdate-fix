@@ -1,0 +1,346 @@
+"appid" "998940"
+"common"
+{
+	"name" "隐形守护者 The Invisible Guardian"
+	"type" "Game"
+	"logo" "a0b10623305c24a0ab4ef3997bcfb2660e8f2982"
+	"logo_small" "a0b10623305c24a0ab4ef3997bcfb2660e8f2982_thumb"
+	"icon" "812ca02cc70c154543fb0381c9f7bfb2ca8ebe5b"
+	"clienticon" "1dee3885338cf7c236717d3947da571d8f7aac70"
+	"clienttga" "dac32b89cda664adc7977d8021146215e7030d9a"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"clienticns" "bd4d59b97ea709104f0255dc36c89de90988da1c"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"restricted_countries" "DE"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1666224000"
+		"tested_build_id" "3787400"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "隐形守护者 The Invisible Guardian"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1585882079"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "New One Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "New One Studio"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "隐形守护者完整版 The Invisible Guardian Complete Season"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "隐形守护者 The Invisible Guardian - 6至10章,终章"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_35" "1"
+		"category_29" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1548223260"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "998940"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "6426"
+		"2" "18594"
+		"3" "1742"
+		"4" "492"
+		"5" "21"
+		"6" "4700"
+		"7" "3799"
+		"8" "6971"
+		"9" "5984"
+		"10" "3987"
+		"11" "9551"
+		"12" "11014"
+		"13" "12095"
+		"14" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "New One Studio"
+	"publisher" "New One Studio"
+	"listofdlc" "1012220,1047770"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "The Invisible Guardian"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TheInvisibleGuardian.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "TheInvisibleGuardian.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"2"
+		{
+			"executable" "TheInvisibleGuardian.app\\Contents\\MacOS\\TheInvisibleGuardian"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2036503637"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"hasdepotsindlc" "1"
+	"998941"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2113401051174688844"
+				"size" "168545939"
+				"download" "71832928"
+			}
+		}
+	}
+	"998942"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2372345644132413495"
+				"size" "144190907"
+				"download" "65602192"
+			}
+		}
+	}
+	"998943"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2887341020092351712"
+				"size" "244064224"
+				"download" "67366864"
+			}
+		}
+	}
+	"1025970"
+	{
+		"dlcappid" "1025970"
+		"manifests"
+		{
+		}
+	}
+	"1047770"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1909121831595233221"
+				"size" "964107599"
+				"download" "818969168"
+			}
+		}
+		"dlcappid" "1047770"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3787400"
+			"timeupdated" "1556791491"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27005282"
+"_sha" "6a6bb920c690f500ef0d84f6e4a61c31df6da6b4"
+"_size" "6043"
