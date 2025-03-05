@@ -1,0 +1,759 @@
+"appid" "350640"
+"common"
+{
+	"name" "Sherlock Holmes: The Devil\'s Daughter"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"logo" "27b3c11dd4a2ac99eb097d53f76eca98342d86c0"
+	"logo_small" "27b3c11dd4a2ac99eb097d53f76eca98342d86c0_thumb"
+	"clienticon" "df163abbaf4d3377a9cdf47b20ba04405d6c1f8c"
+	"clienttga" "bcaa5287616b6867a5f7b917b90bd0f2f89cedc5"
+	"icon" "d29f5a2a683f0b2767c5fab8b41dd2c491d59e1b"
+	"oslist" "windows"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1654819200"
+		"tested_build_id" "6846516"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "simultaneous_gamepad_mouse"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Sherlock Holmes: The Devil\'s Daughter"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "92.41540256709453"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "92.41540256709453"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1667551278"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Frogwares"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Frogwares"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Sherlock Holmes"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Frogwares"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1465542000"
+	"steam_release_date" "1465577760"
+	"metacritic_score" "65"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/sherlock-holmes-the-devils-daughter\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "350640"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "5613"
+		"2" "5716"
+		"3" "1742"
+		"4" "1664"
+		"5" "6378"
+		"6" "4064"
+		"7" "4182"
+		"8" "1697"
+		"9" "4166"
+		"10" "19"
+		"11" "8369"
+		"12" "1698"
+		"13" "6426"
+		"14" "3839"
+		"15" "4106"
+		"16" "4191"
+		"17" "597"
+		"18" "7481"
+		"19" "3859"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Frogwares"
+	"publisher" "Frogwares"
+	"homepage" "https://frogwares.com/"
+	"listofdlc" "459460"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Sherlock Holmes - The Devil\'s Daughter"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Binaries\\Win64\\Sherlock.exe"
+			"arguments" "-NOSCREENMESSAGES -SEEKFREELOADINGPCCONSOLE"
+			"workingdir" "Binaries\\Win64\\"
+			"description" "Launch Full Build"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "Binaries\\Win64\\SH8Game-NoEditor.exe"
+			"arguments" "CaseLauncher -NOSCREENMESSAGES"
+			"workingdir" "Binaries\\Win64\\"
+			"description" "Launch E3"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "e3"
+			}
+		}
+		"3"
+		{
+			"executable" "Binaries\\Win64\\SH8Game-NoEditor.exe"
+			"arguments" "-NOSCREENMESSAGES"
+			"workingdir" "Binaries\\Win64\\"
+			"description" "Launch Milestone 4"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "ms-4"
+			}
+		}
+		"4"
+		{
+			"executable" "Binaries\\Win64\\SH8Game.exe"
+			"arguments" "-NOSCREENMESSAGES -SEEKFREELOADINGPCCONSOLE"
+			"workingdir" "Binaries\\Win64\\"
+			"description" "Launch Milestone 7"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "ms-7"
+			}
+		}
+		"5"
+		{
+			"executable" "Binaries\\Win64\\SH8Game-Steam.exe"
+			"arguments" "-NOSCREENMESSAGES -SEEKFREELOADINGPCCONSOLE"
+			"description" "Launch DENUVO Steam build"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "evaluation, testbuilds, loca, locjp"
+			}
+		}
+		"6"
+		{
+			"executable" "Binaries\\Win64\\SH8Game-Win64-Shipping-Steam.exe"
+			"arguments" "-NOSCREENMESSAGES -SEEKFREELOADINGPCCONSOLE"
+			"description" "Launch PCConsole_Steam_Test build"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "shippingtestbuilds"
+			}
+		}
+		"7"
+		{
+			"executable" "Binaries\\Win64\\SH8Game-Steam-Denuvo.exe"
+			"arguments" "-NOSCREENMESSAGES -SEEKFREELOADINGPCCONSOLE"
+			"description" "Launch DENUVO"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "testbuilds, loca"
+			}
+		}
+		"8"
+		{
+			"executable" "Binaries\\Win64\\SH8Game-Win64-Shipping-Steam-Denuvo.exe"
+			"arguments" "-NOSCREENMESSAGES -SEEKFREELOADINGPCCONSOLE"
+			"description" "Launch DENUVO Shipping"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "shippingtestbuilds, pressbuild, optimizedbiuld"
+			}
+		}
+		"9"
+		{
+			"executable" "Binaries\\Win64\\Sherlock.exe"
+			"arguments" "-NOSCREENMESSAGES -SEEKFREELOADINGPCCONSOLE"
+			"description" "Launch Sherlock.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "shippingtestbuilds"
+			}
+		}
+	}
+	"steamcontrollerconfigfileids" "674942992"
+	"steamcontrollertemplateindex" "1"
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,arabic"
+	"350641"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7966217916078695193"
+				"size" "137178702"
+				"download" "35210496"
+			}
+		}
+	}
+	"350642"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1708732834047170927"
+				"size" "18805832670"
+				"download" "12853725312"
+			}
+		}
+	}
+	"350643"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "591383356763888446"
+				"size" "33712685"
+				"download" "25544256"
+			}
+		}
+	}
+	"350644"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4624587159733300925"
+				"size" "33638726"
+				"download" "25513376"
+			}
+		}
+	}
+	"350645"
+	{
+		"config"
+		{
+			"language" "ukrainian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2392315309599583796"
+				"size" "32887156"
+				"download" "25413392"
+			}
+		}
+	}
+	"350646"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6248668892888356225"
+				"size" "33151827"
+				"download" "25465616"
+			}
+		}
+	}
+	"350647"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9027999592872141330"
+				"size" "32269255"
+				"download" "25326896"
+			}
+		}
+	}
+	"350648"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6665176286780629514"
+				"size" "32268991"
+				"download" "25328080"
+			}
+		}
+	}
+	"350649"
+	{
+		"config"
+		{
+			"language" "turkish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6218847273057844970"
+				"size" "32948188"
+				"download" "25410736"
+			}
+		}
+	}
+	"350650"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3777799376791598065"
+				"size" "33897231"
+				"download" "25620112"
+			}
+		}
+	}
+	"350651"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4777725750604820694"
+				"size" "125835658"
+				"download" "114113184"
+			}
+		}
+	}
+	"350652"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2600877031434313000"
+				"size" "33667379"
+				"download" "25468192"
+			}
+		}
+	}
+	"350653"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7794399523805123744"
+				"size" "128447773"
+				"download" "116509632"
+			}
+		}
+	}
+	"350654"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6546433887891574789"
+				"size" "33693553"
+				"download" "25471024"
+			}
+		}
+	}
+	"350655"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2863900101053535763"
+				"size" "32967068"
+				"download" "25380416"
+			}
+		}
+	}
+	"350656"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7870947591905499969"
+				"size" "33016467"
+				"download" "25445312"
+			}
+		}
+	}
+	"350657"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3137313473532644046"
+				"size" "33701084"
+				"download" "25518960"
+			}
+		}
+	}
+	"350658"
+	{
+		"config"
+		{
+			"language" "arabic"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2784985946058245885"
+				"size" "32701821"
+				"download" "25380880"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6846516"
+			"timeupdated" "1623656770"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "20000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Sherlock Holmes - The Devil\'s Daughter/SH8Game"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Sherlock Holmes - The Devil\'s Daughter Steam/SH8Game"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27131085"
+"_sha" "59f704d8654d7a6a657d430389283c02215a1789"
+"_size" "12568"
