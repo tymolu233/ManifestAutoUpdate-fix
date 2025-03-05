@@ -1,0 +1,175 @@
+"appid" "817480"
+"common"
+{
+	"name" "Total War Saga: Thrones of Britannia - Assembly Kit BETA"
+	"type" "Tool"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "4073fc72f7d6714d1487e74277e0cdda33a2e4a1"
+	"clienttga" "f6db08231a6dbf535f90b63bb4e7ab23f7bbc44e"
+	"icon" "6d5daf8094f04d2b19e1b0d51416ef1cccedbec5"
+	"metacritic_name" "Total War Saga: Thrones of Britannia - Assembly Kit BETA"
+	"library_assets"
+	{
+		"library_hero" "en"
+	}
+	"library_assets_full"
+	{
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1575478866"
+	"associations"
+	{
+		"0"
+		{
+			"type" "franchise"
+			"name" "Total War"
+		}
+	}
+	"gameid" "817480"
+}
+"config"
+{
+	"installdir" "Total War Saga Thrones of Britannia"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "assembly_kit\\binaries\\TWeak.AssemblyKit.exe"
+			"arguments" "/standalone totalwardatabase"
+			"workingdir" "assembly_kit\\binaries"
+			"description" "Database Editor: Dave"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "assembly_kit\\binaries\\TWeak.AssemblyKit.exe"
+			"arguments" "/standalone terrainmetadataeditor"
+			"workingdir" "assembly_kit\\binaries"
+			"description" "Battle Map Editor: Terry"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "deactivated"
+			}
+		}
+		"3"
+		{
+			"executable" "assembly_kit\\binaries\\BOB.AssemblyKit.exe"
+			"workingdir" "assembly_kit\\binaries"
+			"description" "Data Exporter: BOB"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"4"
+		{
+			"executable" "assembly_kit\\binaries\\TEd.AssemblyKit.exe"
+			"workingdir" "assembly_kit\\binaries"
+			"description" "TEd"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"817481"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4074723242274715805"
+				"size" "3290558352"
+				"download" "694895344"
+			}
+			"allegiance_patch"
+			{
+				"gid" "5738261842482640852"
+				"size" "4791956645"
+				"download" "868047056"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5296335"
+			"timeupdated" "1595325605"
+		}
+		"allegiance_patch"
+		{
+			"buildid" "3068537"
+			"description" "allegiance_patch"
+			"timeupdated" "1545293268"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27204176"
+"_sha" "779b7ab0112c588b54d925b6b0ae7bd853b64569"
+"_size" "3059"
