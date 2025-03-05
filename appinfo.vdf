@@ -1,0 +1,513 @@
+"appid" "1161580"
+"common"
+{
+	"name" "Hardspace: Shipbreaker"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "迷走深空：碎舰师"
+	}
+	"releasestate" "released"
+	"clienticon" "f1eea8246239af84706181002bd952abba9406f7"
+	"clienttga" "a0820dbca5fb06686b0ab03cfb7a9c6abd2baf15"
+	"icon" "6bc66592ba259c2c794c30ee9d020ee2797a7cee"
+	"logo" "a338625e41f774e362776825dcbef8ba9290af45"
+	"logo_small" "a338625e41f774e362776825dcbef8ba9290af45_thumb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1161580_eula_0"
+			"name" "Hardspace: Shipbreaker EULA"
+			"url" "https://store.steampowered.com//eula/1161580_eula_0"
+			"version" "1"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1680220800"
+		"tested_build_id" "10407420"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "nomfdxgiman,"
+		}
+	}
+	"metacritic_name" "Hardspace: Shipbreaker"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "55.75208990336998"
+			"height_pct" "73.26974326499382"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "55.75208990336998"
+				"height_pct" "73.26974326499382"
+			}
+		}
+	}
+	"store_asset_mtime" "1681210664"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Blackbird Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Focus Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Focus Entertainment"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1653493920"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/hardspace-shipbreaker\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1161580"
+	"store_tags"
+	{
+		"0" "1755"
+		"1" "3942"
+		"2" "599"
+		"3" "3968"
+		"4" "4182"
+		"5" "5363"
+		"6" "3810"
+		"7" "1664"
+		"8" "3839"
+		"9" "16598"
+		"10" "9"
+		"11" "4295"
+		"12" "5030"
+		"13" "493"
+		"14" "1643"
+		"15" "5125"
+		"16" "1695"
+		"17" "1654"
+		"18" "19"
+		"19" "1756"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Blackbird Interactive"
+	"publisher" "Focus Entertainment"
+	"homepage" "https://www.focus-home.com/games/hardspace-shipbreaker"
+	"listofdlc" "2237360"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Hardspace Shipbreaker"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Shipbreaker.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Shipbreaker.exe"
+			"arguments" "-force-vulkan"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "shelf_test2"
+			}
+			"description_loc"
+			{
+				"english" "Hardspace: Shipbreaker (Vulkan Renderer)"
+			}
+			"description" "Hardspace: Shipbreaker (Vulkan Renderer)"
+		}
+		"2"
+		{
+			"executable" "Shipbreaker.exe"
+			"arguments" "-force-vulkan"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "next_staging_debug"
+			}
+			"description_loc"
+			{
+				"english" "Hardspace: Shipbreaker (Vulkan Renderer)"
+			}
+			"description" "Hardspace: Shipbreaker (Vulkan Renderer)"
+		}
+		"3"
+		{
+			"executable" "Shipbreaker.exe"
+			"arguments" "-force-vulkan"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "next_staging_release"
+			}
+			"description_loc"
+			{
+				"english" "Hardspace: Shipbreaker (Vulkan Renderer)"
+			}
+			"description" "Hardspace: Shipbreaker (Vulkan Renderer)"
+		}
+		"4"
+		{
+			"executable" "open.bat"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "2237360"
+			}
+			"description_loc"
+			{
+				"english" "Artbook"
+			}
+			"description" "Artbook"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"hasdepotsindlc" "0"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1161581"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4273269388672364966"
+				"size" "3618443358"
+				"download" "2935086816"
+			}
+		}
+	}
+	"1161582"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1161583"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1161584"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1161585"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1161586"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1161587"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1161588"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1161589"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1389921"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"2237360"
+	{
+		"dlcappid" "2237360"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2321376367598440768"
+				"size" "328945076"
+				"download" "242333712"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10407420"
+			"timeupdated" "1675270354"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1048576"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Blackbird Interactive/Hardspace_ Shipbreaker/Saves"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26900824"
+"_sha" "3abf3f75900ed619bb239db83799ced05451aaf1"
+"_size" "8900"
