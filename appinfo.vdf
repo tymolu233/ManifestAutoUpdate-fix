@@ -1,0 +1,69 @@
+"appid" "545990"
+"common"
+{
+	"name" "Call of Duty: Black Ops III - Unranked Dedicated Server"
+	"type" "Tool"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"icon" "a1371de9436ba1671f38e6785c151b240d6f1dfa"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "545990_eula_0"
+			"name" "Call of Duty: Black Ops III - Dedicated Server EULA"
+			"url" "http://store.steampowered.com//eula/545990_eula_0"
+		}
+	}
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "545990"
+}
+"config"
+{
+	"installdir" "Call of Duty Black Ops III"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "UnrankedServer\\Launch_Server.bat"
+			"workingdir" "UnrankedServer\\"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"545991"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2350066205567669287"
+				"size" "3900040220"
+				"download" "3697813104"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4500243"
+			"timeupdated" "1579030827"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "82bbca1311799dee95feae2f4a6026ae68f45156"
+"_size" "1073"
