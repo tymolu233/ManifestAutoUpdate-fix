@@ -1,0 +1,520 @@
+"appid" "1135300"
+"common"
+{
+	"name" "King\'s Bounty II"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "ae1a10d5bd075eb174c7cfab58f10cf564493023"
+	"clienttga" "4e34e248fe9cdf5eac189934c912ab9d7d9024b7"
+	"icon" "fb237e8e10b00c47aade196f01d29335c459bcc2"
+	"logo" "c3c327a23a71687efe4624bbb7346fe48e2a2752"
+	"logo_small" "c3c327a23a71687efe4624bbb7346fe48e2a2752_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+	}
+	"name_localized"
+	{
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1680220800"
+		"tested_build_id" "8178363"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "73.13998034363196"
+			"height_pct" "97.22222222222223"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "73.13998034363196"
+				"height_pct" "97.22222222222223"
+			}
+		}
+	}
+	"store_asset_mtime" "1631694581"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Fulqrum Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Fulqrum Publishing"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Prime Matter"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "方块游戏 (China)"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "25"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_15" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1629824279"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1135300"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "122"
+		"2" "1741"
+		"3" "21"
+		"4" "1684"
+		"5" "4172"
+		"6" "21725"
+		"7" "1717"
+		"8" "1708"
+		"9" "4325"
+		"10" "4182"
+		"11" "1677"
+		"12" "14139"
+		"13" "1742"
+		"14" "6426"
+		"15" "1697"
+		"16" "4166"
+		"17" "1685"
+		"18" "1756"
+		"19" "599"
+	}
+	"review_score" "5"
+	"review_percentage" "62"
+}
+"extended"
+{
+	"developer" "Fulqrum Games"
+	"publisher" "Fulqrum Publishing"
+	"homepage" "https://kingsbounty2.com/en/"
+	"listofdlc" "1640381,1640383,1640390"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "King\'s Bounty II"
+	"launch"
+	{
+		"2"
+		{
+			"executable" "KingsBounty2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_demo"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+		"4"
+		{
+			"executable" "KingsBounty2/Binaries/Win64/KingsBounty2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,czech"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229003"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1135301"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3565048292447488550"
+				"size" "21248749531"
+				"download" "20704471232"
+			}
+		}
+	}
+	"1135302"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9157242260838813163"
+				"size" "241471023"
+				"download" "147319584"
+			}
+		}
+	}
+	"1640383"
+	{
+		"dlcappid" "1640383"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3242418370653451734"
+				"size" "361910277"
+				"download" "362277744"
+			}
+		}
+	}
+	"1640390"
+	{
+		"dlcappid" "1640390"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3526791965663128869"
+				"size" "619020539"
+				"download" "618572688"
+			}
+		}
+	}
+	"1640381"
+	{
+		"dlcappid" "1640381"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8442389406048445098"
+				"size" "38248949"
+				"download" "19100480"
+			}
+		}
+	}
+	"1640382"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6012813432517760844"
+				"size" "86408166"
+				"download" "84503712"
+			}
+		}
+	}
+	"1898190"
+	{
+		"dlcappid" "1898190"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8178363"
+			"timeupdated" "1645102930"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1100000000"
+	"maxnumfiles" "103"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "KingsBounty2/Saved/SaveGames"
+			"pattern" "*Slot*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26908245"
+"_sha" "5ff77fdf4d9cb58db91b13ccc692b189448a1a97"
+"_size" "8428"
