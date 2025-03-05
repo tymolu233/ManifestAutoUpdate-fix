@@ -1,0 +1,134 @@
+"appid" "223070"
+"common"
+{
+	"name" "Torchlight II GUTS"
+	"type" "Tool"
+	"logo" "35965084216e15882040ceb388a4555b9a26ca1c"
+	"logo_small" "35965084216e15882040ceb388a4555b9a26ca1c_thumb"
+	"icon" "1e70ed6bb144869dafe8bafa46ff1970e358445f"
+	"clienttga" "3030fed0029555480e1420c938737f0422c7a30f"
+	"clienticon" "0c8cbb2e83c03b1f15d0acb56eaefbfe17a084ca"
+	"oslist" "windows"
+	"parent" "200710"
+	"associations"
+	{
+	}
+	"gameid" "223070"
+}
+"extended"
+{
+	"developer" ""
+	"gamedir" "Torchlight II GUTS"
+	"homepage" ""
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"thirdpartycdkey" "1"
+	"validoslist" "windows"
+	"visibleonlywhensubscribed" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Torchlight II"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Editor.exe"
+			"description" "Launch GUTS Editor"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229000"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"overridescddb" "1"
+	"preloadonly" "1"
+	"223071"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2868911022388338495"
+				"size" "73545112"
+				"download" "0"
+			}
+		}
+	}
+	"200711"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"depotfromapp" "200710"
+		"sharedinstall" "2"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "62626"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27103756"
+"_sha" "71eac6324d6726e4872a2bb195de94b94c59ad54"
+"_size" "2047"
