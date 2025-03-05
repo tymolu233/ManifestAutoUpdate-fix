@@ -1,0 +1,638 @@
+"appid" "253920"
+"common"
+{
+	"name" "Gorky 17"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "709514c7cebae01981e10869bc24df892b5b4c8b"
+	"logo_small" "709514c7cebae01981e10869bc24df892b5b4c8b_thumb"
+	"clienticon" "ad3bd3b25448b456705c8eb2dde878cd0c720117"
+	"clienttga" "1bc77adba22bd67f3f2cb5f82cc4a8b75831c96a"
+	"icon" "6a8eda1df2035590871726bbda6c437d18ad89e3"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosnotarized"
+	"metacritic_name" "Gorky 17"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "49.30555555555556"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "49.30555555555556"
+			}
+		}
+	}
+	"store_asset_mtime" "1577611306"
+	"associations"
+	{
+		"0"
+		{
+			"type" "publisher"
+			"name" "Topware Interactive ACE"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "946627200"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "253920"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "9"
+		"2" "1677"
+		"3" "1693"
+		"4" "1667"
+		"5" "3835"
+		"6" "4182"
+		"7" "1741"
+		"8" "5851"
+		"9" "1708"
+		"10" "3942"
+		"11" "4166"
+		"12" "21725"
+		"13" "14139"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"publisher" "Topware Interactive ACE"
+	"homepage" "http://www.gorky17.com"
+	"gamemanualurl" "https://store.steampowered.com/manual/253920/"
+	"listofdlc" "985410,986180"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Gorky 17"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Gorky17.exe"
+			"description" "Gorky 17"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Gorky 17.app"
+			"description" "Gorky 17"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "RunGame"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"3"
+		{
+			"executable" "RunSoundConfig"
+			"type" "config"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"4"
+		{
+			"executable" "ddc.cmd"
+			"description" "Digital Deluxe Content"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "986180"
+			}
+		}
+		"5"
+		{
+			"executable" "ddc"
+			"description" "Digital Deluxe Content"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+				"ownsdlc" "986180"
+			}
+		}
+		"6"
+		{
+			"executable" "ddc_xdg"
+			"description" "Digital Deluxe Content"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"ownsdlc" "986180"
+			}
+		}
+		"7"
+		{
+			"executable" "puzzle.exe"
+			"description" "Gorky 17 Sliding Puzzle"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "986180"
+			}
+		}
+		"8"
+		{
+			"executable" "RunGame"
+			"description" "Beta2"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "macbeta2"
+			}
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"baselanguages" ""
+	"hasdepotsindlc" "1"
+	"253921"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8984447659133370326"
+				"size" "69015666"
+				"download" "0"
+			}
+		}
+	}
+	"253922"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6445125461703064870"
+				"size" "491187562"
+				"download" "0"
+			}
+		}
+	}
+	"253923"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6642210703316053066"
+				"size" "486511482"
+				"download" "0"
+			}
+		}
+	}
+	"253924"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1214472941708280546"
+				"size" "500963307"
+				"download" "0"
+			}
+		}
+	}
+	"253925"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "112680532324400289"
+				"size" "482248060"
+				"download" "0"
+			}
+		}
+	}
+	"253926"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3543596351634204357"
+				"size" "546361310"
+				"download" "0"
+			}
+		}
+	}
+	"253927"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8381915714773991521"
+				"size" "483415526"
+				"download" "0"
+			}
+		}
+	}
+	"253928"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1225811566388843881"
+				"size" "1163046297"
+				"download" "526277536"
+			}
+		}
+	}
+	"253929"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2691166426124858472"
+				"size" "1158695503"
+				"download" "536157040"
+			}
+		}
+	}
+	"253930"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2542016990346354973"
+				"size" "1001036665"
+				"download" "425896688"
+			}
+		}
+	}
+	"253931"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2850388912307129536"
+				"size" "1154298315"
+				"download" "527559808"
+			}
+		}
+	}
+	"253932"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4107486785715953922"
+				"size" "1220424089"
+				"download" "593893344"
+			}
+		}
+	}
+	"253933"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4342968850239542013"
+				"size" "1155553797"
+				"download" "532678304"
+			}
+		}
+	}
+	"253934"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6712346676535657480"
+				"size" "1241964157"
+				"download" "552391440"
+			}
+		}
+	}
+	"253935"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8003843732862868300"
+				"size" "1085671205"
+				"download" "436005072"
+			}
+		}
+	}
+	"253936"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "260673346819946186"
+				"size" "1251649885"
+				"download" "561976064"
+			}
+		}
+	}
+	"253937"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8358363079745801379"
+				"size" "1233164538"
+				"download" "554041376"
+			}
+		}
+	}
+	"253938"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8373219433211803301"
+				"size" "1297940666"
+				"download" "623715728"
+			}
+		}
+	}
+	"253939"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "235909363524886543"
+				"size" "1234332004"
+				"download" "558801280"
+			}
+		}
+	}
+	"985412"
+	{
+		"dlcappid" "985410"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1617214722322815102"
+				"size" "81007088"
+				"download" "80848240"
+			}
+		}
+	}
+	"985411"
+	{
+		"dlcappid" "986180"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7668558470634498943"
+				"size" "227666112"
+				"download" "170060784"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3340265"
+			"timeupdated" "1543247812"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "999"
+}
+"_missing_token" "False"
+"_change_number" "27149861"
+"_sha" "b3b2872a56bcc41ea11abcd943526a4d92fa38f3"
+"_size" "9335"
