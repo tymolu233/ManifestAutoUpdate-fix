@@ -1,0 +1,502 @@
+"appid" "469600"
+"common"
+{
+	"name" "Legion TD 2"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"logo" "97f68a901fd6fc865f1c574641869cb38f27e1ed"
+	"logo_small" "97f68a901fd6fc865f1c574641869cb38f27e1ed_thumb"
+	"icon" "9d6acea5877310db9a3b52c9fe8f3ccc6052ce63"
+	"clienttga" "8970caf61ad2731abd8ce2bc2acab5433ad95032"
+	"clienticon" "cd263dba789450014e4bb1c164746d6d93a00c12"
+	"releasestate" "released"
+	"osarch" "64"
+	"exfgls" "1"
+	"clienticns" "1271ea763f81dcfc88566fc0cba1ff25f28bcfb8"
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"schinese" "军团战争2 / Legion TD 2"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1700697600"
+		"tested_build_id" "12629604"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Legion TD 2"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "32.09437621202329"
+			"height_pct" "65.27777777777777"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "32.09437621202329"
+				"height_pct" "65.27777777777777"
+			}
+		}
+	}
+	"store_asset_mtime" "1733038077"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "AutoAttack Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "AutoAttack Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_36" "1"
+		"category_2" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_15" "1"
+		"category_29" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1633099440"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "469600"
+	"store_tags"
+	{
+		"0" "1645"
+		"1" "3859"
+		"2" "1084988"
+		"3" "9"
+		"4" "1775"
+		"5" "4711"
+		"6" "3878"
+		"7" "3843"
+		"8" "6730"
+		"9" "1685"
+		"10" "7332"
+		"11" "8945"
+		"12" "1684"
+		"13" "3942"
+		"14" "4057"
+		"15" "4191"
+		"16" "4821"
+		"17" "1662"
+		"18" "3871"
+		"19" "4172"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "AutoAttack Games"
+	"publisher" "AutoAttack Games"
+	"homepage" "https://legiontd2.com"
+	"listofdlc" "562150,2162190"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Legion TD 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Legion TD 2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Legion TD 2.app/Contents/MacOS/Legion TD 2"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229001"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "0"
+	"469606"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "874638137070517721"
+				"size" "2397959533"
+				"download" "1516526304"
+			}
+			"mactest"
+			{
+				"gid" "1504953317752320179"
+				"size" "1579277551"
+				"download" "891024544"
+			}
+			"mactest2"
+			{
+				"gid" "7543942081242758348"
+				"size" "2205517535"
+				"download" "1386651920"
+			}
+			"public_test_realm"
+			{
+				"gid" "1718219848782946235"
+				"size" "2398979100"
+				"download" "1517260448"
+			}
+		}
+	}
+	"469607"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9188699719218773297"
+				"size" "0"
+				"download" "0"
+			}
+			"mactest"
+			{
+				"gid" "1848833954796996125"
+				"size" "1095206157"
+				"download" "584104640"
+			}
+			"mactest2"
+			{
+				"gid" "9188699719218773297"
+				"size" "0"
+				"download" "0"
+			}
+			"public_test_realm"
+			{
+				"gid" "9188699719218773297"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"469608"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8195665494689831970"
+				"size" "2518039955"
+				"download" "1534475248"
+			}
+			"mactest"
+			{
+				"gid" "1338804715025716182"
+				"size" "1590017501"
+				"download" "897946512"
+			}
+			"mactest2"
+			{
+				"gid" "4011254023723756454"
+				"size" "2281583471"
+				"download" "1392591456"
+			}
+			"public_test_realm"
+			{
+				"gid" "3357656662736414267"
+				"size" "2519060034"
+				"download" "1535209312"
+			}
+		}
+	}
+	"baselanguages" "english"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17405690"
+			"timeupdated" "1739876215"
+		}
+		"mactest"
+		{
+			"buildid" "6947310"
+			"description" "Mac benchmark"
+			"timeupdated" "1624921895"
+		}
+		"mactest2"
+		{
+			"buildid" "11052860"
+			"description" " Mac benchmark 2"
+			"timeupdated" "1682018606"
+		}
+		"public_test_realm"
+		{
+			"buildid" "17603381"
+			"description" "Public beta testing"
+			"timeupdated" "1741174602"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27793694"
+"_sha" "e9109356ee73c505132ba5879041d6a5a7de00c0"
+"_size" "8278"
