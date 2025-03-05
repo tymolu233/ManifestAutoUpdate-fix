@@ -1,0 +1,501 @@
+"appid" "1147550"
+"common"
+{
+	"name" "Not For Broadcast"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "aafda03da6e3dd163b22dd6a181ce327139fe58c"
+	"logo_small" "aafda03da6e3dd163b22dd6a181ce327139fe58c_thumb"
+	"clienticon" "4760953b6ae6c3427078d60d5e7c15ed1d81f435"
+	"clienttga" "41b1bcd3f4cb903d9b7deed3ef29973d0065f059"
+	"icon" "3dce2a893a46d945bae982d94920069dea4d1f02"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "不予播出 ( Not For Broadcast )"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1669334400"
+		"tested_build_id" "8315338"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Not For Broadcast"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"russian" "header_russian.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,ru"
+		"library_hero" "en,zh-cn,ru"
+		"library_logo" "en,zh-cn,ru"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "59.11456539229883"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"russian" "library_600x900_russian.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"russian" "library_600x900_russian_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"russian" "library_hero_russian.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"russian" "logo_russian.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "59.11456539229883"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"russian" "logo_russian_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1723560746"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "NotGames"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "tinyBuild"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "tinyBuild"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Not For Broadcast"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_13" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1643133621"
+	"metacritic_score" "82"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/not-for-broadcast\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1147550"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "7743"
+		"2" "6426"
+		"3" "5030"
+		"4" "599"
+		"5" "19995"
+		"6" "18594"
+		"7" "1742"
+		"8" "6971"
+		"9" "12472"
+		"10" "11014"
+		"11" "26921"
+		"12" "4486"
+		"13" "4853"
+		"14" "4166"
+		"15" "1698"
+		"16" "4598"
+		"17" "3839"
+		"18" "4182"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "NotGames"
+	"publisher" "tinyBuild"
+	"homepage" "https://www.notforbroadcastgame.com/"
+	"listofdlc" "2199310,2303600,2303601,2303602"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Not For Broadcast"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "NotForBroadcast.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1147551"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4179142375280234066"
+				"size" "54808234187"
+				"download" "42381433888"
+			}
+			"experimental2"
+			{
+				"gid" "1135589908830303268"
+				"size" "49060425672"
+				"download" "38726906928"
+			}
+			"alternatevideo"
+			{
+				"gid" "8234968903744517217"
+				"size" "57494160387"
+				"download" "40295559424"
+			}
+		}
+	}
+	"1147552"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8364623276885752920"
+				"size" "1676007318"
+				"download" "1698859648"
+			}
+			"experimental2"
+			{
+				"gid" "26253684667128343"
+				"size" "1592881491"
+				"download" "1614602816"
+			}
+			"alternatevideo"
+			{
+				"gid" "8364623276885752920"
+				"size" "1676007318"
+				"download" "1698859648"
+			}
+		}
+	}
+	"1147553"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5070434569740297865"
+				"size" "1769327464"
+				"download" "1793460560"
+			}
+			"experimental2"
+			{
+				"gid" "5275633275946916860"
+				"size" "1750989694"
+				"download" "1774872464"
+			}
+			"alternatevideo"
+			{
+				"gid" "5070434569740297865"
+				"size" "1769327464"
+				"download" "1793460560"
+			}
+		}
+	}
+	"1147554"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4673560301910716582"
+				"size" "1668433856"
+				"download" "1691188848"
+			}
+			"experimental2"
+			{
+				"gid" "3381650217619069843"
+				"size" "1651399189"
+				"download" "1673921424"
+			}
+			"alternatevideo"
+			{
+				"gid" "4673560301910716582"
+				"size" "1668433856"
+				"download" "1691188848"
+			}
+		}
+	}
+	"2199310"
+	{
+		"dlcappid" "2199310"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8383074283729566403"
+				"size" "7434884679"
+				"download" "7536432672"
+			}
+			"experimental2"
+			{
+				"gid" "3874529675989095584"
+				"size" "9742946845"
+				"download" "9876085856"
+			}
+			"alternatevideo"
+			{
+				"gid" "5369213046793163967"
+				"size" "7529366149"
+				"download" "7413733696"
+			}
+		}
+	}
+	"2303600"
+	{
+		"dlcappid" "2303600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4295815718717691497"
+				"size" "15994775366"
+				"download" "16213422560"
+			}
+			"alternatevideo"
+			{
+				"gid" "5692596630056952835"
+				"size" "17205521265"
+				"download" "15969402880"
+			}
+		}
+	}
+	"2303601"
+	{
+		"dlcappid" "2303601"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "292618191568686625"
+				"size" "13903035183"
+				"download" "14093164720"
+			}
+			"alternatevideo"
+			{
+				"gid" "4513541984541569170"
+				"size" "14776504789"
+				"download" "13894059168"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15932446"
+			"timeupdated" "1728064732"
+		}
+		"experimental2"
+		{
+			"buildid" "10879169"
+			"description" "Build that uses VP8 encoded videos."
+			"timeupdated" "1680086037"
+		}
+		"alternatevideo"
+		{
+			"buildid" "15932558"
+			"description" "Build that uses an alternate internal video player, for people experiencing issues with videos not playing in the primary build."
+			"timeupdated" "1728064822"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "NotGames/NotForBroadcast/Profiles"
+			"pattern" "*.json"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "NotGames/NotForBroadcast"
+			"pattern" "*.dat"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27768251"
+"_sha" "83bd2c9008e7b41947ed8e2a955b4ecc14cec73f"
+"_size" "9357"
