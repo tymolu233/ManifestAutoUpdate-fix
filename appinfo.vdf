@@ -1,0 +1,236 @@
+"appid" "623990"
+"common"
+{
+	"name" "Tom Clancy\'s Rainbow Six Siege - Test Server"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "ecad14acd27551c5bcd669e25aec9967bbe09332"
+	"logo_small" "ecad14acd27551c5bcd669e25aec9967bbe09332_thumb"
+	"icon" "20deaf466474f76f2ffdb345fe56f40fe3af74c0"
+	"clienticon" "7fa2839e2795c96f64a7db38200febc8d59c78b6"
+	"clienttga" "96566f96a175b6802ddbc3b988a8b9675f0c0fd0"
+	"releasestate" "released"
+	"metacritic_name" "Tom Clancy\'s Rainbow Six® Siege - Technical Test Server"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1591190839"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ubisoft Montreal"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Ubisoft"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1495036800"
+	"community_hub_visible" "1"
+	"gameid" "623990"
+	"store_tags"
+	{
+		"0" "19"
+	}
+}
+"extended"
+{
+	"developer" "Ubisoft Montreal"
+	"publisher" "Ubisoft"
+	"homepage" "http://rainbow6.ubi.com/"
+}
+"config"
+{
+	"installdir" "Tom Clancy\'s Rainbow Six Siege - Test Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RainbowSix.exe"
+			"arguments" "-upc_steam_required_product_id 10424 -uplay_steam_mode -orbit_uat"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Tom Clancy\'s Rainbow Six Siege - Test Server (DX12)"
+			}
+			"description" "Tom Clancy\'s Rainbow Six Siege - Test Server (DX12)"
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"623991"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7169436067454584531"
+				"size" "55629909689"
+				"download" "53544504576"
+			}
+		}
+	}
+	"1716751"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4788942746956806336"
+				"size" "239748504"
+				"download" "241609632"
+			}
+		}
+		"depotfromapp" "1716750"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17456366"
+			"timeupdated" "1740162848"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27756976"
+"_sha" "f4769f46fbdd57c490f018bc6a342af755016259"
+"_size" "3784"
