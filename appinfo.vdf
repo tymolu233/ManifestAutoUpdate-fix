@@ -1,0 +1,129 @@
+"appid" "455130"
+"common"
+{
+	"name" "Call of Duty: Black Ops III – Mod Tools"
+	"type" "Tool"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "455130_eula_0"
+			"name" "Call of Duty: Black Ops III – Mod Tools EULA"
+			"url" "http://store.steampowered.com//eula/455130_eula_0"
+		}
+	}
+	"oslist" "windows"
+	"clienticon" "d5163ea762a63dca461ab6287694f9f1cf55663b"
+	"clienttga" "d731f2ccc5d571fac85f19e44bda1b64ab917712"
+	"icon" "f5b052d3be4796e2a7a1f0f7a9578aa773882b5f"
+	"logo" "4022defd0a99127c6264a3d31ef2a529b46ce0fe"
+	"logo_small" "4022defd0a99127c6264a3d31ef2a529b46ce0fe_thumb"
+	"releasestate" "released"
+	"metacritic_name" "Call of Duty: Black Ops III – Mod Tools"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Treyarch"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Activision"
+		}
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"community_hub_visible" "1"
+	"gameid" "455130"
+}
+"extended"
+{
+	"developer" "Treyarch"
+	"publisher" "Activision"
+	"homepage" "https://www.callofduty.com/blackops3"
+	"listofdlc" "499270"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Call of Duty Black Ops III"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "modtools_launcher.bat"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"455131"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7421982922197022459"
+				"size" "28148823217"
+				"download" "24858957376"
+			}
+		}
+	}
+	"499270"
+	{
+		"dlcappid" "499270"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2604139347104567744"
+				"size" "104515380963"
+				"download" "98461020832"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "499270"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5284267"
+			"timeupdated" "1594749618"
+		}
+	}
+	"privatebranches" "1"
+	"appmanagesdlc" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "ede1fafbd37618de6e553773555fa33f5f8c6270"
+"_size" "2114"
