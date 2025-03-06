@@ -1,0 +1,393 @@
+"appid" "1399080"
+"common"
+{
+	"name" "The DioField Chronicle"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1399080_eula_0"
+			"name" "The DioField Chronicle EULA"
+			"url" "https://store.steampowered.com//eula/1399080_eula_0"
+			"version" "4"
+		}
+	}
+	"clienticon" "904ca1f2c77dae91d24f5257766f957592b70e19"
+	"clienttga" "258f9dddcc4ab6b542e78f53ba7fdb8f5eff21e8"
+	"icon" "7c5ed5cf4ad47090caea8d40b66c7a16c1f3318a"
+	"logo" "e7f5a30e3b3c25ac14147ee6e5f042be51cb99b9"
+	"logo_small" "e7f5a30e3b3c25ac14147ee6e5f042be51cb99b9_thumb"
+	"name_localized"
+	{
+		"tchinese" "神領編年史 The DioField Chronicle"
+		"schinese" "神领编年史 The DioField Chronicle"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1664236800"
+		"tested_build_id" "9295638"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en,zh-cn,zh-tw"
+		"library_logo" "en,zh-tw,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "60.70967741935483"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+				"tchinese" "library_hero_tchinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"tchinese" "logo_tchinese.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "60.70967741935483"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1662736035"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Square Enix"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "LANCARSE Ltd."
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Square Enix"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "3"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1663862460"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1399080"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "9"
+		"2" "4434"
+		"3" "17305"
+		"4" "1708"
+		"5" "3871"
+		"6" "4191"
+		"7" "4172"
+		"8" "1742"
+		"9" "4168"
+		"10" "4182"
+		"11" "4667"
+		"12" "599"
+		"13" "7948"
+		"14" "21725"
+		"15" "3813"
+		"16" "7107"
+		"17" "4085"
+		"18" "1676"
+		"19" "1677"
+	}
+	"review_score" "5"
+	"review_percentage" "50"
+}
+"extended"
+{
+	"developer" "Square Enix"
+	"publisher" "Square Enix"
+	"homepage" "https://www.diofieldchronicle.com"
+	"aliases" "diofield"
+	"listofdlc" "1948770,1953450,1953451"
+}
+"config"
+{
+	"installdir" "DFC"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DFC.exe"
+			"arguments" "-dx12"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "DX12"
+				"japanese" "DX12"
+			}
+			"description" "DX12"
+		}
+		"1"
+		{
+			"executable" "DFC.exe"
+			"arguments" "-dx11"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "DX11"
+				"japanese" "DX11"
+			}
+			"description" "DX11"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,schinese,tchinese,japanese"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1399081"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4434771972643717148"
+				"size" "24515986689"
+				"download" "24005858496"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10501741"
+			"timeupdated" "1678028165"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/DFC/Steam/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26997904"
+"_sha" "c4409396e233dcb0fa9e34ea86c05b81e9603b31"
+"_size" "7296"
