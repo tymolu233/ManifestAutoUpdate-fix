@@ -1,0 +1,759 @@
+"appid" "503940"
+"common"
+{
+	"name" "Railway Empire"
+	"type" "Game"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"logo" "995201965094f99cc396e8fd8172d47f20a362ab"
+	"logo_small" "995201965094f99cc396e8fd8172d47f20a362ab_thumb"
+	"icon" "24a8c386f72483dc386012c1221c199b5a4aa81f"
+	"clienticon" "1e4c1a7c85adfcac2f74a182e8c443f3e5872ed5"
+	"clienttga" "a71c052b31072ceba404a8268aa56d1cc2e86709"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "503940_eula_0"
+			"name" "Railway Empire EULA"
+			"url" "http://store.steampowered.com//eula/503940_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "7167184"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Railway Empire"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "64"
+			"height_pct" "66"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "64"
+				"height_pct" "66"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1738598225"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Gaming Minds Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kalypso Media"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Railway Empire"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_30" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1516989600"
+	"metacritic_score" "74"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/railway-empire\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "503940"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "599"
+		"2" "12472"
+		"3" "1616"
+		"4" "4695"
+		"5" "1643"
+		"6" "3987"
+		"7" "4202"
+		"8" "13190"
+		"9" "4182"
+		"10" "1647"
+		"11" "4161"
+		"12" "3810"
+		"13" "10383"
+		"14" "4328"
+		"15" "5350"
+		"16" "4711"
+		"17" "8945"
+		"18" "1702"
+		"19" "3834"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Gaming Minds Studios"
+	"publisher" "Kalypso Media"
+	"gamemanualurl" "https://store.steampowered.com/manual/503940/"
+	"listofdlc" "748840,820930,873880,884140,884141,884142,884143,1161420,1161421,1479630"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Railway Empire"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RailwayEmpire.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "RailwayEmpire"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"hasdepotsindlc" "0"
+	"workshopdepot" "503940"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"503941"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7691099028130139357"
+				"size" "53604435"
+				"download" "15301664"
+			}
+			"legacy"
+			{
+				"gid" "7083977295357743961"
+				"size" "40785147"
+				"download" "11031472"
+			}
+		}
+	}
+	"503942"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4985946040200857257"
+				"size" "52289696"
+				"download" "18193712"
+			}
+			"legacy"
+			{
+				"gid" "255054576155336222"
+				"size" "51739029"
+				"download" "18057968"
+			}
+		}
+	}
+	"503943"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2526527543265122592"
+				"size" "10069487616"
+				"download" "9103606464"
+			}
+			"legacy"
+			{
+				"gid" "6190537662167398651"
+				"size" "9109814224"
+				"download" "8287075808"
+			}
+		}
+	}
+	"503944"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8289076767417422740"
+				"size" "60168965"
+				"download" "19759968"
+			}
+			"legacy"
+			{
+				"gid" "8289076767417422740"
+				"size" "60168965"
+				"download" "19759968"
+			}
+		}
+	}
+	"503945"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "317869889060355253"
+				"size" "1323791028"
+				"download" "1310121168"
+			}
+			"legacy"
+			{
+				"gid" "317869889060355253"
+				"size" "1323791028"
+				"download" "1310121168"
+			}
+		}
+	}
+	"503946"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8225697353203387008"
+				"size" "1448409580"
+				"download" "1379480272"
+			}
+			"legacy"
+			{
+				"gid" "8225697353203387008"
+				"size" "1448409580"
+				"download" "1379480272"
+			}
+		}
+	}
+	"503948"
+	{
+		"config"
+		{
+			"language" "english"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7778401102547802396"
+				"size" "706336"
+				"download" "353808"
+			}
+			"legacy"
+			{
+				"gid" "9068095583670288380"
+				"size" "653664"
+				"download" "327456"
+			}
+		}
+	}
+	"503947"
+	{
+		"config"
+		{
+			"language" "german"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "550316944656126905"
+				"size" "764480"
+				"download" "383120"
+			}
+			"legacy"
+			{
+				"gid" "3543035609875963143"
+				"size" "706720"
+				"download" "354240"
+			}
+		}
+	}
+	"503949"
+	{
+		"config"
+		{
+			"language" "french"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6574473172467004447"
+				"size" "762432"
+				"download" "381840"
+			}
+			"legacy"
+			{
+				"gid" "2229456971232457779"
+				"size" "705504"
+				"download" "353248"
+			}
+		}
+	}
+	"748841"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6724631147918432659"
+				"size" "742240"
+				"download" "371696"
+			}
+			"legacy"
+			{
+				"gid" "6410749024239137597"
+				"size" "686976"
+				"download" "344080"
+			}
+		}
+	}
+	"748842"
+	{
+		"config"
+		{
+			"language" "italian"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "106105455791193671"
+				"size" "739392"
+				"download" "370208"
+			}
+			"legacy"
+			{
+				"gid" "7346075804000842461"
+				"size" "683776"
+				"download" "342224"
+			}
+		}
+	}
+	"748843"
+	{
+		"config"
+		{
+			"language" "russian"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1875743739128334349"
+				"size" "1892000"
+				"download" "940704"
+			}
+			"legacy"
+			{
+				"gid" "1077302064506809330"
+				"size" "1836640"
+				"download" "912656"
+			}
+		}
+	}
+	"748844"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8680818799789847908"
+				"size" "565376"
+				"download" "283696"
+			}
+			"legacy"
+			{
+				"gid" "886298701948540737"
+				"size" "522496"
+				"download" "262128"
+			}
+		}
+	}
+	"748845"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1443812864233893757"
+				"size" "1332562004"
+				"download" "1316607840"
+			}
+			"legacy"
+			{
+				"gid" "474644245768180055"
+				"size" "1332516276"
+				"download" "1316584848"
+			}
+		}
+	}
+	"748846"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3812333643040917163"
+				"size" "647488"
+				"download" "325232"
+			}
+			"legacy"
+			{
+				"gid" "5826813306250144449"
+				"size" "600224"
+				"download" "301328"
+			}
+		}
+	}
+	"748847"
+	{
+		"config"
+		{
+			"language" "polish"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8496063157130539199"
+				"size" "738400"
+				"download" "370208"
+			}
+			"legacy"
+			{
+				"gid" "8021795233611288864"
+				"size" "683424"
+				"download" "342544"
+			}
+		}
+	}
+	"748840"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"dlcappid" "748840"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "559633181620020150"
+				"size" "93976861"
+				"download" "87521280"
+			}
+			"legacy"
+			{
+				"gid" "559633181620020150"
+				"size" "93976861"
+				"download" "87521280"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8778742"
+			"timeupdated" "1654084750"
+		}
+		"legacy"
+		{
+			"buildid" "5115222"
+			"description" "legacy build"
+			"timeupdated" "1621238146"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "195000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27305783"
+"_sha" "487cdc7d24ea76e2b2bed910d82ff7daaed44684"
+"_size" "12004"
