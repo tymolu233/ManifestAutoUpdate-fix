@@ -1,0 +1,814 @@
+"appid" "373930"
+"common"
+{
+	"name" "Sudden Strike 4"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"icon" "9a1e0a431b625632212f437f22f4e12e0a8f1218"
+	"logo" "ee6f39f3c485f43ef12a4912dfe20d6ae2f31812"
+	"logo_small" "ee6f39f3c485f43ef12a4912dfe20d6ae2f31812_thumb"
+	"clienticon" "0a34f7eb14100a3436aa7264de814e06850ba065"
+	"clienttga" "487026ed8797ae02514617d49776a54b6e08d78f"
+	"releasestate" "released"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+	}
+	"clienticns" "89fd52f1d4d1bdee5ac3abcb302215888e956cbe"
+	"linuxclienticon" "ea2d9d60316679844ecc2e2899df38d01a4f3423"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "373930_eula_0"
+			"name" "Sudden Strike 4 EULA"
+			"url" "http://store.steampowered.com//eula/373930_eula_0"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1662076800"
+		"tested_build_id" "3690937"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Sudden Strike 4"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "38"
+			"height_pct" "36"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "38"
+				"height_pct" "36"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1724079600"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Kite Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kalypso Media"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Sudden Strike"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_17" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_29" "1"
+		"category_36" "1"
+		"category_25" "1"
+		"category_49" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1502470800"
+	"metacritic_score" "70"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/sudden-strike-4\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "373930"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1676"
+		"2" "4150"
+		"3" "1678"
+		"4" "3859"
+		"5" "3987"
+		"6" "13276"
+		"7" "4161"
+		"8" "4175"
+		"9" "3813"
+		"10" "4168"
+		"11" "4182"
+		"12" "7332"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "Kite Games"
+	"publisher" "Kalypso Media"
+	"gamemanualurl" "https://store.steampowered.com/manual/373930/"
+	"listofdlc" "501560,606080,813390,873870,873871"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Sudden Strike 4"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SuddenStrike4.exe"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "SuddenStrike4.app\\Contents\\MacOS\\SuddenStrike4"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "SuddenStrike4.x86_64"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"workshopdepot" "373930"
+	"373931"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9093765091485328961"
+				"size" "1106133007"
+				"download" "977594880"
+			}
+			"legacy"
+			{
+				"gid" "3803304227499204061"
+				"size" "1011931880"
+				"download" "894381904"
+			}
+		}
+	}
+	"373932"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2268349563193316133"
+				"size" "1201047354"
+				"download" "988683984"
+			}
+			"legacy"
+			{
+				"gid" "7021588494530528835"
+				"size" "1117815927"
+				"download" "909332272"
+			}
+		}
+	}
+	"373933"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9114614197263669006"
+				"size" "930563292"
+				"download" "809035376"
+			}
+			"legacy"
+			{
+				"gid" "7744218794222947129"
+				"size" "869090354"
+				"download" "751863744"
+			}
+		}
+	}
+	"501560"
+	{
+		"dlcappid" "501560"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6930165043250929761"
+				"size" "128703040"
+				"download" "105603200"
+			}
+			"legacy"
+			{
+				"gid" "4346290374081131611"
+				"size" "128703284"
+				"download" "105602288"
+			}
+		}
+	}
+	"606080"
+	{
+		"dlcappid" "606080"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2087976740879570156"
+				"size" "180802279"
+				"download" "154453552"
+			}
+			"legacy"
+			{
+				"gid" "8477548557882398775"
+				"size" "180795669"
+				"download" "154450976"
+			}
+		}
+	}
+	"373934"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4687142012707275599"
+				"size" "4552"
+				"download" "1200"
+			}
+			"legacy"
+			{
+				"gid" "4687142012707275599"
+				"size" "4552"
+				"download" "1200"
+			}
+		}
+	}
+	"373935"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8241565315615273554"
+				"size" "42477462"
+				"download" "42096176"
+			}
+			"legacy"
+			{
+				"gid" "8241565315615273554"
+				"size" "42477462"
+				"download" "42096176"
+			}
+		}
+	}
+	"373936"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8917230621436657054"
+				"size" "46275039"
+				"download" "45984944"
+			}
+			"legacy"
+			{
+				"gid" "8917230621436657054"
+				"size" "46275039"
+				"download" "45984944"
+			}
+		}
+	}
+	"373937"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4646384373122042869"
+				"size" "73112391"
+				"download" "72849968"
+			}
+			"legacy"
+			{
+				"gid" "8275990811837428566"
+				"size" "67902703"
+				"download" "67653040"
+			}
+		}
+	}
+	"373938"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "79436102561517566"
+				"size" "102250464"
+				"download" "101439376"
+			}
+			"legacy"
+			{
+				"gid" "1272326958131062117"
+				"size" "93192800"
+				"download" "92475568"
+			}
+		}
+	}
+	"373939"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1049708991922799957"
+				"size" "74433719"
+				"download" "73836848"
+			}
+			"legacy"
+			{
+				"gid" "4065748776686889000"
+				"size" "69126944"
+				"download" "68568496"
+			}
+		}
+	}
+	"501561"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6495246869267485458"
+				"size" "4552"
+				"download" "1184"
+			}
+			"legacy"
+			{
+				"gid" "6495246869267485458"
+				"size" "4552"
+				"download" "1184"
+			}
+		}
+	}
+	"501562"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3086429284579741493"
+				"size" "76807526"
+				"download" "75936592"
+			}
+			"legacy"
+			{
+				"gid" "709756184441612069"
+				"size" "92642440"
+				"download" "91169104"
+			}
+		}
+	}
+	"501563"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2981678901875892595"
+				"size" "76807518"
+				"download" "75936592"
+			}
+			"legacy"
+			{
+				"gid" "4091596447563847479"
+				"size" "92642432"
+				"download" "91169104"
+			}
+		}
+	}
+	"501564"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3175865580060357068"
+				"size" "4552"
+				"download" "1184"
+			}
+			"legacy"
+			{
+				"gid" "3175865580060357068"
+				"size" "4552"
+				"download" "1184"
+			}
+		}
+	}
+	"501565"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1925426449797251205"
+				"size" "4552"
+				"download" "1200"
+			}
+			"legacy"
+			{
+				"gid" "1925426449797251205"
+				"size" "4552"
+				"download" "1200"
+			}
+		}
+	}
+	"501566"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2789384967637458303"
+				"size" "5905212471"
+				"download" "5084098880"
+			}
+			"legacy"
+			{
+				"gid" "3261616934649321000"
+				"size" "5126216012"
+				"download" "4390259040"
+			}
+		}
+	}
+	"813390"
+	{
+		"dlcappid" "813390"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5828901568732968133"
+				"size" "352688231"
+				"download" "292212544"
+			}
+			"legacy"
+			{
+				"gid" "5609096493417091092"
+				"size" "352675863"
+				"download" "292214576"
+			}
+		}
+	}
+	"873870"
+	{
+		"dlcappid" "873870"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2545230171749429827"
+				"size" "453897585"
+				"download" "389798752"
+			}
+			"legacy"
+			{
+				"gid" "8456492335622812171"
+				"size" "498702463"
+				"download" "435169440"
+			}
+		}
+	}
+	"873871"
+	{
+		"dlcappid" "873871"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7751641708900698061"
+				"size" "697848392"
+				"download" "603835856"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3690937"
+			"timeupdated" "1554292928"
+		}
+		"legacy"
+		{
+			"buildid" "3389329"
+			"description" "legacy build"
+			"timeupdated" "1550830385"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "1000"
+	"rootoverrides"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Kite Games/Sudden Strike 4"
+					"replace" ".config/unity3d/Kite Games/Sudden Strike 4"
+				}
+			}
+		}
+	}
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Kite Games/Sudden Strike 4"
+			"pattern" "*.savegame"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27124225"
+"_sha" "b1f12feb32140c70f980769c885a7424a81a7fa0"
+"_size" "13258"
