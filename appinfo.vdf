@@ -1,0 +1,475 @@
+"appid" "1337760"
+"common"
+{
+	"name" "Potion Permit"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64"
+	"logo" "de70f7780036aaf9cfe2124e12f203635d9ff359"
+	"logo_small" "de70f7780036aaf9cfe2124e12f203635d9ff359_thumb"
+	"icon" "09e8280dd43ba892b854986aca03f6f68c7d2a56"
+	"clienticon" "638b15e76ce9131b66073b3b61b012f5d0c615e9"
+	"clienttga" "d807b0b3edddf35c7288ee6a9662ca1e6ea2908d"
+	"name_localized"
+	{
+		"tchinese" "杏林物語"
+		"schinese" "杏林物语"
+		"koreana" "포션퍼밋"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1664323200"
+		"tested_build_id" "9566628"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Potion Permit"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "fe4debabe9b42f3127d2c005fa0f5c4f9dd1c01e/capsule_231x87.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"koreana" "header_koreana.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ko,zh-cn,zh-tw"
+		"library_hero" "en,ko,zh-cn,zh-tw"
+		"library_logo" "en,ko,zh-cn,zh-tw"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "89.06976744186048"
+			"height_pct" "87.08145333649965"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"koreana" "library_hero_koreana.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"koreana" "library_hero_koreana_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+				"tchinese" "library_hero_tchinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "89.06976744186048"
+				"height_pct" "87.08145333649965"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"koreana" "logo_koreana.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"koreana" "logo_koreana_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734731271"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "MassHive Media"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PQube"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "PQube"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1663833600"
+	"metacritic_score" "72"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/potion-permit\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1337760"
+	"store_tags"
+	{
+		"0" "4182"
+		"1" "4305"
+		"2" "4434"
+		"3" "3964"
+		"4" "10235"
+		"5" "97376"
+		"6" "9551"
+		"7" "1702"
+		"8" "21"
+		"9" "1654"
+		"10" "552282"
+		"11" "599"
+		"12" "122"
+		"13" "597"
+		"14" "4747"
+		"15" "15564"
+		"16" "4726"
+		"17" "4231"
+		"18" "3871"
+		"19" "4106"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "MassHive Media"
+	"publisher" "PQube"
+	"homepage" "https://pqube.co.uk/games/potion-permit/"
+	"listofdlc" "1944370,1944380,1944390,1944400,1944401,1944402,1944403,1944404,1944405,1944406,1944407,1944408,1944409,1944460,1944470,1944480,1944490,1944530,1944540,1944550,1944551,1945650,1945660,1945661,1945662,1945940,1945950,1949400,2073940,2073941,2073942"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Potion Permit"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Potion Permit.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Win 64"
+			}
+			"description" "Win 64"
+		}
+		"1"
+		{
+			"executable" "Potion Permit.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+			"description_loc"
+			{
+				"english" "Win 32"
+			}
+			"description" "Win 32"
+		}
+		"2"
+		{
+			"executable" "Potion Permit.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Mac OS"
+			}
+			"description" "Mac OS"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"1337761"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8034426759825343641"
+				"size" "1001294728"
+				"download" "214664896"
+			}
+			"public_beta"
+			{
+				"gid" "1297761068818442997"
+				"size" "1013017470"
+				"download" "256230928"
+			}
+		}
+	}
+	"1337762"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4040442870641085391"
+				"size" "1006690162"
+				"download" "214861056"
+			}
+			"public_beta"
+			{
+				"gid" "4164773017266529536"
+				"size" "1025012115"
+				"download" "262157808"
+			}
+		}
+	}
+	"1945940"
+	{
+		"dlcappid" "1945940"
+	}
+	"1949400"
+	{
+		"dlcappid" "1949400"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14854896"
+			"timeupdated" "1731330871"
+		}
+		"public_beta"
+		{
+			"buildid" "9602297"
+			"description" "Public beta branch"
+			"timeupdated" "1664301863"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "20480000"
+	"maxnumfiles" "18"
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "MasshiveMedia/Potion Permit"
+					"replace" "unity.MasshiveMedia.Potion Permit"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "MasshiveMedia/Potion Permit"
+					"replace" ".config/unity3d/MasshiveMedia/Potion Permit"
+				}
+			}
+		}
+	}
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "MasshiveMedia/Potion Permit"
+			"pattern" "*.rjson"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27261576"
+"_sha" "68c6b8344f7c20952d48d953bdbb6291abde102a"
+"_size" "8998"
