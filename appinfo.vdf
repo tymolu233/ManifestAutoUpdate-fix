@@ -1,0 +1,1010 @@
+"appid" "480490"
+"common"
+{
+	"name" "Prey"
+	"type" "Game"
+	"logo" "537e5753f65f16b745e83aabe83ca0c6e1dcbbb8"
+	"logo_small" "537e5753f65f16b745e83aabe83ca0c6e1dcbbb8_thumb"
+	"icon" "5ef565e374f039469e4a5c332cd51584af7ec5db"
+	"releasestate" "released"
+	"clienticon" "1bdccf9e9ff8160454e386f848ecd4f735604284"
+	"oslist" "windows"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "480490_eula_0"
+			"name" "Prey EULA"
+			"url" "http://store.steampowered.com//eula/480490_eula_0"
+		}
+	}
+	"clienttga" "b8a575982c3e05d867b608b2c11c29ec389d886d"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "5297220"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"metacritic_name" "Project Danielle"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "65"
+			"height_pct" "89"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "65"
+				"height_pct" "89"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1544471885"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Arkane Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bethesda Softworks"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_43" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1493992800"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "480490"
+	"store_tags"
+	{
+		"0" "3942"
+		"1" "9204"
+		"2" "1755"
+		"3" "4182"
+		"4" "1667"
+		"5" "4166"
+		"6" "1663"
+		"7" "3839"
+		"8" "1742"
+		"9" "3834"
+		"10" "19"
+		"11" "1673"
+		"12" "3978"
+		"13" "4295"
+		"14" "1687"
+		"15" "1721"
+		"16" "21"
+		"17" "1695"
+		"18" "122"
+		"19" "1756"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Arkane Studios"
+	"publisher" "Bethesda Softworks"
+	"listofdlc" "550030,601820,865670"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Prey"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Binaries\\Danielle\\x64\\Release\\Prey.exe"
+			"type" "none"
+		}
+		"2"
+		{
+			"executable" "Binaries\\Danielle\\x64\\Release\\Prey.exe"
+			"arguments" "-loadFrom=Whiplash -dlc=865670"
+			"description" "Prey: Mooncrash"
+			"type" "option1"
+			"config"
+			{
+				"ownsdlc" "865670"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"922097098"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,baseline,compat,denuvo,lyonbuild,press,public-beta-patch,qualityassurance,vendors"
+		}
+		"922099935"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,baseline,compat,denuvo,lyonbuild,press,public-beta-patch,qualityassurance,vendors"
+		}
+		"922109667"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,baseline,compat,denuvo,lyonbuild,press,public-beta-patch,qualityassurance,vendors"
+		}
+		"922108660"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,baseline,compat,denuvo,lyonbuild,press,public-beta-patch,qualityassurance,vendors"
+		}
+		"922108038"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,baseline,compat,denuvo,lyonbuild,press,public-beta-patch,qualityassurance,vendors"
+		}
+		"922107221"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,baseline,compat,denuvo,lyonbuild,press,public-beta-patch,qualityassurance,vendors"
+		}
+		"1111677442"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default,baseline,compat,denuvo,lyonbuild,press,public-beta-patch,qualityassurance,vendors"
+		}
+		"1111714540"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default,baseline,compat,denuvo,lyonbuild,press,public-beta-patch,qualityassurance,vendors"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"480491"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6216253541820292340"
+				"size" "19475753990"
+				"download" "19279669488"
+			}
+			"public-beta-patch"
+			{
+				"gid" "9184939340714275350"
+				"size" "35946442466"
+				"download" "35355615344"
+			}
+		}
+	}
+	"480492"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5211275299907264404"
+				"size" "728206836"
+				"download" "737781248"
+			}
+			"public-beta-patch"
+			{
+				"gid" "5289674256496005317"
+				"size" "728206836"
+				"download" "737781376"
+			}
+		}
+	}
+	"480493"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5794917086960536023"
+				"size" "879128875"
+				"download" "888278480"
+			}
+			"public-beta-patch"
+			{
+				"gid" "232547431713805833"
+				"size" "879128875"
+				"download" "888278432"
+			}
+		}
+	}
+	"480494"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3010727713261711069"
+				"size" "856259988"
+				"download" "867860112"
+			}
+			"public-beta-patch"
+			{
+				"gid" "1611757511961086199"
+				"size" "856259988"
+				"download" "867860176"
+			}
+		}
+	}
+	"480495"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8119038818562305734"
+				"size" "882378501"
+				"download" "894454256"
+			}
+			"public-beta-patch"
+			{
+				"gid" "4704040490380315778"
+				"size" "882378501"
+				"download" "894454240"
+			}
+		}
+	}
+	"480496"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5654769720216793560"
+				"size" "884332342"
+				"download" "896429904"
+			}
+			"public-beta-patch"
+			{
+				"gid" "3535423956618439008"
+				"size" "884332342"
+				"download" "896429920"
+			}
+		}
+	}
+	"480497"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6190360864026730338"
+				"size" "852236191"
+				"download" "863896272"
+			}
+			"public-beta-patch"
+			{
+				"gid" "3345045383840896306"
+				"size" "852236191"
+				"download" "863896256"
+			}
+		}
+	}
+	"480498"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6738139579380035872"
+				"size" "898342862"
+				"download" "910633296"
+			}
+			"public-beta-patch"
+			{
+				"gid" "6803248710730086727"
+				"size" "898342862"
+				"download" "910633296"
+			}
+		}
+	}
+	"480499"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5107108874506998015"
+				"size" "876107937"
+				"download" "888095024"
+			}
+			"public-beta-patch"
+			{
+				"gid" "5591035577075531405"
+				"size" "876107937"
+				"download" "888095056"
+			}
+		}
+	}
+	"589350"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3548698085720460134"
+				"size" "900498863"
+				"download" "912819968"
+			}
+			"public-beta-patch"
+			{
+				"gid" "2877182736462773233"
+				"size" "900498863"
+				"download" "912819968"
+			}
+		}
+	}
+	"589351"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8957504413064528774"
+				"size" "955203531"
+				"download" "968272800"
+			}
+			"public-beta-patch"
+			{
+				"gid" "979712788251255776"
+				"size" "955203531"
+				"download" "968272832"
+			}
+		}
+	}
+	"589352"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3921921111484331616"
+				"size" "17031480"
+				"download" "17264528"
+			}
+			"public-beta-patch"
+			{
+				"gid" "4973259556908998917"
+				"size" "17031480"
+				"download" "17264528"
+			}
+		}
+	}
+	"589353"
+	{
+	}
+	"550031"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2410410262443096747"
+				"size" "1025706"
+				"download" "1039744"
+			}
+			"public-beta-patch"
+			{
+				"gid" "5248862839176396028"
+				"size" "1025706"
+				"download" "1039664"
+			}
+		}
+	}
+	"550032"
+	{
+		"dlcappid" "865670"
+		"config"
+		{
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "512551597004128108"
+				"size" "12541286139"
+				"download" "12560205728"
+			}
+			"public-beta-patch"
+			{
+				"gid" "9060054047794927497"
+				"size" "314751615"
+				"download" "301922704"
+			}
+		}
+	}
+	"550033"
+	{
+		"dlcappid" "865670"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5676650103104625600"
+				"size" "369318789"
+				"download" "374246352"
+			}
+			"public-beta-patch"
+			{
+				"gid" "6966382886655549846"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"550034"
+	{
+		"dlcappid" "865670"
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1692178481188241058"
+				"size" "430958693"
+				"download" "354261360"
+			}
+			"public-beta-patch"
+			{
+				"gid" "7631992682164468883"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"550035"
+	{
+		"dlcappid" "865670"
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8228828974118656426"
+				"size" "412932652"
+				"download" "354346000"
+			}
+			"public-beta-patch"
+			{
+				"gid" "2599413327382675554"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"550036"
+	{
+		"dlcappid" "865670"
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4576111761233264246"
+				"size" "431975697"
+				"download" "362435984"
+			}
+			"public-beta-patch"
+			{
+				"gid" "3864022036523282535"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"550037"
+	{
+		"dlcappid" "865670"
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2556184547016595586"
+				"size" "429439415"
+				"download" "435314976"
+			}
+			"public-beta-patch"
+			{
+				"gid" "3462039797072404434"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"550038"
+	{
+		"dlcappid" "865670"
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5640385337942446039"
+				"size" "411775008"
+				"download" "348146000"
+			}
+			"public-beta-patch"
+			{
+				"gid" "7954380103858862291"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"550039"
+	{
+		"dlcappid" "865670"
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1007247583197101600"
+				"size" "424314851"
+				"download" "365870224"
+			}
+			"public-beta-patch"
+			{
+				"gid" "6743864982447979801"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"589354"
+	{
+		"dlcappid" "865670"
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6992238737509097319"
+				"size" "420012652"
+				"download" "425757856"
+			}
+			"public-beta-patch"
+			{
+				"gid" "1148541344657059484"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"589355"
+	{
+		"dlcappid" "865670"
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7269158574421877666"
+				"size" "438919591"
+				"download" "379040208"
+			}
+			"public-beta-patch"
+			{
+				"gid" "8619586224452720110"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"589356"
+	{
+		"dlcappid" "865670"
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1264844909982911689"
+				"size" "456911971"
+				"download" "401728112"
+			}
+			"public-beta-patch"
+			{
+				"gid" "3709806988166997823"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"589357"
+	{
+		"dlcappid" "865670"
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2997352328656105565"
+				"size" "16964188"
+				"download" "15897936"
+			}
+			"public-beta-patch"
+			{
+				"gid" "7837661534080029493"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"589358"
+	{
+		"dlcappid" "865670"
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2805460628259266455"
+				"size" "630445"
+				"download" "616128"
+			}
+			"public-beta-patch"
+			{
+				"gid" "7432977153976391117"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5297220"
+			"timeupdated" "1595512832"
+		}
+		"public-beta-patch"
+		{
+			"buildid" "4990860"
+			"description" "Public - beta patch"
+			"timeupdated" "1594908228"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "Arkane Studios/Prey/SaveGames"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinSavedGames"
+			"path" "Arkane Studios/Prey/Profiles"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27104407"
+"_sha" "aabe6d66c24484de44afaca117b0aef2c6341b9f"
+"_size" "16766"
