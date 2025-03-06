@@ -1,0 +1,448 @@
+"appid" "835650"
+"common"
+{
+	"name" "Rising Lords"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "947573a74657832c724b3bf027acfe35d64ad921"
+	"logo_small" "947573a74657832c724b3bf027acfe35d64ad921_thumb"
+	"icon" "ec1c51e441138889be5622bab0ffb42f8fdb6b8f"
+	"clienticon" "4f808350df3bc85f48ecdcf65c77cd8fa3010c22"
+	"clienttga" "2f51324d31c6c48990b2c199e6398a4008c4c0f7"
+	"name_localized"
+	{
+		"schinese" "领主争锋"
+		"tchinese" "領主爭鋒"
+		"japanese" "ライジング・ロード"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1720051200"
+		"tested_build_id" "14757390"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Rising Lords"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "39.78867977411426"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "39.78867977411426"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1705660128"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Argonwood"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Deck13"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "WhisperGames"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Deck13 Spotlight"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Focus Entertainment"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_17" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_47" "1"
+		"category_48" "1"
+		"category_30" "1"
+		"category_32" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1705597432"
+	"metacritic_score" "69"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/rising-lords\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "835650"
+	"store_tags"
+	{
+		"0" "4172"
+		"1" "14139"
+		"2" "9"
+		"3" "1741"
+		"4" "492"
+		"5" "3859"
+		"6" "1708"
+		"7" "1677"
+		"8" "4325"
+		"9" "7332"
+		"10" "1717"
+		"11" "3871"
+		"12" "4328"
+		"13" "599"
+		"14" "493"
+		"15" "4182"
+		"16" "3810"
+		"17" "6815"
+		"18" "1685"
+		"19" "4711"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"developer" "Argonwood"
+	"publisher" "Deck13"
+	"homepage" "https://www.Argonwood.com"
+	"listofdlc" "3503840"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Rising Lords"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RisingLords.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "launcher.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "ubuntu"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "835650"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"835651"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7211463745422100298"
+				"size" "629767432"
+				"download" "579318288"
+			}
+			"beta"
+			{
+				"gid" "7211463745422100298"
+				"size" "629767432"
+				"download" "579318288"
+			}
+			"previous"
+			{
+				"gid" "2747182358746567725"
+				"size" "629765512"
+				"download" "579317664"
+			}
+		}
+	}
+	"835652"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7224757215891973034"
+				"size" "477522149"
+				"download" "427621760"
+			}
+			"beta"
+			{
+				"gid" "7224757215891973034"
+				"size" "477522149"
+				"download" "427621760"
+			}
+			"previous"
+			{
+				"gid" "7224757215891973034"
+				"size" "477522149"
+				"download" "427621760"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16722789"
+			"timeupdated" "1735640168"
+		}
+		"beta"
+		{
+			"buildid" "16722789"
+			"description" "unstable"
+			"timeupdated" "1734015157"
+		}
+		"previous"
+		{
+			"buildid" "16610687"
+			"timeupdated" "1735639991"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "500"
+}
+"_missing_token" "False"
+"_change_number" "27791654"
+"_sha" "08e42be1ec168bd6239135c926205bafd6ea3a57"
+"_size" "7762"
