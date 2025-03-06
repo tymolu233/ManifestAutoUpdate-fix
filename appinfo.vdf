@@ -1,0 +1,294 @@
+"appid" "780670"
+"common"
+{
+	"name" "Fantasy of Expedition"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"logo" "1b139f2ad478e94d5ed780871feb28b1b5c6ed4e"
+	"logo_small" "1b139f2ad478e94d5ed780871feb28b1b5c6ed4e_thumb"
+	"icon" "dadc58f8a02d85e59bfd2915460766af267f9de7"
+	"clienttga" "1605a2e62a146317b4bd5bfda8b96270f4c89d0e"
+	"clienticns" "60f56eeff94b4ae73526dadb4e068f686af8b7d0"
+	"clienticon" "76f7bd570cd6a81bae97c7d947b8c775bdab4b6d"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"english" "Fantasy of Expedition"
+		"schinese" "奇幻东征"
+		"tchinese" "奇幻東征"
+		"japanese" "ミラクルクルセイダー"
+		"koreana" "기묘한 모험"
+	}
+	"metacritic_name" "Fantasy of Expedition 奇幻東征"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1639484257"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "LW.C"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "LW.C"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "FawnGame"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "3"
+		"5" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1600053618"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "780670"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "492"
+		"2" "9"
+		"3" "19"
+		"4" "597"
+		"5" "21"
+		"6" "1716"
+		"7" "3964"
+		"8" "1084988"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "LW.C"
+	"publisher" "LW.C"
+}
+"config"
+{
+	"installdir" "Fantasy of Expedition"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Fantasy of Expedition.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Contents/MacOS/FOE"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"baselanguages" "tchinese"
+	"780672"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4997476349339989444"
+				"size" "1423518932"
+				"download" "396786336"
+			}
+		}
+	}
+	"780673"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8884181340525813010"
+				"size" "1402071385"
+				"download" "392478496"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10586853"
+			"timeupdated" "1676813464"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10240000"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "LWCore/Fantasy of Expedition"
+			"pattern" "*.dat"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "LWCore/Fantasy of Expedition"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "c452f5336039e0429eb4627cfce55d0e0ca23e58"
+"_size" "4771"
