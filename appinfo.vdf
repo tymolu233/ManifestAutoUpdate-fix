@@ -1,0 +1,532 @@
+"appid" "585450"
+"common"
+{
+	"name" "Shadows: Awakening"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "2153756b4b4cd18b91a6308a1569e33f6c4e5ea9"
+	"logo_small" "2153756b4b4cd18b91a6308a1569e33f6c4e5ea9_thumb"
+	"icon" "07481d66b77cbe7b6d94726968ba0f99bdeb4b42"
+	"clienticon" "fd4c890237c7546fe7574c8c5304b6cf1ab0c4b9"
+	"clienttga" "ad9f374bc23854d3449bb2aa34b4b2cb65210e5f"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "585450_eula_0"
+			"name" "Shadows: Awakening EULA"
+			"url" "https://store.steampowered.com//eula/585450_eula_0"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1648771200"
+		"tested_build_id" "3375560"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Shadows: Awakening"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "71.83908045977012"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "71.83908045977012"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1603727531"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Games Farm"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kalypso Media"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Shadows"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1535734812"
+	"metacritic_score" "77"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/shadows-awakening\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "585450"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "19"
+		"2" "1646"
+		"3" "5851"
+		"4" "4182"
+		"5" "4236"
+		"6" "4604"
+		"7" "4231"
+		"8" "1684"
+		"9" "1664"
+		"10" "4057"
+		"11" "4161"
+		"12" "1742"
+		"13" "10695"
+		"14" "4166"
+		"15" "9541"
+		"16" "4474"
+		"17" "5094"
+		"18" "1702"
+		"19" "21"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "Games Farm"
+	"publisher" "Kalypso Media"
+	"gamemanualurl" "https://store.steampowered.com/manual/585450/"
+	"listofdlc" "816140,953980,953981"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Shadows Awakening"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "shadows.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "run.bat"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "gamescom"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"585451"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7943910891404696100"
+				"size" "13405131303"
+				"download" "7425941232"
+			}
+		}
+	}
+	"816141"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7649053213041709576"
+				"size" "5"
+				"download" "48"
+			}
+		}
+	}
+	"585453"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6047581082092251429"
+				"size" "5"
+				"download" "48"
+			}
+		}
+	}
+	"585452"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5559385801178183396"
+				"size" "5"
+				"download" "48"
+			}
+		}
+	}
+	"585455"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1274616374122458898"
+				"size" "5"
+				"download" "48"
+			}
+		}
+	}
+	"585456"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "884148144443796369"
+				"size" "5"
+				"download" "48"
+			}
+		}
+	}
+	"585454"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1053639549409469278"
+				"size" "5"
+				"download" "48"
+			}
+		}
+	}
+	"585459"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1223162090994203335"
+				"size" "5"
+				"download" "48"
+			}
+		}
+	}
+	"585457"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5426838855030122537"
+				"size" "5"
+				"download" "48"
+			}
+		}
+	}
+	"585458"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "31435546013887887"
+				"size" "5"
+				"download" "48"
+			}
+		}
+	}
+	"816142"
+	{
+		"dlcappid" "816140"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2380216795939699480"
+				"size" "150605034"
+				"download" "139832032"
+			}
+		}
+	}
+	"816143"
+	{
+		"dlcappid" "816140"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "914293577337052354"
+				"size" "46399389"
+				"download" "46384192"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3375560"
+			"timeupdated" "1544619792"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Games Farm/Shadows_ Awakening/saves"
+			"pattern" "*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Games Farm/Shadows_ Awakening/saves"
+					"replace" "com.gamesfarm.awakening/saves"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Games Farm/Shadows_ Awakening/saves"
+					"replace" ".config/unity3d/Games Farm/Shadows_ Awakening/saves"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27012702"
+"_sha" "b84702768ff7c7b3cbd5cc111337287919e2dc73"
+"_size" "8472"
