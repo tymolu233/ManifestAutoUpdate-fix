@@ -1,0 +1,423 @@
+"appid" "824550"
+"common"
+{
+	"name" "SD GUNDAM BATTLE ALLIANCE"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"thai" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"logo" "095b85c8793432c93333c8233c375e5ccbafa491"
+	"logo_small" "095b85c8793432c93333c8233c375e5ccbafa491_thumb"
+	"icon" "0b63d606151c548bd27ac8ebec401ac5059faaa1"
+	"name_localized"
+	{
+		"japanese" "SDガンダム バトルアライアンス"
+		"tchinese" "SD GUNDAM 激鬥同盟"
+		"schinese" "SD GUNDAM 激斗同盟"
+		"koreana" "SD건담 배틀 얼라이언스"
+	}
+	"clienticon" "276ca6d6aa9687e71fed5346022f9f96a2653309"
+	"clienttga" "1f3bd38c214e20fe038c96b7577ba422ee1b40c4"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "824550_eula_0"
+			"name" "SD GUNDAM BATTLE ALLIANCE EULA"
+			"url" "https://store.steampowered.com//eula/824550_eula_0"
+			"version" "1"
+		}
+	}
+	"linuxclienticon" "2f837f8b05c1707401fed602f45139af683cdde7"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1664841600"
+		"tested_build_id" "9218373"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "SD Gundam Battle Alliance"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,zh-tw,zh-cn,ko"
+		"library_hero" "en"
+		"library_logo" "en,ja,zh-tw,zh-cn,ko"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"japanese" "logo_japanese.png"
+				"tchinese" "logo_tchinese.png"
+				"schinese" "logo_schinese.png"
+				"koreana" "logo_koreana.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"japanese" "logo_japanese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"koreana" "logo_koreana_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1664403544"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ARTDINK"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bandai Namco Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Bandai Namco Entertainment"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1661378208"
+	"metacritic_score" "71"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/sd-gundam-battle-alliance\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "824550"
+	"store_tags"
+	{
+		"0" "4821"
+		"1" "4231"
+		"2" "5752"
+		"3" "1646"
+		"4" "6730"
+		"5" "4085"
+		"6" "122"
+		"7" "3854"
+		"8" "1697"
+		"9" "3843"
+		"10" "4598"
+		"11" "19"
+		"12" "3859"
+		"13" "3942"
+		"14" "872"
+		"15" "4182"
+		"16" "1755"
+		"17" "1685"
+		"18" "4158"
+		"19" "3993"
+	}
+	"review_score" "5"
+	"review_percentage" "62"
+}
+"extended"
+{
+	"developer" "ARTDINK"
+	"publisher" "Bandai Namco Entertainment"
+	"homepage" "https://gba.ggame.jp/"
+	"listofdlc" "1938440,1938441,1938442,1938443,1938444,1938445,1938446,1938450,1938451,1938452,1938453,1938454,1938456,2231720,2291030"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "SDGundamBA"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SDGundamBA.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2763187079"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,compat,compat-patch1,compat-patch2,compat-patch3,devbuilds,devbuilds-patch1,devbuilds-patch2,devbuilds-patch3,local,press,qadebug,qarelease,release,release-patch1,release-patch2,release-patch3,test,test-patch1,test-patch2,test-patch3"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "7"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,thai,japanese,brazilian,latam"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"824551"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3110662896725176459"
+				"size" "26748626432"
+				"download" "26398963648"
+			}
+			"local"
+			{
+				"gid" "7638981115335256148"
+				"size" "33595716648"
+				"download" "32932444512"
+			}
+		}
+	}
+	"1938455"
+	{
+		"dlcappid" "1938455"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6404833567544011845"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11194421"
+			"timeupdated" "1683684000"
+		}
+		"local"
+		{
+			"buildid" "5088180"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1590647321"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "BANDAI NAMCO Entertainment/SD GUNDAM BATTLE ALLIANCE/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27504006"
+"_sha" "fe70ec3bd1e547a4b5eed3b8786bec16fbac6bd8"
+"_size" "8441"
