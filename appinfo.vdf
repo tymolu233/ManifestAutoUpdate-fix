@@ -1,0 +1,294 @@
+"appid" "1198400"
+"common"
+{
+	"name" "节奏快打/Rhythm Fighter"
+	"type" "Game"
+	"logo" "e80be4127dbc5964b1ed982052d6bd7f47c2e571"
+	"logo_small" "e80be4127dbc5964b1ed982052d6bd7f47c2e571_thumb"
+	"icon" "f395b45a7328930ec11124f98a1af68238303a64"
+	"clienticon" "836ee024ab8ac32c6c82c223578bb571a1a35194"
+	"clienttga" "7f7cea4277a5db326b6253b5b9bd20b35190b048"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"english" "Rhythm Fighter"
+		"schinese" "节奏快打"
+		"sc_schinese" "节奏快打"
+	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"japanese" "1"
+	}
+	"releasestatesteamchina" "released"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "52.54967393772371"
+			"height_pct" "54.781926406926395"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "52.54967393772371"
+				"height_pct" "54.781926406926395"
+			}
+		}
+	}
+	"store_asset_mtime" "1620290833"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "echo games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Coconut Island Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Coconut Island Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1590634706"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1198400"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "492"
+		"2" "1752"
+		"3" "21"
+		"4" "1621"
+		"5" "4026"
+		"6" "4711"
+		"7" "1716"
+		"8" "3959"
+		"9" "4182"
+		"10" "597"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "echo games"
+	"publisher" "Coconut Island Games"
+}
+"config"
+{
+	"installdir" "Rhythm Fighter"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "rhythm_fighter.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "rhythm_fighter.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "test"
+			}
+		}
+		"3"
+		{
+			"executable" "rhythm_fighter.app/Contents/MacOS/rhythm_fighter"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "test"
+			}
+		}
+		"4"
+		{
+			"executable" "rhythm_fighter.app/Contents/MacOS/rhythm_fighter"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese,japanese"
+	"1198401"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2821081492456407817"
+				"size" "920919773"
+				"download" "197602880"
+			}
+		}
+	}
+	"1198402"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "669306983435417361"
+				"size" "1230997773"
+				"download" "222969408"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5426463"
+			"timeupdated" "1597896271"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10240000000"
+	"maxnumfiles" "2"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "EchoGames/Rhythm Fighter/rf_steam"
+			"pattern" "played.dat"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "EchoGames/Rhythm Fighter/rf_steam"
+					"replace" "com.kiss.echogames.rf.steam/rf_steam"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26997904"
+"_sha" "21c04223246b9dfa6fc2e54cd05dd4793e1cb4bd"
+"_size" "4897"
