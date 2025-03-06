@@ -1,0 +1,339 @@
+"appid" "1116880"
+"common"
+{
+	"name" "伊格利亚战记"
+	"type" "Game"
+	"clienttga" "8e6a0fb272867cdda86cb85fb35a5850a7a6d5e1"
+	"clienticns" "bdee37e817c237f63a6df7f924bb94105d6292d8"
+	"linuxclienticon" "bdee37e817c237f63a6df7f924bb94105d6292d8"
+	"clienticon" "f8edb921112953ab648bdaa54d10453f4eaa07b7"
+	"icon" "4ab2b21020dc1b354ccb8ee7e78ef9af4fd58dd7"
+	"logo" "ff7737246385e2844e5e12bc3869e347cd2b6e20"
+	"logo_small" "ff7737246385e2844e5e12bc3869e347cd2b6e20_thumb"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"english" "The Heroic Legend of Eagarlnia"
+		"schinese" "伊格利亚战记"
+		"tchinese" "伊格利亞戰記"
+		"polish" "The Heroic Legend of Eagarlnia"
+		"sc_schinese" "伊格利亚战记"
+	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"releasestatesteamchina" "prerelease"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1658448000"
+		"tested_build_id" "8619877"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "伊格利亚战记/The Heroic Legend Of  Eagarlnia"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "50"
+			"height_pct" "73.05200664925196"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "50"
+				"height_pct" "73.05200664925196"
+			}
+		}
+	}
+	"store_asset_mtime" "1657174699"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "HongShou Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Pixmain"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1649835240"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1116880"
+	"store_tags"
+	{
+		"0" "4364"
+		"1" "1741"
+		"2" "14139"
+		"3" "9"
+		"4" "4085"
+		"5" "3871"
+		"6" "4598"
+		"7" "4325"
+		"8" "1684"
+		"9" "3964"
+		"10" "1708"
+		"11" "1678"
+		"12" "4182"
+		"13" "4004"
+		"14" "492"
+		"15" "8945"
+		"16" "1670"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "HongShou Studio"
+	"publisher" "Pixmain"
+	"listofdlc" "1880400"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "The Heroic Legend Of  Eagarlnia"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Eagarlnia.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese,tchinese"
+	"hasdepotsindlc" "1"
+	"1116881"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7401078927542842379"
+				"size" "4389993708"
+				"download" "695700480"
+			}
+		}
+	}
+	"1116882"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"1880400"
+	{
+		"dlcappid" "1880400"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6283883845558430566"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1883380"
+	{
+		"dlcappid" "1883380"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+		}
+	}
+	"workshopdepot" "1116880"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8619877"
+			"timeupdated" "1650903036"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "512"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "RedHand\\Eagarlnia\\Game"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26912688"
+"_sha" "e3e74eec0f74037c6a9abb090a19cffce42980e0"
+"_size" "6274"
