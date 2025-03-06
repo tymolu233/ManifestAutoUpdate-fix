@@ -1,0 +1,512 @@
+"appid" "572410"
+"common"
+{
+	"name" "Steel Division: Normandy 44"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "ffbca8b02e8bd484198fe787b820f667754b14ae"
+	"logo_small" "ffbca8b02e8bd484198fe787b820f667754b14ae_thumb"
+	"icon" "5a2fdf6942436e69b5f52649507244da0ce03c82"
+	"clienttga" "c262f56637e8d0dcd63b61eb3ca550d36793f4f3"
+	"clienticon" "744c0b67e061183b09ffe1cb12f5b1a7d82bee9b"
+	"clienticns" "744c0b67e061183b09ffe1cb12f5b1a7d82bee9b"
+	"linuxclienticon" "744c0b67e061183b09ffe1cb12f5b1a7d82bee9b"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "572410_eula_0"
+			"name" "Steel Division: Normandy 44 EULA"
+			"url" "https://store.steampowered.com//eula/572410_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1674864000"
+		"tested_build_id" "8198801"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Steel Division: Normandy 44"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "40"
+			"height_pct" "56"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "40"
+				"height_pct" "56"
+			}
+		}
+	}
+	"store_asset_mtime" "1668501819"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Eugen Systems"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paradox Interactive"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1495558725"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/steel-division-normandy-44\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "572410"
+	"store_tags"
+	{
+		"0" "4150"
+		"1" "9"
+		"2" "1676"
+		"3" "4168"
+		"4" "599"
+		"5" "19"
+		"6" "1708"
+		"7" "3859"
+		"8" "1678"
+		"9" "4684"
+		"10" "4182"
+		"11" "3813"
+		"12" "3987"
+		"13" "4175"
+		"14" "1695"
+		"15" "1685"
+		"16" "4161"
+		"17" "13276"
+		"18" "7107"
+		"19" "4711"
+	}
+	"review_score" "6"
+	"review_percentage" "74"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Eugen Systems"
+	"publisher" "Paradox Interactive"
+	"listofdlc" "617050,617051,617780,639060,639061,639062,639063,639064,639065,639066,639067,640180,640960,710800,718600,718630,780340"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Steel Division"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SteelDivision.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "572410"
+	"baselanguages" "english,german,french,spanish,schinese,russian"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"572411"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "958466052400940655"
+				"size" "40677369253"
+				"download" "26002017488"
+			}
+			"beta_replay_viewer"
+			{
+				"gid" "3207833738725085057"
+				"size" "28472611089"
+				"download" "20185712592"
+			}
+		}
+	}
+	"617780"
+	{
+		"dlcappid" "617780"
+	}
+	"572412"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2813808379779976427"
+				"size" "189668842"
+				"download" "81779264"
+			}
+		}
+	}
+	"639063"
+	{
+		"dlcappid" "639063"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "743001817461947429"
+				"size" "11877250"
+				"download" "11025968"
+			}
+			"beta_replay_viewer"
+			{
+				"gid" "5100237013846345592"
+				"size" "11877250"
+				"download" "11025968"
+			}
+		}
+	}
+	"639060"
+	{
+		"dlcappid" "639060"
+	}
+	"639061"
+	{
+		"dlcappid" "639061"
+	}
+	"639062"
+	{
+		"dlcappid" "639062"
+	}
+	"639064"
+	{
+		"dlcappid" "639064"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "112078593396788523"
+				"size" "4237122"
+				"download" "4268416"
+			}
+			"beta_replay_viewer"
+			{
+				"gid" "112078593396788523"
+				"size" "4237122"
+				"download" "4268416"
+			}
+		}
+	}
+	"639065"
+	{
+		"dlcappid" "639065"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "323705675795332649"
+				"size" "84017070"
+				"download" "80981872"
+			}
+			"beta_replay_viewer"
+			{
+				"gid" "8494175830690163559"
+				"size" "84017070"
+				"download" "80981872"
+			}
+		}
+	}
+	"639066"
+	{
+		"dlcappid" "639066"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3290323321575558983"
+				"size" "4625946"
+				"download" "4598704"
+			}
+			"beta_replay_viewer"
+			{
+				"gid" "8163613258383347869"
+				"size" "4625946"
+				"download" "4598704"
+			}
+		}
+	}
+	"639067"
+	{
+		"dlcappid" "639067"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3294916466977777347"
+				"size" "4019844"
+				"download" "4064336"
+			}
+			"beta_replay_viewer"
+			{
+				"gid" "5708248581013492733"
+				"size" "780207"
+				"download" "786592"
+			}
+		}
+	}
+	"640180"
+	{
+		"dlcappid" "640180"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3554741927164217534"
+				"size" "11834848"
+				"download" "11002496"
+			}
+			"beta_replay_viewer"
+			{
+				"gid" "4873156307568827330"
+				"size" "11834848"
+				"download" "11002496"
+			}
+		}
+	}
+	"640960"
+	{
+		"dlcappid" "640960"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "689894759408734362"
+				"size" "4304571"
+				"download" "3756352"
+			}
+			"beta_replay_viewer"
+			{
+				"gid" "1398048275646065668"
+				"size" "4304571"
+				"download" "3756352"
+			}
+		}
+	}
+	"710800"
+	{
+		"dlcappid" "710800"
+	}
+	"572413"
+	{
+		"sharedinstall" ""
+		"dlcappid" "780340"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8198801"
+			"timeupdated" "1644842357"
+		}
+		"beta_replay_viewer"
+		{
+			"buildid" "1839650"
+			"description" "Last version of the open beta"
+			"timeupdated" "1495530360"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "e20721e411469f7b9317959bbb32c317a259aef9"
+"_size" "8814"
