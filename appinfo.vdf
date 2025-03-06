@@ -1,0 +1,706 @@
+"appid" "812140"
+"common"
+{
+	"name" "Assassin\'s Creed Odyssey"
+	"type" "Game"
+	"icon" "4b6cf0715b30669411bf204bce7ed99a9c84671b"
+	"logo" "fb3d894fb2a929df5fb0417f92864398a64909c6"
+	"logo_small" "fb3d894fb2a929df5fb0417f92864398a64909c6_thumb"
+	"releasestate" "released"
+	"clienticon" "ae60ab2940ddb2f7e7e41c93eaf6f72a3dfcb0de"
+	"clienttga" "07919d01051b35e12eb43e86666684fe2232542f"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "812140_eula_0"
+			"name" "Assassin\'s Creed Odyssey EULA"
+			"url" "https://store.steampowered.com//eula/812140_eula_0"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"czech" "1"
+		"arabic" "1"
+		"brazilian" "1"
+	}
+	"exfgls" "1"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1692403200"
+		"tested_build_id" "10865607"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_GameOrLauncherDoesntExitCleanly"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"6"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"7"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+			"8"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Assassin\'s Creed® Odyssey"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"russian" "header_russian.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "45"
+			"height_pct" "32"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "45"
+				"height_pct" "32"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1732131110"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ubisoft Quebec"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Ubisoft Montreal"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Ubisoft Bucharest"
+		}
+		"3"
+		{
+			"type" "developer"
+			"name" "Ubisoft Singapore"
+		}
+		"4"
+		{
+			"type" "developer"
+			"name" "Ubisoft Montpellier"
+		}
+		"5"
+		{
+			"type" "developer"
+			"name" "Ubisoft Kiev"
+		}
+		"6"
+		{
+			"type" "developer"
+			"name" "Ubisoft Shanghai"
+		}
+		"7"
+		{
+			"type" "publisher"
+			"name" "Ubisoft"
+		}
+		"8"
+		{
+			"type" "franchise"
+			"name" "Assassin\'s Creed"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_29" "1"
+		"category_13" "1"
+		"category_35" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_61" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1538755200"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "812140"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "122"
+		"2" "4182"
+		"3" "3987"
+		"4" "19"
+		"5" "4376"
+		"6" "1697"
+		"7" "21"
+		"8" "16094"
+		"9" "1687"
+		"10" "6971"
+		"11" "1742"
+		"12" "7208"
+		"13" "4036"
+		"14" "6426"
+		"15" "3834"
+		"16" "4231"
+		"17" "3859"
+		"18" "4106"
+		"19" "4486"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "RU,BY"
+	"developer" "Ubisoft Quebec"
+	"publisher" "Ubisoft"
+	"homepage" "http://www.assassinscreed.com"
+	"listofdlc" "857150,857151,857152,857153,907610,907611,907613,907614,933010,933011,933012,937890,937891,937892,1109770,1113150,1254000,1254010"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Assassins Creed Odyssey"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ACOdyssey.exe"
+			"arguments" "-uplay_steam_mode"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1254010"
+			}
+		}
+		"1"
+		{
+			"executable" "ACOdyssey.exe"
+			"arguments" "-upc_steam_free_package_id 18058 -uplay_steam_mode"
+			"config"
+			{
+				"ownsdlc" "1254000"
+			}
+			"description_loc"
+			{
+				"english" "Free Weekend"
+			}
+			"description" "Free Weekend"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2259614323"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,czech,arabic,brazilian"
+	"hasdepotsindlc" "1"
+	"812141"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7369859942329036273"
+				"size" "82917682157"
+				"download" "60488424144"
+			}
+			"local"
+			{
+				"gid" "8184255769926820716"
+				"size" "49186893604"
+				"download" "41588151424"
+			}
+		}
+	}
+	"812142"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8328691686092249446"
+				"size" "2114521108"
+				"download" "1957556880"
+			}
+			"local"
+			{
+				"gid" "3439140245254824888"
+				"size" "2114521108"
+				"download" "1957553392"
+			}
+		}
+	}
+	"812143"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7207703417476497678"
+				"size" "2645513221"
+				"download" "2462703440"
+			}
+			"local"
+			{
+				"gid" "6310526275553722898"
+				"size" "2645513221"
+				"download" "2462707456"
+			}
+		}
+	}
+	"812144"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7568168263952342688"
+				"size" "2077605210"
+				"download" "1918841856"
+			}
+			"local"
+			{
+				"gid" "8330318489938904995"
+				"size" "2077605210"
+				"download" "1918849360"
+			}
+		}
+	}
+	"812145"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8450177789687634985"
+				"size" "2134672495"
+				"download" "1975810720"
+			}
+			"local"
+			{
+				"gid" "2341532083154967613"
+				"size" "2134672495"
+				"download" "1975815440"
+			}
+		}
+	}
+	"812146"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6975128233689020437"
+				"size" "1972414018"
+				"download" "1809208224"
+			}
+			"local"
+			{
+				"gid" "9027611655035838800"
+				"size" "1972414018"
+				"download" "1809194368"
+			}
+		}
+	}
+	"812147"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8756573802222983569"
+				"size" "2121980017"
+				"download" "1958131600"
+			}
+			"local"
+			{
+				"gid" "7757545252122340826"
+				"size" "2121980017"
+				"download" "1958135056"
+			}
+		}
+	}
+	"812148"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3408766981981870757"
+				"size" "2016870599"
+				"download" "1858715488"
+			}
+			"local"
+			{
+				"gid" "5242568491415015380"
+				"size" "2016870599"
+				"download" "1858722832"
+			}
+		}
+	}
+	"857154"
+	{
+		"dlcappid" "937891"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6682327947305864699"
+				"size" "2920944129"
+				"download" "2544201952"
+			}
+		}
+	}
+	"857155"
+	{
+		"dlcappid" "937891"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3258680875590795254"
+				"size" "1250558913"
+				"download" "1067526560"
+			}
+		}
+	}
+	"857156"
+	{
+		"dlcappid" "937891"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2300917583245418327"
+				"size" "1383384530"
+				"download" "1179359648"
+			}
+		}
+	}
+	"857157"
+	{
+		"dlcappid" "1109770"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5671725767919675728"
+				"size" "8657713344"
+				"download" "6776838688"
+			}
+		}
+	}
+	"857158"
+	{
+		"dlcappid" "937892"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2111558703979014825"
+				"size" "7468081204"
+				"download" "6219671984"
+			}
+		}
+	}
+	"857159"
+	{
+		"dlcappid" "937892"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4985956972222534239"
+				"size" "11439959959"
+				"download" "10036508256"
+			}
+		}
+	}
+	"1716751"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4788942746956806336"
+				"size" "239748504"
+				"download" "241609632"
+			}
+		}
+		"depotfromapp" "1716750"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17083392"
+			"timeupdated" "1738677622"
+		}
+		"local"
+		{
+			"buildid" "3129266"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1537203587"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27756976"
+"_sha" "378769d9021cc1944366dfa0adac453da6b420bb"
+"_size" "12172"
