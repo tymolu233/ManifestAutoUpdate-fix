@@ -1,0 +1,437 @@
+"appid" "1016730"
+"common"
+{
+	"name" "Deck of Ashes"
+	"type" "Game"
+	"clienttga" "9807b4689b33601eb3f7237158521afad6065da4"
+	"clienticon" "a850ca2ef656d3ceb93bdfa0f8c6d57903de970f"
+	"icon" "7cc3f34ce2e5d6084b0a90931ea83657f4a0c5a5"
+	"logo" "709f86a72a29f5c8f25ca894b10e815a2d13c9f9"
+	"logo_small" "709f86a72a29f5c8f25ca894b10e815a2d13c9f9_thumb"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"clienticns" "18ad761a0a35b185252c600d752740088c834675"
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1653696000"
+		"tested_build_id" "7064286"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Deck of Ashes"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "55.017548535120426"
+			"height_pct" "63.29240466293152"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "55.017548535120426"
+				"height_pct" "63.29240466293152"
+			}
+		}
+	}
+	"store_asset_mtime" "1695300043"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "AYGames"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ESDigital Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "ESDigital Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_18" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_13" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1591714860"
+	"metacritic_score" "66"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/deck-of-ashes\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1016730"
+	"store_tags"
+	{
+		"0" "791774"
+		"1" "122"
+		"2" "492"
+		"3" "32322"
+		"4" "1091588"
+		"5" "9"
+		"6" "21"
+		"7" "3959"
+		"8" "1666"
+		"9" "4182"
+		"10" "1677"
+		"11" "5125"
+		"12" "4711"
+		"13" "4325"
+		"14" "4604"
+		"15" "6815"
+		"16" "3871"
+		"17" "493"
+		"18" "4342"
+		"19" "1716"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"developer" "AYGames"
+	"publisher" "ESDigital Games"
+	"homepage" "https://deckofashes.com/"
+	"listofdlc" "1066120,1066121,1066122,1155280,1337470,1337490,1684600"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Deck of Ashes"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Deck of Ashes.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Deck of Ashes.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1016731"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3809747669785665250"
+				"size" "5688803841"
+				"download" "1185481792"
+			}
+		}
+	}
+	"1016732"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7307384587992867673"
+				"size" "5697254521"
+				"download" "1187381216"
+			}
+		}
+	}
+	"1066120"
+	{
+		"dlcappid" "1066120"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4645205971323546908"
+				"size" "72571297"
+				"download" "63922736"
+			}
+		}
+	}
+	"1066122"
+	{
+		"dlcappid" "1066122"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8394522477907312706"
+				"size" "504096372"
+				"download" "228054352"
+			}
+		}
+	}
+	"1066121"
+	{
+		"dlcappid" "1066121"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5863948573184485952"
+				"size" "597062579"
+				"download" "455689600"
+			}
+		}
+	}
+	"1337490"
+	{
+		"dlcappid" "1337490"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1644789737085765564"
+				"size" "21054669"
+				"download" "21012928"
+			}
+		}
+	}
+	"1337470"
+	{
+		"dlcappid" "1337470"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "220152035103203858"
+				"size" "157103343"
+				"download" "149339920"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7064286"
+			"timeupdated" "1649845989"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10485760"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "AYGames/Deck Of Ashes/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27032854"
+"_sha" "ff83bb0ca2e36a11b9e974b06c53eb5e2f97a0e2"
+"_size" "7204"
