@@ -1,0 +1,612 @@
+"appid" "1024650"
+"common"
+{
+	"name" "Port Royale 4"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "392a4f1a017681a306fbe8c92b8e810d52f789f5"
+	"logo_small" "392a4f1a017681a306fbe8c92b8e810d52f789f5_thumb"
+	"icon" "00b06a31bc96f6ca308d1abfa9e28c50309fee7f"
+	"clienttga" "51fe050afa7b2fc3d1528374b24aba7bbad893e3"
+	"clienticon" "9a09c5a85583c07795ded2a85f94391fe431a6ea"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1024650_eula_0"
+			"name" "Port Royale 4 EULA"
+			"url" "https://store.steampowered.com//eula/1024650_eula_0"
+			"version" "2"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1658275200"
+		"tested_build_id" "8641597"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Port Royale 4"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1725294857"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Gaming Minds"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kalypso Media"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Port Royale"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1601052751"
+	"metacritic_score" "68"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/port-royale-4\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1024650"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "599"
+		"2" "4202"
+		"3" "4695"
+		"4" "1681"
+		"5" "12472"
+		"6" "6910"
+		"7" "13577"
+		"8" "4328"
+		"9" "4994"
+		"10" "1695"
+		"11" "4325"
+		"12" "19"
+		"13" "3987"
+		"14" "4182"
+		"15" "21"
+		"16" "1676"
+		"17" "1643"
+		"18" "8945"
+		"19" "14139"
+	}
+	"review_score" "5"
+	"review_percentage" "58"
+}
+"extended"
+{
+	"developer" "Gaming Minds"
+	"publisher" "Kalypso Media"
+	"gamemanualurl" "https://store.steampowered.com/manual/1024650/"
+	"listofdlc" "1287820,1521130"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Port Royale 4"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PortRoyale4.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1024651"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7853607281751096555"
+				"size" "47168604"
+				"download" "14523376"
+			}
+		}
+	}
+	"1024652"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8412581203129056359"
+				"size" "3715227832"
+				"download" "3681165504"
+			}
+		}
+	}
+	"1024653"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7675690673179946205"
+				"size" "3774649456"
+				"download" "3506471280"
+			}
+		}
+	}
+	"1024654"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2297964501976256374"
+				"size" "323264"
+				"download" "324256"
+			}
+		}
+	}
+	"1024655"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6002676371119939173"
+				"size" "297104"
+				"download" "298000"
+			}
+		}
+	}
+	"1024656"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2121032588495231637"
+				"size" "320448"
+				"download" "320960"
+			}
+		}
+	}
+	"1024657"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7910157196655697627"
+				"size" "311744"
+				"download" "312304"
+			}
+		}
+	}
+	"1024658"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"language" "italian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1577543091801818672"
+				"size" "310000"
+				"download" "310448"
+			}
+		}
+	}
+	"1024659"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"language" "brazilian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2342951022735192265"
+				"size" "302496"
+				"download" "303296"
+			}
+		}
+	}
+	"1377760"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6703056881372535190"
+				"size" "243360"
+				"download" "244560"
+			}
+		}
+	}
+	"1377761"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1052078470576576576"
+				"size" "321552"
+				"download" "322512"
+			}
+		}
+	}
+	"1377762"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2565392264412507680"
+				"size" "267248"
+				"download" "268832"
+			}
+		}
+	}
+	"1377763"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5805275738622458566"
+				"size" "238688"
+				"download" "239824"
+			}
+		}
+	}
+	"1377764"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6808083025440948584"
+				"size" "255008"
+				"download" "256432"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8641597"
+			"timeupdated" "1651751921"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "8588886016"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "27627410"
+"_sha" "07b04c5d0e22e2b1edeef392613cc0b5a9b7f353"
+"_size" "9602"
