@@ -1,0 +1,515 @@
+"appid" "1101790"
+"common"
+{
+	"name" "War Mongrels"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"clienticon" "086f076d9196486674da76ce48fa4e6c6c68b9a3"
+	"clienttga" "6a134ab3d97ff6953feb5f996a151c4c2a6854e1"
+	"icon" "60e274f7024d299a1df2a0f5922de4cc146c5022"
+	"logo" "823a43b734ccfc2e6d8a89117314dd1bf4c750eb"
+	"logo_small" "823a43b734ccfc2e6d8a89117314dd1bf4c750eb_thumb"
+	"name_localized"
+	{
+		"schinese" "被遗忘的我们 / War Mongrels"
+		"tchinese" "被遺忘的我們 / War Mongrels"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1663286400"
+		"tested_build_id" "9458344"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "39.41860465116279"
+			"height_pct" "78.11683685585372"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "39.41860465116279"
+				"height_pct" "78.11683685585372"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1713951559"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Destructive Creations"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Destructive Creations"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "DMM Games - Asia"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Destructive Creations"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_22" "1"
+		"category_2" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1634659140"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1101790"
+	"store_tags"
+	{
+		"0" "3813"
+		"1" "1687"
+		"2" "9"
+		"3" "4508"
+		"4" "19"
+		"5" "5851"
+		"6" "4166"
+		"7" "4150"
+		"8" "1708"
+		"9" "1742"
+		"10" "1685"
+		"11" "3843"
+		"12" "3987"
+		"13" "4175"
+		"14" "4182"
+		"15" "4342"
+		"16" "4791"
+		"17" "1723"
+		"18" "4758"
+		"19" "4106"
+	}
+	"review_score" "6"
+	"review_percentage" "74"
+}
+"extended"
+{
+	"developer" "Destructive Creations"
+	"publisher" "Destructive Creations"
+	"homepage" "https://www.warmongrels.com/"
+}
+"config"
+{
+	"installdir" "War Mongrels"
+	"steamcontrollertemplateindex" "4"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WM\\Binaries\\Win64\\WM-Win64-Shipping.exe"
+			"arguments" " -DCPlatform=SteamFull -DCGatherPlayerProfile -DCGatherSavegame"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "WM\\Binaries\\Win64\\WM-Win64-Test.exe"
+			"arguments" "-EnableCrashReports -DCPlatform=SteamFull -gpucrashdebugging -DCGatherPlayerProfile -DCGatherSavegame -fullmemorydump"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "internaltesting"
+			}
+			"description_loc"
+			{
+				"english" "Test Binary"
+			}
+			"description" "Test Binary"
+		}
+		"2"
+		{
+			"executable" "WM\\Binaries\\Win64\\WM-Win64-Test.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "amdprofiling"
+			}
+			"description_loc"
+			{
+				"english" "Test Binary"
+			}
+			"description" "Test Binary"
+		}
+		"3"
+		{
+			"executable" "WM\\Binaries\\Win64\\WM-Win64-Test.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "localizationtesting"
+			}
+			"description_loc"
+			{
+				"english" "Test Binary"
+			}
+			"description" "Test Binary"
+		}
+		"4"
+		{
+			"executable" "WM\\Binaries\\Win64\\WM-Win64-Test.exe"
+			"arguments" "-EnableCrashReports -DCPlatform=SteamFull -gpucrashdebugging -DCGatherPlayerProfile -DCGatherSavegame"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "internaltrunk"
+			}
+			"description_loc"
+			{
+				"english" "Test Binary"
+			}
+			"description" "Test Binary"
+		}
+		"5"
+		{
+			"executable" "War Mongrels.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"6"
+		{
+			"executable" "WM\\Binaries\\Win64\\WM-Win64-Test.exe"
+			"arguments" "-EnableCrashReports -DCPlatform=SteamFull -gpucrashdebugging -DCGatherPlayerProfile -DCGatherSavegame"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "defautl_test"
+			}
+			"description_loc"
+			{
+				"english" "Test Binary"
+			}
+			"description" "Test Binary"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1101791"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7312113635474757474"
+				"size" "15104193916"
+				"download" "14658753696"
+			}
+			"previous_game_version"
+			{
+				"gid" "2264941518745960219"
+				"size" "15104212860"
+				"download" "14658664096"
+			}
+		}
+	}
+	"1101792"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1504421851015288866"
+				"size" "5316395212"
+				"download" "4612681488"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12272515"
+			"timeupdated" "1695629697"
+		}
+		"previous_game_version"
+		{
+			"buildid" "11964533"
+			"description" "previous game version"
+			"timeupdated" "1692695646"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "WM/Savegames"
+			"pattern" "*.wmsav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "com.destructivecreations.warmongrels/WM/Savegames"
+			"pattern" "*.wmsav"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26913953"
+"_sha" "2c0e7b3a3134fa9ece76edc24bc0c5cb6e9103bf"
+"_size" "9223"
