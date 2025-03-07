@@ -1,0 +1,444 @@
+"appid" "1515210"
+"common"
+{
+	"name" "The Past Within"
+	"type" "Game"
+	"logo" "f40323f2f13b5787ad53a8657b9c5df37ddb00fb"
+	"logo_small" "f40323f2f13b5787ad53a8657b9c5df37ddb00fb_thumb"
+	"icon" "58a79b1c6fd17926bc2b03668c376ca07ae20858"
+	"clienttga" "36ed50dfc865a4acac8b74b717e2e53150f0805e"
+	"clienticon" "09273420618b649dcca4d894ceaa6d7f7172ead9"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64"
+	"releasestate" "released"
+	"clienticns" "13d64ebe6e159410f2043d35cbde8f294c0459dd"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1669334400"
+		"tested_build_id" "9949399"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1738325622"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Rusty Lake"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Rusty Lake"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Rusty Lake"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_9" "1"
+		"category_27" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1667390494"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1515210"
+	"store_tags"
+	{
+		"0" "1685"
+		"1" "1664"
+		"2" "3843"
+		"3" "3859"
+		"4" "769306"
+		"5" "1667"
+		"6" "5716"
+		"7" "1698"
+		"8" "21"
+		"9" "492"
+		"10" "1721"
+		"11" "3841"
+		"12" "1742"
+		"13" "7368"
+		"14" "4166"
+		"15" "17770"
+		"16" "4064"
+		"17" "3871"
+		"18" "1710"
+		"19" "4191"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Rusty Lake"
+	"publisher" "Rusty Lake"
+	"homepage" "http://www.rustylake.com"
+}
+"config"
+{
+	"installdir" "The Past Within"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "The Past Within.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "ThePastWithin.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1515211"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4205609305160462031"
+				"size" "556846317"
+				"download" "283351456"
+			}
+			"external-qa"
+			{
+				"gid" "3338462000364430158"
+				"size" "545520320"
+				"download" "279164352"
+			}
+			"press"
+			{
+				"gid" "3338462000364430158"
+				"size" "545520320"
+				"download" "279164352"
+			}
+		}
+	}
+	"1515212"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5868079189110496057"
+				"size" "355373425"
+				"download" "292845728"
+			}
+			"external-qa"
+			{
+				"gid" "3512936755637385890"
+				"size" "350663200"
+				"download" "288383872"
+			}
+			"press"
+			{
+				"gid" "3512936755637385890"
+				"size" "350663200"
+				"download" "288383872"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14254743"
+			"timeupdated" "1714753044"
+		}
+		"external-qa"
+		{
+			"buildid" "10828363"
+			"description" "External QA"
+			"timeupdated" "1679484598"
+		}
+		"press"
+		{
+			"buildid" "10828363"
+			"description" "press builds"
+			"timeupdated" "1679484606"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "15"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "RustyLake/The Past Within/Serialization/SaveFiles"
+			"pattern" "*.json"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "RustyLake/The Past Within/Serialization/SaveFiles"
+					"replace" "com.RustyLake.ThePastWithin/Serialization/SaveFiles"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27436013"
+"_sha" "00f0580698cbfd0887f39045978e147be87931d6"
+"_size" "7375"
