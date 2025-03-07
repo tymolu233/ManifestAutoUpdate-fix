@@ -1,0 +1,261 @@
+"appid" "798290"
+"common"
+{
+	"name" "MXGP PRO"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"brazilian" "1"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"clienticon" "457ed39c71e6da8dc818ab1e6198bd073f2b597d"
+	"clienttga" "1cdd3d3b0ad640a0ae19dbdcda4f528d1f51795e"
+	"icon" "ca4113d92596221666001753542151c833c072a1"
+	"logo" "f9cbaba98c748f6913d7767478162c4b99297d5d"
+	"logo_small" "f9cbaba98c748f6913d7767478162c4b99297d5d_thumb"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "798290_eula_0"
+			"name" "MXGP PRO EULA"
+			"url" "https://store.steampowered.com//eula/798290_eula_0"
+			"version" "6"
+		}
+	}
+	"metacritic_name" "MXGP PRO"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "52.683780630105005"
+			"height_pct" "96.5803847067205"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "52.683780630105005"
+				"height_pct" "96.5803847067205"
+			}
+		}
+	}
+	"store_asset_mtime" "1670239530"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Milestone S.r.l."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Milestone S.r.l."
+		}
+	}
+	"primary_genre" "9"
+	"genres"
+	{
+		"0" "9"
+		"1" "28"
+		"2" "18"
+	}
+	"category"
+	{
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_2" "1"
+		"category_36" "1"
+		"category_25" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1530255666"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "798290"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "699"
+		"2" "701"
+		"3" "198913"
+		"4" "15868"
+		"5" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Milestone S.r.l."
+	"publisher" "Milestone S.r.l."
+	"homepage" "http://mxgpvideogame.com/"
+}
+"config"
+{
+	"installdir" "MXGP PRO"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "mxgp4.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"798291"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7898567151708193689"
+				"size" "14009707503"
+				"download" "13167862640"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,spanish,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3217063"
+			"timeupdated" "1540309913"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "20971520"
+	"maxnumfiles" "250"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "MXGP4/Saved/SaveGames/"
+			"pattern" "*.*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "40b4e824ca265b7f992c3e42a94606f6d6bab43a"
+"_size" "4172"
