@@ -1,0 +1,591 @@
+"appid" "928600"
+"common"
+{
+	"name" "F1 2019"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"logo" "d0f552eb2863c6b5dc91b22260b6d58ca8ac654a"
+	"logo_small" "d0f552eb2863c6b5dc91b22260b6d58ca8ac654a_thumb"
+	"icon" "bd9027dc12d42ffa937e58c6b5a04e8890c00353"
+	"clienticon" "9c9447bb65dc8e04d3b2ec9c662c096fd34bd747"
+	"clienttga" "7d64ad5de14baa8049a7ae26fa24d116917ec36d"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "928600_eula_0"
+			"name" "F1 2019 EULA"
+			"url" "https://store.steampowered.com//eula/928600_eula_0"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1683849600"
+		"tested_build_id" "4715104"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-2"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "F1 2019"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "45.218883048505226"
+			"height_pct" "91.90783614707345"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "45.218883048505226"
+				"height_pct" "91.90783614707345"
+			}
+		}
+	}
+	"store_asset_mtime" "1580825413"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Codemasters"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Codemasters"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Electronic Arts"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Codemasters"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Formula One"
+		}
+	}
+	"primary_genre" "9"
+	"genres"
+	{
+		"0" "9"
+		"1" "28"
+		"2" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_28" "1"
+		"category_30" "1"
+		"category_35" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_43" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1561647720"
+	"metacritic_score" "87"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/f1-2019\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "928600"
+	"store_tags"
+	{
+		"0" "699"
+		"1" "599"
+		"2" "701"
+		"3" "1100687"
+		"4" "3859"
+		"5" "1644"
+		"6" "4175"
+		"7" "4182"
+		"8" "1773"
+		"9" "21978"
+		"10" "7481"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+	"mastersubs_granting_app" "1289670"
+}
+"extended"
+{
+	"onquitdemomsg" "https://steamstore-a.akamaihd.net/message/4672763041463899241/"
+	"developer" "Codemasters"
+	"publisher" "Codemasters"
+	"homepage" "http://www.formula1game.com/"
+	"gamemanualurl" "https://store.steampowered.com/manual/928600/"
+	"listofdlc" "975320,1071370,1071371,1071372,1071373,1071374,1071375,1071376,1071377,1071378,1071379,1071390,1071391,1071392,1071393,1071394,1071395,1071396,1143970,1143971,1143972,1143973,1143974,1143975,1143976,1143977,1143978,1143979,1143980,1143981,1143982,1143983,1143990,1143991,1143992,1143993,1143994,1143995,1162710,1162711,1162712,1162713,1162714,1162715,1162716,1162720,1162721,1162722,1162723,1162780,1162781,1162782,1162783,1162784,1162785,1162790,1162791,1162792,1162793,1162794,1162795,1162796,1162800,1162801"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "F1 2019"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "F1_2019_dx12.exe"
+			"description" "F1 2019 (DirectX 12 - Win 10 only)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "F1_2019.exe"
+			"description" "F1 2019 (DirectX 11)"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2181668939"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,russian,japanese,polish,brazilian"
+	"workshopdepot" "928600"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"928601"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6908057066831779621"
+				"size" "15005917911"
+				"download" "10735931712"
+			}
+		}
+	}
+	"928602"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4540423263772182898"
+				"size" "25247855272"
+				"download" "15061575104"
+			}
+		}
+	}
+	"928603"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2626921862099585807"
+				"size" "781121288"
+				"download" "779520912"
+			}
+		}
+	}
+	"928604"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1445831091949952308"
+				"size" "706549269"
+				"download" "703947056"
+			}
+		}
+	}
+	"928605"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2797341023311374285"
+				"size" "818615507"
+				"download" "814872400"
+			}
+		}
+	}
+	"928606"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3719387522514261592"
+				"size" "664405164"
+				"download" "661011376"
+			}
+		}
+	}
+	"928607"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4460340919832173258"
+				"size" "781098288"
+				"download" "775821632"
+			}
+		}
+	}
+	"928608"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6564113178180671573"
+				"size" "650990856"
+				"download" "647552528"
+			}
+		}
+	}
+	"928609"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1475912040898050799"
+				"size" "707292628"
+				"download" "704277216"
+			}
+		}
+	}
+	"944390"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4415538419800394771"
+				"size" "648502107"
+				"download" "645968464"
+			}
+		}
+	}
+	"944391"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7739748335451342994"
+				"size" "653425499"
+				"download" "650957504"
+			}
+		}
+	}
+	"944393"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6141662716319689793"
+				"size" "856562688"
+				"download" "477292320"
+			}
+		}
+	}
+	"944394"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4814664877101742779"
+				"size" "333380150"
+				"download" "93440336"
+			}
+		}
+	}
+	"944395"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4606131466911472603"
+				"size" "73970176"
+				"download" "24088352"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4715104"
+			"timeupdated" "1583316087"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "367001600"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "26998583"
+"_sha" "40840470eda243bde82e93446f56682d49b929c4"
+"_size" "10121"
