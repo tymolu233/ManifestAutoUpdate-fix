@@ -1,0 +1,650 @@
+"appid" "718850"
+"common"
+{
+	"name" "Age of Wonders: Planetfall"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "1b1dfd1fdabe0869379e8f1971598dd8da55f114"
+	"logo_small" "1b1dfd1fdabe0869379e8f1971598dd8da55f114_thumb"
+	"icon" "f4e215ad9899c1c61b5923b1f8d7cbb597443f30"
+	"clienticon" "a930978e58277d96c2301c88fc40854512b24b48"
+	"clienttga" "fcaabd25529564761ac7122c9df550ccfd803860"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+	}
+	"osextended" "macos64,macosnotarized"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "718850_eula_0"
+			"name" "Age of Wonders: Planetfall EULA"
+			"url" "https://store.steampowered.com//eula/718850_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1663891200"
+		"tested_build_id" "6792988"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Age of Wonders: Planetfall"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "78.6816533029442"
+			"height_pct" "86.88281199020696"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "78.6816533029442"
+				"height_pct" "86.88281199020696"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1615972824"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Triumph Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paradox Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Age of Wonders"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_49" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_44" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1565107140"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/age-of-wonders-planetfall\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "718850"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1741"
+		"2" "1670"
+		"3" "3942"
+		"4" "4747"
+		"5" "1677"
+		"6" "4695"
+		"7" "12472"
+		"8" "5160"
+		"9" "1708"
+		"10" "4295"
+		"11" "4328"
+		"12" "1755"
+		"13" "1717"
+		"14" "4182"
+		"15" "1775"
+		"16" "3859"
+		"17" "1759"
+		"18" "1673"
+		"19" "1678"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Triumph Studios"
+	"publisher" "Paradox Interactive"
+	"homepage" "https://www.aow-planetfall.com/"
+	"listofdlc" "1078810,1078840,1078850,1078851,1078852,1124910,1132200,1137800,1137801,1137802"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Age of Wonders Planetfall"
+	"launch"
+	{
+		"6"
+		{
+			"executable" "dowser.exe"
+			"description" "Launch Age of Wonders: Planetfall"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"7"
+		{
+			"executable" "dowser"
+			"description" "Launch Age of Wonders: Planetfall"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"8"
+		{
+			"executable" "AowPF.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "steam_deck"
+			}
+			"description_loc"
+			{
+				"english" "Steam Deck"
+			}
+			"description" "Steam Deck"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"1195114657"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" ""
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2096396745"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "718850"
+	"hasdepotsindlc" "0"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"718851"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3561846060667316042"
+				"size" "16328140703"
+				"download" "5603395408"
+			}
+			"open_beta"
+			{
+				"gid" "3561846060667316042"
+				"size" "16328140703"
+				"download" "5603395408"
+			}
+		}
+	}
+	"718852"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "51802915057273448"
+				"size" "269907098"
+				"download" "130045168"
+			}
+			"open_beta"
+			{
+				"gid" "1407065036710731871"
+				"size" "269907098"
+				"download" "130049184"
+			}
+		}
+	}
+	"1078851"
+	{
+		"dlcappid" "1078851"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1877362118950640460"
+				"size" "356999117"
+				"download" "356447760"
+			}
+			"open_beta"
+			{
+				"gid" "1877362118950640460"
+				"size" "356999117"
+				"download" "356447760"
+			}
+		}
+	}
+	"1078850"
+	{
+		"dlcappid" "1078850"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "670349158200634662"
+				"size" "31605187"
+				"download" "29624880"
+			}
+			"open_beta"
+			{
+				"gid" "670349158200634662"
+				"size" "31605187"
+				"download" "29624880"
+			}
+		}
+	}
+	"1078852"
+	{
+		"dlcappid" "1078852"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3470553170978482425"
+				"size" "171850877"
+				"download" "151309056"
+			}
+			"open_beta"
+			{
+				"gid" "3470553170978482425"
+				"size" "171850877"
+				"download" "151309056"
+			}
+		}
+	}
+	"1078810"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"dlcappid" "1078810"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8432764947309591366"
+				"size" "229131"
+				"download" "231408"
+			}
+			"open_beta"
+			{
+				"gid" "8432764947309591366"
+				"size" "229131"
+				"download" "231408"
+			}
+		}
+	}
+	"1078840"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"dlcappid" "1078840"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5116800992846048191"
+				"size" "229508"
+				"download" "231792"
+			}
+			"open_beta"
+			{
+				"gid" "5116800992846048191"
+				"size" "229508"
+				"download" "231792"
+			}
+		}
+	}
+	"1137800"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"dlcappid" "1137800"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6385174098949226545"
+				"size" "313593"
+				"download" "161328"
+			}
+			"open_beta"
+			{
+				"gid" "6385174098949226545"
+				"size" "313593"
+				"download" "161328"
+			}
+		}
+	}
+	"1137801"
+	{
+		"dlcappid" "1137801"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8463722878323817861"
+				"size" "203180"
+				"download" "102416"
+			}
+			"open_beta"
+			{
+				"gid" "8463722878323817861"
+				"size" "203180"
+				"download" "102416"
+			}
+		}
+	}
+	"718853"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "892696496382364558"
+				"size" "261639757"
+				"download" "226854544"
+			}
+			"open_beta"
+			{
+				"gid" "5335607998222779550"
+				"size" "294826761"
+				"download" "233340128"
+			}
+		}
+	}
+	"1137802"
+	{
+		"dlcappid" "1137802"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6297970458108346859"
+				"size" "316494"
+				"download" "157072"
+			}
+			"open_beta"
+			{
+				"gid" "6297970458108346859"
+				"size" "316494"
+				"download" "157072"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6792988"
+			"timeupdated" "1622707038"
+		}
+		"open_beta"
+		{
+			"buildid" "6677058"
+			"description" "Test beta for next update"
+			"timeupdated" "1620726595"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "27772756"
+"_sha" "2ec5b6dba405b9a3c91e5aa81c96625e0eebaffd"
+"_size" "10947"
