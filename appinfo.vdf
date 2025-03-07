@@ -1,0 +1,346 @@
+"appid" "1416050"
+"common"
+{
+	"name" "Shovel Knight Dig"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "8430c7c37b0d5035fa5756790a7176b193ba88b2"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"dutch" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+	}
+	"clienttga" "fe49b5649a0d675ba227b92725caff622697e4bf"
+	"clienticon" "2af20c83b0c0adb7fdeb7c58c3175f795e7ef6a1"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1664236800"
+		"tested_build_id" "9577471"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "98.81740775780509"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "98.81740775780509"
+			}
+		}
+	}
+	"store_asset_mtime" "1663979176"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Nitrome"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Yacht Club Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Yacht Club Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Shovel Knight"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1663948827"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1416050"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "4106"
+		"2" "3871"
+		"3" "1716"
+		"4" "4726"
+		"5" "19"
+		"6" "4136"
+		"7" "7250"
+		"8" "1742"
+		"9" "4195"
+		"10" "3964"
+		"11" "4305"
+		"12" "5350"
+		"13" "21"
+		"14" "1684"
+		"15" "3916"
+		"16" "4004"
+		"17" "4182"
+		"18" "3993"
+		"19" "492"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"developer" "Nitrome"
+	"publisher" "Yacht Club Games"
+	"homepage" "https://www.yachtclubgames.com/games/shovel-knight-dig"
+}
+"config"
+{
+	"installdir" "Shovel Knight Dig"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "skDig64.exe"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,dutch,turkish,arabic,brazilian"
+	"1416052"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1620590406626464340"
+				"size" "455504543"
+				"download" "237235088"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10916408"
+			"timeupdated" "1680899794"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "20000000"
+	"maxnumfiles" "3"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Yacht Club Games/Shovel Knight Dig/DefaultUser"
+			"pattern" "skdig.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26915699"
+"_sha" "0919c51a6ad466c955115f0a71d5efcb366f726b"
+"_size" "5780"
