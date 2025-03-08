@@ -1,0 +1,2028 @@
+"appid" "241930"
+"common"
+{
+	"name" "Middle-earth™: Shadow of Mordor™"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"logo" "00631b918ee8799ff48b3d91d9eb0d3278aafa83"
+	"logo_small" "00631b918ee8799ff48b3d91d9eb0d3278aafa83_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"clienticon" "819fa2304595c994174a29420dc0783d7e9810fd"
+	"clienttga" "51341c9e4e65be91817d43412753e28ad948a8da"
+	"icon" "161afab3c9f725f593635723cc64a7fbeb324ead"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "241930_eula_0"
+			"name" "Middle-earth: Shadow of Mordor EULA"
+			"url" "http://store.steampowered.com//eula/241930_eula_0"
+		}
+	}
+	"clienticns" "07d28745e682d678dacc41fc757f1b004fc715a0"
+	"linuxclienticon" "4fe841b230b8babab4e5b1b49457f3ab5446eca9"
+	"osarch" ""
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "7348332"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Middle-earth: Shadow of Mordor"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"brazilian" "capsule_231x87_brazilian.jpg"
+		"spanish" "capsule_231x87_spanish.jpg"
+		"french" "capsule_231x87_french.jpg"
+		"german" "capsule_231x87_german.jpg"
+		"italian" "capsule_231x87_italian.jpg"
+		"polish" "capsule_231x87_polish.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"brazilian" "header_brazilian.jpg"
+		"spanish" "header_spanish.jpg"
+		"french" "header_french.jpg"
+		"german" "header_german.jpg"
+		"italian" "header_italian.jpg"
+		"polish" "header_polish.jpg"
+		"russian" "header_russian.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "74"
+			"height_pct" "36"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "74"
+				"height_pct" "36"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1467047182"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Monolith Productions"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Warner Bros. Interactive Entertainment"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Warner Bros. Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "WB Games"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1412096400"
+	"metacritic_score" "84"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/middle-earth-shadow-of-mordor\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "241930"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "19"
+		"2" "1684"
+		"3" "21"
+		"4" "1697"
+		"5" "1687"
+		"6" "4182"
+		"7" "122"
+		"8" "4231"
+		"9" "4376"
+		"10" "1646"
+		"11" "4345"
+		"12" "4036"
+		"13" "1742"
+		"14" "4166"
+		"15" "4604"
+		"16" "4057"
+		"17" "3854"
+		"18" "3796"
+		"19" "3810"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"checkpkgstate" "1"
+	"developer" "Monolith Productions"
+	"gamedir" "ValveTestApp241930"
+	"homepage" "http://www.shadowofmordor.com"
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateComingSoonNoPreload"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Warner Bros. Interactive Entertainment"
+	"gamemanualurl" "https://store.steampowered.com/manual/241930/"
+	"listofdlc" "311670,313370,313371,313372,313373,313374,313375,313380,313381,318390,318400,318401,318402,318410,318411,318412,318413,318414,318420,318550,319360,319361,322060"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "ShadowOfMordor"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "x64/ShadowOfMordor.exe"
+			"description" "Launch"
+			"workingdir" "x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "ShadowOfMordor.sh"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "Middle Earth Shadow of Mordor.app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollerconfigfileids" "485450955"
+	"steamcontrollertemplateindex" "1"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,spanish,russian,japanese,polish,brazilian"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"241933"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1038205350320663868"
+				"size" "37029754169"
+				"download" "35451106979112"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "1038205350320663868"
+				"size" "37029754169"
+				"download" "35451106979112"
+			}
+		}
+	}
+	"241931"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7071254921839907484"
+				"size" "45817288648"
+				"download" "45089516224"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "7071254921839907484"
+				"size" "45817288648"
+				"download" "45089516224"
+			}
+		}
+	}
+	"351960"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "351960"
+		"manifests"
+		{
+		}
+	}
+	"311670"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "311670"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1812801919891248732"
+				"size" "11831532372"
+				"download" "2297569843618"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "1812801919891248732"
+				"size" "11831532372"
+				"download" "2297569843618"
+			}
+		}
+	}
+	"313370"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "313370"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6785743772532095830"
+				"size" "228"
+				"download" "256"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "6785743772532095830"
+				"size" "228"
+				"download" "256"
+			}
+		}
+	}
+	"313371"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "313371"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2673701849941391340"
+				"size" "68"
+				"download" "160"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "2673701849941391340"
+				"size" "68"
+				"download" "160"
+			}
+		}
+	}
+	"313372"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "313372"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4150298883702055089"
+				"size" "224"
+				"download" "65539960"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "4150298883702055089"
+				"size" "224"
+				"download" "65539960"
+			}
+		}
+	}
+	"313373"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "313373"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2100538871572823223"
+				"size" "68"
+				"download" "160"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "2100538871572823223"
+				"size" "68"
+				"download" "160"
+			}
+		}
+	}
+	"313374"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "313374"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7782708720424048724"
+				"size" "68"
+				"download" "160"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "7782708720424048724"
+				"size" "68"
+				"download" "160"
+			}
+		}
+	}
+	"313375"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "313375"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3626747238116382439"
+				"size" "68"
+				"download" "160"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "3626747238116382439"
+				"size" "68"
+				"download" "160"
+			}
+		}
+	}
+	"313380"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "313380"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "324148619083483478"
+				"size" "68"
+				"download" "160"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "324148619083483478"
+				"size" "68"
+				"download" "160"
+			}
+		}
+	}
+	"313381"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "313381"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1897900014090252580"
+				"size" "68"
+				"download" "160"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "1897900014090252580"
+				"size" "68"
+				"download" "160"
+			}
+		}
+	}
+	"318400"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "318400"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7073419462418481756"
+				"size" "220"
+				"download" "256"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "7073419462418481756"
+				"size" "220"
+				"download" "256"
+			}
+		}
+	}
+	"318401"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "318401"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7582280970679003090"
+				"size" "224"
+				"download" "256"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "7582280970679003090"
+				"size" "224"
+				"download" "256"
+			}
+		}
+	}
+	"318402"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "318402"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1501748316290578442"
+				"size" "232"
+				"download" "256"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "1501748316290578442"
+				"size" "232"
+				"download" "256"
+			}
+		}
+	}
+	"318410"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "318410"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7721744647487988279"
+				"size" "216"
+				"download" "240"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "7721744647487988279"
+				"size" "216"
+				"download" "240"
+			}
+		}
+	}
+	"318411"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "318411"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7570495842780458661"
+				"size" "224"
+				"download" "256"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "7570495842780458661"
+				"size" "224"
+				"download" "256"
+			}
+		}
+	}
+	"318412"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "318412"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7896682710253848809"
+				"size" "216"
+				"download" "240"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "7896682710253848809"
+				"size" "216"
+				"download" "240"
+			}
+		}
+	}
+	"318413"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "318413"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "982538916912193001"
+				"size" "216"
+				"download" "240"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "982538916912193001"
+				"size" "216"
+				"download" "240"
+			}
+		}
+	}
+	"318414"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "318414"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8828261464440646425"
+				"size" "224"
+				"download" "256"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "8828261464440646425"
+				"size" "224"
+				"download" "256"
+			}
+		}
+	}
+	"318390"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "318390"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2244672915508740651"
+				"size" "224"
+				"download" "256"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "2244672915508740651"
+				"size" "224"
+				"download" "256"
+			}
+		}
+	}
+	"318420"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "318420"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6342813387448459939"
+				"size" "220"
+				"download" "60100824"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "6342813387448459939"
+				"size" "220"
+				"download" "60100824"
+			}
+		}
+	}
+	"318550"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "318550"
+	}
+	"319360"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "319360"
+	}
+	"319361"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "319361"
+	}
+	"322061"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "322061"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6740177555138261104"
+				"size" "228"
+				"download" "256"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "6740177555138261104"
+				"size" "228"
+				"download" "256"
+			}
+		}
+	}
+	"322060"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "322060"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1356036462370594379"
+				"size" "216"
+				"download" "5"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "1356036462370594379"
+				"size" "216"
+				"download" "5"
+			}
+		}
+	}
+	"241932"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"241934"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5302237919585532242"
+				"size" "73162985"
+				"download" "27240848"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "5302237919585532242"
+				"size" "73162985"
+				"download" "27240848"
+			}
+		}
+	}
+	"241935"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "520325404024435612"
+				"size" "61194688845"
+				"download" "55673618448"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "520325404024435612"
+				"size" "61194688845"
+				"download" "55673618448"
+			}
+		}
+	}
+	"241936"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2267922015147902107"
+				"size" "320607597"
+				"download" "109925616"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "4754457841052720644"
+				"size" "281880840"
+				"download" "88145856"
+			}
+		}
+	}
+	"241937"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4045727426405588442"
+				"size" "44859988929"
+				"download" "44652980992"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "2134502541455107859"
+				"size" "53264150001"
+				"download" "47847935200"
+			}
+		}
+	}
+	"241938"
+	{
+		"dlcappid" "318420"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "99144665449347834"
+				"size" "220"
+				"download" "160"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "99144665449347834"
+				"size" "220"
+				"download" "160"
+			}
+		}
+	}
+	"241939"
+	{
+		"dlcappid" "318420"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "432970632182559681"
+				"size" "220"
+				"download" "160"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "432970632182559681"
+				"size" "220"
+				"download" "160"
+			}
+		}
+	}
+	"241940"
+	{
+		"dlcappid" "313372"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "198551078063880808"
+				"size" "224"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "198551078063880808"
+				"size" "224"
+				"download" "144"
+			}
+		}
+	}
+	"241941"
+	{
+		"dlcappid" "313372"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "505888075535897411"
+				"size" "224"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "505888075535897411"
+				"size" "224"
+				"download" "144"
+			}
+		}
+	}
+	"241942"
+	{
+		"dlcappid" "318411"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "37039354161770609"
+				"size" "224"
+				"download" "160"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "37039354161770609"
+				"size" "224"
+				"download" "160"
+			}
+		}
+	}
+	"241943"
+	{
+		"dlcappid" "318411"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "143519756273469305"
+				"size" "224"
+				"download" "160"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "143519756273469305"
+				"size" "224"
+				"download" "160"
+			}
+		}
+	}
+	"241944"
+	{
+		"dlcappid" "313371"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "451342747814248512"
+				"size" "68"
+				"download" "64"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "451342747814248512"
+				"size" "68"
+				"download" "64"
+			}
+		}
+	}
+	"241945"
+	{
+		"dlcappid" "313371"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "79991797313161407"
+				"size" "68"
+				"download" "64"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "79991797313161407"
+				"size" "68"
+				"download" "64"
+			}
+		}
+	}
+	"241946"
+	{
+		"dlcappid" "313370"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "150797972647156206"
+				"size" "228"
+				"download" "160"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "150797972647156206"
+				"size" "228"
+				"download" "160"
+			}
+		}
+	}
+	"241947"
+	{
+		"dlcappid" "313370"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "241342566741189442"
+				"size" "228"
+				"download" "160"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "241342566741189442"
+				"size" "228"
+				"download" "160"
+			}
+		}
+	}
+	"241948"
+	{
+		"dlcappid" "313380"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "132684409081226428"
+				"size" "68"
+				"download" "64"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "132684409081226428"
+				"size" "68"
+				"download" "64"
+			}
+		}
+	}
+	"241949"
+	{
+		"dlcappid" "313380"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "226869915232437372"
+				"size" "68"
+				"download" "64"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "226869915232437372"
+				"size" "68"
+				"download" "64"
+			}
+		}
+	}
+	"311671"
+	{
+		"dlcappid" "318390"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6290040308489434"
+				"size" "224"
+				"download" "160"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "6290040308489434"
+				"size" "224"
+				"download" "160"
+			}
+		}
+	}
+	"311672"
+	{
+		"dlcappid" "318390"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "408242152678903232"
+				"size" "224"
+				"download" "160"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "408242152678903232"
+				"size" "224"
+				"download" "160"
+			}
+		}
+	}
+	"311673"
+	{
+		"dlcappid" "313375"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "761033414882186283"
+				"size" "68"
+				"download" "64"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "761033414882186283"
+				"size" "68"
+				"download" "64"
+			}
+		}
+	}
+	"311674"
+	{
+		"dlcappid" "313375"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "251649049178337622"
+				"size" "68"
+				"download" "64"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "251649049178337622"
+				"size" "68"
+				"download" "64"
+			}
+		}
+	}
+	"311675"
+	{
+		"dlcappid" "318414"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "81531446865821194"
+				"size" "224"
+				"download" "160"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "81531446865821194"
+				"size" "224"
+				"download" "160"
+			}
+		}
+	}
+	"311676"
+	{
+		"dlcappid" "318414"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1189157360305958631"
+				"size" "224"
+				"download" "160"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "1189157360305958631"
+				"size" "224"
+				"download" "160"
+			}
+		}
+	}
+	"311677"
+	{
+		"dlcappid" "318410"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "939564319737479965"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "939564319737479965"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"311678"
+	{
+		"dlcappid" "318410"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "332407454491908780"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "332407454491908780"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"311679"
+	{
+		"dlcappid" "313374"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "126248704430895380"
+				"size" "68"
+				"download" "64"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "126248704430895380"
+				"size" "68"
+				"download" "64"
+			}
+		}
+	}
+	"313376"
+	{
+		"dlcappid" "313374"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "93934994673932038"
+				"size" "68"
+				"download" "64"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "93934994673932038"
+				"size" "68"
+				"download" "64"
+			}
+		}
+	}
+	"313377"
+	{
+		"dlcappid" "318412"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "72984406239910946"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "72984406239910946"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"313378"
+	{
+		"dlcappid" "318412"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "77374347280954330"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "77374347280954330"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"313379"
+	{
+		"dlcappid" "313373"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "88504332424598571"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "88504332424598571"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"313382"
+	{
+		"dlcappid" "313373"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "226843953076485267"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "226843953076485267"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"313383"
+	{
+		"dlcappid" "313381"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "176883524697537291"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "176883524697537291"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"313384"
+	{
+		"dlcappid" "313381"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "251667965605689736"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "251667965605689736"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"313385"
+	{
+		"dlcappid" "318402"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "38893109541982664"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "38893109541982664"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"313386"
+	{
+		"dlcappid" "318402"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "373364530690308125"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "373364530690308125"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"313387"
+	{
+		"dlcappid" "318401"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "337246302042226792"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "337246302042226792"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"313388"
+	{
+		"dlcappid" "318401"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "397486373878278847"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "397486373878278847"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"313389"
+	{
+		"dlcappid" "322060"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "275900152902156583"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "275900152902156583"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"318391"
+	{
+		"dlcappid" "322060"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "218631542842170868"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "218631542842170868"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"318392"
+	{
+		"dlcappid" "318400"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "327527746890158923"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "327527746890158923"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"318393"
+	{
+		"dlcappid" "318400"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "157678416887926708"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "157678416887926708"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"318394"
+	{
+		"dlcappid" "311670"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "565062480437948453"
+				"size" "11831532372"
+				"download" "4335187872"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "565062480437948453"
+				"size" "11831532372"
+				"download" "4335187872"
+			}
+		}
+	}
+	"318395"
+	{
+		"dlcappid" "311670"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5828227158235581202"
+				"size" "11831532372"
+				"download" "4338670048"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "6774984627850821344"
+				"size" "11831532372"
+				"download" "4338670048"
+			}
+		}
+	}
+	"318396"
+	{
+		"dlcappid" "318413"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "198872129776188125"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "198872129776188125"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"318397"
+	{
+		"dlcappid" "318413"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "836722487519099266"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "836722487519099266"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"318398"
+	{
+		"dlcappid" "322061"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2145919411303746835"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "2145919411303746835"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"318399"
+	{
+		"dlcappid" "322061"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "388872846429289073"
+				"size" "216"
+				"download" "144"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "388872846429289073"
+				"size" "216"
+				"download" "144"
+			}
+		}
+	}
+	"318403"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1194013520339598619"
+				"size" "2324375"
+				"download" "743776"
+			}
+			"linux-last-gl-build"
+			{
+				"gid" "1194013520339598619"
+				"size" "2324375"
+				"download" "743776"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7348332"
+			"timeupdated" "1631520946"
+		}
+		"linux-last-gl-build"
+		{
+			"buildid" "7350199"
+			"description" "Linux version 1.1.1 (GL)"
+			"timeupdated" "1631542686"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "5"
+}
+"_missing_token" "False"
+"_change_number" "27104397"
+"_sha" "d59dc2a7d3533f8544237cac1c577f27dffeca4d"
+"_size" "31052"
