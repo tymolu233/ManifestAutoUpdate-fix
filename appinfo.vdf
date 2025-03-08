@@ -1,0 +1,97 @@
+"appid" "33935"
+"common"
+{
+	"name" "Arma 2: Operation Arrowhead - Dedicated Server"
+	"type" "Tool"
+	"gameid" "33935"
+}
+"extended"
+{
+	"developer" "Bohemia Interactive"
+	"developer_url" "http://www.bistudio.com/"
+	"gamedir" "ARMA 2 AO Dedicated Server"
+	"gamemanualurl" "http://community.bistudio.com/wiki/ArmA:_Dedicated_Server"
+	"homepage" "http://www.arma2.com/"
+	"icon" ""
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "33932"
+	"serverbrowsername" ""
+	"state" "eStateTool"
+	"visibleonlywhensubscribed" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Arma 2 Operation Arrowhead"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ARMA2OASERVER.exe"
+		}
+	}
+}
+"depots"
+{
+	"33932"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8883383908456077746"
+				"size" "13028732"
+				"download" "5253328"
+			}
+			"1.62"
+			{
+				"gid" "4333750869498231586"
+				"size" "12365307"
+				"download" "0"
+			}
+			"beta"
+			{
+				"gid" "8883383908456077746"
+				"size" "13028732"
+				"download" "5253328"
+			}
+			"legacy"
+			{
+				"gid" "1273403000449088655"
+				"size" "12986976"
+				"download" "5236880"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7784087"
+			"timeupdated" "1639668256"
+		}
+		"1.62"
+		{
+			"buildid" "52286"
+			"description" "Older version of the game"
+		}
+		"beta"
+		{
+			"buildid" "7784087"
+			"timeupdated" "1637948561"
+		}
+		"legacy"
+		{
+			"buildid" "4369943"
+			"timeupdated" "1639667946"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "e31e66edeadba85deb49fe38b105a94052ab5e06"
+"_size" "1626"
