@@ -1,0 +1,705 @@
+"appid" "2553050"
+"common"
+{
+	"name" "Estate Agent Simulator"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"bulgarian" "1"
+		"greek" "1"
+		"ukrainian" "1"
+		"vietnamese" "1"
+		"indonesian" "1"
+	}
+	"icon" "8fcb77a749416120a6c364cdb58af05eb90867d4"
+	"clienttga" "e18e6e0ae62358be37c2deb8b7e3ff17acb0e820"
+	"clienticon" "ba8f4f41cd10d7e3b39c0892ba93f20fede5a1cc"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "房屋中介模拟"
+		"tchinese" "房屋中介模擬"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1706313600"
+		"tested_build_id" "12773058"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"turkish" "capsule_231x87_turkish.jpg"
+		"german" "capsule_231x87_german.jpg"
+		"french" "capsule_231x87_french.jpg"
+		"italian" "capsule_231x87_italian.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"spanish" "capsule_231x87_spanish.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+		"thai" "capsule_231x87_thai.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"portuguese" "capsule_231x87_portuguese.jpg"
+		"danish" "capsule_231x87_danish.jpg"
+		"dutch" "capsule_231x87_dutch.jpg"
+		"finnish" "capsule_231x87_finnish.jpg"
+		"norwegian" "capsule_231x87_norwegian.jpg"
+		"swedish" "capsule_231x87_swedish.jpg"
+		"hungarian" "capsule_231x87_hungarian.jpg"
+		"czech" "capsule_231x87_czech.jpg"
+		"romanian" "capsule_231x87_romanian.jpg"
+		"arabic" "capsule_231x87_arabic.jpg"
+		"brazilian" "capsule_231x87_brazilian.jpg"
+		"bulgarian" "capsule_231x87_bulgarian.jpg"
+		"greek" "capsule_231x87_greek.jpg"
+		"ukrainian" "capsule_231x87_ukrainian.jpg"
+		"vietnamese" "capsule_231x87_vietnamese.jpg"
+		"latam" "capsule_231x87_latam.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+		"indonesian" "capsule_231x87_indonesian.jpg"
+		"polish" "capsule_231x87_polish.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"russian" "header_russian.jpg"
+		"thai" "header_thai.jpg"
+		"japanese" "header_japanese.jpg"
+		"portuguese" "header_portuguese.jpg"
+		"danish" "header_danish.jpg"
+		"dutch" "header_dutch.jpg"
+		"norwegian" "header_norwegian.jpg"
+		"swedish" "header_swedish.jpg"
+		"hungarian" "header_hungarian.jpg"
+		"czech" "header_czech.jpg"
+		"romanian" "header_romanian.jpg"
+		"arabic" "header_arabic.jpg"
+		"brazilian" "header_brazilian.jpg"
+		"greek" "header_greek.jpg"
+		"ukrainian" "header_ukrainian.jpg"
+		"vietnamese" "header_vietnamese.jpg"
+		"latam" "header_latam.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+		"english" "header.jpg"
+		"german" "header_german.jpg"
+		"french" "header_french.jpg"
+		"italian" "header_italian.jpg"
+		"koreana" "header_koreana.jpg"
+		"spanish" "header_spanish.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"polish" "header_polish.jpg"
+		"finnish" "header_finnish.jpg"
+		"turkish" "header_turkish.jpg"
+		"bulgarian" "header_bulgarian.jpg"
+		"indonesian" "header_indonesian.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,tr,de,fr,it,ko,es,zh-cn,zh-tw,ru,th,ja,pt,pl,da,nl,fi,no,sv,hu,cs,ro,ar,pt-br,bg,el,uk,vi,es-419,zh-xc,id"
+		"library_hero" "en,tr,de,fr,it,ko,es,zh-cn,zh-tw,ru,th,ja,pt,pl,da,nl,fi,no,sv,hu,cs,ro,ar,pt-br,bg,el,uk,vi,es-419,zh-xc,id"
+		"library_logo" "tr,en,de,it,ko,es,zh-cn,zh-tw,ru,th,ja,pt,pl,da,nl,fi,no,sv,hu,cs,ro,ar,pt-br,bg,uk,vi,es-419,zh-xc,id"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "99.06651108518088"
+			"height_pct" "92.17525528378056"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"turkish" "library_600x900_turkish.jpg"
+				"german" "library_600x900_german.jpg"
+				"french" "library_600x900_french.jpg"
+				"italian" "library_600x900_italian.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"spanish" "library_600x900_spanish.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"russian" "library_600x900_russian.jpg"
+				"thai" "library_600x900_thai.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"portuguese" "library_600x900_portuguese.jpg"
+				"polish" "library_600x900_polish.jpg"
+				"danish" "library_600x900_danish.jpg"
+				"dutch" "library_600x900_dutch.jpg"
+				"finnish" "library_600x900_finnish.jpg"
+				"norwegian" "library_600x900_norwegian.jpg"
+				"swedish" "library_600x900_swedish.jpg"
+				"hungarian" "library_600x900_hungarian.jpg"
+				"czech" "library_600x900_czech.jpg"
+				"romanian" "library_600x900_romanian.jpg"
+				"arabic" "library_600x900_arabic.jpg"
+				"brazilian" "library_600x900_brazilian.jpg"
+				"bulgarian" "library_600x900_bulgarian.jpg"
+				"greek" "library_600x900_greek.jpg"
+				"ukrainian" "library_600x900_ukrainian.jpg"
+				"vietnamese" "library_600x900_vietnamese.jpg"
+				"latam" "library_600x900_latam.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+				"indonesian" "library_600x900_indonesian.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"turkish" "library_600x900_turkish_2x.jpg"
+				"german" "library_600x900_german_2x.jpg"
+				"french" "library_600x900_french_2x.jpg"
+				"italian" "library_600x900_italian_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"spanish" "library_600x900_spanish_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"russian" "library_600x900_russian_2x.jpg"
+				"thai" "library_600x900_thai_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"portuguese" "library_600x900_portuguese_2x.jpg"
+				"polish" "library_600x900_polish_2x.jpg"
+				"danish" "library_600x900_danish_2x.jpg"
+				"dutch" "library_600x900_dutch_2x.jpg"
+				"finnish" "library_600x900_finnish_2x.jpg"
+				"norwegian" "library_600x900_norwegian_2x.jpg"
+				"swedish" "library_600x900_swedish_2x.jpg"
+				"hungarian" "library_600x900_hungarian_2x.jpg"
+				"czech" "library_600x900_czech_2x.jpg"
+				"romanian" "library_600x900_romanian_2x.jpg"
+				"arabic" "library_600x900_arabic_2x.jpg"
+				"brazilian" "library_600x900_brazilian_2x.jpg"
+				"bulgarian" "library_600x900_bulgarian_2x.jpg"
+				"greek" "library_600x900_greek_2x.jpg"
+				"ukrainian" "library_600x900_ukrainian_2x.jpg"
+				"vietnamese" "library_600x900_vietnamese_2x.jpg"
+				"latam" "library_600x900_latam_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+				"indonesian" "library_600x900_indonesian_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"turkish" "library_hero_turkish.jpg"
+				"german" "library_hero_german.jpg"
+				"french" "library_hero_french.jpg"
+				"italian" "library_hero_italian.jpg"
+				"koreana" "library_hero_koreana.jpg"
+				"spanish" "library_hero_spanish.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+				"russian" "library_hero_russian.jpg"
+				"thai" "library_hero_thai.jpg"
+				"japanese" "library_hero_japanese.jpg"
+				"portuguese" "library_hero_portuguese.jpg"
+				"polish" "library_hero_polish.jpg"
+				"danish" "library_hero_danish.jpg"
+				"dutch" "library_hero_dutch.jpg"
+				"finnish" "library_hero_finnish.jpg"
+				"norwegian" "library_hero_norwegian.jpg"
+				"swedish" "library_hero_swedish.jpg"
+				"hungarian" "library_hero_hungarian.jpg"
+				"czech" "library_hero_czech.jpg"
+				"romanian" "library_hero_romanian.jpg"
+				"arabic" "library_hero_arabic.jpg"
+				"brazilian" "library_hero_brazilian.jpg"
+				"bulgarian" "library_hero_bulgarian.jpg"
+				"greek" "library_hero_greek.jpg"
+				"ukrainian" "library_hero_ukrainian.jpg"
+				"vietnamese" "library_hero_vietnamese.jpg"
+				"latam" "library_hero_latam.jpg"
+				"sc_schinese" "library_hero_sc_schinese.jpg"
+				"indonesian" "library_hero_indonesian.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"turkish" "library_hero_turkish_2x.jpg"
+				"german" "library_hero_german_2x.jpg"
+				"french" "library_hero_french_2x.jpg"
+				"italian" "library_hero_italian_2x.jpg"
+				"koreana" "library_hero_koreana_2x.jpg"
+				"spanish" "library_hero_spanish_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+				"tchinese" "library_hero_tchinese_2x.jpg"
+				"russian" "library_hero_russian_2x.jpg"
+				"thai" "library_hero_thai_2x.jpg"
+				"japanese" "library_hero_japanese_2x.jpg"
+				"portuguese" "library_hero_portuguese_2x.jpg"
+				"polish" "library_hero_polish_2x.jpg"
+				"danish" "library_hero_danish_2x.jpg"
+				"dutch" "library_hero_dutch_2x.jpg"
+				"finnish" "library_hero_finnish_2x.jpg"
+				"norwegian" "library_hero_norwegian_2x.jpg"
+				"swedish" "library_hero_swedish_2x.jpg"
+				"hungarian" "library_hero_hungarian_2x.jpg"
+				"czech" "library_hero_czech_2x.jpg"
+				"romanian" "library_hero_romanian_2x.jpg"
+				"arabic" "library_hero_arabic_2x.jpg"
+				"brazilian" "library_hero_brazilian_2x.jpg"
+				"bulgarian" "library_hero_bulgarian_2x.jpg"
+				"greek" "library_hero_greek_2x.jpg"
+				"ukrainian" "library_hero_ukrainian_2x.jpg"
+				"vietnamese" "library_hero_vietnamese_2x.jpg"
+				"latam" "library_hero_latam_2x.jpg"
+				"sc_schinese" "library_hero_sc_schinese_2x.jpg"
+				"indonesian" "library_hero_indonesian_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "99.06651108518088"
+				"height_pct" "92.17525528378056"
+			}
+			"image"
+			{
+				"turkish" "logo_turkish.png"
+				"english" "logo.png"
+				"german" "logo_german.png"
+				"italian" "logo_italian.png"
+				"koreana" "logo_koreana.png"
+				"spanish" "logo_spanish.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+				"russian" "logo_russian.png"
+				"thai" "logo_thai.png"
+				"japanese" "logo_japanese.png"
+				"portuguese" "logo_portuguese.png"
+				"polish" "logo_polish.png"
+				"danish" "logo_danish.png"
+				"dutch" "logo_dutch.png"
+				"finnish" "logo_finnish.png"
+				"norwegian" "logo_norwegian.png"
+				"swedish" "logo_swedish.png"
+				"hungarian" "logo_hungarian.png"
+				"czech" "logo_czech.png"
+				"romanian" "logo_romanian.png"
+				"arabic" "logo_arabic.png"
+				"brazilian" "logo_brazilian.png"
+				"bulgarian" "logo_bulgarian.png"
+				"ukrainian" "logo_ukrainian.png"
+				"vietnamese" "logo_vietnamese.png"
+				"latam" "logo_latam.png"
+				"sc_schinese" "logo_sc_schinese.png"
+				"indonesian" "logo_indonesian.png"
+			}
+			"image2x"
+			{
+				"turkish" "logo_turkish_2x.png"
+				"english" "logo_2x.png"
+				"german" "logo_german_2x.png"
+				"italian" "logo_italian_2x.png"
+				"koreana" "logo_koreana_2x.png"
+				"spanish" "logo_spanish_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"russian" "logo_russian_2x.png"
+				"thai" "logo_thai_2x.png"
+				"japanese" "logo_japanese_2x.png"
+				"portuguese" "logo_portuguese_2x.png"
+				"polish" "logo_polish_2x.png"
+				"danish" "logo_danish_2x.png"
+				"dutch" "logo_dutch_2x.png"
+				"finnish" "logo_finnish_2x.png"
+				"norwegian" "logo_norwegian_2x.png"
+				"swedish" "logo_swedish_2x.png"
+				"hungarian" "logo_hungarian_2x.png"
+				"czech" "logo_czech_2x.png"
+				"romanian" "logo_romanian_2x.png"
+				"arabic" "logo_arabic_2x.png"
+				"brazilian" "logo_brazilian_2x.png"
+				"bulgarian" "logo_bulgarian_2x.png"
+				"ukrainian" "logo_ukrainian_2x.png"
+				"vietnamese" "logo_vietnamese_2x.png"
+				"latam" "logo_latam_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+				"indonesian" "logo_indonesian_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1699885998"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Kiki Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kiki Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Supercar Collection Simulator"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Clothing Store Simulator"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Hoover Heroes"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_25" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
+		"filipino"
+		{
+			"supported" "true"
+		}
+		"hebrew"
+		{
+			"supported" "true"
+		}
+		"hindi"
+		{
+			"supported" "true"
+		}
+		"icelandic"
+		{
+			"supported" "true"
+		}
+		"latvian"
+		{
+			"supported" "true"
+		}
+		"lithuanian"
+		{
+			"supported" "true"
+		}
+		"persian"
+		{
+			"supported" "true"
+		}
+		"serbian"
+		{
+			"supported" "true"
+		}
+		"slovak"
+		{
+			"supported" "true"
+		}
+		"swahili"
+		{
+			"supported" "true"
+		}
+		"urdu"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1699891168"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2553050"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "4202"
+		"2" "9204"
+		"3" "1644"
+		"4" "12472"
+		"5" "4845"
+		"6" "4695"
+		"7" "10235"
+		"8" "1643"
+		"9" "4328"
+		"10" "4182"
+		"11" "699"
+		"12" "84"
+		"13" "1663"
+		"14" "1702"
+		"15" "597"
+		"16" "4947"
+		"17" "3839"
+		"18" "4191"
+		"19" "19"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"developer" "Kiki Games"
+	"publisher" "Kiki Games"
+	"homepage" "https://estateagentsimulator.com"
+}
+"config"
+{
+	"installdir" "EstateAgentSimulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "EstateAgent.exe"
+		}
+	}
+}
+"depots"
+{
+	"2553051"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4286261404647487809"
+				"size" "8564544728"
+				"download" "4486173040"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17209936"
+			"timeupdated" "1738431874"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "2000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "KikiGames\\EstateAgent\\Saves\\"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "27556534"
+"_sha" "66e591ba277204258f4451726dd612a2b19b6ac2"
+"_size" "17699"
