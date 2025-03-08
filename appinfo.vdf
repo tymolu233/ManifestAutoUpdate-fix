@@ -1,0 +1,435 @@
+"appid" "844260"
+"common"
+{
+	"name" "Rustler"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienticon" "cf269504abcc0b55adbf66bfdf7acf7c7d9ac496"
+	"clienttga" "8527fd61d0d1c57a9c45e49dcc902966def9dd76"
+	"icon" "585b68bf670f80effae05a288145da2d99dd0898"
+	"clienticns" "99c15f44bd2d2ebc48755f8c78d8e9c9127bd7e7"
+	"linuxclienticon" "fe70b276a47c28382ae59d86598ccf3aa4acbdb8"
+	"logo" "4d8fe18d14ed4d8e1e54e29095d1e57529f397e9"
+	"logo_small" "4d8fe18d14ed4d8e1e54e29095d1e57529f397e9_thumb"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1653436800"
+		"tested_build_id" "8565333"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "nomfdxgiman,"
+		}
+	}
+	"metacritic_name" "Rustler"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "43.115519253208866"
+			"height_pct" "86.47589646164806"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "43.115519253208866"
+				"height_pct" "86.47589646164806"
+			}
+		}
+	}
+	"store_asset_mtime" "1683637274"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Jutsu Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Games Operators"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Modus Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Games Operators"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "9"
+		"4" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1613635200"
+	"steam_release_date" "1630425618"
+	"metacritic_score" "65"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/rustler\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "844260"
+	"store_tags"
+	{
+		"0" "6378"
+		"1" "1695"
+		"2" "4136"
+		"3" "4172"
+		"4" "4637"
+		"5" "492"
+		"6" "3810"
+		"7" "4791"
+		"8" "21"
+		"9" "19"
+		"10" "6041"
+		"11" "4102"
+		"12" "1742"
+		"13" "122"
+		"14" "4182"
+		"15" "4166"
+		"16" "7948"
+		"17" "1774"
+		"18" "5611"
+		"19" "4608"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "Jutsu Games"
+	"publisher" "Games Operators"
+	"listofdlc" "1570170,1628870,1628880"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Rustler"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "launcher/Launcher.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Rustler.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "launcher/Launcher.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "launcher"
+			}
+			"description_loc"
+			{
+				"english" "Play Launcher"
+			}
+			"description" "Play Launcher"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"844261"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7698605529541794309"
+				"size" "4880315282"
+				"download" "2109170688"
+			}
+			"open_fresh_build"
+			{
+				"gid" "3471044962816426472"
+				"size" "4338553828"
+				"download" "1992811904"
+			}
+			"steamdeck_test"
+			{
+				"gid" "1388085285519827682"
+				"size" "4637010799"
+				"download" "1986349664"
+			}
+		}
+	}
+	"844262"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "959906961750161552"
+				"size" "4764563083"
+				"download" "2007950448"
+			}
+			"open_fresh_build"
+			{
+				"gid" "1457207600628089620"
+				"size" "4448142136"
+				"download" "2010147760"
+			}
+			"steamdeck_test"
+			{
+				"gid" "8180499900959672819"
+				"size" "4746564137"
+				"download" "2003962096"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16473888"
+			"timeupdated" "1732195802"
+		}
+		"open_fresh_build"
+		{
+			"buildid" "7770475"
+			"description" "If you prefer fresh builds, and you don\'t mind risking the stability."
+			"timeupdated" "1637773242"
+		}
+		"steamdeck_test"
+		{
+			"buildid" "8394364"
+			"description" "Steam Deck testing"
+			"timeupdated" "1647788199"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "JutsuGames/Rustler"
+			"pattern" "*.json"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "3394781c2f13a7013e7fff9f5a5284a5f6b3e826"
+"_size" "7641"
