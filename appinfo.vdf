@@ -1,0 +1,58 @@
+"appid" "3403320"
+"common"
+{
+	"name" "Builder Simulator - Workshop Exporter"
+	"type" "Tool"
+	"parent" "1120320"
+	"icon" "06835a303723899cc09f3ba8f0f87246fadbcb26"
+	"clienticon" "bf2f061d6e4ad5f27cc3f4634350093fa262a618"
+	"clienttga" "dfa9eeab2e2413ea53a11f75c8df8e6e21871673"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"gameid" "3403320"
+}
+"config"
+{
+	"installdir" "Builder Simulator - Workshop Exporter"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Builder Simulator - Workshop Exporter/WorkshopExporter.bat"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"3403321"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4788423715978375691"
+				"size" "975965197"
+				"download" "454795216"
+			}
+		}
+	}
+	"workshopdepot" "3403320"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16763775"
+			"timeupdated" "1734381938"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26672985"
+"_sha" "aed337775f777a86afda56fa4f6c8247fe38490e"
+"_size" "958"
