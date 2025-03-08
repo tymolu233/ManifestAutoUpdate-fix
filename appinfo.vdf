@@ -1,0 +1,304 @@
+"appid" "2021380"
+"common"
+{
+	"name" "Steelrising - Closed Beta"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "a9d1b374bb02dcc619b2ffb38b0f9858dfc5ffba"
+	"clienticon" "edf4b3e32c99bcc8aa7c9fcb443d1c2c52584c14"
+	"icon" "043ff8ea749f30a7ae31ac31e728b98d101f6daa"
+	"releasestate" "released"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "50"
+			"height_pct" "97.11469959629542"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "50"
+				"height_pct" "97.11469959629542"
+			}
+		}
+	}
+	"store_asset_mtime" "1659445850"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Spiders"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Nacon"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Nacon"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1661452320"
+	"community_hub_visible" "1"
+	"gameid" "2021380"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "21"
+		"2" "122"
+		"3" "4231"
+		"4" "4191"
+		"5" "4252"
+		"6" "4598"
+		"7" "5372"
+		"8" "1684"
+		"9" "1742"
+		"10" "4182"
+	}
+}
+"extended"
+{
+	"developer" "Spiders"
+	"publisher" "Nacon"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "Steelrising - Closed Beta"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Steelrising.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "SteelrisingDO.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "partners_amd,partners_nvidia,qa_external_debug,spiders_demo_debug,spiders_stable_debug"
+			}
+			"description_loc"
+			{
+				"english" "Steelrising Closed Beta - DebugOpt"
+			}
+			"description" "Steelrising Closed Beta - DebugOpt"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2021381"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8820024585094412878"
+				"size" "63710859310"
+				"download" "62644346896"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9372513"
+			"timeupdated" "1661416023"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "102400000"
+	"maxnumfiles" "100"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Steelrising-Beta"
+			"pattern" "*.fsav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26602770"
+"_sha" "7db4065f3a1accdcd817383083c37ca59644c451"
+"_size" "4697"
