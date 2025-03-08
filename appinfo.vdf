@@ -1,0 +1,1406 @@
+"appid" "1198090"
+"common"
+{
+	"name" "The Legend of Heroes: Trails of Cold Steel IV"
+	"type" "Game"
+	"icon" "965d77800ac2b14814e33098fb1088d35cf84982"
+	"logo" "a0a31863dd830ce47d9ecdd011a14af3f676bb6d"
+	"logo_small" "a0a31863dd830ce47d9ecdd011a14af3f676bb6d_thumb"
+	"clienticon" "8bfeabbacfde17aee50a24d64e81fedfe6fa943f"
+	"clienttga" "247c80c7293caba27ef6c70de5f721e1fb398134"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"japanese" "英雄伝説 閃の軌跡IV -THE END OF SAGA-"
+		"schinese" "英雄传说：闪之轨迹Ⅳ"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1669680000"
+		"tested_build_id" "6928324"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_GameOrLauncherDoesntExitCleanly"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "491725aa0b83d75f2a126617485b31253b277798/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "73.75954198473283"
+			"height_pct" "74.30555555555556"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "73.75954198473283"
+				"height_pct" "74.30555555555556"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "9243a5f738f13883198dd8d8fab651bfda6c3518/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "9243a5f738f13883198dd8d8fab651bfda6c3518/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730323077"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Nihon Falcom"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Engine Software BV"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "PH3 GmbH"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "NIS America, Inc."
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "The Legend of Heroes"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "The Legend of Heroes: Trails of Cold Steel"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1617951600"
+	"steam_release_date" "1617987540"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1198090"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "4434"
+		"2" "4085"
+		"3" "1677"
+		"4" "1742"
+		"5" "1756"
+		"6" "4182"
+		"7" "1684"
+		"8" "4947"
+		"9" "4325"
+		"10" "4821"
+		"11" "21"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Nihon Falcom"
+	"publisher" "NIS America, Inc."
+	"homepage" "http://thelegendofheroes.com/"
+	"listofdlc" "1573918,1575363,1575364,1575365,1575366,1575367,1575368,1575369,1575397,1575410,1575411,1575412,1575413,1575414,1575415,1575416,1580540,1580541,1656320"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "The Legend of Heroes Trails of Cold Steel IV"
+	"steamcontrollertemplateindex" "4"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin\\Win64\\ed8_4_PC.exe"
+			"type" "default"
+		}
+		"1"
+		{
+			"executable" "Sen4Launcher.exe"
+			"type" "config"
+		}
+		"2"
+		{
+			"executable" "bin\\Win64\\ed8_4_PC_DO.exe"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "testing"
+			}
+			"description_loc"
+			{
+				"english" "Debug Optimized"
+			}
+			"description" "Debug Optimized"
+		}
+		"3"
+		{
+			"executable" "bin\\Win64\\ed8_4_PC_D.exe"
+			"type" "option2"
+			"config"
+			{
+				"betakey" "testing"
+			}
+			"description_loc"
+			{
+				"english" "Debug"
+			}
+			"description" "Debug"
+		}
+		"4"
+		{
+			"executable" "bin\\Win64\\ed8_4_PC.exe"
+			"arguments" "-latest"
+			"description_loc"
+			{
+				"english" "Resume from the latest save"
+				"japanese" "最新のセーブデータから再開します"
+			}
+			"description" "Resume from the latest save"
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1198091"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6618958601736544624"
+				"size" "28786243190"
+				"download" "22516695024"
+			}
+			"version_102"
+			{
+				"gid" "7013187194371999041"
+				"size" "28788985280"
+				"download" "22520406256"
+			}
+			"version_110"
+			{
+				"gid" "2722723409900928157"
+				"size" "28788856605"
+				"download" "22517648704"
+			}
+			"version_111"
+			{
+				"gid" "7454966435708626634"
+				"size" "28788849437"
+				"download" "22517650752"
+			}
+			"version_120"
+			{
+				"gid" "431929852022092026"
+				"size" "28786221087"
+				"download" "22516677696"
+			}
+			"version_121"
+			{
+				"gid" "3286030858047729198"
+				"size" "28786244742"
+				"download" "22516695296"
+			}
+			"version_122"
+			{
+				"gid" "6618958601736544624"
+				"size" "28786243190"
+				"download" "22516695024"
+			}
+		}
+	}
+	"1575367"
+	{
+		"dlcappid" "1575367"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "688029093955280243"
+				"size" "5449345"
+				"download" "4531216"
+			}
+			"version_102"
+			{
+				"gid" "688029093955280243"
+				"size" "5449345"
+				"download" "4531216"
+			}
+			"version_110"
+			{
+				"gid" "688029093955280243"
+				"size" "5449345"
+				"download" "4531216"
+			}
+			"version_111"
+			{
+				"gid" "688029093955280243"
+				"size" "5449345"
+				"download" "4531216"
+			}
+			"version_120"
+			{
+				"gid" "688029093955280243"
+				"size" "5449345"
+				"download" "4531216"
+			}
+			"version_121"
+			{
+				"gid" "688029093955280243"
+				"size" "5449345"
+				"download" "4531216"
+			}
+			"version_122"
+			{
+				"gid" "688029093955280243"
+				"size" "5449345"
+				"download" "4531216"
+			}
+		}
+	}
+	"1575368"
+	{
+		"dlcappid" "1575368"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6771052531324874950"
+				"size" "87604312"
+				"download" "59921232"
+			}
+			"version_102"
+			{
+				"gid" "6771052531324874950"
+				"size" "87604312"
+				"download" "59921232"
+			}
+			"version_110"
+			{
+				"gid" "6771052531324874950"
+				"size" "87604312"
+				"download" "59921232"
+			}
+			"version_111"
+			{
+				"gid" "6771052531324874950"
+				"size" "87604312"
+				"download" "59921232"
+			}
+			"version_120"
+			{
+				"gid" "6771052531324874950"
+				"size" "87604312"
+				"download" "59921232"
+			}
+			"version_121"
+			{
+				"gid" "6771052531324874950"
+				"size" "87604312"
+				"download" "59921232"
+			}
+			"version_122"
+			{
+				"gid" "6771052531324874950"
+				"size" "87604312"
+				"download" "59921232"
+			}
+		}
+	}
+	"1575369"
+	{
+		"dlcappid" "1575369"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4320062956581364749"
+				"size" "10876274"
+				"download" "9258880"
+			}
+			"version_102"
+			{
+				"gid" "4320062956581364749"
+				"size" "10876274"
+				"download" "9258880"
+			}
+			"version_110"
+			{
+				"gid" "4320062956581364749"
+				"size" "10876274"
+				"download" "9258880"
+			}
+			"version_111"
+			{
+				"gid" "4320062956581364749"
+				"size" "10876274"
+				"download" "9258880"
+			}
+			"version_120"
+			{
+				"gid" "4320062956581364749"
+				"size" "10876274"
+				"download" "9258880"
+			}
+			"version_121"
+			{
+				"gid" "4320062956581364749"
+				"size" "10876274"
+				"download" "9258880"
+			}
+			"version_122"
+			{
+				"gid" "4320062956581364749"
+				"size" "10876274"
+				"download" "9258880"
+			}
+		}
+	}
+	"1575390"
+	{
+		"dlcappid" "1575390"
+	}
+	"1575391"
+	{
+		"dlcappid" "1575391"
+	}
+	"1575392"
+	{
+		"dlcappid" "1575392"
+	}
+	"1575393"
+	{
+		"dlcappid" "1575393"
+	}
+	"1575394"
+	{
+		"dlcappid" "1575394"
+	}
+	"1575395"
+	{
+		"dlcappid" "1575395"
+	}
+	"1575396"
+	{
+		"dlcappid" "1575396"
+	}
+	"1575397"
+	{
+		"dlcappid" "1575397"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1494738381872337654"
+				"size" "414"
+				"download" "320"
+			}
+			"version_102"
+			{
+				"gid" "1494738381872337654"
+				"size" "414"
+				"download" "320"
+			}
+			"version_110"
+			{
+				"gid" "1494738381872337654"
+				"size" "414"
+				"download" "320"
+			}
+			"version_111"
+			{
+				"gid" "1494738381872337654"
+				"size" "414"
+				"download" "320"
+			}
+			"version_120"
+			{
+				"gid" "1494738381872337654"
+				"size" "414"
+				"download" "320"
+			}
+			"version_121"
+			{
+				"gid" "1494738381872337654"
+				"size" "414"
+				"download" "320"
+			}
+			"version_122"
+			{
+				"gid" "1494738381872337654"
+				"size" "414"
+				"download" "320"
+			}
+		}
+	}
+	"1575410"
+	{
+		"dlcappid" "1575410"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "437632853534790712"
+				"size" "372"
+				"download" "272"
+			}
+			"version_102"
+			{
+				"gid" "437632853534790712"
+				"size" "372"
+				"download" "272"
+			}
+			"version_110"
+			{
+				"gid" "437632853534790712"
+				"size" "372"
+				"download" "272"
+			}
+			"version_111"
+			{
+				"gid" "437632853534790712"
+				"size" "372"
+				"download" "272"
+			}
+			"version_120"
+			{
+				"gid" "437632853534790712"
+				"size" "372"
+				"download" "272"
+			}
+			"version_121"
+			{
+				"gid" "437632853534790712"
+				"size" "372"
+				"download" "272"
+			}
+			"version_122"
+			{
+				"gid" "437632853534790712"
+				"size" "372"
+				"download" "272"
+			}
+		}
+	}
+	"1575411"
+	{
+		"dlcappid" "1575411"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "737423378968483021"
+				"size" "362"
+				"download" "272"
+			}
+			"version_102"
+			{
+				"gid" "737423378968483021"
+				"size" "362"
+				"download" "272"
+			}
+			"version_110"
+			{
+				"gid" "737423378968483021"
+				"size" "362"
+				"download" "272"
+			}
+			"version_111"
+			{
+				"gid" "737423378968483021"
+				"size" "362"
+				"download" "272"
+			}
+			"version_120"
+			{
+				"gid" "737423378968483021"
+				"size" "362"
+				"download" "272"
+			}
+			"version_121"
+			{
+				"gid" "737423378968483021"
+				"size" "362"
+				"download" "272"
+			}
+			"version_122"
+			{
+				"gid" "737423378968483021"
+				"size" "362"
+				"download" "272"
+			}
+		}
+	}
+	"1575416"
+	{
+		"dlcappid" "1575416"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "568873881822990943"
+				"size" "189335528"
+				"download" "157319472"
+			}
+			"version_102"
+			{
+				"gid" "568873881822990943"
+				"size" "189335528"
+				"download" "157319472"
+			}
+			"version_110"
+			{
+				"gid" "568873881822990943"
+				"size" "189335528"
+				"download" "157319472"
+			}
+			"version_111"
+			{
+				"gid" "568873881822990943"
+				"size" "189335528"
+				"download" "157319472"
+			}
+			"version_120"
+			{
+				"gid" "568873881822990943"
+				"size" "189335528"
+				"download" "157319472"
+			}
+			"version_121"
+			{
+				"gid" "568873881822990943"
+				"size" "189335528"
+				"download" "157319472"
+			}
+			"version_122"
+			{
+				"gid" "568873881822990943"
+				"size" "189335528"
+				"download" "157319472"
+			}
+		}
+	}
+	"1575363"
+	{
+		"dlcappid" "1575363"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "855750931950930582"
+				"size" "50682799"
+				"download" "41138064"
+			}
+			"version_102"
+			{
+				"gid" "855750931950930582"
+				"size" "50682799"
+				"download" "41138064"
+			}
+			"version_110"
+			{
+				"gid" "855750931950930582"
+				"size" "50682799"
+				"download" "41138064"
+			}
+			"version_111"
+			{
+				"gid" "855750931950930582"
+				"size" "50682799"
+				"download" "41138064"
+			}
+			"version_120"
+			{
+				"gid" "855750931950930582"
+				"size" "50682799"
+				"download" "41138064"
+			}
+			"version_121"
+			{
+				"gid" "855750931950930582"
+				"size" "50682799"
+				"download" "41138064"
+			}
+			"version_122"
+			{
+				"gid" "855750931950930582"
+				"size" "50682799"
+				"download" "41138064"
+			}
+		}
+	}
+	"1575364"
+	{
+		"dlcappid" "1575364"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8542106205035805330"
+				"size" "66423041"
+				"download" "54697440"
+			}
+			"version_102"
+			{
+				"gid" "4060202274934245842"
+				"size" "66423042"
+				"download" "54697456"
+			}
+			"version_110"
+			{
+				"gid" "4060202274934245842"
+				"size" "66423042"
+				"download" "54697456"
+			}
+			"version_111"
+			{
+				"gid" "4060202274934245842"
+				"size" "66423042"
+				"download" "54697456"
+			}
+			"version_120"
+			{
+				"gid" "4060202274934245842"
+				"size" "66423042"
+				"download" "54697456"
+			}
+			"version_121"
+			{
+				"gid" "8542106205035805330"
+				"size" "66423041"
+				"download" "54697440"
+			}
+			"version_122"
+			{
+				"gid" "8542106205035805330"
+				"size" "66423041"
+				"download" "54697440"
+			}
+		}
+	}
+	"1575365"
+	{
+		"dlcappid" "1575365"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1693447023382434660"
+				"size" "108459545"
+				"download" "82081120"
+			}
+			"version_102"
+			{
+				"gid" "1693447023382434660"
+				"size" "108459545"
+				"download" "82081120"
+			}
+			"version_110"
+			{
+				"gid" "1693447023382434660"
+				"size" "108459545"
+				"download" "82081120"
+			}
+			"version_111"
+			{
+				"gid" "1693447023382434660"
+				"size" "108459545"
+				"download" "82081120"
+			}
+			"version_120"
+			{
+				"gid" "1693447023382434660"
+				"size" "108459545"
+				"download" "82081120"
+			}
+			"version_121"
+			{
+				"gid" "1693447023382434660"
+				"size" "108459545"
+				"download" "82081120"
+			}
+			"version_122"
+			{
+				"gid" "1693447023382434660"
+				"size" "108459545"
+				"download" "82081120"
+			}
+		}
+	}
+	"1575366"
+	{
+		"dlcappid" "1575366"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1450563512515737782"
+				"size" "28236622"
+				"download" "22828976"
+			}
+			"version_102"
+			{
+				"gid" "1450563512515737782"
+				"size" "28236622"
+				"download" "22828976"
+			}
+			"version_110"
+			{
+				"gid" "1450563512515737782"
+				"size" "28236622"
+				"download" "22828976"
+			}
+			"version_111"
+			{
+				"gid" "1450563512515737782"
+				"size" "28236622"
+				"download" "22828976"
+			}
+			"version_120"
+			{
+				"gid" "1450563512515737782"
+				"size" "28236622"
+				"download" "22828976"
+			}
+			"version_121"
+			{
+				"gid" "1450563512515737782"
+				"size" "28236622"
+				"download" "22828976"
+			}
+			"version_122"
+			{
+				"gid" "1450563512515737782"
+				"size" "28236622"
+				"download" "22828976"
+			}
+		}
+	}
+	"1580542"
+	{
+		"dlcappid" "1580542"
+	}
+	"1580541"
+	{
+		"dlcappid" "1580541"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "578925644252811204"
+				"size" "13580"
+				"download" "9760"
+			}
+			"version_102"
+			{
+				"gid" "578925644252811204"
+				"size" "13580"
+				"download" "9760"
+			}
+			"version_110"
+			{
+				"gid" "578925644252811204"
+				"size" "13580"
+				"download" "9760"
+			}
+			"version_111"
+			{
+				"gid" "578925644252811204"
+				"size" "13580"
+				"download" "9760"
+			}
+			"version_120"
+			{
+				"gid" "578925644252811204"
+				"size" "13580"
+				"download" "9760"
+			}
+			"version_121"
+			{
+				"gid" "578925644252811204"
+				"size" "13580"
+				"download" "9760"
+			}
+			"version_122"
+			{
+				"gid" "578925644252811204"
+				"size" "13580"
+				"download" "9760"
+			}
+		}
+	}
+	"1580540"
+	{
+		"dlcappid" "1580540"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1606922502898928595"
+				"size" "6891"
+				"download" "4880"
+			}
+			"version_102"
+			{
+				"gid" "1606922502898928595"
+				"size" "6891"
+				"download" "4880"
+			}
+			"version_110"
+			{
+				"gid" "1606922502898928595"
+				"size" "6891"
+				"download" "4880"
+			}
+			"version_111"
+			{
+				"gid" "1606922502898928595"
+				"size" "6891"
+				"download" "4880"
+			}
+			"version_120"
+			{
+				"gid" "1606922502898928595"
+				"size" "6891"
+				"download" "4880"
+			}
+			"version_121"
+			{
+				"gid" "1606922502898928595"
+				"size" "6891"
+				"download" "4880"
+			}
+			"version_122"
+			{
+				"gid" "1606922502898928595"
+				"size" "6891"
+				"download" "4880"
+			}
+		}
+	}
+	"1575412"
+	{
+		"dlcappid" "1575412"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3961049801362365511"
+				"size" "201931374"
+				"download" "192142928"
+			}
+			"version_102"
+			{
+				"gid" "3961049801362365511"
+				"size" "201931374"
+				"download" "192142928"
+			}
+			"version_110"
+			{
+				"gid" "3961049801362365511"
+				"size" "201931374"
+				"download" "192142928"
+			}
+			"version_111"
+			{
+				"gid" "3961049801362365511"
+				"size" "201931374"
+				"download" "192142928"
+			}
+			"version_120"
+			{
+				"gid" "3961049801362365511"
+				"size" "201931374"
+				"download" "192142928"
+			}
+			"version_121"
+			{
+				"gid" "3961049801362365511"
+				"size" "201931374"
+				"download" "192142928"
+			}
+			"version_122"
+			{
+				"gid" "3961049801362365511"
+				"size" "201931374"
+				"download" "192142928"
+			}
+		}
+	}
+	"1575413"
+	{
+		"dlcappid" "1575413"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6521173167969426987"
+				"size" "33168222"
+				"download" "32850512"
+			}
+			"version_102"
+			{
+				"gid" "6521173167969426987"
+				"size" "33168222"
+				"download" "32850512"
+			}
+			"version_110"
+			{
+				"gid" "6521173167969426987"
+				"size" "33168222"
+				"download" "32850512"
+			}
+			"version_111"
+			{
+				"gid" "6521173167969426987"
+				"size" "33168222"
+				"download" "32850512"
+			}
+			"version_120"
+			{
+				"gid" "6521173167969426987"
+				"size" "33168222"
+				"download" "32850512"
+			}
+			"version_121"
+			{
+				"gid" "6521173167969426987"
+				"size" "33168222"
+				"download" "32850512"
+			}
+			"version_122"
+			{
+				"gid" "6521173167969426987"
+				"size" "33168222"
+				"download" "32850512"
+			}
+		}
+	}
+	"1575415"
+	{
+		"dlcappid" "1575415"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "673182790863950377"
+				"size" "324097544"
+				"download" "317024784"
+			}
+			"version_102"
+			{
+				"gid" "673182790863950377"
+				"size" "324097544"
+				"download" "317024784"
+			}
+			"version_110"
+			{
+				"gid" "673182790863950377"
+				"size" "324097544"
+				"download" "317024784"
+			}
+			"version_111"
+			{
+				"gid" "673182790863950377"
+				"size" "324097544"
+				"download" "317024784"
+			}
+			"version_120"
+			{
+				"gid" "673182790863950377"
+				"size" "324097544"
+				"download" "317024784"
+			}
+			"version_121"
+			{
+				"gid" "673182790863950377"
+				"size" "324097544"
+				"download" "317024784"
+			}
+			"version_122"
+			{
+				"gid" "673182790863950377"
+				"size" "324097544"
+				"download" "317024784"
+			}
+		}
+	}
+	"1575414"
+	{
+		"dlcappid" "1575414"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3669183520799152905"
+				"size" "572075990"
+				"download" "545852720"
+			}
+			"version_102"
+			{
+				"gid" "3669183520799152905"
+				"size" "572075990"
+				"download" "545852720"
+			}
+			"version_110"
+			{
+				"gid" "3669183520799152905"
+				"size" "572075990"
+				"download" "545852720"
+			}
+			"version_111"
+			{
+				"gid" "3669183520799152905"
+				"size" "572075990"
+				"download" "545852720"
+			}
+			"version_120"
+			{
+				"gid" "3669183520799152905"
+				"size" "572075990"
+				"download" "545852720"
+			}
+			"version_121"
+			{
+				"gid" "3669183520799152905"
+				"size" "572075990"
+				"download" "545852720"
+			}
+			"version_122"
+			{
+				"gid" "3669183520799152905"
+				"size" "572075990"
+				"download" "545852720"
+			}
+		}
+	}
+	"1573918"
+	{
+		"dlcappid" "1573918"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1025072620451860628"
+				"size" "3711471"
+				"download" "3067184"
+			}
+			"version_102"
+			{
+				"gid" "2822904720121800369"
+				"size" "3711471"
+				"download" "3067184"
+			}
+			"version_110"
+			{
+				"gid" "1025072620451860628"
+				"size" "3711471"
+				"download" "3067184"
+			}
+			"version_111"
+			{
+				"gid" "1025072620451860628"
+				"size" "3711471"
+				"download" "3067184"
+			}
+			"version_120"
+			{
+				"gid" "1025072620451860628"
+				"size" "3711471"
+				"download" "3067184"
+			}
+			"version_121"
+			{
+				"gid" "1025072620451860628"
+				"size" "3711471"
+				"download" "3067184"
+			}
+			"version_122"
+			{
+				"gid" "1025072620451860628"
+				"size" "3711471"
+				"download" "3067184"
+			}
+		}
+	}
+	"1656320"
+	{
+		"dlcappid" "1656320"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8147830071725582808"
+				"size" "14924371880"
+				"download" "11221901776"
+			}
+			"version_120"
+			{
+				"gid" "8147830071725582808"
+				"size" "14924371880"
+				"download" "11221901776"
+			}
+			"version_121"
+			{
+				"gid" "8147830071725582808"
+				"size" "14924371880"
+				"download" "11221901776"
+			}
+			"version_122"
+			{
+				"gid" "8147830071725582808"
+				"size" "14924371880"
+				"download" "11221901776"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16668697"
+			"timeupdated" "1733763146"
+		}
+		"version_102"
+		{
+			"buildid" "6514526"
+			"description" "version_102"
+			"timeupdated" "1618170789"
+		}
+		"version_110"
+		{
+			"buildid" "6523274"
+			"description" "version_110"
+			"timeupdated" "1618253793"
+		}
+		"version_111"
+		{
+			"buildid" "6528541"
+			"description" "version_111"
+			"timeupdated" "1618680894"
+		}
+		"version_120"
+		{
+			"buildid" "6928324"
+			"description" "version_120"
+			"timeupdated" "1697384545"
+		}
+		"version_121"
+		{
+			"buildid" "12449499"
+			"description" "version_121"
+			"timeupdated" "1733603284"
+		}
+		"version_122"
+		{
+			"buildid" "16668697"
+			"description" "version_122"
+			"timeupdated" "1733603354"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "750"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "Falcom/ed8_psv4"
+			"pattern" "*.dat"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinSavedGames"
+			"path" "Falcom/ed8_psv4"
+			"pattern" "*.bmp"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26973355"
+"_sha" "f8d81e2ea6bcd5236f2deb783f8908a2df674d0b"
+"_size" "24931"
