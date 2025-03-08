@@ -1,0 +1,234 @@
+"appid" "6840"
+"common"
+{
+	"clienttga" "301918816afa02e966ea3fff298d985ca0a1ee66"
+	"icon" "73f9a99ca805232d3fd632fc2eba4ad6e2832195"
+	"logo" "6df824b0b03ae63687853825a3e276c828fc9854"
+	"logo_small" "eb91685987dc0929f4683c6a207a765336793992"
+	"metacritic_url" "pc/commandos3"
+	"name" "Commandos 3: Destination Berlin"
+	"clienticon" "5c5d286895042d60160ebcdd30734e1592d6e266"
+	"eulas"
+	{
+		"0"
+		{
+			"url" "http://store.steampowered.com/eula/eula_eidos"
+			"id" "eula_eidos"
+			"name" "eula_eidos"
+		}
+	}
+	"type" "game"
+	"metacritic_name" "Commandos 3: Destination Berlin"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "45.39089848308051"
+			"height_pct" "72.64307765376397"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "45.39089848308051"
+				"height_pct" "72.64307765376397"
+			}
+		}
+	}
+	"store_asset_mtime" "1573659932"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pyro Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kalypso Media Digital"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Commandos"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_2" "1"
+		"category_9" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1066114800"
+	"steam_release_date" "1173942000"
+	"metacritic_score" "72"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/commandos-3-destination-berlin\?ftag=MCD-06-10aaa1f"
+	"community_hub_visible" "1"
+	"gameid" "6840"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "19"
+		"2" "1708"
+		"3" "1687"
+		"4" "4150"
+		"5" "1676"
+		"6" "4168"
+		"7" "3813"
+		"8" "1685"
+		"9" "1678"
+	}
+	"review_score" "5"
+	"review_percentage" "62"
+}
+"extended"
+{
+	"developer" "Pyro Studios"
+	"gamedir" "Commandos 3 Destination Berlin"
+	"homepage" "http://www.commandosgame.com/"
+	"icon" "steam/games/icon_Commandos_3"
+	"installscript" "installscript.vdf"
+	"launcheula" "http://store.steampowered.com/eula/eula_eidos"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "6841"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"developer_url" "http://www.pyrostudios.com/"
+	"publisher" "Kalypso Media Digital"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Commandos 3 Destination Berlin"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "commandos3.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "commandos3.exe"
+			"arguments" "-multienable"
+			"description" "Multiplayer"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "Legacy/commandos3.exe"
+			"description" "Legacy Version"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"6841"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6088628158519701898"
+				"size" "1967776498"
+				"download" "1623856784"
+			}
+		}
+	}
+	"6842"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6354032843392261571"
+				"size" "1968054759"
+				"download" "1520886896"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "994050"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "7abc610be641e91928c36ce7033f3cb145249b3f"
+"_size" "4073"
