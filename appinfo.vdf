@@ -1,0 +1,502 @@
+"appid" "1076200"
+"common"
+{
+	"name" "Roguebook"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"logo" "07f37d5fe170e452785b35939a3427c0d3e097d8"
+	"logo_small" "07f37d5fe170e452785b35939a3427c0d3e097d8_thumb"
+	"icon" "fe5c858d8487f76de4cca2be78a12926da289c2f"
+	"clienttga" "edbc10ea17e3d7e309fb08c1fe01605352aed975"
+	"clienticon" "3a1819d7044341f94b23716958b33e9249a22fdd"
+	"name_localized"
+	{
+		"schinese" "魔域之书"
+		"tchinese" "魔域之书"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1663804800"
+		"tested_build_id" "8473091"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Roguebook"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1649238487"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Abrakam Entertainment SA"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Nacon"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Nacon"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Faeria"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1623939880"
+	"metacritic_score" "78"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/roguebook\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1076200"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "492"
+		"2" "1666"
+		"3" "32322"
+		"4" "9"
+		"5" "4182"
+		"6" "3959"
+		"7" "1716"
+		"8" "1677"
+		"9" "14139"
+		"10" "791774"
+		"11" "4325"
+		"12" "1091588"
+		"13" "3871"
+		"14" "4026"
+		"15" "1684"
+		"16" "1741"
+		"17" "4711"
+		"18" "21"
+		"19" "4057"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Abrakam Entertainment SA"
+	"publisher" "Nacon"
+	"homepage" "https://roguebook.net/"
+	"listofdlc" "1518150,1518151,1518152,1518153,1704470"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Roguebook"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Roguebook.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Roguebook"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "Roguebook.app\\Contents\\MacOS\\Roguebook"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "13"
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1076201"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2995946032821263265"
+				"size" "4319223907"
+				"download" "1396672160"
+			}
+			"1.5.8"
+			{
+				"gid" "6258344325447511210"
+				"size" "3855625247"
+				"download" "1277883936"
+			}
+		}
+	}
+	"1076202"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4503896454055639366"
+				"size" "4349256404"
+				"download" "1405356400"
+			}
+			"1.5.8"
+			{
+				"gid" "6262376006038960116"
+				"size" "3878163829"
+				"download" "1285102032"
+			}
+		}
+	}
+	"1076203"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5320882812528019288"
+				"size" "4369112354"
+				"download" "1399088576"
+			}
+			"1.5.8"
+			{
+				"gid" "4202349306145889935"
+				"size" "3903114019"
+				"download" "1280870336"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8473091"
+			"timeupdated" "1649148978"
+		}
+		"1.5.8"
+		{
+			"buildid" "7361859"
+			"description" "Last 1.5 version"
+			"timeupdated" "1631691816"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "3000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Abrakam Entertainment SA/Roguebook/Saves/Steam_{64BitSteamID}/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Abrakam Entertainment SA/Roguebook/Saves/Steam_{64BitSteamID}/"
+					"replace" "Abrakam Entertainment SA/Roguebook/Saves/Steam_{64BitSteamID}/"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Abrakam Entertainment SA/Roguebook/Saves/Steam_{64BitSteamID}/"
+					"replace" ".config/unity3d/Abrakam Entertainment SA/Roguebook/Saves/Steam_{64BitSteamID}/"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27620302"
+"_sha" "f1c7a7ca732fc344deb20f69f7bd967621b5c109"
+"_size" "8949"
