@@ -1,0 +1,271 @@
+"appid" "1151740"
+"common"
+{
+	"name" "Prison Princess"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"clienticon" "059cb044280419afd24eb4b5de569022f9292a48"
+	"clienttga" "4d07b79a4d36d3f072de3da21a1f01825668a1f1"
+	"icon" "e2fce3de33f3532bfaab157bfa7f04e101d6e2a6"
+	"logo" "2dd1a4ca0afbd0793c083237cd42200dd0c5a1ba"
+	"logo_small" "2dd1a4ca0afbd0793c083237cd42200dd0c5a1ba_thumb"
+	"name_localized"
+	{
+		"japanese" "プリズンプリンセス"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1728000000"
+		"tested_build_id" "4786175"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Prison Princess"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "55.892222166370175"
+			"height_pct" "39.846153667382225"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "55.892222166370175"
+				"height_pct" "39.846153667382225"
+			}
+		}
+	}
+	"store_asset_mtime" "1584006440"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "qureate"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "qureate"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1585850652"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1151740"
+	"store_tags"
+	{
+		"0" "12095"
+		"1" "21"
+		"2" "492"
+		"3" "6650"
+		"4" "4085"
+		"5" "5611"
+		"6" "3799"
+		"7" "1664"
+		"8" "9130"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "qureate"
+	"publisher" "qureate"
+}
+"config"
+{
+	"installdir" "Prison Princess"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Prison Princess.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"1900836386"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,debug_dev,debug_rel"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "65535"
+}
+"depots"
+{
+	"1151741"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4991103084122412732"
+				"size" "516805268"
+				"download" "378473632"
+			}
+		}
+	}
+	"baselanguages" "english,schinese,tchinese,japanese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4786175"
+			"timeupdated" "1584439136"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26997904"
+"_sha" "b9239d3fba3d23d01cc5f40ded1309d1dfb896dd"
+"_size" "4874"
