@@ -1,0 +1,372 @@
+"appid" "1286280"
+"common"
+{
+	"name" "Pronty"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "d36bf4a901acb35defffc56f16f9e6508441c92c"
+	"clienttga" "71f954b9baa8033d0f4d5ec5d0ef52d1d92f821a"
+	"icon" "3d64dee4b4e8ccbb350e9b439236b9bc080bf66a"
+	"name_localized"
+	{
+		"english" "Pronty"
+		"schinese" "弃海"
+		"tchinese" "棄海"
+		"japanese" "棄海：忘れられた深海都市"
+		"german" "Pronty: Abenteuer unter Wasser"
+		"french" "Pronty: Mystères des Profondeurs"
+	}
+	"logo" "9b410455d2c1031f3abe5ff1f5161484875ad765"
+	"logo_small" "9b410455d2c1031f3abe5ff1f5161484875ad765_thumb"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "8073148"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"japanese" "header_japanese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,zh-tw,zh-cn"
+		"library_hero" "en"
+		"library_logo" "zh-tw,ja,zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "33.11641599306893"
+			"height_pct" "69.97956958934367"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "33.11641599306893"
+				"height_pct" "69.97956958934367"
+			}
+			"image"
+			{
+				"tchinese" "logo_tchinese.png"
+				"japanese" "logo_japanese.png"
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"japanese" "logo_japanese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1681824832"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "18Light Game Ltd."
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "FunZone Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "18Light Game Ltd."
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "CE-Asia"
+		}
+		"4"
+		{
+			"type" "publisher"
+			"name" "樂磚 Joy Brick"
+		}
+		"5"
+		{
+			"type" "publisher"
+			"name" "Mayflower Entertainment"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1637283378"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1286280"
+	"store_tags"
+	{
+		"0" "1628"
+		"1" "9157"
+		"2" "19"
+		"3" "4026"
+		"4" "4166"
+		"5" "3834"
+		"6" "3871"
+		"7" "3798"
+		"8" "4106"
+		"9" "5379"
+		"10" "1625"
+		"11" "4195"
+		"12" "4726"
+		"13" "6971"
+		"14" "4305"
+		"15" "21"
+		"16" "4182"
+		"17" "1695"
+		"18" "1742"
+		"19" "29482"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "18Light Game Ltd."
+	"publisher" "18Light Game Ltd."
+	"homepage" "http://www.18light.cc/en/PFA"
+}
+"config"
+{
+	"installdir" "Pronty Fishy Adventure"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Pronty Fishy Adventure.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"baselanguages" "english,tchinese"
+	"1286281"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3436579275731630122"
+				"size" "1709734581"
+				"download" "1221704160"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14019792"
+			"timeupdated" "1712823905"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "102400"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "18Light Game/Pronty Fishy Adventure"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27573520"
+"_sha" "9e1f4fe12eee329d07e4e07d9a35f4f4a8724683"
+"_size" "6871"
