@@ -1,0 +1,422 @@
+"appid" "1496790"
+"common"
+{
+	"name" "Gotham Knights"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "1c133f57d64f54f24e4ef314b1ee08b8f5715df7"
+	"clienticon" "7bc6b1bbafce8081fd41558f706978ad317714dd"
+	"clienttga" "38dc97af58d299fc2bbfc1b71f24e30dbf37ebf9"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1496790_eula_0"
+			"name" "Gotham Knights EULA"
+			"url" "https://store.steampowered.com//eula/1496790_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1698710400"
+		"tested_build_id" "12563579"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "59.51359884237183"
+			"height_pct" "66.31900176319"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "59.51359884237183"
+				"height_pct" "66.31900176319"
+			}
+		}
+	}
+	"store_asset_mtime" "1669857264"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Warner Bros. Games Montréal"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "QLOC"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Warner Bros. Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "WB Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_61" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1666371636"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1496790"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1695"
+		"2" "1671"
+		"3" "3843"
+		"4" "4182"
+		"5" "4231"
+		"6" "1687"
+		"7" "3859"
+		"8" "21"
+		"9" "122"
+		"10" "1697"
+		"11" "1742"
+		"12" "1685"
+		"13" "4106"
+		"14" "1751"
+		"15" "4342"
+		"16" "6378"
+		"17" "3993"
+		"18" "4747"
+		"19" "4166"
+	}
+	"review_score" "5"
+	"review_percentage" "67"
+}
+"extended"
+{
+	"additional_dependencies"
+	{
+		"0"
+		{
+			"src_os" "windows"
+			"dest_os" "linux"
+			"h264" "1"
+		}
+	}
+	"developer" "Warner Bros. Games Montréal"
+	"publisher" "Warner Bros. Games"
+	"listofdlc" "2074430,2074431,2074432,2142690,2142691,2142692,2142693,2142694,2142695,2142696,2399950"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Gotham Knights"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "GothamKnights.exe"
+			"type" "default"
+		}
+		"2"
+		{
+			"executable" "GothamKnightsNoOverlay.exe"
+			"config"
+			{
+				"betakey" "developmenttest2"
+			}
+			"description_loc"
+			{
+				"english" "Play Gotham Knights (Test)"
+			}
+			"description" "Play Gotham Knights (Test)"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,arabic,brazilian,latam"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1496791"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3510191769474518400"
+				"size" "48059404106"
+				"download" "47707058144"
+			}
+		}
+	}
+	"1496792"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8873222435969905230"
+				"size" "464555602"
+				"download" "242011840"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12681436"
+			"timeupdated" "1701193031"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10485760"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "WB Games/Gotham Knights/Steam/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "26901422"
+"_sha" "e65c1d021593c398f86ef27dd161bbba1d53ce5f"
+"_size" "7283"
