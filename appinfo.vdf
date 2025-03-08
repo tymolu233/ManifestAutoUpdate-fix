@@ -1,0 +1,361 @@
+"appid" "1735950"
+"common"
+{
+	"name" "纸嫁衣"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "c19dc0073bd66afd66a9cffd8a0f447477e3d96d"
+	"logo_small" "c19dc0073bd66afd66a9cffd8a0f447477e3d96d_thumb"
+	"icon" "283e47a5a0ecac0d1ad94beaa9f98714564f86fb"
+	"clienttga" "7b26dceb81806e9089312df722f5ed77ff9a6b59"
+	"linuxclienticon" "509347431cbe1220b6db767d50863cf4d3c7ebfb"
+	"clienticns" "6ae30c04c0ce2388d877d2663159e9d7e4cc8960"
+	"clienticon" "cca3603bc930d3d1391c3480e8b819d888e448a0"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"thai" "1"
+		"japanese" "1"
+		"vietnamese" "1"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"english" "Paper Bride"
+		"tchinese" "紙嫁衣"
+		"schinese" "纸嫁衣"
+		"japanese" "紙装束"
+		"koreana" "종이 혼례복"
+		"thai" "วิวาห์ใบสั่งตาย"
+		"vietnamese" "Áo Cưới Giấy"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1735950_eula_0"
+			"name" "纸嫁衣 EULA"
+			"url" "https://store.steampowered.com//eula/1735950_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1657152000"
+		"tested_build_id" "8103127"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "792a93d56c732e69d35da1a45e6841a574bdc0bf/capsule_231x87.jpg"
+		"tchinese" "a9e6f62beb8efc006b544cc2beb90a6ad7c5ed9c/capsule_231x87_tchinese.jpg"
+		"schinese" "a9e6f62beb8efc006b544cc2beb90a6ad7c5ed9c/capsule_231x87_schinese.jpg"
+		"japanese" "0ef1ec0ada9ddeeb6050e45646dfaece5e0dff3b/capsule_231x87_japanese.jpg"
+		"thai" "60225bc0ab85139b4b2ce2ef5d114005c462c6a5/capsule_231x87_thai.jpg"
+		"vietnamese" "7a6ac44157c8d5e21b198c80187e7f8fdb4c0192/capsule_231x87_vietnamese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"thai" "header_thai.jpg"
+		"vietnamese" "header_vietnamese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-tw,zh-cn,ja,th,vi"
+		"library_hero" "en"
+		"library_logo" "en,zh-tw,zh-cn,ja,th,vi"
+		"library_header" "vi,en,th,ja,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "8d3641036c48963798fb81e9fd126d625794bd75/library_600x900.jpg"
+				"tchinese" "639e4056fa2407994a80d9efae4b05bfe50b2cec/library_600x900_tchinese.jpg"
+				"schinese" "639e4056fa2407994a80d9efae4b05bfe50b2cec/library_600x900_schinese.jpg"
+				"japanese" "8932bea1900b6b8c4816954059b20d601dd3e1f6/library_600x900_japanese.jpg"
+				"thai" "5fe2768c2d9b85ec82556518c8485baa4a299baa/library_600x900_thai.jpg"
+				"vietnamese" "4764e10f1240dadba06340b7447aa81cf27ae096/library_600x900_vietnamese.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "936e06112b31aaa15e27eb5b36afec7a854deefd/logo.png"
+				"tchinese" "5151e46d0efdad0aa55237f55d0f525f23d1ed17/logo_tchinese.png"
+				"schinese" "5151e46d0efdad0aa55237f55d0f525f23d1ed17/logo_schinese.png"
+				"japanese" "3a2b06ef902de8300986a2991820081fe787d661/logo_japanese.png"
+				"thai" "6c97263f9b7184bc5aacda50d3d45b4a8cae7011/logo_thai.png"
+				"vietnamese" "5e5ffb22da06437de94441f05fd86f4703eab6d8/logo_vietnamese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"vietnamese" "c59efb192173abfc9de9ba7a80c46cbb1b26d94f/library_header_vietnamese.jpg"
+				"english" "aff657b4f7bf80799e80f7541d1800459a35bff2/library_header.jpg"
+				"thai" "d7ce90bd9deaef1d820eb18c4e8ff31312121f63/library_header_thai.jpg"
+				"japanese" "63cbfd29cb560824d4d7e8842158c570599eb7dd/library_header_japanese.jpg"
+				"schinese" "bdceea6fbd1e04721fe4e7da458544df5d732ae7/library_header_schinese.jpg"
+				"tchinese" "bdceea6fbd1e04721fe4e7da458544df5d732ae7/library_header_tchinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727258915"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "HeartBeat Plus"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "HeartBeat Plus"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1638494295"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1735950"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "1664"
+		"2" "3871"
+		"3" "5984"
+		"4" "5716"
+		"5" "5613"
+		"6" "4166"
+		"7" "4064"
+		"8" "4182"
+		"9" "597"
+		"10" "10808"
+		"11" "1742"
+		"12" "5537"
+		"13" "122"
+		"14" "24003"
+		"15" "1721"
+		"16" "5094"
+		"17" "11014"
+		"18" "4004"
+		"19" "4145"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "HeartBeat Plus"
+	"publisher" "HeartBeat Plus"
+	"homepage" "https://www.gamefps.com/"
+}
+"config"
+{
+	"installdir" "Paper Bride"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "zjy.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" ""
+	"1735951"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7760395770867840515"
+				"size" "295763642"
+				"download" "152649344"
+			}
+		}
+	}
+	"1735952"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5601909260979355887"
+				"size" "315950355"
+				"download" "154794160"
+			}
+		}
+	}
+	"1735953"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9208830750023627647"
+				"size" "82443012"
+				"download" "81934304"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8103127"
+			"timeupdated" "1643355548"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26845279"
+"_sha" "49620e4bb56f0899acefedbf4c37fc2aa1b6fdb2"
+"_size" "7899"
