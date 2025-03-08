@@ -1,0 +1,352 @@
+"appid" "1229460"
+"common"
+{
+	"name" "Dice Legacy"
+	"type" "Game"
+	"logo" "99261c0ab11d7a7db9cd3407598b0ea959bd3e08"
+	"logo_small" "99261c0ab11d7a7db9cd3407598b0ea959bd3e08_thumb"
+	"icon" "5080a952888c29380ed1f279a9d9bd312a526371"
+	"clienticon" "316bc2c68aab0b83b364dbd92793b97ed291fc12"
+	"clienttga" "85bf1a076b456a5c3a015f57b1f93690263bc494"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "骰子遗产"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1652227200"
+		"tested_build_id" "8546521"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Dice Legacy"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "53.806451612903224"
+			"height_pct" "62.847222222222214"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "53.806451612903224"
+				"height_pct" "62.847222222222214"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1661954321"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "DESTINYbit"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "DESTINYbit"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Amplifier Studios"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1631202969"
+	"metacritic_score" "70"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/dice-legacy\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1229460"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "1662"
+		"2" "9"
+		"3" "1716"
+		"4" "4161"
+		"5" "1676"
+		"6" "1770"
+		"7" "492"
+		"8" "220585"
+		"9" "3959"
+		"10" "12472"
+		"11" "4305"
+		"12" "4166"
+		"13" "8945"
+		"14" "5125"
+		"15" "7332"
+		"16" "4172"
+		"17" "1643"
+		"18" "1702"
+		"19" "3834"
+	}
+	"review_score" "5"
+	"review_percentage" "68"
+}
+"extended"
+{
+	"developer" "DESTINYbit"
+	"publisher" "DESTINYbit"
+	"homepage" "http://www.dicelegacy.com"
+	"listofdlc" "1879740"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Dice Legacy"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DiceKingdom.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1229461"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4808248920578021382"
+				"size" "1941035021"
+				"download" "1859886320"
+			}
+			"laboratory"
+			{
+				"gid" "6807290446721149683"
+				"size" "2780090845"
+				"download" "1354243584"
+			}
+		}
+	}
+	"1229463"
+	{
+	}
+	"1879740"
+	{
+		"dlcappid" "1879740"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5772619224284661721"
+				"size" "84653472"
+				"download" "78313168"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8546521"
+			"timeupdated" "1650380070"
+		}
+		"laboratory"
+		{
+			"buildid" "7864497"
+			"description" "Dice Legacy Laboratory branch"
+			"timeupdated" "1639173237"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27607225"
+"_sha" "82378673a9be3987f415511f0065567e910cb3d9"
+"_size" "5923"
