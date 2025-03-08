@@ -1,0 +1,460 @@
+"appid" "1120320"
+"common"
+{
+	"name" "Builder Simulator"
+	"type" "Game"
+	"releasestate" "released"
+	"clienttga" "dfa9eeab2e2413ea53a11f75c8df8e6e21871673"
+	"clienticon" "bf2f061d6e4ad5f27cc3f4634350093fa262a618"
+	"icon" "d6994d09c3d5460009e23927eb1fba6d83518bac"
+	"logo" "f7cc67bd04592d3e62f5a75f39af717d4993c897"
+	"logo_small" "f7cc67bd04592d3e62f5a75f39af717d4993c897_thumb"
+	"name_localized"
+	{
+		"schinese" "盖房模拟器"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1709078400"
+		"tested_build_id" "13431472"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Builder Simulator"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "a87bd5bf4decb2396298e19b57bc75695fe89e06/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "a87bd5bf4decb2396298e19b57bc75695fe89e06/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732016719"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Live Motion Games"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Frozen Way"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Live Motion Games"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Frozen Way"
+		}
+		"4"
+		{
+			"type" "publisher"
+			"name" "Frozen District"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "Builder Simulator"
+		}
+		"6"
+		{
+			"type" "franchise"
+			"name" "Frozen Way"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1654790292"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1120320"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "1643"
+		"2" "4182"
+		"3" "84"
+		"4" "3810"
+		"5" "1036"
+		"6" "1654"
+		"7" "4711"
+		"8" "9204"
+		"9" "5350"
+		"10" "4695"
+		"11" "12472"
+		"12" "3839"
+		"13" "7332"
+		"14" "4191"
+		"15" "4175"
+		"16" "492"
+		"17" "5363"
+		"18" "7481"
+		"19" "21"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"developer" "Live Motion Games"
+	"publisher" "Live Motion Games"
+	"homepage" "https://frozenway.games/"
+}
+"config"
+{
+	"installdir" "Builder Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Builder Simulator.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Builder Simulator.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamdecktouchscreen" "5"
+	"steamconfigurator3rdpartynative" "65535"
+	"steamcontrollertemplateindex" "3"
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"workshopdepot" "1120320"
+	"1120321"
+	{
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4793629935682593328"
+				"size" "11863339429"
+				"download" "8754615408"
+			}
+		}
+	}
+	"1120322"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "540087440472566039"
+				"size" "11911481764"
+				"download" "8781696688"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17427633"
+			"timeupdated" "1739994255"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Live Motion Games\\Builder Simulator\\Save"
+			"pattern" "*.save"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Live Motion Games\\Builder Simulator\\Save"
+			"pattern" "*.jpg"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Live Motion Games\\Builder Simulator"
+			"pattern" "*.cfg"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Live Motion Games\\Builder Simulator"
+			"pattern" "*.dat"
+		}
+		"4"
+		{
+			"root" "gameinstall"
+			"path" "Projects\\Planner\\7x7"
+			"pattern" "*.dat"
+		}
+		"5"
+		{
+			"root" "gameinstall"
+			"path" "Projects\\Planner\\16x16"
+			"pattern" "*.dat"
+		}
+		"6"
+		{
+			"root" "gameinstall"
+			"path" "Projects\\Planner\\30x30"
+			"pattern" "*.dat"
+		}
+		"7"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Frozen Way\\Builder Simulator\\Save"
+			"pattern" "*.save"
+		}
+		"8"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Frozen Way\\Builder Simulator\\Save"
+			"pattern" "*.jpg"
+		}
+		"9"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Frozen Way\\Builder Simulator"
+			"pattern" "*.cfg"
+		}
+		"10"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Frozen Way\\Builder Simulator"
+			"pattern" "*.dat"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27580584"
+"_sha" "019f65418ee81e82c43f566167d6dfc87ca2e7b7"
+"_size" "8231"
