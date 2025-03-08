@@ -1,0 +1,413 @@
+"appid" "1370140"
+"common"
+{
+	"name" "Kao the Kangaroo"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "be609d4a180825bf8548487433a5f81ad972d113"
+	"logo_small" "be609d4a180825bf8548487433a5f81ad972d113_thumb"
+	"icon" "fb9ad8666ff650bb0767e8042feda9abdc110ebf"
+	"clienticon" "a385615c971ab41d29ee300ca3fb540766952a24"
+	"clienttga" "31324843cfc38ec50659c83e2a167d5450c03d5b"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"polish" "Kangurek Kao"
+		"schinese" "袋鼠闯天关"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1655164800"
+		"tested_build_id" "8850358"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"polish" "capsule_231x87_polish.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"polish" "header_polish.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,pl"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,pl"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "89.08461612847624"
+			"height_pct" "53.884614572694296"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"polish" "library_600x900_polish.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"polish" "library_600x900_polish_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"polish" "logo_polish.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "89.08461612847624"
+				"height_pct" "53.884614572694296"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"polish" "logo_polish_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1701437553"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tate Multimedia"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Tate Multimedia"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Tate Multimedia"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1653656401"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1370140"
+	"store_tags"
+	{
+		"0" "5395"
+		"1" "19"
+		"2" "4106"
+		"3" "3993"
+		"4" "21"
+		"5" "1773"
+		"6" "4726"
+		"7" "4195"
+		"8" "4305"
+		"9" "4004"
+		"10" "5652"
+		"11" "5941"
+		"12" "5350"
+		"13" "12190"
+		"14" "1719"
+		"15" "7481"
+		"16" "7948"
+		"17" "4182"
+		"18" "4136"
+		"19" "3955"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "Tate Multimedia"
+	"publisher" "Tate Multimedia"
+	"homepage" "https://kaokangaroo.com/"
+	"listofdlc" "2052960,2052961,2052962,2052963,2155050,2249670,2389070"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Kao the Kangaroo"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Kao the Kangaroo.exe"
+			"type" "default"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,czech,brazilian,latam"
+	"hasdepotsindlc" "1"
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1370141"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "360528155579127698"
+				"size" "9683442895"
+				"download" "9689455008"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11272397"
+			"timeupdated" "1684506114"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "30"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Kao/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Kao/Saved/Config/WindowsNoEditor"
+			"pattern" "*.ini"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27082637"
+"_sha" "1d448dd1e9718efd2605deadf3ab6cd3beefc01c"
+"_size" "7399"
