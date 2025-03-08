@@ -1,0 +1,692 @@
+"appid" "976590"
+"common"
+{
+	"name" "Bus Simulator 21 Next Stop"
+	"type" "Game"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"logo" "3e53da90fdfcbab36f71be9aba55e20253ece874"
+	"logo_small" "3e53da90fdfcbab36f71be9aba55e20253ece874_thumb"
+	"icon" "5fd146781ebe48c0c2fdbea69c0865e7ef3ce22c"
+	"clienticon" "e86042e241bb607d4280cf01a13e15ee2d16ba7c"
+	"clienttga" "cddc00ffacd1e447259b23fc57fbc4e31e4553cf"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "976590_eula_1"
+			"name" "Bus Simulator 21 EULA"
+			"url" "https://store.steampowered.com//eula/976590_eula_1"
+			"version" "3"
+		}
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1683072000"
+		"tested_build_id" "11077054"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-1"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1741275531"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "stillalive studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "astragon Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Bus Simulator"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1631015520"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "976590"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "1100687"
+		"2" "1644"
+		"3" "4191"
+		"4" "4175"
+		"5" "9204"
+		"6" "3839"
+		"7" "4305"
+		"8" "1697"
+		"9" "5350"
+		"10" "5673"
+		"11" "1654"
+		"12" "3859"
+		"13" "4747"
+		"14" "7481"
+		"15" "1695"
+		"16" "1685"
+		"17" "3843"
+		"18" "4182"
+		"19" "12472"
+	}
+	"review_score" "5"
+	"review_percentage" "69"
+}
+"extended"
+{
+	"developer" "stillalive studios"
+	"publisher" "astragon Entertainment"
+	"homepage" "http://www.bussimulator.com/"
+	"listofdlc" "1485720,1485750,1486560,1486570,1486580,1486590,1704440,1783410,1783411,1783412,1783413,1836140,1836141,1836142,1911470,1911471,2139420,2306070,2392580"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Bus Simulator 21"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BusSimulator21.exe"
+			"type" "none"
+		}
+		"1"
+		{
+			"executable" "BusSimulator20.exe"
+			"type" "none"
+			"config"
+			{
+				"betakey" "busreview"
+			}
+		}
+		"2"
+		{
+			"executable" "BusSimulator20.exe"
+			"type" "none"
+			"config"
+			{
+				"betakey" "marketing"
+			}
+		}
+		"3"
+		{
+			"executable" "BusSimulator20.exe"
+			"type" "none"
+			"config"
+			{
+				"betakey" "preview"
+			}
+		}
+		"4"
+		{
+			"executable" "BusSimulator20.exe"
+			"type" "none"
+			"config"
+			{
+				"betakey" "reviewpreview"
+			}
+		}
+		"5"
+		{
+			"executable" "BusSimulator20.exe"
+			"type" "none"
+			"config"
+			{
+				"betakey" "tomasbranch"
+			}
+		}
+		"6"
+		{
+			"executable" "BusSimulator20.exe"
+			"type" "none"
+			"config"
+			{
+				"betakey" "fbranch"
+			}
+		}
+		"7"
+		{
+			"executable" "BusSimulator20.exe"
+			"type" "none"
+			"config"
+			{
+				"betakey" "cbranch"
+			}
+		}
+		"8"
+		{
+			"executable" "BusSimulator20.exe"
+			"type" "none"
+			"config"
+			{
+				"betakey" "ebranch"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian"
+	"hasdepotsindlc" "0"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"976591"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2374038709161003536"
+				"size" "23190892680"
+				"download" "7599976752"
+			}
+		}
+	}
+	"1486570"
+	{
+		"dlcappid" "1486570"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6310368790381510027"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1486580"
+	{
+		"dlcappid" "1486580"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6297465074624670163"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1486590"
+	{
+		"dlcappid" "1486590"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4316936509363924012"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1486560"
+	{
+		"dlcappid" "1486560"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1837984742517363773"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1485720"
+	{
+		"dlcappid" "1485720"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4535202539317492959"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1485750"
+	{
+		"dlcappid" "1485750"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "788012618871084103"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"976592"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2590453868118776343"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"976593"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3101683791681034535"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"976594"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1418294023671483863"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"976595"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8246843103653329443"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"976596"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "292915948595902918"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"976597"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6025866341216559094"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"976598"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5422572123406641011"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"976599"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4103075117635241390"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1485721"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7820059700552528540"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1485722"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8787343333757603968"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1485723"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6499056453331452618"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1485724"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2432267210729026768"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1485725"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "98353191401572815"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1485726"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4928593117335707234"
+				"size" "559519"
+				"download" "325104"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17485361"
+			"timeupdated" "1741171947"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "BusSimulator21/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27833500"
+"_sha" "0474dd032fbe5b7830cc8e36046c3a35c1e1fda3"
+"_size" "10580"
