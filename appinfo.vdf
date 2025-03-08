@@ -1,0 +1,747 @@
+"appid" "1149620"
+"common"
+{
+	"name" "Gas Station Simulator"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"logo" "06efc24b6595b5da3bf40790aa3372732644d7d3"
+	"logo_small" "06efc24b6595b5da3bf40790aa3372732644d7d3_thumb"
+	"icon" "7b57c38b066dfe58882cc358f379060ae36dfe1f"
+	"clienticon" "b092cb1688a23e5dd1c600539e8352030cf834b9"
+	"clienttga" "86161b0068904595f44a3d1a782e91d9c0f1784e"
+	"name_localized"
+	{
+		"schinese" "加油站大亨"
+		"tchinese" "加油站大亨"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1666742400"
+		"tested_build_id" "9592134"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Gas Station Simulator"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "01004af565204afb920d25b1e129090d455142d3/capsule_231x87.jpg"
+		"french" "a0d735351d8cd7c8dfd02237851b5315d16918b8/capsule_231x87_french.jpg"
+		"german" "b02141308f24e09137a84038ef35230afaa6f1de/capsule_231x87_german.jpg"
+		"italian" "09d1eeaacf398d95bcaa903f60d1c68ac7cb93ba/capsule_231x87_italian.jpg"
+		"czech" "b9a0ea8d47b7ffbf6ce1a928d30b9bdbe826e377/capsule_231x87_czech.jpg"
+		"polish" "813dc8f3a909827d730aa43d9bbfb9ddc38f01f5/capsule_231x87_polish.jpg"
+		"spanish" "a820304a3c717a3f2374c777fc6ec50860971cfc/capsule_231x87_spanish.jpg"
+		"portuguese" "ac89bf34f096d6b229e3cb9b6749de783cb15a73/capsule_231x87_portuguese.jpg"
+		"russian" "b50c5d30f6dd67bff41cfcc62322e752e7b27363/capsule_231x87_russian.jpg"
+		"turkish" "29ec8a26e74ce7df30e39d09bad1979a503339e7/capsule_231x87_turkish.jpg"
+		"ukrainian" "8f2deaa69fb117ca692ae1fc2c261ca986f8958d/capsule_231x87_ukrainian.jpg"
+		"schinese" "54b5211df697ef1315c765adec7f64737b19305c/capsule_231x87_schinese.jpg"
+		"tchinese" "54b5211df697ef1315c765adec7f64737b19305c/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "02e5880b4eb2a8d6224f2261c8b6979398e5dda7/header.jpg"
+		"french" "b3321a6d1544b09c8643b13891a03d9759baa167/header_french.jpg"
+		"german" "59d0b8b02d7193c5ecf8d2cc7e067130e0c93bff/header_german.jpg"
+		"italian" "02d39229eadd1c057e78978cddb742e0c928b067/header_italian.jpg"
+		"czech" "8a8d48e262dec308877ab212b3ba604d5127a0fa/header_czech.jpg"
+		"polish" "93f97c4eb8a5ffbcd00b6a1933522f66f9266bec/header_polish.jpg"
+		"spanish" "43d52537cbda218e2241c9e582cdbddcbda6706a/header_spanish.jpg"
+		"portuguese" "980363559474c0401dfb3f6aeebe18bf26673c10/header_portuguese.jpg"
+		"russian" "2ec213988e81bf59e51a6cb4d2893d80bf77290d/header_russian.jpg"
+		"turkish" "d2c5c3ecc8d4ce18178e056b2dc456cd6924e219/header_turkish.jpg"
+		"ukrainian" "4e11b47eb4d4e031362b512b692568d4d25d11dd/header_ukrainian.jpg"
+		"schinese" "aa4b50fc63058710d50ceb2f7a506bbd01957d8f/header_schinese.jpg"
+		"tchinese" "aa4b50fc63058710d50ceb2f7a506bbd01957d8f/header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "55.95861799699351"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "55.95861799699351"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1741352373"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "DRAGO entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "DRAGO entertainment"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "HeartBeat Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "DRAGO entertainment"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_33" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1631725080"
+	"metacritic_score" "72"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/gas-station-simulator\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1149620"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "4695"
+		"2" "1643"
+		"3" "4182"
+		"4" "12472"
+		"5" "7332"
+		"6" "492"
+		"7" "3839"
+		"8" "1695"
+		"9" "4175"
+		"10" "1654"
+		"11" "3859"
+		"12" "1702"
+		"13" "597"
+		"14" "4136"
+		"15" "84"
+		"16" "10397"
+		"17" "5363"
+		"18" "5350"
+		"19" "6426"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "DRAGO entertainment"
+	"publisher" "DRAGO entertainment"
+	"homepage" "https://gasstationsimulatorthegame.com/"
+	"listofdlc" "1940030,1992100,2126170,2137370,2600880,2782920,3014630"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Gas Station Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GSS2.exe"
+			"arguments" "-Storefront=SteamOnlineSubsystem"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "GSS2.app"
+			"arguments" "-Storefront=SteamOnlineSubsystem"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "GSS2.exe"
+			"arguments" "-d3d12 -Storefront=SteamOnlineSubsystem"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Gas Station Simulator (DX12 Mode)"
+			}
+			"description" "Gas Station Simulator (DX12 Mode)"
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,russian,polish,turkish"
+	"hasdepotsindlc" "1"
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229033"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1149621"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1753385664779668027"
+				"size" "6341138131"
+				"download" "5981412128"
+			}
+		}
+	}
+	"1149622"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4775309349552758367"
+				"size" "12431959574"
+				"download" "10714727328"
+			}
+		}
+	}
+	"1940030"
+	{
+		"dlcappid" "1940030"
+		"config"
+		{
+			"oslist" "windows,macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6929487657672271545"
+				"size" "1330359202"
+				"download" "1201918688"
+			}
+		}
+	}
+	"2126170"
+	{
+		"dlcappid" "2126170"
+		"config"
+		{
+			"oslist" "windows,macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4379211872208836296"
+				"size" "274092674"
+				"download" "254948000"
+			}
+		}
+	}
+	"1940032"
+	{
+		"dlcappid" "1940030"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7510874445160734001"
+				"size" "2017790954"
+				"download" "1806332112"
+			}
+		}
+	}
+	"2126171"
+	{
+		"dlcappid" "2126170"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1030029135336323209"
+				"size" "366530291"
+				"download" "345246544"
+			}
+		}
+	}
+	"2126172"
+	{
+		"dlcappid" "2126170"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5428712147821399524"
+				"size" "429720181"
+				"download" "381580288"
+			}
+		}
+	}
+	"1940034"
+	{
+		"dlcappid" "1940030"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1374029462813209681"
+				"size" "1830850432"
+				"download" "1699678800"
+			}
+		}
+	}
+	"2137370"
+	{
+		"dlcappid" "2137370"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "680238790726546567"
+				"size" "1646715074"
+				"download" "1583892880"
+			}
+		}
+	}
+	"2137371"
+	{
+		"dlcappid" "2137370"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4415569360093029243"
+				"size" "2058707182"
+				"download" "1786257456"
+			}
+		}
+	}
+	"2600880"
+	{
+		"dlcappid" "2600880"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5801408145944587987"
+				"size" "2990012906"
+				"download" "2868863968"
+			}
+		}
+	}
+	"2600881"
+	{
+		"dlcappid" "2600880"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3598883271850953516"
+				"size" "1081927655"
+				"download" "1012300016"
+			}
+		}
+	}
+	"1992100"
+	{
+		"dlcappid" "1992100"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3184026232446336182"
+				"size" "4833975393"
+				"download" "4615037680"
+			}
+		}
+	}
+	"1992101"
+	{
+		"dlcappid" "1992100"
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"2782920"
+	{
+		"dlcappid" "2782920"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "816447465738374323"
+				"size" "1983474213"
+				"download" "1933152704"
+			}
+		}
+	}
+	"2782921"
+	{
+		"dlcappid" "2782920"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4348326690536338669"
+				"size" "1487006036"
+				"download" "1433737680"
+			}
+		}
+	}
+	"3014630"
+	{
+		"dlcappid" "3014630"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8498273181846936388"
+				"size" "283804380"
+				"download" "277982400"
+			}
+		}
+	}
+	"3014631"
+	{
+		"dlcappid" "3014630"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7743040695812130112"
+				"size" "286924298"
+				"download" "276935792"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17633563"
+			"timeupdated" "1741352289"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "209715200"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "GSS2/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "GSS2/Saved/SaveGames"
+					"replace" "Epic/GSS2/Saved/SaveGames"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27838806"
+"_sha" "3a5751e23e31377de2311978893f776b43a6b030"
+"_size" "13739"
