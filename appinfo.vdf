@@ -1,0 +1,417 @@
+"appid" "529180"
+"common"
+{
+	"name" "Dark and Light"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "87717cf4a48e32a5950d0560b96e2e991b3a844b"
+	"logo_small" "87717cf4a48e32a5950d0560b96e2e991b3a844b_thumb"
+	"icon" "0e134101796768a5c1f2f2d0798ab79c50b54aa3"
+	"clienticon" "ae63227e1ec5f71672e7300bbe4eebe0d8b5c9c3"
+	"clienttga" "9e26ed8977e3d5c78328e1091c45c9527a6fcbc4"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1671235200"
+		"tested_build_id" "4388726"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Dark and Light"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "33"
+			"height_pct" "42"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "33"
+				"height_pct" "42"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1666906128"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Snail Games USA"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Snail Games USA"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Snail Games USA"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "29"
+		"3" "3"
+		"4" "28"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_30" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_47" "1"
+		"category_48" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1500534000"
+	"steam_release_date" "1500571908"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "529180"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "1662"
+		"2" "128"
+		"3" "122"
+		"4" "3810"
+		"5" "1684"
+		"6" "21"
+		"7" "4057"
+		"8" "493"
+		"9" "1754"
+		"10" "19"
+		"11" "1100689"
+		"12" "3859"
+		"13" "4046"
+		"14" "599"
+		"15" "1702"
+		"16" "7332"
+		"17" "4172"
+		"18" "1775"
+		"19" "4182"
+	}
+	"review_score" "5"
+	"review_percentage" "52"
+}
+"extended"
+{
+	"developer" "Snail Games USA"
+	"publisher" "Snail Games USA"
+	"homepage" "http://www.playdnl.com/"
+	"listofdlc" "793070"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Dark and Light"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "DNL\\Binaries\\Win64\\DNL.exe"
+			"workingdir" "DNL\\Binaries\\Win64\\"
+			"description" "Start Game"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "DNL\\Binaries\\Win64\\DNL.exe"
+			"arguments" "-allowansel"
+			"workingdir" "DNL\\Binaries\\Win64\\"
+			"description" "Start Game with ansel"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian"
+	"hasdepotsindlc" "1"
+	"workshopdepot" "529180"
+	"228981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"529181"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "856443826413341813"
+				"size" "51965844670"
+				"download" "10480961600"
+			}
+		}
+	}
+	"529183"
+	{
+		"dlcappid" "793070"
+	}
+	"529182"
+	{
+		"dlcappid" "592760"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3278412976615713630"
+				"size" "37349191"
+				"download" "37853904"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "592760"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4388726"
+			"timeupdated" "1573718201"
+		}
+	}
+	"privatebranches" "1"
+	"appmanagesdlc" "1"
+}
+"ufs"
+{
+	"quota" "10485760"
+	"maxnumfiles" "10000"
+	"appidredirect" "529180"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SavesDir"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27389093"
+"_sha" "6230e36cf1c39090ad5ba09bcc3752e94d6d813a"
+"_size" "7014"
