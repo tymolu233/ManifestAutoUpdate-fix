@@ -1,0 +1,251 @@
+"appid" "1089630"
+"common"
+{
+	"name" "奇迹一刻 Surmount"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "ae7ca00c2a7f1bb52732b0052686de655695d53c"
+	"logo_small" "ae7ca00c2a7f1bb52732b0052686de655695d53c_thumb"
+	"clienttga" "5fff00f303fe03eba1cdb91c7335929cfc4707f5"
+	"clienticon" "ead4671def0d9378f844a3eaa3cfb3f624fa719b"
+	"icon" "b07693d5b3cbd101e1b7e3928df5adf7d17c4ee9"
+	"metacritic_name" "奇迹一刻 Surmount"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "40.4089547216798"
+			"height_pct" "83.64782052296893"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "40.4089547216798"
+				"height_pct" "83.64782052296893"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1643388110"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "猫跑工作室"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CE-Asia"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "CE-Asia"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1644811215"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1089630"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "9"
+		"2" "21"
+		"3" "492"
+		"4" "4085"
+		"5" "9551"
+		"6" "3799"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "猫跑工作室"
+	"publisher" "CE-Asia"
+	"listofdlc" "1496070"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Surmount"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Surmount.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1089632"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2741423723662399306"
+				"size" "7049690139"
+				"download" "1497211616"
+			}
+			"32bit"
+			{
+				"gid" "3300412329736283029"
+				"size" "3778643605"
+				"download" "1107453504"
+			}
+		}
+	}
+	"1496070"
+	{
+		"dlcappid" "1496070"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8035696285307970918"
+				"size" "102"
+				"download" "144"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8856270"
+			"timeupdated" "1654140962"
+		}
+		"32bit"
+		{
+			"buildid" "5313022"
+			"timeupdated" "1595323699"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "200"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Maopaostudio/Surmount"
+			"pattern" "*.data"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Maopaostudio/Surmount"
+			"pattern" "*.index"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Maopaostudio/Surmount"
+			"pattern" "*.png"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26997904"
+"_sha" "a653d4df36f6ea355ae271393d22e488d12322fe"
+"_size" "3899"
