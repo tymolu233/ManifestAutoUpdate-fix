@@ -1,0 +1,542 @@
+"appid" "1774580"
+"common"
+{
+	"name" "STAR WARS Jedi: Survivor™"
+	"type" "Game"
+	"icon" "25578ffb2c6070c5d4e6569624efaadb8a0f5538"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"clienticon" "d46fdb382bcc7be1f5e7cef59b8eb59c0aec0df1"
+	"name_localized"
+	{
+		"polish" "STAR WARS Jedi: Ocalały™"
+		"tchinese" "STAR WARS 絕地：倖存者™"
+		"japanese" "STAR WARS ジェダイ：サバイバー™"
+		"koreana" "스타워즈 제다이: 서바이버™"
+		"schinese" "星球大战 绝地：幸存者™"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1774580_eula_1"
+			"name" "STAR WARS Jedi: Survivor™ EULA"
+			"url" "https://store.steampowered.com//eula/1774580_eula_1"
+			"version" "1"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"exfgls" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1683849600"
+		"tested_build_id" "11177842"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1684344042"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Respawn"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Electronic Arts"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Star Wars"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_13" "1"
+		"category_28" "1"
+		"category_61" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_60" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1682654400"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1774580"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "21"
+		"2" "29482"
+		"3" "4182"
+		"4" "1697"
+		"5" "1695"
+		"6" "3942"
+		"7" "4106"
+		"8" "1742"
+		"9" "1755"
+		"10" "4608"
+		"11" "3834"
+		"12" "4036"
+		"13" "3993"
+		"14" "4747"
+		"15" "122"
+		"16" "4166"
+		"17" "1756"
+		"18" "4026"
+		"19" "3859"
+	}
+	"review_score" "5"
+	"review_percentage" "68"
+	"mastersubs_granting_app" "1289670"
+}
+"extended"
+{
+	"additional_dependencies"
+	{
+		"0"
+		{
+			"src_os" "windows"
+			"dest_os" "linux"
+			"h264" "1"
+		}
+	}
+	"developer" "Respawn"
+	"publisher" "Electronic Arts"
+	"homepage" "https://www.ea.com/games/starwars/jedi/jedi-survivor"
+	"listofdlc" "1774590,2161370,2161740,2161741,2161742,2334020"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Jedi Survivor"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "link2ea://launchgame/1774580\?platform=steam&theme=applejack"
+		}
+	}
+	"app_mappings"
+	{
+		"1"
+		{
+			"platform" "linux"
+			"tool" "proton_experimental"
+			"comment" "experimental needed"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,brazilian,latam"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1774581"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6701111524392590510"
+				"size" "139372569038"
+				"download" "137590161344"
+			}
+		}
+	}
+	"1774582"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6113531931136169727"
+				"size" "185501"
+				"download" "44112"
+			}
+		}
+	}
+	"1774583"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2839409704356853265"
+				"size" "200237"
+				"download" "45344"
+			}
+		}
+	}
+	"1774584"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5578567466922830139"
+				"size" "225738"
+				"download" "48192"
+			}
+		}
+	}
+	"1774585"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1670554075230106386"
+				"size" "214717"
+				"download" "47088"
+			}
+		}
+	}
+	"1774586"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7984612847161164531"
+				"size" "433455"
+				"download" "51696"
+			}
+		}
+	}
+	"1774587"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1894924822904627129"
+				"size" "219718"
+				"download" "47216"
+			}
+		}
+	}
+	"1774588"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8589320498239092897"
+				"size" "264113"
+				"download" "47632"
+			}
+		}
+	}
+	"1774589"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9103846004292261299"
+				"size" "186627"
+				"download" "43248"
+			}
+		}
+	}
+	"1774592"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2461887550113650244"
+				"size" "312759"
+				"download" "51328"
+			}
+		}
+	}
+	"1774593"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "397172381999524968"
+				"size" "227769"
+				"download" "51232"
+			}
+		}
+	}
+	"1774594"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2570716405280964396"
+				"size" "192153"
+				"download" "44928"
+			}
+		}
+	}
+	"1774595"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2890539505310298112"
+				"size" "220368"
+				"download" "47456"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15643690"
+			"timeupdated" "1726149639"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27819217"
+"_sha" "9937b341e0f85fa698ba012732f6c1bc3cd823f6"
+"_size" "8470"
