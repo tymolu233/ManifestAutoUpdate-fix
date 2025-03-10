@@ -1,0 +1,770 @@
+"appid" "907650"
+"common"
+{
+	"name" "Stronghold: Warlords"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "5a58214f5e0bab292e8c94b10cb26d439b88e26f"
+	"logo_small" "5a58214f5e0bab292e8c94b10cb26d439b88e26f_thumb"
+	"icon" "04fe16111b2ac22f8e657ca34f64851835127f60"
+	"clienticon" "b0f44caba2109378b34b8818679e8bb014fa92e6"
+	"clienttga" "67ec5da3b6cd14d871ff9c838e082f629c12c6fd"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"vietnamese" "1"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1663027200"
+		"tested_build_id" "8543397"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Stronghold: Warlords"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"polish" "capsule_231x87_polish.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"polish" "header_polish.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1683908942"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "FireFly Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "FireFly Studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Firefly Studios\' Stronghold"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_17" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1615312380"
+	"metacritic_score" "65"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/stronghold-warlords\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "907650"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "3813"
+		"2" "220585"
+		"3" "1643"
+		"4" "3810"
+		"5" "4172"
+		"6" "4168"
+		"7" "4695"
+		"8" "1678"
+		"9" "12472"
+		"10" "9"
+		"11" "7332"
+		"12" "1676"
+		"13" "4161"
+		"14" "3987"
+		"15" "5851"
+		"16" "4791"
+		"17" "1695"
+		"18" "599"
+		"19" "8945"
+	}
+	"review_score" "5"
+	"review_percentage" "65"
+}
+"extended"
+{
+	"developer" "FireFly Studios"
+	"publisher" "FireFly Studios"
+	"homepage" "http://www.strongholdwarlords.com/"
+	"listofdlc" "1575250,1615010,1615011,1615012,1615013"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Stronghold Warlords"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin\\win32_release\\StrongholdWarlords.exe"
+			"workingdir" "bin\\win32_release"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Stronghold: Warlords"
+			}
+			"description" "Stronghold: Warlords"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"workshopdepot" "907650"
+	"907651"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4392044359005327100"
+				"size" "6544449342"
+				"download" "4775670944"
+			}
+		}
+	}
+	"907652"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2634813025050852937"
+				"size" "4"
+				"download" "48"
+			}
+		}
+	}
+	"907653"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2886012105790146563"
+				"size" "193227881"
+				"download" "183893872"
+			}
+		}
+	}
+	"907654"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "825599722774075086"
+				"size" "227581444"
+				"download" "215974144"
+			}
+		}
+	}
+	"907655"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5707731227472726981"
+				"size" "197832964"
+				"download" "188883824"
+			}
+		}
+	}
+	"907656"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8291768119922460948"
+				"size" "216832964"
+				"download" "206842144"
+			}
+		}
+	}
+	"907657"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "165094748205591364"
+				"size" "226571236"
+				"download" "216594240"
+			}
+		}
+	}
+	"907658"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2702431698591593919"
+				"size" "228362244"
+				"download" "204824624"
+			}
+		}
+	}
+	"907659"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2061810387042618583"
+				"size" "235001764"
+				"download" "223418480"
+			}
+		}
+	}
+	"1511591"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2798376813542675622"
+				"size" "4"
+				"download" "48"
+			}
+		}
+	}
+	"1511592"
+	{
+		"config"
+		{
+			"language" "thai"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8904739371597050008"
+				"size" "4"
+				"download" "48"
+			}
+		}
+	}
+	"1511593"
+	{
+		"config"
+		{
+			"language" "vietnamese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7520173999943670655"
+				"size" "4"
+				"download" "48"
+			}
+		}
+	}
+	"1511594"
+	{
+		"config"
+		{
+			"language" "turkish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2096919623794545855"
+				"size" "4"
+				"download" "48"
+			}
+		}
+	}
+	"1511595"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8822458768636869926"
+				"size" "193227881"
+				"download" "183893872"
+			}
+		}
+	}
+	"1511596"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1728073115001044382"
+				"size" "4"
+				"download" "48"
+			}
+		}
+	}
+	"1511597"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7105944051301226833"
+				"size" "7"
+				"download" "64"
+			}
+		}
+	}
+	"1511598"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4059761632250835078"
+				"size" "412479314"
+				"download" "218415776"
+			}
+		}
+	}
+	"1511599"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7858623500765845075"
+				"size" "243242087"
+				"download" "245128704"
+			}
+		}
+	}
+	"1553311"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4221299154599783796"
+				"size" "2222486555"
+				"download" "2238826208"
+			}
+		}
+	}
+	"1615010"
+	{
+		"dlcappid" "1615010"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "531519146097912675"
+				"size" "205887468"
+				"download" "201769648"
+			}
+		}
+	}
+	"1615011"
+	{
+		"dlcappid" "1615011"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5159058124337759209"
+				"size" "100733644"
+				"download" "97319904"
+			}
+		}
+	}
+	"1615012"
+	{
+		"dlcappid" "1615012"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3597806078992845519"
+				"size" "142891992"
+				"download" "139584032"
+			}
+		}
+	}
+	"1615013"
+	{
+		"dlcappid" "1615013"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "19342735730281103"
+				"size" "116015601"
+				"download" "113823056"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17043871"
+			"timeupdated" "1737385906"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Stronghold Warlords/Saved Games"
+			"pattern" "*.sgd"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "Stronghold Warlords/Profiles"
+			"pattern" "campaign_manager_state.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27847803"
+"_sha" "31dab673b9b49da2f93ee9730044636454012200"
+"_size" "12059"
