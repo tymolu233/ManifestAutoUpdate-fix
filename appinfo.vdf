@@ -1,0 +1,122 @@
+"appid" "824360"
+"common"
+{
+	"name" "PixARK Dedicated Server"
+	"type" "Tool"
+	"parent" "593600"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "268fffacee27e8fbc3eb115b5169bc3a43351d85"
+	"logo_small" "268fffacee27e8fbc3eb115b5169bc3a43351d85_thumb"
+	"icon" "1c9fc06e134195030e476e17c0b8c948ed5fe864"
+	"clienttga" "b02dba156698720af1fd938f43d578fdfaed147e"
+	"clienticon" "4396246b6c76653d8f44339e9528438229a0f652"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "824360"
+}
+"config"
+{
+	"installdir" "PixARK Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\PixARKServer.exe"
+			"workingdir" "ShooterGame\\Binaries\\Win64\\"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"824361"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4400286606447124861"
+				"size" "2703473933"
+				"download" "943477824"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17542385"
+			"timeupdated" "1740729335"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27715160"
+"_sha" "d728405207df9011a15eda14fed5c91997dd16ae"
+"_size" "1873"
