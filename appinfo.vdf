@@ -1,0 +1,220 @@
+"appid" "2642890"
+"common"
+{
+	"name" "KunKunNight"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "7dfd4bd16ff986033e4ff44aff6040063aa74ae9"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"icon" "7ebc06ad4edd6cb20609bbaeed233af3f7ac1dee"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "79.81509875210384"
+				"height_pct" "67.7281828881899"
+			}
+		}
+	}
+	"store_asset_mtime" "1698596299"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "EMSRoy"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "EMSRoy"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1699017863"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2642890"
+	"store_tags"
+	{
+		"0" "12095"
+		"1" "9551"
+		"2" "4726"
+		"3" "1663"
+		"4" "6650"
+		"5" "1667"
+		"6" "19"
+		"7" "10397"
+		"8" "9130"
+		"9" "5611"
+		"10" "4064"
+		"11" "3978"
+		"12" "6971"
+		"13" "24904"
+		"14" "4136"
+		"15" "4182"
+		"16" "4191"
+		"17" "4106"
+		"18" "492"
+		"19" "5395"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "EMSRoy"
+	"publisher" "EMSRoy"
+}
+"config"
+{
+	"installdir" "KunKunNight"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "KunKunNight.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229003"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229033"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2642891"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5430178199748050087"
+				"size" "1686832220"
+				"download" "1597595376"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12731345"
+			"timeupdated" "1700226708"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27899686"
+"_sha" "f3088f52462e20d5bdcde4a4f5fc8f4a1b557d97"
+"_size" "3163"
