@@ -1,0 +1,85 @@
+"appid" "3393460"
+"common"
+{
+	"name" "绝世好武功测试 test server"
+	"type" "Tool"
+	"parent" "1696440"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "2dd1eecdbe33d90a5902cb81ab081049edba7186"
+	"clienttga" "4104cc2a1e53136817afb64ba54103235d077b87"
+	"icon" "8cd23340a2c1992126fe78630223d16d4a7c7c6d"
+	"name_localized"
+	{
+		"english" "The Matchless Kungfu test server"
+		"schinese" "绝世好武功 test server"
+	}
+	"freetodownload" "0"
+	"gameid" "3393460"
+}
+"config"
+{
+	"installdir" "The Matchless KungFu test server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HMS_00.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"3393461"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2622369912907607273"
+				"size" "2769072886"
+				"download" "2460724112"
+			}
+		}
+	}
+	"baselanguages" "schinese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17418052"
+			"timeupdated" "1739945810"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "28047103"
+"_sha" "637d05a41017a0f9d516767962e4a956409dab68"
+"_size" "1352"
