@@ -169,7 +169,7 @@
 
     - 格式为:
 
-       
+      
 
       ```
       {"账号": {"app": [11111, 22222, ...], "update": 1673018145, "enable": true, "status": 63}, ...}
@@ -297,7 +297,6 @@
   - 用于过滤已爬取的清单
 
 ## 运行流程
-
 
 
 1. ```
@@ -446,8 +445,6 @@
 
 ## 如何pr清单
 
-
-
 - 本项目使用`Actions`定期检查并合并清单，是否合并成功请在`Actions`运行完后查看对应分支
 
 1. 完成部署本项目并爬取清单
@@ -456,13 +453,6 @@
 
 ## Telegram交流群
 
-
-
 - [SteamManifestShare](https://t.me/SteamManifestShare)
 
-## 仓库游戏查看
 
-
-
-1. [apps.xlsx](https://github.com/wxy1343/ManifestAutoUpdate/raw/data/apps.xlsx)
-2. [在线查看](https://docs.google.com/spreadsheets/d/1tS-Tar11TAqnlaeh4c7kHJq-vHF8QiQ-EtcEy5NO8a8)
