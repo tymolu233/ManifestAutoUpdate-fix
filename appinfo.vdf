@@ -1,0 +1,251 @@
+"appid" "2934620"
+"common"
+{
+	"name" "Dance Eden"
+	"type" "Game"
+	"icon" "e1e7e3246b721f2a4857c7fea6c3889796e812d7"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"linuxclienticon" "19d935fde9d0e76e467cf020c38884b0f38e273f"
+	"clienticns" "19d935fde9d0e76e467cf020c38884b0f38e273f"
+	"clienticon" "8b404d1a86d2c9fad5eaa5c5eecececb5a471054"
+	"name_localized"
+	{
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"openvrsupport" "1"
+	"aicontenttype" "1"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "d32a343c3d4e75f1676362083dd8ea8c3d60c53c/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "15.905301137486205"
+			"height_pct" "81.94444444444443"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "3f001e494fff097dec5a81e0c07aa944d3a9ca15/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "3f001e494fff097dec5a81e0c07aa944d3a9ca15/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "15.905301137486205"
+				"height_pct" "81.94444444444443"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "a607256e382c35ca46e9854e88add128f4d11c51/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "a607256e382c35ca46e9854e88add128f4d11c51/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1742960912"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "DigiEden"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "DigiEden"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "18"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_35" "1"
+		"category_2" "1"
+		"category_54" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1724068985"
+	"community_hub_visible" "1"
+	"gameid" "2934620"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "21978"
+		"2" "1621"
+		"3" "1752"
+		"4" "3859"
+		"5" "4191"
+		"6" "701"
+		"7" "4747"
+		"8" "9204"
+		"9" "5395"
+		"10" "4175"
+		"11" "3839"
+		"12" "4182"
+		"13" "4295"
+		"14" "4136"
+		"15" "4835"
+		"16" "8253"
+		"17" "5711"
+		"18" "1775"
+		"19" "1685"
+	}
+	"review_score" "7"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"vrheadsetstreaming" "0"
+	"developer" "DigiEden"
+	"publisher" "DigiEden"
+	"homepage" "https://www.digi-eden.com/"
+}
+"config"
+{
+	"installdir" "DanceEden"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DanceEden.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2934621"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4611239526924574262"
+				"size" "7917554241"
+				"download" "3350708672"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17802750"
+			"timeupdated" "1742524247"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "28142312"
+"_sha" "307b20ba0280d82fcdc398124ce374b15b7c03c3"
+"_size" "4058"
