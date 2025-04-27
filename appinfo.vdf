@@ -1,0 +1,445 @@
+"appid" "3117820"
+"common"
+{
+	"name" "Sultan\'s Game"
+	"type" "Game"
+	"name_localized"
+	{
+		"schinese" "苏丹的游戏"
+		"english" "Sultan\'s Game"
+		"tchinese" "蘇丹的遊戲"
+		"japanese" "スルタンのゲーム"
+	}
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"icon" "81e37cf744f52d7af999e208dfd4c087a1f3db29"
+	"clienticon" "8b8f75bb796b182fccfce176eeb8bdca1d51b468"
+	"clienttga" "bb2ceba05bdd1275f77c7bd2e1c6c8c0156f6c99"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1743984000"
+		"tested_build_id" "17954583"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "069b477265189a13e40c2638954f4580d32eb389/capsule_231x87.jpg"
+		"schinese" "26f7a185b18df7364d09f1bffc8be2bd10e3f2ee/capsule_231x87_schinese.jpg"
+		"japanese" "f2719fdcb3d4a3ad36d6e5c635e7a1f6a563c639/capsule_231x87_japanese.jpg"
+		"tchinese" "bcccbe3f25ff97624f8466791815c03437f576ee/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "62aeb9d2133ec7b70ad76bb10c27870f76f9a11f/header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"tchinese" "52ba597ac9c37c3d241955d88d4e39377dee21ec/header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,ja,zh-tw"
+		"library_hero" "en"
+		"library_hero_blur" "en,ja,zh-cn"
+		"library_logo" "en,zh-cn,ja,zh-tw"
+		"library_header" "en,zh-cn,ja"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "83.4362384231774"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "1c8bb6ad1898ced81b0ccec9330c937d0bed1ee1/library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"japanese" "9fc0cdf887a4184a769b386af2b8634ba6b6e654/library_600x900_japanese.jpg"
+				"tchinese" "0f54a6ef3f0baf79acef7d17ba3b8da5a8f1d752/library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "1c8bb6ad1898ced81b0ccec9330c937d0bed1ee1/library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"japanese" "9fc0cdf887a4184a769b386af2b8634ba6b6e654/library_600x900_japanese_2x.jpg"
+				"tchinese" "0f54a6ef3f0baf79acef7d17ba3b8da5a8f1d752/library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "e4397acc8b124c24d4932b0cf9c20d33ab06281f/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "e4397acc8b124c24d4932b0cf9c20d33ab06281f/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "e4397acc8b124c24d4932b0cf9c20d33ab06281f/library_hero_blur.jpg"
+				"japanese" "e563ace8e8c4ee08d18a11b1fb4e5a02036fd4e2/library_hero_blur_japanese.jpg"
+				"schinese" "e563ace8e8c4ee08d18a11b1fb4e5a02036fd4e2/library_hero_blur_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"japanese" "2269d5ecc6b7f5d1b9563c7f10efeb935a0f316d/logo_japanese.png"
+				"tchinese" "f2bd0a5142d2e88b1b872a713239c004fd1b54a1/logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"japanese" "2269d5ecc6b7f5d1b9563c7f10efeb935a0f316d/logo_japanese_2x.png"
+				"tchinese" "f2bd0a5142d2e88b1b872a713239c004fd1b54a1/logo_tchinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "83.4362384231774"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "6d07e7ab788191e6a3c03f85f9324db1ecf569d9/library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+				"japanese" "229fa305088980545871795537c2266a7b25c37c/library_header_japanese.jpg"
+			}
+			"image2x"
+			{
+				"japanese" "229fa305088980545871795537c2266a7b25c37c/library_header_japanese_2x.jpg"
+				"english" "6d07e7ab788191e6a3c03f85f9324db1ecf569d9/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1744992055"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Double Cross"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "2P Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "2P Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1743390018"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3117820"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "599"
+		"2" "17389"
+		"3" "4486"
+		"4" "16689"
+		"5" "1666"
+		"6" "1721"
+		"7" "1741"
+		"8" "9"
+		"9" "3854"
+		"10" "21"
+		"11" "4046"
+		"12" "5923"
+		"13" "1742"
+		"14" "6971"
+		"15" "6426"
+		"16" "4604"
+		"17" "44868"
+		"18" "5984"
+		"19" "5608"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Double Cross"
+	"publisher" "2P Games"
+}
+"config"
+{
+	"installdir" "Sultan\'s Game"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Sultan\'s Game.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Sultan\'s Game.x86_64"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "Sultan\'s Game.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"3117821"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6057993250560716483"
+				"size" "2564711275"
+				"download" "558285328"
+			}
+			"devtest-0.2"
+			{
+				"gid" "2708524691989434518"
+				"size" "630537478"
+				"download" "154384768"
+			}
+			"devtest-0.3"
+			{
+				"gid" "8745392836043176886"
+				"size" "757193962"
+				"download" "179010656"
+			}
+		}
+	}
+	"3117822"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4834559716457665807"
+				"size" "2601131294"
+				"download" "560672704"
+			}
+		}
+	}
+	"3117823"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6370387351627118415"
+				"size" "2657619886"
+				"download" "577126832"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "18234604"
+			"timeupdated" "1745570466"
+		}
+		"devtest-0.2"
+		{
+			"buildid" "15365016"
+			"description" "0.2测试分支"
+			"timeupdated" "1723620227"
+		}
+		"devtest-0.3"
+		{
+			"buildid" "15543771"
+			"description" "0.3测试分支"
+			"timeupdated" "1725016346"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "525000000"
+	"maxnumfiles" "3000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "DoubleCross/SultansGame/SAVEDATA/{64BitSteamID}"
+			"pattern" "*.json"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "DoubleCross/SultansGame/SAVEDATA/{64BitSteamID}"
+					"replace" "com.DoubleCross.SultansGame/SAVEDATA/{64BitSteamID}"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "DoubleCross/SultansGame/SAVEDATA/{64BitSteamID}"
+					"replace" ".config/unity3d/DoubleCross/SultansGame/SAVEDATA/{64BitSteamID}"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "28693725"
+"_sha" "6a06cb6a5dda825e00ebe5e9f1899b757cb0ad3d"
+"_size" "9142"
