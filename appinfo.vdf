@@ -1,0 +1,360 @@
+"appid" "2338770"
+"common"
+{
+	"name" "NBA 2K24"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2338770_eula_0"
+			"name" "NBA 2K24 EULA"
+			"url" "https://store.steampowered.com//eula/2338770_eula_0"
+			"version" "1"
+		}
+	}
+	"icon" "ce3a152807f8d087859326fb2377bde8af31f8af"
+	"clienticon" "85b3572589b7c1ec9924c6399f14c3fe8949d233"
+	"clienttga" "e73bfefeefd8acfcf9a111dd8cd1b7c23a02942f"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"releasestate" "released"
+	"releasestateoverride" "released"
+	"releasestateoverridecountries" "AU,BN,CN,FJ,FM,HK,ID,IN,JP,KH,KI,KR,LA,MH,MO,MY,NR,NZ,PG,PH,PW,SB,SG,TH,TO,TV,TW,VN,VU,WS"
+	"releasestateoverrideinverse" "0"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1695168000"
+		"tested_build_id" "12128275"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "35.03619242841586"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "35.03619242841586"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1712811798"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Visual Concepts"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "2K"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "NBA 2K"
+		}
+	}
+	"primary_genre" "18"
+	"genres"
+	{
+		"0" "28"
+		"1" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_23" "1"
+		"category_44" "1"
+		"category_18" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1694145600"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2338770"
+	"store_tags"
+	{
+		"0" "701"
+		"1" "1746"
+		"2" "599"
+		"3" "5055"
+		"4" "4175"
+		"5" "4191"
+		"6" "12472"
+		"7" "1775"
+		"8" "4747"
+		"9" "7481"
+		"10" "9204"
+		"11" "5711"
+		"12" "4202"
+		"13" "1685"
+		"14" "3841"
+		"15" "7368"
+		"16" "3859"
+		"17" "16250"
+		"18" "3843"
+		"19" "4182"
+	}
+	"review_score" "4"
+	"review_percentage" "31"
+}
+"extended"
+{
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "RU,BY"
+	"developer" "Visual Concepts"
+	"publisher" "2K"
+	"homepage" "https://www.nba2k.com/"
+	"listofdlc" "2413250,2413251,2413260,2413261,2413262,2413263,2413264,2413265,2413266,2413267,2413268,2413269,2413270,2413271,2413272,2413273,2413274,2413275,2514210,2514220,2514230,2514240"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "NBA 2K24"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "NBA2K24.exe"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2338771"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4532142158391756958"
+				"size" "163472296375"
+				"download" "139932356384"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17177048"
+			"timeupdated" "1740590126"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "250"
+}
+"_missing_token" "False"
+"_change_number" "29010947"
+"_sha" "6beec9056e104bd0fde6a928f386ba88e9c4671c"
+"_size" "6481"
