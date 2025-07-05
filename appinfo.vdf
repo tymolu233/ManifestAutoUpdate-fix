@@ -1,0 +1,770 @@
+"appid" "1340990"
+"common"
+{
+	"name" "Rise of the Ronin"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "浪人崛起"
+		"tchinese" "浪人崛起"
+	}
+	"clienticon" "9e8b55154f36f3f7838148d25a3f37e17f30edc3"
+	"clienttga" "bd698286b08f6bea8232697000356fa55d0f878d"
+	"icon" "27e73dd43a02f2703f507f0022adf36de4d45590"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1340990_eula_1"
+			"name" "Rise of the Ronin EULA"
+			"url" "https://store.steampowered.com//eula/1340990_eula_1"
+			"version" "3"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1741996800"
+		"tested_build_id" "17559256"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "2"
+		}
+	}
+	"metacritic_name" "Rise of the Ronin"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "989dd7c46504dcf51e15e86e29c385c94be3d757/capsule_231x87.jpg"
+		"tchinese" "245a0a7aba13e3e6fab0557e167b85bb46b51c61/capsule_231x87_tchinese.jpg"
+		"schinese" "245a0a7aba13e3e6fab0557e167b85bb46b51c61/capsule_231x87_schinese.jpg"
+		"thai" "6cfd11098573968be8ee9d8b7aa6341fa08dbe88/capsule_231x87_thai.jpg"
+		"latam" "ebdedc6e053b3342338e37649324576cf3e413eb/capsule_231x87_latam.jpg"
+		"brazilian" "868fc2c0044bda7655384d3240a826eb4e648def/capsule_231x87_brazilian.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+		"thai" "header_thai.jpg"
+		"latam" "header_latam.jpg"
+		"brazilian" "header_brazilian.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-tw,zh-cn,th,es-419,pt-br"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,zh-tw,zh-cn,th,es-419,pt-br"
+		"library_header" "en,zh-tw,zh-cn,th,es-419,pt"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "7d592076b58cf930aa70dcb1ca284255dd4c7d82/library_600x900.jpg"
+				"tchinese" "3d77e20eb95ed864d5fd6e6102c8cd5c7eb74aba/library_600x900_tchinese.jpg"
+				"schinese" "3d77e20eb95ed864d5fd6e6102c8cd5c7eb74aba/library_600x900_schinese.jpg"
+				"thai" "96e3f1bf83803ef02d8ec25318138f87ba32f7bf/library_600x900_thai.jpg"
+				"latam" "367545576e0c0ac4b65eed7136c210f406546e14/library_600x900_latam.jpg"
+				"brazilian" "99c163f474860ce798f5457134b675f8eebb63ab/library_600x900_brazilian.jpg"
+			}
+			"image2x"
+			{
+				"english" "7d592076b58cf930aa70dcb1ca284255dd4c7d82/library_600x900_2x.jpg"
+				"tchinese" "3d77e20eb95ed864d5fd6e6102c8cd5c7eb74aba/library_600x900_tchinese_2x.jpg"
+				"schinese" "3d77e20eb95ed864d5fd6e6102c8cd5c7eb74aba/library_600x900_schinese_2x.jpg"
+				"thai" "96e3f1bf83803ef02d8ec25318138f87ba32f7bf/library_600x900_thai_2x.jpg"
+				"latam" "367545576e0c0ac4b65eed7136c210f406546e14/library_600x900_latam_2x.jpg"
+				"brazilian" "99c163f474860ce798f5457134b675f8eebb63ab/library_600x900_brazilian_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "6cb0f38b1da1688c8a0c022cd43e646fc1c2c579/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "6cb0f38b1da1688c8a0c022cd43e646fc1c2c579/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "6cb0f38b1da1688c8a0c022cd43e646fc1c2c579/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "8e5bca32d3a4755ad73e18953c060fe07c0f61e5/logo.png"
+				"tchinese" "61ce3830624fea569e0d7822d3ec00e9a864aaa5/logo_tchinese.png"
+				"schinese" "13dbb954350084271b01716321324ec6f23cef62/logo_schinese.png"
+				"thai" "17d9b13b9babe932140c64865e2ea1a6e54e125e/logo_thai.png"
+				"latam" "e74b8b92f65876d4c0185fa83ac0b52450bf5dbd/logo_latam.png"
+				"brazilian" "24b754c884d214bcf53e91b34954a49dc264f3f5/logo_brazilian.png"
+			}
+			"image2x"
+			{
+				"english" "8e5bca32d3a4755ad73e18953c060fe07c0f61e5/logo_2x.png"
+				"tchinese" "61ce3830624fea569e0d7822d3ec00e9a864aaa5/logo_tchinese_2x.png"
+				"schinese" "13dbb954350084271b01716321324ec6f23cef62/logo_schinese_2x.png"
+				"thai" "17d9b13b9babe932140c64865e2ea1a6e54e125e/logo_thai_2x.png"
+				"latam" "e74b8b92f65876d4c0185fa83ac0b52450bf5dbd/logo_latam_2x.png"
+				"brazilian" "24b754c884d214bcf53e91b34954a49dc264f3f5/logo_brazilian_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "81d5cc62bb600814af93beeb4f42f2bccc3d969c/library_header.jpg"
+				"tchinese" "b05abedd7b5f8e1474c9ef32d5cb6d4e5951176b/library_header_tchinese.jpg"
+				"schinese" "b05abedd7b5f8e1474c9ef32d5cb6d4e5951176b/library_header_schinese.jpg"
+				"thai" "0a408fe2f529849c6985bd5afcaed91a65965904/library_header_thai.jpg"
+				"latam" "50a96506f9e8c4817aaf5982dc68b328bece2a09/library_header_latam.jpg"
+				"portuguese" "f2aadbcdf6c65e5aaaef4cf3462b6e7fcc281ae2/library_header_portuguese.jpg"
+			}
+			"image2x"
+			{
+				"english" "81d5cc62bb600814af93beeb4f42f2bccc3d969c/library_header_2x.jpg"
+				"tchinese" "b05abedd7b5f8e1474c9ef32d5cb6d4e5951176b/library_header_tchinese_2x.jpg"
+				"schinese" "b05abedd7b5f8e1474c9ef32d5cb6d4e5951176b/library_header_schinese_2x.jpg"
+				"thai" "0a408fe2f529849c6985bd5afcaed91a65965904/library_header_thai_2x.jpg"
+				"latam" "50a96506f9e8c4817aaf5982dc68b328bece2a09/library_header_latam_2x.jpg"
+				"portuguese" "f2aadbcdf6c65e5aaaef4cf3462b6e7fcc281ae2/library_header_portuguese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1749459531"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "KOEI TECMO GAMES CO., LTD."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "KOEI TECMO GAMES CO., LTD."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "KOEI TECMO GAMES CO., LTD."
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_13" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_25" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1741654815"
+	"metacritic_score" "73"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/rise-of-the-ronin\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1340990"
+	"content_descriptors_including_dlc"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"store_tags"
+	{
+		"0" "122"
+		"1" "4231"
+		"2" "1695"
+		"3" "4608"
+		"4" "19"
+		"5" "1697"
+		"6" "21"
+		"7" "3987"
+		"8" "4191"
+		"9" "4182"
+		"10" "3843"
+		"11" "6971"
+		"12" "4345"
+		"13" "4667"
+		"14" "29482"
+		"15" "4747"
+		"16" "1685"
+		"17" "1688"
+		"18" "17770"
+		"19" "1646"
+	}
+	"review_score" "5"
+	"review_percentage" "59"
+}
+"extended"
+{
+	"developer" "KOEI TECMO GAMES CO., LTD."
+	"publisher" "KOEI TECMO GAMES CO., LTD."
+	"homepage" "https://teamninja-studio.com/ronin/"
+	"listofdlc" "3355660"
+}
+"config"
+{
+	"installdir" "Ronin"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Ronin.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,japanese"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1340995"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1876216873872086392"
+				"size" "145826853022"
+				"download" "97508684336"
+			}
+			"local"
+			{
+				"gid" "768825246796139131"
+				"size" "5047208863"
+				"download" "4073254656"
+			}
+		}
+	}
+	"1340996"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3841686798722160883"
+				"size" "14017174432"
+				"download" "11549241312"
+			}
+			"local"
+			{
+				"gid" "2002201883212437940"
+				"size" "223593855"
+				"download" "226096416"
+			}
+		}
+	}
+	"1340997"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2331755264652654819"
+				"size" "350283208"
+				"download" "200826304"
+			}
+			"local"
+			{
+				"gid" "2006517770707670320"
+				"size" "120446464"
+				"download" "30691392"
+			}
+		}
+	}
+	"1340991"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5032043067359059522"
+				"size" "2540780457"
+				"download" "2438227680"
+			}
+			"local"
+			{
+				"gid" "5819706869637661129"
+				"size" "2564887179"
+				"download" "2462610608"
+			}
+		}
+	}
+	"1340992"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8097777051056268960"
+				"size" "2490593201"
+				"download" "2390945920"
+			}
+			"local"
+			{
+				"gid" "6375120529113688106"
+				"size" "2502373603"
+				"download" "2402855424"
+			}
+		}
+	}
+	"1340993"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9075053198374038770"
+				"size" "2595653939"
+				"download" "2510570992"
+			}
+			"local"
+			{
+				"gid" "6365257409114275946"
+				"size" "2607523012"
+				"download" "2522567760"
+			}
+		}
+	}
+	"1340994"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7767196483143147196"
+				"size" "2525233688"
+				"download" "2437882688"
+			}
+			"local"
+			{
+				"gid" "4844996169942674937"
+				"size" "2548825390"
+				"download" "2461745376"
+			}
+		}
+	}
+	"1340998"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8952393605010619144"
+				"size" "2388348368"
+				"download" "2296661920"
+			}
+			"local"
+			{
+				"gid" "8569376895791021281"
+				"size" "2399536748"
+				"download" "2307968288"
+			}
+		}
+	}
+	"1340999"
+	{
+		"config"
+		{
+			"language" "latam"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9058506243337526886"
+				"size" "2385428947"
+				"download" "2290559664"
+			}
+			"local"
+			{
+				"gid" "4209521373639435285"
+				"size" "2396929931"
+				"download" "2302185472"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "18219088"
+			"timeupdated" "1745989428"
+		}
+		"local"
+		{
+			"buildid" "16122430"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1729515197"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "\\KoeiTecmo\\Ronin\\Savedata\\{64BitSteamID}\\"
+			"pattern" "SAVEDATA.BIN"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "\\KoeiTecmo\\Ronin\\Savedata\\{64BitSteamID}\\"
+			"pattern" "BACKUP.BIN"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinMyDocuments"
+			"path" "\\KoeiTecmo\\Ronin\\Savedata\\{64BitSteamID}\\"
+			"pattern" "SaveDataIcon.BIN"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "WinMyDocuments"
+			"path" "\\KoeiTecmo\\Ronin\\Savedata\\{64BitSteamID}\\"
+			"pattern" "DE-*.BIN"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"4"
+		{
+			"root" "WinMyDocuments"
+			"path" "\\KoeiTecmo\\Ronin\\Savedata\\{64BitSteamID}\\"
+			"pattern" "Mission-*.BIN"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"5"
+		{
+			"root" "WinMyDocuments"
+			"path" "\\KoeiTecmo\\Ronin\\Savedata\\{64BitSteamID}\\"
+			"pattern" "PhotoLocation-*.BIN"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"6"
+		{
+			"root" "WinMyDocuments"
+			"path" "\\KoeiTecmo\\Ronin\\Savedata\\{64BitSteamID}\\"
+			"pattern" "RTM-*.BIN"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "29778661"
+"_sha" "6c910bd4df8721210101b9ae8d7bc0508cedc271"
+"_size" "15641"
