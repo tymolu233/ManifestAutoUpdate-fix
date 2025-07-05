@@ -1,0 +1,314 @@
+"appid" "2232880"
+"common"
+{
+	"name" "灵兽江湖"
+	"type" "Game"
+	"icon" "49ed096cdfe8ecc772ce6304b3b9c1cb0771aa4b"
+	"clienttga" "e30aba28dd9e506e1ce3e51878354ce63ace7009"
+	"clienticon" "ca50466a5b9beb39535b68a9521d50ca8c2f3216"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"sc_schinese" "灵兽江湖"
+		"english" "Beast Saga"
+		"tchinese" "靈獸江湖"
+	}
+	"releasestatesteamchina" "prerelease"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1744243200"
+		"tested_build_id" "17621806"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-xc"
+		"library_hero" "en,zh-xc"
+		"library_logo" "en,zh-xc"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "58.595378873990384"
+			"height_pct" "66.85102341947278"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"sc_schinese" "library_hero_sc_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "58.595378873990384"
+				"height_pct" "66.85102341947278"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1741747448"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "嘉兴黑曜石(Jiaxing Obsidian)"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "嘉兴黑曜石(Jiaxing Obsidian)"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Owl Digital Entertainment"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1741225924"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2232880"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "1695"
+		"2" "4325"
+		"3" "1742"
+		"4" "6426"
+		"5" "6971"
+		"6" "10695"
+		"7" "3810"
+		"8" "4791"
+		"9" "4726"
+		"10" "4474"
+		"11" "3964"
+		"12" "21"
+		"13" "5984"
+		"14" "4004"
+		"15" "3993"
+		"16" "3871"
+		"17" "4182"
+		"18" "492"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "嘉兴黑曜石(Jiaxing Obsidian)"
+	"publisher" "嘉兴黑曜石(Jiaxing Obsidian)"
+}
+"config"
+{
+	"installdir" "Beast Saga"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "0"
+	}
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BeastSaga.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "schinese"
+	"2232882"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7149208090351849459"
+				"size" "3145923366"
+				"download" "2110003728"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19079535"
+			"timeupdated" "1751460925"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SaveData"
+			"pattern" "*.es3"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "SaveData"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "SaveData"
+			"pattern" "*.png"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "29882952"
+"_sha" "c52daabb48ec020edb00425ea5a6c701708dc5bf"
+"_size" "5717"
