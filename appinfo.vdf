@@ -1,0 +1,716 @@
+"appid" "35720"
+"common"
+{
+	"name" "Trine 2"
+	"icon" "061ecbbd7c70ae1c052377bad136c7759cbb708d"
+	"clienticon" "c816b6725bd37a52a7f4814567d552771b707464"
+	"clienttga" "efce896ff982a3124ec056145b5354e323607b61"
+	"logo" "7d7c3b93bd85ad1db2a07f6cca01a767069c6407"
+	"logo_small" "7d7c3b93bd85ad1db2a07f6cca01a767069c6407_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"finnish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"oslist" "windows,macos,linux"
+	"linuxclienticon" "3f58b18b1620e6e836742e5e0ae392ea309b0121"
+	"clienticns" "3138d704be7877ece13a0aef7e6c099517aa4959"
+	"type" "game"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1662595200"
+		"tested_build_id" "758827"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_LauncherInteractionIssues"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Trine 2"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "56.91134403674094"
+			"height_pct" "85.06944444444444"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "56.91134403674094"
+				"height_pct" "85.06944444444444"
+			}
+		}
+	}
+	"store_asset_mtime" "1717423572"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Frozenbyte"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Frozenbyte"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Trine"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_27" "1"
+		"category_9" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_17" "1"
+		"category_30" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_44" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1323280800"
+	"metacritic_score" "84"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/trine-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "35720"
+	"store_tags"
+	{
+		"0" "5537"
+		"1" "1625"
+		"2" "21"
+		"3" "19"
+		"4" "5411"
+		"5" "5379"
+		"6" "1685"
+		"7" "1664"
+		"8" "1684"
+		"9" "492"
+		"10" "3843"
+		"11" "3841"
+		"12" "3859"
+		"13" "3968"
+		"14" "1756"
+		"15" "4182"
+		"16" "4166"
+		"17" "3871"
+		"18" "597"
+		"19" "122"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Frozenbyte"
+	"dlcavailableonstore" "0"
+	"dlcpurchasefromingame" "0"
+	"gamedir" "Trine 2"
+	"homepage" "http://www.trine2.com/"
+	"icon" ""
+	"installscript" "installscript.vdf"
+	"installscript_macos" "Trine2.app/installscript_osx.vdf"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "35721"
+	"primarycache_macos" "35722"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"validoslist" "windows,macos,linux"
+	"publisher" "Frozenbyte"
+	"listofdlc" "35723,35725,218530"
+}
+"config"
+{
+	"launch"
+	{
+		"0"
+		{
+			"executable" "trine2_launcher.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Trine2Launcher.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "trine2.sh"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"contenttype" "3"
+	"installdir" "Trine 2"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1865292473"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"35723"
+	{
+		"optional" "1"
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8584643846395801365"
+				"size" "326400228"
+				"download" "323521952"
+			}
+			"old"
+			{
+				"gid" "3424129899688541738"
+				"size" "172451880"
+				"download" "0"
+			}
+			"old_v115"
+			{
+				"gid" "3424129899688541738"
+				"size" "172451880"
+				"download" "0"
+			}
+			"old_v116"
+			{
+				"gid" "3424129899688541738"
+				"size" "172451880"
+				"download" "0"
+			}
+			"old_v200_b1"
+			{
+				"gid" "3424129899688541738"
+				"size" "172451880"
+				"download" "0"
+			}
+			"test"
+			{
+				"gid" "8584643846395801365"
+				"size" "326400228"
+				"download" "323521952"
+			}
+		}
+		"dlcappid" "35723"
+	}
+	"35724"
+	{
+		"optional" "1"
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "143574432360681819"
+				"size" "262795"
+				"download" "191472"
+			}
+			"old"
+			{
+				"gid" "143574432360681819"
+				"size" "262795"
+				"download" "0"
+			}
+			"old_v115"
+			{
+				"gid" "143574432360681819"
+				"size" "262795"
+				"download" "0"
+			}
+			"old_v116"
+			{
+				"gid" "143574432360681819"
+				"size" "262795"
+				"download" "0"
+			}
+			"old_v200_b1"
+			{
+				"gid" "143574432360681819"
+				"size" "262795"
+				"download" "0"
+			}
+			"test"
+			{
+				"gid" "143574432360681819"
+				"size" "262795"
+				"download" "191472"
+			}
+		}
+	}
+	"35722"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7383410201471924566"
+				"size" "3960437562"
+				"download" "3184869232"
+			}
+			"old"
+			{
+				"gid" "5779388370850597699"
+				"size" "1888896384"
+				"download" "0"
+			}
+			"old_v115"
+			{
+				"gid" "2719859547569692461"
+				"size" "1897869900"
+				"download" "0"
+			}
+			"old_v116"
+			{
+				"gid" "8764634646335203786"
+				"size" "1898145080"
+				"download" "0"
+			}
+			"old_v200_b1"
+			{
+				"gid" "4018817790878509797"
+				"size" "3563506472"
+				"download" "0"
+			}
+			"test"
+			{
+				"gid" "7383410201471924566"
+				"size" "3960437562"
+				"download" "3184869232"
+			}
+		}
+	}
+	"35721"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7104939133566979712"
+				"size" "4675080837"
+				"download" "3927397056"
+			}
+			"old"
+			{
+				"gid" "2243367036267945103"
+				"size" "1572064435"
+				"download" "0"
+			}
+			"old_v115"
+			{
+				"gid" "8608891314604218847"
+				"size" "1589253820"
+				"download" "0"
+			}
+			"old_v116"
+			{
+				"gid" "7126066602970771565"
+				"size" "1589435334"
+				"download" "0"
+			}
+			"old_v200_b1"
+			{
+				"gid" "2294125121793617805"
+				"size" "3600266593"
+				"download" "0"
+			}
+			"test"
+			{
+				"gid" "7104939133566979712"
+				"size" "4675080837"
+				"download" "3927397056"
+			}
+		}
+	}
+	"35725"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7099658573466662950"
+				"size" "40"
+				"download" "192"
+			}
+			"old_v200_b1"
+			{
+				"gid" "7099658573466662950"
+				"size" "40"
+				"download" "0"
+			}
+			"test"
+			{
+				"gid" "7099658573466662950"
+				"size" "40"
+				"download" "192"
+			}
+		}
+		"dlcappid" "35725"
+	}
+	"35726"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "635227223980426539"
+				"size" "40"
+				"download" "192"
+			}
+			"old_v200_b1"
+			{
+				"gid" "635227223980426539"
+				"size" "40"
+				"download" "0"
+			}
+			"test"
+			{
+				"gid" "635227223980426539"
+				"size" "40"
+				"download" "192"
+			}
+		}
+	}
+	"35727"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1341319465068310227"
+				"size" "4133708037"
+				"download" "3558062768"
+			}
+			"old_v200_b1"
+			{
+				"gid" "3534619540875830698"
+				"size" "3904128408"
+				"download" "0"
+			}
+			"test"
+			{
+				"gid" "1341319465068310227"
+				"size" "4133708037"
+				"download" "3558062768"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "758827"
+		}
+		"old"
+		{
+			"buildid" "4364"
+			"description" "Old v1.14"
+		}
+		"old_v115"
+		{
+			"buildid" "4861"
+			"description" "Old v1.15"
+		}
+		"old_v116"
+		{
+			"buildid" "8191"
+			"description" "Old v1.16"
+		}
+		"old_v200_b1"
+		{
+			"buildid" "178220"
+			"description" "Old v2.00 build 1"
+		}
+		"test"
+		{
+			"buildid" "758827"
+			"description" "Current patch public test \t"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "1000"
+	"hidecloudui" "0"
+}
+"_missing_token" "False"
+"_change_number" "29620883"
+"_sha" "71c2760519b517cc7bb4b35a877851b5a59d00bc"
+"_size" "12327"
