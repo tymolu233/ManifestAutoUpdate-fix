@@ -1,0 +1,310 @@
+"appid" "2340650"
+"common"
+{
+	"name" "古龙风云录"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "63c93a215c853f4d9a954ec62d1feb1fed54b48b"
+	"clienticon" "c55eb09ef52f00b41cce810455fa7fc2bc3b308c"
+	"clienttga" "021276087729a62faa917b0cc73256b1477186fa"
+	"name_localized"
+	{
+		"tchinese" "古龍風雲錄"
+		"sc_schinese" "古龙风云录"
+	}
+	"releasestatesteamchina" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1751068800"
+		"tested_build_id" "14142398"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"tchinese" "header_tchinese.jpg"
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-xc,zh-tw"
+		"library_hero" "en"
+		"library_logo" "zh-tw,en,zh-xc"
+		"library_header" "en,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "109.35325231610713"
+			"height_pct" "96.875201022352"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "109.35325231610713"
+				"height_pct" "96.875201022352"
+			}
+			"image"
+			{
+				"tchinese" "logo_tchinese.png"
+				"english" "logo.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"image2x"
+			{
+				"tchinese" "logo_tchinese_2x.png"
+				"english" "logo_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1715054667"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "香港商河洛互動娛樂股份有限公司"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "心火游戏"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1706773861"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2340650"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "1742"
+		"2" "3834"
+		"3" "6915"
+		"4" "4325"
+		"5" "21"
+		"6" "1695"
+		"7" "3854"
+		"8" "4182"
+		"9" "5984"
+		"10" "9"
+		"11" "9551"
+		"12" "5613"
+		"13" "1677"
+		"14" "4085"
+		"15" "492"
+		"16" "3810"
+		"17" "12095"
+		"18" "44868"
+		"19" "1693"
+	}
+	"review_score" "5"
+	"review_percentage" "58"
+}
+"extended"
+{
+	"developer" "香港商河洛互動娛樂股份有限公司"
+	"publisher" "心火游戏"
+	"homepage" "https://weibo.com/u/7824314603"
+}
+"config"
+{
+	"installdir" "古龙风云录"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GuLong.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"2340651"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7247112911681120311"
+				"size" "23326311958"
+				"download" "12885214688"
+			}
+		}
+	}
+	"baselanguages" "english"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14142398"
+			"timeupdated" "1714017010"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "200"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SaveData"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "29906117"
+"_sha" "d16922f10038849ccba3f5dede5c7c51d2734870"
+"_size" "5851"
