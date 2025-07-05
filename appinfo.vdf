@@ -1,0 +1,463 @@
+"appid" "1903340"
+"common"
+{
+	"name" "Clair Obscur: Expedition 33"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "2e19d0416020ad43e97bf05240a5caa7fdb27df0"
+	"clienttga" "5266f3c18fea45ceb95cd9cd28ecf279bc8bb86e"
+	"icon" "d48fb3ed033a08bad9bf0a2e1ceb145e58ffe0aa"
+	"name_localized"
+	{
+		"schinese" "光与影：33号远征队"
+		"koreana" "클레르 옵스퀴르: 33 원정대"
+		"tchinese" "光與影：33號遠征隊"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1745625600"
+		"tested_build_id" "18221398"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_LauncherInteractionIssues"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "1"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "2"
+		}
+	}
+	"metacritic_name" "Clair Obscur: Expedition 33"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "001d4a5d81e4bb9055b789240e78e04ef6e6da38/capsule_231x87.jpg"
+		"schinese" "b165109579fe05a63afd279cc4421edfc28d25bd/capsule_231x87_schinese.jpg"
+		"tchinese" "bf3f3942fd643663fddcfd33cc76a6ad891e325e/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg"
+		"schinese" "b3cb63bf5aa3ffd7790310e4361050c368569314/header_schinese.jpg"
+		"tchinese" "39a470b18702cf10380d193ec217f1aba722566e/header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50.38961598870206"
+			"height_pct" "92.3975131892469"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "8b21381a43ac5a535a838f723815f8fe14ceaf7c/library_600x900.jpg"
+				"schinese" "148c1b115a5a7223aa57b1b603ef41462676b7f5/library_600x900_schinese.jpg"
+				"tchinese" "7f720d0e68dad3f97b9d4289d228f622099906e3/library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "8b21381a43ac5a535a838f723815f8fe14ceaf7c/library_600x900_2x.jpg"
+				"schinese" "148c1b115a5a7223aa57b1b603ef41462676b7f5/library_600x900_schinese_2x.jpg"
+				"tchinese" "7f720d0e68dad3f97b9d4289d228f622099906e3/library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "5e7046fe8fc58a3dcbd9d65f73c3b94632fc9c39/logo.png"
+				"schinese" "c65195651c0bc1682f455b9b17f6242e156e4bcf/logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "5e7046fe8fc58a3dcbd9d65f73c3b94632fc9c39/logo_2x.png"
+				"schinese" "c65195651c0bc1682f455b9b17f6242e156e4bcf/logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50.38961598870206"
+				"height_pct" "92.3975131892469"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "be3305b02d4db0dffa3458537118423bf2792d7e/library_header.jpg"
+				"schinese" "b3cb63bf5aa3ffd7790310e4361050c368569314/library_header_schinese.jpg"
+				"tchinese" "39a470b18702cf10380d193ec217f1aba722566e/library_header_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "be3305b02d4db0dffa3458537118423bf2792d7e/library_header_2x.jpg"
+				"schinese" "b3cb63bf5aa3ffd7790310e4361050c368569314/library_header_schinese_2x.jpg"
+				"tchinese" "39a470b18702cf10380d193ec217f1aba722566e/library_header_tchinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1751536654"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Sandfall Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kepler Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Clair Obscur"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1745478006"
+	"metacritic_score" "91"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/clair-obscur-expedition-33\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1903340"
+	"content_descriptors_including_dlc"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"store_tags"
+	{
+		"0" "4325"
+		"1" "1742"
+		"2" "1684"
+		"3" "122"
+		"4" "4434"
+		"5" "3834"
+		"6" "21"
+		"7" "4182"
+		"8" "3854"
+		"9" "4231"
+		"10" "29482"
+		"11" "1756"
+		"12" "10695"
+		"13" "4604"
+		"14" "4747"
+		"15" "4191"
+		"16" "3835"
+		"17" "5094"
+		"18" "19"
+		"19" "4175"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"additional_dependencies"
+	{
+		"0"
+		{
+			"src_os" "windows"
+			"dest_os" "linux"
+			"h264" "1"
+		}
+	}
+	"developer" "Sandfall Interactive"
+	"publisher" "Kepler Interactive"
+	"homepage" "https://www.expedition33.com/"
+	"listofdlc" "3228520"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Expedition 33"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Expedition33_Steam.exe"
+			"type" "default"
+		}
+		"2"
+		{
+			"executable" "Expedition33_Steam.exe"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "qa-external-testing"
+			}
+			"description_loc"
+			{
+				"english" "with error reporting"
+			}
+			"description" "with error reporting"
+		}
+		"3"
+		{
+			"executable" "Expedition33_Steam.exe"
+			"arguments" "-gpucrashdebugging"
+			"type" "option2"
+			"config"
+			{
+				"betakey" "qa-external-testing"
+			}
+			"description_loc"
+			{
+				"english" "with GPU debugging"
+			}
+			"description" "with GPU debugging"
+		}
+		"4"
+		{
+			"executable" "Expedition33_Steam.exe"
+			"arguments" "-noassert -ExecCmds=\"sg.TextureQuality 1;sg.ShadingQuality 2;sg.EffectsQuality 1;sg.FoliageQuality 1;sg.ShadowQuality 2;sg.AntiAliasingQuality 2; sg.ViewDistanceQuality 1; sg.PostProcessQuality 1; sg.ResolutionQuality 70;sg.GlobalIlluminationQuality 2\""
+			"type" "option1"
+			"config"
+			{
+				"betakey" "qa-external-testing"
+			}
+			"description_loc"
+			{
+				"english" "[QA BRANCH] Expedition 33 - Medium Preset: RTX 3070 @ 1080p"
+			}
+			"description" "[QA BRANCH] Expedition 33 - Medium Preset: RTX 3070 @ 1080p"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"1903341"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5254624293993445364"
+				"size" "43633554843"
+				"download" "41987896304"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "18813677"
+			"timeupdated" "1749580304"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "250"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Sandfall/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "29889936"
+"_sha" "69ad7d4921edd5dd4cc6ff902621b8d32b11eff9"
+"_size" "9897"
