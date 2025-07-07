@@ -1,0 +1,471 @@
+"appid" "1422130"
+"common"
+{
+	"name" "SimRail - The Railway Simulator"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "756ce32ed8a71dbdcf0570092faf1f1cfc4be5ab"
+	"logo_small" "756ce32ed8a71dbdcf0570092faf1f1cfc4be5ab_thumb"
+	"icon" "06e7b6645da3b3a1c22fe28db8bc5825a380d111"
+	"clienticon" "9a1a635fd7341ed3b3d2917aa3ef86bd98001789"
+	"clienttga" "0205d6fb75cbd27767c2f5ead71bbc23a11b5331"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"ukrainian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1422130_eula_0"
+			"name" "SimRail - The Railway Simulator EULA"
+			"url" "https://store.steampowered.com//eula/1422130_eula_0"
+			"version" "3"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1701734400"
+		"tested_build_id" "12796776"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "28.926955397543637"
+			"height_pct" "85.41666666666666"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "28.926955397543637"
+				"height_pct" "85.41666666666666"
+			}
+		}
+	}
+	"store_asset_mtime" "1742504674"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "SimRail S.A."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PlayWay S.A."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "PlayWay S.A."
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_15" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1734116330"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1422130"
+	"store_tags"
+	{
+		"0" "1616"
+		"1" "599"
+		"2" "10383"
+		"3" "3859"
+		"4" "1644"
+		"5" "4175"
+		"6" "4182"
+		"7" "128"
+		"8" "3968"
+		"9" "3843"
+		"10" "1100687"
+		"11" "9204"
+		"12" "1695"
+		"13" "5350"
+		"14" "3834"
+		"15" "4191"
+		"16" "9994"
+		"17" "3839"
+		"18" "10235"
+		"19" "24003"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "SimRail S.A."
+	"publisher" "PlayWay S.A."
+	"homepage" "https://www.facebook.com/simrail2021/"
+	"listofdlc" "2868050,3583200"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "SimRail"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SimRail.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,schinese,tchinese,russian,polish,hungarian,czech,ukrainian"
+	"workshopdepot" "1422130"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1422131"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2017207357429476375"
+				"size" "1207528903"
+				"download" "759002192"
+			}
+			"next"
+			{
+				"gid" "6145432365793316166"
+				"size" "1193574620"
+				"download" "767219504"
+			}
+		}
+	}
+	"1422133"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2417568393505737633"
+				"size" "20357360842"
+				"download" "17276596768"
+			}
+			"next"
+			{
+				"gid" "8377539596542403191"
+				"size" "20538576367"
+				"download" "17430580128"
+			}
+		}
+	}
+	"1422134"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4743157558475308341"
+				"size" "372538223"
+				"download" "286573472"
+			}
+			"next"
+			{
+				"gid" "8415454707390914170"
+				"size" "385383036"
+				"download" "295044144"
+			}
+		}
+	}
+	"1422132"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8008164642706039965"
+				"size" "48067240253"
+				"download" "32955601840"
+			}
+			"next"
+			{
+				"gid" "1365947202181234383"
+				"size" "48207668282"
+				"download" "33071623568"
+			}
+		}
+	}
+	"3580250"
+	{
+		"dlcappid" "3580250"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6463085081185365201"
+				"size" "18038095413"
+				"download" "12779223552"
+			}
+			"next"
+			{
+				"gid" "2343953412767862938"
+				"size" "18654628061"
+				"download" "13298077728"
+			}
+		}
+	}
+	"3583200"
+	{
+		"dlcappid" "3583200"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7069259695835173116"
+				"size" "9057480941"
+				"download" "6159267008"
+			}
+			"next"
+			{
+				"gid" "487861152295254315"
+				"size" "9168089556"
+				"download" "6238301728"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "18679621"
+			"timeupdated" "1749909052"
+		}
+		"next"
+		{
+			"buildid" "19040280"
+			"description" "Testing of next update"
+			"timeupdated" "1751193183"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "29904288"
+"_sha" "8c20a6e3c1963dcd75439f4bdc846504c4510b99"
+"_size" "8163"
