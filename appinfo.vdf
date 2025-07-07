@@ -1,0 +1,149 @@
+"appid" "2429020"
+"common"
+{
+	"name" "Kingdom Come: Deliverance II Modding tools"
+	"type" "Tool"
+	"parent" "1771300"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "9a5bc18f3e77661592f403276ee163cb96cb49d3"
+	"clienticon" "29fdfd43663b3f8ce714bbaac0bff4f7bada657a"
+	"clienttga" "5faf004db815e42b0864b1102a80a2045df2a438"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2429020_eula_0"
+			"name" "Kingdom Come: Deliverance II Modding tools EULA"
+			"url" "https://store.steampowered.com//eula/2429020_eula_0"
+			"version" "1"
+		}
+	}
+	"associations"
+	{
+	}
+	"gameid" "2429020"
+}
+"config"
+{
+	"installdir" "KCD2Mod"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Tools\\ModdingWorkspaceSetup\\WorkspaceSetup.exe"
+			"type" "config"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Modding workspace setup"
+			}
+			"description" "Modding workspace setup"
+		}
+		"2"
+		{
+			"executable" "Bin\\Win64ReleaseSteamLTO_DLL\\Editor.exe"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Editor"
+			}
+			"description" "Editor"
+		}
+		"3"
+		{
+			"executable" "Bin\\Win64ReleaseSteamLTO_DLL\\KingdomCome.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Game"
+			}
+			"description" "Game"
+		}
+		"4"
+		{
+			"executable" "Tools\\SteamWorkshopUploader\\SteamWorkshopUploader.exe"
+			"workingdir" "Tools\\SteamWorkshopUploader"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch Workshop uploader"
+			}
+			"description" "Launch Workshop uploader"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2429021"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8240771090979052224"
+				"size" "14662889716"
+				"download" "7909737168"
+			}
+			"1_3_preview"
+			{
+				"gid" "3627335911804500129"
+				"size" "96380777153"
+				"download" "86157915712"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "18578081"
+			"timeupdated" "1748017323"
+		}
+		"1_3_preview"
+		{
+			"buildid" "18376289"
+			"description" "1.3 preview"
+			"timeupdated" "1746776473"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "8400000000"
+	"maxnumfiles" "1500"
+}
+"_missing_token" "False"
+"_change_number" "29154369"
+"_sha" "31a49125b710b478ab31c375aac921c9705987f0"
+"_size" "2588"
