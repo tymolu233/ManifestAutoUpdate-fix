@@ -1,0 +1,438 @@
+"appid" "2226430"
+"common"
+{
+	"name" "CraftCraft"
+	"type" "Game"
+	"icon" "a8b6128824eb8f04e423e9864ae1f51cd10159e0"
+	"clienticon" "31eda974dc044c08f469beed1cc8897cbc383e7c"
+	"clienttga" "cd0ab082324a233e75938e3e5d1eef1410389a29"
+	"clienticns" "a6cdba70008dd59411ddc5e7e97cf9633b586e30"
+	"linuxclienticon" "b4613040b1a8e82e84f6700b129414cc7c91cdc9"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"name_localized"
+	{
+		"schinese" "奇巧匠：手工经商模拟"
+		"tchinese" "奇巧匠：手工經商模擬"
+	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1748908800"
+		"tested_build_id" "18676122"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "ec5438de82e32f785d0fe13e775e723eb5442307/capsule_231x87.jpg"
+		"schinese" "fb53a3afa2d8502b72fef8b9fc32c22249bd2fa2/capsule_231x87_schinese.jpg"
+		"tchinese" "37717916775622c8b3cfe656feedcba288fb5080/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "4a56ee8e6ef3fa1f2fae0fd824353644becabbca/header_schinese.jpg"
+		"tchinese" "765326bef51ad30c3866edcdab3cec79134e32fd/header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "1f8b598ba1e87a900816e2bc18bce0bd1c561e2e/library_header.jpg"
+				"schinese" "4a56ee8e6ef3fa1f2fae0fd824353644becabbca/library_header_schinese.jpg"
+				"tchinese" "765326bef51ad30c3866edcdab3cec79134e32fd/library_header_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "1f8b598ba1e87a900816e2bc18bce0bd1c561e2e/library_header_2x.jpg"
+				"schinese" "4a56ee8e6ef3fa1f2fae0fd824353644becabbca/library_header_schinese_2x.jpg"
+				"tchinese" "765326bef51ad30c3866edcdab3cec79134e32fd/library_header_tchinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1750777779"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Placeholder Gameworks"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Pineapple Works"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Placeholder Gameworks"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Hawthorn Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Placeholder Gameworks"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_66" "1"
+		"category_67" "1"
+		"category_68" "1"
+		"category_74" "1"
+		"category_76" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1748546913"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2226430"
+	"content_descriptors_including_dlc"
+	{
+		"0" "5"
+	}
+	"store_tags"
+	{
+		"0" "1684"
+		"1" "4252"
+		"2" "17894"
+		"3" "1654"
+		"4" "3799"
+		"5" "599"
+		"6" "4747"
+		"7" "122"
+		"8" "4234"
+		"9" "6971"
+		"10" "6426"
+		"11" "1702"
+		"12" "3871"
+		"13" "44868"
+		"14" "15172"
+		"15" "492"
+		"16" "1742"
+		"17" "4182"
+		"18" "10235"
+		"19" "597"
+	}
+	"review_score" "6"
+	"review_percentage" "76"
+}
+"extended"
+{
+	"developer" "Placeholder Gameworks"
+	"publisher" "Placeholder Gameworks"
+}
+"config"
+{
+	"installdir" "CraftCraft"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CraftCraft.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "CraftCraft.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2226432"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3023271798454971896"
+				"size" "3737513353"
+				"download" "2989352896"
+			}
+			"public_testing"
+			{
+				"gid" "7689079194674963793"
+				"size" "3741580857"
+				"download" "2828924992"
+			}
+			"public_testing_3_6"
+			{
+				"gid" "969726770847248607"
+				"size" "3737735113"
+				"download" "2827936608"
+			}
+		}
+	}
+	"2226433"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1011468907734490377"
+				"size" "3774187997"
+				"download" "3002546592"
+			}
+			"public_testing"
+			{
+				"gid" "4272247283026346179"
+				"size" "3789832404"
+				"download" "2842950736"
+			}
+			"public_testing_3_6"
+			{
+				"gid" "7792825401579735526"
+				"size" "3774308255"
+				"download" "2838521408"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19036921"
+			"timeupdated" "1751127263"
+		}
+		"public_testing"
+		{
+			"buildid" "18784513"
+			"description" "Public testing branch"
+			"timeupdated" "1749389408"
+		}
+		"public_testing_3_6"
+		{
+			"buildid" "18884681"
+			"description" "Public testing branch for Godot 3.6 engine update"
+			"timeupdated" "1750087776"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "20971520"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Placeholder Gameworks/CraftCraft/saves"
+			"pattern" "*.save"
+		}
+		"2"
+		{
+			"root" "MacAppSupport"
+			"path" "Placeholder Gameworks/CraftCraft/saves"
+			"pattern" "*.save"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"3"
+		{
+			"root" "MacAppSupport"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataRoaming"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "29804142"
+"_sha" "7a5b71dbdcbe0ee471d7c14017472ec6007fd9a2"
+"_size" "8593"
