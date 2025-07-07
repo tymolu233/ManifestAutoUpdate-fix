@@ -1,0 +1,963 @@
+"appid" "613100"
+"common"
+{
+	"name" "House Flipper"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "e7feebda23ff7a1fae32d6b7641ca910c83797c0"
+	"logo_small" "e7feebda23ff7a1fae32d6b7641ca910c83797c0_thumb"
+	"icon" "4ab6e7c49f3f0c063dfe08ab85038c979301f6dd"
+	"clienticon" "05d22bd63dd376453d3abdb4f7b8c6acf9240627"
+	"clienttga" "7b69e27604df88ff0a45084c81080bc0bcdb0f07"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"norwegian" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"greek" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"japanese" "ハウスフリッパー"
+		"schinese" "房产达人"
+		"russian" "Хаус Флиппер"
+		"koreana" "하우스 플리퍼"
+		"tchinese" "房產達人"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "613100_eula_0"
+			"name" "House Flipper EULA"
+			"url" "https://store.steampowered.com//eula/613100_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1644278400"
+		"tested_build_id" "7559884"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "House Flipper"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "446e6c6faa35dd9303ae58753b532bdb4ff42960/capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+	}
+	"header_image"
+	{
+		"english" "6cee40fe293f0bab47534e78bcda64487902efc1/header.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"koreana" "header_koreana.jpg"
+		"russian" "header_russian.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,zh-tw,ja,ko,ru,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "55.11897500961064"
+			"height_pct" "75.45713607219187"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "e28856fc6bbdf3d8a4d612e8d3cb7a4c400c4220/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "e28856fc6bbdf3d8a4d612e8d3cb7a4c400c4220/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "dd78cbf02ea91c9ecdebda21543be57d59981101/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "dd78cbf02ea91c9ecdebda21543be57d59981101/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "dd78cbf02ea91c9ecdebda21543be57d59981101/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "4b7a5fbaaa69a4c5220b7cd7cc77b9c0a13f082a/logo.png"
+				"tchinese" "logo_tchinese.png"
+				"japanese" "logo_japanese.png"
+				"koreana" "logo_koreana.png"
+				"russian" "logo_russian.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "4b7a5fbaaa69a4c5220b7cd7cc77b9c0a13f082a/logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "55.11897500961064"
+				"height_pct" "75.45713607219187"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "6cee40fe293f0bab47534e78bcda64487902efc1/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "6cee40fe293f0bab47534e78bcda64487902efc1/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1751665318"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Empyrean"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Frozen District"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "PlayWay S.A."
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "House Flipper"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_42" "1"
+		"category_30" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1526540400"
+	"steam_release_date" "1526569080"
+	"metacritic_score" "67"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/house-flipper\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "613100"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "84"
+		"2" "4182"
+		"3" "1643"
+		"4" "1654"
+		"5" "3810"
+		"6" "597"
+		"7" "1036"
+		"8" "9204"
+		"9" "3859"
+		"10" "3839"
+		"11" "12472"
+		"12" "4695"
+		"13" "5350"
+		"14" "4191"
+		"15" "7332"
+		"16" "4711"
+		"17" "4175"
+		"18" "492"
+		"19" "1669"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Empyrean"
+	"publisher" "Frozen District"
+	"homepage" "http://houseflippergame.com/"
+	"listofdlc" "825570,942290,1021110,1126050,1460920,1569190,1832960,2819590,2910200,3363170"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "House Flipper"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HouseFlipper.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "HouseFlipper.exe"
+			"arguments" "-force-feature-level-10-0"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "HF (use if first option doesn\'t work, old Dx10)"
+			}
+			"description" "HF (use if first option doesn\'t work, old Dx10)"
+		}
+		"2"
+		{
+			"executable" "HouseFlipper.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "HouseFlipper.app"
+			"arguments" "-force-glcore"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "House Flipper (OpenGL)"
+			}
+			"description" "House Flipper (OpenGL)"
+		}
+		"5"
+		{
+			"executable" "HouseFlipper.exe"
+			"arguments" "--disable-reflection-probes"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "HF (use when experiencing black glitches)"
+			}
+			"description" "HF (use when experiencing black glitches)"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"1593598194"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,beta,develop,testing"
+			"use_action_block" "false"
+		}
+		"1593727327"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,beta,develop,testing"
+			"use_action_block" "false"
+		}
+		"1593728482"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,beta,develop,testing"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "15"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2176407486"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "613100"
+	"baselanguages" "english"
+	"hasdepotsindlc" "1"
+	"613101"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6230191237470730418"
+				"size" "11617503626"
+				"download" "5856045504"
+			}
+		}
+	}
+	"613102"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6830841877635875668"
+				"size" "11797403537"
+				"download" "5896476544"
+			}
+		}
+	}
+	"613103"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "825570"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4790622022019179677"
+				"size" "280515891"
+				"download" "88264816"
+			}
+		}
+	}
+	"613104"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "825570"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "826643010868183626"
+				"size" "285300852"
+				"download" "89328400"
+			}
+		}
+	}
+	"613105"
+	{
+		"dlcappid" "942290"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3605593935518770072"
+				"size" "866295919"
+				"download" "255567040"
+			}
+		}
+	}
+	"613106"
+	{
+		"dlcappid" "942290"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8947930564953285941"
+				"size" "871359295"
+				"download" "256712704"
+			}
+		}
+	}
+	"613107"
+	{
+		"dlcappid" "1126050"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6907931279717487549"
+				"size" "546728250"
+				"download" "99584896"
+			}
+		}
+	}
+	"613108"
+	{
+		"dlcappid" "1126050"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3261385674926624043"
+				"size" "551450252"
+				"download" "100595040"
+			}
+		}
+	}
+	"613109"
+	{
+		"dlcappid" "1460920"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6660136761442862944"
+				"size" "464108842"
+				"download" "135470160"
+			}
+		}
+	}
+	"613110"
+	{
+		"dlcappid" "1460920"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "521667423017526294"
+				"size" "465870203"
+				"download" "135916368"
+			}
+		}
+	}
+	"1471281"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3756830420174509357"
+				"size" "2944262"
+				"download" "882224"
+			}
+		}
+		"depotfromapp" "1471280"
+	}
+	"613111"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "1021110"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8700451308097556467"
+				"size" "3506623553"
+				"download" "1031773952"
+			}
+		}
+	}
+	"613112"
+	{
+		"dlcappid" "1021110"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7986090108527115915"
+				"size" "3520593550"
+				"download" "1034702544"
+			}
+		}
+	}
+	"613113"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "1569190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3446089957529320428"
+				"size" "2576658921"
+				"download" "869600400"
+			}
+		}
+	}
+	"613114"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "1569190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8932605824027285357"
+				"size" "2563606072"
+				"download" "858097264"
+			}
+		}
+	}
+	"613115"
+	{
+		"dlcappid" "1832960"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1475827971563486905"
+				"size" "2763121034"
+				"download" "907419296"
+			}
+		}
+	}
+	"613116"
+	{
+		"dlcappid" "1832960"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2210804429405015988"
+				"size" "2781577219"
+				"download" "911499536"
+			}
+		}
+	}
+	"613117"
+	{
+		"dlcappid" "2910200"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3610127838985082406"
+				"size" "260059912"
+				"download" "75959888"
+			}
+		}
+	}
+	"613118"
+	{
+		"dlcappid" "2910200"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7409346092024175997"
+				"size" "261568232"
+				"download" "76286064"
+			}
+		}
+	}
+	"613119"
+	{
+		"dlcappid" "2819590"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6461392196264348827"
+				"size" "4597241476"
+				"download" "1478347872"
+			}
+		}
+	}
+	"825571"
+	{
+		"dlcappid" "2819590"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7205774388852153990"
+				"size" "4619137300"
+				"download" "1482414400"
+			}
+		}
+	}
+	"825572"
+	{
+		"dlcappid" "3363170"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4594265968842978884"
+				"size" "630477626"
+				"download" "166399344"
+			}
+		}
+	}
+	"825573"
+	{
+		"dlcappid" "3363170"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1134326488512779719"
+				"size" "632459275"
+				"download" "166816912"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "18825857"
+			"timeupdated" "1749651529"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "22000111000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Empyrean/House Flipper Game/Saves"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Empyrean/House Flipper Game"
+			"pattern" "CatchedTextures.dat"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Empyrean/House Flipper Game/Profiles"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "29904802"
+"_sha" "24bfc2dda2c858d110afeee241961184c1ec7a91"
+"_size" "16436"
