@@ -1,0 +1,476 @@
+"appid" "1401730"
+"common"
+{
+	"name" "Crashlands 2"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "b07855db1e6072449e9598bf1a303d2460725430"
+	"clienttga" "d1d19c714f9a3b1d83447ef70ba3fee366d9f1df"
+	"clienticon" "a5c9580be2269f9b5ad4290151443e73290a70ae"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "崩溃大陆 2"
+		"tchinese" "崩潰大陸 2"
+		"koreana" "크래시랜드 2"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1748908800"
+		"tested_build_id" "18409653"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "1"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "660c459d13b5669e0ce981cb8450c99570f1760e/capsule_231x87.jpg"
+		"schinese" "2018cb1ea9952551a730aad5b50844c6e9cc1585/capsule_231x87_schinese.jpg"
+		"tchinese" "934998c923d07129e7b5e520da8880573bcd0a98/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-tw,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "33.68724493265961"
+			"height_pct" "48.53418602831886"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "610e6b9740e9a15715185329e9ab18b6616d9188/library_600x900.jpg"
+				"schinese" "4f323edcf8b340cbb5ab416b3c28e2f2d43fc2b1/library_600x900_schinese.jpg"
+				"tchinese" "f2733d9bd093025982e8162fb456ed77cd376e75/library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "610e6b9740e9a15715185329e9ab18b6616d9188/library_600x900_2x.jpg"
+				"schinese" "4f323edcf8b340cbb5ab416b3c28e2f2d43fc2b1/library_600x900_schinese_2x.jpg"
+				"tchinese" "f2733d9bd093025982e8162fb456ed77cd376e75/library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "33.68724493265961"
+				"height_pct" "48.53418602831886"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+				"tchinese" "library_header_tchinese_2x.jpg"
+				"schinese" "library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1750971016"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Butterscotch Shenanigans"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Butterscotch Shenanigans"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Crashlands"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_63" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_64" "1"
+		"category_66" "1"
+		"category_67" "1"
+		"category_68" "1"
+		"category_69" "1"
+		"category_78" "1"
+		"category_79" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1744297236"
+	"steam_deck_blog_url" "https://steamcommunity.com/games/1401730/announcements/detail/510700782491796957"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1401730"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "1100689"
+		"2" "1662"
+		"3" "1695"
+		"4" "3834"
+		"5" "21"
+		"6" "1702"
+		"7" "4182"
+		"8" "492"
+		"9" "3810"
+		"10" "7332"
+		"11" "3871"
+		"12" "1643"
+		"13" "4791"
+		"14" "1742"
+		"15" "97376"
+		"16" "1654"
+		"17" "4136"
+		"18" "4305"
+		"19" "4231"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Butterscotch Shenanigans"
+	"publisher" "Butterscotch Shenanigans"
+	"homepage" "https://www.bscotch.net/games/crashlands-2"
+}
+"config"
+{
+	"installdir" "Crashlands 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Crashlands2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "debug.bat"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "develop, runtime, runtime_candidate, candidate, staging "
+			}
+			"description_loc"
+			{
+				"english" "with Diagnostic Logging"
+			}
+			"description" "with Diagnostic Logging"
+		}
+		"2"
+		{
+			"executable" "debug.bat"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "debug_logging"
+			}
+			"description_loc"
+			{
+				"english" "with Diagnostic Logging"
+				"german" "with Diagnostic Logging"
+				"french" "with Diagnostic Logging"
+				"italian" "with Diagnostic Logging"
+				"koreana" "with Diagnostic Logging"
+				"spanish" "with Diagnostic Logging"
+				"schinese" "with Diagnostic Logging"
+				"tchinese" "with Diagnostic Logging"
+				"russian" "with Diagnostic Logging"
+				"thai" "with Diagnostic Logging"
+				"japanese" "with Diagnostic Logging"
+				"portuguese" "with Diagnostic Logging"
+				"polish" "with Diagnostic Logging"
+				"danish" "with Diagnostic Logging"
+				"dutch" "with Diagnostic Logging"
+				"finnish" "with Diagnostic Logging"
+				"norwegian" "with Diagnostic Logging"
+				"swedish" "with Diagnostic Logging"
+				"hungarian" "with Diagnostic Logging"
+				"czech" "with Diagnostic Logging"
+				"romanian" "with Diagnostic Logging"
+				"turkish" "with Diagnostic Logging"
+				"brazilian" "with Diagnostic Logging"
+				"bulgarian" "with Diagnostic Logging"
+				"greek" "with Diagnostic Logging"
+				"ukrainian" "with Diagnostic Logging"
+				"latam" "with Diagnostic Logging"
+				"vietnamese" "with Diagnostic Logging"
+				"indonesian" "with Diagnostic Logging"
+			}
+			"description" "with Diagnostic Logging"
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"1401731"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1086217142447527629"
+				"size" "417618865"
+				"download" "305281040"
+			}
+			"debug_logging"
+			{
+				"gid" "2476146242104103422"
+				"size" "490682548"
+				"download" "255788336"
+			}
+		}
+	}
+	"3665381"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4772012287943947955"
+				"size" "118098748"
+				"download" "112963280"
+			}
+		}
+		"dlcappid" "3665380"
+		"depotfromapp" "3665380"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19108899"
+			"timeupdated" "1751922461"
+		}
+		"debug_logging"
+		{
+			"buildid" "19040304"
+			"description" "Can launch the game with debug logging"
+			"timeupdated" "1751166786"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Crashlands2/{64BitSteamID}"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Crashlands2/{64BitSteamID}"
+					"replace" ".config/Crashlands2/{64BitSteamID}"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "29976396"
+"_sha" "356f0780b55241f644185279c53d713e9548d7bf"
+"_size" "9966"
