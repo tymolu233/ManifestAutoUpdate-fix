@@ -1,0 +1,377 @@
+"appid" "490110"
+"common"
+{
+	"name" "The Precinct"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"icon" "3ab06b568a20df6c1580205ca1ad4cd945250a6f"
+	"clienticon" "cad77bea649ad568eb22ebed603404160340bfc6"
+	"clienttga" "440787067d406aeab8421d906620d65adae4cb8d"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "490110_eula_0"
+			"name" "The Precinct EULA"
+			"url" "https://store.steampowered.com//eula/490110_eula_0"
+			"version" "6"
+		}
+	}
+	"name_localized"
+	{
+		"schinese" "警区"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1747440000"
+		"tested_build_id" "18467516"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "10505529b8dc5997d7c79c70ba89e079d9ceeb70/capsule_231x87.jpg"
+		"schinese" "2d2ac7036732f99e912288b20ffe2ccf153e5ff2/capsule_231x87_schinese.jpg"
+		"tchinese" "2d3ad0c0b7fab7ed6e6c955c87ce50b1b9c0d7b9/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "79.41356635758751"
+			"height_pct" "65.76529947076716"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "fed8d0b39fb24ec4abd31598865d95a4ef0dac37/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "fed8d0b39fb24ec4abd31598865d95a4ef0dac37/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "79.41356635758751"
+				"height_pct" "65.76529947076716"
+			}
+			"image2x"
+			{
+				"english" "040e44bb76f244daa8f0c0e056e2585ffd044d73/logo_2x.png"
+			}
+			"image"
+			{
+				"english" "040e44bb76f244daa8f0c0e056e2585ffd044d73/logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "087dc5bbb0e3f13b54c534cd0dea13a11c1bc087/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "087dc5bbb0e3f13b54c534cd0dea13a11c1bc087/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1750845351"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Fallen Tree Games Ltd"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kwalee"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Kwalee"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_57" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_58" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_60" "1"
+		"category_29" "1"
+		"category_65" "1"
+		"category_68" "1"
+		"category_78" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1747147916"
+	"steam_deck_blog_url" "https://steamcommunity.com/app/490110/discussions/0/603029860838809627/"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "490110"
+	"store_tags"
+	{
+		"0" "5613"
+		"1" "6378"
+		"2" "3810"
+		"3" "1695"
+		"4" "4637"
+		"5" "4182"
+		"6" "6052"
+		"7" "8369"
+		"8" "599"
+		"9" "4191"
+		"10" "5125"
+		"11" "19"
+		"12" "1773"
+		"13" "1680"
+		"14" "4175"
+		"15" "3916"
+		"16" "6869"
+		"17" "9204"
+		"18" "7743"
+		"19" "1644"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Fallen Tree Games Ltd"
+	"publisher" "Kwalee"
+	"homepage" "https://linktr.ee/fallentreegames"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "The Precinct"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Precinct.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"490111"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5298644583418093684"
+				"size" "8333321417"
+				"download" "3856649744"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "18969414"
+			"timeupdated" "1750777230"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Fallen Tree Games Ltd\\The Precinct\\SaveGame_Steam\\SceneMap_default"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgDataHome"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "29976791"
+"_sha" "fdea9dff80b6e7cade26cc96b48320fa04b3e912"
+"_size" "6929"
