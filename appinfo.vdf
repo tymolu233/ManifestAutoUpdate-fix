@@ -1,0 +1,603 @@
+"appid" "1238810"
+"common"
+{
+	"name" "Battlefield™ V"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1238810_eula_0"
+			"name" "Battlefield™ V EULA"
+			"url" "https://store.steampowered.com//eula/1238810_eula_0"
+			"version" "2"
+		}
+	}
+	"logo" "fdbc8f6758a55c56d2a116839231c76f631e57dc"
+	"logo_small" "fdbc8f6758a55c56d2a116839231c76f631e57dc_thumb"
+	"icon" "23ded6a957b5ec7525679c2e7bdac90c0653dbc8"
+	"clienticon" "efa4f81c3558c637a107e9ac36fd11996022110c"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"releasestate" "released"
+	"exfgls" "1"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "《战地风云 5》"
+		"tchinese" "《戰地風雲 5》"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"steamos_compatibility" "1"
+		"test_timestamp" "1709769600"
+		"tested_build_id" "13522912"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedAntiCheat_Other"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamOS_TestResult_UnsupportedAntiCheat_Other"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "80.39658038470674"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "80.39658038470674"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1747167572"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "DICE"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Electronic Arts"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Battlefield"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_29" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_61" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1541750400"
+	"steam_release_date" "1591887300"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1238810"
+	"content_descriptors_including_dlc"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"store_tags"
+	{
+		"0" "1663"
+		"1" "3859"
+		"2" "4182"
+		"3" "4150"
+		"4" "1774"
+		"5" "1678"
+		"6" "4168"
+		"7" "3839"
+		"8" "128"
+		"9" "1775"
+		"10" "3993"
+		"11" "1695"
+		"12" "19"
+		"13" "3987"
+		"14" "5363"
+		"15" "176981"
+		"16" "4166"
+		"17" "4667"
+		"18" "12095"
+		"19" "7208"
+	}
+	"review_score" "6"
+	"review_percentage" "70"
+	"mastersubs_granting_app" "1289670"
+}
+"extended"
+{
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "RU,BY"
+	"developer" "DICE"
+	"publisher" "Electronic Arts"
+	"homepage" "https://www.ea.com/games/battlefield/battlefield-5"
+	"listofdlc" "1254580,1254581,1254582,1264170,1264171,1264172,1438690"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Battlefield V"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "link2ea://launchgame/1238810\?platform=steam&theme=bfv"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1238811"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6721650049133320511"
+				"size" "98014484970"
+				"download" "88929508992"
+			}
+		}
+	}
+	"1238812"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1300094161914919522"
+				"size" "118568"
+				"download" "27536"
+			}
+		}
+	}
+	"1238813"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8474848118184594486"
+				"size" "128250"
+				"download" "29760"
+			}
+		}
+	}
+	"1238814"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5981482195974506984"
+				"size" "113621"
+				"download" "26528"
+			}
+		}
+	}
+	"1238815"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1497103128603889123"
+				"size" "133510"
+				"download" "29968"
+			}
+		}
+	}
+	"1238816"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9077088086266899877"
+				"size" "123917"
+				"download" "28768"
+			}
+		}
+	}
+	"1238817"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8039174010806844919"
+				"size" "200393"
+				"download" "33536"
+			}
+		}
+	}
+	"1238818"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6061542863892843574"
+				"size" "126522"
+				"download" "31152"
+			}
+		}
+	}
+	"1238819"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3407266195047573380"
+				"size" "206967"
+				"download" "32976"
+			}
+		}
+	}
+	"1254583"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4010359096937541454"
+				"size" "172546"
+				"download" "30880"
+			}
+		}
+	}
+	"1254584"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "351324621064682329"
+				"size" "183302"
+				"download" "31872"
+			}
+		}
+	}
+	"1254585"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1604421096638849752"
+				"size" "120099"
+				"download" "28576"
+			}
+		}
+	}
+	"1254586"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4972677978363761993"
+				"size" "128426"
+				"download" "29584"
+			}
+		}
+	}
+	"1254587"
+	{
+		"config"
+		{
+			"language" "arabic"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2709673409888802550"
+				"size" "279549"
+				"download" "33280"
+			}
+		}
+	}
+	"1254588"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8679391186132147187"
+				"size" "399612"
+				"download" "33312"
+			}
+		}
+	}
+	"3340991"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1318423300601359782"
+				"size" "235231375"
+				"download" "234719568"
+			}
+		}
+		"depotfromapp" "3340990"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15984572"
+			"timeupdated" "1729756802"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "29731713"
+"_sha" "585c905f07b07a06cb3b6812386f67dd2e6da3fa"
+"_size" "9416"
