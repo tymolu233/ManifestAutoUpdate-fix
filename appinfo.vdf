@@ -1,0 +1,317 @@
+"appid" "2503770"
+"common"
+{
+	"name" "House of Legacy"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "吾今有世家"
+		"japanese" "ハウス・オブ・レガシー"
+	}
+	"icon" "547da3f0893078a88b124725c0f88ed6298efcb5"
+	"clienttga" "df8eae3b566803c562a773640d81faf87791d0c7"
+	"clienticon" "4f80f8af0e07dfee125d04a17f677d329a38d291"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1747440000"
+		"tested_build_id" "18475588"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "09875c4c7ebb860ae72c122582d87734142c731b/capsule_231x87.jpg"
+		"schinese" "4da3eb4d133be8e75aebf3248d3022fe0df64c86/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "8b33b245fb43916cdf7ad8a893d4618b3c758135/header.jpg"
+		"schinese" "ca58cc500335baf40dad95f9757de1586d951fee/header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "45.33255542590433"
+			"height_pct" "59.118974115412016"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "3e113e2f9747682a099ce5ec31ded0d699d569c2/library_600x900_schinese.jpg"
+				"english" "2f847a5213d5d8a05e231f5cbcaad44477841613/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "3e113e2f9747682a099ce5ec31ded0d699d569c2/library_600x900_schinese_2x.jpg"
+				"english" "2f847a5213d5d8a05e231f5cbcaad44477841613/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "5e8261826887dd1e7c88b94344ce6c3f4f002779/logo.png"
+				"schinese" "af162295aaa25db349dd47aff32e9b648eb7648a/logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "5e8261826887dd1e7c88b94344ce6c3f4f002779/logo_2x.png"
+				"schinese" "af162295aaa25db349dd47aff32e9b648eb7648a/logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "45.33255542590433"
+				"height_pct" "59.118974115412016"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "ca58cc500335baf40dad95f9757de1586d951fee/library_header_schinese.jpg"
+				"english" "8b33b245fb43916cdf7ad8a893d4618b3c758135/library_header.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "ca58cc500335baf40dad95f9757de1586d951fee/library_header_schinese_2x.jpg"
+				"english" "8b33b245fb43916cdf7ad8a893d4618b3c758135/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1751529933"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "S3 Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Thermite Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Thermite Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "热脉游戏"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "25"
+		"1" "3"
+		"2" "28"
+		"3" "2"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1747274141"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2503770"
+	"store_tags"
+	{
+		"0" "6310"
+		"1" "4853"
+		"2" "12472"
+		"3" "3810"
+		"4" "1695"
+		"5" "4328"
+		"6" "122"
+		"7" "4695"
+		"8" "9"
+		"9" "599"
+		"10" "7332"
+		"11" "3834"
+		"12" "8945"
+		"13" "3987"
+		"14" "7107"
+		"15" "21"
+		"16" "3871"
+		"17" "4182"
+		"18" "10235"
+		"19" "1662"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "S3 Studio"
+	"publisher" "Thermite Games"
+	"homepage" "https://www.thermitegames.com/"
+}
+"config"
+{
+	"installdir" "吾今有世家"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "House of Legacy.exe"
+		}
+	}
+}
+"depots"
+{
+	"2503771"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3471596377056730909"
+				"size" "1879435314"
+				"download" "409668016"
+			}
+		}
+	}
+	"baselanguages" "english,schinese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19200240"
+			"timeupdated" "1752309543"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "S3Studio/House of Legacy/FW"
+			"pattern" "*.es3"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "30025320"
+"_sha" "4832b1e6facb658d263f995fd4f6e4f191a5c77e"
+"_size" "6374"
