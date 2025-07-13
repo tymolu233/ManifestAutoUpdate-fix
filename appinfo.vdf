@@ -1,0 +1,579 @@
+"appid" "1716740"
+"common"
+{
+	"name" "Starfield"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "ecd69fee20f6a65fb094a8c0b46b79228c145b1a"
+	"logo_small" "ecd69fee20f6a65fb094a8c0b46b79228c145b1a_thumb"
+	"icon" "b4d5828937b2d29b875405dce97bbae0a5d01bbe"
+	"clienticon" "c0c532371420ad1ae1128d6bffce6f21184e42e7"
+	"clienttga" "7460e37ec5bb2473cba0b3d3fa4a739cdde91ffb"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1716740_eula_0"
+			"name" "Starfield EULA"
+			"url" "https://store.steampowered.com//eula/1716740_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1705536000"
+		"tested_build_id" "12905200"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "36.056009334889154"
+			"height_pct" "58.96461648064596"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "36.056009334889154"
+				"height_pct" "58.96461648064596"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1749757914"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bethesda Game Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bethesda Softworks"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Starfield"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_66" "1"
+		"category_69" "1"
+		"category_70" "1"
+		"category_74" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1693958400"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1716740"
+	"content_descriptors_including_dlc"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"store_tags"
+	{
+		"0" "1755"
+		"1" "1695"
+		"2" "4182"
+		"3" "122"
+		"4" "3942"
+		"5" "3834"
+		"6" "3839"
+		"7" "4747"
+		"8" "1742"
+		"9" "4106"
+		"10" "1697"
+		"11" "21"
+		"12" "4231"
+		"13" "1669"
+		"14" "4166"
+		"15" "16598"
+		"16" "19"
+		"17" "4145"
+		"18" "4175"
+		"19" "1756"
+	}
+	"review_score" "5"
+	"review_percentage" "56"
+}
+"extended"
+{
+	"developer" "Bethesda Game Studios"
+	"publisher" "Bethesda Softworks"
+	"listofdlc" "2401180,2401181,2721670,2792440"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Starfield"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Starfield.exe"
+			"type" "default"
+		}
+	}
+	"app_mappings"
+	{
+		"1"
+		{
+			"platform" "linux"
+			"tool" "proton_experimental"
+			"comment" "proton fixes"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,schinese,japanese,polish,brazilian,latam"
+	"hasdepotsindlc" "0"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1716741"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6270867041624635278"
+				"size" "269352224"
+				"download" "109244544"
+			}
+		}
+	}
+	"1716742"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9055339130498423803"
+				"size" "134448196666"
+				"download" "98912617296"
+			}
+		}
+	}
+	"2401180"
+	{
+		"dlcappid" "2401180"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1350450549444461803"
+				"size" "50772412"
+				"download" "51092320"
+			}
+		}
+	}
+	"2401181"
+	{
+		"dlcappid" "2401181"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9009164480135609609"
+				"size" "14760227"
+				"download" "14823792"
+			}
+		}
+	}
+	"1716743"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7908035178130303133"
+				"size" "6196685166"
+				"download" "6134201264"
+			}
+		}
+	}
+	"1716744"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7835038652843152485"
+				"size" "6718353656"
+				"download" "6664268096"
+			}
+		}
+	}
+	"1716745"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2728823519993102844"
+				"size" "5716848392"
+				"download" "5648157136"
+			}
+		}
+	}
+	"1716746"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8256719953704350900"
+				"size" "6391750828"
+				"download" "6317819216"
+			}
+		}
+	}
+	"1716747"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1299082767590167920"
+				"size" "6391750828"
+				"download" "6317819216"
+			}
+		}
+	}
+	"2721670"
+	{
+		"dlcappid" "2721670"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3372380558904479288"
+				"size" "10711718245"
+				"download" "6805012544"
+			}
+		}
+	}
+	"2721671"
+	{
+		"dlcappid" "2721670"
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7840312422557329126"
+				"size" "1099928126"
+				"download" "1089490544"
+			}
+		}
+	}
+	"2721672"
+	{
+		"dlcappid" "2721670"
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1504624849949367816"
+				"size" "1117753931"
+				"download" "1107166800"
+			}
+		}
+	}
+	"2721673"
+	{
+		"dlcappid" "2721670"
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1691563649532467395"
+				"size" "1092019978"
+				"download" "1081691040"
+			}
+		}
+	}
+	"2721674"
+	{
+		"dlcappid" "2721670"
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4251571192310551992"
+				"size" "1131400346"
+				"download" "1120465616"
+			}
+		}
+	}
+	"2721675"
+	{
+		"dlcappid" "2721670"
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2326521295832541938"
+				"size" "1131400346"
+				"download" "1120465616"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "18483158"
+			"timeupdated" "1747926027"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "29972685"
+"_sha" "57bb3db89f50e6c5b35d538400636b30e6d9372f"
+"_size" "9064"
