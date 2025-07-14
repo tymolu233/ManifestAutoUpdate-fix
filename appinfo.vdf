@@ -1,0 +1,391 @@
+"appid" "508440"
+"common"
+{
+	"name" "Totally Accurate Battle Simulator"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"logo" "e3d6701ba0fc67d28a7ec53991026055dc8c27c2"
+	"logo_small" "e3d6701ba0fc67d28a7ec53991026055dc8c27c2_thumb"
+	"icon" "50fbd075b1cbb63ab805d9e49bbe6c57c5c6e9ff"
+	"clienttga" "190c2df2a436c5156de3be1e42e56f60c2099b96"
+	"clienticon" "c05888eb92db0546e371503ba5b987e16c20dca0"
+	"clienticns" "b56754da7d069dd2bde476d10032d1265f02ac40"
+	"linuxclienticon" "b4d9a7893e3d855704a543e1d823538d66cf3b60"
+	"releasestate" "released"
+	"osarch" "64"
+	"osextended" "macos64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "508440_eula_0"
+			"name" "Totally Accurate Battle Simulator EULA"
+			"url" "https://store.steampowered.com//eula/508440_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1644364800"
+		"tested_build_id" "7575795"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Totally Accurate Battle Simulator"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "39.91737900100941"
+			"height_pct" "83.68173656187355"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "39.91737900100941"
+				"height_pct" "83.68173656187355"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1702991241"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Landfall"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Landfall"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Landfall"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1617300000"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "508440"
+	"store_tags"
+	{
+		"0" "3810"
+		"1" "599"
+		"2" "4136"
+		"3" "1678"
+		"4" "9"
+		"5" "3968"
+		"6" "4182"
+		"7" "4175"
+		"8" "492"
+		"9" "21"
+		"10" "4305"
+		"11" "1684"
+		"12" "4191"
+		"13" "1719"
+		"14" "19"
+		"15" "3987"
+		"16" "5350"
+		"17" "4684"
+		"18" "4726"
+		"19" "10397"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "landfall,landfall_qa,landfall_qa2,landfall_test"
+	"developer" "Landfall"
+	"publisher" "Landfall"
+	"homepage" "http://landfall.se"
+	"aliases" "tabs"
+	"listofdlc" "1270340"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Totally Accurate Battle Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TotallyAccurateBattleSimulator.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "TotallyAccurateBattleSimulator.app/Contents/MacOS/Totally Accurate Battle Simulator"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1862321124"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "508440"
+	"hasdepotsindlc" "0"
+	"508442"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8242906715970617352"
+				"size" "2790484484"
+				"download" "772821824"
+			}
+		}
+	}
+	"508443"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3005476685836115021"
+				"size" "4823547997"
+				"download" "1401673440"
+			}
+		}
+	}
+	"508444"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6531249309224663181"
+				"size" "4794181143"
+				"download" "1388900208"
+			}
+		}
+	}
+	"1270340"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"dlcappid" "1270340"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16771280"
+			"timeupdated" "1734433620"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "5000"
+}
+"_missing_token" "False"
+"_change_number" "29956005"
+"_sha" "7b0bd5d125e2e00e000cff0c439aaee4215dad4f"
+"_size" "6846"
