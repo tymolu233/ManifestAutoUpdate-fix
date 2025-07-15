@@ -1,0 +1,77 @@
+"appid" "2934770"
+"common"
+{
+	"name" "Baldur\'s Gate 3 Toolkit"
+	"type" "Tool"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"parent" "1086940"
+	"icon" "9d0ee4e4acf1da542e42fca2115c5efa7b1b3928"
+	"clienticon" "df5ff24720a5efbd79b6254e8f3e53f4407af43a"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"gameid" "2934770"
+}
+"config"
+{
+	"installdir" "Baldurs Gate 3 Toolkit"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Glasses.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2934771"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "514636135357827812"
+				"size" "576862532"
+				"download" "166155888"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "18526258"
+			"timeupdated" "1747768703"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "29776884"
+"_sha" "db684993b75d8b26435da7bb6d25b57dc8cea409"
+"_size" "1133"
