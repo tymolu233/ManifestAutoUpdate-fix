@@ -1,0 +1,347 @@
+"appid" "1606180"
+"common"
+{
+	"name" "下一站江湖Ⅱ"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "b8e51391d547413a10710dc17273d0752e3e20e9"
+	"logo_small" "b8e51391d547413a10710dc17273d0752e3e20e9_thumb"
+	"icon" "b46c8855fdf1634f949dc8df15ca95fec4345505"
+	"clienticon" "f558681120d088f66e1fbab350f0658d8d6f0ef1"
+	"clienttga" "a1643772c706d15af0b8b0dbadec4f27298bdd85"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"sc_schinese" "下一站江湖Ⅱ"
+	}
+	"releasestatesteamchina" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1752105600"
+		"tested_build_id" "16890947"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-xc"
+		"library_hero" "en,zh-cn,zh-xc"
+		"library_logo" "zh-cn,zh-xc,en"
+		"library_header" "en,zh-cn,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "42.150656467335736"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"sc_schinese" "library_hero_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+				"sc_schinese" "library_hero_sc_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "42.150656467335736"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"sc_schinese" "logo_sc_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+				"sc_schinese" "library_header_sc_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1752571354"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "白玉京工作室"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "白玉京工作室"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_30" "1"
+		"category_51" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1713398449"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1606180"
+	"store_tags"
+	{
+		"0" "4182"
+		"1" "1695"
+		"2" "122"
+		"3" "1678"
+		"4" "1646"
+		"5" "220585"
+		"6" "4328"
+		"7" "3993"
+		"8" "3810"
+		"9" "1662"
+		"10" "6971"
+		"11" "3834"
+		"12" "21"
+		"13" "6915"
+		"14" "1742"
+		"15" "492"
+		"16" "4191"
+		"17" "1723"
+		"18" "9"
+		"19" "19"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"developer" "白玉京工作室"
+	"publisher" "白玉京工作室"
+	"homepage" "http://jh.inmotiongame.com/"
+	"listofdlc" "2905470,2998780,3007440,3099590,3137140,3169410,3255940,3323010,3349590,3386320,3402520,3422810,3552810,3627630,3636310,3759070"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "下一站江湖Ⅱ"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+	"launch"
+	{
+		"0"
+		{
+			"executable" "下一站江湖Ⅱ\\下一站江湖Ⅱ.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "6"
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"1606181"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7109432976106975098"
+				"size" "15172578534"
+				"download" "13547603568"
+			}
+		}
+	}
+	"2905470"
+	{
+		"dlcappid" "2905470"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2357287501546393262"
+				"size" "194391126"
+				"download" "190107376"
+			}
+		}
+	}
+	"workshopdepot" "1606180"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19198934"
+			"timeupdated" "1752315770"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SavesDir"
+			"pattern" "*.sav"
+		}
+	}
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "30065085"
+"_sha" "a9005dea35915271ebde935462aca63401f587f8"
+"_size" "7000"
