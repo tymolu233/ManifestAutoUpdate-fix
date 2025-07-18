@@ -1,0 +1,444 @@
+"appid" "1859430"
+"common"
+{
+	"name" "Shadow Labyrinth"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"japanese" "Shadow Labyrinth (シャドウラビリンス)"
+		"tchinese" "Shadow Labyrinth 闇鬥迷宮"
+		"schinese" "Shadow Labyrinth 暗斗迷宫"
+		"koreana" "Shadow Labyrinth (쉐도우 라비린스)"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "6cd7b7c78acd78e5d7ed50cac206bbed4355e45c"
+	"clienticon" "a9576ef4b558567f967cea0da589edb2c93a0cb1"
+	"clienttga" "fe416270aebd6c741344f6b6ea016894419810e0"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1859430_eula_0"
+			"name" "Shadow Labyrinth EULA"
+			"url" "https://store.steampowered.com//eula/1859430_eula_0"
+			"version" "1"
+		}
+	}
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1751673600"
+		"tested_build_id" "18854349"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "a99f319bf0fc76279d362808a5e23543ab0ab1ec/capsule_231x87.jpg"
+		"koreana" "deaa8928d636fd5f5ed1a3155609e71fe7464f26/capsule_231x87_koreana.jpg"
+		"tchinese" "abc146cfa6cd7d4bbd40727b8bfc766c4e429518/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"koreana" "932e6d31d75ff5d5aede7af161ac21a0c9b2ad54/header_koreana.jpg"
+		"tchinese" "3a5b2adf5a61fb221cb390c5241104ce1e04ec27/header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ko,zh-tw"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,ko,zh-tw"
+		"library_header" "en,ko,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "54.084014002333724"
+			"height_pct" "67.8579909760152"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "da89c11bf64864a84eac3df4a63ba05fee496a80/library_600x900.jpg"
+				"koreana" "e9f4be7869b75531049bfd3b3141d5de767dd85b/library_600x900_koreana.jpg"
+				"tchinese" "1678cb24e52d63ff5c397441d489dd5e4b10eafe/library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "da89c11bf64864a84eac3df4a63ba05fee496a80/library_600x900_2x.jpg"
+				"koreana" "e9f4be7869b75531049bfd3b3141d5de767dd85b/library_600x900_koreana_2x.jpg"
+				"tchinese" "1678cb24e52d63ff5c397441d489dd5e4b10eafe/library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "2e617da28ebf409899e085d16af57a19f2779b35/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "2e617da28ebf409899e085d16af57a19f2779b35/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "2e617da28ebf409899e085d16af57a19f2779b35/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "cfdf4f0aa2fb030ccb2be0d43da222679a812118/logo.png"
+				"koreana" "06a28dfdd42979159e535c44aad30262d3d60f98/logo_koreana.png"
+				"tchinese" "fca22b8765eadaeb9236047327145bc215b940fb/logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "cfdf4f0aa2fb030ccb2be0d43da222679a812118/logo_2x.png"
+				"koreana" "06a28dfdd42979159e535c44aad30262d3d60f98/logo_koreana_2x.png"
+				"tchinese" "fca22b8765eadaeb9236047327145bc215b940fb/logo_tchinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "54.084014002333724"
+				"height_pct" "67.8579909760152"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "59a55a4ff48fe82180d702266b74dc16edfc3ba2/library_header.jpg"
+				"koreana" "932e6d31d75ff5d5aede7af161ac21a0c9b2ad54/library_header_koreana.jpg"
+				"tchinese" "3a5b2adf5a61fb221cb390c5241104ce1e04ec27/library_header_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "59a55a4ff48fe82180d702266b74dc16edfc3ba2/library_header_2x.jpg"
+				"koreana" "932e6d31d75ff5d5aede7af161ac21a0c9b2ad54/library_header_koreana_2x.jpg"
+				"tchinese" "3a5b2adf5a61fb221cb390c5241104ce1e04ec27/library_header_tchinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1752789839"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bandai Namco Studios Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bandai Namco Entertainment Inc."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Bandai Namco Entertainment"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1752789652"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1859430"
+	"content_descriptors_including_dlc"
+	{
+		"0" "5"
+	}
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1628"
+		"2" "21"
+		"3" "4106"
+		"4" "1625"
+		"5" "5379"
+		"6" "3871"
+		"7" "3942"
+		"8" "4342"
+		"9" "4182"
+		"10" "21006"
+	}
+	"review_score" "7"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Bandai Namco Studios Inc."
+	"publisher" "Bandai Namco Entertainment Inc."
+	"listofdlc" "3349710,3349720"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Shadow Labyrinth"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Shadow Labyrinth.exe"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3252682391"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,build-review,capture_use,compat,dev-debug,dev-release,development,development2,development3,event-demo-debug,event-demo-release,press,press_event,press_first_look,press_first_look_2,press_full_preview,press_review,qa-debug,qa-release,submission"
+			"use_action_block" "false"
+		}
+		"3252683021"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,build-review,capture_use,compat,dev-debug,dev-release,development,development2,development3,event-demo-debug,event-demo-release,press,press_event,press_first_look,press_first_look_2,press_full_preview,press_review,qa-debug,qa-release,submission"
+			"use_action_block" "false"
+		}
+		"3276380922"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,build-review,capture_use,compat,dev-debug,dev-release,development,development2,development3,event-demo-debug,event-demo-release,press,press_event,press_first_look,press_first_look_2,press_full_preview,press_review,qa-debug,qa-release,submission"
+			"use_action_block" "false"
+		}
+		"3276397421"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default,build-review,capture_use,compat,dev-debug,dev-release,development,development2,development3,event-demo-debug,event-demo-release,press,press_event,press_first_look,press_first_look_2,press_full_preview,press_review,qa-debug,qa-release,submission"
+			"use_action_block" "false"
+		}
+		"3430321916"
+		{
+			"controller_type" "controller_switch_pro"
+			"enabled_branches" "default,build-review,capture_use,compat,dev-debug,dev-release,development,development2,development3,event-demo-debug,event-demo-release,press,press_event,press_first_look,press_first_look_2,press_full_preview,press_review,qa-debug,qa-release,submission"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "65535"
+}
+"depots"
+{
+	"1859431"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "206444270663915859"
+				"size" "3698311538"
+				"download" "3221402816"
+			}
+		}
+	}
+	"1859432"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7789544093926877388"
+				"size" "1531064"
+				"download" "363744"
+			}
+		}
+	}
+	"3349720"
+	{
+		"dlcappid" "3349720"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8118426722462723039"
+				"size" "58720566"
+				"download" "49690624"
+			}
+		}
+	}
+	"3349710"
+	{
+		"dlcappid" "3349710"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8895139168915558811"
+				"size" "1256"
+				"download" "1056"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19211182"
+			"timeupdated" "1752735934"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "8388608"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Bandai Namco Entertainment Inc_/Shadow Labyrinth/{64BitSteamID}/SaveData"
+			"pattern" "*.dat"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "30123927"
+"_sha" "d54f6c622b5a48a845252595a44dadb7e2071904"
+"_size" "10527"
