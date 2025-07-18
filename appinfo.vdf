@@ -1,0 +1,963 @@
+"appid" "1845910"
+"common"
+{
+	"name" "Dragon Age™: The Veilguard"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "bec6103e240e4d7bc5cd0f4026faf0933244df92"
+	"clienticon" "3fa5277335825939fd50257bcf85289145e16d4a"
+	"name_localized"
+	{
+		"english" "Dragon Age™: The Veilguard"
+		"danish" "Dragon Age™: The Veilguard"
+		"dutch" "Dragon Age™: The Veilguard"
+		"finnish" "Dragon Age™: The Veilguard"
+		"french" "Dragon Age™: The Veilguard"
+		"german" "Dragon Age™: The Veilguard"
+		"italian" "Dragon Age™: The Veilguard"
+		"norwegian" "Dragon Age™: The Veilguard"
+		"polish" "Dragon Age™: Straż Zasłony"
+		"portuguese" "Dragon Age™: The Veilguard"
+		"russian" "Dragon Age™: На страже Завесы"
+		"spanish" "Dragon Age™: The Veilguard"
+		"swedish" "Dragon Age™: The Veilguard"
+		"turkish" "Dragon Age™: The Veilguard"
+		"brazilian" "Dragon Age™: The Veilguard"
+		"tchinese" "闇龍紀元™: 紗障守護者"
+		"japanese" "ドラゴンエイジ™: ヴェイルの守護者"
+		"koreana" "Dragon Age™: The Veilguard"
+		"schinese" "龙腾世纪™: 影障守护者"
+		"czech" "Dragon Age™: The Veilguard"
+		"latam" "Dragon Age™: The Veilguard"
+		"thai" "Dragon Age™: The Veilguard"
+		"ukrainian" "Dragon Age™: The Veilguard"
+	}
+	"icon" "085b09844e56b67a83d3879cde481419bb2c9df2"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1845910_eula_1"
+			"name" "Dragon Age™: The Veilguard EULA"
+			"url" "https://store.steampowered.com//eula/1845910_eula_1"
+			"version" "2"
+		}
+	}
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1732924800"
+		"tested_build_id" "16420401"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "2"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "9ffc80bed9c5290f264b072e7341890d9e12d779/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "33.326528272967636"
+			"height_pct" "98.42748081572584"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "33.326528272967636"
+				"height_pct" "98.42748081572584"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1748968357"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "BioWare"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Electronic Arts"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Dragon Age"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_43" "1"
+		"category_61" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_65" "1"
+		"category_66" "1"
+		"category_68" "1"
+		"category_69" "1"
+		"category_70" "1"
+		"category_78" "1"
+		"category_79" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1730390400"
+	"steam_deck_blog_url" "https://steamcommunity.com/games/1845910/announcements/detail/4453590197273100463\?snr=2___"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1845910"
+	"store_tags"
+	{
+		"0" "44868"
+		"1" "1684"
+		"2" "4182"
+		"3" "122"
+		"4" "4754"
+		"5" "4231"
+		"6" "9"
+		"7" "4474"
+		"8" "14139"
+		"9" "4747"
+		"10" "19"
+		"11" "1697"
+		"12" "21"
+		"13" "4046"
+		"14" "4947"
+		"15" "4057"
+		"16" "1742"
+		"17" "6971"
+		"18" "3854"
+		"19" "6426"
+	}
+	"review_score" "5"
+	"review_percentage" "69"
+}
+"extended"
+{
+	"developer" "BioWare"
+	"publisher" "Electronic Arts"
+	"homepage" "https://www.ea.com/games/dragon-age/dragon-age-the-veilguard"
+	"listofdlc" "2727500,2727510,3281890"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Dragon Age The Veilguard"
+	"launch"
+	{
+		"6"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig SteamAutoBotSettings.cfg -Vision.Enabled true -Vision.Title game_only_audio"
+			"type" "option2"
+			"config"
+			{
+				"betakey" "steamdeck"
+			}
+			"description_loc"
+			{
+				"english" "Performance Autobots OLD CFG"
+			}
+			"description" "Performance Autobots OLD CFG"
+		}
+		"7"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig SteamDevSettings.cfg"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "steamdeck"
+			}
+			"description_loc"
+			{
+				"english" "(Perf Testing Disabled)"
+			}
+			"description" "(Perf Testing Disabled)"
+		}
+		"10"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig SteamDevSettings.cfg"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "development"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds"
+			}
+			"description" "Use This For Development Builds"
+		}
+		"17"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig SteamDevSettings.cfg -Vision.Enabled true -Vision.Title game_only_audio"
+			"type" "option2"
+			"config"
+			{
+				"betakey" "development"
+			}
+			"description_loc"
+			{
+				"english" "(Nexus Enabled)"
+			}
+			"description" "(Nexus Enabled)"
+		}
+		"20"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig IhvAmd.cfg"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "ihvamd"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds"
+			}
+			"description" "Use This For Development Builds"
+		}
+		"21"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig IhvNvidia.cfg"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "ihvnvidia"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds"
+			}
+			"description" "Use This For Development Builds"
+		}
+		"22"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig SteamDevSettings.cfg"
+			"type" "manual"
+			"config"
+			{
+				"betakey" "disable"
+			}
+		}
+		"23"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig SteamDevSettings.cfg"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "decrev2023"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds"
+			}
+			"description" "Use This For Development Builds"
+		}
+		"27"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig UXRDemo.cfg -PerfOverlay.DrawFps false"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "uxr46"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds"
+			}
+			"description" "Use This For Development Builds"
+		}
+		"28"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig SecurityProfilingConfig.cfg"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "securitytesting"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds"
+			}
+			"description" "Use This For Development Builds"
+		}
+		"30"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig SteamDevSettings.cfg -draw-pad-display true"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "dev_bvt"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds - dev_bvt branch"
+			}
+			"description" "Use This For Development Builds - dev_bvt branch"
+		}
+		"31"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig SteamDevSettings.cfg -Vision.Enabled true -Vision.Title game_only_audio -draw-pad-display true"
+			"type" "option2"
+			"config"
+			{
+				"betakey" "dev_bvt"
+			}
+			"description_loc"
+			{
+				"english" "(Nexus Enabled)"
+			}
+			"description" "(Nexus Enabled)"
+		}
+		"32"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig IhvIntel.cfg"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "ihvintel"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds"
+			}
+			"description" "Use This For Development Builds"
+		}
+		"33"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig UXRDemo.cfg -Vision.Enabled true -Vision.Title game_only_audio"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "staging"
+			}
+			"description_loc"
+			{
+				"english" "(Nexus Enabled)"
+			}
+			"description" "(Nexus Enabled)"
+		}
+		"35"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig BCDDemo.cfg"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "demo"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds"
+			}
+			"description" "Use This For Development Builds"
+		}
+		"38"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customConfig AgeRatings.cfg -Core.BreakpadMode 0 -Core.DisplayAsserts false -Core.EnableDebugRendererLog 0 -Game.LogFileEnable false -RenderTelemetry.DisablePsoMissCountDebug 1"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "ageratings"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds - age ratings"
+			}
+			"description" "Use This For Development Builds - age ratings"
+		}
+		"39"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig SteamDevSettings.cfg -Vision.Enabled true -Vision.Title game_only_audio"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "demo"
+			}
+			"description_loc"
+			{
+				"english" "(Nexus Enabled)"
+			}
+			"description" "(Nexus Enabled)"
+		}
+		"40"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig UXRDemo.cfg"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "staging"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds"
+			}
+			"description" "Use This For Development Builds"
+		}
+		"42"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig SteamDevSettings.cfg -Vision.Enabled true -Vision.Title game_only_audio"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "qv-investigate"
+			}
+			"description_loc"
+			{
+				"english" "Nexus Enabled"
+			}
+			"description" "Nexus Enabled"
+		}
+		"43"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig BCDDemo.cfg -RenderTelemetry.DisablePsoMissCountDebug true"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "demosgf"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds"
+			}
+			"description" "Use This For Development Builds"
+		}
+		"44"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig BCDDemo.cfg -RenderTelemetry.DisablePsoMissCountDebug true"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "nvcapture"
+			}
+			"description_loc"
+			{
+				"english" "Use This Option For This Branch"
+			}
+			"description" "Use This Option For This Branch"
+		}
+		"45"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig SteamAutoBotSettings.cfg -Vision.Enabled true -Vision.Title game_only_audio"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "snowbell"
+			}
+			"description_loc"
+			{
+				"english" "Performance Autobots OLD CFG"
+			}
+			"description" "Performance Autobots OLD CFG"
+		}
+		"46"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig SteamDevSettings.cfg"
+			"type" "option2"
+			"config"
+			{
+				"betakey" "snowbell"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds"
+			}
+			"description" "Use This For Development Builds"
+		}
+		"47"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig SteamDevSettings.cfg"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "dbc01"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds"
+			}
+			"description" "Use This For Development Builds"
+		}
+		"48"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig SteamDevSettings.cfg -Vision.Enabled true -Vision.Title game_only_audio"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "uxr46"
+			}
+			"description_loc"
+			{
+				"english" "Nexus Enabled"
+			}
+			"description" "Nexus Enabled"
+		}
+		"49"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig SteamDevSettings.cfg"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "Upgrade"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds"
+			}
+			"description" "Use This For Development Builds"
+		}
+		"53"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig ReviewGuideConfig2.cfg"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "sepreview1"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds"
+			}
+			"description" "Use This For Development Builds"
+		}
+		"54"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customconfig SteamDevSettings.cfg"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "demoign"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds"
+			}
+			"description" "Use This For Development Builds"
+		}
+		"55"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customConfig SCRConfig1.cfg"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "scr_m"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds"
+			}
+			"description" "Use This For Development Builds"
+		}
+		"56"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customConfig SCRConfig2.cfg"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "scr_h"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds"
+			}
+			"description" "Use This For Development Builds"
+		}
+		"57"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customConfig SCRConfig3.cfg"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "scr_a"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds"
+			}
+			"description" "Use This For Development Builds"
+		}
+		"58"
+		{
+			"executable" "Morrison.Main_Win64_final.exe"
+			"arguments" "-customConfig IhvNvidia.cfg"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "nvtest"
+			}
+			"description_loc"
+			{
+				"english" "Use This For Development Builds"
+			}
+			"description" "Use This For Development Builds"
+		}
+		"61"
+		{
+			"executable" "Dragon Age The Veilguard.exe"
+			"type" "default"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "2"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1845911"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8578981213106821280"
+				"size" "97215209556"
+				"download" "89186283760"
+			}
+		}
+	}
+	"1845912"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5245791041420301641"
+				"size" "97919962740"
+				"download" "89198616192"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17026604"
+			"timeupdated" "1737651602"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "2000"
+	"savefiles"
+	{
+		"5"
+		{
+			"root" "WinMyDocuments"
+			"path" "BioWare/Dragon Age The Veilguard/save games"
+			"pattern" "*.csav"
+			"recursive" "1"
+		}
+		"6"
+		{
+			"root" "WinMyDocuments"
+			"path" "BioWare/Dragon Age The Veilguard/save games"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+		"7"
+		{
+			"root" "WinMyDocuments"
+			"path" "BioWare/Dragon Age The Veilguard/save games"
+			"pattern" "*.json"
+			"recursive" "1"
+		}
+		"8"
+		{
+			"root" "WinMyDocuments"
+			"path" "BioWare/Dragon Age The Veilguard Character Creator/save games"
+			"pattern" "*.csav"
+			"recursive" "1"
+		}
+		"9"
+		{
+			"root" "WinMyDocuments"
+			"path" "BioWare/Dragon Age The Veilguard Character Creator/save games"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+		"10"
+		{
+			"root" "WinMyDocuments"
+			"path" "BioWare/Dragon Age The Veilguard Character Creator/save games"
+			"pattern" "*.json"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "29692365"
+"_sha" "41cf91ba542068ee4b4563cade9b438c17af2de8"
+"_size" "20367"
