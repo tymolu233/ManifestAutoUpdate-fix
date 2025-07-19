@@ -1,0 +1,395 @@
+"appid" "1465360"
+"common"
+{
+	"name" "SnowRunner"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+	}
+	"logo" "d64ca42bb007cc8c53cda3b2f70e600a487363cf"
+	"logo_small" "d64ca42bb007cc8c53cda3b2f70e600a487363cf_thumb"
+	"icon" "4ce4d517dc626f3137ffbf5179e797ddb0e7aee0"
+	"clienttga" "b68c67203670d5a6fb94139d707841deeceaf048"
+	"clienticon" "21d0ec8c9dee6287b1c2ffc2807522b9f71f6925"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1465360_eula_0"
+			"name" "SnowRunner EULA"
+			"url" "https://store.steampowered.com//eula/1465360_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1750118400"
+		"tested_build_id" "18821831"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1749718656"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Saber Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Focus Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Focus Entertainment"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "25"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_56" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1621295520"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1465360"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "1100687"
+		"2" "3859"
+		"3" "21"
+		"4" "1644"
+		"5" "3834"
+		"6" "4175"
+		"7" "3810"
+		"8" "1695"
+		"9" "3839"
+		"10" "1697"
+		"11" "4166"
+		"12" "9204"
+		"13" "9803"
+		"14" "699"
+		"15" "3968"
+		"16" "30358"
+		"17" "129761"
+		"18" "5711"
+		"19" "6730"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Saber Interactive"
+	"publisher" "Focus Entertainment"
+	"homepage" "https://community.focus-entmt.com/focus-entertainment/snow-runner\?utm_source=Steam&amp;utm_medium=StorePage_SR&amp;utm_campaign=Organic"
+	"listofdlc" "1533000,1533001,1533002,1533003,1533004,1533005,1533006,1533007,1533008,1533009,1533010,1533011,1585810,1585811,1585812,1585813,1585814,1585815,1585816,1613110,1613111,1785850,1838500,2058880,2058881,2154170,2154171,2154172,2154173,2154174,2353720,2353721,2353722,2353723,2709430,2709450,2709460,2709470,2856380,3023640,3398280,3623240"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "SnowRunner"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "./Sources/Bin/SnowRunner.exe"
+			"workingdir" "./Sources/Bin/"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "SnowRunner.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2575143213"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1465361"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3518876189924674658"
+				"size" "62509859477"
+				"download" "42934930576"
+			}
+		}
+	}
+	"1465362"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8996226671340099453"
+				"size" "50281809580"
+				"download" "32440321168"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "18991258"
+			"timeupdated" "1751288234"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "5000"
+}
+"_missing_token" "False"
+"_change_number" "30126449"
+"_sha" "0edd96020064868fb62111557a1e102eb2b1b993"
+"_size" "7073"
