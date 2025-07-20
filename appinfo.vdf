@@ -1,0 +1,594 @@
+"appid" "313010"
+"common"
+{
+	"name" "Cities XXL"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"polish" "1"
+	}
+	"logo" "17edd895d385c393700c9122cc40e3207758b50e"
+	"logo_small" "17edd895d385c393700c9122cc40e3207758b50e_thumb"
+	"clienticon" "3b000d11e4867ac5c05c6a26fc17c9fce56ee0a9"
+	"clienttga" "f6dabd8aaee8d1812e3ceab191d32d2ced6e2e1d"
+	"icon" "27446ba36fe4cf4c5584ecd87914f7e960d95e9e"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "313010_eula_0"
+			"name" "Cities XXL EULA"
+			"url" "http://store.steampowered.com//eula/313010_eula_0"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1655164800"
+		"tested_build_id" "838317"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-3"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Cities XXL"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "68.31710788450624"
+			"height_pct" "93.02531316157194"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "68.31710788450624"
+				"height_pct" "93.02531316157194"
+			}
+		}
+	}
+	"store_asset_mtime" "1563291382"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Focus Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Focus Entertainment"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1423155600"
+	"metacritic_score" "47"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/cities-xxl\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "313010"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "599"
+		"2" "1643"
+		"3" "4695"
+		"4" "9"
+		"5" "12472"
+		"6" "3810"
+		"7" "4175"
+		"8" "1669"
+		"9" "4182"
+		"10" "3859"
+		"11" "4166"
+		"12" "8945"
+	}
+	"review_score" "5"
+	"review_percentage" "40"
+}
+"extended"
+{
+	"developer" "Focus Entertainment"
+	"publisher" "Focus Entertainment"
+	"homepage" "https://www.focus-home.com/games/cities-xxl"
+	"gamemanualurl" "https://store.steampowered.com/manual/313010/"
+	"listofdlc" "415750"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Cities XXL"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CitiesXXL.exe"
+			"description" "Launch"
+		}
+		"1"
+		{
+			"executable" "MapEditor.bat"
+			"type" "editor"
+			"config"
+			{
+				"betakey" "qa_test"
+				"ownsdlc" "415750"
+			}
+		}
+	}
+	"installscriptsignature" "8a875bf956e23fbd079abdbbb5f230909b3879f31029915b26fbb1d4a61393b951a71904827ab876ee9e991a6decf9b0899c627498aac463bfefefd832343e9df0ee0d79ff0d8fe43b9aa1ce1e3e98a98d9840976caca1d08fca88509f61ae5d6b3186762caf7a49c38508293a0cb1cfbea3408aa8742f30fd3b8edde28fbe6b"
+	"installscriptoverride" "1"
+}
+"install"
+{
+	"run process"
+	{
+		"create directory tool"
+		{
+			"hasrunkey" "HKEY_CURRENT_USER\\Software\\Valve\\Steam\\Apps\\313010"
+			"process 1" "%INSTALLDIR%\\DirTool.exe"
+			"command 1" "/S"
+			"nocleanup" "1"
+		}
+		"windows6.0-kb971512-x86 update for windows vista"
+		{
+			"hasrunkey" "HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\313010"
+			"process 1" "%INSTALLDIR%\\prerequisites\\Windows6.0-KB971512-x86.cmd"
+			"nocleanup" "1"
+			"requirement_os"
+			{
+				"ostype" "Windows Vista"
+				"is64bitwindows" "0"
+			}
+		}
+		"windows6.0-kb971512-x64 update for windows vista"
+		{
+			"hasrunkey" "HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\313010"
+			"process 1" "%INSTALLDIR%\\prerequisites\\Windows6.0-KB971512-x64.cmd"
+			"nocleanup" "1"
+			"requirement_os"
+			{
+				"ostype" "Windows Vista"
+				"is64bitwindows" "1"
+			}
+		}
+		"dxsetup"
+		{
+			"hasrunkey" "HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\CommonRedist\\DirectX\\Jun2010"
+			"process 1" "%INSTALLDIR%\\_CommonRedist\\DirectX\\Jun2010\\DXSETUP.exe"
+			"command 1" "/silent"
+			"nocleanup" "1"
+		}
+		"4.5.1"
+		{
+			"hasrunkey" "HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\CommonRedist\\.NET\\4.5.1"
+			"process 1" "%INSTALLDIR%\\_CommonRedist\\DotNet\\4.5.1\\Microsoft .NET Framework 4.5.1.cmd"
+			"nocleanup" "1"
+		}
+		"x86"
+		{
+			"hasrunkey" "HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\CommonRedist\\vcredist\\2010"
+			"process 1" "%INSTALLDIR%\\_CommonRedist\\vcredist\\2010\\vcredist_x86.exe"
+			"command 1" "/quiet /norestart"
+			"nocleanup" "1"
+		}
+		"x64"
+		{
+			"hasrunkey" "HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\CommonRedist\\vcredist\\2010"
+			"process 1" "%INSTALLDIR%\\_CommonRedist\\vcredist\\2010\\vcredist_x64.exe"
+			"command 1" "/quiet /norestart"
+			"nocleanup" "1"
+			"requirement_os"
+			{
+				"is64bitwindows" "1"
+			}
+		}
+		"x86 update 1"
+		{
+			"hasrunkey" "HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\CommonRedist\\vcredist\\2013"
+			"process 1" "%INSTALLDIR%\\_CommonRedist\\vcredist\\2013\\vcredist_x86.exe"
+			"command 1" "/quiet /norestart"
+			"nocleanup" "1"
+		}
+		"x64 update 1"
+		{
+			"hasrunkey" "HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\CommonRedist\\vcredist\\2013"
+			"process 1" "%INSTALLDIR%\\_CommonRedist\\vcredist\\2013\\vcredist_x64.exe"
+			"command 1" "/quiet /norestart"
+			"nocleanup" "1"
+			"requirement_os"
+			{
+				"is64bitwindows" "1"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "313010"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"313011"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3488674947339966011"
+				"size" "6799372359"
+				"download" "5404505680"
+			}
+		}
+	}
+	"313012"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9141636148395969485"
+				"size" "7813"
+				"download" "2608"
+			}
+		}
+	}
+	"313013"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6783608399038413018"
+				"size" "7813"
+				"download" "2624"
+			}
+		}
+	}
+	"313014"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8920254515121785106"
+				"size" "7813"
+				"download" "2624"
+			}
+		}
+	}
+	"313015"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3346686814141676105"
+				"size" "7813"
+				"download" "2624"
+			}
+		}
+	}
+	"313016"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3886251006103341106"
+				"size" "7813"
+				"download" "2624"
+			}
+		}
+	}
+	"313017"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4797893729422335011"
+				"size" "7813"
+				"download" "2624"
+			}
+		}
+	}
+	"313018"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "211848885923872839"
+				"size" "7813"
+				"download" "2624"
+			}
+		}
+	}
+	"313019"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3880311516141816493"
+				"size" "171875705"
+				"download" "171565408"
+			}
+		}
+	}
+	"349860"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6372268127835965054"
+				"size" "922845"
+				"download" "155184"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "838317"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "/focus home interactive/Cities XXL/live/offline/solo"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "30089116"
+"_sha" "ec534f3d9b46271dcd77890aaae7877b760a3936"
+"_size" "11025"
