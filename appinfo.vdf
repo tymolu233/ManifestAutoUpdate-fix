@@ -1,0 +1,438 @@
+"appid" "393380"
+"common"
+{
+	"name" "Squad"
+	"type" "Game"
+	"oslist" "windows"
+	"clienticon" "e31f512b65773b50b79b1f9c994e1c7fa1402e76"
+	"clienttga" "53e7830077513e7cba865b259f76b9fece9c6c5f"
+	"icon" "eb66a8cb52165274c84cae6526205065d13119d5"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "393380_eula_0"
+			"name" "Squad EULA"
+			"url" "http://store.steampowered.com//eula/393380_eula_0"
+		}
+	}
+	"logo" "0a3d0e18d60cc7697562eb9865886aaad3b1730a"
+	"logo_small" "0a3d0e18d60cc7697562eb9865886aaad3b1730a_thumb"
+	"releasestate" "released"
+	"exfgls" "1"
+	"osarch" "64"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1738281600"
+		"tested_build_id" "16623684"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "1"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Squad"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "e069cbeca98b633002e2d2202b4cc4ae58138549/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "0b19b50aabea356bd8f534fbe7d6db9bd227810a/header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "25.262543757292875"
+			"height_pct" "43.54072666824983"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "98a2fb72a788b60361f98ea07d1584ced808bcaa/library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "98a2fb72a788b60361f98ea07d1584ced808bcaa/library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "25.262543757292875"
+				"height_pct" "43.54072666824983"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1748639179"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Offworld"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Offworld"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Offworld"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "29"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_8" "1"
+		"category_36" "1"
+		"category_18" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_49" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1600883940"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "393380"
+	"content_descriptors_including_dlc"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"store_tags"
+	{
+		"0" "4168"
+		"1" "4175"
+		"2" "1663"
+		"3" "3859"
+		"4" "1708"
+		"5" "1774"
+		"6" "5711"
+		"7" "1678"
+		"8" "3839"
+		"9" "19"
+		"10" "128"
+		"11" "9"
+		"12" "5673"
+		"13" "599"
+		"14" "4684"
+		"15" "7332"
+		"16" "1695"
+		"17" "9204"
+		"18" "4166"
+		"19" "1775"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"gamedir" "squad"
+	"serverbrowsername" "Squad"
+	"developer" "Offworld"
+	"publisher" "Offworld"
+	"homepage" "http://joinsquad.com"
+	"listofdlc" "421270,421271,421272,421273,421274,421275,422950,422960,422961,1123920,2222340,2222341,2222342,2417350,2417351,2521990,2522000,2584870,2598380,2820320,2826950,2974490,3165850,3165860"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Squad"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "squad_launcher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "Squad.exe"
+			"arguments" "-noeac"
+			"description" "without EAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "internal-testing"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+}
+"depots"
+{
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian"
+	"workshopdepot" "393380"
+	"393381"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8869253761111203831"
+				"size" "91321716949"
+				"download" "36445748176"
+			}
+			"squad_experimental"
+			{
+				"gid" "2561698970750759195"
+				"size" "91321496392"
+				"download" "36448063408"
+			}
+		}
+	}
+	"393382"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+	}
+	"1123920"
+	{
+		"dlcappid" "1123920"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8509449628493661206"
+				"size" "15654"
+				"download" "15264"
+			}
+			"squad_experimental"
+			{
+				"gid" "8509449628493661206"
+				"size" "15654"
+				"download" "15264"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19115036"
+			"timeupdated" "1752084000"
+		}
+		"squad_experimental"
+		{
+			"buildid" "17362573"
+			"description" "Experimental Squad builds (compatible with Live servers)"
+			"timeupdated" "1745964145"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "20"
+}
+"_missing_token" "False"
+"_change_number" "30272462"
+"_sha" "148ee39ca9a1887fd89790dec40b3777384deb4a"
+"_size" "8004"
