@@ -1,0 +1,328 @@
+"appid" "774941"
+"common"
+{
+	"name" "Squad - Public Testing"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "8540ba04ef7cd6f408d604f5b3fe49d528bd7570"
+	"clienttga" "054b6d3ec1741e7957b5d46d77b1c07eac2191f2"
+	"icon" "6a9ee44c92c5ca7ddacf0d56bb7d5720961da0f8"
+	"logo" "264bb774a3821287a3b0d430679cf6b0122cf88b"
+	"logo_small" "264bb774a3821287a3b0d430679cf6b0122cf88b_thumb"
+	"name_localized"
+	{
+		"schinese" "Squad - 公开测试服"
+	}
+	"metacritic_name" "Squad - Public Testing"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1569020122"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Offworld Industries"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Offworld Industries"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_36" "1"
+		"category_18" "1"
+		"category_49" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"community_hub_visible" "1"
+	"gameid" "774941"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "19"
+		"2" "492"
+	}
+}
+"extended"
+{
+	"gamedir" "squad"
+	"serverbrowsername" "Squad - Public Testing"
+	"developer" "Offworld Industries"
+	"publisher" "Offworld Industries"
+	"homepage" "http://joinsquad.com"
+}
+"config"
+{
+	"installdir" "Squad - Public Testing"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "squad_launcher.exe"
+			"arguments" "-saveddirsuffix=uat"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian"
+	"hasdepotsindlc" "0"
+	"774942"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7612112313921570779"
+				"size" "61479100646"
+				"download" "54887481216"
+			}
+		}
+	}
+	"774943"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2545188719619349744"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19171382"
+			"timeupdated" "1752174151"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "30273599"
+"_sha" "b99cb950b9954fb7465d7b789474ad1fcf4b89d7"
+"_size" "4911"
