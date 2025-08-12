@@ -1,0 +1,402 @@
+"appid" "1931770"
+"common"
+{
+	"name" "Chants of Sennaar"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "99618001a2111dd020f1fc957c5c47c0d6d5d327"
+	"clienticon" "e9bc1474c0c38c6944ea9b81628fd51e8e45ae2e"
+	"clienttga" "7e761044d2c5867523a11f1e964edc171c7b5359"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "巴别塔圣歌"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1931770_eula_0"
+			"name" "Chants of Sennaar EULA"
+			"url" "https://store.steampowered.com//eula/1931770_eula_0"
+			"version" "3"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1698710400"
+		"tested_build_id" "12333519"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Chants of Sennaar"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "48.25986078886311"
+			"height_pct" "62.1362962962963"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "48.25986078886311"
+				"height_pct" "62.1362962962963"
+			}
+		}
+	}
+	"store_asset_mtime" "1719937914"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Rundisc"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Focus Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Focus Entertainment"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1693929324"
+	"metacritic_score" "86"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/chants-of-sennaar\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1931770"
+	"store_tags"
+	{
+		"0" "1664"
+		"1" "21"
+		"2" "4182"
+		"3" "492"
+		"4" "4305"
+		"5" "1698"
+		"6" "24003"
+		"7" "4166"
+		"8" "5613"
+		"9" "4252"
+		"10" "4106"
+		"11" "16094"
+		"12" "1756"
+		"13" "5537"
+		"14" "1687"
+		"15" "3834"
+		"16" "1742"
+		"17" "5716"
+		"18" "1654"
+		"19" "4026"
+	}
+	"review_score" "9"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"developer" "Rundisc"
+	"publisher" "Focus Entertainment"
+	"homepage" "https://www.focus-entmt.com/games/chants-of-sennaar"
+}
+"config"
+{
+	"installdir" "Chants of Sennaar"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Chants Of Sennaar.exe"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"1931771"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3241241625234465865"
+				"size" "632093319"
+				"download" "535636080"
+			}
+		}
+	}
+	"baselanguages" "english,french"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13573246"
+			"timeupdated" "1709027716"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1048576"
+	"maxnumfiles" "6"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Rundisc/Chants Of Sennaar/Steam_{64BitSteamID}"
+			"pattern" "journal_0.cos"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Rundisc/Chants Of Sennaar/Steam_{64BitSteamID}"
+			"pattern" "journal_1.cos"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Rundisc/Chants Of Sennaar/Steam_{64BitSteamID}"
+			"pattern" "journal_2.cos"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Rundisc/Chants Of Sennaar/Steam_{64BitSteamID}"
+			"pattern" "places_0.cos"
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Rundisc/Chants Of Sennaar/Steam_{64BitSteamID}"
+			"pattern" "places_1.cos"
+		}
+		"5"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Rundisc/Chants Of Sennaar/Steam_{64BitSteamID}"
+			"pattern" "places_2.cos"
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "30392080"
+"_sha" "16c35667a81f3587fbaae155f42145c653449034"
+"_size" "7344"
