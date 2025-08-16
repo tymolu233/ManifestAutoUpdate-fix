@@ -1,0 +1,855 @@
+"appid" "418370"
+"common"
+{
+	"name" "Resident Evil 7 Biohazard"
+	"type" "Game"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"clienticon" "843cd329f00631fcbed76082268ab385ce5980d1"
+	"clienttga" "8b0399231a72c23d1d6045dbb16f17f3453cff7d"
+	"icon" "675cd2fbaae3c2a74a0c7e9eea71e969ff90d6bb"
+	"logo" "15324b81cc2f6c477c16ddc1f476525dd1afe96e"
+	"logo_small" "15324b81cc2f6c477c16ddc1f476525dd1afe96e_thumb"
+	"oslist" "windows"
+	"osarch" "64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "418370_eula_1"
+			"name" "Resident Evil 7 Biohazard EULA"
+			"url" "https://store.steampowered.com//eula/418370_eula_1"
+			"version" "1"
+		}
+	}
+	"releasestateoverride" "released"
+	"releasestateoverridecountries" "JP"
+	"releasestateoverrideinverse" "1"
+	"name_localized"
+	{
+		"japanese" "BIOHAZARD 7 resident evil"
+		"koreana" "BIOHAZARD 7 resident evil"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1681862400"
+		"tested_build_id" "9473356"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-1"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Resident Evil 7: biohazard"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"japanese" "capsule_231x87_japanese.jpg"
+		"english" "capsule_231x87.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"koreana" "header_koreana.jpg"
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,ko"
+		"library_hero" "en"
+		"library_logo" "en,ja,ko"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "15.49377949377947"
+			"height_pct" "20.1111107431812"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "15.49377949377947"
+				"height_pct" "20.1111107431812"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"japanese" "logo_japanese.png"
+				"koreana" "logo_koreana.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1582692054"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CAPCOM Co., Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CAPCOM Co., Ltd."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Resident Evil"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_61" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"full_audio" "true"
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1485388860"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/resident-evil-7-biohazard\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "418370"
+	"content_descriptors_including_dlc"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "3978"
+		"2" "3839"
+		"3" "4182"
+		"4" "4345"
+		"5" "21978"
+		"6" "4166"
+		"7" "1659"
+		"8" "1721"
+		"9" "19"
+		"10" "4667"
+		"11" "1662"
+		"12" "1664"
+		"13" "1742"
+		"14" "21"
+		"15" "3859"
+		"16" "1663"
+		"17" "3834"
+		"18" "1774"
+		"19" "1693"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "CAPCOM Co., Ltd."
+	"publisher" "CAPCOM Co., Ltd."
+	"listofdlc" "529930,530590,530591,530592,530593,530594,530595,530596,530597,530598,530599,530610,530611,540340,543550,564190,584960"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "RESIDENT EVIL 7 biohazard"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "re7.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,arabic,brazilian,latam"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"418371"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2875836326402428050"
+				"size" "26151569778"
+				"download" "22449971760"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "5343368590615523894"
+				"size" "25880755043"
+				"download" "22280391728"
+			}
+		}
+	}
+	"418372"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2988871419767868150"
+				"size" "26315852960"
+				"download" "22473123424"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "5823242076548471045"
+				"size" "23127900933"
+				"download" "20345368704"
+			}
+		}
+	}
+	"543550"
+	{
+		"dlcappid" "543550"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2927080018586034867"
+				"size" "5175167"
+				"download" "4774432"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "175856319536184591"
+				"size" "2728458"
+				"download" "2371888"
+			}
+		}
+	}
+	"530590"
+	{
+		"dlcappid" "530590"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2821452161378484140"
+				"size" "17166413"
+				"download" "14896544"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "674542550909412721"
+				"size" "14728344"
+				"download" "12410752"
+			}
+		}
+	}
+	"530591"
+	{
+		"dlcappid" "530591"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8099799231745351555"
+				"size" "17166872"
+				"download" "14750864"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "447041005794254828"
+				"size" "14728351"
+				"download" "12160880"
+			}
+		}
+	}
+	"530592"
+	{
+		"dlcappid" "530592"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5193083539346488075"
+				"size" "17166371"
+				"download" "14893200"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "1650789853300812098"
+				"size" "14728347"
+				"download" "12394960"
+			}
+		}
+	}
+	"530593"
+	{
+		"dlcappid" "530593"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9195877253828425260"
+				"size" "17166364"
+				"download" "15725984"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "308907606653832618"
+				"size" "14728339"
+				"download" "12910448"
+			}
+		}
+	}
+	"530594"
+	{
+		"dlcappid" "530594"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6472280222538517211"
+				"size" "17167091"
+				"download" "14356512"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "331139675745006133"
+				"size" "14728430"
+				"download" "11696256"
+			}
+		}
+	}
+	"530595"
+	{
+		"dlcappid" "530595"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4096306864002722519"
+				"size" "14367973"
+				"download" "12447120"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "934801067443218932"
+				"size" "12002116"
+				"download" "10053808"
+			}
+		}
+	}
+	"530596"
+	{
+		"dlcappid" "530596"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2437844440160457168"
+				"size" "14368164"
+				"download" "12303968"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "1394878005820573225"
+				"size" "12002111"
+				"download" "9799136"
+			}
+		}
+	}
+	"530597"
+	{
+		"dlcappid" "530597"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6364590930435507576"
+				"size" "14368106"
+				"download" "12441888"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "988268507040439206"
+				"size" "12002111"
+				"download" "10039744"
+			}
+		}
+	}
+	"530598"
+	{
+		"dlcappid" "530598"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3874000828551471378"
+				"size" "14368079"
+				"download" "13283952"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "330132842600069555"
+				"size" "12002100"
+				"download" "10546688"
+			}
+		}
+	}
+	"530599"
+	{
+		"dlcappid" "530599"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2633628331817827169"
+				"size" "14368267"
+				"download" "11905024"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "286132863588736109"
+				"size" "12002194"
+				"download" "9340032"
+			}
+		}
+	}
+	"529930"
+	{
+		"dlcappid" "529930"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1885029655974643736"
+				"size" "10357821150"
+				"download" "8860282560"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "182059432009852241"
+				"size" "1214826198"
+				"download" "1114301648"
+			}
+		}
+	}
+	"530610"
+	{
+		"dlcappid" "530610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8797633140491138315"
+				"size" "13562944869"
+				"download" "11511613856"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "131579235125118174"
+				"size" "1996772976"
+				"download" "1843195408"
+			}
+		}
+	}
+	"418373"
+	{
+		"dlcappid" "529930"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1850487337258647106"
+				"size" "10357602276"
+				"download" "8847769696"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "422492399860771882"
+				"size" "1215773219"
+				"download" "1110182448"
+			}
+		}
+	}
+	"418374"
+	{
+		"dlcappid" "530610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5417000559535840320"
+				"size" "13574415147"
+				"download" "11517102512"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "158444063046949852"
+				"size" "2008451971"
+				"download" "1850798848"
+			}
+		}
+	}
+	"418375"
+	{
+		"dlcappid" "530610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5278038220232861179"
+				"size" "13562944872"
+				"download" "11515681312"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "12835345524263474"
+				"size" "1996441849"
+				"download" "1840727184"
+			}
+		}
+	}
+	"564190"
+	{
+		"dlcappid" "564190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "30059815315701992"
+				"size" "6426509490"
+				"download" "5564200896"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "6904219692997065223"
+				"size" "5124329946"
+				"download" "4507560816"
+			}
+		}
+	}
+	"530611"
+	{
+		"dlcappid" "530611"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6056753254666249273"
+				"size" "12542633132"
+				"download" "10631324928"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "430871114806224066"
+				"size" "6934428065"
+				"download" "5936074560"
+			}
+		}
+	}
+	"418376"
+	{
+		"dlcappid" "564190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1861368551167317490"
+				"size" "6412749825"
+				"download" "5556312016"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "6093970808374148168"
+				"size" "5323835886"
+				"download" "4681468704"
+			}
+		}
+	}
+	"418377"
+	{
+		"dlcappid" "564190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1544223621847730578"
+				"size" "6410188141"
+				"download" "5563237840"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "766205411268672949"
+				"size" "5110808449"
+				"download" "4491926016"
+			}
+		}
+	}
+	"418378"
+	{
+		"dlcappid" "530611"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1210212300188934975"
+				"size" "12542787370"
+				"download" "10635535824"
+			}
+			"dx11_non-rt"
+			{
+				"gid" "1027056159839829880"
+				"size" "6926403312"
+				"download" "5924474544"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11026049"
+			"timeupdated" "1683507663"
+		}
+		"dx11_non-rt"
+		{
+			"buildid" "11046100"
+			"timeupdated" "1682584131"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "2147483647"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "30410347"
+"_sha" "8cdbbe12246dd9f09f1b8092f1a58201e67427c7"
+"_size" "14766"
