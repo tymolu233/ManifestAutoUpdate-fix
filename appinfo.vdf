@@ -1,0 +1,389 @@
+"appid" "1876890"
+"common"
+{
+	"name" "Wandering Sword"
+	"type" "Game"
+	"icon" "a84d2eb117aa4d7f32781b5020f9e90d567da183"
+	"clienticon" "735338ed7291d9bf73c57732e73bcdb6da9e3354"
+	"clienttga" "e8ec2053bda180835cd997fd235eb9171d6ead8a"
+	"name_localized"
+	{
+		"english" "Wandering Sword"
+		"tchinese" "逸劍風雲決"
+		"schinese" "逸剑风云决"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1700697600"
+		"tested_build_id" "12209449"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Wandering Sword"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "7925d26d7b6dada8dab82234eeb73ae43a06428a/capsule_231x87.jpg"
+		"schinese" "81fd85c007ca1b10882220fb2d900d45ff988538/capsule_231x87_schinese.jpg"
+		"tchinese" "b5df98b856b4511a2c1ccb7253018088761ac043/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "0c547c6c5852e8e77eb4fec4b4deaafb1328f475/header_schinese.jpg"
+		"english" "24dd4050c78d2f116634d6e124dd7fefad8e5f0e/header.jpg"
+		"tchinese" "4160964c8a479f09ade8b7e7b490d2def980b61d/header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "44.83794788710482"
+			"height_pct" "77.43701224129758"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "f7fd0651df6a5e6f1f6701bc271fd76f7f010f9f/library_600x900.jpg"
+				"schinese" "aaea49b21c6baad8eb9cbc7c972b74e147e1d7cf/library_600x900_schinese.jpg"
+				"tchinese" "35b5ad0be63f74bd7429f4f5e15d9a48dd792a25/library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "f7fd0651df6a5e6f1f6701bc271fd76f7f010f9f/library_600x900_2x.jpg"
+				"schinese" "aaea49b21c6baad8eb9cbc7c972b74e147e1d7cf/library_600x900_schinese_2x.jpg"
+				"tchinese" "35b5ad0be63f74bd7429f4f5e15d9a48dd792a25/library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "44.83794788710482"
+				"height_pct" "77.43701224129758"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "24dd4050c78d2f116634d6e124dd7fefad8e5f0e/library_header.jpg"
+				"schinese" "0c547c6c5852e8e77eb4fec4b4deaafb1328f475/library_header_schinese.jpg"
+				"tchinese" "4160964c8a479f09ade8b7e7b490d2def980b61d/library_header_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "24dd4050c78d2f116634d6e124dd7fefad8e5f0e/library_header_2x.jpg"
+				"schinese" "0c547c6c5852e8e77eb4fec4b4deaafb1328f475/library_header_schinese_2x.jpg"
+				"tchinese" "4160964c8a479f09ade8b7e7b490d2def980b61d/library_header_tchinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1753265229"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "The Swordman Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Spiral Up Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Spiral Up Games"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1694746026"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/wandering-sword\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1876890"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "6915"
+		"2" "3964"
+		"3" "1677"
+		"4" "1742"
+		"5" "1695"
+		"6" "21"
+		"7" "9"
+		"8" "4182"
+		"9" "4975"
+		"10" "5984"
+		"11" "4325"
+		"12" "4608"
+		"13" "6691"
+		"14" "51306"
+		"15" "1708"
+		"16" "1741"
+		"17" "14139"
+		"18" "4231"
+		"19" "15954"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "The Swordman Studio"
+	"publisher" "Spiral Up Games"
+	"listofdlc" "3027840,3600640,3600650"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Wandering Sword"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "JH.exe"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "8"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "8"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "0"
+	"baselanguages" "english,schinese,tchinese"
+	"1876891"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2398443404425741819"
+				"size" "6143949287"
+				"download" "5591047440"
+			}
+			"opentest"
+			{
+				"gid" "1557666098964793210"
+				"size" "6902727695"
+				"download" "6195849104"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19578945"
+			"timeupdated" "1755076137"
+		}
+		"opentest"
+		{
+			"buildid" "19248887"
+			"description" "公开测试"
+			"timeupdated" "1752729531"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "70"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Wandering_Sword/Saved/{64BitSteamID}/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "30564587"
+"_sha" "2024a2b095345104e9e087b5d40f28701cbe8f9f"
+"_size" "8128"
