@@ -1,0 +1,66 @@
+"appid" "3688890"
+"common"
+{
+	"name" "Sid Meier\'s Civilization VII Development Tools"
+	"type" "Tool"
+	"parent" "1295660"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "b0bc1de4a145052475ded8ab690451fd3c17cd54"
+	"clienttga" "60538ec3fd3ac6efb18ae02d4bd189d6d5d8d2d8"
+	"clienticon" "caf850b14064a89962c6309f7685264cfc721c9e"
+	"gameid" "3688890"
+}
+"config"
+{
+	"installdir" "Sid Meier\'s Civilization VII Development Tools"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Launcher\\Win64\\Launcher.exe"
+			"workingdir" "Launcher\\Win64\\"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"3688891"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4437518180443816641"
+				"size" "488959111"
+				"download" "160883008"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19163251"
+			"timeupdated" "1752091434"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "30530658"
+"_sha" "3acaa3935e26ba356b51442a12da6a1b109d735a"
+"_size" "1086"
