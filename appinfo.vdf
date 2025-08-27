@@ -1,0 +1,426 @@
+"appid" "2680010"
+"common"
+{
+	"name" "The First Berserker: Khazan"
+	"type" "Game"
+	"icon" "6b814f92e25cec848c9729ce26c8f39afcc6e5f7"
+	"clienticon" "67c1f2d29dd19bf6578083564254b10cb5143523"
+	"clienttga" "43b1d933e581e29a6081353b6b57c4aae37115c8"
+	"name_localized"
+	{
+		"koreana" "퍼스트 버서커: 카잔"
+	}
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2680010_eula_0"
+			"name" "The First Berserker: Khazan EULA"
+			"url" "https://store.steampowered.com//eula/2680010_eula_0"
+			"version" "2"
+		}
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1749081600"
+		"tested_build_id" "18641954"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "29.62747380675205"
+			"height_pct" "51.899786274044175"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "d9f8aa0972e0f8811f13fd11d923d8a22356aa3e/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "d9f8aa0972e0f8811f13fd11d923d8a22356aa3e/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "459d59f542255040a965dc72dbf93729519332d2/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "459d59f542255040a965dc72dbf93729519332d2/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "459d59f542255040a965dc72dbf93729519332d2/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "2d4daab312f231bf50e9ca0c4628d1096ecfa676/logo.png"
+			}
+			"image2x"
+			{
+				"english" "2d4daab312f231bf50e9ca0c4628d1096ecfa676/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "29.62747380675205"
+				"height_pct" "51.899786274044175"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "ba2773d5fc3890f9b116d0e00c4df2755288f7c4/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "ba2773d5fc3890f9b116d0e00c4df2755288f7c4/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1750981618"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Neople"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "NEXON"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1743087600"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2680010"
+	"content_descriptors_including_dlc"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"store_tags"
+	{
+		"0" "29482"
+		"1" "4026"
+		"2" "1646"
+		"3" "4085"
+		"4" "4231"
+		"5" "4106"
+		"6" "1697"
+		"7" "122"
+		"8" "19"
+		"9" "4191"
+		"10" "4604"
+		"11" "4195"
+		"12" "4166"
+		"13" "21"
+		"14" "4342"
+		"15" "3993"
+		"16" "4562"
+		"17" "5363"
+		"18" "7250"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Neople"
+	"publisher" "NEXON"
+	"homepage" "http://khazan.nexon.com"
+	"listofdlc" "3265140,3265150,3265160"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "The First Berserker Khazan"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "KZ.exe"
+			"arguments" "-steam -nosplash -UseWarhavenGpuCrashFix"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65532"
+	"steamcontrollertouchtemplateindex" "8"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2680011"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7132211436097647795"
+				"size" "56247870533"
+				"download" "24008040480"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19414063"
+			"timeupdated" "1754013672"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "The First Berserker Khazan/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "30579508"
+"_sha" "56af878d70b6b78eabe429301a07422dcf616b0a"
+"_size" "7787"
