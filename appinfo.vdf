@@ -1,0 +1,560 @@
+"appid" "1643310"
+"common"
+{
+	"name" "Dungeons 4"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "ca7e867c1015df7c648f81a489b0894e76597765"
+	"clienttga" "9c6f3eae12e989dc6aec89ca7296775cb1b600b5"
+	"icon" "dde5d8c1a7f976e2bc3aa5f25a10d20fe05a36e5"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+	}
+	"linuxclienticon" "6c5e647a22245c816347609ba7c00a65839acd7e"
+	"clienticns" "4c873dac78b2fc2ea0c1558d2492f04682e83d03"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1643310_eula_0"
+			"name" "Dungeons 4 EULA"
+			"url" "https://store.steampowered.com//eula/1643310_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1714089600"
+		"tested_build_id" "14072207"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "1"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "85.23920653442241"
+			"height_pct" "91.03538351935407"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "85.23920653442241"
+				"height_pct" "91.03538351935407"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1750947588"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Realmforge Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kalypso Media"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Dungeons"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_17" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1699552518"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1643310"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "4328"
+		"2" "599"
+		"3" "1676"
+		"4" "17305"
+		"5" "3813"
+		"6" "1685"
+		"7" "3843"
+		"8" "3859"
+		"9" "6730"
+		"10" "8122"
+		"11" "1684"
+		"12" "5923"
+		"13" "5094"
+		"14" "4191"
+		"15" "4136"
+		"16" "4182"
+		"17" "3810"
+		"18" "4562"
+		"19" "3834"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Realmforge Studios"
+	"publisher" "Kalypso Media"
+	"homepage" "https://dungeons4-game.com/"
+	"listofdlc" "2522990,2964020,3332590,3707110"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Dungeons 4"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "d4.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,arabic,brazilian"
+	"1643311"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3923113293435461913"
+				"size" "19852557761"
+				"download" "8007927152"
+			}
+		}
+	}
+	"1643314"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5024294537068280284"
+				"size" "266585616"
+				"download" "266571360"
+			}
+		}
+	}
+	"1643315"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8650338905752454174"
+				"size" "223157104"
+				"download" "223310032"
+			}
+		}
+	}
+	"1643316"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2433137629647284522"
+				"size" "244767712"
+				"download" "244592720"
+			}
+		}
+	}
+	"1643317"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "456071508573488356"
+				"size" "210260000"
+				"download" "210204896"
+			}
+		}
+	}
+	"1643318"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8987887948138767079"
+				"size" "232218000"
+				"download" "232671440"
+			}
+		}
+	}
+	"2522990"
+	{
+		"dlcappid" "2522990"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "615795715247341445"
+				"size" "54130470"
+				"download" "30415856"
+			}
+		}
+	}
+	"1643319"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6742393939843716195"
+				"size" "232218000"
+				"download" "232671440"
+			}
+		}
+	}
+	"2964020"
+	{
+		"dlcappid" "2964020"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8116112756301827343"
+				"size" "690246669"
+				"download" "516193120"
+			}
+		}
+	}
+	"3332590"
+	{
+		"dlcappid" "3332590"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6721008718902522902"
+				"size" "674621667"
+				"download" "515932688"
+			}
+		}
+	}
+	"3707110"
+	{
+		"dlcappid" "3707110"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1287569181562396255"
+				"size" "942448930"
+				"download" "643171856"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19131066"
+			"timeupdated" "1752753701"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Kalypso Media/Dungeons 4/savegames"
+			"pattern" "*.d4"
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Kalypso Media/Dungeons 4"
+			"pattern" "config-*.cfg"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".config/"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "30798026"
+"_sha" "d65a80c0395e08ff0aeec607be60970675316458"
+"_size" "9186"
