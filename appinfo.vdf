@@ -1,0 +1,371 @@
+"appid" "2185030"
+"common"
+{
+	"name" "Dealer\'s Life Legend"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "d8aa3c50648282824d780678d64c3ba6b118846f"
+	"clienticon" "7379ad032f5a3db6cc7fe22cac112589cb660cf7"
+	"name_localized"
+	{
+		"tchinese" "当铺人生传奇"
+		"schinese" "当铺人生传奇"
+	}
+	"clienttga" "fbb2b48513696183c9d8d9ee49f2c8fd52c2342e"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"portuguese" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1743033600"
+		"tested_build_id" "17677285"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "89835108d7872db12cf10e6e27ab3d5044f3d562/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "f6aaa79cddace8b590508f7b44260ca45c286b28/header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1754478258"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Abyte Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Abyte Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Dealer\'s Life"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_67" "1"
+		"category_68" "1"
+		"category_74" "1"
+		"category_75" "1"
+		"category_76" "1"
+		"category_77" "1"
+		"category_78" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1753202147"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2185030"
+	"store_tags"
+	{
+		"0" "97376"
+		"1" "1654"
+		"2" "492"
+		"3" "599"
+		"4" "6426"
+		"5" "35079"
+		"6" "91114"
+		"7" "4695"
+		"8" "12472"
+		"9" "4845"
+		"10" "1684"
+		"11" "4202"
+		"12" "597"
+		"13" "4195"
+		"14" "10397"
+		"15" "1220528"
+		"16" "9204"
+		"17" "4182"
+		"18" "4136"
+		"19" "3871"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Abyte Entertainment"
+	"publisher" "Abyte Entertainment"
+	"homepage" "https://abyteentertainment.com/dealers-life-legend/"
+}
+"config"
+{
+	"installdir" "DealersLifeLegend"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DealersLifeLegend.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"2185031"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2099747776584657251"
+				"size" "270511765"
+				"download" "212411744"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19247164"
+			"timeupdated" "1753201818"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Abyte Entertainment/DealersLifeLegend"
+			"pattern" "*.dat"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Abyte Entertainment/DealersLifeLegend"
+			"pattern" "*.bak"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "30673865"
+"_sha" "b4696ccbe9be2eeae76f14a54ad54473d7944f11"
+"_size" "6270"
