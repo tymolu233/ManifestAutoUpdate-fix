@@ -1,0 +1,409 @@
+"appid" "3350200"
+"common"
+{
+	"name" "情感反诈模拟器"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"icon" "b8bb31cec008ac2a794458ed5251b75bbe50df14"
+	"clienttga" "26b699492626f09f54a7fc2156bc1486f36fdce1"
+	"clienticon" "d386115905b9fe1a82a7f65e92364eee13888822"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"aicontenttype" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1750982400"
+		"tested_build_id" "18925720"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "0bc46b59ba0955bc145402bb15f4c603216ca73d/capsule_231x87.jpg"
+		"schinese" "0bc46b59ba0955bc145402bb15f4c603216ca73d/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "d2351dd420c87970ff90fdad0681bed609754c4c/header_schinese.jpg"
+		"english" "d2351dd420c87970ff90fdad0681bed609754c4c/header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_hero_blur" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "70.76707202993451"
+			"height_pct" "72.22222222222223"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "98ff6479fabbaa6db4d243cb48bc068fa46884d8/library_600x900.jpg"
+				"schinese" "98ff6479fabbaa6db4d243cb48bc068fa46884d8/library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "98ff6479fabbaa6db4d243cb48bc068fa46884d8/library_600x900_2x.jpg"
+				"schinese" "98ff6479fabbaa6db4d243cb48bc068fa46884d8/library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "70d72d28ce34f62b17b549143387dce4b0fdba5e/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "70d72d28ce34f62b17b549143387dce4b0fdba5e/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "70d72d28ce34f62b17b549143387dce4b0fdba5e/library_hero_blur.jpg"
+				"schinese" "70d72d28ce34f62b17b549143387dce4b0fdba5e/library_hero_blur_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "0ddef984190750685fd7dcb79194cd5c9806c411/logo.png"
+				"schinese" "0ddef984190750685fd7dcb79194cd5c9806c411/logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "0ddef984190750685fd7dcb79194cd5c9806c411/logo_2x.png"
+				"schinese" "0ddef984190750685fd7dcb79194cd5c9806c411/logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "70.76707202993451"
+				"height_pct" "72.22222222222223"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "1810a6d5d4fe6530d762c71af9efc52dd4ac3f90/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "1810a6d5d4fe6530d762c71af9efc52dd4ac3f90/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1756475518"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "前方工作室"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "前方工作室"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1750320762"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3350200"
+	"content_descriptors_including_dlc"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"store_tags"
+	{
+		"0" "122"
+		"1" "1742"
+		"2" "9551"
+		"3" "11014"
+		"4" "5984"
+		"5" "9"
+		"6" "6971"
+		"7" "5716"
+		"8" "18594"
+		"9" "4486"
+		"10" "17305"
+		"11" "4947"
+		"12" "3799"
+		"13" "3854"
+		"14" "1697"
+		"15" "5186"
+		"16" "12095"
+		"17" "5608"
+		"18" "4145"
+		"19" "5673"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "前方工作室"
+	"publisher" "前方工作室"
+}
+"config"
+{
+	"installdir" "RevengeOnGoldDiggers"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RevengeOnGoldDiggers.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "RevengeOnGoldDiggers.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "RevengeOnGoldDiggers.exe"
+			"arguments" "--no-sandbox"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Compatibility Mode (Play black screen select me)"
+				"schinese" "兼容模式（播放时候黑屏选我）"
+			}
+			"description" "Compatibility Mode (Play black screen select me)"
+		}
+		"3"
+		{
+			"executable" "RevengeOnGoldDiggers.exe"
+			"arguments" "--no-sandbox --use-angle=d3d9"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Compatibility Mode (d3d9)"
+				"schinese" "兼容模式（d3d9）"
+			}
+			"description" "Compatibility Mode (d3d9)"
+		}
+		"4"
+		{
+			"executable" "RevengeOnGoldDiggers.exe"
+			"arguments" "--no-sandbox --use-angle=vulkan"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Compatibility Mode (vulkan)"
+				"schinese" "兼容模式（vulkan）"
+			}
+			"description" "Compatibility Mode (vulkan)"
+		}
+		"5"
+		{
+			"executable" "RevengeOnGoldDiggers.exe"
+			"arguments" "--no-sandbox --use-angle=gl"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Compatibility Mode (OpenGL)"
+				"schinese" "兼容模式（OpenGL）"
+			}
+			"description" "Compatibility Mode (OpenGL)"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "schinese"
+	"3350201"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6594077472928496779"
+				"size" "23727364160"
+				"download" "23527498928"
+			}
+		}
+	}
+	"3350202"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "schinese"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8878961968689184862"
+				"size" "23876287064"
+				"download" "23572000144"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19738097"
+			"timeupdated" "1756207404"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "30849781"
+"_sha" "c619a2f1a315ff71a6088541bd8d874ae79c07ad"
+"_size" "8314"
