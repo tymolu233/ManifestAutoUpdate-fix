@@ -1,0 +1,186 @@
+"appid" "2551670"
+"common"
+{
+	"name" "7 Days Blood Moons Playtest"
+	"type" "Beta"
+	"parent" "2312280"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "0a11b1e844f859636fb9b47ccd60012caa7f334c"
+	"clienticon" "131034bd39c1fb5926dfd4dbfb2dc95aedb9ff46"
+	"clienttga" "e791ed1323cde87e085305dda25f0136ef8c96ad"
+	"releasestate" "released"
+	"small_capsule"
+	{
+		"english" "4ad16e4971889eb2e0030c513f00db209152f521/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "bf270286c5e1ded5dd66f096ea65fdfb196ffffc/header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "01fc3a03b0dbcedabf2c765868064a9998f44f52/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "01fc3a03b0dbcedabf2c765868064a9998f44f52/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "56043d275c8f8079ff727c3d4893fd980048b291/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "56043d275c8f8079ff727c3d4893fd980048b291/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "56043d275c8f8079ff727c3d4893fd980048b291/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "a3cd7cf3e65c17fe99b8e1d6c572842d28318995/logo.png"
+			}
+			"image2x"
+			{
+				"english" "a3cd7cf3e65c17fe99b8e1d6c572842d28318995/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "bf270286c5e1ded5dd66f096ea65fdfb196ffffc/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "bf270286c5e1ded5dd66f096ea65fdfb196ffffc/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1754676962"
+	"associations"
+	{
+	}
+	"primary_genre" "0"
+	"category"
+	{
+	}
+	"steam_release_date" "1755983884"
+	"community_hub_visible" "1"
+	"gameid" "2551670"
+	"exfgls" "6"
+}
+"config"
+{
+	"installdir" "7DaysBloodMoonsPlaytest"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "7DaysBloodMoons.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2551671"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6784307885463736823"
+				"size" "24641264682"
+				"download" "11296989488"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19847156"
+			"timeupdated" "1756938850"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "30930541"
+"_sha" "dda866676afb02e6adc29749db8cd84aa7806358"
+"_size" "3249"
