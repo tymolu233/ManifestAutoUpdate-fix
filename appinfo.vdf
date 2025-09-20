@@ -1,0 +1,1085 @@
+"appid" "3008130"
+"common"
+{
+	"name" "Dying Light: The Beast"
+	"type" "Game"
+	"clienticon" "48a57f9344332b2c9c16c3590a14af7b39abd8eb"
+	"clienttga" "e9ad2e5bc674f946c20c63bd9e3852b4fed928fc"
+	"icon" "48a57f9344332b2c9c16c3590a14af7b39abd8eb"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "消逝的光芒：困兽"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "3008130_eula_0"
+			"name" "Dying Light: The Beast EULA"
+			"url" "https://store.steampowered.com//eula/3008130_eula_0"
+			"version" "3"
+		}
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"czech" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1758153600"
+		"tested_build_id" "19982538"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-10.0-beta"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "2"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "33419d86d767352ed38036de7d17212c71f0357d/capsule_231x87.jpg"
+		"schinese" "68ef36f770f50bdfd8d642ba0bc57e7b4c8cd5fd/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "cc54d8961d51eab78fd3fb8507a866a621c2a025/header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_hero_blur" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "34.830805134189035"
+			"height_pct" "98.63452861553075"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "a8b402e870b1a343d236f4926e86b6d07629ac97/library_600x900.jpg"
+				"schinese" "18b94b63132668173b184c552bc79dd29167ccd4/library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "a8b402e870b1a343d236f4926e86b6d07629ac97/library_600x900_2x.jpg"
+				"schinese" "18b94b63132668173b184c552bc79dd29167ccd4/library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "184fc186ed63ec2e76728b057f66780ba66da5a5/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "184fc186ed63ec2e76728b057f66780ba66da5a5/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "184fc186ed63ec2e76728b057f66780ba66da5a5/library_hero_blur.jpg"
+				"schinese" "8540e01f96da1d57ff97b275d1df326838be3878/library_hero_blur_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "e87d24d8389a19a7ffd0fc7a491cf99d090a2369/logo.png"
+				"schinese" "bfd2eac67a078053f7b4f3463e0defae71878d98/logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "e87d24d8389a19a7ffd0fc7a491cf99d090a2369/logo_2x.png"
+				"schinese" "bfd2eac67a078053f7b4f3463e0defae71878d98/logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "34.830805134189035"
+				"height_pct" "98.63452861553075"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "cc54d8961d51eab78fd3fb8507a866a621c2a025/library_header.jpg"
+				"schinese" "940dcd17d4891ca87d51756cf9baf2e2aad234ab/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "cc54d8961d51eab78fd3fb8507a866a621c2a025/library_header_2x.jpg"
+				"schinese" "940dcd17d4891ca87d51756cf9baf2e2aad234ab/library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1758271406"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Techland"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Techland"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Dying Light"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_55" "1"
+		"category_57" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1758211243"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3008130"
+	"content_descriptors_including_dlc"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"store_tags"
+	{
+		"0" "1659"
+		"1" "19"
+		"2" "1695"
+		"3" "3839"
+		"4" "4036"
+		"5" "1667"
+		"6" "3859"
+		"7" "4508"
+		"8" "3835"
+		"9" "4345"
+		"10" "3834"
+		"11" "122"
+		"12" "1742"
+		"13" "4182"
+		"14" "4106"
+		"15" "3993"
+		"16" "4667"
+		"17" "4175"
+		"18" "21"
+		"19" "4231"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Techland"
+	"publisher" "Techland"
+	"homepage" "https://dyinglightgame.com/the-beast/pre-order\?page_index=usps001110&amp;utm_medium=usps001110"
+	"listofdlc" "3592040,3707620,3707630,3707640,3707650,3707710"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Dying Light The Beast"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rwdi.exe"
+			"workingdir" "ph_ft\\work\\bin\\x64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch Dying Light: The Beast"
+			}
+			"description" "Launch Dying Light: The Beast"
+		}
+		"1"
+		{
+			"executable" "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rd.exe"
+			"workingdir" "ph_ft\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev-daily"
+			}
+			"description_loc"
+			{
+				"english" "Launch [RD]"
+			}
+			"description" "Launch [RD]"
+		}
+		"2"
+		{
+			"executable" "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rd.exe"
+			"arguments" "-nopopups"
+			"workingdir" "ph_ft\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev-daily"
+			}
+			"description_loc"
+			{
+				"english" "Launch [RD][NOPOPUPS]"
+			}
+			"description" "Launch [RD][NOPOPUPS]"
+		}
+		"3"
+		{
+			"executable" "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rwp.exe"
+			"arguments" "-nopopups"
+			"workingdir" "ph_ft\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev-daily"
+			}
+			"description_loc"
+			{
+				"english" "Launch [RWP][NOPOPUPS]"
+			}
+			"description" "Launch [RWP][NOPOPUPS]"
+		}
+		"4"
+		{
+			"executable" "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rd.exe"
+			"arguments" "-nopopups"
+			"workingdir" "ph_ft\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "third-party"
+			}
+			"description_loc"
+			{
+				"english" "Launch [RD][NOPOPUPS]"
+			}
+			"description" "Launch [RD][NOPOPUPS]"
+		}
+		"5"
+		{
+			"executable" "ph_ft\\work\\bin\\x64\\DyingLightGame_ft_x64_rd.exe"
+			"arguments" "-nopopups"
+			"workingdir" "ph_ft\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "internal-publishing"
+			}
+			"description_loc"
+			{
+				"english" "Launch [RD][NOPOPUPS]"
+			}
+			"description" "Launch [RD][NOPOPUPS]"
+		}
+		"6"
+		{
+			"executable" "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rd.exe"
+			"arguments" "-nopopups"
+			"workingdir" "ph_ft\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "milestone-cert"
+				"ownsdlc" "3061860"
+			}
+			"description_loc"
+			{
+				"english" "Launch [RD][NOPOPUPS]"
+			}
+			"description" "Launch [RD][NOPOPUPS]"
+		}
+		"7"
+		{
+			"executable" "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rwp.exe"
+			"arguments" "-nopopups"
+			"workingdir" "ph_ft\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "milestone-cert"
+				"ownsdlc" "3061860"
+			}
+			"description_loc"
+			{
+				"english" "Launch [RWP][NOPOPUPS]"
+			}
+			"description" "Launch [RWP][NOPOPUPS]"
+		}
+		"8"
+		{
+			"executable" "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rwp.exe"
+			"arguments" " -nopopups -dumptelemetry"
+			"workingdir" "ph_ft\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "internal-playtests"
+				"ownsdlc" "3061860"
+			}
+			"description_loc"
+			{
+				"english" "Launch [RWP]"
+			}
+			"description" "Launch [RWP]"
+		}
+		"10"
+		{
+			"executable" "DyingLightGame_TheBeast_x64_rwp.cmd"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "ext-events"
+				"ownsdlc" "3061860"
+			}
+			"description_loc"
+			{
+				"english" "Launch RWP"
+			}
+			"description" "Launch RWP"
+		}
+		"11"
+		{
+			"executable" "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rd.exe"
+			"arguments" "-nopopups"
+			"workingdir" "ph_ft\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "patch02-daily"
+				"ownsdlc" "3061860"
+			}
+			"description_loc"
+			{
+				"english" "Launch [RD][NOPOPUPS]"
+			}
+			"description" "Launch [RD][NOPOPUPS]"
+		}
+		"12"
+		{
+			"executable" "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rwp.exe"
+			"arguments" "-nopopups"
+			"workingdir" "ph_ft\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "patch02-daily"
+				"ownsdlc" "3061860"
+			}
+			"description_loc"
+			{
+				"english" "Launch RWP"
+			}
+			"description" "Launch RWP"
+		}
+		"13"
+		{
+			"executable" "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rwp.exe"
+			"arguments" "-nopopups"
+			"workingdir" "ph_ft\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "patch1-daily"
+				"ownsdlc" "3061860"
+			}
+			"description_loc"
+			{
+				"english" "Launch RWP"
+			}
+			"description" "Launch RWP"
+		}
+		"14"
+		{
+			"executable" "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rd.exe"
+			"arguments" "-nopopups"
+			"workingdir" "ph_ft\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "patch1-daily"
+				"ownsdlc" "3061860"
+			}
+			"description_loc"
+			{
+				"english" "Launch [RD][NOPOPUPS]"
+			}
+			"description" "Launch [RD][NOPOPUPS]"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"3008131"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "3061860"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7509236200935396898"
+				"size" "7"
+				"download" "64"
+			}
+		}
+	}
+	"3008132"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4736842126314942335"
+				"size" "13023011051"
+				"download" "12688710016"
+			}
+		}
+	}
+	"3008133"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "494195225294494991"
+				"size" "440155052"
+				"download" "196841104"
+			}
+		}
+	}
+	"3008134"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7424448091867469272"
+				"size" "47265909087"
+				"download" "32988895280"
+			}
+		}
+	}
+	"3008135"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5362655515814500238"
+				"size" "1828849609"
+				"download" "1734522608"
+			}
+		}
+	}
+	"3592041"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8026104554341664651"
+				"size" "1496128"
+				"download" "586160"
+			}
+		}
+	}
+	"3592047"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4242539980516433721"
+				"size" "1496128"
+				"download" "586160"
+			}
+		}
+	}
+	"3008136"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2948663341102804512"
+				"size" "1692939050"
+				"download" "1610758992"
+			}
+		}
+	}
+	"3008137"
+	{
+		"config"
+		{
+			"language" "arabic"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3303023609971793980"
+				"size" "18996859"
+				"download" "4749984"
+			}
+		}
+	}
+	"3008138"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "620126001372965384"
+				"size" "1699690996"
+				"download" "1617257440"
+			}
+		}
+	}
+	"3008139"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8176716180096983026"
+				"size" "1669596454"
+				"download" "1574180688"
+			}
+		}
+	}
+	"3061861"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5072859246060099107"
+				"size" "23242196"
+				"download" "8039248"
+			}
+		}
+	}
+	"3061862"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3788587201039997588"
+				"size" "1172697"
+				"download" "1172832"
+			}
+		}
+	}
+	"3061863"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "930273901785274656"
+				"size" "1686265625"
+				"download" "1604115216"
+			}
+		}
+	}
+	"3061864"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2106982911077097121"
+				"size" "1123410"
+				"download" "1123552"
+			}
+		}
+	}
+	"3061865"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3957285668366103754"
+				"size" "1674186204"
+				"download" "1591221648"
+			}
+		}
+	}
+	"3061866"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2062392045872930413"
+				"size" "1660630006"
+				"download" "1580774880"
+			}
+		}
+	}
+	"3061867"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6697379641945156285"
+				"size" "1148188"
+				"download" "1148320"
+			}
+		}
+	}
+	"3061868"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1194852775708263976"
+				"size" "1701068187"
+				"download" "1607702432"
+			}
+		}
+	}
+	"3061869"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1892534430300778714"
+				"size" "9049749"
+				"download" "2812288"
+			}
+		}
+	}
+	"3592042"
+	{
+		"config"
+		{
+			"language" "portuguese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5097474936724758454"
+				"size" "1131825"
+				"download" "1131968"
+			}
+		}
+	}
+	"3592043"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6777467355973250726"
+				"size" "1676533295"
+				"download" "1592088304"
+			}
+		}
+	}
+	"3592044"
+	{
+		"config"
+		{
+			"language" "turkish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "418004239045260472"
+				"size" "1127584"
+				"download" "1127728"
+			}
+		}
+	}
+	"3707621"
+	{
+		"dlcappid" "3707640"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6257965437662766979"
+				"size" "64327491"
+				"download" "64326864"
+			}
+		}
+	}
+	"3707622"
+	{
+		"dlcappid" "3707630"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5184198940762274725"
+				"size" "7227782"
+				"download" "7182640"
+			}
+		}
+	}
+	"3707623"
+	{
+		"dlcappid" "3707620"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8410235877528022390"
+				"size" "2439074433"
+				"download" "2391900288"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "20048691"
+			"timeupdated" "1758305534"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "31213753"
+"_sha" "2fff096fea34a696fdaa3c553dc33349dc8b8c83"
+"_size" "19130"
