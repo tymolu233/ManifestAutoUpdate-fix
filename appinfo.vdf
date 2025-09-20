@@ -1,0 +1,224 @@
+"appid" "403240"
+"common"
+{
+	"name" "Squad Dedicated Server"
+	"type" "Tool"
+	"oslist" "windows,linux"
+	"logo" "43bc8f7ebbad4b8fee2eea9bc262be483dfb7983"
+	"logo_small" "43bc8f7ebbad4b8fee2eea9bc262be483dfb7983_thumb"
+	"icon" "2973559898c17218937162db6d2e423d3dc8a418"
+	"clienticon" "5cb6171b179fd2dc6a4a2dc49ef1760d0d839282"
+	"clienttga" "d26cb41f9f79cce4cc6bcbd40bc3e63e947d98a4"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "403240_eula_0"
+			"name" "Squad Dedicated Server EULA"
+			"url" "http://store.steampowered.com//eula/403240_eula_0"
+		}
+	}
+	"releasestate" "released"
+	"osarch" "64"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "403240"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Squad Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SquadServer.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "SquadServer.sh"
+			"type" "server"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8904491048620934740"
+				"size" "68697032"
+				"download" "20552544"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5587033981095108078"
+				"size" "107476144"
+				"download" "29272144"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"403241"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4515171813861193076"
+				"size" "6900958167"
+				"download" "6225182176"
+			}
+			"squad_experimental"
+			{
+				"gid" "1786524356193398696"
+				"size" "6900975840"
+				"download" "6225426016"
+			}
+		}
+	}
+	"403242"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"language" "english"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5775319542922934585"
+				"size" "6618808466"
+				"download" "6041322800"
+			}
+			"squad_experimental"
+			{
+				"gid" "1892804814134736151"
+				"size" "6618811808"
+				"download" "6041508272"
+			}
+		}
+	}
+	"1123920"
+	{
+		"dlcappid" "1123920"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8509449628493661206"
+				"size" "15654"
+				"download" "15264"
+			}
+			"squad_experimental"
+			{
+				"gid" "8509449628493661206"
+				"size" "15654"
+				"download" "15264"
+			}
+		}
+		"depotfromapp" "393380"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19908086"
+			"timeupdated" "1757525353"
+		}
+		"squad_experimental"
+		{
+			"buildid" "20020411"
+			"description" "Experimental Squad builds (compatible with Live clients)"
+			"timeupdated" "1758135299"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "31165111"
+"_sha" "f8e1ca9cc2db788c94446abd793613c65402726c"
+"_size" "3476"
