@@ -1,0 +1,198 @@
+"appid" "774961"
+"common"
+{
+	"name" "Squad - Public Test Dedicated Server"
+	"type" "Tool"
+	"parent" "774941"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"osarch" ""
+	"clienttga" "d26cb41f9f79cce4cc6bcbd40bc3e63e947d98a4"
+	"clienticon" "5cb6171b179fd2dc6a4a2dc49ef1760d0d839282"
+	"icon" "e02936d5dda8f41ce8c480d4b3e8af1e8d3db18c"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "774961"
+}
+"extended"
+{
+	"gamedir" ""
+}
+"config"
+{
+	"installdir" "Squad - Public Test Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SquadServer.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "SquadServer.sh"
+			"type" "server"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"hasdepotsindlc" "0"
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8904491048620934740"
+				"size" "68697032"
+				"download" "20552544"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5587033981095108078"
+				"size" "107476144"
+				"download" "29272144"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"774962"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8162882812913099924"
+				"size" "6559288427"
+				"download" "5806122368"
+			}
+		}
+	}
+	"774963"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5421494970011390952"
+				"size" "6272081251"
+				"download" "5619210816"
+			}
+		}
+	}
+	"774943"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2545188719619349744"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "774941"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "18763983"
+			"timeupdated" "1749228979"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "31213300"
+"_sha" "558e8e5657bc46db086a6dd798acf653e2f0d9ed"
+"_size" "2757"
