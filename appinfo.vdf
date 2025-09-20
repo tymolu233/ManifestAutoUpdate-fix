@@ -1,0 +1,424 @@
+"appid" "3228590"
+"common"
+{
+	"name" "Deadzone Rogue"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "ae783ad4b1b248b1f5e1969a54c24ddd15bdc227"
+	"clienttga" "e2dc317024137b4b2a833e1b05de9e9a8d3b52a2"
+	"clienticon" "0bb4385e8856e83eba90373750291dba42e7bf21"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "3228590_eula_0"
+			"name" "Deadzone Rogue EULA"
+			"url" "https://store.steampowered.com//eula/3228590_eula_0"
+			"version" "4"
+		}
+	}
+	"name_localized"
+	{
+		"schinese" "死域Rogue"
+		"tchinese" "死域Rogue"
+	}
+	"aicontenttype" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1754092800"
+		"tested_build_id" "19247443"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "2d1da014055b2b9d9d0702b0ddf7cc56f118e19e/capsule_231x87.jpg"
+		"schinese" "469efa8f35e44e8fad3b77cd2ce313a7abf8ffa6/capsule_231x87_schinese.jpg"
+		"tchinese" "469efa8f35e44e8fad3b77cd2ce313a7abf8ffa6/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "e96bd8ad3067f931a3b8008c4453c58d0d2acd19/header.jpg"
+		"tchinese" "8c9760d98ac7e10b369c7d0e3f04d0cd65187477/header_tchinese.jpg"
+		"schinese" "8c9760d98ac7e10b369c7d0e3f04d0cd65187477/header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "71.77589943058264"
+			"height_pct" "46.59684826868423"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "059e0f080bd9cf082c3fb7f115a44af2ba96c750/library_capsule.jpg"
+				"schinese" "776dcb55a4eb61b4b9f6e2ea60842a58176bdf6b/library_600x900_schinese.jpg"
+				"tchinese" "776dcb55a4eb61b4b9f6e2ea60842a58176bdf6b/library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "059e0f080bd9cf082c3fb7f115a44af2ba96c750/library_capsule_2x.jpg"
+				"schinese" "776dcb55a4eb61b4b9f6e2ea60842a58176bdf6b/library_600x900_schinese_2x.jpg"
+				"tchinese" "776dcb55a4eb61b4b9f6e2ea60842a58176bdf6b/library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "1ef7b002fee1c2a81c5f31dcb5f6ee5fd0a57021/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "1ef7b002fee1c2a81c5f31dcb5f6ee5fd0a57021/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "1ef7b002fee1c2a81c5f31dcb5f6ee5fd0a57021/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "aeb14cebd9b6c0e89bc3f622531ec83015b783d6/logo_schinese.png"
+				"tchinese" "aeb14cebd9b6c0e89bc3f622531ec83015b783d6/logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "aeb14cebd9b6c0e89bc3f622531ec83015b783d6/logo_schinese_2x.png"
+				"tchinese" "aeb14cebd9b6c0e89bc3f622531ec83015b783d6/logo_tchinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "71.77589943058264"
+				"height_pct" "46.59684826868423"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "e96bd8ad3067f931a3b8008c4453c58d0d2acd19/library_header.jpg"
+				"schinese" "ca6a29525f1257e59b7dbb3765c6858ae732b5d3/library_header_schinese.jpg"
+				"tchinese" "ca6a29525f1257e59b7dbb3765c6858ae732b5d3/library_header_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "e96bd8ad3067f931a3b8008c4453c58d0d2acd19/library_header_2x.jpg"
+				"schinese" "ca6a29525f1257e59b7dbb3765c6858ae732b5d3/library_header_schinese_2x.jpg"
+				"tchinese" "ca6a29525f1257e59b7dbb3765c6858ae732b5d3/library_header_tchinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1757514054"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Prophecy Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Prophecy Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_68" "1"
+		"category_69" "1"
+		"category_74" "1"
+		"category_78" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1754931628"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3228590"
+	"store_tags"
+	{
+		"0" "1716"
+		"1" "1663"
+		"2" "3843"
+		"3" "6730"
+		"4" "3959"
+		"5" "353880"
+		"6" "1667"
+		"7" "1720"
+		"8" "3839"
+		"9" "1774"
+		"10" "19"
+		"11" "3835"
+		"12" "42804"
+		"13" "4166"
+		"14" "1659"
+		"15" "3942"
+		"16" "4236"
+		"17" "4342"
+		"18" "4191"
+		"19" "4295"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Prophecy Games"
+	"publisher" "Prophecy Games"
+	"homepage" "https://www.deadzonerogue.com/support"
+	"listofdlc" "3897660"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Deadzone Rogue"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DeadzoneSteam.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"3228591"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4153525347790952916"
+				"size" "8260983577"
+				"download" "7845996416"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,ukrainian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19911788"
+			"timeupdated" "1757516381"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "524288000"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Valhalla/Saved/SaveGames"
+			"pattern" "ValSaveGame-steam-3228590-*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocal"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "31208560"
+"_sha" "6090be7aea0ea98fc06a293d50f385afc3598095"
+"_size" "8758"
