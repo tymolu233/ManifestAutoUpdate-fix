@@ -1,0 +1,793 @@
+"appid" "924970"
+"common"
+{
+	"name" "Back 4 Blood"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "a449d5516da1e1d96d811dea70a7bd499951eceb"
+	"logo_small" "a449d5516da1e1d96d811dea70a7bd499951eceb_thumb"
+	"icon" "4a2e853e7098bb0ebe637107e8180084a3117184"
+	"clienttga" "3dafbbb2220586be6cbaa5a910ea694846e276cd"
+	"clienticon" "ced140f69b589a85e1f6ebd5121311d17559bd23"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "喋血复仇"
+		"tchinese" "喋血復仇"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "924970_eula_0"
+			"name" "Back 4 Blood EULA"
+			"url" "https://store.steampowered.com//eula/924970_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1651622400"
+		"tested_build_id" "8549868"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Back 4 Blood"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "10"
+			"height_pct" "2"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "10"
+				"height_pct" "2"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1746219945"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Turtle Rock Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Warner Bros. Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "WB Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_61" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1634058000"
+	"metacritic_score" "77"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/back-4-blood\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "924970"
+	"content_descriptors_including_dlc"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"store_tags"
+	{
+		"0" "1659"
+		"1" "3843"
+		"2" "3859"
+		"3" "1663"
+		"4" "1774"
+		"5" "1685"
+		"6" "19"
+		"7" "4345"
+		"8" "1667"
+		"9" "4182"
+		"10" "3839"
+		"11" "1662"
+		"12" "5228"
+		"13" "4667"
+		"14" "21"
+		"15" "3978"
+		"16" "6730"
+		"17" "1775"
+		"18" "3959"
+		"19" "4711"
+	}
+	"review_score" "5"
+	"review_percentage" "68"
+}
+"extended"
+{
+	"developer" "Turtle Rock Studios"
+	"publisher" "Warner Bros. Games"
+	"homepage" "https://back4blood.com/"
+	"listofdlc" "1598440,1598441,1598442,1840320,2015180,2101940"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Back 4 Blood"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Gobi-Win64-Test.exe"
+			"arguments" "-SaveToUserDir -NOSCREENMESSAGES"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "1142380"
+			}
+			"description_loc"
+			{
+				"english" "Test"
+			}
+			"description" "Test"
+		}
+		"1"
+		{
+			"executable" "Gobi-Win64-Shipping.exe"
+			"arguments" "-SaveToUserDir"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "1142380"
+			}
+			"description_loc"
+			{
+				"english" "Shipping"
+			}
+			"description" "Shipping"
+		}
+		"2"
+		{
+			"executable" "Gobi.exe"
+			"arguments" "-SaveToUserDir -NOSCREENMESSAGES"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "1142380"
+			}
+			"description_loc"
+			{
+				"english" "Development"
+			}
+			"description" "Development"
+		}
+		"3"
+		{
+			"executable" "Gobi\\Binaries\\Win64\\Gobi.exe"
+			"arguments" "-SaveToUserDir -NOSCREENMESSAGES -windowed -ResX=1280 -ResY=720 -ExecCmds=\"SCALABILITY 0\""
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "1142420"
+			}
+			"description_loc"
+			{
+				"english" "SafeMode"
+			}
+			"description" "SafeMode"
+		}
+		"4"
+		{
+			"executable" "Gobi\\Binaries\\Win64\\Gobi.exe"
+			"arguments" "-SaveToUserDir -TRSPixelStreamingOnly -NOSCREENMESSAGES"
+			"description" "PixelStreaming Development"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "1142420"
+			}
+		}
+		"5"
+		{
+			"executable" "Gobi\\Binaries\\Win64\\Gobi.exe"
+			"arguments" "-SaveToUserDir"
+			"description" "Development OnScreenMessages"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "1142420"
+			}
+		}
+		"6"
+		{
+			"executable" "Gobi-Win64-Test.exe"
+			"arguments" "-NOSCREENMESSAGES"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "usability"
+				"ownsdlc" "1142380"
+			}
+			"description_loc"
+			{
+				"english" "Usability Test Only"
+			}
+			"description" "Usability Test Only"
+		}
+		"8"
+		{
+			"executable" "Back4Blood.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Retail"
+			}
+			"description" "Retail"
+		}
+		"9"
+		{
+			"executable" "Gobi\\Binaries\\Win64\\Gobi.exe"
+			"arguments" "-ExecCmds=\"WebServices.Environment qua, mm.bucket TEST3\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "method"
+				"ownsdlc" "1142380"
+			}
+		}
+		"10"
+		{
+			"executable" "Gobi\\Binaries\\Win64\\Gobi.exe"
+			"arguments" "-ExecCmds=\"mm.bucket WBQA6\" -SaveToUserDir -NOSCREENMESSAGES"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hitdetection"
+				"ownsdlc" "1142380"
+			}
+			"description_loc"
+			{
+				"english" "Hit Detection - Select This!"
+			}
+			"description" "Hit Detection - Select This!"
+		}
+		"11"
+		{
+			"executable" "Gobi\\Binaries\\Win64\\Gobi.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1142380"
+			}
+			"description_loc"
+			{
+				"english" "Development without EasyAntiCheat"
+			}
+			"description" "Development without EasyAntiCheat"
+		}
+		"12"
+		{
+			"executable" "Gobi\\Binaries\\Win64\\Gobi-Win64-Test.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1142380"
+			}
+			"description_loc"
+			{
+				"english" "Test without EasyAntiCheat"
+			}
+			"description" "Test without EasyAntiCheat"
+		}
+		"13"
+		{
+			"executable" "Gobi\\Binaries\\Win64\\Gobi-Win64-Debug.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1142380"
+			}
+			"description_loc"
+			{
+				"english" "Debug without EasyAntiCheat"
+			}
+			"description" "Debug without EasyAntiCheat"
+		}
+		"14"
+		{
+			"executable" "Gobi\\Binaries\\Win64\\Back4Blood.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1142380"
+			}
+			"description_loc"
+			{
+				"english" "Retail without EasyAntiCheat"
+			}
+			"description" "Retail without EasyAntiCheat"
+		}
+		"15"
+		{
+			"executable" "Gobi\\Binaries\\Win64\\Gobi-Win64-Shipping.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1142380"
+			}
+			"description_loc"
+			{
+				"english" "Shipping without EasyAntiCheat"
+			}
+			"description" "Shipping without EasyAntiCheat"
+		}
+	}
+	"steamconfigurator3rdpartynative" "8"
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "8"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"924971"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2194878379786247325"
+				"size" "49599168453"
+				"download" "49188288848"
+			}
+		}
+	}
+	"1142380"
+	{
+		"dlcappid" "1142380"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "290834754248763569"
+				"size" "1217237102"
+				"download" "234457968"
+			}
+		}
+	}
+	"1142420"
+	{
+		"dlcappid" "1142420"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2753931990221287221"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1406830"
+	{
+		"dlcappid" "1406830"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "232081697172156470"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"1406831"
+	{
+		"dlcappid" "1406831"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "237931827228929353"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"924972"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7652397841777917928"
+				"size" "723341245"
+				"download" "689183280"
+			}
+		}
+	}
+	"924973"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6035913895232866500"
+				"size" "753523965"
+				"download" "719534320"
+			}
+		}
+	}
+	"924974"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8294287718880305251"
+				"size" "747646484"
+				"download" "712816352"
+			}
+		}
+	}
+	"924975"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2770145798175310955"
+				"size" "764817463"
+				"download" "730878400"
+			}
+		}
+	}
+	"924976"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2838371652923164555"
+				"size" "767084126"
+				"download" "732427424"
+			}
+		}
+	}
+	"924977"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3599819504499511506"
+				"size" "758020498"
+				"download" "722875024"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,arabic,brazilian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14216215"
+			"timeupdated" "1715792484"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10485760"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Back4Blood/Steam/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocal"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "31127378"
+"_sha" "7b8a716904528ace1a7ad4ff2b2283d152d486e9"
+"_size" "13866"
