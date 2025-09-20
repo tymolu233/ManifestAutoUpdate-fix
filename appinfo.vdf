@@ -1,0 +1,422 @@
+"appid" "3483740"
+"common"
+{
+	"name" "Cast n Chill"
+	"type" "Game"
+	"icon" "43d2abadc9e6e299f4ba92db1676bafb9ec4438a"
+	"clienticon" "b951d63546563ff4e90774772d1d2eec7fc11de8"
+	"clienttga" "f7ccee1e4ae8c6d7b26b228f55886e053fbfbb38"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1750291200"
+		"tested_build_id" "18880693"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "201a148c3692e6d176fad750ed24acc8c6f5ee47/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "060225195a8432c90ea7339e86570f287c72795b/header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "62.0137299771167"
+			"height_pct" "74.54361957909106"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "4b08dcae50455b36a5ab677ec1f55d0a6bcdea84/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "4b08dcae50455b36a5ab677ec1f55d0a6bcdea84/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "f8830d796b3ca762bb11cee3bce19ac2abb47979/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "f8830d796b3ca762bb11cee3bce19ac2abb47979/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "f8830d796b3ca762bb11cee3bce19ac2abb47979/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "3b77b5412b560053fc4574cdac743358f60469a3/logo.png"
+			}
+			"image2x"
+			{
+				"english" "3b77b5412b560053fc4574cdac743358f60469a3/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "62.0137299771167"
+				"height_pct" "74.54361957909106"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "177478c5db86b77f0c26b11f8af074a10aea340e/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "177478c5db86b77f0c26b11f8af074a10aea340e/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1757033228"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Wombat Brawler"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Wombat Brawler"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+		"4" "18"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_22" "1"
+		"category_2" "1"
+		"category_23" "1"
+		"category_67" "1"
+		"category_69" "1"
+		"category_74" "1"
+		"category_75" "1"
+		"category_76" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1750089875"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3483740"
+	"store_tags"
+	{
+		"0" "1654"
+		"1" "3964"
+		"2" "15564"
+		"3" "916648"
+		"4" "615955"
+		"5" "97376"
+		"6" "4094"
+		"7" "597"
+		"8" "8945"
+		"9" "4166"
+		"10" "599"
+		"11" "30358"
+		"12" "9157"
+		"13" "3871"
+		"14" "5350"
+		"15" "7481"
+		"16" "701"
+		"17" "492"
+		"18" "4695"
+		"19" "122"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Wombat Brawler"
+	"publisher" "Wombat Brawler"
+	"listofdlc" "3817870,4001650"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Cast n Chill"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "castnchill.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Cast n Chill.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"3483741"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8849892373387178259"
+				"size" "291762047"
+				"download" "156274432"
+			}
+			"beta"
+			{
+				"gid" "8849892373387178259"
+				"size" "291762047"
+				"download" "156274432"
+			}
+		}
+	}
+	"3483742"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7715911724658189809"
+				"size" "378511161"
+				"download" "180951584"
+			}
+			"beta"
+			{
+				"gid" "7715911724658189809"
+				"size" "378511161"
+				"download" "180951584"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19994908"
+			"timeupdated" "1758000624"
+		}
+		"beta"
+		{
+			"buildid" "19994908"
+			"description" "Public beta"
+			"timeupdated" "1758000580"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "2000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Wombat Brawler/Cast n Chill/Journals"
+			"pattern" "*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "31130571"
+"_sha" "a021d9184ea0f68f16a1e3cc011bace9d8a17530"
+"_size" "7468"
