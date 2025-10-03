@@ -1,0 +1,662 @@
+"appid" "1984270"
+"common"
+{
+	"name" "Digimon Story Time Stranger"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"japanese" "デジモンストーリー タイムストレンジャー"
+		"tchinese" "數碼寶貝物語 時空異客"
+		"schinese" "数码宝贝物语 时空异客"
+		"koreana" "디지몬 스토리 타임 스트레인저"
+	}
+	"clienticon" "6509e787cb08e200705baa23fe57362d650bb7b0"
+	"clienttga" "882630e459c0b40eef196262bbecd390692810c4"
+	"icon" "92ef41a1c3b74f2417a479d25a02ea127e6ec4ae"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1984270_eula_0"
+			"name" "Digimon Story Time Stranger EULA"
+			"url" "https://store.steampowered.com//eula/1984270_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1757721600"
+		"tested_build_id" "19863192"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-10.0-beta"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"japanese" "165bf4f4ac19e57890629b2d12a5a37a21bdd1d6/capsule_231x87_japanese.jpg"
+		"english" "150fc2146dfdaf16243b81bd82bcc4ebc059113b/capsule_231x87.jpg"
+		"koreana" "53a20c1734b00992616fe2a976a0e269174608a8/capsule_231x87_koreana.jpg"
+		"tchinese" "e61b21c588c902640bc9fb6566ca3105aedc0947/capsule_231x87_tchinese.jpg"
+		"schinese" "e61b21c588c902640bc9fb6566ca3105aedc0947/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"japanese" "3bd033dd3ea1481cac4f64148a139d9ac8430030/header_japanese.jpg"
+		"english" "723bccb3bf302c7c065201b578fbc7030b4e3c41/header.jpg"
+		"koreana" "c48b5fb089cba616eb0c8c7b1db067456b28a54e/header_koreana.jpg"
+		"tchinese" "7b6269705cba30391c332241dafe4d215b2bf2cd/header_tchinese.jpg"
+		"schinese" "7b6269705cba30391c332241dafe4d215b2bf2cd/header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "ja,en,ko,zh-tw,zh-cn"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "ja,en,ko,zh-tw,zh-cn"
+		"library_header" "ja,en,ko,zh-tw,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "42.709062039359345"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"japanese" "1ee5708591cd71db23700d75cc3047245ee797e9/library_600x900_japanese.jpg"
+				"english" "abcd3844124c51dc6247eb3b52afdd43fb2414c3/library_600x900.jpg"
+				"koreana" "4747d70e3f051888508f8f9af225af6d3b43868f/library_600x900_koreana.jpg"
+				"tchinese" "7d5830e4be3ada996ac2d01eb24516dd231b7d4c/library_600x900_tchinese.jpg"
+				"schinese" "7d5830e4be3ada996ac2d01eb24516dd231b7d4c/library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"japanese" "1ee5708591cd71db23700d75cc3047245ee797e9/library_600x900_japanese_2x.jpg"
+				"english" "abcd3844124c51dc6247eb3b52afdd43fb2414c3/library_600x900_2x.jpg"
+				"koreana" "4747d70e3f051888508f8f9af225af6d3b43868f/library_600x900_koreana_2x.jpg"
+				"tchinese" "7d5830e4be3ada996ac2d01eb24516dd231b7d4c/library_600x900_tchinese_2x.jpg"
+				"schinese" "7d5830e4be3ada996ac2d01eb24516dd231b7d4c/library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "d1d4847f0c6148ba1158a2b68bfee1f8b999f073/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "d1d4847f0c6148ba1158a2b68bfee1f8b999f073/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "d1d4847f0c6148ba1158a2b68bfee1f8b999f073/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"japanese" "d5f08385eafa1e7c974e656b9ef508e47355ff54/logo_japanese.png"
+				"english" "7cc416b8da0ff0383ed812299eb5232f74b8efbd/logo.png"
+				"koreana" "a3e36e8a11ec57bfefa0e4a08e698e346ba5c546/logo_koreana.png"
+				"tchinese" "1a7d95ece627ded37312d9f25997e4088d8c14a6/logo_tchinese.png"
+				"schinese" "1a7d95ece627ded37312d9f25997e4088d8c14a6/logo_schinese.png"
+			}
+			"image2x"
+			{
+				"japanese" "d5f08385eafa1e7c974e656b9ef508e47355ff54/logo_japanese_2x.png"
+				"english" "7cc416b8da0ff0383ed812299eb5232f74b8efbd/logo_2x.png"
+				"koreana" "a3e36e8a11ec57bfefa0e4a08e698e346ba5c546/logo_koreana_2x.png"
+				"tchinese" "1a7d95ece627ded37312d9f25997e4088d8c14a6/logo_tchinese_2x.png"
+				"schinese" "1a7d95ece627ded37312d9f25997e4088d8c14a6/logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "42.709062039359345"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"japanese" "3bd033dd3ea1481cac4f64148a139d9ac8430030/library_header_japanese.jpg"
+				"english" "723bccb3bf302c7c065201b578fbc7030b4e3c41/library_header.jpg"
+				"koreana" "c48b5fb089cba616eb0c8c7b1db067456b28a54e/library_header_koreana.jpg"
+				"tchinese" "7b6269705cba30391c332241dafe4d215b2bf2cd/library_header_tchinese.jpg"
+				"schinese" "7b6269705cba30391c332241dafe4d215b2bf2cd/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"japanese" "3bd033dd3ea1481cac4f64148a139d9ac8430030/library_header_japanese_2x.jpg"
+				"english" "723bccb3bf302c7c065201b578fbc7030b4e3c41/library_header_2x.jpg"
+				"koreana" "c48b5fb089cba616eb0c8c7b1db067456b28a54e/library_header_koreana_2x.jpg"
+				"tchinese" "7b6269705cba30391c332241dafe4d215b2bf2cd/library_header_tchinese_2x.jpg"
+				"schinese" "7b6269705cba30391c332241dafe4d215b2bf2cd/library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1759458942"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Media.Vision Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bandai Namco Entertainment Inc."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Bandai Namco Entertainment"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1759442400"
+	"steam_deck_blog_url" "https://steamcommunity.com/app/1984270/eventcomments/601915789280526358/"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1984270"
+	"content_descriptors_including_dlc"
+	{
+		"0" "5"
+	}
+	"store_tags"
+	{
+		"0" "122"
+		"1" "4434"
+		"2" "916648"
+		"3" "10695"
+		"4" "4085"
+		"5" "5652"
+		"6" "4191"
+		"7" "4726"
+		"8" "10679"
+		"9" "1684"
+		"10" "3964"
+		"11" "5608"
+		"12" "4598"
+		"13" "5673"
+		"14" "16094"
+		"15" "4325"
+		"16" "4747"
+		"17" "4182"
+		"18" "1742"
+		"19" "5711"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "Media.Vision Inc."
+	"publisher" "Bandai Namco Entertainment Inc."
+	"homepage" "https://digimonstory-ts.bn-ent.net/"
+	"listofdlc" "3524240,3524250,3524300,3524310,3524320,3524330,3524340,3524350,3524360,3524370,3524380,3524390,3524400"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Digimon Story Time Stranger"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Digimon Story Time Stranger.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3551888190"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,bnea-review,bnea_events,compat,compat-dev,dev-debug,dev-denuvo-release,dev-playable-debug,dev-playable-release,dev-release,digi_prod_dnuv,marketing_meetings,media-capture,media-review-denuvo-release,mock_review,perf-review-debug,perf-review-release,qa-debug,qa-debug-next,qa-denuvo-release,qa-denuvo-release-next,qa-playable-debug,qa-playable-release,qa-release,qa-release-next"
+			"use_action_block" "false"
+		}
+		"3551889992"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,bnea-review,bnea_events,compat,compat-dev,dev-debug,dev-denuvo-release,dev-playable-debug,dev-playable-release,dev-release,digi_prod_dnuv,marketing_meetings,media-capture,media-review-denuvo-release,mock_review,perf-review-debug,perf-review-release,qa-debug,qa-debug-next,qa-denuvo-release,qa-denuvo-release-next,qa-playable-debug,qa-playable-release,qa-release,qa-release-next"
+			"use_action_block" "false"
+		}
+		"3551891390"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,bnea-review,bnea_events,compat,compat-dev,dev-debug,dev-denuvo-release,dev-playable-debug,dev-playable-release,dev-release,digi_prod_dnuv,marketing_meetings,media-capture,media-review-denuvo-release,mock_review,perf-review-debug,perf-review-release,qa-debug,qa-debug-next,qa-denuvo-release,qa-denuvo-release-next,qa-playable-debug,qa-playable-release,qa-release,qa-release-next"
+			"use_action_block" "false"
+		}
+		"3551892681"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,bnea-review,bnea_events,compat,compat-dev,dev-debug,dev-denuvo-release,dev-playable-debug,dev-playable-release,dev-release,digi_prod_dnuv,marketing_meetings,media-capture,media-review-denuvo-release,mock_review,perf-review-debug,perf-review-release,qa-debug,qa-debug-next,qa-denuvo-release,qa-denuvo-release-next,qa-playable-debug,qa-playable-release,qa-release,qa-release-next"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "7"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" ""
+	"hasdepotsindlc" "0"
+	"1984271"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "238061488930819289"
+				"size" "29885980165"
+				"download" "24677147632"
+			}
+		}
+	}
+	"1984272"
+	{
+	}
+	"3524240"
+	{
+		"dlcappid" "3524240"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6662609926555286405"
+				"size" "44603435"
+				"download" "34780816"
+			}
+		}
+	}
+	"3524250"
+	{
+		"dlcappid" "3524250"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6473051103911318870"
+				"size" "145601"
+				"download" "106080"
+			}
+		}
+	}
+	"3524260"
+	{
+		"dlcappid" "3524260"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3178399478932698570"
+				"size" "280416548"
+				"download" "233145792"
+			}
+		}
+	}
+	"3524270"
+	{
+		"dlcappid" "3524270"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8570349070644069269"
+				"size" "282036969"
+				"download" "241505040"
+			}
+		}
+	}
+	"3524290"
+	{
+		"dlcappid" "3524290"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3925403868081787890"
+				"size" "252022999"
+				"download" "211599088"
+			}
+		}
+	}
+	"3524300"
+	{
+		"dlcappid" "3524300"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2166254318281553691"
+				"size" "32400924"
+				"download" "25348832"
+			}
+		}
+	}
+	"3524310"
+	{
+		"dlcappid" "3524310"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8397653365747062005"
+				"size" "4319"
+				"download" "2480"
+			}
+		}
+	}
+	"3524320"
+	{
+		"dlcappid" "3524320"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2937343108483999987"
+				"size" "4902"
+				"download" "2112"
+			}
+		}
+	}
+	"3524330"
+	{
+		"dlcappid" "3524330"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9011286650463550421"
+				"size" "2826"
+				"download" "1792"
+			}
+		}
+	}
+	"3524340"
+	{
+		"dlcappid" "3524340"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9171927283280801773"
+				"size" "1003"
+				"download" "656"
+			}
+		}
+	}
+	"3524350"
+	{
+		"dlcappid" "3524350"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3574787827120316187"
+				"size" "303792"
+				"download" "206336"
+			}
+		}
+	}
+	"3524360"
+	{
+		"dlcappid" "3524360"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9075694746551360982"
+				"size" "361378824"
+				"download" "361004624"
+			}
+		}
+	}
+	"3524370"
+	{
+		"dlcappid" "3524370"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7484848285842310833"
+				"size" "47812936"
+				"download" "47903168"
+			}
+		}
+	}
+	"3524380"
+	{
+		"dlcappid" "3524380"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9165147238607416395"
+				"size" "2472"
+				"download" "1616"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "20027848"
+			"timeupdated" "1759374503"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "60000000"
+	"maxnumfiles" "34"
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "31454499"
+"_sha" "0c5d4711c6d6baa091c6db3196aa99ba2e804e8a"
+"_size" "15344"
