@@ -1,0 +1,565 @@
+"appid" "1392860"
+"common"
+{
+	"name" "Little Nightmares III"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+		"indonesian" "1"
+	}
+	"icon" "ca903378be4a8af54e67f2f8d24d7dbda0b7154f"
+	"clienticon" "d44c75c7a8fcfcec222762e1a8155e0b43e6eec0"
+	"clienttga" "7f9f6d04aca83f841e8bb01f7abfa7338bbb560f"
+	"name_localized"
+	{
+		"schinese" "小小梦魇3"
+		"tchinese" "小小夢魘3"
+		"japanese" "リトルナイトメア3"
+		"koreana" "리틀 나이트메어 3"
+		"thai" "สิ่งเล็กๆ ในห้วงฝันร้าย III"
+	}
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1392860_eula_0"
+			"name" "Little Nightmares III EULA"
+			"url" "https://store.steampowered.com//eula/1392860_eula_0"
+			"version" "5"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1759795200"
+		"tested_build_id" "20188271"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-10.0-beta"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"japanese" "fc5d474078fd3005281e62badcfad1830bdfcf6a/capsule_231x87_japanese.jpg"
+		"koreana" "2b03892beff89119d8f8a531835871f711ace063/capsule_231x87_koreana.jpg"
+		"tchinese" "f5dbdc8ab64e8fe4a3c23dafc5df773ca7a6142d/capsule_231x87_tchinese.jpg"
+		"schinese" "229fcab408707a58edc8d3063c47052179d5269b/capsule_231x87_schinese.jpg"
+		"english" "6fbaf98a2692a036262ddae76963a3f41dba3edd/capsule_231x87.jpg"
+		"arabic" "fa6d1488de53b6f2e088ebc01139124f9f9588af/capsule_231x87_arabic.jpg"
+	}
+	"header_image"
+	{
+		"japanese" "c259e38d1d4f7879ec86933773430aedb8e45fab/header_japanese.jpg"
+		"koreana" "2dc787177fc5c08b24a6022bbd353047e9791af0/header_koreana.jpg"
+		"tchinese" "08203a78705a88be83670a848f47a5c55cad35cd/header_tchinese.jpg"
+		"schinese" "04ac4c3b671b74e920111d720f185e6dc6e33dbf/header_schinese.jpg"
+		"english" "7aba96b32736990ec8a131bfdf395d2dc35b282b/header.jpg"
+		"arabic" "b228bdd0728de864e24ee95cb69be8b533367818/header_arabic.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "ja,en,ko,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,ja,ko,zh-tw,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "46.983469683196994"
+			"height_pct" "68.40227858402278"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"japanese" "d541afa0307c95533c8e9f755d22ddb68c735625/library_capsule_japanese.jpg"
+				"english" "library_600x900.jpg"
+				"koreana" "375712f9422a9d89de64a10239a6029a3871d507/library_capsule_koreana.jpg"
+				"schinese" "bdae74a5c99080c4e063e90900c25617e295e6dc/library_capsule_schinese.jpg"
+				"tchinese" "e2d2fa530634b37c46ef317550c3c1b375bfb198/library_capsule_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "d541afa0307c95533c8e9f755d22ddb68c735625/library_capsule_japanese_2x.jpg"
+				"koreana" "375712f9422a9d89de64a10239a6029a3871d507/library_capsule_koreana_2x.jpg"
+				"schinese" "bdae74a5c99080c4e063e90900c25617e295e6dc/library_capsule_schinese_2x.jpg"
+				"tchinese" "e2d2fa530634b37c46ef317550c3c1b375bfb198/library_capsule_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"japanese" "logo_japanese.png"
+				"koreana" "logo_koreana.png"
+				"tchinese" "logo_tchinese.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"japanese" "logo_japanese_2x.png"
+				"koreana" "logo_koreana_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "46.983469683196994"
+				"height_pct" "68.40227858402278"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "293fdb220b136e2fafa980e46499bc319f647a62/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "293fdb220b136e2fafa980e46499bc319f647a62/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1759909996"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Supermassive Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bandai Namco Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Little Nightmares"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_60" "1"
+		"category_64" "1"
+		"category_66" "1"
+		"category_67" "1"
+		"category_68" "1"
+		"category_69" "1"
+		"category_70" "1"
+		"category_74" "1"
+		"category_75" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1760048423"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1392860"
+	"content_descriptors_including_dlc"
+	{
+		"0" "5"
+	}
+	"store_tags"
+	{
+		"0" "21"
+		"1" "1667"
+		"2" "1685"
+		"3" "1664"
+		"4" "3859"
+		"5" "4166"
+		"6" "3843"
+		"7" "1625"
+		"8" "4182"
+		"9" "4508"
+		"10" "1721"
+		"11" "4342"
+		"12" "19"
+		"13" "1687"
+		"14" "1742"
+		"15" "3834"
+		"16" "4975"
+		"17" "1756"
+		"18" "492"
+		"19" "3841"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "Supermassive Games"
+	"publisher" "Bandai Namco Entertainment"
+	"listofdlc" "2088780,2088783,2088785,2088786,2088787,2088788,2170190"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Little Nightmares III"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "LittleNightmaresIII.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Updated Exe Name (Dev)"
+			}
+			"description" "Updated Exe Name (Dev)"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "4"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,arabic,brazilian,latam,indonesian"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229033"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1392862"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7903440569700482741"
+				"size" "1081193125"
+				"download" "244493360"
+			}
+		}
+	}
+	"1392861"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3650818636492050261"
+				"size" "14209991954"
+				"download" "12765834624"
+			}
+		}
+	}
+	"1392864"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8525717654419800220"
+				"size" "1081952099"
+				"download" "248512064"
+			}
+		}
+	}
+	"1392863"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5486992888714282187"
+				"size" "13729453778"
+				"download" "12979260272"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "20188271"
+			"timeupdated" "1760045678"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "LittleNightmaresIII/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "LittleNightmaresIII/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+		"2"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "LittleNightmaresIII/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+		"3"
+		{
+			"root" "WinSavedGames"
+			"path" "LittleNightmaresIII/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "31587051"
+"_sha" "7c63ea6289111961c29b3c10f5e1735d2501a476"
+"_size" "11183"
