@@ -1,0 +1,599 @@
+"appid" "2661300"
+"common"
+{
+	"name" "Grounded 2"
+	"type" "Game"
+	"icon" "0e56e01c18bf303a65ba60dddfa842cc85d1da33"
+	"clienttga" "f13f2dc02e90c7c5352c42de608f9348a1616daf"
+	"clienticon" "0e56e01c18bf303a65ba60dddfa842cc85d1da33"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "禁闭求生2 Grounded 2"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2661300_eula_0"
+			"name" "Grounded 2 EULA"
+			"url" "https://store.steampowered.com//eula/2661300_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1754092800"
+		"tested_build_id" "19406813"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "e7f3c89538d758760b7d14ed8d3704e596db2c64/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "c324feb96157bbab35db1b760d5f085775657526/header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "49.39639517057192"
+			"height_pct" "90.27486295367378"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "40e3fa3edf2eae52a71a37d34db23ce313f95ce9/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "40e3fa3edf2eae52a71a37d34db23ce313f95ce9/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "103066947db1b823b596ad8084e54be28ad912ff/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "103066947db1b823b596ad8084e54be28ad912ff/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "103066947db1b823b596ad8084e54be28ad912ff/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "bdb907efbfde5a91f15936780e51948dec6647ea/logo.png"
+			}
+			"image2x"
+			{
+				"english" "bdb907efbfde5a91f15936780e51948dec6647ea/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.39639517057192"
+				"height_pct" "90.27486295367378"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "c324feb96157bbab35db1b760d5f085775657526/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "c324feb96157bbab35db1b760d5f085775657526/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1754670015"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Obsidian Entertainment"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Eidos-Montréal"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Xbox Game Studios"
+		}
+	}
+	"primary_genre" "70"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_28" "1"
+		"category_59" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1753808760"
+	"community_hub_visible" "1"
+	"gameid" "2661300"
+	"store_tags"
+	{
+		"0" "1662"
+		"1" "19"
+		"2" "21"
+		"3" "3859"
+		"4" "7332"
+		"5" "1685"
+		"6" "1695"
+		"7" "3834"
+		"8" "493"
+		"9" "1702"
+		"10" "3810"
+		"11" "122"
+		"12" "1697"
+		"13" "3839"
+		"14" "1100689"
+		"15" "3843"
+		"16" "4182"
+		"17" "1667"
+		"18" "10816"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Obsidian Entertainment"
+	"publisher" "Xbox Game Studios"
+	"listofdlc" "3784940,3788090"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Grounded2"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Grounded2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch Grounded 2"
+			}
+			"description" "Launch Grounded 2"
+		}
+		"2"
+		{
+			"executable" "Artbook/Grounded2Artbook.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "3788090"
+			}
+			"description_loc"
+			{
+				"english" "Open Artbook & Soundtrack"
+			}
+			"description" "Open Artbook & Soundtrack"
+		}
+		"7"
+		{
+			"executable" "Grounded2Dev.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "release"
+			}
+			"description_loc"
+			{
+				"english" "Grounded 2 Development Configuration"
+			}
+			"description" "Grounded 2 Development Configuration"
+		}
+		"8"
+		{
+			"executable" "Grounded2Test.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "release"
+			}
+			"description_loc"
+			{
+				"english" "Grounded 2 Test Configuration"
+			}
+			"description" "Grounded 2 Test Configuration"
+		}
+		"15"
+		{
+			"executable" "Grounded2Dev.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "development"
+			}
+			"description_loc"
+			{
+				"english" "Grounded 2 Development Configuration"
+			}
+			"description" "Grounded 2 Development Configuration"
+		}
+		"16"
+		{
+			"executable" "Grounded2Test.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "development"
+			}
+			"description_loc"
+			{
+				"english" "Grounded 2 Test Configuration"
+			}
+			"description" "Grounded 2 Test Configuration"
+		}
+		"17"
+		{
+			"executable" "Grounded2Dev.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "retail_debug"
+			}
+			"description_loc"
+			{
+				"english" "Grounded 2 Development Configuration"
+			}
+			"description" "Grounded 2 Development Configuration"
+		}
+		"18"
+		{
+			"executable" "Grounded2Test.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "retail_debug"
+			}
+			"description_loc"
+			{
+				"english" "Grounded 2 Test Configuration"
+			}
+			"description" "Grounded 2 Test Configuration"
+		}
+		"19"
+		{
+			"executable" "Grounded2Test.exe"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "playsession"
+			}
+			"description_loc"
+			{
+				"english" "Grounded 2 Test Configuration"
+			}
+			"description" "Grounded 2 Test Configuration"
+		}
+		"20"
+		{
+			"executable" "Grounded2Test.exe"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "integration"
+			}
+			"description_loc"
+			{
+				"english" "Grounded 2 Test Configuration"
+			}
+			"description" "Grounded 2 Test Configuration"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails" ""
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2258586831"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2661301"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3134483447220873445"
+				"size" "29801251131"
+				"download" "15093206000"
+			}
+			"public_test_build"
+			{
+				"gid" "3134483447220873445"
+				"size" "29801251131"
+				"download" "15093206000"
+			}
+		}
+	}
+	"3784940"
+	{
+		"dlcappid" "3784940"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4847175467414339255"
+				"size" "2027452195"
+				"download" "1382303424"
+			}
+			"public_test_build"
+			{
+				"gid" "4847175467414339255"
+				"size" "2027452195"
+				"download" "1382303424"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "20276753"
+			"timeupdated" "1759870870"
+		}
+		"public_test_build"
+		{
+			"buildid" "20276753"
+			"description" "Public Test Build"
+			"timeupdated" "1759870822"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "384000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "Grounded2"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "31745304"
+"_sha" "d454e303affbe1517a14297e5b78d01c13f0ce7b"
+"_size" "11126"
