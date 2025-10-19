@@ -1,0 +1,522 @@
+"appid" "524220"
+"common"
+{
+	"name" "NieR:Automata™"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"japanese" "1"
+	}
+	"logo" "907a5a93209a68b9605513c9e5658c8cc8924bd3"
+	"logo_small" "907a5a93209a68b9605513c9e5658c8cc8924bd3_thumb"
+	"icon" "ec431ecb2a5178c5a01bb15550f112f93af029bb"
+	"clienticon" "7a2d30e2c6773240ca5b3d98bc35893a6458f813"
+	"clienttga" "c7697abe9799918553c1a80675c7c4dd69d4c6d7"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "524220_eula_0"
+			"name" "NieR:Automata™ EULA"
+			"url" "http://store.steampowered.com//eula/524220_eula_0"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1644969600"
+		"tested_build_id" "7020666"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "NieR: Automata"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "61"
+			"height_pct" "21"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "61"
+				"height_pct" "21"
+			}
+		}
+	}
+	"store_asset_mtime" "1745212007"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Square Enix"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "PlatinumGames Inc."
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Square Enix"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "NIER"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1489766340"
+	"metacritic_score" "84"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/nier-automata\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "524220"
+	"store_tags"
+	{
+		"0" "1646"
+		"1" "122"
+		"2" "1756"
+		"3" "1742"
+		"4" "7208"
+		"5" "19"
+		"6" "4777"
+		"7" "1695"
+		"8" "4434"
+		"9" "4085"
+		"10" "3835"
+		"11" "4182"
+		"12" "5752"
+		"13" "4166"
+		"14" "3942"
+		"15" "6650"
+		"16" "21"
+		"17" "4885"
+		"18" "3955"
+		"19" "4667"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Square Enix"
+	"publisher" "Square Enix"
+	"homepage" "http://www.niergame.com/"
+	"listofdlc" "580600,580610,583990,583991,583992,583993,583994,1017430"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "NieRAutomata"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "NieRAutomata.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2007442527"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,japanese"
+	"hasdepotsindlc" "0"
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"524221"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4633942970953135000"
+				"size" "43318634773"
+				"download" "25297983696"
+			}
+		}
+	}
+	"580600"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "580600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6352626735786606959"
+				"size" "3507768459"
+				"download" "2788684640"
+			}
+		}
+	}
+	"580610"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "580610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "70539499618618565"
+				"size" "2920624"
+				"download" "940272"
+			}
+		}
+	}
+	"583990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "583990"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7857600567806192582"
+				"size" "659632"
+				"download" "296128"
+			}
+		}
+	}
+	"583991"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "583991"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7822405453448242645"
+				"size" "727288"
+				"download" "144160"
+			}
+		}
+	}
+	"583992"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "583992"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7955785643780797608"
+				"size" "4163760"
+				"download" "1343920"
+			}
+		}
+	}
+	"583993"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "583993"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3440919711813183915"
+				"size" "4688048"
+				"download" "1024384"
+			}
+		}
+	}
+	"583994"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "583994"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6837545457254028528"
+				"size" "4688048"
+				"download" "1021600"
+			}
+		}
+	}
+	"1017430"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1820157406263693639"
+				"size" "16090077"
+				"download" "16207504"
+			}
+		}
+		"dlcappid" "1017430"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7020666"
+			"timeupdated" "1626364299"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "2000000"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/NieR_Automata/"
+			"pattern" "*.dat"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "31065934"
+"_sha" "14961abe9adc8762d6659892bf7d2a50f943b6fc"
+"_size" "8759"
