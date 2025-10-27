@@ -1,0 +1,782 @@
+"appid" "274980"
+"common"
+{
+	"name" "Influent"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"logo" "aab113bb00901da04afd5e435cd1d0c18e5fa3f4"
+	"logo_small" "aab113bb00901da04afd5e435cd1d0c18e5fa3f4_thumb"
+	"icon" "c9f3da0350a21796a1ed51fe3d0d02629152e78e"
+	"clienticon" "366362d87600db7ff923498c3f83615240d426ce"
+	"clienttga" "51e532a2807d2f480c6ffddc3eec189ebcc5a857"
+	"linuxclienticon" "a5868a876b9b63a225cd0a310398b3eecfec4db7"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "274980_eula_0"
+			"name" "Influent EULA"
+			"url" "http://store.steampowered.com/eula/274980_eula_0"
+		}
+	}
+	"osarch" ""
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1747872000"
+		"tested_build_id" "18441535"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"koreana" "capsule_231x87_koreana.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "100"
+			"height_pct" "91.79331113156437"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "91.79331113156437"
+			}
+		}
+	}
+	"store_asset_mtime" "1670160358"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Rob Howland"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Three Flip Studios"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_15" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_13" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1395328260"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "274980"
+	"store_tags"
+	{
+		"0" "1036"
+		"1" "5350"
+		"2" "4182"
+		"3" "4191"
+		"4" "3834"
+		"5" "5652"
+		"6" "4726"
+		"7" "492"
+		"8" "51306"
+		"9" "4305"
+		"10" "4252"
+		"11" "1698"
+		"12" "10235"
+		"13" "1738"
+		"14" "24003"
+		"15" "597"
+		"16" "1664"
+		"17" "1674"
+		"18" "12057"
+		"19" "5153"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"developer" "Rob Howland"
+	"publisher" "Three Flip Studios"
+	"homepage" "http://playinfluent.com/"
+	"listofdlc" "286960,286961,286962,286963,286964,286965,286966,286970,286971,286972,297840,297841,297842,338370,338371,338372,435510,435511,435512,435513,435514,435515,435519"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Influent"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Influent.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+		"1"
+		{
+			"executable" "Influent.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+		"2"
+		{
+			"executable" "Influent.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,brazilian,ukrainian"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"274981"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1878312207235637448"
+				"size" "401971034"
+				"download" "155031888"
+			}
+		}
+	}
+	"274982"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7941376281460520789"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"274983"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4253253997219416501"
+				"size" "432428699"
+				"download" "161002528"
+			}
+		}
+	}
+	"274984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5757076552938764715"
+				"size" "414167746"
+				"download" "158687408"
+			}
+		}
+	}
+	"274985"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6835351650751100799"
+				"size" "446739707"
+				"download" "167314464"
+			}
+		}
+	}
+	"286960"
+	{
+		"dlcappid" "286960"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4943590752384554304"
+				"size" "13216164"
+				"download" "6698608"
+			}
+		}
+	}
+	"286961"
+	{
+		"dlcappid" "286961"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3608435660673853034"
+				"size" "22447184"
+				"download" "11377088"
+			}
+		}
+	}
+	"286962"
+	{
+		"dlcappid" "286962"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8031078977280997714"
+				"size" "13317548"
+				"download" "6749824"
+			}
+		}
+	}
+	"286963"
+	{
+		"dlcappid" "286963"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1835626284183964908"
+				"size" "13643896"
+				"download" "6915168"
+			}
+		}
+	}
+	"286964"
+	{
+		"dlcappid" "286964"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2586161702258553796"
+				"size" "14230764"
+				"download" "7212736"
+			}
+		}
+	}
+	"286965"
+	{
+		"dlcappid" "286965"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5119819146999105750"
+				"size" "13922750"
+				"download" "7056800"
+			}
+		}
+	}
+	"286966"
+	{
+		"dlcappid" "286966"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5843321660797869416"
+				"size" "18025556"
+				"download" "9136160"
+			}
+		}
+	}
+	"286970"
+	{
+		"dlcappid" "286970"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9017599614192262448"
+				"size" "21135442"
+				"download" "10712400"
+			}
+		}
+	}
+	"286971"
+	{
+		"dlcappid" "286971"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5053049706995846783"
+				"size" "18513644"
+				"download" "9383616"
+			}
+		}
+	}
+	"286972"
+	{
+		"dlcappid" "286972"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7561524862186661746"
+				"size" "13606198"
+				"download" "6896144"
+			}
+		}
+	}
+	"297840"
+	{
+		"dlcappid" "297840"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4369301452839040367"
+				"size" "14224006"
+				"download" "7209408"
+			}
+		}
+	}
+	"297841"
+	{
+		"dlcappid" "297841"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6726652396357000629"
+				"size" "23192982"
+				"download" "11755200"
+			}
+		}
+	}
+	"297842"
+	{
+		"dlcappid" "297842"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2401923661827574030"
+				"size" "14059878"
+				"download" "7126032"
+			}
+		}
+	}
+	"338371"
+	{
+		"dlcappid" "338371"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6562072776799052090"
+				"size" "10855752"
+				"download" "5502112"
+			}
+		}
+	}
+	"338372"
+	{
+		"dlcappid" "338372"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3212783658898941668"
+				"size" "8737300"
+				"download" "4428480"
+			}
+		}
+	}
+	"338370"
+	{
+		"dlcappid" "338370"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1682052031532193809"
+				"size" "13609990"
+				"download" "6898096"
+			}
+		}
+	}
+	"435510"
+	{
+		"dlcappid" "435510"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7919242751382249370"
+				"size" "13068446"
+				"download" "6623504"
+			}
+		}
+	}
+	"435519"
+	{
+		"dlcappid" "435519"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2344474591818648742"
+				"size" "12117654"
+				"download" "6141552"
+			}
+		}
+	}
+	"435511"
+	{
+		"dlcappid" "435511"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2081641826536898507"
+				"size" "11012684"
+				"download" "5581520"
+			}
+		}
+	}
+	"435512"
+	{
+		"dlcappid" "435512"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9086039988741290995"
+				"size" "14642568"
+				"download" "7421536"
+			}
+		}
+	}
+	"435513"
+	{
+		"dlcappid" "435513"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2951745808121958541"
+				"size" "20487332"
+				"download" "10383712"
+			}
+		}
+	}
+	"435515"
+	{
+		"dlcappid" "435515"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "958909105323346566"
+				"size" "7760746"
+				"download" "3933328"
+			}
+		}
+	}
+	"435514"
+	{
+		"dlcappid" "435514"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5150300887231969902"
+				"size" "20426832"
+				"download" "10353952"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "18441535"
+			"timeupdated" "1747126342"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "2000000"
+	"maxnumfiles" "10"
+}
+"_missing_token" "False"
+"_change_number" "31845569"
+"_sha" "30da20e253bd226a1bdd86133786ca7d6bc051b0"
+"_size" "12264"
