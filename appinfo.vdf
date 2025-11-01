@@ -1,0 +1,230 @@
+"appid" "3247440"
+"common"
+{
+	"name" "Madness on Display"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "af6fa3ace617410c5ddbb3a0a5909618d0948d8b"
+	"clienttga" "7c2da9822f6faa576d14ef82a521df8d00d9062e"
+	"icon" "faa9e5f10261b4ee912154f0306a4758f1119841"
+	"releasestate" "released"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "21ccda7227381f29a9fdaa6411882fbf0d3c2b31/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "100"
+			"height_pct" "100.3848620760166"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "181b927d4a0a4f5f67ac1896db70ff3368394e59/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "181b927d4a0a4f5f67ac1896db70ff3368394e59/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "0281334ab94d8bfd0bc7f8f010f8efee989f256d/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "0281334ab94d8bfd0bc7f8f010f8efee989f256d/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "0281334ab94d8bfd0bc7f8f010f8efee989f256d/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "5f7614c48ab4ca118c7cdccea5d3970b9f3aed29/logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "100.3848620760166"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "8da2cde73170e7f93720ef4c0cc88aeb66d22d5e/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "8da2cde73170e7f93720ef4c0cc88aeb66d22d5e/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1726919397"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "GiBar"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "RoBot"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "GiBar"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1728371042"
+	"community_hub_visible" "1"
+	"gameid" "3247440"
+	"store_tags"
+	{
+		"0" "3834"
+		"1" "1738"
+		"2" "1664"
+		"3" "6730"
+		"4" "5900"
+		"5" "4191"
+		"6" "3839"
+		"7" "1721"
+		"8" "599"
+		"9" "1667"
+		"10" "19"
+		"11" "1742"
+		"12" "4175"
+		"13" "21"
+		"14" "5186"
+		"15" "4342"
+		"16" "3978"
+		"17" "4182"
+		"18" "492"
+	}
+	"review_score" "5"
+	"review_percentage" "69"
+}
+"extended"
+{
+	"developer" "GiBar"
+	"publisher" "RoBot"
+}
+"config"
+{
+	"installdir" "Madness on Display"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Madness on Display.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"3247441"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7941618610138976249"
+				"size" "1567375415"
+				"download" "1439147648"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15780560"
+			"timeupdated" "1726916552"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "31342800"
+"_sha" "db9f15b2c412cb1e68c6eb5cbd8b9cceeacae4a5"
+"_size" "3766"
