@@ -1,0 +1,137 @@
+"appid" "4114030"
+"common"
+{
+	"name" "The Riftbreaker - Dedicated Server"
+	"type" "Tool"
+	"parent" "780310"
+	"oslist" ""
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "464c2ef7bed634b0671da9d95ce5b3f9d365c267"
+	"icon" "e48d2fbaf16dfd3cdd6590a7b92830b64c262741"
+	"releasestate" "released"
+	"freetodownload" "1"
+	"gameid" "4114030"
+}
+"config"
+{
+	"installdir" "The Riftbreaker - Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin/DedicatedServer.exe"
+			"arguments" "disable_steam=1"
+			"workingdir" "bin"
+			"type" "default"
+		}
+		"1"
+		{
+			"executable" "bin/DedicatedServer.exe"
+			"workingdir" "bin"
+			"type" "server"
+			"config"
+			{
+				"betakey" "beta_dev"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5612541580377302256"
+				"size" "64647928"
+				"download" "22986368"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6403079453713498174"
+				"size" "107911652"
+				"download" "35551408"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"4114031"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7614349523222595184"
+				"size" "706537676"
+				"download" "255326768"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "21148512"
+			"timeupdated" "1765465569"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "32746369"
+"_sha" "02daf29039c7fa169c6bc4ced7c7f6ffcab2acd3"
+"_size" "1982"
