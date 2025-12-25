@@ -1,0 +1,416 @@
+"appid" "2351560"
+"common"
+{
+	"name" "Apocalypse Party"
+	"type" "Game"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "清零计划2：天启派对"
+		"tchinese" "零號計劃2：天啟派對"
+		"russian" "Вечеринка Апокалипсиса"
+		"japanese" "アポカリプスパーティー"
+		"koreana" "아포칼립스 파티"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "38eb96124b1e6fe4d3290c71c5820e3601184880"
+	"clienttga" "7b483c2f64c62db80bf659952b9ed1bdce988c6c"
+	"clienticon" "27b49d2a5728125918d4abc44219ca3ebdfed51c"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1702080000"
+		"tested_build_id" "12857557"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "1fbedd8f285cc539f3a8dad8f08bfec5395c3bbe/capsule_231x87_schinese.jpg"
+		"english" "b3a55bb3a03af70ad44c1370066f901147e62986/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "29.539099855693507"
+			"height_pct" "64.2840180479696"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "29.539099855693507"
+				"height_pct" "64.2840180479696"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1748419553"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Breaker Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Breaker Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Kepler Ghost"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Breaker Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1701399561"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "2351560"
+	"content_descriptors_including_dlc"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"store_tags"
+	{
+		"0" "597"
+		"1" "4182"
+		"2" "42804"
+		"3" "3843"
+		"4" "4637"
+		"5" "4885"
+		"6" "3959"
+		"7" "4255"
+		"8" "1716"
+		"9" "1659"
+		"10" "4791"
+		"11" "4195"
+		"12" "4191"
+		"13" "9"
+		"14" "4018"
+		"15" "1685"
+		"16" "3859"
+		"17" "4136"
+		"18" "19"
+		"19" "5923"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"developer" "Breaker Games"
+	"publisher" "Breaker Games"
+	"listofdlc" "2685140"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Project Zero 2 DEMO"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TheLastSurvivor.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"schinese" "启动"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "2351560"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2351561"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7748407676444273252"
+				"size" "5327281803"
+				"download" "5170102544"
+			}
+		}
+	}
+	"2685140"
+	{
+		"dlcappid" "2685140"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8926601487917109841"
+				"size" "1139648"
+				"download" "1151984"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16639962"
+			"timeupdated" "1733394151"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "52428800"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "TheLastSurvivor\\Saved\\SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ""
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacHome"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "29736457"
+"_sha" "306f458f79d4c4c3485e06ba61eff0ffb213b0b5"
+"_size" "7375"
