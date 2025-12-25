@@ -1,0 +1,456 @@
+"appid" "3569500"
+"common"
+{
+	"name" "Card Shop Simulator Multiplayer"
+	"type" "Game"
+	"name_localized"
+	{
+		"schinese" "卡牌店模拟器 多人联机版"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "29d316aac30dfeb8da109c64574e71a09086d0bd"
+	"clienticon" "b07f9483340e97de29f71031765698fcd406f830"
+	"clienttga" "6f88405c0728dfafb0efc344410d56f3883f4391"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"aicontenttype" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1762905600"
+		"tested_build_id" "20659863"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-10.0-3RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "2"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "0b42a42f6fb22ed975348c9025483b8766ebdfae/capsule_231x87.jpg"
+		"schinese" "731e179f018457eefb90f0e683fb6129c447c0ab/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "c8cf36a77e591a2bd4db2e0852da2209410a18c4/header.jpg"
+		"schinese" "bac092f3257a592659f4a101b1305a84085fd631/header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_hero_blur" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "47.199533255542605"
+			"height_pct" "51.51982901923532"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "2c642dcc0ef5f67852aad683591d3cf7de7f0161/library_capsule.jpg"
+				"schinese" "65df30c16c28f3439c12ee0d6e1f3d9aa0437df8/library_capsule_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "2c642dcc0ef5f67852aad683591d3cf7de7f0161/library_capsule_2x.jpg"
+				"schinese" "65df30c16c28f3439c12ee0d6e1f3d9aa0437df8/library_capsule_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "a00cc0960df995aaec46d9c50abcce62e3d6437d/library_hero_2x.jpg"
+				"schinese" "a00cc0960df995aaec46d9c50abcce62e3d6437d/library_hero_schinese_2x.jpg"
+			}
+			"image"
+			{
+				"english" "a00cc0960df995aaec46d9c50abcce62e3d6437d/library_hero.jpg"
+				"schinese" "a00cc0960df995aaec46d9c50abcce62e3d6437d/library_hero_schinese.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "a00cc0960df995aaec46d9c50abcce62e3d6437d/library_hero_blur.jpg"
+				"schinese" "a00cc0960df995aaec46d9c50abcce62e3d6437d/library_hero_blur_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "afa72655c6eff77e883833412d52e9d7adb93c7a/logo.png"
+				"schinese" "661a987c307804b67b373d99fa7cc4cae0c4659a/logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "afa72655c6eff77e883833412d52e9d7adb93c7a/logo_2x.png"
+				"schinese" "661a987c307804b67b373d99fa7cc4cae0c4659a/logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "47.199533255542605"
+				"height_pct" "51.51982901923532"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "6a4161629f9a4fb5445ecf6a2c6bb2b94665d07f/library_header.jpg"
+				"schinese" "4bee9b02513e1932cca00c41ee52b2e0bb4aaf7b/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "6a4161629f9a4fb5445ecf6a2c6bb2b94665d07f/library_header_2x.jpg"
+				"schinese" "4bee9b02513e1932cca00c41ee52b2e0bb4aaf7b/library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1766629147"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ShaneGame"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ShaneGame"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_23" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_68" "1"
+		"category_69" "1"
+		"category_70" "1"
+		"category_74" "1"
+		"category_79" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1750215864"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "3569500"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "10235"
+		"2" "791774"
+		"3" "5652"
+		"4" "9204"
+		"5" "9271"
+		"6" "4191"
+		"7" "4175"
+		"8" "3839"
+		"9" "1643"
+		"10" "1654"
+		"11" "4136"
+		"12" "4166"
+		"13" "12472"
+		"14" "4695"
+		"15" "17389"
+		"16" "32322"
+		"17" "1775"
+		"18" "4202"
+		"19" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "ShaneGame"
+	"publisher" "ShaneGame"
+}
+"config"
+{
+	"installdir" "Card Shop Simulator Multiplayer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CardShopSim.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Recommend(DX12)"
+			}
+			"description" "Recommend(DX12)"
+		}
+		"1"
+		{
+			"executable" "CardShopSim.exe"
+			"arguments" " -dx11"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Compatible(DX11)"
+				"schinese" "兼容模式(DX11)"
+			}
+			"description" "Compatible(DX11)"
+		}
+		"2"
+		{
+			"executable" "Peak.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "devwork"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"3569501"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "996800686312706967"
+				"size" "1516251091"
+				"download" "1277003968"
+			}
+			"0.221devlog"
+			{
+				"gid" "2845159659083667172"
+				"size" "4587736228"
+				"download" "1958385376"
+			}
+			"dev1"
+			{
+				"gid" "996800686312706967"
+				"size" "1516251091"
+				"download" "1277003968"
+			}
+			"v0.107"
+			{
+				"gid" "4502578570678906466"
+				"size" "1486346380"
+				"download" "1328969664"
+			}
+		}
+	}
+	"workshopdepot" "3569500"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "21309789"
+			"timeupdated" "1766643166"
+		}
+		"0.221devlog"
+		{
+			"buildid" "21303392"
+			"description" "0.224开发包，本地存有游戏日志"
+			"timeupdated" "1766566989"
+		}
+		"dev1"
+		{
+			"buildid" "21309789"
+			"description" "dev1"
+			"timeupdated" "1766643035"
+		}
+		"v0.107"
+		{
+			"buildid" "19467123"
+			"description" "v0.107"
+			"timeupdated" "1754383296"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "CardShopSim"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "32965154"
+"_sha" "7012f8f78b4461a03431060ea179a37c83a56805"
+"_size" "9058"
