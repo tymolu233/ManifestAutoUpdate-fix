@@ -1,0 +1,422 @@
+"appid" "3527290"
+"common"
+{
+	"name" "PEAK"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "b3a992fd5991bd2f4c956d58e062b0ce2988d6cd"
+	"clienttga" "e755628c8cb6712123438d6b05ec0a291cb47e7d"
+	"clienticon" "06c1b9495e8b97739b9dc2f9fc8407fe3bf83b53"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "3527290_eula_0"
+			"name" "PEAK EULA"
+			"url" "https://store.steampowered.com//eula/3527290_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1755734400"
+		"tested_build_id" "19603959"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-10.0-beta"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "1844964d7a353e50eb3cc979ea922729d8c1b0ad/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "69.09196740395808"
+			"height_pct" "52.27974352885299"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "480bd879ac737921bfa2529a6fea15961267ad21/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "480bd879ac737921bfa2529a6fea15961267ad21/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "d75184257596a3d2b402c58db0ef28844804e952/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "d75184257596a3d2b402c58db0ef28844804e952/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "d75184257596a3d2b402c58db0ef28844804e952/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "7df31d9d967539cfcb161cea0a69edca82f04cdb/logo.png"
+			}
+			"image2x"
+			{
+				"english" "7df31d9d967539cfcb161cea0a69edca82f04cdb/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "69.09196740395808"
+				"height_pct" "52.27974352885299"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1762370891"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Team PEAK"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Aggro Crab"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Landfall"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_2" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1750093257"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3527290"
+	"store_tags"
+	{
+		"0" "3859"
+		"1" "3843"
+		"2" "1685"
+		"3" "3968"
+		"4" "3834"
+		"5" "21"
+		"6" "3839"
+		"7" "1719"
+		"8" "5125"
+		"9" "4191"
+		"10" "4166"
+		"11" "42804"
+		"12" "19"
+		"13" "16689"
+		"14" "4747"
+		"15" "1667"
+		"16" "1625"
+		"17" "5716"
+		"18" "8369"
+		"19" "3978"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Team PEAK"
+	"publisher" "Aggro Crab"
+	"homepage" "http://peakpeakpeak.com"
+}
+"config"
+{
+	"installdir" "PEAK"
+	"launch"
+	{
+		"5"
+		{
+			"executable" "PEAK.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "PEAK using DX12"
+			}
+			"description" "PEAK using DX12"
+		}
+		"6"
+		{
+			"executable" "PEAK.exe"
+			"arguments" "-force-d3d11"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "PEAK using DX11"
+			}
+			"description" "PEAK using DX11"
+		}
+		"8"
+		{
+			"executable" "PEAK.exe"
+			"arguments" "-force-vulkan"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "PEAK using Vulkan"
+			}
+			"description" "PEAK using Vulkan"
+		}
+		"9"
+		{
+			"executable" "PEAK.exe"
+			"arguments" "-force-vulkan"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "internal-playtesting"
+			}
+			"description_loc"
+			{
+				"english" "Steam Deck Default"
+			}
+			"description" "Steam Deck Default"
+		}
+	}
+}
+"depots"
+{
+	"3527291"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7148631796631984089"
+				"size" "7788299441"
+				"download" "1907138400"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "21262632"
+			"timeupdated" "1766172254"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000"
+	"maxnumfiles" "10"
+}
+"_missing_token" "False"
+"_change_number" "32911198"
+"_sha" "73e7f0cb1d500252b97b666192c01b6d0e5e7dec"
+"_size" "7403"
