@@ -1,0 +1,158 @@
+"appid" "682100"
+"common"
+{
+	"name" "All Evil Night"
+	"type" "Game"
+	"oslist" "windows,linux"
+	"osarch" ""
+	"logo" "fd9cf2c740141a75da90fa8aa17b9575806e9795"
+	"logo_small" "fd9cf2c740141a75da90fa8aa17b9575806e9795_thumb"
+	"icon" "52a538f2c1cabc5d38ac22b9cbb0bfcf6fc90178"
+	"clienticon" "22d8aae288b1616361162fc9c01b39d7b45085f9"
+	"clienttga" "0911b7effb9a3925ea655892609e267dec530aca"
+	"releasestate" "released"
+	"restricted_countries" "DE"
+	"metacritic_name" "All Evil Night"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_366e9dffcd1fd04b99e6a620aa7dc71165732aaf.jpg"
+	"store_asset_mtime" "1502376976"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mikhail Ramanouski"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Mikhail Ramanousk"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "All Evil Night"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1493622000"
+	"steam_release_date" "1503336819"
+	"community_hub_visible" "1"
+	"gameid" "682100"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "492"
+		"2" "21"
+		"3" "1667"
+	}
+	"review_score" "5"
+	"review_percentage" "48"
+}
+"extended"
+{
+	"developer" "Mikhail Ramanouski"
+	"publisher" "Mikhail Ramanousk"
+	"homepage" "http://starsashes.com/"
+}
+"config"
+{
+	"installdir" "All Evil Night"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "All Evil Night.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "AllEvilNight.x86"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"hasdepotsindlc" "0"
+	"682101"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "811502764924320690"
+				"size" "592076057"
+				"download" "234632688"
+			}
+		}
+	}
+	"682102"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8931730157966776952"
+				"size" "597284695"
+				"download" "235723728"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2068546"
+			"timeupdated" "1503674837"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "7b047a2d886c74eeb4dc1a07cf669cc27f9561f7"
+"_size" "2536"
