@@ -1,0 +1,135 @@
+"appid" "3359640"
+"common"
+{
+	"name" "ARK: Survival Ascended DevKit"
+	"type" "Tool"
+	"parent" "2399830"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "3c1546488725d43835e3a05645d3072e99e0c621"
+	"clienttga" "cd48da01ba019629a67ee8ddca05ae3bb7ff6835"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "3359640_eula_1"
+			"name" "ARK: Survival Ascended DevKit EULA"
+			"url" "https://store.steampowered.com//eula/3359640_eula_1"
+			"version" "1"
+		}
+	}
+	"icon" "c460d30e15d5988ec2fc5d8b464cc9c6752561d8"
+	"releasestate" "released"
+	"freetodownload" "1"
+	"gameid" "3359640"
+}
+"config"
+{
+	"installdir" "ARKDevkit"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "\\Engine\\Binaries\\Win64\\ShooterGameEditor.exe"
+			"arguments" "ShooterGame/ShooterGame.uproject -Installed -log -DontBuildEditorGrass -AllowPCG -NetDriverOverrides=/Script/OnlineSubsystemUtils.IpNetDriver -ddc=NoZenLocalFallback"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch Editor"
+			}
+			"description" "Launch Editor"
+		}
+	}
+}
+"depots"
+{
+	"3359641"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7274809959593214564"
+				"size" "257030863478"
+				"download" "50573268752"
+			}
+		}
+	}
+	"3359642"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1546426126460097890"
+				"size" "377788461003"
+				"download" "345658057072"
+			}
+		}
+	}
+	"3359643"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3142461089788714881"
+				"size" "373082448760"
+				"download" "336968151536"
+			}
+		}
+	}
+	"3359644"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6705198351158083604"
+				"size" "16402262826"
+				"download" "10090246512"
+			}
+		}
+	}
+	"3359645"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8404873254975140454"
+				"size" "16402150620"
+				"download" "11320735584"
+			}
+		}
+	}
+	"3359646"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2876156951038082359"
+				"size" "17396507323"
+				"download" "12531164336"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "21338568"
+			"timeupdated" "1767146198"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "33022466"
+"_sha" "9a0932175326e0af26234322bca6a68a1aa993ca"
+"_size" "2234"
