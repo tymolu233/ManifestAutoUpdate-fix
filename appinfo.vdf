@@ -1,0 +1,349 @@
+"appid" "2744880"
+"common"
+{
+	"name" "Climber Animals: Together"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "d61fbdf2a35e03754c842dbf57a0a0bae69baa2c"
+	"clienttga" "090bacb5f59ff0590b0cdb0c4d46e2c2fc4efdcb"
+	"clienticon" "2f7a04aba09cf0fb6ba04197b3ec7a0edc388b57"
+	"market_presence" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1743552000"
+		"tested_build_id" "17627893"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "4f2efd12c5ddf2da023a4aae2be92421c5c54132/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "42f90b9a6946a3f0eb3165a44e67d802fc500b01/header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "51.470160870818944"
+			"height_pct" "72.7256992948503"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "e6532bb364a5f17d733d729bc2bc16fc45937f2b/library_capsule.jpg"
+			}
+			"image2x"
+			{
+				"english" "e6532bb364a5f17d733d729bc2bc16fc45937f2b/library_capsule_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "51.470160870818944"
+				"height_pct" "72.7256992948503"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "f2bd0ea541bd489a37f9122fcd96972f12c13eef/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "f2bd0ea541bd489a37f9122fcd96972f12c13eef/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1771678286"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Devotion Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Devotion Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Devotion"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_25" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1711127238"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2744880"
+	"store_tags"
+	{
+		"0" "7178"
+		"1" "3968"
+		"2" "599"
+		"3" "1625"
+		"4" "597"
+		"5" "5537"
+		"6" "5395"
+		"7" "4026"
+		"8" "3859"
+		"9" "1685"
+		"10" "3843"
+		"11" "21"
+		"12" "8666"
+		"13" "4036"
+		"14" "4136"
+		"15" "4562"
+		"16" "4195"
+		"17" "4711"
+		"18" "4182"
+		"19" "3877"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "Devotion Interactive"
+	"publisher" "Devotion Interactive"
+}
+"config"
+{
+	"installdir" "Climber Animals Together"
+	"uselaunchcommandline" "1"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Climber Animals Together.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "Climber Animals Together.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"2744881"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6753953480199824698"
+				"size" "576862628"
+				"download" "128404064"
+			}
+		}
+	}
+	"2744882"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2775600430647277054"
+				"size" "672733763"
+				"download" "181234672"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "22038131"
+			"timeupdated" "1771782703"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "81920"
+	"maxnumfiles" "1024"
+}
+"_missing_token" "False"
+"_change_number" "34144139"
+"_sha" "c55649edbdf6956f2ea63aac8cd5efa852219d20"
+"_size" "6184"
