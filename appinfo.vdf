@@ -1,0 +1,531 @@
+"appid" "2479810"
+"common"
+{
+	"name" "Gray Zone Warfare"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "ca56095c6c464caf846590898beba429d0f75fe9"
+	"clienticon" "5203b4e561810a0ba8eda202d4d50132a7d82143"
+	"clienttga" "9339844120b59247214a097ef79084977423264b"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2479810_eula_0"
+			"name" "Gray Zone Warfare EULA"
+			"url" "https://store.steampowered.com//eula/2479810_eula_0"
+			"version" "1"
+		}
+	}
+	"exfgls" "1"
+	"name_localized"
+	{
+		"schinese" "灰区战争"
+		"koreana" "그레이 존 워페어"
+		"japanese" "グレーゾーン・ウォーフェア"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"steamos_compatibility" "1"
+		"test_timestamp" "1715904000"
+		"tested_build_id" "14223852"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamOS_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "db6f54dbbf7e354e339396df2717419bd108f5bb/capsule_231x87.jpg"
+		"schinese" "64b412b6e2afb188113c157ec0d90b082877aa36/capsule_231x87_schinese.jpg"
+		"japanese" "343bf323ee7e708812259ba2f7947628a245fd5e/capsule_231x87_japanese.jpg"
+		"koreana" "8cb385fa4aa562a1c99f3286a50255a0f6d8d482/capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "cbf65dafc3aad7c2ed1b8191680f1bfd9a07dbf5/header.jpg"
+		"schinese" "11cfc3344ae8dfd2117ac4371e67032371ef867d/header_schinese.jpg"
+		"japanese" "2981ab8d690027928c070913bfa8de3eba9f036b/header_japanese.jpg"
+		"koreana" "433e68e9e926f24673ee138e28d0a84cac90c71f/header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,ko,ja"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,zh-cn,ja,ko"
+		"library_header" "en,ja,zh-cn,ko"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "26.945385404658253"
+			"height_pct" "77.7005989603947"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "4c9caa4b0a69799abfc7294874c105d7309eed58/library_capsule.jpg"
+				"schinese" "2304d413d34fc311f058877fc8186950c2a1b1b3/library_capsule_schinese.jpg"
+				"koreana" "ca7356a4bf637c43a27be6ad5781e5e8c902023a/library_capsule_koreana.jpg"
+				"japanese" "ed321575f0f00b6710db6d785f9030b0c79eecfb/library_capsule_japanese.jpg"
+			}
+			"image2x"
+			{
+				"english" "4c9caa4b0a69799abfc7294874c105d7309eed58/library_capsule_2x.jpg"
+				"schinese" "2304d413d34fc311f058877fc8186950c2a1b1b3/library_capsule_schinese_2x.jpg"
+				"koreana" "ca7356a4bf637c43a27be6ad5781e5e8c902023a/library_capsule_koreana_2x.jpg"
+				"japanese" "ed321575f0f00b6710db6d785f9030b0c79eecfb/library_capsule_japanese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "00f1206dfc0436d81b77f322a544da3a75be4eca/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "00f1206dfc0436d81b77f322a544da3a75be4eca/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "00f1206dfc0436d81b77f322a544da3a75be4eca/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "26.945385404658253"
+				"height_pct" "77.7005989603947"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "b698bc3d3412bf0d5a1872b2e681d8ae38e80d90/logo_schinese.png"
+				"japanese" "710a8226195b7e4f312cf0bc9e306d2ccccbb1c1/logo_japanese.png"
+				"koreana" "f043ab4dd668eda9e29aa5ab3fea48b75e62c19f/logo_koreana.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "b698bc3d3412bf0d5a1872b2e681d8ae38e80d90/logo_schinese_2x.png"
+				"japanese" "710a8226195b7e4f312cf0bc9e306d2ccccbb1c1/logo_japanese_2x.png"
+				"koreana" "f043ab4dd668eda9e29aa5ab3fea48b75e62c19f/logo_koreana_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "ed86bb2145e1e8f7d24f16d7a106e96a48fcca0a/library_header.jpg"
+				"japanese" "5592ffaa7363d492e1f20dcc8fd5fd2330a71613/library_header_japanese.jpg"
+				"schinese" "f02fac39d4158955afb17f16840dba6c8a1296e2/library_header_schinese.jpg"
+				"koreana" "aee4d55bebfa4f84dbaef7388d3aaf0a6f2f7be4/library_header_koreana.jpg"
+			}
+			"image2x"
+			{
+				"english" "ed86bb2145e1e8f7d24f16d7a106e96a48fcca0a/library_header_2x.jpg"
+				"japanese" "5592ffaa7363d492e1f20dcc8fd5fd2330a71613/library_header_japanese_2x.jpg"
+				"schinese" "f02fac39d4158955afb17f16840dba6c8a1296e2/library_header_schinese_2x.jpg"
+				"koreana" "aee4d55bebfa4f84dbaef7388d3aaf0a6f2f7be4/library_header_koreana_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1772807614"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "MADFINGER Games, a.s."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "MADFINGER Games, a.s."
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "29"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_20" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_68" "1"
+		"category_69" "1"
+		"category_70" "1"
+		"category_74" "1"
+		"category_66" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1714469880"
+	"community_hub_visible" "1"
+	"gameid" "2479810"
+	"content_descriptors_including_dlc"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"store_tags"
+	{
+		"0" "1663"
+		"1" "1708"
+		"2" "4175"
+		"3" "1199779"
+		"4" "599"
+		"5" "1695"
+		"6" "4168"
+		"7" "1774"
+		"8" "19"
+		"9" "3878"
+		"10" "6730"
+		"11" "5765"
+		"12" "1775"
+		"13" "5673"
+		"14" "3859"
+		"15" "3843"
+		"16" "1662"
+		"17" "1678"
+		"18" "128"
+		"19" "493"
+	}
+	"review_score" "5"
+	"review_percentage" "69"
+}
+"extended"
+{
+	"developer" "MADFINGER Games, a.s."
+	"publisher" "MADFINGER Games, a.s."
+	"homepage" "https://grayzonewarfare.com/"
+	"listofdlc" "2633470,2914230,2955580"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Gray Zone Warfare"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GZWClientEAC.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "default"
+			}
+		}
+		"14"
+		{
+			"executable" "GZWClient.exe"
+			"arguments" "-MatchmakingGroup=marketing -noEAC -noAnybrain -NakamaEndpoint=MFGReleaseNightly"
+			"type" "default"
+			"config"
+			{
+				"betakey" "marketing,marketing-temp"
+			}
+		}
+		"24"
+		{
+			"executable" "GZWClient.exe"
+			"arguments" "-NakamaEndpoint=MFGExternal -MatchmakingGroup=external-test  -noEAC -noAnybrain"
+			"type" "default"
+			"config"
+			{
+				"betakey" "external-test"
+			}
+		}
+		"25"
+		{
+			"executable" "GZW\\Binaries\\Win64\\GZWClientSteam-Win64-DebugGame.exe"
+			"arguments" "-NakamaEndpoint=MFGExternal -MatchmakingGroup=external-dev -noEAC -noAnybrain"
+			"type" "default"
+			"config"
+			{
+				"betakey" "external-dev"
+			}
+		}
+		"26"
+		{
+			"executable" "GZWClientEAC.exe"
+			"arguments" "-NakamaEndpoint=MFGExternal -MatchmakingGroup=external-shipping"
+			"type" "default"
+			"config"
+			{
+				"betakey" "external-shipping"
+			}
+		}
+		"35"
+		{
+			"executable" "GZWClientEAC.exe"
+			"arguments" "-NakamaEndpoint=MFGReleaseNightly -MatchmakingGroup=external-anybrain"
+			"type" "default"
+			"config"
+			{
+				"betakey" "external-anybrain"
+			}
+		}
+		"36"
+		{
+			"executable" "GZW\\Binaries\\Win64\\GZWClientSteam-Win64-Test.exe"
+			"arguments" "-NakamaEndpoint=MFGExternal -MatchmakingGroup=external-nvidia -noeac -noanybrain"
+			"type" "default"
+			"config"
+			{
+				"betakey" "external-nvidia"
+			}
+		}
+		"37"
+		{
+			"executable" "GZWClientEAC.exe"
+			"arguments" "-OfflineNakama -MatchmakingGroup=external-test -noeac -noanybrain"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "external-test"
+			}
+			"description_loc"
+			{
+				"english" "Offline Mode"
+			}
+			"description" "Offline Mode"
+		}
+		"38"
+		{
+			"executable" "GZW\\Binaries\\Win64\\GZWClientSteam-Win64-DebugGame.exe"
+			"arguments" "-OfflineNakama -MatchmakingGroup=external-dev -noeac -noanybrain -dpcvars=\"r.FidelityFX.FSR3.UseNativeDX12=1,r.FidelityFX.FI.OverrideSwapChainDX12=1,r.FidelityFX.FSR3.UseRHI=0\""
+			"type" "option1"
+			"config"
+			{
+				"betakey" "external-dev"
+			}
+			"description_loc"
+			{
+				"english" "Offline Mode"
+			}
+			"description" "Offline Mode"
+		}
+		"39"
+		{
+			"executable" "GZW\\Binaries\\Win64\\GZWClientSteam-Win64-Shipping.exe"
+			"arguments" "-NakamaEndpoint=MFGReleaseNightly -MatchmakingGroup=external-anticheat -noEAC"
+			"type" "default"
+			"config"
+			{
+				"betakey" "external-anticheat"
+			}
+		}
+		"40"
+		{
+			"executable" "GZWClientEAC.exe"
+			"arguments" "-NakamaEndpoint=MFGExternal -MatchmakingGroup=external-nvidia -DpCVars=\"r.PSOPrecaching=0\""
+			"type" "option1"
+			"config"
+			{
+				"betakey" "external-nvidia"
+			}
+			"description_loc"
+			{
+				"english" "without PSO precaching"
+			}
+			"description" "without PSO precaching"
+		}
+		"41"
+		{
+			"executable" "GZWClientEAC.exe"
+			"arguments" "-NakamaEndpoint=MFGExternal -MatchmakingGroup=external-ope"
+			"type" "default"
+			"config"
+			{
+				"betakey" "external-ope"
+			}
+		}
+		"42"
+		{
+			"executable" "GZWClientEAC.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "staging"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2479811"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8875462436778172420"
+				"size" "22107592526"
+				"download" "17668075568"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,japanese,polish,czech,turkish,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "22200160"
+			"timeupdated" "1772720586"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "34275711"
+"_sha" "f08b9ae29decbbb9fbcbda917fd8b5595e80b18a"
+"_size" "11987"
