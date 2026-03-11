@@ -1,0 +1,523 @@
+"appid" "410900"
+"common"
+{
+	"name" "Forts"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"logo" "c1f613d7eaea84e15dd67f4caf8cd2438380be1b"
+	"logo_small" "c1f613d7eaea84e15dd67f4caf8cd2438380be1b_thumb"
+	"icon" "6f66ef3d1d16c7ce05df792b879f9a799221e3da"
+	"clienttga" "f6074190296d77bd9d270c8ae6a500152d2ea962"
+	"clienticon" "eb31410233662accfc2bb99254a73323b43ecf7a"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"hungarian" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"osarch" "64"
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1660780800"
+		"tested_build_id" "8593940"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-3"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Forts"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1756650759"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "EarthWork Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "EarthWork Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Forts"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_17" "1"
+		"category_30" "1"
+		"category_25" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_47" "1"
+		"category_48" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_13" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"slovak"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1492585200"
+	"steam_release_date" "1492599600"
+	"metacritic_score" "74"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/forts\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "410900"
+	"store_tags"
+	{
+		"0" "7332"
+		"1" "3859"
+		"2" "3968"
+		"3" "9"
+		"4" "5363"
+		"5" "1643"
+		"6" "3810"
+		"7" "1669"
+		"8" "4168"
+		"9" "19"
+		"10" "3871"
+		"11" "1708"
+		"12" "10397"
+		"13" "4182"
+		"14" "4136"
+		"15" "8122"
+		"16" "492"
+		"17" "4004"
+		"18" "3964"
+		"19" "17337"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"gamedir" "forts"
+	"serverbrowsername" "Forts"
+	"developer" "EarthWork Games"
+	"publisher" "EarthWork Games"
+	"homepage" "http://www.earthworkgames.com"
+	"listofdlc" "1033530,1335840,1811550,2278070,3977280"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Forts"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Forts.exe"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "410900"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,hungarian,turkish,brazilian"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"410901"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6900370758149136372"
+				"size" "5"
+				"download" "64"
+			}
+		}
+	}
+	"410902"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3892884393846149881"
+				"size" "5"
+				"download" "64"
+			}
+		}
+	}
+	"410903"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8961747676790644048"
+				"size" "2495447628"
+				"download" "1703455472"
+			}
+		}
+	}
+	"410904"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+	}
+	"410905"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+	}
+	"1033530"
+	{
+		"dlcappid" "1033530"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6390040428661354196"
+				"size" "257358530"
+				"download" "249910800"
+			}
+		}
+	}
+	"1811550"
+	{
+		"dlcappid" "1811550"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5868607906115744484"
+				"size" "225036347"
+				"download" "199955808"
+			}
+		}
+	}
+	"3977280"
+	{
+		"dlcappid" "3977280"
+		"manifests"
+		{
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "21896261"
+			"timeupdated" "1770877583"
+			"timebuildupdated" "1770875337"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "5000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "users/{64BitSteamID}"
+			"pattern" "settings.lua"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "users/{64BitSteamID}"
+			"pattern" "keys.lua"
+		}
+		"3"
+		{
+			"root" "gameinstall"
+			"path" "users/{64BitSteamID}/campaigns"
+			"pattern" "*.lua"
+			"recursive" "1"
+		}
+		"4"
+		{
+			"root" "gameinstall"
+			"path" "users/{64BitSteamID}/campaigns"
+			"pattern" "*.fgs"
+			"recursive" "1"
+		}
+		"5"
+		{
+			"root" "gameinstall"
+			"path" "users/{64BitSteamID}/campaigns"
+			"pattern" "*.rkf"
+			"recursive" "1"
+		}
+		"6"
+		{
+			"root" "gameinstall"
+			"path" "users/{64BitSteamID}/campaigns"
+			"pattern" "*.bak"
+			"recursive" "1"
+		}
+		"7"
+		{
+			"root" "gameinstall"
+			"path" "users/{64BitSteamID}"
+			"pattern" "trainingMapProgress.lua"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "34351876"
+"_sha" "c2a3e95e4ecf7fd8e5916ec80feedcd01bb839c7"
+"_size" "9077"
