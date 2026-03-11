@@ -1,0 +1,409 @@
+"appid" "1909840"
+"common"
+{
+	"name" "JIANGHU CHRONICLES"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"clienttga" "6dfab02b3c6faa918460cd9ece3b14b2889e5533"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "江湖录"
+		"tchinese" "江湖錄"
+		"japanese" "江湖年代記"
+		"sc_schinese" "江湖录"
+	}
+	"clienticon" "528e9751fda384136b500a16d8a078bf0acd4b0e"
+	"icon" "947df13a56594f35c64e08c44ac16f6ef1cc8690"
+	"releasestate" "released"
+	"releasestatesteamchina" "prerelease"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1751932800"
+		"tested_build_id" "15411457"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "93390dc2efff07f5c888228a88716da7bba8572f/capsule_231x87.jpg"
+		"sc_schinese" "4bc1ec785597d94b66bbde30e43396a6603a2182/capsule_231x87_sc_schinese.jpg"
+		"tchinese" "03ae6f55fdb905771d157b74330a7879368b33e3/capsule_231x87_tchinese.jpg"
+		"schinese" "4bc1ec785597d94b66bbde30e43396a6603a2182/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"sc_schinese" "d62d2c762501861274bd4fb38acbe39c175c6d08/header_sc_schinese.jpg"
+		"english" "90dbbe224ca320eb56d9dd67b3d0b5a20ca3be51/header.jpg"
+		"tchinese" "fe089ade892633be189d35774f3c4cc42009aae9/header_tchinese.jpg"
+		"schinese" "d62d2c762501861274bd4fb38acbe39c175c6d08/header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-xc,zh-tw,zh-cn"
+		"library_hero" "en,zh-xc"
+		"library_hero_blur" "en,zh-xc"
+		"library_logo" "en,zh-xc,zh-tw,zh-cn"
+		"library_header" "en,zh-xc,zh-tw,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "62.36872812135357"
+			"height_pct" "50.00000000000001"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "61575b54d99034f936265bc6a59945ef63a1d468/library_capsule.jpg"
+				"sc_schinese" "ae06d6408f2962600293f9a6b0ba4cdde851d442/library_capsule_sc_schinese.jpg"
+				"tchinese" "49bf369a7b5e425a26b7f7892bfa81b0c33676a3/library_capsule_tchinese.jpg"
+				"schinese" "ae06d6408f2962600293f9a6b0ba4cdde851d442/library_capsule_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "61575b54d99034f936265bc6a59945ef63a1d468/library_capsule_2x.jpg"
+				"sc_schinese" "ae06d6408f2962600293f9a6b0ba4cdde851d442/library_capsule_sc_schinese_2x.jpg"
+				"tchinese" "49bf369a7b5e425a26b7f7892bfa81b0c33676a3/library_capsule_tchinese_2x.jpg"
+				"schinese" "ae06d6408f2962600293f9a6b0ba4cdde851d442/library_capsule_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "5a7e3adb46d50e35113f7b57b6957f6249f3e8c8/library_hero.jpg"
+				"sc_schinese" "5a7e3adb46d50e35113f7b57b6957f6249f3e8c8/library_hero_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "5a7e3adb46d50e35113f7b57b6957f6249f3e8c8/library_hero_2x.jpg"
+				"sc_schinese" "5a7e3adb46d50e35113f7b57b6957f6249f3e8c8/library_hero_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "5a7e3adb46d50e35113f7b57b6957f6249f3e8c8/library_hero_blur.jpg"
+				"sc_schinese" "5a7e3adb46d50e35113f7b57b6957f6249f3e8c8/library_hero_blur_sc_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "62.36872812135357"
+				"height_pct" "50.00000000000001"
+			}
+			"image"
+			{
+				"english" "3ebecf7446240a379ebe44213173404df291d8f1/logo.png"
+				"sc_schinese" "71db1e8b6490637745d294c55bed6a5281f763ed/logo_sc_schinese.png"
+				"tchinese" "8e6c83162db2706e77ef64c4ccdbf3f12c48b691/logo_tchinese.png"
+				"schinese" "71db1e8b6490637745d294c55bed6a5281f763ed/logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "3ebecf7446240a379ebe44213173404df291d8f1/logo_2x.png"
+				"sc_schinese" "71db1e8b6490637745d294c55bed6a5281f763ed/logo_sc_schinese_2x.png"
+				"tchinese" "8e6c83162db2706e77ef64c4ccdbf3f12c48b691/logo_tchinese_2x.png"
+				"schinese" "71db1e8b6490637745d294c55bed6a5281f763ed/logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "90dbbe224ca320eb56d9dd67b3d0b5a20ca3be51/library_header.jpg"
+				"sc_schinese" "d62d2c762501861274bd4fb38acbe39c175c6d08/library_header_sc_schinese.jpg"
+				"tchinese" "fe089ade892633be189d35774f3c4cc42009aae9/library_header_tchinese.jpg"
+				"schinese" "d62d2c762501861274bd4fb38acbe39c175c6d08/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "90dbbe224ca320eb56d9dd67b3d0b5a20ca3be51/library_header_2x.jpg"
+				"sc_schinese" "d62d2c762501861274bd4fb38acbe39c175c6d08/library_header_sc_schinese_2x.jpg"
+				"tchinese" "fe089ade892633be189d35774f3c4cc42009aae9/library_header_tchinese_2x.jpg"
+				"schinese" "d62d2c762501861274bd4fb38acbe39c175c6d08/library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1763435088"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "一品阁"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "方块游戏(CubeGame)"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "CubeGame"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_17" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1762344009"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1909840"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "7332"
+		"2" "6915"
+		"3" "1720"
+		"4" "4106"
+		"5" "21"
+		"6" "3987"
+		"7" "3813"
+		"8" "4975"
+		"9" "4791"
+		"10" "599"
+		"11" "5300"
+		"12" "4182"
+		"13" "4231"
+		"14" "9204"
+		"15" "3993"
+		"16" "3834"
+		"17" "4191"
+		"18" "15172"
+		"19" "492"
+	}
+	"review_score" "6"
+	"review_percentage" "70"
+}
+"extended"
+{
+	"developer" "一品阁"
+	"publisher" "方块游戏(CubeGame)"
+}
+"config"
+{
+	"installdir" "JianghuChronicles"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "JHL.exe"
+			"type" "default"
+			"description_loc"
+			{
+				"english" "JHL_Game"
+			}
+			"description" "JHL_Game"
+		}
+	}
+	"steamdecktouchscreen" "5"
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "8"
+	"steamconfigurator3rdpartynative" "65526"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"1909841"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "483702628900535422"
+				"size" "4840664595"
+				"download" "1464102400"
+			}
+			"preview"
+			{
+				"gid" "483702628900535422"
+				"size" "4840664595"
+				"download" "1464102400"
+			}
+			"v0.7.5.5"
+			{
+				"gid" "7189122062071165414"
+				"size" "3587420900"
+				"download" "941935712"
+			}
+		}
+	}
+	"workshopdepot" "1909840"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "21551045"
+			"timeupdated" "1768809093"
+			"timebuildupdated" "1768806395"
+		}
+		"preview"
+		{
+			"buildid" "21551045"
+			"description" "Public preview branch"
+			"timeupdated" "1768806487"
+			"timebuildupdated" "1768806395"
+		}
+		"v0.7.5.5"
+		{
+			"buildid" "16882307"
+			"description" "不支持自创武学的旧版本"
+			"timeupdated" "1741921841"
+			"timebuildupdated" "1735657805"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "150"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Yipinge/JHL/JHL_SAV/"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "34351876"
+"_sha" "d21856754259dfc35433f0eb46d20583cb68865a"
+"_size" "9835"
