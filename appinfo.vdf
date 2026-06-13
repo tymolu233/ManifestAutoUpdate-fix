@@ -1,0 +1,215 @@
+"appid" "3376140"
+"common"
+{
+	"name" "武侠幸存者"
+	"type" "Game"
+	"icon" "3a0255d19b607cc841ae2b54a0d27fdf1843342e"
+	"clienticon" "9a02b2c30e851877b862407a882006905c37998b"
+	"clienttga" "6bc7feb1e845c40634ba6f75fbba500df5977fe4"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "096137bac28633987cc7d2b1f42453bd2210c0f0/capsule_231x87.jpg"
+		"schinese" "5171356610721e66438c69c52163faa61301b91d/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "bfcbfa4b1bfb595c32344871ffe4dceb997c075f/header_schinese.jpg"
+		"english" "8bb227428c33f79cb414f5472dab629d7a51c2be/header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "11ab32656f2114086360a6da461db4e6dc460b15/library_600x900.jpg"
+				"schinese" "0e729f59bc09d4ec63878da4f4d62a9a76fe8648/library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "11ab32656f2114086360a6da461db4e6dc460b15/library_600x900_2x.jpg"
+				"schinese" "0e729f59bc09d4ec63878da4f4d62a9a76fe8648/library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "59be1ceaca79cfdbbc8e906ddc164e5ea804f534/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "59be1ceaca79cfdbbc8e906ddc164e5ea804f534/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "59be1ceaca79cfdbbc8e906ddc164e5ea804f534/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "fc2cdd70434ddf10311f23f7072537ab89df4ca4/logo.png"
+				"schinese" "d338d8187d7a3c6cd5a39a4cf4cc3e31b238decf/logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "fc2cdd70434ddf10311f23f7072537ab89df4ca4/logo_2x.png"
+				"schinese" "d338d8187d7a3c6cd5a39a4cf4cc3e31b238decf/logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "41eab0eafc58e45b485163e01ecb1afcf837185f/library_header.jpg"
+				"schinese" "ab1e3dc7b5fe7170450c3a0ecddd47891a7825e4/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "41eab0eafc58e45b485163e01ecb1afcf837185f/library_header_2x.jpg"
+				"schinese" "ab1e3dc7b5fe7170450c3a0ecddd47891a7825e4/library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1746780949"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "wuxiaxingcunzhe"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "wuxiaxingcun"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1751273056"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3376140"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "42804"
+		"2" "4255"
+		"3" "492"
+		"4" "3871"
+		"5" "6915"
+		"6" "4182"
+		"7" "9"
+		"8" "122"
+		"9" "1676"
+		"10" "5379"
+	}
+	"review_score" "7"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "wuxiaxingcunzhe"
+	"publisher" "wuxiaxingcun"
+}
+"config"
+{
+	"installdir" "WuXiaSteam"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WuXia.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"3376141"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5547464614910663738"
+				"size" "1112065457"
+				"download" "203442208"
+			}
+		}
+	}
+	"baselanguages" "schinese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19176010"
+			"timeupdated" "1752207129"
+			"timebuildupdated" "1752153023"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "36523922"
+"_sha" "ec13cbc489c40441b64a02649c6fad9a0d3ba62a"
+"_size" "4276"
