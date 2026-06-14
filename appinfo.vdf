@@ -1,0 +1,528 @@
+"appid" "675010"
+"common"
+{
+	"name" "MudRunner"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"icon" "d2b0866fee9f3085b752b98d0b9bf2972256f24f"
+	"logo" "62ee94de87516875fb89383c13611170ae82d597"
+	"logo_small" "62ee94de87516875fb89383c13611170ae82d597_thumb"
+	"releasestate" "released"
+	"clienticon" "e3b5e1350d28b26d5801f2c1e81e49755371e0a0"
+	"clienttga" "63f6e3c0cf8962a13be2dcf7d4b0b8fc25c6ace6"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "675010_eula_0"
+			"name" "MudRunner EULA"
+			"url" "https://store.steampowered.com//eula/675010_eula_0"
+			"version" "1"
+		}
+	}
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "7642815"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "MudRunner: A Spintires Game"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "49"
+			"height_pct" "39"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49"
+				"height_pct" "39"
+			}
+		}
+	}
+	"store_asset_mtime" "1668533167"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Saber Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Focus Entertainment"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_2" "1"
+		"category_38" "1"
+		"category_30" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_27" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1509404640"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "675010"
+	"store_tags"
+	{
+		"0" "7622"
+		"1" "599"
+		"2" "3859"
+		"3" "1100687"
+		"4" "1644"
+		"5" "4175"
+		"6" "1695"
+		"7" "3968"
+		"8" "1685"
+		"9" "3843"
+		"10" "5348"
+		"11" "1669"
+		"12" "4182"
+		"13" "3810"
+		"14" "3834"
+		"15" "21"
+		"16" "4166"
+		"17" "699"
+		"18" "3839"
+		"19" "1697"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Saber Interactive"
+	"publisher" "Focus Entertainment"
+	"homepage" "https://www.focus-home.com/games/mudrunner-mobile"
+	"listofdlc" "782230,816790,891810,1024110"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "MudRunner"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "MudRunner.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"baselanguages" ""
+	"workshopdepot" "675010"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"675011"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6626797682746782139"
+				"size" "1480819661"
+				"download" "1446682896"
+			}
+			"ver_11_05_19"
+			{
+				"gid" "7737494849812654145"
+				"size" "1463086137"
+				"download" "1448675840"
+			}
+			"ver_18_01_29b"
+			{
+				"gid" "5753443626041903674"
+				"size" "878017657"
+				"download" "863717824"
+			}
+			"ver_18_03_06"
+			{
+				"gid" "7552570298660215188"
+				"size" "878619986"
+				"download" "864471456"
+			}
+		}
+	}
+	"675012"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"675013"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"675014"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"675015"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"675016"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"675017"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"675018"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"675019"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"740380"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4011678127815497258"
+				"size" "0"
+				"download" "0"
+			}
+			"ver_11_05_19"
+			{
+				"gid" "4011678127815497258"
+				"size" "0"
+				"download" "0"
+			}
+			"ver_18_01_29b"
+			{
+				"gid" "4011678127815497258"
+				"size" "0"
+				"download" "0"
+			}
+			"ver_18_03_06"
+			{
+				"gid" "4011678127815497258"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"740381"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9640861"
+			"timeupdated" "1664877065"
+			"timebuildupdated" "1664786632"
+		}
+		"ver_11_05_19"
+		{
+			"buildid" "4103694"
+			"timeupdated" "1606406330"
+			"timebuildupdated" "1565765360"
+		}
+		"ver_18_01_29b"
+		{
+			"buildid" "2528792"
+			"timeupdated" "1522759685"
+			"timebuildupdated" "1518705714"
+		}
+		"ver_18_03_06"
+		{
+			"buildid" "2579124"
+			"timeupdated" "1527516916"
+			"timebuildupdated" "1520318892"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "SpinTires MudRunner/UserSaves"
+			"pattern" "*.sts"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "SpinTires MudRunner"
+			"pattern" "*.stu"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "36136919"
+"_sha" "2a2b8100fe301759dbb7fea4444b98a8d8be735c"
+"_size" "8596"
